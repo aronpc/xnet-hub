@@ -280,7 +280,7 @@ export default function App() {
           prev={posts[focusedIdx - 1] || null} next={posts[focusedIdx + 1] || null}
           idx={focusedIdx} count={posts.length} go={go} />
         <footer className="foot">
-          <span>{HANDLE[perfil]} · gerado por IA</span>
+          <span>{HANDLE[perfil]}</span>
           <a className="xnet" href={SITE[perfil === 'news' ? 'btc' : 'news']}>ver {HANDLE[perfil === 'news' ? 'btc' : 'news']} →</a>
         </footer>
         <div className={'toast' + (toast ? ' show' : '')} role="status" aria-live="polite">{toast}</div>
@@ -319,7 +319,7 @@ export default function App() {
       </main>
 
       <footer className="foot">
-        <span>{HANDLE[perfil]} · gerado por IA</span>
+        <span>{HANDLE[perfil]}</span>
         <a className="xnet" href={SITE[other]}>ver {HANDLE[other]} →</a>
       </footer>
 
