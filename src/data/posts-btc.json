@@ -1,0 +1,30 @@
+{
+  "perfil": "btc",
+  "posts": [
+    {
+      "id": "2026-07-13-18h30",
+      "date": "2026-07-13",
+      "time": "18h30",
+      "hook": "BTC cai 0,8% · viés baixa clara",
+      "caption": "Preço perdeu suporte, Δ1h e Δ24h negativos, F&G em medo. Níveis e smart money abaixo.",
+      "reportUrl": "https://xbtc.aronpc.dev",
+      "slides": [
+        { "title": "Preço · US$ 62.420", "body": "Δ1h −0,8% · Δ24h −2,1% · vol US$ 38 bi. F&G 32 (medo).", "source": "https://www.coingecko.com/en/coins/bitcoin" },
+        { "title": "Níveis", "body": "Suporte US$ 61,8k (−1%). Resistência US$ 63,4k (+1,6%).", "source": "https://www.binance.com/en/trade/BTC_USDT" },
+        { "title": "Smart money", "body": "Funding +0,01% e L/S 1,8 → longs lotados, cuidado com squeeze.", "source": "https://www.coinglass.com/FundingRate" },
+        { "title": "Gatilho", "body": "Perder US$ 61,8k → alvo US$ 60,5k. Segurar → repique até US$ 63,4k." }
+      ]
+    },
+    {
+      "id": "2026-07-13-17h30",
+      "date": "2026-07-13",
+      "time": "17h30",
+      "hook": "BTC lateral · espera rompimento",
+      "caption": "Consolidação apertada, volume baixo. Smart money neutro.",
+      "slides": [
+        { "title": "Preço · US$ 62.920", "body": "Δ1h −0,1% · Δ24h +0,4% · F&G 38." },
+        { "title": "Níveis", "body": "Range US$ 62,6k–63,4k. Rompimento define direção." }
+      ]
+    }
+  ]
+}

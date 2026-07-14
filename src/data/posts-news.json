@@ -1,0 +1,27 @@
+{
+  "perfil": "news",
+  "posts": [
+    {
+      "id": "2026-07-13",
+      "date": "2026-07-13",
+      "hook": "Radar IA — 13 de julho",
+      "caption": "Modelo que roda offline no celular, funding recorde em infra aberta e o eixo de agentes. 9 pontos do dia.",
+      "reportUrl": "https://xnews.aronpc.dev",
+      "slides": [
+        { "title": "OpenAI lança modelo offline", "body": "Roda no celular, sem nuvem. Mudança de paradigma pra privacidade e custo.", "source": "https://openai.com/news" },
+        { "title": "Funding recorde em infra aberta", "body": "Quase US$ 2,7 bi em 3 dias concentrados em modelos abertos e agentes.", "source": "https://techcrunch.com" },
+        { "title": "Agentes viram produto", "body": "Fleet de coding agents paralelos ganha tração; orquestração é o novo diferencial.", "source": "https://www.anthropic.com/news" }
+      ]
+    },
+    {
+      "id": "2026-07-12",
+      "date": "2026-07-12",
+      "hook": "5 skills de IA que valem em 2026",
+      "caption": "Do prompt à orquestração de agentes — o que efetivamente diferencia quem usa IA.",
+      "slides": [
+        { "title": "Escrever bons prompts", "body": "Contexto claro, exemplos e formato de saída. É a base de tudo." },
+        { "title": "Automatizar com agentes", "body": "Encadear tarefas e ferramentas sem escrever código." }
+      ]
+    }
+  ]
+}
