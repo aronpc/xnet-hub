@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xnews.aronpc.dev/sitemap.xml
+Sitemap: https://xbtc.aronpc.dev/sitemap.xml
