@@ -106,6 +106,23 @@ button { font-family:inherit; cursor:pointer; }
 .empty { text-align:center; color:var(--t3); padding:60px 0; font-size:16px; }
 .sentinel { height:1px; }
 
+/* detalhe (edição isolada) */
+.detail { padding-top:20px; animation:slideIn .28s ease; }
+.back { display:inline-flex; align-items:center; gap:6px; background:none; border:none; color:var(--t2); font-family:var(--font-mono); font-size:13px; font-weight:600; letter-spacing:.04em; padding:6px 0 18px; }
+.back:hover { color:var(--accent); }
+.detail-card { padding:30px 28px; }
+.detail-hook { font-size:33px; line-height:1.1; margin-bottom:2px; }
+.detail-card .caption { font-size:17px; }
+.detail-card .slides { margin-top:20px; }
+.foot-note { font-family:var(--font-mono); font-size:12px; color:var(--t3); letter-spacing:.04em; }
+.detail-nav { display:flex; gap:12px; margin-top:16px; }
+.nav-btn { flex:1; min-width:0; display:flex; flex-direction:column; gap:4px; background:var(--panel); border:1px solid var(--line); color:var(--t2); padding:14px 18px; border-radius:14px; text-align:left; transition:border-color .2s, color .2s; }
+.nav-btn.r { text-align:right; align-items:flex-end; }
+.nav-btn:hover:not(:disabled) { border-color:var(--accent); color:var(--t1); }
+.nav-btn:disabled { opacity:.32; cursor:default; }
+.nav-btn .na { font-family:var(--font-mono); font-size:12px; font-weight:600; letter-spacing:.04em; color:var(--accent); }
+.nav-btn .nd { font-size:14px; }
+
 /* footer */
 .foot { margin-top:48px; padding-top:24px; border-top:1px solid var(--line); display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap; font-family:var(--font-mono); font-size:12px; color:var(--t3); }
 .foot .xnet:hover { color:var(--accent); }
@@ -124,8 +141,11 @@ button { font-family:inherit; cursor:pointer; }
 @media (max-width:480px) {
   .brandword { font-size:42px; }
   .hook { font-size:22px; }
+  .detail-hook { font-size:26px; }
   .card { padding:20px; }
+  .detail-card { padding:22px 20px; }
   .hero { padding:40px 0 18px; }
+  .detail-nav { flex-direction:column; }
 }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior:auto; }

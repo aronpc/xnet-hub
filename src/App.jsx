@@ -32,6 +32,13 @@ function fmtDate(iso) {
   } catch { return iso }
 }
 
+function parseHash() {
+  const h = (typeof location !== 'undefined' ? location.hash : '').replace(/^#/, '')
+  if (!h) return { id: null, n: null }
+  const m = h.match(/^(.*?)(?:\.(\d+))?$/)
+  return { id: m ? decodeURIComponent(m[1]) : h, n: m && m[2] ? parseInt(m[2], 10) : null }
+}
+
 /* ---------- SEO: título, meta, Open Graph, canonical e JSON-LD dinâmicos ---------- */
 function upsert(sel, make) {
   let el = document.head.querySelector(sel)
@@ -39,46 +46,40 @@ function upsert(sel, make) {
   return el
 }
 function setMeta(name, content, attr = 'name') {
-  upsert(`meta[${attr}="${name}"]`, () => {
-    const m = document.createElement('meta'); m.setAttribute(attr, name); return m
-  }).setAttribute('content', content)
+  upsert(`meta[${attr}="${name}"]`, () => { const m = document.createElement('meta'); m.setAttribute(attr, name); return m }).setAttribute('content', content)
 }
 function setLink(rel, href) {
-  upsert(`link[rel="${rel}"]`, () => {
-    const l = document.createElement('link'); l.setAttribute('rel', rel); return l
-  }).setAttribute('href', href)
+  upsert(`link[rel="${rel}"]`, () => { const l = document.createElement('link'); l.setAttribute('rel', rel); return l }).setAttribute('href', href)
 }
-function useSEO(perfil, posts, loaded) {
+function useSEO(perfil, posts, loaded, post) {
   useEffect(() => {
-    const site = SITE[perfil], title = `${BRAND[perfil]}.ai · ${NOUN[perfil]}`, desc = DESC[perfil]
+    const site = SITE[perfil]
+    const title = post ? `${post.hook} · ${BRAND[perfil]}.ai` : `${BRAND[perfil]}.ai · ${NOUN[perfil]}`
+    const desc = post ? (post.caption || DESC[perfil]) : DESC[perfil]
+    const url = post ? `${site}/#${post.id}` : site + '/'
     document.title = title
     setMeta('description', desc)
     setMeta('theme-color', ACCENT[perfil])
-    setLink('canonical', site + '/')
+    setLink('canonical', url)
     document.documentElement.style.setProperty('--accent', ACCENT[perfil])
-    const og = [['og:type', 'website'], ['og:site_name', 'x Network'], ['og:title', title],
-      ['og:description', desc], ['og:url', site + '/'], ['og:image', site + '/og.png']]
+    const og = [['og:type', post ? 'article' : 'website'], ['og:site_name', 'x Network'], ['og:title', title],
+      ['og:description', desc], ['og:url', url], ['og:image', site + '/og.png']]
     og.forEach(([p, c]) => setMeta(p, c, 'property'))
     setMeta('twitter:card', 'summary_large_image')
-    setMeta('twitter:title', title); setMeta('twitter:description', desc)
-    setMeta('twitter:image', site + '/og.png')
-    // JSON-LD (ItemList das edições) — só quando os dados reais chegam
-    if (loaded && posts.length) {
-      const ld = {
-        '@context': 'https://schema.org', '@type': 'ItemList', name: title,
-        description: desc, url: site + '/',
-        itemListElement: posts.slice(0, 30).map((p, i) => ({
-          '@type': 'ListItem', position: i + 1,
-          item: { '@type': 'NewsArticle', headline: p.hook, description: p.caption,
-            datePublished: p.date, url: `${site}/#${p.id}`,
-            author: { '@type': 'Organization', name: HANDLE[perfil] } },
-        })),
-      }
-      let s = document.getElementById('ld-json')
-      if (!s) { s = document.createElement('script'); s.id = 'ld-json'; s.type = 'application/ld+json'; document.head.appendChild(s) }
-      s.textContent = JSON.stringify(ld)
+    setMeta('twitter:title', title); setMeta('twitter:description', desc); setMeta('twitter:image', site + '/og.png')
+    let s = document.getElementById('ld-json')
+    if (!s) { s = document.createElement('script'); s.id = 'ld-json'; s.type = 'application/ld+json'; document.head.appendChild(s) }
+    if (post) {
+      s.textContent = JSON.stringify({ '@context': 'https://schema.org', '@type': 'NewsArticle',
+        headline: post.hook, description: post.caption, datePublished: post.date, url,
+        author: { '@type': 'Organization', name: HANDLE[perfil] },
+        publisher: { '@type': 'Organization', name: 'x Network' } })
+    } else if (loaded && posts.length) {
+      s.textContent = JSON.stringify({ '@context': 'https://schema.org', '@type': 'ItemList', name: title, url,
+        itemListElement: posts.slice(0, 30).map((p, i) => ({ '@type': 'ListItem', position: i + 1,
+          item: { '@type': 'NewsArticle', headline: p.hook, description: p.caption, datePublished: p.date, url: `${site}/#${p.id}` } })) })
     }
-  }, [perfil, posts, loaded])
+  }, [perfil, posts, loaded, post])
 }
 
 /* ---------- compartilhamento ---------- */
@@ -118,64 +119,89 @@ function ShareMenu({ text, url, onCopy, label = 'compartilhar' }) {
   )
 }
 
-/* ---------- card ---------- */
-function Card({ p, perfil, base, focus, onCopy }) {
-  const [open, setOpen] = useState(() => focus.id === p.id)
-  useEffect(() => { if (focus.id === p.id) setOpen(true) }, [focus, p.id])
-  const editionUrl = `${base}#${p.id}`
+/* ---------- lista de notícias (reusada no card e no detalhe) ---------- */
+function Slides({ p, base, focusN, onCopy }) {
+  return (
+    <ol className="slides">
+      {p.slides.map((s, i) => {
+        const sid = `${p.id}.${i + 1}`
+        return (
+          <li key={i} id={sid} className={focusN === i + 1 ? 'slide-hit' : ''}>
+            <span className="slide-num">{String(i + 1).padStart(2, '0')}</span>
+            <div className="slide-body">
+              <div className="slide-t">{s.title}</div>
+              {s.body && <div className="slide-b">{s.body}</div>}
+              <div className="slide-foot">
+                {s.source && <a className="src" href={s.source} target="_blank" rel="noopener">fonte ↗</a>}
+                <button className="anchor" onClick={() => onCopy(`${base}#${sid}`)} aria-label="copiar link desta notícia">🔗 link</button>
+              </div>
+            </div>
+          </li>
+        )
+      })}
+    </ol>
+  )
+}
+
+/* ---------- card do feed (índice: preview clicável) ---------- */
+function Card({ p, perfil, base, onCopy, go }) {
+  const n = p.slides?.length || 0
   return (
     <article className="card" id={p.id}>
       <div className="card-top">
         <span className="kicker">{TAG[perfil]}</span>
         <span className="date">{fmtDate(p.date)}{p.time ? ` · ${p.time}` : ''}</span>
       </div>
-      <h2 className="hook">
-        <button className="hook-btn" onClick={() => setOpen(o => !o)} aria-expanded={open}>{p.hook}</button>
-      </h2>
+      <h2 className="hook"><a className="hook-btn" href={`#${p.id}`} onClick={(e) => { e.preventDefault(); go('#' + p.id) }}>{p.hook}</a></h2>
       <p className="caption">{p.caption}</p>
-      {open && p.slides && (
-        <ol className="slides">
-          {p.slides.map((s, i) => {
-            const sid = `${p.id}.${i + 1}`
-            const hit = focus.id === p.id && focus.n === i + 1
-            return (
-              <li key={i} id={sid} className={hit ? 'slide-hit' : ''}>
-                <span className="slide-num">{String(i + 1).padStart(2, '0')}</span>
-                <div className="slide-body">
-                  <div className="slide-t">{s.title}</div>
-                  {s.body && <div className="slide-b">{s.body}</div>}
-                  <div className="slide-foot">
-                    {s.source && <a className="src" href={s.source} target="_blank" rel="noopener">fonte ↗</a>}
-                    <button className="anchor" title="copiar link desta notícia"
-                      onClick={() => onCopy(`${base}#${sid}`)} aria-label="copiar link desta notícia">🔗 link</button>
-                  </div>
-                </div>
-              </li>
-            )
-          })}
-        </ol>
-      )}
       <div className="card-foot">
-        {p.slides && <button className="expand" onClick={() => setOpen(o => !o)} aria-expanded={open}>{open ? 'ver menos' : `ver ${p.slides.length} pontos`}</button>}
-        <ShareMenu text={`${p.hook} — ${HANDLE[perfil]}`} url={editionUrl} onCopy={onCopy} label="link desta edição" />
+        {n > 0 && <a className="expand" href={`#${p.id}`} onClick={(e) => { e.preventDefault(); go('#' + p.id) }}>abrir · {n} notícia{n > 1 ? 's' : ''} →</a>}
+        <ShareMenu text={`${p.hook} — ${HANDLE[perfil]}`} url={`${base}#${p.id}`} onCopy={onCopy} label="link desta edição" />
       </div>
     </article>
   )
 }
 
-function Skeleton() {
+/* ---------- vista de detalhe: só a edição e suas notícias ---------- */
+function DetailView({ p, perfil, base, focusN, onCopy, prev, next, idx, count, go }) {
+  useEffect(() => {
+    const t = setTimeout(() => {
+      const el = focusN ? document.getElementById(`${p.id}.${focusN}`) : null
+      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' })
+      else window.scrollTo({ top: 0 })
+    }, 90)
+    return () => clearTimeout(t)
+  }, [p.id, focusN])
   return (
-    <div className="card sk" aria-hidden="true">
-      <div className="sk-line w40" /><div className="sk-line w80 tall" /><div className="sk-line w100" /><div className="sk-line w60" />
+    <div className="detail">
+      <button className="back" onClick={() => go('')}>← todas as {NOUN[perfil]}</button>
+      <article className="card detail-card" id={p.id}>
+        <div className="card-top">
+          <span className="kicker">{TAG[perfil]}</span>
+          <span className="date">{fmtDate(p.date)}{p.time ? ` · ${p.time}` : ''}{count ? ` · ${idx + 1}/${count}` : ''}</span>
+        </div>
+        <h1 className="hook detail-hook">{p.hook}</h1>
+        <p className="caption">{p.caption}</p>
+        {p.slides && <Slides p={p} base={base} focusN={focusN} onCopy={onCopy} />}
+        <div className="card-foot">
+          <span className="foot-note">{p.slides ? `${p.slides.length} notícia${p.slides.length > 1 ? 's' : ''}` : ''}</span>
+          <ShareMenu text={`${p.hook} — ${HANDLE[perfil]}`} url={`${base}#${p.id}`} onCopy={onCopy} label="compartilhar" />
+        </div>
+      </article>
+      <nav className="detail-nav">
+        <button className="nav-btn" disabled={!prev} onClick={() => prev && go('#' + prev.id)}>
+          {prev ? <><span className="na">← mais recente</span><span className="nd">{fmtDate(prev.date)}{prev.time ? ` · ${prev.time}` : ''}</span></> : '—'}
+        </button>
+        <button className="nav-btn r" disabled={!next} onClick={() => next && go('#' + next.id)}>
+          {next ? <><span className="na">mais antiga →</span><span className="nd">{fmtDate(next.date)}{next.time ? ` · ${next.time}` : ''}</span></> : '—'}
+        </button>
+      </nav>
     </div>
   )
 }
 
-function parseHash() {
-  const h = (typeof location !== 'undefined' ? location.hash : '').replace(/^#/, '')
-  if (!h) return { id: null, n: null }
-  const m = h.match(/^(.*?)(?:\.(\d+))?$/)
-  return { id: m ? m[1] : h, n: m && m[2] ? parseInt(m[2], 10) : null }
+function Skeleton() {
+  return (<div className="card sk" aria-hidden="true"><div className="sk-line w40" /><div className="sk-line w80 tall" /><div className="sk-line w100" /><div className="sk-line w60" /></div>)
 }
 
 export default function App() {
@@ -200,91 +226,96 @@ export default function App() {
   }, [perfil])
 
   const posts = data.posts || []
-  useSEO(perfil, posts, loaded)
+  const focusedIdx = focus.id ? posts.findIndex(p => p.id === focus.id) : -1
+  const focusedPost = focusedIdx >= 0 ? posts[focusedIdx] : null
+  useSEO(perfil, posts, loaded, focusedPost)
+
+  useEffect(() => {
+    const onHash = () => { setFocus(parseHash()); window.scrollTo({ top: 0 }) }
+    window.addEventListener('hashchange', onHash)
+    return () => window.removeEventListener('hashchange', onHash)
+  }, [])
+
+  const go = useCallback((hash) => {
+    const h = (hash || '').replace(/^#/, '')
+    if (h) { if (decodeURIComponent(location.hash.replace(/^#/, '')) !== h) location.hash = h; else setFocus(parseHash()) }
+    else { history.pushState('', '', location.pathname + location.search); setFocus({ id: null, n: null }) }
+    window.scrollTo({ top: 0 })
+  }, [])
+
+  const copy = useCallback((url) => {
+    try { navigator.clipboard?.writeText(url) } catch {}
+    setToast('Link copiado'); setTimeout(() => setToast(''), 1800)
+  }, [])
 
   // busca
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase()
     if (!q) return posts
-    return posts.filter(p => {
-      const hay = [p.hook, p.caption, ...(p.slides || []).flatMap(s => [s.title, s.body])].join(' ').toLowerCase()
-      return hay.includes(q)
-    })
+    return posts.filter(p => [p.hook, p.caption, ...(p.slides || []).flatMap(s => [s.title, s.body])].join(' ').toLowerCase().includes(q))
   }, [posts, query])
   useEffect(() => { setVisible(PAGE) }, [query, perfil])
 
-  // reage ao hash (permalink de edição/notícia)
-  useEffect(() => {
-    const onHash = () => setFocus(parseHash())
-    window.addEventListener('hashchange', onHash)
-    return () => window.removeEventListener('hashchange', onHash)
-  }, [])
-  // garante que o alvo do permalink esteja visível (paginação) e scrolla até ele
-  useEffect(() => {
-    if (!focus.id) return
-    const idx = filtered.findIndex(p => p.id === focus.id)
-    if (idx >= 0 && idx + 1 > visible) setVisible(idx + 2)
-    const t = setTimeout(() => {
-      const el = document.getElementById(focus.n ? `${focus.id}.${focus.n}` : focus.id)
-      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' })
-    }, 120)
-    return () => clearTimeout(t)
-  }, [focus, filtered, loaded])
-
-  // scroll infinito + header compacto
+  // scroll infinito + header compacto (só no feed)
   const sentinel = useRef(null)
   useEffect(() => {
+    if (focusedPost) return
     const el = sentinel.current
     if (!el) return
     const io = new IntersectionObserver(es => { if (es[0].isIntersecting) setVisible(v => Math.min(v + PAGE, filtered.length)) }, { rootMargin: '400px' })
     io.observe(el)
     return () => io.disconnect()
-  }, [filtered.length])
+  }, [filtered.length, focusedPost])
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 240)
     window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
   }, [])
 
-  const copy = useCallback((url) => {
-    try { navigator.clipboard?.writeText(url) } catch {}
-    if (url.includes('#')) history.replaceState(null, '', url.slice(url.indexOf('#')))
-    setToast('Link copiado'); setTimeout(() => setToast(''), 1800)
-  }, [])
+  // ----- VISTA DE DETALHE (edição isolada) -----
+  if (focusedPost) {
+    return (
+      <div className="app" style={{ ['--accent']: ACCENT[perfil] }}>
+        <DetailView p={focusedPost} perfil={perfil} base={base} focusN={focus.n} onCopy={copy}
+          prev={posts[focusedIdx - 1] || null} next={posts[focusedIdx + 1] || null}
+          idx={focusedIdx} count={posts.length} go={go} />
+        <footer className="foot">
+          <span>{HANDLE[perfil]} · gerado por IA</span>
+          <a className="xnet" href={SITE[perfil === 'news' ? 'btc' : 'news']}>ver {HANDLE[perfil === 'news' ? 'btc' : 'news']} →</a>
+        </footer>
+        <div className={'toast' + (toast ? ' show' : '')} role="status" aria-live="polite">{toast}</div>
+      </div>
+    )
+  }
+  // edição pedida na URL mas ainda não carregou / inexistente
+  if (focus.id && !loaded) {
+    return <div className="app" style={{ ['--accent']: ACCENT[perfil] }}><div className="detail"><Skeleton /></div></div>
+  }
 
+  // ----- FEED (índice) -----
   const shown = filtered.slice(0, visible)
   const other = perfil === 'news' ? 'btc' : 'news'
-
   return (
     <div className="app" style={{ ['--accent']: ACCENT[perfil] }}>
       <header className={'hero' + (scrolled ? ' compact' : '')}>
-        <a className="brandline" href="#top" aria-label={`${BRAND[perfil]}.ai — topo`}>
+        <a className="brandline" href="#top" onClick={(e) => { e.preventDefault(); window.scrollTo({ top: 0, behavior: 'smooth' }) }} aria-label={`${BRAND[perfil]}.ai — topo`}>
           <span className="dot" />
           <span className="brandword"><span className="x">{BRAND[perfil][0]}</span>{BRAND[perfil].slice(1)}<span className="dim">.ai</span></span>
         </a>
         <p className="sub">{loaded ? `${posts.length} ${NOUN[perfil]}` : 'carregando…'}</p>
         <div className="searchbar">
-          <input type="search" value={query} onChange={e => setQuery(e.target.value)}
-            placeholder={`Buscar em ${NOUN[perfil]}…`} aria-label="Buscar" />
+          <input type="search" value={query} onChange={e => setQuery(e.target.value)} placeholder={`Buscar em ${NOUN[perfil]}…`} aria-label="Buscar" />
           {query && <button className="clear" onClick={() => setQuery('')} aria-label="limpar busca">×</button>}
         </div>
       </header>
 
       <main className="feed" id="top">
         {!loaded && Array.from({ length: 4 }).map((_, i) => <Skeleton key={i} />)}
-        {loaded && shown.length === 0 && (
-          <p className="empty">{query ? `Nada encontrado para “${query}”.` : 'Nenhum post ainda. Em breve.'}</p>
-        )}
-        {shown.map(p => <Card key={p.id} p={p} perfil={perfil} base={base} focus={focus} onCopy={copy} />)}
-        {query && loaded && filtered.length > 0 && (
-          <p className="count">{filtered.length} resultado{filtered.length > 1 ? 's' : ''}</p>
-        )}
+        {loaded && shown.length === 0 && <p className="empty">{query ? `Nada encontrado para “${query}”.` : 'Nenhum post ainda. Em breve.'}</p>}
+        {shown.map(p => <Card key={p.id} p={p} perfil={perfil} base={base} onCopy={copy} go={go} />)}
+        {query && loaded && filtered.length > 0 && <p className="count">{filtered.length} resultado{filtered.length > 1 ? 's' : ''}</p>}
         <div ref={sentinel} className="sentinel" aria-hidden="true" />
-        {visible < filtered.length && (
-          <button className="more" onClick={() => setVisible(v => Math.min(v + PAGE, filtered.length))}>
-            Carregar mais ({filtered.length - visible})
-          </button>
-        )}
+        {visible < filtered.length && <button className="more" onClick={() => setVisible(v => Math.min(v + PAGE, filtered.length))}>Carregar mais ({filtered.length - visible})</button>}
       </main>
 
       <footer className="foot">
