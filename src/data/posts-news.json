@@ -70,7 +70,7 @@
       ]
     },
     {
-      "id": "2026-07-13",
+      "id": "skills-mcp-2026-07-13",
       "date": "2026-07-13",
       "hook": "Skills & MCP — 13 de julho",
       "caption": "Skills deixam de ser coisa só da Anthropic: o Codex, da OpenAI, adotou o padrão de SKILL.md. E dois MCPs novos encostam direto em projetos de memória — um knowledge graph com score de confiança e um indexador de sessões entre ferramentas. O subtexto da edição é confiança: quem escreve skill e quem roda agente passa a precisar de proveniência e recall.",
@@ -138,6 +138,158 @@
         {
           "title": "O que está mudando",
           "body": "Três movimentos definiram a semana. Skills viraram padrão cross-tool — o Codex adotou SKILL.md, e quem escreve skill agora pensa em portabilidade. Confiança virou questão de infra: o MyKG pontua cada nó do grafo e o /doctor passou a fazer a higiene de contexto que antes era manual. E a memória ganhou um indexador cross-ferramenta no Sessions. Pra quem vive de agentes, o recado é um só: proveniência e recall deixaram de ser opcional. A gente se vê no próximo radar!"
+        }
+      ]
+    },
+    {
+      "id": "projetos-2026-07-13",
+      "date": "2026-07-13",
+      "hook": "Projetos & Mercado — 13 de julho",
+      "caption": "A semana foi de capital recorde: quase 2,7 bilhões de dólares em três dias, concentrados em infra para modelos abertos e agentes. Nenhum item é ferramenta direta pro stack — mas o dinheiro revela o eixo de construção do momento: quem está sendo financiado disputa preço e custo das labs fechadas, e constrói o chão sob os agentes.",
+      "slides": [
+        {
+          "title": "Projetos & Mercado — 13 de julho",
+          "body": "A semana foi de capital recorde: quase 2,7 bilhões de dólares em três dias, concentrados em infra para modelos abertos e agentes. Nenhum item é ferramenta direta pro stack — mas o dinheiro revela o eixo de construção do momento: quem está sendo financiado disputa preço e custo das labs fechadas, e constrói o chão sob os agentes."
+        },
+        {
+          "title": "Together AI levanta US$ 800 mi a US$ 8,3 bi — Aramco Ventures lidera",
+          "body": "A Together AI, infra para treinar e rodar modelos abertos, captou 800 milhões de dólares em Série C a uma avaliação de 8,3 bilhões — mais que o dobro da rodada anterior — com a Aramco Ventures liderando.",
+          "source": {
+            "label": "NYT — 1 jul",
+            "url": "https://www.nytimes.com/2026/07/01/business/dealbook/together-ai-funding.html"
+          }
+        },
+        {
+          "title": "Norm AI vira unicorn — IA de compliance e regtech",
+          "body": "A Norm AI, startup de IA para conformidade regulatória, alcançou status de unicórnio numa Série C anunciada na leva de rodadas de 6 a 8 de julho.",
+          "source": {
+            "label": "scouts.yutori — 7 jul",
+            "url": "https://scouts.yutori.com/68f22e10-d5fe-4e94-1c8-9c6218cfdb2c"
+          }
+        },
+        {
+          "title": "Oxmiq Labs: US$ 35 mi com Raja Koduri (ex-Intel)",
+          "body": "A Oxmiq Labs, liderada pelo ex-chefe de gráficas da Intel Raja Koduri, captou 35 milhões de dólares em Série A para hardware de IA.",
+          "source": {
+            "label": "startupcorners — 2 jul",
+            "url": "https://startupcorners.com/digest/funding-digest-2026-07-02"
+          }
+        },
+        {
+          "title": "Velocity: US$ 27 mi em seed para infra de agentes",
+          "body": "A Velocity, startup de infraestrutura para IA e agentes, captou 27 milhões de dólares em seed, na mesma janela em que agentes como o GPT-Live estrearam.",
+          "source": {
+            "label": "scouts.yutori — 8 jul",
+            "url": "https://scouts.yutori.com/840eef3d-2f47-41db-8a72-976b67d1a0e0"
+          }
+        },
+        {
+          "title": "Bespoke Labs: US$ 40 mi (seed + Série A) para infra de agentes",
+          "body": "A Bespoke Labs levantou 40 milhões de dólares no total, entre seed e Série A, com participação de investidores de IA de destaque, para infraestrutura de agentes.",
+          "source": {
+            "label": "AI Agents Directory — 7 jul",
+            "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-july-7-2026"
+          }
+        },
+        {
+          "title": "Oito rodadas de IA em 6-8/jul somam ~US$ 2,66 bi",
+          "body": "Um levantamento do scouts by yutori contabiliza oito rodadas de IA entre 6 e 8 de julho, totalizando cerca de 2,66 bilhões de dólares — com a Norm AI (unicorn) entre os destaques.",
+          "source": {
+            "label": "scouts.yutori — 7 jul",
+            "url": "https://scouts.yutori.com/68f22e10-d5fe-4e94-1c8-9c6218cfdb2c"
+          }
+        },
+        {
+          "title": "Strattum AI (Brasil) recebe investimento da Basis Set Ventures",
+          "body": "A startup brasileira Strattum AI recebeu investimento da Basis Set Ventures, gestora early-stage de IA, divulgado nos canais da gestora em julho.",
+          "source": {
+            "label": "basisset — jul",
+            "url": "https://www.basisset.com/"
+          }
+        },
+        {
+          "title": "Leva de 10/jul: agentes, dev tooling e voz-first",
+          "body": "Segundo o startupcorners, 10 de julho foi um 'dia cheio' de lançamentos de produto, concentrados em infraestrutura para agentes, ferramentas de desenvolvedor e experiências voice-first.",
+          "source": {
+            "label": "startupcorners — 10 jul",
+            "url": "https://startupcorners.com/digest"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O dinheiro da semana fala uma língua só: infra. Capital recorde — quase 2,7 bilhões em três dias — foi para quem treina e roda modelos abertos (Together AI) e para quem constrói o chão sob os agentes (Velocity e Bespoke). Nenhum item é ferramenta direta pro stack, mas o sinal é claro: o barateamento de open models e o eixo voz-first seguem sendo financiados — o que sustenta um setup de roteamento barato e de TTS. A gente se vê no próximo radar!"
+        }
+      ]
+    },
+    {
+      "id": "ia-2026-07-13",
+      "date": "2026-07-13",
+      "hook": "Radar IA — 13 de julho",
+      "caption": "A economia do modelo topo de linha virou pré-pago: o Fable 5 passa a ser cobrado por uso, a preço de API. E, no mesmo dia, uma pesquisa quantifica em 57% o problema exato que projetos de memória tentam resolver — agentes 'confidentemente errados'. São os dois eixos da edição: quanto custa o token no topo, e quanto custa confiar num agente.",
+      "slides": [
+        {
+          "title": "Radar IA — 13 de julho",
+          "body": "A economia do modelo topo de linha virou pré-pago: o Fable 5 passa a ser cobrado por uso, a preço de API. E, no mesmo dia, uma pesquisa quantifica em 57% o problema exato que projetos de memória tentam resolver — agentes 'confidentemente errados'. São os dois eixos da edição: quanto custa o token no topo, e quanto custa confiar num agente."
+        },
+        {
+          "title": "Fable 5 deixa de ser 'incluso' e vira cobrança por uso a preço de API",
+          "body": "A partir de 13 de julho, todo token do Fable 5 nos planos pagos (Pro, Max e Team) passa a ser cobrado via 'usage credits' pré-pagos ao preço de API: dez dólares por milhão de tokens de entrada e cinquenta por milhão de saída — o dobro do modelo anterior — fora do limite semanal da assinatura.",
+          "source": {
+            "label": "digitalapplied — 13 jul",
+            "url": "https://www.digitalapplied.com/blog/claude-fable-5-usage-credits-july-7-pricing-guide-2026"
+          }
+        },
+        {
+          "title": "57% das empresas já viram agentes 'confidentemente errados'",
+          "body": "Reportagem da VentureBeat de 12 de julho aponta que 57% das empresas observaram agentes de IA agindo 'confidentemente errados' — o caso em que o agente age convencido da resposta errada, eixo central do problema de contexto e alucinação em produção.",
+          "source": {
+            "label": "VentureBeat — 12 jul",
+            "url": "https://venturebeat.com/"
+          }
+        },
+        {
+          "title": "Poolside libera o Laguna XS 2.1 de graça no OpenRouter",
+          "body": "A Poolside colocou o Laguna XS 2.1 disponível de graça no OpenRouter em 2 de julho — modelo voltado a geração e coding agêntico, sem custo de acesso na plataforma.",
+          "source": {
+            "label": "pricepertoken — 2 jul",
+            "url": "https://pricepertoken.com/news/model-releases"
+          }
+        },
+        {
+          "title": "Google lança o Gemini 3.1 Flash Lite Image — a 'Nano Banana 2 Lite'",
+          "body": "O Google lançou em 1º de julho um gerador de imagem mais rápido e barato, o Gemini 3.1 Flash Lite Image, vendido como 'Nano Banana 2 Lite', disponível pelo Google AI Studio a vinte e cinco centavos de entrada e um dólar e cinquenta de saída por milhão.",
+          "source": {
+            "label": "pricepertoken — 1 jul",
+            "url": "https://pricepertoken.com/news/model-releases"
+          }
+        },
+        {
+          "title": "OpenAI prepara IPO confidencial com Goldman e Morgan Stanley",
+          "body": "A OpenAI estaria preparando um registro confidencial de IPO com Goldman Sachs e Morgan Stanley, com estreia pública possível já em setembro de 2026.",
+          "source": {
+            "label": "buildfastwithai — 12 jul",
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-12-2026"
+          }
+        },
+        {
+          "title": "Janela de julho: Gemini 3.5 Pro mira 17/jul; DeepSeek V4 GA tem prazo 24/jul",
+          "body": "O TechTimes projeta a janela de lançamentos de julho: o Gemini 3.5 Pro tem data-alvo em 17 de julho, e o DeepSeek V4 em versão geral — após preview desde 24 de abril — tem prazo em 24 de julho.",
+          "source": {
+            "label": "TechTimes — 8 jul",
+            "url": "https://www.techtimes.com/articles/319877/20260708/gemini-35-pro-targets-july-17-deepseeks-july-24-deadline-hits-developers-now.htm"
+          }
+        },
+        {
+          "title": "VC dos EUA: US$ 412,7 bi no 1º semestre, ~30% acima de todo 2025",
+          "body": "Segundo a PitchBook, via SiliconANGLE de 9 de julho, o venture funding dos EUA somou 412 vírgula 7 bilhões de dólares no primeiro semestre de 2026 — quase 30% acima de TODO o ano de 2025 — com os deals de IA dominando o volume.",
+          "source": {
+            "label": "SiliconANGLE — 9 jul",
+            "url": "https://siliconangle.com/2026/07/09/pitchbook-us-venture-funding-hits-412-7b-first-half-ai-deals-dominate/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Do eixos definiram o dia. O custo: o Fable 5 vira pré-pago a preço de API, o coding ganha um modelo grátis no OpenRouter e a imagem chega a vinte e cinco centavos por milhão. E a confiança: 57% das empresas já convivem com agentes confidentemente errados — o número que justifica investir em memória e contexto. Pra quem roda agentes, a conta fecha dupla: token barato não serve de nada se o agente age convicto e errado. A gente se vê no próximo radar!"
         }
       ]
     },
