@@ -1,20 +1,21 @@
-import { useState } from 'react'
-import postsNews from './data/posts-news.json'
-import postsBtc from './data/posts-btc.json'
+import { useState, useEffect } from 'react'
+import postsNewsFallback from './data/posts-news.json'
+import postsBtcFallback from './data/posts-btc.json'
 
 const ACCENT = { news: '#2F6BFF', btc: '#F7931A' }
 const HANDLE = { news: '@xnews.ai', btc: '@xbtc.ai' }
 const NOUN   = { news: 'novidades de IA', btc: 'análises de Bitcoin' }
 const TAG    = { news: 'IA · Notícia', btc: 'BTC · Análise' }
+// Fonte de dados dinâmica: GitHub raw do repo aronpc/xnet-hub (público, ~5min cache).
+// O pipeline (crons) commita posts-<perfil>.json aqui → hub reflete sem redeploy do Pages.
+const RAW = (perfil) => `https://raw.githubusercontent.com/aronpc/xnet-hub/main/src/data/posts-${perfil}.json`
 
 function perfilFromHost() {
   const h = (typeof location !== 'undefined' ? location.hostname : '') || ''
   if (h.includes('xbtc')) return 'btc'
   if (h.includes('xnews')) return 'news'
-  // ?perfil=btc na querystring (preview/dev)
   const qs = (typeof location !== 'undefined' ? location.search : '')
-  if (qs.includes('perfil=btc')) return 'btc'
-  return 'news'   // default
+  return qs.includes('perfil=btc') ? 'btc' : 'news'
 }
 
 function fmtDate(iso) {
@@ -63,8 +64,20 @@ function Card({ p, perfil, accent }) {
 
 export default function App() {
   const perfil = perfilFromHost()
-  const data = perfil === 'btc' ? postsBtc : postsNews
   const accent = ACCENT[perfil], handle = HANDLE[perfil]
+  const fallback = perfil === 'btc' ? postsBtcFallback : postsNewsFallback
+  const [data, setData] = useState(fallback)
+  const [loaded, setLoaded] = useState(false)
+
+  useEffect(() => {
+    let done = false
+    fetch(RAW(perfil), { cache: 'no-cache' })
+      .then(r => r.ok ? r.json() : Promise.reject(new Error(String(r.status))))
+      .then(j => { if (!done) { setData(j); setLoaded(true) } })
+      .catch(() => { if (!done) { setData(fallback); setLoaded(true) } })
+    return () => { done = true }
+  }, [perfil])
+
   const posts = data.posts || []
   return (
     <div className="app" style={{ ['--accent']: accent }}>
@@ -73,7 +86,7 @@ export default function App() {
         <div className="brandword">
           <span style={{ color: accent }}>x</span>{perfil === 'news' ? 'news' : 'btc'}<span className="dim">.ai</span>
         </div>
-        <p className="sub">{posts.length} {NOUN[perfil]} · atualizado continuamente</p>
+        <p className="sub">{posts.length} {NOUN[perfil]}{loaded ? '' : ' · carregando…'}</p>
       </header>
 
       <main className="feed">
