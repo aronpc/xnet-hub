@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-14-19h34",
+      "date": "2026-07-14",
+      "time": "19h34",
+      "hook": "BTC em ALTA em US$ 64.896 · rali fresco colado na máxima 24h com F&G em medo extremo",
+      "caption": "Preço colado na máxima 24h ($65,1k) após +4,6% no dia, mas medo extremo (22) deixa folga para a alta.",
+      "slides": [
+        {
+          "title": "BTC ensaia rompimento com o sentimento gelado",
+          "body": "Preço colado na máxima 24h ($65,1k) após +4,6% no dia, mas medo extremo (22) deixa folga para a alta."
+        },
+        {
+          "title": "US$ 64.896",
+          "body": "Δ1h +0,42% · Δ24h +4,63% · vol $30,7B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Δ1h positivo e preço na máxima 24h · Smart Money: funding +0,009% + L/S 1,20 (sem squeeze)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Acima de $65,1k com volume → mira $67,0k",
+          "body": "Suporte $61,5k (−5,23%) · Resistência $65,5k (+0,93%)"
+        },
+        {
+          "title": "F&G 22 · Medo Extremo",
+          "body": "Divergência: rali na máxima 24h com sentimento ainda no fundo — combustível para a alta."
+        }
+      ]
+    },
+    {
       "id": "2026-07-14-17h30",
       "date": "2026-07-14",
       "time": "17h30",
