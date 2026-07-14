@@ -2,6 +2,74 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "2026-07-14",
+      "date": "2026-07-14",
+      "hook": "Radar IA · 14 jul",
+      "caption": "O dia tem dois eixos. A guerra de capacidade virou guerra de retenção: a Anthropic estende de novo o acesso grátis ao Fable 5 pra segurar assinantes logo após o GPT-5.6 Sol. E a conta física disso aparece em recordes de infra — TSMC, Meta e Tower no mesmo dia — enquanto a Nvidia fecha o cerco sobre quem compra chip.",
+      "slides": [
+        {
+          "title": "Radar IA — 14 de julho",
+          "body": "O dia tem dois eixos. A guerra de capacidade virou guerra de retenção: a Anthropic estende de novo o acesso grátis ao Fable 5 pra segurar assinantes logo após o GPT-5.6 Sol. E a conta física disso aparece em recordes de infra — TSMC, Meta e Tower no mesmo dia — enquanto a Nvidia fecha o cerco sobre quem compra chip."
+        },
+        {
+          "title": "Anthropic estende o acesso grátis ao Fable 5 pela 2ª vez, até 19/jul",
+          "body": "Pela segunda vez em duas semanas, a Anthropic prorrogou o acesso ampliado ao Fable 5 (Pro, Max, Team e Enterprise) até 19 de julho às 23h59 no Pacífico, mantendo o aumento de 50% no limite semanal de uso. A extensão veio logo depois de a OpenAI liberar amplamente o GPT-5.6 Sol.",
+          "source": {
+            "label": "Forbes — 13 jul",
+            "url": "https://www.forbes.com/sites/tylerroush/2026/07/13/ai-model-wars-anthropic-extends-fable-access-again-after-openais-sol-release/"
+          }
+        },
+        {
+          "title": "O dinheiro de infra bate recordes: TSMC, Meta e Tower no mesmo dia",
+          "body": "A TSMC reportou receita recorde no 2º trimestre — cerca de US$ 39,6 bilhões (T$ 1,27 tri), +36% a/a, puxada por IA (call de resultados em 16/jul). A Meta elevou o datacenter Hyperion, na Louisiana, para 5 GW e mais de US$ 50 bilhões (ante US$ 27 bi e 2 GW). E a Tower Semiconductor anunciou US$ 3 bilhões em fotônica de silício no Japão pra acelerar a interconexão entre chips.",
+          "source": {
+            "label": "Taipei Times / CNBC — 13-14 jul",
+            "url": "https://www.taipeitimes.com/News/biz/archives/2026/07/14/2003860683"
+          }
+        },
+        {
+          "title": "Nvidia corta pela metade a lista de compradores de chips de IA na Ásia",
+          "body": "A Nvidia reduziu a menos da metade o número de clientes asiáticos autorizados a comprar seus chips de IA, criando uma 'white list' após reforçar a due diligence em Singapura, Malásia e Japão — chega a enviar equipe aos datacenters pra checar contratos e entrevistar quem usa. Os cortados, sobretudo neo-clouds menores, podem reaplicar provando posse e uso.",
+          "source": {
+            "label": "Financial Times via Yahoo — 14 jul",
+            "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-halves-asia-buyer-list-033140201.html"
+          }
+        },
+        {
+          "title": "DeepSeek mira nova rodada a US$ 71 bilhões pré-money",
+          "body": "A DeepSeek começou conversas com investidores para uma nova rodada mirando valuation pré-money de US$ 71 bilhões — salto frente aos cerca de US$ 50 bi (pós-money) de poucas semanas atrás, segundo o Financial Times e a Bloomberg.",
+          "source": {
+            "label": "Bloomberg — 14 jul",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-14/deepseek-mulls-new-funding-weeks-after-7-billion-round-ft-says"
+          }
+        },
+        {
+          "title": "Pulsar: rodar um MoE gigante (GLM-5.2, 743B) numa GPU de consumidor",
+          "body": "Um dev solo (giannisanni) lançou o Pulsar, engine de inferência em Rust+CUDA que faz streaming dos 'experts' de modelos MoE gigantes direto do NVMe, mantendo só o roteador na VRAM. Nos benchmarks do próprio repo (RTX 5060 Ti 16 GB), roda o GLM-5.2 de 743B a ~2 tok/s e o Hy3 295B a ~7 tok/s — 10x+ acima do engine de referência em C.",
+          "source": {
+            "label": "GitHub · giannisanni/pulsar — 13 jul",
+            "url": "https://github.com/giannisanni/pulsar"
+          }
+        },
+        {
+          "title": "200+ economistas e 16 Nobel pedem ação sobre o impacto econômico da IA",
+          "body": "A declaração 'We Must Act Now: A Statement on AI's Transformation of the Economy', organizada pelo Stanford Digital Economy Lab (Erik Brynjolfsson, Ajay Agrawal, Anton Korinek, Tom Cunningham), reuniu mais de 200 economistas e pesquisadores — entre eles 16 laureados com o Nobel — pedindo preparo urgente para os efeitos da IA sobre trabalho, renda e concentração de mercado.",
+          "source": {
+            "label": "Stanford Digital Economy Lab — 13 jul",
+            "url": "https://digitaleconomy.stanford.edu/news/wemustactnow/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A guerra de capacidade virou guerra de retenção — a Anthropic paga em acesso grátis pra não perder base pro GPT-5.6 Sol. A conta física aparece nos recordes de TSMC, Meta e Tower e no cerco da Nvidia sobre quem compra chip. No contra-fluxo, o builder rota em volta da escassez — engines como o Pulsar rodam modelo-gigante em GPU de casa. Próximo marco: 17/jul, com o Gemini 3.5 Pro e a abertura da WAIC em Xangai."
+        },
+        {
+          "title": "Salva e compartilha",
+          "body": "Radar IA todo dia: modelos, agentes, infra e o que muda pra quem constrói. Segue @xnews.ai."
+        }
+      ]
+    },
+    {
       "id": "2026-07-13",
       "date": "2026-07-13",
       "hook": "Radar IA — 13 de julho",
