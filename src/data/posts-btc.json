@@ -2,32 +2,33 @@
   "perfil": "btc",
   "posts": [
     {
-      "id": "2026-07-13",
-      "date": "2026-07-13",
-      "hook": "BTC · fechamento do dia · viés de baixa",
-      "caption": "Dia de queda (-3,3%) com BTC em US$ 62.015, pressionado por saídas persistentes de ETFs e maior correlação com o macro. Sentimento em Medo (28/100); preço roça o suporte de US$ 61.850. Risco: perda de US$ 61,8 mil abre caminho a US$ 58 mil — mas fluxos de ETF voltaram a entrar em julho e a SEC sinaliza postura neutra, mantendo um rebote sazonal \"frágil\" na mesa.",
-      "reportUrl": "https://xbtc.aronpc.dev",
+      "id": "2026-07-14-08h31",
+      "date": "2026-07-14",
+      "time": "08h31",
+      "hook": "BTC LATERAL em US$ 62.793 · medo extremo (F&G 22) no topo do range",
+      "caption": "F&G em 22 enquanto o BTC pressiona a resistência de $63,0k",
       "slides": [
         {
-          "title": "Fechamento · US$ 62.015",
-          "body": "Δ24h -3,32% · vol US$ 29,5B · F&G 28 · dominância 55.9%",
+          "title": "Medo extremo no topo do range",
+          "body": "F&G em 22 enquanto o BTC pressiona a resistência de $63,0k"
+        },
+        {
+          "title": "US$ 62.793",
+          "body": "Δ1h +0,31% · Δ24h −0,20% · vol 25,3B",
           "source": "https://www.coingecko.com/en/coins/bitcoin"
         },
         {
-          "title": "Preço & gráfico",
-          "body": "US$ 62,0K — -3,32% 24h · -2,60% 7d · -3,27% 30d máx/mín 24h: 64.230 / 61.850"
+          "title": "LATERAL",
+          "body": "Recupera no range 24h e encosta em $63,0k · Smart Money: funding +0,006% + L/S 1,70",
+          "source": "https://www.coinglass.com/LongShortRatio"
         },
         {
-          "title": "Volume & dominância",
-          "body": "US$ 29,5B — volume spot 24h · mcap US$ 1,24T dominância BTC 55.9% (ETH 9.6%)"
+          "title": "Romper $63,0k com volume",
+          "body": "Suporte $62.500 (−0,5%) · Resistência $63.000 (+0,3%)"
         },
         {
-          "title": "Sentimento · F&G",
-          "body": "28/100 — Fear (ontem 26, Δ +2) tom de notícias: cauteloso, viés de risco off"
-        },
-        {
-          "title": "Ciclo · vs ATH",
-          "body": "-50,81% — ATH US$ 126,1K em 2025-10-06 fase pós-ATH, drawdown profundo"
+          "title": "Divergência sentimento × preço",
+          "body": "Segurar acima de $62,7k favorece a virada"
         }
       ]
     },
@@ -260,6 +261,36 @@
         {
           "title": "Gatilho",
           "body": "Funding +0,01% (neutro) e L/S 1,82 → longs ainda lotados num mercado em queda. Se $61,8k ceder, esse posicionamento vira combustível para um squeeze de longs; não há euforia de short para confirmar fundo."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-13",
+      "date": "2026-07-13",
+      "hook": "BTC · fechamento do dia · viés de baixa",
+      "caption": "Dia de queda (-3,3%) com BTC em US$ 62.015, pressionado por saídas persistentes de ETFs e maior correlação com o macro. Sentimento em Medo (28/100); preço roça o suporte de US$ 61.850. Risco: perda de US$ 61,8 mil abre caminho a US$ 58 mil — mas fluxos de ETF voltaram a entrar em julho e a SEC sinaliza postura neutra, mantendo um rebote sazonal \"frágil\" na mesa.",
+      "reportUrl": "https://xbtc.aronpc.dev",
+      "slides": [
+        {
+          "title": "Fechamento · US$ 62.015",
+          "body": "Δ24h -3,32% · vol US$ 29,5B · F&G 28 · dominância 55.9%",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "Preço & gráfico",
+          "body": "US$ 62,0K — -3,32% 24h · -2,60% 7d · -3,27% 30d máx/mín 24h: 64.230 / 61.850"
+        },
+        {
+          "title": "Volume & dominância",
+          "body": "US$ 29,5B — volume spot 24h · mcap US$ 1,24T dominância BTC 55.9% (ETH 9.6%)"
+        },
+        {
+          "title": "Sentimento · F&G",
+          "body": "28/100 — Fear (ontem 26, Δ +2) tom de notícias: cauteloso, viés de risco off"
+        },
+        {
+          "title": "Ciclo · vs ATH",
+          "body": "-50,81% — ATH US$ 126,1K em 2025-10-06 fase pós-ATH, drawdown profundo"
         }
       ]
     }
