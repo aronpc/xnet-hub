@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-14-17h30",
+      "date": "2026-07-14",
+      "time": "17h30",
+      "hook": "BTC lateral em US$ 64,4k · medo extremo (F&G 22) diverge do rally de +3,65%",
+      "caption": "Consolida logo abaixo de $65k após subir 3,65% em 24h — F&G 22 é combustível contrarian.",
+      "slides": [
+        {
+          "title": "Rally ao topo, medo no termômetro",
+          "body": "Consolida logo abaixo de $65k após subir 3,65% em 24h — F&G 22 é combustível contrarian."
+        },
+        {
+          "title": "US$ 64.416",
+          "body": "Δ1h −0,13% · Δ24h +3,65% · vol US$ 29,5B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Consolidação no topo da faixa; alta intacta acima de $64k · Smart Money: funding +0,008% (neutro) + L/S 1,20",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "F&G 22: medo extremo com preço no topo",
+          "body": "Suporte $64,0k (−0,7%) · Resistência $65,0k (+0,9%). Acima de $65k → $66k; abaixo de $64k → $63k.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Defina o lado pela reação na faixa",
+          "body": "Estrutura de alta só quebra abaixo de $63,8k — alavancagem concentrada deixa o mercado sensível nas próximas horas."
+        }
+      ]
+    },
+    {
       "id": "2026-07-14-11h32",
       "date": "2026-07-14",
       "time": "11h32",
