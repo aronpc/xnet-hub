@@ -1,6 +1,6 @@
-import { useState, useEffect } from 'react'
-import postsNewsFallback from './data/posts-news.json'
-import postsBtcFallback from './data/posts-btc.json'
+import { useState } from 'react'
+import postsNews from './data/posts-news.json'
+import postsBtc from './data/posts-btc.json'
 
 const ACCENT = { news: '#2F6BFF', btc: '#F7931A' }
 const HANDLE = { news: '@xnews.ai', btc: '@xbtc.ai' }
@@ -65,19 +65,7 @@ function Card({ p, perfil, accent }) {
 export default function App() {
   const perfil = perfilFromHost()
   const accent = ACCENT[perfil], handle = HANDLE[perfil]
-  const fallback = perfil === 'btc' ? postsBtcFallback : postsNewsFallback
-  const [data, setData] = useState(fallback)
-  const [loaded, setLoaded] = useState(false)
-
-  useEffect(() => {
-    let done = false
-    fetch(RAW(perfil), { cache: 'no-cache' })
-      .then(r => r.ok ? r.json() : Promise.reject(new Error(String(r.status))))
-      .then(j => { if (!done) { setData(j); setLoaded(true) } })
-      .catch(() => { if (!done) { setData(fallback); setLoaded(true) } })
-    return () => { done = true }
-  }, [perfil])
-
+  const data = perfil === 'btc' ? postsBtc : postsNews
   const posts = data.posts || []
   return (
     <div className="app" style={{ ['--accent']: accent }}>
@@ -86,7 +74,7 @@ export default function App() {
         <div className="brandword">
           <span style={{ color: accent }}>x</span>{perfil === 'news' ? 'news' : 'btc'}<span className="dim">.ai</span>
         </div>
-        <p className="sub">{posts.length} {NOUN[perfil]}{loaded ? '' : ' · carregando…'}</p>
+        <p className="sub">{posts.length} {NOUN[perfil]}</p>
       </header>
 
       <main className="feed">
