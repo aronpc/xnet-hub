@@ -126,6 +126,8 @@ button { font-family:inherit; cursor:pointer; }
 /* footer */
 .foot { margin-top:48px; padding-top:24px; border-top:1px solid var(--line); display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap; font-family:var(--font-mono); font-size:12px; color:var(--t3); }
 .foot .xnet:hover { color:var(--accent); }
+.foot .ig { color:inherit; }
+.foot .ig:hover { color:var(--accent); }
 
 /* voltar ao topo + toast */
 .totop { position:fixed; right:20px; bottom:22px; width:44px; height:44px; border-radius:50%; background:var(--panel); border:1px solid var(--line-2); color:var(--t1); font-size:18px; box-shadow:0 8px 30px rgba(0,0,0,.5); z-index:40; animation:pop .2s ease; }

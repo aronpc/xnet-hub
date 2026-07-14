@@ -8,6 +8,7 @@ const NOUN   = { news: 'novidades de IA', btc: 'análises de Bitcoin' }
 const TAG    = { news: 'IA · Notícia', btc: 'BTC · Análise' }
 const BRAND  = { news: 'xnews', btc: 'xbtc' }
 const SITE   = { news: 'https://xnews.aronpc.dev', btc: 'https://xbtc.aronpc.dev' }
+const IG     = { news: 'https://instagram.com/xnews.ai', btc: 'https://instagram.com/xbtc.ai' }
 const DESC   = {
   news: 'O radar diário de Inteligência Artificial — modelos, lançamentos e o que muda pra quem usa IA. Curado e resumido por IA, sem ruído.',
   btc:  'Bitcoin e cripto todo dia — preço, níveis, smart money e leitura de mercado. Curado e resumido por IA, sem hype.',
@@ -280,7 +281,7 @@ export default function App() {
           prev={posts[focusedIdx - 1] || null} next={posts[focusedIdx + 1] || null}
           idx={focusedIdx} count={posts.length} go={go} />
         <footer className="foot">
-          <span>{HANDLE[perfil]}</span>
+          <a className="ig" href={IG[perfil]} target="_blank" rel="noopener">{HANDLE[perfil]}</a>
           <a className="xnet" href={SITE[perfil === 'news' ? 'btc' : 'news']}>ver {HANDLE[perfil === 'news' ? 'btc' : 'news']} →</a>
         </footer>
         <div className={'toast' + (toast ? ' show' : '')} role="status" aria-live="polite">{toast}</div>
@@ -319,7 +320,7 @@ export default function App() {
       </main>
 
       <footer className="foot">
-        <span>{HANDLE[perfil]}</span>
+        <a className="ig" href={IG[perfil]} target="_blank" rel="noopener">{HANDLE[perfil]}</a>
         <a className="xnet" href={SITE[other]}>ver {HANDLE[other]} →</a>
       </footer>
 
