@@ -14,58 +14,37 @@
         {
           "title": "Fable 5 deixa de ser 'incluso' e vira cobrança por uso a preço de API",
           "body": "A partir de 13 de julho, todo token do Fable 5 nos planos pagos (Pro, Max e Team) passa a ser cobrado via 'usage credits' pré-pagos ao preço de API: dez dólares por milhão de tokens de entrada e cinquenta por milhão de saída — o dobro do modelo anterior — fora do limite semanal da assinatura.",
-          "source": {
-            "label": "digitalapplied — 13 jul",
-            "url": "https://www.digitalapplied.com/blog/claude-fable-5-usage-credits-july-7-pricing-guide-2026"
-          }
+          "source": "https://www.digitalapplied.com/blog/claude-fable-5-usage-credits-july-7-pricing-guide-2026"
         },
         {
           "title": "57% das empresas já viram agentes 'confidentemente errados'",
           "body": "Reportagem da VentureBeat de 12 de julho aponta que 57% das empresas observaram agentes de IA agindo 'confidentemente errados' — o caso em que o agente age convencido da resposta errada, eixo central do problema de contexto e alucinação em produção.",
-          "source": {
-            "label": "VentureBeat — 12 jul",
-            "url": "https://venturebeat.com/"
-          }
+          "source": "https://venturebeat.com/"
         },
         {
           "title": "Poolside libera o Laguna XS 2.1 de graça no OpenRouter",
           "body": "A Poolside colocou o Laguna XS 2.1 disponível de graça no OpenRouter em 2 de julho — modelo voltado a geração e coding agêntico, sem custo de acesso na plataforma.",
-          "source": {
-            "label": "pricepertoken — 2 jul",
-            "url": "https://pricepertoken.com/news/model-releases"
-          }
+          "source": "https://pricepertoken.com/news/model-releases"
         },
         {
           "title": "Google lança o Gemini 3.1 Flash Lite Image — a 'Nano Banana 2 Lite'",
           "body": "O Google lançou em 1º de julho um gerador de imagem mais rápido e barato, o Gemini 3.1 Flash Lite Image, vendido como 'Nano Banana 2 Lite', disponível pelo Google AI Studio a vinte e cinco centavos de entrada e um dólar e cinquenta de saída por milhão.",
-          "source": {
-            "label": "pricepertoken — 1 jul",
-            "url": "https://pricepertoken.com/news/model-releases"
-          }
+          "source": "https://pricepertoken.com/news/model-releases"
         },
         {
           "title": "OpenAI prepara IPO confidencial com Goldman e Morgan Stanley",
           "body": "A OpenAI estaria preparando um registro confidencial de IPO com Goldman Sachs e Morgan Stanley, com estreia pública possível já em setembro de 2026.",
-          "source": {
-            "label": "buildfastwithai — 12 jul",
-            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-12-2026"
-          }
+          "source": "https://www.buildfastwithai.com/blogs/ai-news-today-july-12-2026"
         },
         {
           "title": "Janela de julho: Gemini 3.5 Pro mira 17/jul; DeepSeek V4 GA tem prazo 24/jul",
           "body": "O TechTimes projeta a janela de lançamentos de julho: o Gemini 3.5 Pro tem data-alvo em 17 de julho, e o DeepSeek V4 em versão geral — após preview desde 24 de abril — tem prazo em 24 de julho.",
-          "source": {
-            "label": "TechTimes — 8 jul",
-            "url": "https://www.techtimes.com/articles/319877/20260708/gemini-35-pro-targets-july-17-deepseeks-july-24-deadline-hits-developers-now.htm"
-          }
+          "source": "https://www.techtimes.com/articles/319877/20260708/gemini-35-pro-targets-july-17-deepseeks-july-24-deadline-hits-developers-now.htm"
         },
         {
           "title": "VC dos EUA: US$ 412,7 bi no 1º semestre, ~30% acima de todo 2025",
           "body": "Segundo a PitchBook, via SiliconANGLE de 9 de julho, o venture funding dos EUA somou 412 vírgula 7 bilhões de dólares no primeiro semestre de 2026 — quase 30% acima de TODO o ano de 2025 — com os deals de IA dominando o volume.",
-          "source": {
-            "label": "SiliconANGLE — 9 jul",
-            "url": "https://siliconangle.com/2026/07/09/pitchbook-us-venture-funding-hits-412-7b-first-half-ai-deals-dominate/"
-          }
+          "source": "https://siliconangle.com/2026/07/09/pitchbook-us-venture-funding-hits-412-7b-first-half-ai-deals-dominate/"
         },
         {
           "title": "O que está mudando",
@@ -76,16 +55,1029 @@
     {
       "id": "2026-07-12",
       "date": "2026-07-12",
-      "hook": "5 skills de IA que valem em 2026",
-      "caption": "Do prompt à orquestração de agentes — o que efetivamente diferencia quem usa IA.",
+      "hook": "Radar IA — 12 de julho",
+      "caption": "Três flagships pesados numa mesma janela — GPT-5.6, Claude Sonnet 5 e Grok 4.5 — comprimiram o prazo da disputa de frontier. E o subtexto da edição se divide em dois eixos que importam pra um stack de agentes: quanto custa o token, e quanta autonomia dá pra entregar a um agente.",
       "slides": [
         {
-          "title": "Escrever bons prompts",
-          "body": "Contexto claro, exemplos e formato de saída. É a base de tudo."
+          "title": "Radar IA — 12 de julho",
+          "body": "Três flagships pesados numa mesma janela — GPT-5.6, Claude Sonnet 5 e Grok 4.5 — comprimiram o prazo da disputa de frontier. E o subtexto da edição se divide em dois eixos que importam pra um stack de agentes: quanto custa o token, e quanta autonomia dá pra entregar a um agente."
         },
         {
-          "title": "Automatizar com agentes",
-          "body": "Encadear tarefas e ferramentas sem escrever código."
+          "title": "GPT-5.6 chega em três níveis: Sol, Terra e Luna",
+          "body": "O GPT-5.6 vem em três tiers: Sol (frontier, com novo modo Ultra e Max reasoning), Terra (nível do 5.5 a metade do custo) e Luna (rápido). Mesmo pré-treino de ~4 trilhões de tokens, o 'Spud'; o Sol roda no Cerebras a mais de 700 tokens por segundo com os mesmos pesos.",
+          "source": "https://thursdai.news/releases/2026-07"
+        },
+        {
+          "title": "Claude Sonnet 5: quase Opus, a preço introdutório",
+          "body": "A Anthropic lançou o Sonnet 5 com performance próxima ao Opus 4.8, a 2 dólares de entrada e 10 de saída por milhão (preço introdutório até 31 de agosto). Recepção dividida: power users reclamam de custo quase-Opus, e o novo tokenizer pode queimar até 35% mais tokens.",
+          "source": "https://www.anthropic.com/news/claude-sonnet-5"
+        },
+        {
+          "title": "GPT-Live: a primeira voz full-duplex de verdade no consumidor",
+          "body": "A OpenAI lançou o GPT-Live — o modelo ouve enquanto fala e decide, várias vezes por segundo, se fala, pausa, interrompe ou chama uma ferramenta, delegando dúvidas difíceis ao GPT-5.5 no meio da conversa. Vem em versão paga e mini gratuita, com 9 vozes remixadas e tradução em tempo real.",
+          "source": "https://openai.com/index/introducing-gpt-live/"
+        },
+        {
+          "title": "Grok 4.5: o 1º flagship da SpaceXAI (xAI dissolvido)",
+          "body": "A SpaceXAI lança o Grok 4.5, um mixture of experts de 1,5 trilhão na nova base V9, treinado com trilhões de tokens de interações reais do Cursor. Pitch de eficiência: 83,3% no Terminal-Bench 2.1 usando cerca de um quarto dos tokens do Opus 4.8 por tarefa, a 2 e 6 dólares por milhão.",
+          "source": "https://thursdai.news/releases/2026-07"
+        },
+        {
+          "title": "LongCat-2.0 (Meituan): 1,6T MoE treinado 100% em ASICs chineses",
+          "body": "A Meituan revelou o LongCat-2.0, um mixture of experts de 1,6 trilhão treinado inteiramente em ASICs chineses, sem hardware da NVIDIA. Marca 59,5 no SWE-bench Pro e custa 0,038 dólar por milhão de tokens, com cache hits de graça. Servia anonimamente como 'Owl Alpha' e está entre os tops do OpenRouter por volume.",
+          "source": "https://thursdai.news/releases/2026-07"
+        },
+        {
+          "title": "'Migrando agente pra GPT-5.6: 2,2x mais rápido, 27% mais barato'",
+          "body": "Um relato de engenharia em primeira mão chegou ao topo do Hacker News em 11 de julho, mostrando ganhos reais ao migrar um agente de produção para o GPT-5.6: 2,2 vezes mais rápido e 27% mais barato.",
+          "source": "https://news.ycombinator.com/"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Três flagships numa janela só comprimiram o prazo da disputa de frontier — e o verdadeiro termômetro virou dois eixos. Custo por token, com o Sonnet 5, o LongCat e o relato do Hacker News. E segurança de agentes autônomos, com os 0,25% de ações não-autorizadas no system card do GPT-5.6. Pra um stack de agentes, a lição é clara: medir antes de migrar — velocidade e custo no campo, nunca no bench."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-10",
+      "date": "2026-07-10",
+      "hook": "Radar de IA — 10 de julho",
+      "caption": "As últimas 24 horas foram de geopolítica de chips a todo vapor: a China cede e libera compras de GPU, Apple e Broadcom apostam pesado em fábrica nos EUA, a SK Hynix faz um dos maiores IPOs da história e o debate sobre o custo real dos agentes esquenta.",
+      "slides": [
+        {
+          "title": "Radar de IA — 10 de julho",
+          "body": "As últimas 24 horas foram de geopolítica de chips a todo vapor: a China cede e libera compras de GPU, Apple e Broadcom apostam pesado em fábrica nos EUA, a SK Hynix faz um dos maiores IPOs da história e o debate sobre o custo real dos agentes esquenta."
+        },
+        {
+          "title": "China libera compra limitada de H200 da Nvidia",
+          "body": "Segundo a The Information, confirmada por Bloomberg, Pequim vai autorizar Alibaba, ByteDance e DeepSeek a comprar o chip H200 — mas o teto aprovado pode ficar abaixo de 200 mil unidades, menos da metade do pedido. As GPUs seriam só para treino; para inferência, a orientação é usar chips domésticos, incluindo Huawei.",
+          "source": "https://www.bloomberg.com/news/articles/2026-07-08/china-to-let-ai-firms-buy-nvidia-h200-chips-information-says"
+        },
+        {
+          "title": "Apple e Broadcom firmam US$ 30 bi em chips 'Made in USA'",
+          "body": "Anunciado em 8 de julho, o acordo plurianual prevê mais de 15 bilhões de chips fabricados nos EUA — ASICs customizados, filtros e conectividade sem fio — e uma expansão de US$ 1,5 bi na fábrica da Broadcom em Fort Collins, Colorado. É o maior compromisso já feito dentro do plano de manufatura da Apple.",
+          "source": "https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html"
+        },
+        {
+          "title": "SK Hynix estreia na Nasdaq com IPO de US$ 29,6 bi",
+          "body": "A segunda maior fabricante de memória do mundo listou ADRs nesta sexta, 10 de julho, levantando cerca de US$ 29,65 bilhões — a segunda maior oferta de ações da história, atrás só da SpaceX (US$ 85,7 bi, em junho). O capital financia o gigantesco cluster de memória de Yongin.",
+          "source": "https://fortune.com/2026/07/06/sk-hynix-ipo-stock-offer-nasdaq-29-billion-ai/"
+        },
+        {
+          "title": "Ásia surfa o rali de chips: Nikkei sobe 2%",
+          "body": "O Nikkei 225 fechou em alta de 2%, aos 69.121 pontos, puxado por ações de IA após o acordo Broadcom-Apple e a notícia das compras de H200. Kioxia saltou 8,3%, Advantest 5,9% e Tokyo Electron 5,5%.",
+          "source": "https://www.brecorder.com/news/40429416/japans-nikkei-rises-2-on-ai-rally-as-pension-asset-shift-hopes-lift-yen-bonds"
+        },
+        {
+          "title": "Pequim desenha controle de exportação dos próprios modelos",
+          "body": "Novo detalhe sobre a política já sinalizada: análise da FDD descreve um sistema em camadas em estudo — ferramentas open-source básicas só com registro, tecnologias avançadas sob revisão de segurança e modelos de fronteira proibidos de lançamento público ou restritos ao uso doméstico. Também se discute criminalizar o vazamento de modelos proprietários.",
+          "source": "https://www.fdd.org/analysis/2026/07/09/beijing-grapples-with-controlling-its-domestic-ai-sector/"
+        },
+        {
+          "title": "Meta lança Muse Spark 1.1, modelo de raciocínio agêntico",
+          "body": "Anunciado em 9 de julho junto com o preview da Meta Model API: contexto de 1 milhão de tokens, orquestração nativa de agente-primário e subagentes e suporte a MCP. Preço de US$ 1,25 por milhão de tokens de entrada e US$ 4,25 na saída. Em benchmarks da própria Meta (a confirmar), marca 88,1 no MCP Atlas, acima de Claude Opus 4.8 e Gemini 3.1 Pro.",
+          "source": "https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report"
+        },
+        {
+          "title": "Cognition lança SWE-1.7, código a US$ 1,97 por tarefa",
+          "body": "Modelo de código treinado sobre o chinês Kimi K2.7, rodando a mil tokens por segundo via Cerebras. Custa cerca de US$ 1,97 por tarefa no FrontierCode 1.1 (42,3%, contra 46,5% do Opus 4.8) e superou o GPT-5.5 no SWE-Bench Multilingual, com 77,8%. Gerou também forte contestação: um post viral no X apelidou o modelo de 'Slopinator' por despejar mais de 3.400 linhas de baixa qualidade num só prompt.",
+          "source": "https://news.ycombinator.com/item?id=48833866"
+        },
+        {
+          "title": "'Preço por milhão de tokens não diz nada', viraliza no HN",
+          "body": "Post em alta no Hacker News argumenta que comparar modelos pelo preço por milhão de tokens engana: os tokenizers variam entre labs e o raciocínio oculto é cobrado igual, mas consome volumes muito diferentes. O que importa é o custo por tarefa concluída, não o preço nominal.",
+          "source": "https://news.ycombinator.com/item?id=48809542"
+        },
+        {
+          "title": "Chatto abre o código: chat de equipe self-hosted",
+          "body": "Hendrik Mans liberou o Chatto sob AGPL-3.0 — chat, voz e vídeo criptografados num único binário, com frontend Svelte, backend Go e NATS para tempo real. O tópico juntou 791 pontos no Hacker News em poucas horas.",
+          "source": "https://www.hmans.dev/blog/chatto-is-open-source"
+        },
+        {
+          "title": "GitHub em festa de 'skills' para agentes de código",
+          "body": "O repositório addyosmani/agent-skills disparou no trending com cerca de 72,7 mil estrelas: um pacote de skills de engenharia para Claude Code, Cursor, Copilot e mais de 70 harnesses, mapeando o ciclo definir, planejar, construir, verificar, revisar e publicar. No topo da semana também apareceu o ai-job-search, framework de busca de emprego construído sobre o Claude Code.",
+          "source": "https://github.com/addyosmani/agent-skills"
+        },
+        {
+          "title": "Aura: controle de versão semântico para código de IA",
+          "body": "Em destaque no Product Hunt em 9 de julho, a Aura é uma ferramenta open-source que faz hash da árvore de sintaxe, e não das linhas de texto, para rastrear commits de agentes. Permite bloquear commits não documentados e reverter cirurgicamente refactors quebrados, com promessa de economizar até 95% em tokens (número auto-reportado).",
+          "source": "https://www.producthunt.com/products/aura-28"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A guerra dos chips virou de mão dupla: a China compra GPU americana enquanto tranca a exportação dos próprios modelos, e os EUA repatriam fábricas. Nos bastidores dev, a conversa saiu do preço de tabela e foi para o custo por tarefa — e cresce uma camada inteira de ferramentas para domar agentes que escrevem código rápido demais."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-09",
+      "date": "2026-07-09",
+      "hook": "Panorama de IA — 9 de julho de 2026",
+      "caption": "O dia foi de tensão geopolítica e de fim de festa na bolsa: a China acusou o Claude Code de espionagem e estuda fechar seus modelos, Trump recuou num decreto de IA e a Nvidia perdeu quase um trilhão de dólares. No meio disso, chegaram o Grok 4.5, o GPT-Live e a estreia da Mistral em robótica. Bora?",
+      "slides": [
+        {
+          "title": "Panorama de IA — 9 de julho de 2026",
+          "body": "O dia foi de tensão geopolítica e de fim de festa na bolsa: a China acusou o Claude Code de espionagem e estuda fechar seus modelos, Trump recuou num decreto de IA e a Nvidia perdeu quase um trilhão de dólares. No meio disso, chegaram o Grok 4.5, o GPT-Live e a estreia da Mistral em robótica. Bora?"
+        },
+        {
+          "title": "Grok 4.5 chega treinado junto com o Cursor",
+          "body": "A xAI lançou o Grok 4.5, voltado a código e tarefas agênticas, a US$ 2 por milhão de tokens de entrada e US$ 6 na saída. Marca 83,3% no Terminal-Bench 2.1 — colado no GPT-5.5, com 83,4%, e no Claude Fable 5, com 84,3% — mas gastando bem menos: cerca de 1,9 milhão de tokens por tarefa, contra 6,2 milhões do GPT-5.5 e 7,2 milhões do Fable 5.",
+          "source": "https://x.ai/news/grok-4-5"
+        },
+        {
+          "title": "OpenAI lança GPT-Live, a voz que fala e escuta ao mesmo tempo",
+          "body": "A OpenAI anunciou o GPT-Live e o GPT-Live mini, modelos de voz full-duplex que ouvem enquanto falam — com pausas e 'mhmm' naturais — e delegam as perguntas difíceis ao GPT-5.5 rodando por trás. Já entrou como padrão no ChatGPT para assinantes no iOS e no Android; a API vem depois, por lista de espera.",
+          "source": "https://openai.com/index/introducing-gpt-live/"
+        },
+        {
+          "title": "Mistral entra na IA física com o Robostral Navigate",
+          "body": "A Mistral lançou o Robostral Navigate, um modelo de 8 bilhões de parâmetros que guia robôs usando só uma câmera RGB comum e comandos em linguagem natural, sem LiDAR. Atingiu 76,6% de sucesso no benchmark R2R-CE, quase 10 pontos acima do melhor método de câmera única.",
+          "source": "https://mistral.ai/news/robostral-navigate/"
+        },
+        {
+          "title": "O 'AI trade' leva um tombo: Nvidia perde cerca de US$ 1 trilhão",
+          "body": "A ação da Nvidia caiu de 16% a 17% desde a máxima de maio, derrubando o valuation para 18 vezes o lucro projetado — o menor nível desde 2019 — e apagando perto de US$ 1 trilhão em valor. O baque contaminou AMD, Micron e Intel e, na Ásia, Samsung e SK Hynix, que chegaram a cair 7% e 9% antes de recuperar.",
+          "source": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-s-1-trillion-slide-sends-valuation-to-pre-ai-boom-levels"
+        },
+        {
+          "title": "China acusa o Claude Code de ter 'backdoor'; Anthropic nega",
+          "body": "O ministério da indústria da China alertou que o Claude Code teria uma 'vulnerabilidade de backdoor grave', capaz de mandar localização e identidade a um servidor remoto. A Anthropic respondeu que o mecanismo só checa fuso horário e domínios de regiões não suportadas, como antifraude — e não uma falha de segurança.",
+          "source": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html"
+        },
+        {
+          "title": "China estuda restringir o acesso estrangeiro aos seus melhores modelos",
+          "body": "Segundo a Reuters, o Ministério do Comércio chinês reuniu Alibaba, ByteDance e Zhipu para discutir limitar o acesso externo a modelos de fronteira ainda não lançados — inclusive versões open-weight de Qwen, Doubao e GLM. As opções vão de barrar o lançamento público a restringir tudo ao uso doméstico; nada foi decidido.",
+          "source": "https://time.com/article/2026/07/07/china-ai-models-alibaba-bytedance/"
+        },
+        {
+          "title": "Trump cancela na última hora a assinatura de um decreto de IA",
+          "body": "Trump desistiu de repente da cerimônia para assinar um novo decreto executivo sobre IA na Casa Branca, dizendo não querer 'prejudicar a liderança americana' diante da China. O texto tinha nascido de pressão do setor financeiro por causa de riscos de cibersegurança em modelos avançados.",
+          "source": "https://www.nbcnews.com/tech/tech-news/trump-scraps-signing-landmark-executive-order-regulating-ai-rcna346288"
+        },
+        {
+          "title": "Ucrânia vai priorizar IA que roda sob controle próprio",
+          "body": "O governo ucraniano decidiu priorizar modelos que rodem em servidores próprios, depois de os EUA ordenarem que a Anthropic cortasse o acesso do país a modelos avançados. Kiev comparou Gemma, Mistral e GPT-OSS e prepara um modelo próprio via Kyivstar, baseado no Gemma, para o outono.",
+          "source": "https://www.usnews.com/news/world/articles/2026-07-07/ukraine-to-pick-ai-models-operated-without-provider-control-official-says"
+        },
+        {
+          "title": "Índice de segurança de IA: ninguém tira A",
+          "body": "O Future of Life Institute avaliou nove grandes laboratórios em seis quesitos. A Anthropic liderou com um C+, OpenAI e Google DeepMind ficaram com C, a Meta com D+, Z.ai e Alibaba com D-, e xAI, DeepSeek e Mistral levaram F. 'Segurança existencial' foi o pior quesito de toda a indústria, classificado como 'totalmente inadequado'.",
+          "source": "https://time.com/article/2026/07/07/ai-safety-rankings-openai-anthropic-meta/"
+        },
+        {
+          "title": "Anthropic mostra como isolar conhecimento perigoso já no treino",
+          "body": "Num paper aceito no ICML, a Anthropic e o AE Studio apresentaram o GRAM: módulos acoplados a cada bloco do Transformer que isolam categorias sensíveis, como virologia, cibersegurança e física nuclear. Um único modelo GRAM reproduz o comportamento de cinco modelos filtrados diferentes, só removendo o módulo certo na hora de responder.",
+          "source": "https://alignment.anthropic.com/2026/modular-pretraining/"
+        },
+        {
+          "title": "Governo de Alberta varre 466 milhões de linhas de código com Claude",
+          "body": "A Anthropic detalhou o caso do governo de Alberta, no Canadá, que usou o Claude Code para escanear 466 milhões de linhas de código em 20 horas — cobrindo 1.280 aplicações e 3.400 repositórios de 27 ministérios, corrigindo vulnerabilidades e reconstruindo sistemas antigos em dias em vez de meses.",
+          "source": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity"
+        },
+        {
+          "title": "Strix, o pentester autônomo, dispara no GitHub",
+          "body": "O projeto usestrix/strix — agentes de IA que agem como hackers de verdade, rodando código e provando as falhas com exploits reais — entrou no topo do trending do GitHub, com mais de 36 mil estrelas e 28 mil downloads no PyPI. Traz proxy HTTP, shell e exploits sob medida num toolkit completo.",
+          "source": "https://github.com/usestrix/strix"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A eficiência virou o novo campo de batalha dos modelos: o Grok 4.5 entrega quase o mesmo resultado gastando um terço dos tokens. A geopolítica endureceu dos dois lados — a China blindando seus modelos, os EUA travando regulação e cortando acesso de aliados, que agora correm atrás de soberania. E o mercado começou a cobrar a conta do capex de IA, enquanto a segurança, de índices reprovados a pentesters autônomos, domina a conversa técnica."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-08",
+      "date": "2026-07-08",
+      "hook": "O radar de IA das últimas 24 horas",
+      "caption": "Quarta-feira marcada por dinheiro e custo: a Microsoft começou a trocar OpenAI e Anthropic por modelos próprios dentro do Office, os modelos chineses abertos já respondem por quase metade dos tokens de empresas americanas, e a SK Hynix prepara um dos maiores IPOs da história em Nova York. Nos laboratórios, a Meta lançou dois geradores de mídia e a Europa entrou na corrida dos humanoides. E a UE ligou de vez a régua da IA de fronteira à cibersegurança.",
+      "slides": [
+        {
+          "title": "O radar de IA das últimas 24 horas",
+          "body": "Quarta-feira marcada por dinheiro e custo: a Microsoft começou a trocar OpenAI e Anthropic por modelos próprios dentro do Office, os modelos chineses abertos já respondem por quase metade dos tokens de empresas americanas, e a SK Hynix prepara um dos maiores IPOs da história em Nova York. Nos laboratórios, a Meta lançou dois geradores de mídia e a Europa entrou na corrida dos humanoides. E a UE ligou de vez a régua da IA de fronteira à cibersegurança."
+        },
+        {
+          "title": "Microsoft troca OpenAI e Anthropic por modelos próprios no Office",
+          "body": "A Microsoft começou a rotear parte dos prompts do Excel e do Word para seus modelos internos da família MAI, em vez de mandar tudo para OpenAI e Anthropic. Mustafa Suleyman, chefe de IA da empresa, disse que a Microsoft paga 'muito dinheiro' à Anthropic e quer 'reduzir e por fim eliminar' esse custo. A empresa já apresentou sete modelos próprios na Build, incluindo um que rivaliza com o Claude Opus a custo menor.",
+          "source": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/"
+        },
+        {
+          "title": "Modelos chineses já são quase metade dos tokens das empresas dos EUA",
+          "body": "Reportagem da CNBC aponta que modelos chineses de código aberto chegaram a 46% dos tokens roteados por empresas americanas via OpenRouter, ante uma média histórica de 11%. Os líderes chineses cobram cerca de 18 centavos por milhão de tokens, contra algo perto de 4 dólares dos modelos de fronteira americanos. O GLM-5.2, da Z.ai, teve a adoção mais rápida registrada pela Vercel em 2026.",
+          "source": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html"
+        },
+        {
+          "title": "SK Hynix lança IPO de US$ 28 bi em Nova York",
+          "body": "A sul-coreana SK Hynix formalizou uma listagem secundária nos EUA, via ADRs na Nasdaq, oferecendo 17,79 milhões de ações — cerca de 28 bilhões de dólares. Fundos como Baillie Gifford, Coatue e Situational Awareness sinalizaram interesse combinado de até 7 bilhões. A precificação sai quinta e a estreia é sexta. Seria a segunda maior oferta de ações da história, atrás só do IPO da SpaceX.",
+          "source": "https://money.usnews.com/investing/news/articles/2026-07-06/sk-hynix-launches-28-billion-us-listing-draws-7-billion-in-investor-interest"
+        },
+        {
+          "title": "Anthropic projeta US$ 47 bi e passa a OpenAI em receita",
+          "body": "Segundo a Fortune, a Anthropic projeta receita anualizada de 47 bilhões de dólares, com lucro a partir de 2029 — acima da faixa de 25 a 33 bilhões estimada para a OpenAI. A Anthropic tira cerca de 85% da receita de empresas e API; a OpenAI tira proporção parecida de assinaturas de consumidor do ChatGPT. Em maio, a Anthropic já havia passado a rival em assinaturas empresariais.",
+          "source": "https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic/"
+        },
+        {
+          "title": "UE liga IA de fronteira à cibersegurança em novo plano",
+          "body": "A Comissão Europeia apresentou um Plano de Ação de Cibersegurança e IA com cinco eixos: capacidade de avaliar modelos avançados antes de entrarem no mercado da UE, acesso estruturado a IA de fronteira para defesa cibernética, uma plataforma de testes da ENISA e do Centro Comum de Investigação para setores críticos, reforço das regras NIS2 e do Cyber Resilience Act, e um 'EU Grand Challenge' de IA para cibersegurança. Sem lei nova — foco em aplicar o que já existe.",
+          "source": "https://commission.europa.eu/news-and-media/news/new-eu-plan-address-risks-and-opportunities-advanced-ai-cybersecurity-2026-07-07_en"
+        },
+        {
+          "title": "Meta lança Muse Image e Muse Video",
+          "body": "A Meta apresentou dois modelos generativos de mídia: o Muse Image, de edição por instrução e composição a partir de várias imagens de referência, com contexto social vindo do Instagram; e o Muse Video, de geração de vídeo com áudio nativo já integrado. Os dois foram anunciados pelo laboratório de superinteligência da empresa.",
+          "source": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"
+        },
+        {
+          "title": "Ex-Tesla lança humanoide europeu Northstar",
+          "body": "Rémi Cadène, que trabalhou no Optimus da Tesla e criou o projeto LeRobot na Hugging Face, revelou a startup francesa UMA e o protótipo Northstar — um humanoide leve para manufatura e logística, montado em cerca de 9 meses em Paris, com uns 50 clientes em avaliação. Entre os investidores estão Yann LeCun, Thomas Wolf, da Hugging Face, e o CEO da Datadog.",
+          "source": "https://electrek.co/2026/07/07/tesla-optimus-scientist-uma-humanoid-robot/"
+        },
+        {
+          "title": "Índia lança fábrica de chips da HCL com a Foxconn",
+          "body": "O primeiro-ministro Narendra Modi lançou a pedra fundamental da joint venture HCL-Foxconn, em Jewar, na região de Grande Noida (Uttar Pradesh). A unidade deve produzir 36 milhões de chips voltados a smartphones, eletrônicos, automóveis e defesa. Modi disse que os chips 'made in India' são a espinha dorsal de setores como IA, 6G e veículos elétricos.",
+          "source": "https://newsonair.gov.in/pm-modi-virtually-lays-foundation-stone-of-hcl-foxconn-joint-venture-project-india-chip-pvt-ltd/"
+        },
+        {
+          "title": "Plataforma de jogos feita 'no tempo livre' viraliza no HN",
+          "body": "Um Show HN chamado Homegames — plataforma de jogos open source que o autor desenvolve desde 2018 — chegou a mais de 220 pontos e dezenas de comentários. O criador contou que retomou o projeto há cerca de seis meses e que o Claude o tornou 'muito mais eficiente' no pouco tempo livre que tem para produzir os jogos e a infraestrutura.",
+          "source": "https://news.ycombinator.com/item?id=48798153"
+        },
+        {
+          "title": "Ory leva login e permissões para dentro dos agentes de código",
+          "body": "A Ory lançou o Agent DX, um conjunto de plugins que coloca sua stack de identidade — OAuth2, permissões e login — direto dentro do Claude Code, do OpenAI Codex e do Gemini CLI, instalável com um único comando e sem exigir conta ou chave de API para começar.",
+          "source": "https://aithority.com/machine-learning/ory-brings-agent-dx-to-claude-code-openai-codex-and-other-ai-coding-agents/"
+        },
+        {
+          "title": "WAIC ganha data e produtos: Atlas 950 e telefone com agente",
+          "body": "Novo detalhe sobre a vitrine chinesa: a South China Morning Post confirma que a Conferência Mundial de IA, de 17 a 20 de julho em Xangai, vai estrear fisicamente o supercluster Atlas 950 SuperPoD, da Huawei, além do que é descrito como 'o primeiro telefone com agente de IA do mundo'.",
+          "source": "https://www.scmp.com/tech/article/3359733/huaweis-new-computing-cluster-worlds-first-ai-agent-phone-debut-china-ai-summit"
+        },
+        {
+          "title": "Onda de calor nos EUA e a nova conta dos data centers",
+          "body": "Novo capítulo do estresse na rede: uma onda de calor forçou operadores a acionar geradores de reserva enquanto os data centers de IA puxam a demanda. Os data centers já respondem por cerca de 4% do consumo elétrico dos EUA, com projeção de 9% até 2030. A Virginia passou a cobrar, desde 1º de julho, uma taxa de consumo por quilowatt-hora sobre a eletricidade usada por data centers, e a FERC exigiu processos para pedidos de carga na escala de gigawatts.",
+          "source": "https://www.helpnetsecurity.com/2026/07/07/ai-data-centers-demand-expansion/"
+        },
+        {
+          "title": "Custo virou a estratégia central da IA",
+          "body": "O fio do dia é dinheiro: Microsoft internaliza modelos para cortar a conta, empresas americanas migram para modelos chineses 90% mais baratos, e a Anthropic vira líder de receita apostando em corporações. Em paralelo, o capital corre para a base física — IPO gigante da SK Hynix, fábrica da Índia, energia como gargalo. E a régua regulatória aperta: a Europa amarra IA de fronteira à cibersegurança."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-07",
+      "date": "2026-07-07",
+      "hook": "O radar de IA das últimas 24 horas",
+      "caption": "Terça-feira com laboratório em alta: a Anthropic abriu a caixa-preta do Claude e achou um 'espaço de trabalho global' interno, dois papers no topo do Hugging Face atacaram o descompasso entre treino e produção, e a robótica ganhou runtime e dataset novos. Na geopolítica, a DeepSeek vai fazer o próprio chip e a China prepara a WAIC. E a segurança de agentes virou corrida de startups.",
+      "slides": [
+        {
+          "title": "O radar de IA das últimas 24 horas",
+          "body": "Terça-feira com laboratório em alta: a Anthropic abriu a caixa-preta do Claude e achou um 'espaço de trabalho global' interno, dois papers no topo do Hugging Face atacaram o descompasso entre treino e produção, e a robótica ganhou runtime e dataset novos. Na geopolítica, a DeepSeek vai fazer o próprio chip e a China prepara a WAIC. E a segurança de agentes virou corrida de startups."
+        },
+        {
+          "title": "DeepSeek vai desenhar o próprio chip de inferência",
+          "body": "Reuters apurou que a DeepSeek, de Hangzhou, está desenvolvendo um chip próprio para rodar seus modelos (inferência, não treino). A empresa já contratou mais engenheiros de design e conversa com parceiros de projeto, fundições e fabricantes de memória — esforço iniciado há cerca de um ano para reduzir a dependência de Nvidia e Huawei.",
+          "source": "https://www.bloomberg.com/news/articles/2026-07-07/chinese-ai-startup-deepseek-developing-own-ai-chip-reuters-says"
+        },
+        {
+          "title": "China arma vitrine de hardware para a WAIC 2026",
+          "body": "Segundo a South China Morning Post, a Conferência Mundial de IA (17 a 20 de julho, em Xangai) vai estrear fisicamente o supercluster Atlas 950 SuperPoD da Huawei, com 8.192 NPUs Ascend, além do que é descrito como 'o primeiro telefone com agente de IA do mundo' (fabricante ainda não revelado).",
+          "source": "https://www.scmp.com/tech/article/3359733/huaweis-new-computing-cluster-worlds-first-ai-agent-phone-debut-china-ai-summit"
+        },
+        {
+          "title": "Anthropic acha um 'espaço de trabalho global' dentro do Claude",
+          "body": "Pesquisa de interpretabilidade da Anthropic identificou o 'J-space': um subconjunto privilegiado de representações internas que o Claude usa como área de trabalho compartilhada — poucas dezenas de conceitos ativos por vez, menos de 10% do processamento total. A ferramenta 'J-lens', baseada em jacobianos, lê camada a camada quais palavras o modelo 'considera' internamente. A empresa frisa que é propriedade funcional, não prova de consciência.",
+          "source": "https://www.anthropic.com/research/global-workspace"
+        },
+        {
+          "title": "MIPU: o modelo que treina bem pode piorar na produção",
+          "body": "Paper da Universidade de Tianjin com a Alibaba, nº 1 do dia no Hugging Face, mostra que otimizar a política de treino não garante melhora na política de inferência real, por causa do descompasso entre engines (ex.: quantização FP8). O framework de duas etapas testa e só aceita atualizações que de fato melhoram a inferência pós-sincronização, estabilizando o treino de raciocínio nos Qwen3-1.7B e 4B.",
+          "source": "https://huggingface.co/papers/2606.29526"
+        },
+        {
+          "title": "Embodied.cpp: runtime portátil para IA em robôs",
+          "body": "Paper do SAIL Lab (Southeast University), nº 2 do dia no Hugging Face, traz um runtime C++ unificado para modelos vision-language-action com execução multi-taxa em loop fechado. Resultados de 100% e 91% de sucesso em tarefas fechadas com HY-VLA e pi0.5, e queda de memória de 312 MiB para 88 MiB em um bloco Transformer. Código aberto.",
+          "source": "https://huggingface.co/papers/2607.02501"
+        },
+        {
+          "title": "Deform360: visão e tato para objetos que deformam",
+          "body": "Brown, Columbia e MIT lançaram o maior dataset visuotátil multi-view para world models de objetos deformáveis: 198 objetos do dia a dia, 1.980 sequências de interação e mais de 215 horas de captura, com 41 câmeras multi-view combinadas a garras táteis bimanuais, reconstrução 3D e tracking por episódio. Aceito na ECCV 2026.",
+          "source": "https://arxiv.org/html/2607.05390v1"
+        },
+        {
+          "title": "Mistral confirma novo modelo 'de fronteira' aberto ainda em julho",
+          "body": "O CEO Arthur Mensch confirmou que uma nova família de modelos open-weight (sem nome, parâmetros ou benchmarks revelados) entra em acesso antecipado com parceiros de pesquisa, governo e indústria neste mês, com lançamento amplo previsto para mais adiante no verão europeu. Especificações ainda a confirmar.",
+          "source": "https://www.techtimes.com/articles/319798/20260706/mistral-ai-targets-frontier-gap-open-weight-model-entering-july-early-access.htm"
+        },
+        {
+          "title": "Corrida de scanners para 'capacidades perigosas' de agentes",
+          "body": "No Show HN, o MakerChecker (open-source, 'npx @makerchecker/scan') varre código Python/JS/TS em busca de riscos de agentes — apagar dados, mover dinheiro, exfiltrar informação — roda offline e oferece auto-fix, com um pacote embarcado para RBAC, aprovação humana e log de auditoria assinado. A thread gerou debate 'permissões de SO x controle da lógica de negócio' e trouxe concorrentes citados nos comentários.",
+          "source": "https://news.ycombinator.com/item?id=48804182"
+        },
+        {
+          "title": "Mini-documentário por IA em 30 segundos por US$ 0,25",
+          "body": "O Show HN InstantVideos.org gera um mini-documentário completo a partir de um prompt: GLM-5.2 escreve o roteiro, Nano Banana 2 Lite faz as imagens, gpt-4o-mini-tts narra e o ffmpeg monta com efeito Ken Burns. Custo de cerca de 25 centavos de dólar por vídeo, limitado a 720p e narrador único.",
+          "source": "https://news.ycombinator.com/item?id=48812045"
+        },
+        {
+          "title": "Nobel de Economia: IA não devolve a era de crescimento rápido",
+          "body": "Christopher Pissarides (Nobel de 2010, especialista em automação do trabalho) disse à Bloomberg que a IA não trará de volta às economias ocidentais o forte crescimento de produtividade do passado. Ele estima que cerca de 4 em cada 10 empregos nos EUA e no Reino Unido — enfermagem, hotelaria — serão pouco afetados pela tecnologia.",
+          "source": "https://www.bloomberg.com/news/articles/2026-07-07/ai-won-t-bring-back-era-of-rapid-growth-says-nobel-prize-winner"
+        },
+        {
+          "title": "Diálogo Global da ONU abre em Genebra com alerta de 'risco catastrófico'",
+          "body": "A sessão de abertura ocorreu em 6 de julho e seguiu em 7, com 193 países-membros e coordenação das embaixadoras de El Salvador e da Estônia, ancorada no relatório do Painel Científico Independente sobre IA (Bengio/Ressa). Guterres alertou que o mundo não deve deixar a IA 'fazer vibe-coding do futuro da humanidade'.",
+          "source": "https://news.un.org/en/story/2026/07/1167873"
+        },
+        {
+          "title": "Os fios de hoje",
+          "body": "A ciência dos modelos avançou: interpretabilidade real na Anthropic e papers que atacam o descompasso treino-produção e o deployment em robôs. A geopolítica de chips desceu mais um degrau — a DeepSeek vai fazer o próprio silício e a China arma vitrine na WAIC. A Europa responde com peso aberto pela Mistral. E a segurança de agentes já é mercado, com scanners nascendo em resposta ao ransomware autônomo. No pano de fundo, um Nobel lembra que produtividade não é destino."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-06",
+      "date": "2026-07-06",
+      "hook": "O radar de IA do fim de semana",
+      "caption": "Sexta a domingo tiveram a Ásia no centro do palco: a guerra fria dos modelos entre EUA e China virou compliance e retaliação corporativa, a Coreia despejou centenas de trilhões de won em chips e data centers, e a segurança de agentes ganhou seu primeiro ransomware autônomo. No laboratório, dois papers mostraram como espremer mais de modelos pequenos.",
+      "slides": [
+        {
+          "title": "O radar de IA do fim de semana",
+          "body": "Sexta a domingo tiveram a Ásia no centro do palco: a guerra fria dos modelos entre EUA e China virou compliance e retaliação corporativa, a Coreia despejou centenas de trilhões de won em chips e data centers, e a segurança de agentes ganhou seu primeiro ransomware autônomo. No laboratório, dois papers mostraram como espremer mais de modelos pequenos."
+        },
+        {
+          "title": "Anthropic fecha as brechas de acesso chinês ao Claude",
+          "body": "Reportagem do Financial Times revelou que grupos como Ant Group e ByteDance vinham acessando o Claude por subsidiárias em Singapura, VPNs e revenda de API via Azure. A Anthropic passou a checar fuso horário, padrões de uso e origem do cartão para bloquear essas 'estações de transferência', ampliando a regra que barra empresas com mais de 50% de controle chinês, russo, iraniano ou norte-coreano.",
+          "source": "https://www.ft.com/content/ad033063-60f9-4c0c-8d8a-9193a83e6f60"
+        },
+        {
+          "title": "Alibaba bane o Claude Code e manda apagar tudo",
+          "body": "Depois de a Anthropic acusar a Alibaba de operar cerca de 25 mil contas falsas para trocar mais de 28 milhões de interações com o Claude (um suposto ataque de destilação), a Alibaba vai banir o Claude Code de toda a empresa a partir de 10/07, alegando risco de 'backdoor'. Internamente recomenda a própria ferramenta 'Qoder' e pede que funcionários apaguem toda a família Claude — Sonnet, Opus e Fable.",
+          "source": "https://en.sedaily.com/international/2026/07/04/alibaba-bans-claude-code-as-anthropic-blocks-chinese-access"
+        },
+        {
+          "title": "China manda Doubao e Qwen desligarem agentes 'personalizados'",
+          "body": "Sob as novas 'Interim Measures for AI Anthropomorphic Interactive Services', o Doubao (ByteDance) encerra seus agentes em 15/07 (dados exportáveis até 15/10) e o Qwen (Alibaba) já desativou agentes criados por usuários, com desligamento total até 15/07 e sem plano de migração de dados anunciado. A ByteDance redireciona usuários para outro app, o Maoxiang.",
+          "source": "https://technode.com/2026/07/06/bytedances-doubao-and-alibabas-qwen-to-shut-down-ai-agent-features-on-july-15/"
+        },
+        {
+          "title": "Meta e Anthropic correm para a Samsung e o processo de 2 nanômetros",
+          "body": "A Meta vai levar a terceira geração do seu acelerador MTIA para o processo de 2 nanômetros da Samsung Foundry, em contrato relatado acima de US$ 7 bilhões. E a Anthropic negocia com a mesma Samsung um ASIC próprio, também em 2 nanômetros, contratando um ex-engenheiro de chip da OpenAI. A carteira de pedidos ASIC da Samsung teria pulado para cerca de US$ 36 bilhões.",
+          "source": "https://en.sedaily.com/international/2026/07/03/anthropic-in-talks-with-samsung-to-produce-own-ai-chip"
+        },
+        {
+          "title": "Coreia do Sul aposta mais de 312 trilhões de won em IA",
+          "body": "Dentro do plano de 'megaprojetos' do governo na região de Yeongnam: a Samsung investe 19 trilhões de won em um hub de IA física e robôs humanoides em Gumi; a Hyundai, 42 trilhões numa fábrica de veículos autônomos em Ulsan; a SK, 140 trilhões num data center de 2 gigawatts com a AWS (expansível a 15 GW); e a Hanwha, mais de 10 trilhões num data center de IA para defesa.",
+          "source": "https://en.sedaily.com/technology/2026/07/03/sk-hanwha-to-build-2gw-ai-infrastructure-in-yeongnam-region"
+        },
+        {
+          "title": "Índia inaugura sua primeira fábrica de empacotamento de chips",
+          "body": "O premiê Narendra Modi inaugurou em 05/07 a planta OSAT da CG Semi em Sanand, Gujarat, com apoio técnico de Renesas e Stars Microelectronics. A capacidade atual é de 200 milhões de unidades por ano, com meta de escalar para 5 bilhões; Modi falou em produzir 15 milhões de chips por dia no país e exportar para Japão, EUA e Europa.",
+          "source": "https://www.businesstoday.in/technology/story/sanands-big-chip-moment-made-in-india-semiconductors-to-be-exported-to-japan-us-europe-541028-2026-07-05"
+        },
+        {
+          "title": "Terceira emergência de rede elétrica nos EUA por causa da IA",
+          "body": "O Departamento de Energia autorizou a operadora PJM a exigir que data centers e grandes consumidores liguem geradores de backup durante emergência de rede — a terceira ativação da Seção 202(c) em 2026, numa área com 67 milhões de pessoas. A demanda de pico bateu recorde histórico de 166.304 megawatts, e críticos apontam que o backup acionado é majoritariamente diesel, dos mais poluentes.",
+          "source": "https://www.aljazeera.com/economy/2026/7/3/us-heatwave-raises-alarms-over-ai-data-centre-energy-demands"
+        },
+        {
+          "title": "JadePuffer: o primeiro ransomware operado por um agente de IA",
+          "body": "A Sysdig documentou o 'JadePuffer', ataque em que um agente autônomo de LLM cuidou de reconhecimento, roubo de credenciais, movimento lateral, escalonamento de privilégios e criptografia — explorando uma falha de execução remota no Langflow e depois um Nacos exposto, cifrando 1.342 itens de configuração. Num trecho, o agente corrigiu sozinho uma falha de login em 31 segundos.",
+          "source": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/"
+        },
+        {
+          "title": "Agentes de código viram arma — e vetor de ataque",
+          "body": "Dois achados no mesmo fim de semana: a Tenet Security mostrou como um 'falso relatório de bug' injetado via servidor MCP do Sentry sequestra Claude Code, Cursor e Codex com 85% de sucesso em testes. E o pesquisador elder-plinius lançou o T3MP3ST, harness que transforma esses mesmos agentes em caçadores autônomos de zero-day, reivindicando 90% de acerto no suíte XBEN e 8 de 10 CVEs reais em teste cego.",
+          "source": "https://securityboulevard.com/2026/07/fake-bug-report-shows-ai-coding-agents-can-be-turned-into-an-enterprise-attack-path/"
+        },
+        {
+          "title": "Program-as-Weights: compilar o prompt em pesos e rodar no laptop",
+          "body": "Pesquisa em destaque (nº 1 do dia no Hugging Face em 03/07) propõe compilar especificações em linguagem natural em artefatos neurais compactos: um compilador de 4 bilhões de parâmetros gera adaptadores para um interpretador congelado de 0,6 bilhão. O interpretador minúsculo iguala o prompting direto de um modelo de 32 bilhões usando cerca de 1/50 da memória, a 30 tokens por segundo num MacBook M3.",
+          "source": "https://arxiv.org/abs/2607.02512"
+        },
+        {
+          "title": "AutoMem: só otimizar a memória faz um 32B chegar perto do Opus",
+          "body": "Paper do MIT e colaboradores propõe dois loops de meta-LLM: um otimiza a estrutura de memória do agente, outro treina um 'especialista em memória' a partir dos próprios traços do agente. Mexer só na memória — sem tocar no comportamento — melhorou o desempenho base de 2 a 4 vezes, deixando um modelo aberto de 32 bilhões competitivo com Claude Opus 4.5 e Gemini 3.1 Pro Thinking em jogos de longo horizonte.",
+          "source": "https://arxiv.org/abs/2607.01224"
+        },
+        {
+          "title": "O 'tokenpocalypse' do Copilot ainda ferve entre devs",
+          "body": "A mudança de cobrança do GitHub Copilot — de 'premium requests' para créditos por token — seguiu dominando o fim de semana nos fóruns: relatos de contas saltando de US$ 50 para até US$ 3.000 e cancelamentos em massa. O debate sobre quem 'tem culpa' — sessões agênticas de horas versus o modelo de billing da Microsoft — segue sem consenso.",
+          "source": "https://www.techtimes.com/articles/317536/20260601/github-copilot-pricing-change-drives-backlash-agentic-bills-jump-10x-50x-power-users.htm"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A disputa EUA-China desceu do hardware para o acesso e o compliance — com bloqueio, retaliação e regulação de agentes no mesmo fim de semana. A Coreia e a Índia entraram forte na cadeia de chips, e a energia virou gargalo político nos EUA. Na fronteira da segurança, agentes já atacam sozinhos; e nos papers, a mensagem foi clara: memória e compilação, não só modelos maiores, é onde está o próximo ganho barato."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-05",
+      "date": "2026-07-05",
+      "hook": "O radar de IA de um sábado magro — mas com faíscas",
+      "caption": "O feriado de 4 de julho resfriou os anúncios dos laboratórios americanos, mas o fim de semana teve três correntes fortes: a guerra de preços de tokens ganhou um proxy open-source que esconde texto em imagem; a disputa EUA–China migrou para o empacotamento de chips e para os tribunais de direito autoral; e a Europa começou a entregar os primeiros artefatos concretos do AI Act antes do prazo de 2 de agosto.",
+      "slides": [
+        {
+          "title": "O radar de IA de um sábado magro — mas com faíscas",
+          "body": "O feriado de 4 de julho resfriou os anúncios dos laboratórios americanos, mas o fim de semana teve três correntes fortes: a guerra de preços de tokens ganhou um proxy open-source que esconde texto em imagem; a disputa EUA–China migrou para o empacotamento de chips e para os tribunais de direito autoral; e a Europa começou a entregar os primeiros artefatos concretos do AI Act antes do prazo de 2 de agosto."
+        },
+        {
+          "title": "pxpipe transforma texto em PNG e corta até 70% do custo do Claude Code",
+          "body": "O proxy open-source pxpipe intercepta as requisições ao Claude Code e renderiza as partes estáticas — system prompts, documentação de ferramentas, histórico antigo — como imagens PNG compactas. A Anthropics cobra imagem por dimensão em pixels (um número fixo de tokens), enquanto texto custa cerca de um token por caractere. Numa sessão real com o Fable 5, o custo caiu de US$ 42,21 para US$ 6,06 — economia média de 59% a 70%.",
+          "source": "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/"
+        },
+        {
+          "title": "Baidu lança Unlimited OCR, que lê dezenas de páginas numa só passada",
+          "body": "O modelo é um MoE de 3 bilhões de parâmetros (cerca de 500 milhões ativos) construído sobre o Deepseek OCR e marca 93% no benchmark OmniDocBench v1.5, seis pontos acima da baseline. O truque é a Reference Sliding Window Attention: cada token gerado atende a todos os tokens de referência, mas só aos últimos n tokens de saída, transformando o KV cache numa fila de tamanho fixo — memória e velocidade ficam constantes mesmo com documentos enormes.",
+          "source": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/"
+        },
+        {
+          "title": "Dev do Google DeepMind porta Command & Conquer (2003) para iOS com Claude Code",
+          "body": "Ammaar Reshi, do Google AI Studio, usou o Claude Code com o modelo Fable 5 da Anthropic para portar 'C&C: Generals Zero Hour' (2003) para iPhone e iPad nativos em ARM64, sem emulador — o pipeline traduz DirectX 8 para a API Metal da Apple. Primeiro build em cerca de 40 minutos; em dois dias ele esgotou toda a cota do Claude Max. O código-fonte foi aberto no GitHub.",
+          "source": "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/"
+        },
+        {
+          "title": "Governo Trump restringe modelos privados e empurra o mercado para o open source",
+          "body": "Vários veículos reportaram que as restrições da revisão de cibersegurança — que já limitam OpenAI e Anthropic a clientes aprovados — estão deslocando atenção e investimento para alternativas open-source e descentralizadas. O Washington Examiner chamou o apoio ao open source de 'a metade que faltava' da estratégia de IA; a Casa Branca teria pedido à OpenAI para 'escalonar' o lançamento de novos modelos.",
+          "source": "https://news.google.com/articles/CBMiqgFBVV95cUxQSGRpdEZkMVJvYl84YTNsSVdnMXh"
+        },
+        {
+          "title": "100 autores processam a Anthropic por US$ 75 mi por baixar livros piratas",
+          "body": "Mais de 100 autores — incluindo o cofundador da Atari Nolan Bushnell e a autora de 'Como Água para Chocolate' Laura Esquivel — entraram com ação na Corte do Norte da Califórnia. O processo afirma que a Anthropic usou BitTorrent para baixar mais de 500 livros do Library Genesis e do Pirate Library Mirror e os carregou na sua 'biblioteca central' para treinar o Claude; pedem US$ 150 mil por obra. Optaram por sair do acordo coletivo que rendeu US$ 1,5 bilhão em 2025.",
+          "source": "https://nypost.com/2026/07/04/us-news/100-authors-demand-over-75m-from-ai-company-that-stole-their-work-to-train-systems-lawsuit/"
+        },
+        {
+          "title": "Dongfang Suanzin sai do stealth apostando em '3D stacking' para contornar sanções",
+          "body": "A startup chinesa Dongfang Suanzin saiu do stealth mode apostando no empacotamento '3D stacking' — empilhamento vertical de dies — para contornar os controles de exportação dos EUA. É liderada por Wei Shaojun, também vice-presidente da China Semiconductor Industry Association. É rota distinta do 'T-glass' (substrato de vidro) coberto antes: aqui o ganho vem de engenharia de empacotamento, não de litografia de ponta.",
+          "source": "https://www.scmp.com/tech/tech-trends/article/3359336/chinese-ai-chip-start-exits-stealth-mode-bets-3d-stacking-bypass-us-controls"
+        },
+        {
+          "title": "Hollywood quer proibir o Seedance, da ByteDance — mas usa às escondidas",
+          "body": "Após um clipe viral de 15s com Brad Pitt e Tom Cruise numa cena gerada por IA, a Motion Picture Association enviou cease-and-desist à ByteDance chamando o Seedance de 'infringência sistêmica'. Mesmo assim, a ByteDance acelera nos EUA: 100 vagas abertas, demo em Santa Monica e conversas para financiar filmes gerados por IA. Consultores ouvidos pelo LA Times chamam o Seedance de 'a melhor ferramenta de vídeo do mercado agora'.",
+          "source": "https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/"
+        },
+        {
+          "title": "UE publica ícones grátis de rotulagem de IA antes do prazo de 2 de agosto",
+          "body": "A União Europeia liberou ícones gratuitos de rotulagem em preparação para 2 de agosto de 2026, quando entram em vigor as obrigações de transparência e rotulagem do AI Act para sistemas de IA e conteúdo gerado por IA. É o primeiro entregável concreto do calendário de aplicação da lei.",
+          "source": "https://news.google.com/articles/CBMijAFBVV95cUxNZUJUMGVNV19pZnZKc3gwWFJ1cjN"
+        },
+        {
+          "title": "UE quer tratar o Google Search como 'infraestrutura compartilhada' de IA",
+          "body": "Reguladores europeus estudam tratar o Google Search como infraestrutura compartilhada de IA, estendendo o raciocínio antitruste que já obrigou interoperabilidade no Android e no WhatsApp. A ideia é forçar o Google a abrir o índice de busca a rivais de IA sob a justificativa de infraestrutura essencial.",
+          "source": "https://news.google.com/articles/CBMijAFBVV95cUxPc0xtTUU4cWpENDBHWVhRTS1BbDd"
+        },
+        {
+          "title": "O fio do fim de semana: o valor migrou para a camada de custos e de regras",
+          "body": "Três leituras para levar: o pxpipe mostra que a guerra de preços de tokens virou alvo de hacking de pricing, não só de modelos melhores; Dongfang Suanzin e o processo dos 100 autores confirmam que a disputa EUA–China e a de direito autoral saíram dos comunicados e foram para a engenharia e os tribunais; e a Europa começa a entregar artefatos (ícones, prazos) que vão mudar qualquer produto com IA a partir de agosto."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-04",
+      "date": "2026-07-04",
+      "hook": "O radar de IA do fim de semana",
+      "caption": "Feriado de 4 de Julho nos EUA esvaziou o noticiário americano — e o eixo da semana virou para Ásia, Oriente Médio e Europa. Capital recorde, um gigante aberto treinado só com chips chineses e um raro banho de realidade sobre agentes.",
+      "slides": [
+        {
+          "title": "O radar de IA do fim de semana",
+          "body": "Feriado de 4 de Julho nos EUA esvaziou o noticiário americano — e o eixo da semana virou para Ásia, Oriente Médio e Europa. Capital recorde, um gigante aberto treinado só com chips chineses e um raro banho de realidade sobre agentes."
+        },
+        {
+          "title": "OpenAI ofereceria 5% ao governo dos EUA",
+          "body": "Segundo o Financial Times (via Bloomberg e CNBC), a OpenAI propôs a Washington uma fatia de 5% da empresa — cerca de US$ 42 bi no valuation de ~US$ 852 bi. Sam Altman enquadra a ideia como um 'fundo de riqueza pública' à la Alaska, com o governo detendo 5% de cada grande lab de IA americano. Conversas descritas como preliminares.",
+          "source": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html"
+        },
+        {
+          "title": "Together AI capta US$ 800 mi liderado pela Aramco",
+          "body": "A 'neocloud' Together AI fechou Série C de US$ 800 mi a um valuation de US$ 8,3 bi, liderada pela Aramco Ventures, com Nvidia, Vista e General Catalyst. A empresa aluga clusters de GPU e roda modelos abertos (DeepSeek, MiniMax, Kimi), com bookings anuais já acima de US$ 1,15 bi.",
+          "source": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/"
+        },
+        {
+          "title": "O misterioso 'Owl Alpha' era o LongCat-2.0 da Meituan",
+          "body": "A Meituan revelou que o modelo anônimo que liderava os rankings de uso do OpenRouter há semanas era o LongCat-2.0: um MoE de 1,6 trilhão de parâmetros (cerca de 48 bi ativos por token), contexto de 1M, licença MIT no Hugging Face. Scores auto-reportados de 59,5% no SWE-bench Pro e 70,8% no Terminal-Bench. Treinado inteiramente em cerca de 50 mil ASICs chineses, sem Nvidia (benchmarks a confirmar).",
+          "source": "https://huggingface.co/meituan-longcat/LongCat-2.0"
+        },
+        {
+          "title": "DeepSeek V4 oficial chega em meados de julho — com preço de pico",
+          "body": "A DeepSeek confirmou (via Tech Buzz China / TechNode) que a versão oficial do V4 sai em meados de julho, com contexto de 1M em toda a linha e ganhos em matemática, código e tarefas de agente. A novidade é comercial: preços da API dobram em horário de pico de Pequim (9h às 12h e 14h às 18h) — primeira sobretaxa por horário da empresa.",
+          "source": "https://technode.com/2026/06/30/deepseek-to-launch-v4-in-mid-july-with-new-peak-time-api-pricing/"
+        },
+        {
+          "title": "China sobe na cadeia de chips com 'T-glass'",
+          "body": "A chinesa Guangyuan New Material investiu US$ 1 bi numa fábrica em Henan de 'T-glass' — material usado no encapsulamento de semicondutores de IA — e já fornece para Panasonic e Resonac, no Japão; retomou o pedido de IPO na ChiNext. A Shengyi Technology soma cerca de 5,2 bi de yuans numa nova planta de materiais para servidores.",
+          "source": "https://www.trendforce.com/news/2026/07/03/news-chinas-chip-material-suppliers-challenge-japanese-dominance-guangyuan-invests-us1b-in-t-glass/"
+        },
+        {
+          "title": "Samsung quer DRAM até 20% mais cara no 3º tri",
+          "body": "A Samsung estaria pedindo alta de até 20% nos preços de DRAM no terceiro trimestre, com LPDDR podendo passar de 20%, reflexo do aperto de memória puxado pelos data centers de IA (dado de agregador de mercado, magnitude a confirmar).",
+          "source": "https://www.trendforce.com/news/2026/07/03/news-samsung-reportedly-seeks-up-to-20-3q26-dram-price-increase-lpddr-hikes-may-exceed-20/"
+        },
+        {
+          "title": "Zuckerberg: agentes de IA não avançaram como esperávamos",
+          "body": "Segundo a Reuters (via TechCrunch), Mark Zuckerberg disse a funcionários, numa reunião interna, que o ritmo de desenvolvimento de agentes de IA 'não acelerou como' os executivos esperavam.",
+          "source": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
+        },
+        {
+          "title": "Anthropic dá freio de gasto ao Claude Enterprise",
+          "body": "A Anthropic lançou controles de admin para o Claude Enterprise: tetos de gasto por organização, 'entitlements' por modelo, dashboard de analytics com API de exportação, controle de 'esforço' de raciocínio dos agentes e alertas de gasto em tempo real.",
+          "source": "https://releasebot.io/updates/anthropic"
+        },
+        {
+          "title": "Anthropic propõe uma régua de severidade para jailbreaks",
+          "body": "A Anthropic publicou um rascunho de framework para pontuar a gravidade de jailbreaks, feito com parceiros da Glasswing (AWS, Microsoft, Google): dois eixos — acessibilidade do ataque e potencial de dano — aberto a comentários via um novo bug bounty no HackerOne focado em jailbreaks de cibersegurança do Claude.",
+          "source": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026"
+        },
+        {
+          "title": "Google amplia a aposta em IA na África",
+          "body": "No primeiro Google Cloud Africa Summit, em Joanesburgo, com o presidente Cyril Ramaphosa, o Google anunciou cinco frentes: um novo hub de cabos submarinos no Cabo Oriental, um laboratório de IA em Acra, uma aceleradora para 15 startups sul-africanas (funding sem diluição), mais de US$ 1 mi em educação de IA criativa com a Akuna Group e um centro de inovação em Soweto.",
+          "source": "https://techcabal.com/2026/07/01/google-ai-future-south-africa/"
+        },
+        {
+          "title": "ONU abre seu Diálogo Global de Governança de IA",
+          "body": "A ONU realiza em 6 e 7 de julho, em Genebra, a primeira sessão do Global Dialogue on AI Governance, junto ao Fórum WSIS e à cúpula 'AI for Good' da ITU. Jensen Huang (Nvidia), Andy Jassy (Amazon) e Brad Smith (Microsoft) integram a primeira comissão de governança de IA da ONU.",
+          "source": "https://www.un.org/global-dialogue-ai-governance/en"
+        },
+        {
+          "title": "ICML 2026 abre em Seul com recorde de submissões",
+          "body": "A ICML começa dia 6 em Seul com 23.918 submissões, recorde histórico. Entre os papers aceitos, forte concentração em agentes: orquestração multiagente, criação automática de sub-agentes, síntese de ambientes web verificáveis e avaliação de agentes de busca com queries ambíguas (títulos individuais a confirmar).",
+          "source": "https://www.techtimes.com/articles/319243/20260628/icml-2026-opens-seoul-next-week-record-23918-submissions-signal-ai-agent-safety-era.htm"
+        },
+        {
+          "title": "Show HN: um buscador de 'skills' para agentes",
+          "body": "Apareceu no Show HN o Skill Federation, um buscador 'agent-native' que indexa mais de 87 mil skills para agentes de codificação: o agente descreve o conjunto ideal para a tarefa e a ferramenta busca e reordena os resultados (métricas de votos a confirmar).",
+          "source": "https://news.ycombinator.com/item?id=48760839"
+        },
+        {
+          "title": "Quatro fios para levar do fim de semana",
+          "body": "Primeiro: o capital ficou geopolítico — EUA cogitando fatias nos labs, Oriente Médio bancando nuvem aberta. Segundo: a China provou treinar modelos de fronteira sem Nvidia, e ataca até os materiais de chip. Terceiro: o hype dos agentes tomou um banho de realidade, enquanto governança de custo e segurança viram requisito. Quarto: a regulação tenta se organizar em Genebra, com a ciência girando toda em torno de agentes."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03",
+      "date": "2026-07-03",
+      "hook": "Notícias de IA · 3 de julho de 2026",
+      "caption": "Sexta-feira de chips rastreados e regras se aproximando: o Congresso dos EUA avança no Chip Security Act e a fiscalização de modelos pela UE está a um mês de valer.",
+      "slides": [
+        {
+          "title": "Notícias de IA · 3 de julho de 2026",
+          "body": "Sexta-feira de chips rastreados e regras se aproximando: o Congresso dos EUA avança no Chip Security Act e a fiscalização de modelos pela UE está a um mês de valer."
+        },
+        {
+          "title": "Comitê da Câmara aprova Chip Security Act",
+          "body": "A comissão da Casa avançou o Chip Security Act, que exige verificação de localização para chips avançados de IA, reportes obrigatórios e estuda salvaguardas adicionais — ganhando apoio da indústria.",
+          "source": "http://chinaselectcommittee.house.gov/media/press-releases/house-committee-passes-chip-security-act"
+        },
+        {
+          "title": "Fiscalização de modelos GPAI pela UE começa em 2 de agosto",
+          "body": "Faltando um mês, a União Europeia ativa o poder de multar provedores de modelos de IA de uso geral: até 3% do faturamento global ou €15 milhões pelo Artigo 101.",
+          "source": "https://beam.ai/agentic-insights/eu-ai-act-enforcement-august-2-2026-gpai-fines"
+        },
+        {
+          "title": "Rodada legislativa de IA soma dezenas de projetos",
+          "body": "O resumo legislativo de 3 de julho lista dezenas de projetos de lei em andamento sobre IA, incluindo o HB 2133 sobre divulgação indevida de imagens.",
+          "source": "https://www.transparencycoalition.ai/news/ai-legislative-update-july3-2026"
+        },
+        {
+          "title": "EUA apertam cerco a chips da Nvidia para chinesas fora da China",
+          "body": "O Departamento de Comércio fechou brechas que permitiam exportar chips de IA a empresas chinesas operando fora da China; centenas de milhares já podem ter chegado lá.",
+          "source": "https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/"
+        },
+        {
+          "title": "O que esperar da semana",
+          "body": "A fiscalização se aproxima dos dois lados: rastreamento de chips nos EUA e multas a provedores de modelos na UE. Quem opera IA corporativa precisa preparar governança agora — antes de agosto."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02",
+      "date": "2026-07-02",
+      "hook": "Notícias de IA · 2 de julho de 2026",
+      "caption": "O dia em que a IA virou serviço de consultoria: a Microsoft montou uma empresa de deploy com US$ 2,5 bi e 6 mil engenheiros — enquanto modelos ficaram reféns de aprovação governamental.",
+      "slides": [
+        {
+          "title": "Notícias de IA · 2 de julho de 2026",
+          "body": "O dia em que a IA virou serviço de consultoria: a Microsoft montou uma empresa de deploy com US$ 2,5 bi e 6 mil engenheiros — enquanto modelos ficaram reféns de aprovação governamental."
+        },
+        {
+          "title": "Microsoft lança 'Frontier Company' com US$ 2,5 bi",
+          "body": "A Microsoft criou uma nova subsidiária, a Microsoft Frontier Company, com US$ 2,5 bilhões e cerca de 6 mil engenheiros e vendedores embedados em clientes para implantar e governar IA em escala.",
+          "source": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/"
+        },
+        {
+          "title": "OpenAI e Anthropic limitam modelos a clientes aprovados pelo governo",
+          "body": "Durante revisão de cibersegurança, OpenAI e Anthropic passaram a restringir seus modelos mais novos a clientes aprovados pelo governo americano.",
+          "source": "https://www.wowktv.com/news/u-s-world/ap-openai-limits-its-newest-chatgpt-product-to-trump-approved-customers-during-cybersecurity-review/"
+        },
+        {
+          "title": "Google em tratativas com governo sobre modelos de código",
+          "body": "O Google está em conversas com o governo americano antes do lançamento planejado de modelos avançados de programação, segundo a Reuters.",
+          "source": "https://www.buildfastwithai.com/blogs/ai-news-today-july-3-2026"
+        },
+        {
+          "title": "Google perde recurso e mantém multa antitruste de €4,1 bi",
+          "body": "O Google perdeu a disputa contra a multa recorde de €4,1 bilhões da União Europeia sobre o Android, confirmando uma das maiores penalidades antitruste já aplicadas.",
+          "source": "https://www.theinformation.com/"
+        },
+        {
+          "title": "Vence prazo de 30 dias da ordem executiva de ciberdefesa com IA",
+          "body": "Chegou ao fim (2 de julho) o prazo de 30 dias dado a órgãos federais para atuarem em ciberdefesa habilitada por IA, conforme ordem executiva recente.",
+          "source": "https://www.mofo.com/resources/insights/260605-trump-issues-executive-order-seeking-to-promote-collaboration"
+        },
+        {
+          "title": "O que ficou do dia",
+          "body": "A IA corporativa se profissionaliza como serviço (Microsoft Frontier), enquanto governos ampliam controle sobre quem pode usar quais modelos — deploy e regulação andando juntos."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-01",
+      "date": "2026-07-01",
+      "hook": "Notícias de IA · 1º de julho de 2026",
+      "caption": "O dia misturou o maior fundo de IA já criado, do Abu Dhabi, com o governo dos EUA pressionando a forma como modelos são liberados.",
+      "slides": [
+        {
+          "title": "Notícias de IA · 1º de julho de 2026",
+          "body": "O dia misturou o maior fundo de IA já criado, do Abu Dhabi, com o governo dos EUA pressionando a forma como modelos são liberados."
+        },
+        {
+          "title": "MGX capta US$ 49 bilhões para o maior fundo de IA",
+          "body": "O veículo de investimento do Abu Dhabi, MGX, fechou US$ 49 bilhões para um dos maiores fundos dedicados a IA do mundo, alçando a empresa de dois anos ao topo dos investidores globais de tech.",
+          "source": "https://www.bloomberg.com/news/articles/2026-07-01/uae-abu-dhabi-s-mgx-raises-49-billion-for-one-of-the-biggest-ai-funds-ever"
+        },
+        {
+          "title": "EUA negociam padrões voluntários para modelos de IA",
+          "body": "O governo americano está em tratativas avançadas com empresas de IA para criar padrões voluntários de liberação de novos modelos, com anúncio iminente.",
+          "source": "https://www.reuters.com/business/retail-consumer/us-talks-with-ai-companies-voluntary-model-standards-ft-reports-2026-07-02/"
+        },
+        {
+          "title": "Casa Branca gera confusão sobre liberação de modelos",
+          "body": "O pedido do governo para a OpenAI atrasar a liberação de novos modelos está criando confusão sobre a política de IA da Casa Branca e sobre quando empresas podem implantar modelos de fronteira.",
+          "source": "https://thehill.com/newsletters/technology/5948632-white-house-upends-ai-model-release/"
+        },
+        {
+          "title": "Claude Sonnet 5 chega a todos os usuários grátis",
+          "body": "Após o lançamento em 30 de junho, o Sonnet 5 virou o modelo padrão até para o tier gratuito em 1º de julho — a maior chegada de modelo da Anthropic ao mercado de massa no ano.",
+          "source": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026"
+        },
+        {
+          "title": "ONU lança relatório do Painel Científico sobre IA",
+          "body": "O Painel Internacional Científico Independente sobre IA divulgou seu relatório preliminar, em meio à corrida regulatória global.",
+          "source": "https://webtv.un.org/en/asset/k1v/k1v0ss6l5a"
+        },
+        {
+          "title": "O que ficou do dia",
+          "body": "Capital soberano (MGX) e regulação (padrões voluntários e confusão na Casa Branca) dividiram o palco — sinais de que o Estado está se tornando o árbitro da IA."
+        }
+      ]
+    },
+    {
+      "id": "2026-06-30",
+      "date": "2026-06-30",
+      "hook": "Notícias de IA · 30 de junho de 2026",
+      "caption": "O dia em que a Anthropic colocou o Sonnet 5 como modelo padrão e mirou trabalho agêntico mais barato — enquanto compute em escala e o governo como guardião dominaram o noticiário.",
+      "slides": [
+        {
+          "title": "Notícias de IA · 30 de junho de 2026",
+          "body": "O dia em que a Anthropic colocou o Sonnet 5 como modelo padrão e mirou trabalho agêntico mais barato — enquanto compute em escala e o governo como guardião dominaram o noticiário."
+        },
+        {
+          "title": "Claude Sonnet 5 vira o modelo padrão",
+          "body": "A Anthropic lançou o Sonnet 5 como seu modelo padrão, com foco em trabalho agêntico e custo muito menor que o Opus. Disponível na API, AWS, Bedrock e Microsoft.",
+          "source": "https://www.anthropic.com/news/claude-sonnet-5"
+        },
+        {
+          "title": "Anthropic faz 'The Briefing: AI for Science'",
+          "body": "Evento dedicado a IA para ciência, com a primeira aparição pública de John Jumper e casos de Claude em farmacêuticas e pesquisa.",
+          "source": "https://aitoolsrecap.com/Blog/ai-news-june-30-2026"
+        },
+        {
+          "title": "Anthropic fecha com Google e Broadcom por multi-GW de TPU",
+          "body": "Novo acordo para múltimos gigawatts de capacidade TPU de próxima geração, ampliando drasticamente a infraestrutura de treino da Anthropic.",
+          "source": "https://www.anthropic.com/news/google-broadcom-partnership-compute"
+        },
+        {
+          "title": "Alphabet capta US$ 84,75 bilhões",
+          "body": "O Google fechou uma das maiores captações de capital da história da IA, reforçando o caixa para corrida de infraestrutura.",
+          "source": "https://www.buildfastwithai.com/blogs/ai-news-today-june-30-2026"
+        },
+        {
+          "title": "Qualcomm compra a Modular por US$ 3,9 bilhões",
+          "body": "A Qualcomm comprou a Modular, startup de infra de compilação para IA, num movimento para desafiar o ecossistema CUDA da Nvidia.",
+          "source": "https://www.buildfastwithai.com/blogs/ai-news-today-june-30-2026"
+        },
+        {
+          "title": "Google pivota para 'midtraining' em coding",
+          "body": "A equipe de IA para código do Google adota o 'midtraining', uma nova paradigma de treinamento que ajusta modelos no meio do processo para programação.",
+          "source": "https://www.buildfastwithai.com/blogs/ai-news-today-june-30-2026"
+        },
+        {
+          "title": "Google lança Gemini 3.5 Live Translate",
+          "body": "Tradução simultânea em tempo real chega ao ecossistema Gemini, junto a novidades no Android 17.",
+          "source": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"
+        },
+        {
+          "title": "EUA editam ordem executiva de segurança em IA",
+          "body": "A Casa Branca publicou ação presidencial promovendo inovação e segurança em IA, com requisitos ampliados de cibersegurança para modelos.",
+          "source": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+        },
+        {
+          "title": "Proposta corta funding da NSF em 55%",
+          "body": "Nos EUA, proposta levaria o orçamento da NSF de US$ 8,75 bi para US$ 4 bi, em contraste com o estado de outras potências em IA.",
+          "source": "https://www.weforum.org/stories/2026/06/research-ai-innovation-beyond-market-freedom-versus-state-funding/"
+        },
+        {
+          "title": "O que ficou do dia",
+          "body": "Modelos mais baratos e agênticos (Sonnet 5), computação em escala industrial (Alphabet, Anthropic×Google×Broadcom) e o governo como guardião da IA — as três forças que vão dominar o segundo semestre."
+        }
+      ]
+    },
+    {
+      "id": "2026-06-29",
+      "date": "2026-06-29",
+      "hook": "As maiores notícias de IA de ontem",
+      "caption": "Um resumo rápido dos acontecimentos de 29 de junho de 2026 — modelos, política, chips e talentos.",
+      "slides": [
+        {
+          "title": "As maiores notícias de IA de ontem",
+          "body": "Um resumo rápido dos acontecimentos de 29 de junho de 2026 — modelos, política, chips e talentos."
+        },
+        {
+          "title": "GPT-5.6 chega em três versões",
+          "body": "A OpenAI revelou o GPT-5.6 com três níveis: Sol (problemas difíceis), Terra (uso diário equilibrado) e Luna (rápido e barato). A maior mudança de arquitetura desde o GPT-5."
+        },
+        {
+          "title": "EUA afrouxam restrição ao Claude Mythos 5",
+          "body": "O governo americano liberou parcialmente o controle de exportação do Claude Mythos 5 para defensores de infraestrutura crítica — um descongelamento nas relações comerciais com o Departamento de Comércio."
+        },
+        {
+          "title": "Anthropic x Departamento de Defesa",
+          "body": "Segue ativo um dos confrontos legais mais relevantes entre um laboratório de IA e o governo dos EUA. O DOD exigiu que o Claude fosse usado para \"todos os fins legais\" — incluindo armas autônomas letais. A Anthropic traçou suas linhas vermelhas e recusou."
+        },
+        {
+          "title": "Google limita o Gemini para a Meta",
+          "body": "O Google restringiu o uso dos modelos Gemini pela Meta depois que a empresa pediu mais capacidade computacional do que havia disponível. Os limites, impostos por volta de março, atrasaram projetos internos de IA da Meta."
+        },
+        {
+          "title": "Coreia do Sul aposta pesado em IA",
+          "body": "O país revelou um plano massivo de semicondutores e IA centrado na Samsung e na SK Hynix: novas fábricas, mais memória de alta largura de banda (HBM), data centers de IA e iniciativas de robótica."
+        },
+        {
+          "title": "25 mil contas falsas sondaram o Claude",
+          "body": "A Anthropic relatou uma operação em larga escala que usou quase 25.000 contas fraudulentas e gerou mais de 28 milhões de interações para analisar a capacidade de raciocínio, programação e execução de tarefas complexas do Claude."
+        },
+        {
+          "title": "Gemini 3.5 Pro escorrega para julho",
+          "body": "O Gemini 3.5 Pro perdeu o prazo do Google I/O e agora mira o lançamento geral em julho de 2026. Segue em preview no Vertex AI com janela de 2 milhões de tokens, modo de raciocínio Deep Think e capacidade multimodal de fronteira."
+        },
+        {
+          "title": "US$ 31 mi para resfriar data centers",
+          "body": "A Omen AI levantou uma Série A de US$ 31 milhões para monitorar o líquido de resfriamento de chips e impedir surtos bacterianos em data centers — um problema crescente na era dos clusters de IA."
+        },
+        {
+          "title": "Fuga de cérebros do Google continua",
+          "body": "Os pesquisadores Jonas Adler e Alexander Pritzel deixaram o Google rumo à Anthropic. A tendência se acelera: John Jumper (DeepMind) também migrou para a Anthropic e Noam Shazeer foi para a OpenAI."
+        },
+        {
+          "title": "Do \"tokenmaxxing\" à eficiência",
+          "body": "OpenAI e Anthropic encaram uma nova realidade: os usuários estão migrando de gastar tokens à vontade para priorizar eficiência e custo. Empresas trocam modelos caros por alternativas mais baratas. Ambas já protocolaram IPOs confidenciais."
+        },
+        {
+          "title": "É isso por hoje!",
+          "body": "Os destaques de IA de 29 de junho de 2026 em um piscar de olhos. Volte amanhã para o próximo resumo 👋"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-24",
+      "date": "2026-06-24",
+      "hook": "As notícias de IA de ontem",
+      "caption": "O que movimentou o mundo da inteligência artificial. Quarta-feira · 24 de junho de 2026.",
+      "slides": [
+        {
+          "title": "As notícias de IA de ontem",
+          "body": "O que movimentou o mundo da inteligência artificial. Quarta-feira · 24 de junho de 2026."
+        },
+        {
+          "title": "Google perde mais dois nomes de peso para a Anthropic",
+          "body": "Jonas Adler e Alexander Pritzel, contribuidores-chave do Gemini, estão de saída. A debandada assustou investidores e derrubou ações da Alphabet em até 1,2% no dia."
+        },
+        {
+          "title": "A fuga de cérebros que abalou o Google",
+          "body": "O Nobel John Jumper (AlphaFold) foi para a Anthropic e Noam Shazeer trocou o Google pela OpenAI. Duas saídas históricas em dias — com o Gemini 3.5 Pro ainda sem lançamento."
+        },
+        {
+          "title": "US$ 30 bi",
+          "body": "A receita anualizada da Anthropic ultrapassou US$ 30 bilhões — eram ~US$ 9 bi no fim de 2025. Clientes corporativos gastando +US$ 1 mi/ano já passam de mil, o dobro em menos de dois meses."
+        },
+        {
+          "title": "+200%",
+          "body": "A Getty Images fechou parceria plurianual com a OpenAI para exibir suas imagens licenciadas (+400 milhões de assets) dentro das buscas do ChatGPT. A ação da Getty disparou mais de 200% em uma única sessão."
+        },
+        {
+          "title": "China acelera com o MiniMax M2.5",
+          "body": "Modelo quase-fronteira posicionado como alternativa de baixo custo a OpenAI, Anthropic e Google — parte de uma onda de labs chineses lançando modelos competitivos em junho."
+        },
+        {
+          "title": "Diffusion Gemma promete 4x de velocidade",
+          "body": "Modelo experimental para rodar no dispositivo gera 256 tokens em paralelo em vez de um a um — até 4x mais rápido, com qualidade reduzida. Foco em inferência local rápida. O Gemini 3.5 Pro segue sem disponibilidade geral."
+        },
+        {
+          "title": "GPT-5 ajuda a resolver mistério de 3 anos",
+          "body": "A OpenAI destacou como o imunologista Derya Unutmaz usou o GPT-5 para destravar uma questão de pesquisa que o intrigava há três anos — mais um exemplo de IA aplicada à descoberta científica."
+        },
+        {
+          "title": "Supercomputador de IA e alerta nas eleições",
+          "body": "O MCTI prepara para 2026 um supercomputador dedicado à IA (clima, saúde, agricultura). Em paralelo, o TSE já soma 135 ações e coloca o uso irregular de IA como o maior desafio das eleições."
+        },
+        {
+          "title": "É isso por hoje!",
+          "body": "Volte amanhã para o próximo resumo diário de IA. Atualizado em 25 jun 2026."
+        }
+      ]
+    },
+    {
+      "id": "2026-06-23",
+      "date": "2026-06-23",
+      "hook": "Notícias de IA",
+      "caption": "As maiores histórias de inteligência artificial de 23 de junho de 2026, em 8 telas.",
+      "slides": [
+        {
+          "title": "Notícias de IA",
+          "body": "As maiores histórias de inteligência artificial de 23 de junho de 2026, em 8 telas."
+        },
+        {
+          "title": "SpaceX fecha megacontrato de computação",
+          "body": "A Reflection AI pagará US$ 150 mi/mês a partir de 1º de julho por acesso aos chips Nvidia GB300 no data center Colossus 2, perto de Memphis — contrato válido até 2029."
+        },
+        {
+          "title": "OpenAI lança o GPT-5.5-Cyber",
+          "body": "Modelo restrito de cibersegurança atinge 85,6% no benchmark CyberGym. Junto vem o “Patch the Planet”, iniciativa open-source com Trail of Bits e HackerOne para corrigir automaticamente código crítico (Python, Go, cURL). Acesso só para profissionais verificados."
+        },
+        {
+          "title": "Alerta de cibcrime dos “Five Eyes”",
+          "body": "Agências de inteligência dos EUA e parceiros alertam que alguns modelos de IA estão a poucos meses de conseguir lançar ciberataques fortes o bastante para sobrecarregar governos e grandes empresas."
+        },
+        {
+          "title": "Oracle corta vagas citando IA",
+          "body": "A empresa eliminou cerca de 13% da força de trabalho no último ano (caindo para 141 mil funcionários), ligando explicitamente os cortes à adoção e implantação de tecnologias de IA."
+        },
+        {
+          "title": "Gemini 3.5 Pro perto do lançamento geral",
+          "body": "O modelo entra na janela de GA (entre 23 e 30 de junho) com a maior janela de contexto de qualquer modelo de fronteira em produção, modo de raciocínio Deep Think e suporte multimodal."
+        },
+        {
+          "title": "A dívida da IA quase dobra em 2026",
+          "body": "O Morgan Stanley projeta que a dívida global ligada à IA chegará a US$ 570 bi, tornando os bônus de IA o maior setor com grau de investimento por emissão de dívida. A Anthropic fechou +12 contratos de data center (>1 GW)."
+        },
+        {
+          "title": "Varejo brasileiro mira a economia agêntica",
+          "body": "Estudos apontam que 68% do setor planeja adotar agentes de IA até 2028. Hoje, 17% das empresas brasileiras já usam IA — chegando a 50% entre as de grande porte. A governança, dizem executivos, segue humana."
+        },
+        {
+          "title": "É isso por hoje 👋",
+          "body": "Você viu as 8 maiores histórias de IA de 23/06/2026. Volte amanhã para o próximo resumo."
+        }
+      ]
+    },
+    {
+      "id": "2026-06-22",
+      "date": "2026-06-22",
+      "hook": "Google lança o Gemini 2.5 Pro com modo \"Deep Think\"",
+      "caption": "O novo modelo de raciocínio foi descrito como o mais capaz já lançado pelo Google — e, possivelmente, o modelo mais poderoso disponível ao público de qualquer laboratório no momento.",
+      "slides": [
+        {
+          "title": "Google lança o Gemini 2.5 Pro com modo \"Deep Think\"",
+          "body": "O novo modelo de raciocínio foi descrito como o mais capaz já lançado pelo Google — e, possivelmente, o modelo mais poderoso disponível ao público de qualquer laboratório no momento."
+        },
+        {
+          "title": "Noam Shazeer deixa o Google e vai para a OpenAI",
+          "body": "Coautor do artigo histórico \"Attention Is All You Need\" (2017), que criou a arquitetura Transformer, ele assume na OpenAI como Líder de Pesquisa de Arquitetura , responsável pela estrutura das redes neurais por trás de todos os modelos."
+        },
+        {
+          "title": "ChatGPT cai abaixo de 50% pela primeira vez",
+          "body": ""
+        },
+        {
+          "title": "China revela plano quinquenal para infraestrutura de IA",
+          "body": "O investimento estatal representa cerca de US$ 59 bilhões por ano direcionados ao desenvolvimento de IA, intensificando a corrida global por capacidade computacional."
+        },
+        {
+          "title": "Demissões em tecnologia disparam — e a IA é citada",
+          "body": "O setor já eliminou mais de 152 mil postos em 2026, com a IA aparecendo como justificativa em mais de 60% dos anúncios. A Oracle fez o maior corte do ano para financiar US$ 156 bi em data centers."
+        },
+        {
+          "title": "Casa Branca avança com ordem sobre IA avançada",
+          "body": "A ordem executiva sobre \"Inovação e Segurança em IA Avançada\" foca em três frentes: reforçar a ciberdefesa do governo, criar um marco voluntário para modelos de fronteira e combater o uso criminoso da tecnologia."
+        },
+        {
+          "title": "Janela gratuita do \"Fable 5\" expira hoje",
+          "body": "O acesso gratuito ao Fable 5 — restaurado em 18/06 com classificadores de segurança mais rígidos e controles de acesso — encerra sem prorrogação anunciada. A Anthropic vem de um round que avaliou a empresa em US$ 965 bi ."
+        }
+      ]
+    },
+    {
+      "id": "2026-06-18",
+      "date": "2026-06-18",
+      "hook": "Anthropic abre escritório em Seul",
+      "caption": "A empresa inaugurou sua sede coreana com uma onda de implantações corporativas: NAVER levando o Claude Code para toda sua engenharia, Nexon usando-o em jogos live-service e LG CNS adotando o Claude em todo o grupo LG.",
+      "slides": [
+        {
+          "title": "Anthropic abre escritório em Seul",
+          "body": "A empresa inaugurou sua sede coreana com uma onda de implantações corporativas: NAVER levando o Claude Code para toda sua engenharia, Nexon usando-o em jogos live-service e LG CNS adotando o Claude em todo o grupo LG."
+        },
+        {
+          "title": "Gigantes coreanas adotam o Claude",
+          "body": "Samsung SDS vai distribuir Claude Cowork e Claude Code pela Samsung Electronics, Hanwha Solutions roda o Claude globalmente via AWS Bedrock com dados na região, e a Channel Corp passa a usá-lo no Channel Talk, que atende mais de 230 mil empresas."
+        },
+        {
+          "title": "Sam Altman adia visita à Coreia",
+          "body": "O CEO da OpenAI adiou sua viagem à Coreia do Sul após o nascimento da segunda filha. A agenda incluía encontros com Samsung, Naver e Kakao — justamente na semana em que a Anthropic desembarcava em Seul em peso."
+        },
+        {
+          "title": "Grok 4.3 chega ao Amazon Bedrock",
+          "body": "A xAI liberou o Grok 4.3 em disponibilidade geral para usuários da AWS: janela de contexto de 1 milhão de tokens, níveis de raciocínio configuráveis e baixa taxa de alucinação para agentes e fluxos com documentos longos."
+        },
+        {
+          "title": "IA para diagnóstico e química",
+          "body": "A OpenAI revelou um trabalho que usa IA para ajudar médicos a diagnosticar doenças genéticas raras em crianças — e apresentou um \"químico de IA\" quase autônomo capaz de aprimorar uma reação difícil da química medicinal."
+        },
+        {
+          "title": "CEOs propõem regras globais no G7",
+          "body": "Em reunião do G7 em Évian-les-Bains, líderes de Anthropic, Google DeepMind, OpenAI e Mistral propuseram um arcabouço de governança de IA e pressionaram países desenvolvidos a adotá-lo — um movimento mais ambicioso que o lobby tradicional."
+        },
+        {
+          "title": "O que ficou claro em 18/06",
+          "body": "A Coreia virou campo de batalha estratégico, os grandes modelos viraram commodity de nuvem, a IA avança na medicina e na ciência, e a governança global deixou de ser promessa para virar pauta de chefes de Estado."
+        }
+      ]
+    },
+    {
+      "id": "2026-06-17",
+      "date": "2026-06-17",
+      "hook": "Chefes de IA pedem coalizão liderada pelos EUA",
+      "caption": "Dario Amodei (Anthropic) e Demis Hassabis (Google DeepMind) defenderam, em almoço fechado com Trump e líderes mundiais, uma coalizão internacional para definir regras de IA — incluindo acesso estruturado a modelos de fronteira e comércio de chips que exclui a China.",
+      "slides": [
+        {
+          "title": "Chefes de IA pedem coalizão liderada pelos EUA",
+          "body": "Dario Amodei (Anthropic) e Demis Hassabis (Google DeepMind) defenderam, em almoço fechado com Trump e líderes mundiais, uma coalizão internacional para definir regras de IA — incluindo acesso estruturado a modelos de fronteira e comércio de chips que exclui a China."
+        },
+        {
+          "title": "tarefas no novo benchmark LifeSciBench",
+          "body": "A OpenAI lançou um benchmark com 750 tarefas escritas por especialistas, cobrindo 7 fluxos de trabalho e 7 domínios biológicos. Mede se modelos conseguem interpretar evidências e tomar decisões úteis em pesquisa real de descoberta de fármacos, avaliadas por cientistas com PhD."
+        },
+        {
+          "title": "Prever o comportamento antes do lançamento",
+          "body": "A OpenAI detalhou o método de \"Deployment Simulation\": reproduzir conversas passadas em um modelo candidato antes de liberá-lo, simulando o uso real para antecipar como ele se comportará — um passo para lançamentos mais seguros e previsíveis."
+        },
+        {
+          "title": "Claude Opus 4.8 segue na liderança",
+          "body": "No pano de fundo do G7, a disputa entre laboratórios continua quente: o Claude Opus 4.8 lidera o Artificial Analysis Intelligence Index com 61,4 — o primeiro a passar de 60 com folga — enquanto Google (Gemini 3.5 / Omni) e Microsoft (modelos MAI) ampliam suas apostas."
+        },
+        {
+          "title": "Soberania de IA no centro do debate",
+          "body": "Riscos de fronteira, infraestrutura e soberania dominaram a cúpula. Mistral, Cohere, Black Forest Labs, Synthesia, Salesforce e Meta marcaram presença, ao lado de executivos da Domyn (Itália), Sarvam AI (Índia) e Sakana AI (Japão) — sinal de uma corrida cada vez mais multipolar."
+        }
+      ]
+    },
+    {
+      "id": "2026-06-16",
+      "date": "2026-06-16",
+      "hook": "O jailbreak que tirou o Fable 5 do ar",
+      "caption": "Um ataque multiagente coordenado usou homóglifos e decomposição de perguntas para extrair instruções de exploit e até o system prompt de 120 mil caracteres, vazado no GitHub.",
+      "slides": [
+        {
+          "title": "O jailbreak que tirou o Fable 5 do ar",
+          "body": "Um ataque multiagente coordenado usou homóglifos e decomposição de perguntas para extrair instruções de exploit e até o system prompt de 120 mil caracteres, vazado no GitHub."
+        },
+        {
+          "title": "Anthropic propõe pausa global... e abre capital",
+          "body": "A contradição: o documento saiu na mesma semana em que a empresa registrou um IPO avaliado em US$ 965 bilhões. A pausa não seria unilateral — todos os laboratórios teriam que parar juntos."
+        },
+        {
+          "title": "80%+",
+          "body": "Segundo dados internos do próprio paper: o engenheiro típico hoje faz merge de ~8x mais código por dia do que em 2024, e a autonomia das IAs vem dobrando a cada ~4 meses. O ganho real de produtividade reportado, porém, é de ~4x."
+        },
+        {
+          "title": "US$ 47 bi",
+          "body": "Daniela Amodei, na Bloomberg Tech, defendeu o IPO: treinar e servir modelos custa caro e exige acesso ao mercado de capitais. Saiu de ~US$ 9 bi no fim de 2025 — alta de mais de 5x em cinco meses. A aposta: \"mais capacidade por dólar de compute\"."
+        },
+        {
+          "title": "Gemini 3.5 Pro está a dias do lançamento",
+          "body": "Ainda em preview no Vertex AI. O Google prometeu \"até o mês que vem\" no I/O — mercados de aposta apontam 23 ou 30 de junho. Preço esperado: ~US$ 15/US$ 60 por milhão de tokens (entrada/saída)."
+        },
+        {
+          "title": "Japão ganha acesso ao Claude Mythos",
+          "body": "É o primeiro deploy confirmado do Mythos a instituições financeiras fora dos EUA. Juntos, os bancos administram mais de US$ 8 trilhões em ativos."
+        },
+        {
+          "title": "Nadella: \"donos do seu loop de aprendizado\"",
+          "body": "Quem só consome APIs gerais entrega o sinal de aprendizado para o fornecedor do modelo, ficando apenas com a eficiência operacional própria."
+        },
+        {
+          "title": "A corrida pela \"soberania de hardware\"",
+          "body": "A saída prática vira estratégia multiprovedor (Claude, GPT-5.5, Gemini) + modelos de pesos abertos como o Kimi K2.7-Code, que marcou 81,1% no MCPMark e não pode ser \"desligado\"."
+        },
+        {
+          "title": "SpaceX compra a Cursor · OpenAI lança novidades",
+          "body": "No mesmo dia, a OpenAI apresentou o \"Deployment Simulation\" (que reexecuta conversas passadas em um modelo candidato antes do lançamento) e anunciou a OpenAI Partner Network."
         }
       ]
     }

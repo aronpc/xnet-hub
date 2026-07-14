@@ -2,28 +2,177 @@
   "perfil": "btc",
   "posts": [
     {
-      "id": "2026-07-13-22h30",
+      "id": "2026-07-13",
       "date": "2026-07-13",
-      "time": "22h30",
-      "hook": "BTC lateral em US$ 62,4k · medo extremo",
-      "caption": "Preço segura em US$ 62.480 enquanto o F&G afunda em 22 (medo extremo) — exaustão de vendedores costuma anteceder repique.",
+      "hook": "BTC · fechamento do dia · viés de baixa",
+      "caption": "Dia de queda (-3,3%) com BTC em US$ 62.015, pressionado por saídas persistentes de ETFs e maior correlação com o macro. Sentimento em Medo (28/100); preço roça o suporte de US$ 61.850. Risco: perda de US$ 61,8 mil abre caminho a US$ 58 mil — mas fluxos de ETF voltaram a entrar em julho e a SEC sinaliza postura neutra, mantendo um rebote sazonal \"frágil\" na mesa.",
+      "reportUrl": "https://xbtc.aronpc.dev",
       "slides": [
         {
-          "title": "Fechamento do dia",
-          "body": "Preço segura em US$ 62.480 enquanto o F&G afunda em 22 (medo extremo) — exaustão de vendedores costuma anteceder repique."
-        },
-        {
-          "title": "US$ 62.480",
-          "body": "Consolidação apertada, volume baixo. Sem direção definida até romper o range.",
+          "title": "Fechamento · US$ 62.015",
+          "body": "Δ24h -3,32% · vol US$ 29,5B · F&G 28 · dominância 55.9%",
           "source": "https://www.coingecko.com/en/coins/bitcoin"
         },
         {
-          "title": "LATERAL",
-          "body": "Smart money neutro (funding e L/S equilibrados). Mercado em espera pelo rompimento."
+          "title": "Preço & gráfico",
+          "body": "US$ 62,0K — -3,32% 24h · -2,60% 7d · -3,27% 30d máx/mín 24h: 64.230 / 61.850"
         },
         {
-          "title": "Rompimento define a hora",
-          "body": "Acima de US$ 63,4k → segue alta até US$ 64,5k. Perder US$ 61,8k → baixa a US$ 60,5k."
+          "title": "Volume & dominância",
+          "body": "US$ 29,5B — volume spot 24h · mcap US$ 1,24T dominância BTC 55.9% (ETH 9.6%)"
+        },
+        {
+          "title": "Sentimento · F&G",
+          "body": "28/100 — Fear (ontem 26, Δ +2) tom de notícias: cauteloso, viés de risco off"
+        },
+        {
+          "title": "Ciclo · vs ATH",
+          "body": "-50,81% — ATH US$ 126,1K em 2025-10-06 fase pós-ATH, drawdown profundo"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-13-22h30",
+      "date": "2026-07-13",
+      "time": "22h30",
+      "hook": "BTC $62.480 · lateral",
+      "caption": "Caiu 1,9% no dia e tocou fundo em ~ $61,8k; repica +0,3% na hora saindo de medo extremo (F&G 22), mas encosta na resistência imediata com longs lotados (L/S 1,8). Repique técnico — ainda sem confirmação de reversão.",
+      "reportUrl": "https://xbtc.aronpc.dev",
+      "slides": [
+        {
+          "title": "Preço · $62.480",
+          "body": "Δ1h +0,32% · Δ24h −1,87% · vol $31,0B · F&G 22 (medo extremo)",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "Níveis",
+          "body": "Suporte $61,9k. Resistência $62,7k.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Smart money",
+          "body": "Funding +0,006% · L/S 1,83.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Gatilho",
+          "body": "F&G em 22 (medo extremo) e preço testando a resistência logo após saltar do fundo — historicamente zona de fundo, mas só se confirma se segurar acima de $62,0k nesta hora."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-13-21h30",
+      "date": "2026-07-13",
+      "time": "21h30",
+      "hook": "BTC $62.281 · lateral",
+      "caption": "Queda de 2,9% em 24 h com máximas decrescentes (64,1k→63,3k→62,5k), mas o preço segura o piso de $61,9k e ensaia repique (+0,25% na hora). F&G em 22 (medo extremo) e funding neutro pesam contra continuação imediata — falta fechar acima de $62,9k para virar o viés.",
+      "reportUrl": "https://xbtc.aronpc.dev",
+      "slides": [
+        {
+          "title": "Preço · $62.281",
+          "body": "Δ1h  · Δ24h  · vol $30,97 bi · F&G 22 (medo extremo)",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "Níveis",
+          "body": "Suporte $61,9k. Resistência $62,9k.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Smart money",
+          "body": "Funding +0,008% · L/S 1,84.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Gatilho",
+          "body": "F&G em 22 (medo extremo), piora vs 28 há 1 h, + preço a só 0,6% da mínima 24 h → zona de exaustão contrarian a observar. A vela que rompeu $62,1k teve o maior volume das 24 h (2,18k BTC) — pressão vendedora concentrada, cuidado com reteste."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-13-20h30",
+      "date": "2026-07-13",
+      "time": "20h30",
+      "hook": "BTC $62.127 · lateral",
+      "caption": "Estabilizou no terço inferior do range 24h ($61,9k–$62,3k) após cair 2,6%; Δ1h plano e F&G em Medo (28) — consolidação, sem confirmar repique nem rompimento.",
+      "reportUrl": "https://xbtc.aronpc.dev",
+      "slides": [
+        {
+          "title": "Preço · $62.127",
+          "body": "Δ1h +0,14% · Δ24h −2,60% · vol $30,3B · F&G 28 (medo)",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "Níveis",
+          "body": "Suporte $61.800. Resistência $62.300.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Smart money",
+          "body": "Funding +0,009% · L/S 1,82.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Gatilho",
+          "body": "Segurar $61.800 e romper $62.300 → repique pra $62.800–$63.000 (zona intermediária das velhas). Perder $61.800 com volume → alvo $61.500 e abre $61.000."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-13-19h40",
+      "date": "2026-07-13",
+      "time": "19h40",
+      "hook": "BTC $62.042 · viés de baixa",
+      "caption": "No terço baixo do range 24h (mín 61,8k / máx 64,4k), Δ24h −2,7% e L/S 1,81 esticado em long. A pressão vendedora arrefeceu (Δ1h ≈ 0), mas é pausa dentro da baixa — o base case segue continuação até romper $62,3k.",
+      "reportUrl": "https://xbtc.aronpc.dev",
+      "slides": [
+        {
+          "title": "Preço · $62.042",
+          "body": "Δ1h −0,1% · Δ24h −2,7% · vol $30,8B · F&G 28 (medo)",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "Níveis",
+          "body": "Suporte $61.800. Resistência $62.300.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Smart money",
+          "body": "Funding +0,01% · L/S 1,81.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Gatilho",
+          "body": "F&G em 28 (medo) e preço comprimido no box $61,8k–$62,3k — arrombamento para qualquer lado costuma ser movido. A vela de maior volume da janela (queda até $62,1k) esteve ~3× acima da média; vigiar repetição desse fluxo."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-13-19h30",
+      "date": "2026-07-13",
+      "time": "19h30",
+      "hook": "BTC $62.113 · lateral",
+      "caption": "Consolidação no terço inferior da range de 24h. Série de topos decrescentes (64,4k→63,3k→62,8k→62,2k) mantém a tendência de baixa, mas o preço repousa sobre a mínima do dia (~$61,8k) com um repique tímido de +0,23% na última hora. F&G em Medo dá combustível contrarian, mas ainda sem confirmação de reversão — neutro até romper $62,8k ou perder $61,8k.",
+      "reportUrl": "https://xbtc.aronpc.dev",
+      "slides": [
+        {
+          "title": "Preço · $62.113",
+          "body": "Δ1h +0,23% · Δ24h −2,60% · vol $30,9B · F&G 28 (medo)",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "Níveis",
+          "body": "Suporte $61.800. Resistência $62.800.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Smart money",
+          "body": "Funding +0,01% · L/S 1,80.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Gatilho",
+          "body": "Volume da última vela despencou (175 BTC vs. pico vendedor de 2.175 BTC há ~9h) — a pressão de venda esfriou, mas ainda não há compra agressiva. Range apertada perto do suporte costuma anteceder uma expansão direcional; o rompimento de $62.300 ou $61.800 define o lado."
         }
       ]
     },
@@ -31,28 +180,28 @@
       "id": "2026-07-13-18h30",
       "date": "2026-07-13",
       "time": "18h30",
-      "hook": "BTC cai 0,8% · viés baixa clara",
-      "caption": "Preço perdeu suporte, Δ1h e Δ24h negativos, F&G em medo. Níveis e smart money abaixo.",
+      "hook": "BTC $61.968 · viés de baixa",
+      "caption": "Tendência de baixa clara: preço caiu 3,2% em 24h e agora cola na mínima 24h ($61,8k); Δ1h e Δ24h negativos, F&G em medo (28). Posicionamento alavancado net-long (L/S 1,8) não confirma fundo — é risco de squeeze de longs se o suporte ceder.",
       "reportUrl": "https://xbtc.aronpc.dev",
       "slides": [
         {
-          "title": "Preço · US$ 62.420",
-          "body": "Δ1h −0,8% · Δ24h −2,1% · vol US$ 38 bi. F&G 32 (medo).",
+          "title": "Preço · $61.968",
+          "body": "Δ1h −0,29% · Δ24h −3,22% · vol $31,0B · F&G 28 (medo)",
           "source": "https://www.coingecko.com/en/coins/bitcoin"
         },
         {
           "title": "Níveis",
-          "body": "Suporte US$ 61,8k (−1%). Resistência US$ 63,4k (+1,6%).",
+          "body": "Suporte $61.800. Resistência $62.300.",
           "source": "https://www.binance.com/en/trade/BTC_USDT"
         },
         {
           "title": "Smart money",
-          "body": "Funding +0,01% e L/S 1,8 → longs lotados, cuidado com squeeze.",
+          "body": "Funding +0,01% · L/S 1,80.",
           "source": "https://www.coinglass.com/FundingRate"
         },
         {
           "title": "Gatilho",
-          "body": "Perder US$ 61,8k → alvo US$ 60,5k. Segurar → repique até US$ 63,4k."
+          "body": "Perder $61,8k com volume → alvo $61,0k e $60,0k; segurar acima e romper $62,3k → repiques a $62,8k–$63,3k."
         }
       ]
     },
@@ -60,16 +209,57 @@
       "id": "2026-07-13-17h30",
       "date": "2026-07-13",
       "time": "17h30",
-      "hook": "BTC lateral · espera rompimento",
-      "caption": "Consolidação apertada, volume baixo. Smart money neutro.",
+      "hook": "BTC $62.148 · lateral",
+      "caption": "Caiu −3,1% em 24h mas estabilizou em $62,2k colado no fundo de 24h ($61,8k) nas últimas horas. F&G em medo (28) é contrarian; funding neutro e L/S 1,82 sem extremos — mercado em equilíbrio temporário, esperando o preço definir a direção.",
+      "reportUrl": "https://xbtc.aronpc.dev",
       "slides": [
         {
-          "title": "Preço · US$ 62.920",
-          "body": "Δ1h −0,1% · Δ24h +0,4% · F&G 38."
+          "title": "Preço · $62.148",
+          "body": "Δ1h +0,03% · Δ24h −3,11% · vol $30,0B · F&G 28 (medo)",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
         },
         {
           "title": "Níveis",
-          "body": "Range US$ 62,6k–63,4k. Rompimento define direção."
+          "body": "Suporte $61.800. Resistência $63.000.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Smart money",
+          "body": "Funding +0,01% · L/S 1,82.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Gatilho",
+          "body": "Acima de $62,8k → segue a testar $63,0k–63,3k; perder $61,8k com volume → invalida o piso, alvo $61,0k–61,2k."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-13-17h17",
+      "date": "2026-07-13",
+      "time": "17h17",
+      "hook": "BTC $62.127 · viés de baixa",
+      "caption": "Caiu 3,2% em 24h e opera colado à mínima do dia ($61,8k), com repiques sendo vendidos (subiu a $62,3k e voltou). F&G em Medo (28) e preço na faixa inferior do range mantêm o viés de baixa enquanto não romper $62,8–63,0k.",
+      "reportUrl": "https://xbtc.aronpc.dev",
+      "slides": [
+        {
+          "title": "Preço · $62.127",
+          "body": "Δ1h −0,12% · Δ24h −3,17% · vol $30,7B · F&G 28 (medo)",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "Níveis",
+          "body": "Suporte $61,8k. Resistência $62,8k.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Smart money",
+          "body": "Funding +0,01% · L/S 1,82.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Gatilho",
+          "body": "Funding +0,01% (neutro) e L/S 1,82 → longs ainda lotados num mercado em queda. Se $61,8k ceder, esse posicionamento vira combustível para um squeeze de longs; não há euforia de short para confirmar fundo."
         }
       ]
     }
