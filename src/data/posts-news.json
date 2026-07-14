@@ -72,80 +72,72 @@
     {
       "id": "2026-07-13",
       "date": "2026-07-13",
-      "hook": "Projetos & Mercado — 13 de julho",
-      "caption": "A semana foi de capital recorde: quase 2,7 bilhões de dólares em três dias, concentrados em infra para modelos abertos e agentes. Nenhum item é ferramenta direta pro stack — mas o dinheiro revela o eixo de construção do momento: quem está sendo financiado disputa preço e custo das labs fechadas, e constrói o chão sob os agentes.",
+      "hook": "Skills & MCP — 13 de julho",
+      "caption": "Skills deixam de ser coisa só da Anthropic: o Codex, da OpenAI, adotou o padrão de SKILL.md. E dois MCPs novos encostam direto em projetos de memória — um knowledge graph com score de confiança e um indexador de sessões entre ferramentas. O subtexto da edição é confiança: quem escreve skill e quem roda agente passa a precisar de proveniência e recall.",
       "slides": [
         {
-          "title": "Projetos & Mercado — 13 de julho",
-          "body": "A semana foi de capital recorde: quase 2,7 bilhões de dólares em três dias, concentrados em infra para modelos abertos e agentes. Nenhum item é ferramenta direta pro stack — mas o dinheiro revela o eixo de construção do momento: quem está sendo financiado disputa preço e custo das labs fechadas, e constrói o chão sob os agentes."
+          "title": "Skills & MCP — 13 de julho",
+          "body": "Skills deixam de ser coisa só da Anthropic: o Codex, da OpenAI, adotou o padrão de SKILL.md. E dois MCPs novos encostam direto em projetos de memória — um knowledge graph com score de confiança e um indexador de sessões entre ferramentas. O subtexto da edição é confiança: quem escreve skill e quem roda agente passa a precisar de proveniência e recall."
         },
         {
-          "title": "Together AI levanta US$ 800 mi a US$ 8,3 bi — Aramco Ventures lidera",
-          "body": "A Together AI, infra para treinar e rodar modelos abertos, captou 800 milhões de dólares em Série C a uma avaliação de 8,3 bilhões — mais que o dobro da rodada anterior — com a Aramco Ventures liderando.",
+          "title": "'Skills for Codex': OpenAI adota Skills no Codex a partir de 12/jul",
+          "body": "A OpenAI habilitou em 12 de julho suporte experimental a Skills no Codex, junto de um dashboard para monitorar sessões, gasto de tokens e export de evals — o padrão de skill-authoring popularizado pelo Claude Code chegando ao Codex.",
           "source": {
-            "label": "NYT — 1 jul",
-            "url": "https://www.nytimes.com/2026/07/01/business/dealbook/together-ai-funding.html"
+            "label": "community.openai — 12 jul",
+            "url": "https://community.openai.com/t/sync-codex-and-claude-code-configs-skills-agents-mcp-permissions/1380517"
           }
         },
         {
-          "title": "Norm AI vira unicorn — IA de compliance e regtech",
-          "body": "A Norm AI, startup de IA para conformidade regulatória, alcançou status de unicórnio numa Série C anunciada na leva de rodadas de 6 a 8 de julho.",
+          "title": "MyKG (MCP): knowledge graph com score de confiança por nó",
+          "body": "MCP listado em 11 de julho que gera um knowledge graph pontuado por confiança a partir de formatos variados de documento, fundamentado numa ontologia RDFS/OWL induzida.",
           "source": {
-            "label": "scouts.yutori — 7 jul",
-            "url": "https://scouts.yutori.com/68f22e10-d5fe-4e94-1c8-9c6218cfdb2c"
+            "label": "mcpmarket — 11 jul",
+            "url": "https://mcpmarket.com/daily/top-mcp-server-list-july-11-2026"
           }
         },
         {
-          "title": "Oxmiq Labs: US$ 35 mi com Raja Koduri (ex-Intel)",
-          "body": "A Oxmiq Labs, liderada pelo ex-chefe de gráficas da Intel Raja Koduri, captou 35 milhões de dólares em Série A para hardware de IA.",
+          "title": "Sessions (MCP): indexa e centraliza transcripts de coding AI",
+          "body": "MCP que indexa e centraliza transcrições de sessões de coding AI vindas de várias ferramentas — Claude Code, Codex, Cursor — habilitando busca e recall poderosos sobre o histórico.",
           "source": {
-            "label": "startupcorners — 2 jul",
-            "url": "https://startupcorners.com/digest/funding-digest-2026-07-02"
+            "label": "mcpmarket — 11 jul",
+            "url": "https://mcpmarket.com/daily/top-mcp-server-list-july-11-2026"
           }
         },
         {
-          "title": "Velocity: US$ 27 mi em seed para infra de agentes",
-          "body": "A Velocity, startup de infraestrutura para IA e agentes, captou 27 milhões de dólares em seed, na mesma janela em que agentes como o GPT-Live estrearam.",
+          "title": "Claude Code ganha navegador embutido e um /doctor que conserta",
+          "body": "Na semana de 6 a 10 de julho, o Claude Code ganhou navegador embutido no app Desktop (sandboxed e configurável) e o /doctor virou um checkup que diagnostica E conserta: encontra skills, MCPs e plugins não usados versus custo de contexto, sugere poda de CLAUDE.md e sinaliza hooks lentos.",
           "source": {
-            "label": "scouts.yutori — 8 jul",
-            "url": "https://scouts.yutori.com/840eef3d-2f47-41db-8a72-976b67d1a0e0"
+            "label": "releasebot — 6 jul",
+            "url": "https://releasebot.io/updates/anthropic/claude-code"
           }
         },
         {
-          "title": "Bespoke Labs: US$ 40 mi (seed + Série A) para infra de agentes",
-          "body": "A Bespoke Labs levantou 40 milhões de dólares no total, entre seed e Série A, com participação de investidores de IA de destaque, para infraestrutura de agentes.",
+          "title": "Dsclaude (MCP): roteia o cliente Claude para backends de terceiros",
+          "body": "Novo MCP listado em 11 de julho que integra o Claude Code e o Claude Desktop a backends LLM de terceiros através de uma API compatível com a da Anthropic.",
           "source": {
-            "label": "AI Agents Directory — 7 jul",
-            "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-july-7-2026"
+            "label": "mcpmarket — 11 jul",
+            "url": "https://mcpmarket.com/daily/top-mcp-server-list-july-11-2026"
           }
         },
         {
-          "title": "Oito rodadas de IA em 6-8/jul somam ~US$ 2,66 bi",
-          "body": "Um levantamento do scouts by yutori contabiliza oito rodadas de IA entre 6 e 8 de julho, totalizando cerca de 2,66 bilhões de dólares — com a Norm AI (unicorn) entre os destaques.",
+          "title": "Claude in Chrome em GA + skill built-in /dataviz com validador",
+          "body": "No v2.1.198, de 2 de julho, o 'Claude in Chrome' chegou ao general availability — o Claude Code dirige o navegador: abre abas, clica, preenche forms e lê o console — e estreou a skill built-in /dataviz para design de gráficos e dashboards com um validador de paleta de cores executável.",
           "source": {
-            "label": "scouts.yutori — 7 jul",
-            "url": "https://scouts.yutori.com/68f22e10-d5fe-4e94-1c8-9c6218cfdb2c"
+            "label": "releasebot — 2 jul",
+            "url": "https://releasebot.io/updates/anthropic/claude-code"
           }
         },
         {
-          "title": "Strattum AI (Brasil) recebe investimento da Basis Set Ventures",
-          "body": "A startup brasileira Strattum AI recebeu investimento da Basis Set Ventures, gestora early-stage de IA, divulgado nos canais da gestora em julho.",
+          "title": "MCP tunnels (research preview) + sandboxes self-hosted",
+          "body": "Nas release notes da Claude Developer Platform, 'MCP tunnels' chegou como research preview para conectar a MCP servers em redes privadas, e os sandboxes self-hosted passaram a ser disponíveis.",
           "source": {
-            "label": "basisset — jul",
-            "url": "https://www.basisset.com/"
-          }
-        },
-        {
-          "title": "Leva de 10/jul: agentes, dev tooling e voz-first",
-          "body": "Segundo o startupcorners, 10 de julho foi um 'dia cheio' de lançamentos de produto, concentrados em infraestrutura para agentes, ferramentas de desenvolvedor e experiências voice-first.",
-          "source": {
-            "label": "startupcorners — 10 jul",
-            "url": "https://startupcorners.com/digest"
+            "label": "platform.claude — 10 jul",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
           }
         },
         {
           "title": "O que está mudando",
-          "body": "O dinheiro da semana fala uma língua só: infra. Capital recorde — quase 2,7 bilhões em três dias — foi para quem treina e roda modelos abertos (Together AI) e para quem constrói o chão sob os agentes (Velocity e Bespoke). Nenhum item é ferramenta direta pro stack, mas o sinal é claro: o barateamento de open models e o eixo voz-first seguem sendo financiados — o que sustenta um setup de roteamento barato e de TTS. A gente se vê no próximo radar!"
+          "body": "Três movimentos definiram a semana. Skills viraram padrão cross-tool — o Codex adotou SKILL.md, e quem escreve skill agora pensa em portabilidade. Confiança virou questão de infra: o MyKG pontua cada nó do grafo e o /doctor passou a fazer a higiene de contexto que antes era manual. E a memória ganhou um indexador cross-ferramenta no Sessions. Pra quem vive de agentes, o recado é um só: proveniência e recall deixaram de ser opcional. A gente se vê no próximo radar!"
         }
       ]
     },
