@@ -5,12 +5,72 @@
       "id": "2026-07-13",
       "date": "2026-07-13",
       "hook": "Radar IA — 13 de julho",
-      "caption": "Modelo que roda offline no celular, funding recorde em infra aberta e o eixo de agentes. 9 pontos do dia.",
-      "reportUrl": "https://xnews.aronpc.dev",
+      "caption": "A economia do modelo topo de linha virou pré-pago: o Fable 5 passa a ser cobrado por uso, a preço de API. E, no mesmo dia, uma pesquisa quantifica em 57% o problema exato que projetos de memória tentam resolver — agentes 'confidentemente errados'. São os dois eixos da edição: quanto custa o token no topo, e quanto custa confiar num agente.",
       "slides": [
-        { "title": "OpenAI lança modelo offline", "body": "Roda no celular, sem nuvem. Mudança de paradigma pra privacidade e custo.", "source": "https://openai.com/news" },
-        { "title": "Funding recorde em infra aberta", "body": "Quase US$ 2,7 bi em 3 dias concentrados em modelos abertos e agentes.", "source": "https://techcrunch.com" },
-        { "title": "Agentes viram produto", "body": "Fleet de coding agents paralelos ganha tração; orquestração é o novo diferencial.", "source": "https://www.anthropic.com/news" }
+        {
+          "title": "Radar IA — 13 de julho",
+          "body": "A economia do modelo topo de linha virou pré-pago: o Fable 5 passa a ser cobrado por uso, a preço de API. E, no mesmo dia, uma pesquisa quantifica em 57% o problema exato que projetos de memória tentam resolver — agentes 'confidentemente errados'. São os dois eixos da edição: quanto custa o token no topo, e quanto custa confiar num agente."
+        },
+        {
+          "title": "Fable 5 deixa de ser 'incluso' e vira cobrança por uso a preço de API",
+          "body": "A partir de 13 de julho, todo token do Fable 5 nos planos pagos (Pro, Max e Team) passa a ser cobrado via 'usage credits' pré-pagos ao preço de API: dez dólares por milhão de tokens de entrada e cinquenta por milhão de saída — o dobro do modelo anterior — fora do limite semanal da assinatura.",
+          "source": {
+            "label": "digitalapplied — 13 jul",
+            "url": "https://www.digitalapplied.com/blog/claude-fable-5-usage-credits-july-7-pricing-guide-2026"
+          }
+        },
+        {
+          "title": "57% das empresas já viram agentes 'confidentemente errados'",
+          "body": "Reportagem da VentureBeat de 12 de julho aponta que 57% das empresas observaram agentes de IA agindo 'confidentemente errados' — o caso em que o agente age convencido da resposta errada, eixo central do problema de contexto e alucinação em produção.",
+          "source": {
+            "label": "VentureBeat — 12 jul",
+            "url": "https://venturebeat.com/"
+          }
+        },
+        {
+          "title": "Poolside libera o Laguna XS 2.1 de graça no OpenRouter",
+          "body": "A Poolside colocou o Laguna XS 2.1 disponível de graça no OpenRouter em 2 de julho — modelo voltado a geração e coding agêntico, sem custo de acesso na plataforma.",
+          "source": {
+            "label": "pricepertoken — 2 jul",
+            "url": "https://pricepertoken.com/news/model-releases"
+          }
+        },
+        {
+          "title": "Google lança o Gemini 3.1 Flash Lite Image — a 'Nano Banana 2 Lite'",
+          "body": "O Google lançou em 1º de julho um gerador de imagem mais rápido e barato, o Gemini 3.1 Flash Lite Image, vendido como 'Nano Banana 2 Lite', disponível pelo Google AI Studio a vinte e cinco centavos de entrada e um dólar e cinquenta de saída por milhão.",
+          "source": {
+            "label": "pricepertoken — 1 jul",
+            "url": "https://pricepertoken.com/news/model-releases"
+          }
+        },
+        {
+          "title": "OpenAI prepara IPO confidencial com Goldman e Morgan Stanley",
+          "body": "A OpenAI estaria preparando um registro confidencial de IPO com Goldman Sachs e Morgan Stanley, com estreia pública possível já em setembro de 2026.",
+          "source": {
+            "label": "buildfastwithai — 12 jul",
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-12-2026"
+          }
+        },
+        {
+          "title": "Janela de julho: Gemini 3.5 Pro mira 17/jul; DeepSeek V4 GA tem prazo 24/jul",
+          "body": "O TechTimes projeta a janela de lançamentos de julho: o Gemini 3.5 Pro tem data-alvo em 17 de julho, e o DeepSeek V4 em versão geral — após preview desde 24 de abril — tem prazo em 24 de julho.",
+          "source": {
+            "label": "TechTimes — 8 jul",
+            "url": "https://www.techtimes.com/articles/319877/20260708/gemini-35-pro-targets-july-17-deepseeks-july-24-deadline-hits-developers-now.htm"
+          }
+        },
+        {
+          "title": "VC dos EUA: US$ 412,7 bi no 1º semestre, ~30% acima de todo 2025",
+          "body": "Segundo a PitchBook, via SiliconANGLE de 9 de julho, o venture funding dos EUA somou 412 vírgula 7 bilhões de dólares no primeiro semestre de 2026 — quase 30% acima de TODO o ano de 2025 — com os deals de IA dominando o volume.",
+          "source": {
+            "label": "SiliconANGLE — 9 jul",
+            "url": "https://siliconangle.com/2026/07/09/pitchbook-us-venture-funding-hits-412-7b-first-half-ai-deals-dominate/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Do eixos definiram o dia. O custo: o Fable 5 vira pré-pago a preço de API, o coding ganha um modelo grátis no OpenRouter e a imagem chega a vinte e cinco centavos por milhão. E a confiança: 57% das empresas já convivem com agentes confidentemente errados — o número que justifica investir em memória e contexto. Pra quem roda agentes, a conta fecha dupla: token barato não serve de nada se o agente age convicto e errado. A gente se vê no próximo radar!"
+        }
       ]
     },
     {
@@ -19,8 +79,14 @@
       "hook": "5 skills de IA que valem em 2026",
       "caption": "Do prompt à orquestração de agentes — o que efetivamente diferencia quem usa IA.",
       "slides": [
-        { "title": "Escrever bons prompts", "body": "Contexto claro, exemplos e formato de saída. É a base de tudo." },
-        { "title": "Automatizar com agentes", "body": "Encadear tarefas e ferramentas sem escrever código." }
+        {
+          "title": "Escrever bons prompts",
+          "body": "Contexto claro, exemplos e formato de saída. É a base de tudo."
+        },
+        {
+          "title": "Automatizar com agentes",
+          "body": "Encadear tarefas e ferramentas sem escrever código."
+        }
       ]
     }
   ]
