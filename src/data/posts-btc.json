@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-15-18h31",
+      "date": "2026-07-15",
+      "time": "18h31",
+      "hook": "BTC LATERAL em US$ 64.840 · medo extremo (F&G 25) no terço inferior do range",
+      "caption": "BTC LATERAL em US$ 64.840 · medo extremo (F&G 25) no terço inferior do range Preço no terço inferior do range; F&G 25 diverge de smart money neutro — o definidor é o que o suporte $64.500 faz leitura técnica, não é recomendação de investimento #bitcoin #btc",
+      "slides": [
+        {
+          "title": "BTC segura $64,5k sob medo extremo",
+          "body": "Preço no terço inferior do range; F&G 25 diverge de smart money neutro — o definidor é o que o suporte $64.500 faz"
+        },
+        {
+          "title": "US$ 64.840",
+          "body": "Δ1h −0,22% · Δ24h +0,32% · vol $29,8B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Terço inferior da faixa 24h ($64,5k–$65,6k), Δ perto de zero · Smart Money: funding +0,003% + L/S 1,17 (neutro)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Segurar $64,5k mira $65,4k",
+          "body": "Suporte $64.500 (−0,5%) · Resistência $65.600 (+1,2%) — perder o piso com volume acelera para $64.000"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica intradia · @xbtc.ai"
+        }
+      ]
+    },
+    {
       "id": "2026-07-15-17h34",
       "date": "2026-07-15",
       "time": "17h34",
