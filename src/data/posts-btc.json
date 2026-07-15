@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-15-07h31",
+      "date": "2026-07-15",
+      "time": "07h31",
+      "hook": "BTC LATERAL em US$ 64.586 · medo extremo (F&G 25) divergente do +3,2% em 24h",
+      "caption": "Após repique de $62,8k→$65k, digere $64,5k–$65k há horas — F&G em 25 sustenta viés contrarian.",
+      "slides": [
+        {
+          "title": "Preço firma $64,6k em meio ao medo extremo",
+          "body": "Após repique de $62,8k→$65k, digere $64,5k–$65k há horas — F&G em 25 sustenta viés contrarian."
+        },
+        {
+          "title": "US$ 64.586",
+          "body": "Δ1h −0,05% · Δ24h +3,2% · vol $31,8 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "◆ LATERAL",
+          "body": "Consolidação construtiva em $64,5k–$65k, sem impulso p/ romper · Smart Money: funding +0,01% + L/S 1,20",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Acima de $65.100 → $65.500",
+          "body": "Suporte $64.500 (−0,1%) · Resistência $65.000 (+0,6%) · Perder $64.500 mira $64.000"
+        },
+        {
+          "title": "Medo Extremo × preço firme",
+          "body": "F&G em 25 com +3,2% no dia — divergência sentimento×preço costuma ser combustível de repique.",
+          "source": "https://edition.cnn.com/markets/fear-and-greed"
+        }
+      ]
+    },
+    {
       "id": "2026-07-15-01h33",
       "date": "2026-07-15",
       "time": "01h33",
