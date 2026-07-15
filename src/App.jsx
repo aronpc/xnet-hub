@@ -14,9 +14,11 @@ const DESC   = {
   btc:  'Bitcoin e cripto todo dia — preço, níveis, smart money e leitura de mercado. Curado e resumido por IA, sem hype.',
 }
 // Fonte dinâmica: GitHub raw (repo público). Cron commita posts-<perfil>.json → hub reflete
-// sem rebuild do Pages (cache raw ~5min). Deploy do hub é MANUAL (só quando o design muda).
+// sem esperar o rebuild do Pages (cache raw ~5min). O bundle já traz um snapshot dos posts,
+// então o fetch é revalidação (SWR), não pré-requisito pra renderizar.
 const RAW = (perfil) => `https://raw.githubusercontent.com/aronpc/xnet-hub/main/src/data/posts-${perfil}.json`
 const PAGE = 8
+const FETCH_TIMEOUT = 8000
 
 function perfilFromHost() {
   const h = (typeof location !== 'undefined' ? location.hostname : '') || ''
@@ -209,7 +211,9 @@ export default function App() {
   const perfil = perfilFromHost()
   const fallback = perfil === 'btc' ? postsBtcFallback : postsNewsFallback
   const [data, setData] = useState(fallback)
-  const [loaded, setLoaded] = useState(false)
+  // o bundle já traz os posts: só há o que esperar se ele vier vazio.
+  const [loaded, setLoaded] = useState(() => (fallback.posts?.length || 0) > 0)
+  const [fetching, setFetching] = useState(true)
   const [query, setQuery] = useState('')
   const [visible, setVisible] = useState(PAGE)
   const [focus, setFocus] = useState(parseHash)
@@ -219,11 +223,15 @@ export default function App() {
 
   useEffect(() => {
     let done = false
-    fetch(RAW(perfil), { cache: 'no-cache' })
+    const ctrl = new AbortController()
+    // sem isto um raw pendurado (rede/proxy que não responde nem falha) trava a UI pra sempre
+    const t = setTimeout(() => ctrl.abort(), FETCH_TIMEOUT)
+    fetch(RAW(perfil), { cache: 'no-cache', signal: ctrl.signal })
       .then(r => r.ok ? r.json() : Promise.reject(new Error(String(r.status))))
-      .then(j => { if (!done) { setData(j); setLoaded(true) } })
-      .catch(() => { if (!done) { setData(fallback); setLoaded(true) } })
-    return () => { done = true }
+      .then(j => { if (!done && j?.posts?.length) setData(j) })
+      .catch(() => {})
+      .finally(() => { clearTimeout(t); if (!done) { setLoaded(true); setFetching(false) } })
+    return () => { done = true; clearTimeout(t); ctrl.abort() }
   }, [perfil])
 
   const posts = data.posts || []
@@ -288,8 +296,8 @@ export default function App() {
       </div>
     )
   }
-  // edição pedida na URL mas ainda não carregou / inexistente
-  if (focus.id && !loaded) {
+  // edição pedida na URL que não está no bundle: espera a revalidação antes de desistir dela
+  if (focus.id && fetching) {
     return <div className="app" style={{ ['--accent']: ACCENT[perfil] }}><div className="detail"><Skeleton /></div></div>
   }
 
