@@ -2,6 +2,86 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-07-15",
+      "date": "2026-07-15",
+      "hook": "Radar IA · 15 jul",
+      "caption": "O dia tem três eixos. O governo dos EUA pode virar sócio da OpenAI. O Google ficou sem compute e passou a racionar Gemini — até para a rival Meta. E a Apple processa a OpenAI por roubo de segredos, enquanto a China encosta na fronteira com o GLM-5.2.",
+      "slides": [
+        {
+          "title": "Radar IA — 15 de julho",
+          "body": "O dia tem três eixos. O governo dos EUA pode virar sócio da OpenAI. O Google ficou sem compute e passou a racionar Gemini — até para a rival Meta. E a Apple processa a OpenAI por roubo de segredos, enquanto a China encosta na fronteira com o GLM-5.2."
+        },
+        {
+          "title": "OpenAI oferece 5% da empresa ao governo",
+          "body": "A OpenAI propôs entregar 5% da empresa ao governo federal dos EUA — cerca de 42,6 bilhões de dólares, pela avaliação de 852 bilhões. Sam Altman pitchou a Trump, Lutnick e Bessent, num veículo público inspirado no Alaska Permanent Fund, estensível a toda big tech de IA.",
+          "source": {
+            "label": "Build Fast — 14 jul",
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-14-2026"
+          }
+        },
+        {
+          "title": "Google ficou sem GPU e raciona Gemini — até para a Meta",
+          "body": "Diante do pico de demanda, o Google teve escassez de compute e passou a limitar o acesso ao Gemini, chegando a afetar a Meta, sua rival direta.",
+          "source": {
+            "label": "Build Fast — 14 jul",
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-14-2026"
+          }
+        },
+        {
+          "title": "Apple processa OpenAI por roubo de segredos",
+          "body": "A Apple entrou com ação em corte federal no Norte da Califórnia acusando a OpenAI e seu chefe de hardware Tang Tan de orquestrar roubo de designs e processos. Nomeia ex-funcionários da Apple, alega treino para burlar segurança e diz que 400 ex-funcionários já estão na OpenAI.",
+          "source": {
+            "label": "CNBC — 10 jul",
+            "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html"
+          }
+        },
+        {
+          "title": "Modelos chineses encostam: GLM-5.2 fecha a gap",
+          "body": "Cobertura ampla mostra os modelos chineses encostando na fronteira depois que o GLM-5.2 da Z.ai reduziu a distância para Anthropic e OpenAI. Restrições da Anthropic e o rollout atrasado do GPT-5.6 alimentam a demanda global por alternativas chinesas.",
+          "source": {
+            "label": "Yahoo Finance — 14 jul",
+            "url": "https://finance.yahoo.com/technology/ai/articles/china-ai-models-gain-ground-203000950.html"
+          }
+        },
+        {
+          "title": "Gemini 3.5 Pro mira 17 de julho após rebuild total",
+          "body": "O Google DeepMind abandonou a fundação original do Gemini 3.5 Pro em favor de um pré-treinamento mais longo, empurrando o lançamento para 17 de julho. Rumor não confirmado: janela de contexto de 2 milhões de tokens.",
+          "source": {
+            "label": "TechTimes — 13 jul",
+            "url": "https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm"
+          }
+        },
+        {
+          "title": "EUA querem ver modelos avançados antes do lançamento",
+          "body": "Uma ordem executiva derivada de preocupações com um novo modelo, chamado Mythos, passa a exigir que as labs entreguem modelos avançados ao governo para avaliação antes do release.",
+          "source": {
+            "label": "Il Sole 24 Ore — 13 jul",
+            "url": "https://en.ilsole24ore.com/art/ia-trump-asks-companies-to-share-more-advanced-models-in-advance-AIiZlnQD"
+          }
+        },
+        {
+          "title": "AI Act europeu vale 100% em 2 de agosto",
+          "body": "O AI Act europeu torna-se plenamente aplicável em 2 de agosto de 2026, mas a Comissão Europeira propôs adiar as obrigações de sistemas high-risk de 2026 para 2027.",
+          "source": {
+            "label": "Paul Hastings — 14 jul",
+            "url": "https://www.paulhastings.com/insights/client-alerts/president-trump-signs-executive-order-challenging-state-ai-laws"
+          }
+        },
+        {
+          "title": "Cursor lança 'Side Chats': perguntar sem parar o agente",
+          "body": "O Cursor lançou Side Chats, permitindo ao dev fazer perguntas ao agente em paralelo, sem interromper a tarefa em execução.",
+          "source": {
+            "label": "YouTube — 13 jul",
+            "url": "https://www.youtube.com/watch?v=eQfZdXd8Mwo"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A IA vira tema de Estado: governo como acionista, modelos sujeitos a revisão prévia e um AI Act que entra em vigor. Enquanto isso, o limite deixou de ser o algoritmo — virou chip e energia, com a China encostando na ponta."
+        }
+      ]
+    },
+    {
       "id": "2026-07-14",
       "date": "2026-07-14",
       "hook": "Radar IA · 14 jul",
