@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-15-01h33",
+      "date": "2026-07-15",
+      "time": "01h33",
+      "hook": "BTC em ALTA em US$ 64.691 · +3,3% no dia com Medo Extremo (F&G 25)",
+      "caption": "Consolida há ~12 velas em $64,5k–$65k pressionando o topo da sessão — F&G em 25 sustenta viés contrarian de alta.",
+      "slides": [
+        {
+          "title": "Preço cola em $65k com mercado em medo",
+          "body": "Consolida há ~12 velas em $64,5k–$65k pressionando o topo da sessão — F&G em 25 sustenta viés contrarian de alta."
+        },
+        {
+          "title": "US$ 64.691",
+          "body": "Δ1h −0,08% · Δ24h +3,27% · vol $30,8 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "▲ ALTA",
+          "body": "Rally do dia consolidado ao topo da sessão, sem impulso p/ romper · Smart Money: funding +0,01% + L/S 1,20",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Acima de $65.044 → $65.500",
+          "body": "Suporte $64.500 (−0,3%) · Resistência $65.000 (+0,5%) · Perder $64.500 mira $64.000"
+        },
+        {
+          "title": "Medo Extremo × preço subindo",
+          "body": "F&G em 25 com +3,3% no dia — divergência sentimento×preço costuma ser combustível de continuação.",
+          "source": "https://edition.cnn.com/markets/fear-and-greed"
+        }
+      ]
+    },
+    {
       "id": "2026-07-14-21h32",
       "date": "2026-07-14",
       "time": "21h32",
