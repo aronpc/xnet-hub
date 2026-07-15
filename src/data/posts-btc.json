@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-14-21h32",
+      "date": "2026-07-14",
+      "time": "21h32",
+      "hook": "BTC em ALTA em US$ 64.840 · +4% no dia com Medo Extremo (F&G 25)",
+      "caption": "Rompimento limpo de $63.960 levou ao topo do range 24h — smart money não esticado sustenta a continuação.",
+      "slides": [
+        {
+          "title": "BTC rompe $64k e pausa em $65k",
+          "body": "Rompimento limpo de $63.960 levou ao topo do range 24h — smart money não esticado sustenta a continuação."
+        },
+        {
+          "title": "US$ 64.840",
+          "body": "Δ1h −0,03% · Δ24h +4,00% · vol $31,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "▲ ALTA",
+          "body": "Rali majoritariamente spot (funding neutro) ao topo 24h · Smart Money: funding +0,01% + L/S 1,20",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Acima de $65.100 → $65.500",
+          "body": "Suporte $64.600 (−0,37%) · Resistência $65.100 (+0,40%) · Perder $63.960 invalida"
+        },
+        {
+          "title": "Medo Extremo × preço subindo",
+          "body": "F&G em 25 com +4% no dia — divergência sentimento×preço costuma ser combustível de continuação.",
+          "source": "https://edition.cnn.com/markets/fear-and-greed"
+        }
+      ]
+    },
+    {
       "id": "2026-07-14-19h34",
       "date": "2026-07-14",
       "time": "19h34",
