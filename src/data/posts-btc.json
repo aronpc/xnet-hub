@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-15-09h31",
+      "date": "2026-07-15",
+      "time": "09h31",
+      "hook": "BTC LATERAL em US$ 64.807 · medo extremo (F&G 25) persiste com preço no terço superior do range 24h",
+      "caption": "Sobe a $64,8k (+0,3% na hora) digerindo $64,5k–$65k, no terço superior — F&G 25 sustenta viés contrarian.",
+      "slides": [
+        {
+          "title": "Preço encosta em $65k sob medo extremo",
+          "body": "Sobe a $64,8k (+0,3% na hora) digerindo $64,5k–$65k, no terço superior — F&G 25 sustenta viés contrarian."
+        },
+        {
+          "title": "US$ 64.807",
+          "body": "Δ1h +0,3% · Δ24h +2,2% · vol $32,1 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "◆ LATERAL",
+          "body": "Digerindo $64,5k–$65k no terço superior do range 24h, sem impulso p/ romper · Smart Money: funding +0,01% + L/S 1,21",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Acima de $65.100 → $65.500",
+          "body": "Suporte $64.500 (−0,5%) · Resistência $65.000 (+0,3%) · Perder $64.500 mira $64.000"
+        },
+        {
+          "title": "Medo Extremo × preço firme",
+          "body": "F&G em 25 com preço no terço superior (+2,2% em 24h) — divergência sentimento×preço costuma anteceder repique.",
+          "source": "https://edition.cnn.com/markets/fear-and-greed"
+        }
+      ]
+    },
+    {
       "id": "2026-07-15-07h31",
       "date": "2026-07-15",
       "time": "07h31",
