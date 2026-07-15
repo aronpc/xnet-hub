@@ -2,6 +2,86 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-15",
+      "date": "2026-07-15",
+      "hook": "Radar Skills & MCP · 15 jul",
+      "caption": "O Claude Code ganhou 45 mudanças em uma semana, com acessibilidade e agents em background no centro. O MCP prepara uma quebra de compatibilidade em 28 de julho. E Simon Willison defende que as Skills podem ser um deal ainda maior que o próprio MCP.",
+      "slides": [
+        {
+          "title": "Radar Skills & MCP — 15 de julho",
+          "body": "O Claude Code ganhou 45 mudanças em uma semana, com acessibilidade e agents em background no centro. O MCP prepara uma quebra de compatibilidade em 28 de julho. E Simon Willison defende que as Skills podem ser um deal ainda maior que o próprio MCP."
+        },
+        {
+          "title": "Claude Code v2.1.208: 45 mudanças, foco em a11y e perf",
+          "body": "A release de 14 de julho trouxe cerca de 45 mudanças — destaque para o screen reader mode, vimInsertModeRemaps, corporate process wrapping, clique de mouse em menus fullscreen e diversos fixes de memory leak e performance.",
+          "source": {
+            "label": "dev.classmethod — 14 jul",
+            "url": "https://dev.classmethod.jp/en/articles/20260714-cc-updates-v2-1-208/"
+          }
+        },
+        {
+          "title": "v2.1.209/210: agents em background mais confiáveis",
+          "body": "As versões seguintes consolidam o screen reader mode, melhoram a confiabilidade dos background agents e adicionam contadores de tempo decorrido em tempo real nos collapsed tool summaries.",
+          "source": {
+            "label": "GitHub Releases — 15 jul",
+            "url": "https://github.com/anthropics/claude-code/releases"
+          }
+        },
+        {
+          "title": "MCP 28/jul: núcleo 'stateless', sem handshake de sessão",
+          "body": "O release candidate do MCP em 28 de julho dropa o handshake de sessão — cada request é self-contained, permitindo rodar MCP servers atrás de load balancers, e introduz Extensions.",
+          "source": {
+            "label": "developersdigest — 14 jul",
+            "url": "https://www.developersdigest.tech/blog/mcp-2026-07-28-breaking-changes"
+          }
+        },
+        {
+          "title": "Simon Willison: Skills podem ser deal maior que o MCP",
+          "body": "Simon Willison publicou análise argumentando que as Claude Skills — pastas com instruções, scripts e recursos — podem ser um deal maior que o próprio MCP, por ensinarem ao agente como fazer tarefas.",
+          "source": {
+            "label": "simonw.substack — 13 jul",
+            "url": "https://simonw.substack.com/p/claude-skills-are-awesome-maybe-a"
+          }
+        },
+        {
+          "title": "DoorDash constrói assistente de compras via MCP",
+          "body": "A InfoQ detalhou como a DoorDash construiu um assistente de compras com IA que não depende só do LLM — usando MCP para orquestrar ferramentas e contexto externos.",
+          "source": {
+            "label": "InfoQ — 13 jul",
+            "url": "https://www.infoq.com/model-context-protocol/"
+          }
+        },
+        {
+          "title": "Skill busca e instala 3.300+ MCP servers e skills",
+          "body": "Um dev publicou no r/ClaudeAI uma Claude Code skill que busca e instala mais de 3.300 MCP servers e skills a partir de repositórios do GitHub — um gerenciador comunitário da biblioteca.",
+          "source": {
+            "label": "r/ClaudeAI — 13 jul",
+            "url": "https://www.reddit.com/r/ClaudeAI/comments/1sghzv5/"
+          }
+        },
+        {
+          "title": "Make Skills levam expertise profunda ao Claude",
+          "body": "A Make lançou as Make Skills, que dão ao Claude Code, Claude Cowork e Claude Chat capacidades de expertise profunda em domínios específicos.",
+          "source": {
+            "label": "Make community — 13 jul",
+            "url": "https://community.make.com/t/feature-spotlight-make-skills-for-claude/108563"
+          }
+        },
+        {
+          "title": "Skill /mcp-builder: guia de 4 fases para criar servers",
+          "body": "A skill /mcp-builder ensina, em 4 fases, a construir MCP servers para que LLMs chamem suas APIs como tools, aparecendo em roundup de skills que multiplicam produtividade.",
+          "source": {
+            "label": "YouTube — 13 jul",
+            "url": "https://www.youtube.com/watch?v=Xs942zwWfdY"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O Claude Code amadurece para enterprise com acessibilidade e agents confiáveis. O MCP vai production-grade em 28 de julho. E a fronteira conceitual fica clara: Skills ensinam o agente a fazer, MCP dá o acesso. Os dois, juntos, viram a nova base do agentic."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-15",
       "date": "2026-07-15",
       "hook": "Radar Projetos · 15 jul",
