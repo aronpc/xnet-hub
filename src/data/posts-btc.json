@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-15-13h32",
+      "date": "2026-07-15",
+      "time": "13h32",
+      "hook": "BTC LATERAL em US$ 65,1k · rejeição no teto ($65,5k) com F&G em medo extremo (25)",
+      "caption": "Recua de ~$65,4k para $65,1k após esbarrar em $65,5–65,6k — segura $65k sob F&G 25.",
+      "slides": [
+        {
+          "title": "Rejeição no teto devolve BTC ao suporte",
+          "body": "Recua de ~$65,4k para $65,1k após esbarrar em $65,5–65,6k — segura $65k sob F&G 25."
+        },
+        {
+          "title": "US$ 65.108",
+          "body": "Δ1h −0,3% · Δ24h +0,5% · vol $28,7 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "◆ LATERAL",
+          "body": "Rejeição no teto $65,5–65,6k devolve ao suporte $65k · Smart Money: funding +0,004% + L/S 1,16",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Segurar $65k → retesta o teto",
+          "body": "Suporte $65.000 (−0,17%) · Resistência $65.500 (+0,60%) · Perder $65k alvo $64,5k"
+        },
+        {
+          "title": "Medo extremo sob o teto do dia",
+          "body": "F&G 25 com BTC rejeitado na máxima — zona de acumulação histórica enquanto $65k segurar; aguardar confirmação de fundo.",
+          "source": "https://edition.cnn.com/markets/fear-and-greed"
+        }
+      ]
+    },
+    {
       "id": "2026-07-15-11h32",
       "date": "2026-07-15",
       "time": "11h32",
