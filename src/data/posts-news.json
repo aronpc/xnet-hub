@@ -2,6 +2,86 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-15",
+      "date": "2026-07-15",
+      "hook": "Radar Projetos · 15 jul",
+      "caption": "O dinheiro continua grosso. A Alibaba lidera rodada de 439 milhões numa startup chinesa de vídeo IA. A SambaNova chega a 11 bilhões em valuation. E um fundo só, da Menlo Ventures, aporta 3 bilhões em pólvora para IA. No open-source, o GitHub passa de 5,6 milhões de projetos.",
+      "slides": [
+        {
+          "title": "Radar Projetos — 15 de julho",
+          "body": "O dinheiro continua grosso. A Alibaba lidera rodada de 439 milhões numa startup chinesa de vídeo IA. A SambaNova chega a 11 bilhões em valuation. E um fundo só, da Menlo Ventures, aporta 3 bilhões em pólvora para IA. No open-source, o GitHub passa de 5,6 milhões de projetos."
+        },
+        {
+          "title": "Alibaba lidera US$ 439 mi na AIsphere (vídeo IA)",
+          "body": "A AIsphere, startup chinesa de IA em vídeo, fechou Série C de 2,98 bilhões de yuans — cerca de 439 milhões de dólares — liderada pela Alibaba. A rodada foi concluída em 14 de julho.",
+          "source": {
+            "label": "Caixin — 15 jul",
+            "url": "https://www.caixinglobal.com/2026-07-15/alibaba-leads-439-million-funding-round-for-ai-video-startup-aisphere-102464241.html"
+          }
+        },
+        {
+          "title": "SambaNova: US$ 1 bi na Série F, valuation US$ 11 bi",
+          "body": "A SambaNova fez o first close de 1 bilhão de dólares na Série F, a uma valuation de 11 bilhões, segundo o rastreador Yutori.",
+          "source": {
+            "label": "Yutori — 9 jul",
+            "url": "https://scouts.yutori.com/68f22e10-d5fe-4e94-b1c8-9c6218cfdb2c"
+          }
+        },
+        {
+          "title": "Menlo Ventures capta US$ 3 bi em fundo só de IA",
+          "body": "A Menlo Ventures captou 3 bilhões de dólares para um novo fundo focado em IA, cobrindo startups do seed ao growth.",
+          "source": {
+            "label": "Agregadores — 14–15 jul",
+            "url": "https://www.instagram.com/"
+          }
+        },
+        {
+          "title": "Ex-OpenAI levanta startup de drug discovery a US$ 2 bi",
+          "body": "Miles Wang, pesquisador da OpenAI, está em negociações para lançar uma startup de IA para descoberta de fármacos avaliada em cerca de 2 bilhões de dólares, segundo a TechCrunch.",
+          "source": {
+            "label": "TechCrunch — 14 jul",
+            "url": "https://techcrunch.com/"
+          }
+        },
+        {
+          "title": "Lyzr: US$ 100 mi Série B em plataforma de agentes enterprise",
+          "body": "A Lyzr, plataforma de agentes de IA enterprise sediada em Jersey City, levantou 100 milhões de dólares em Série B anunciada em 9 de julho.",
+          "source": {
+            "label": "Yutori — 9 jul",
+            "url": "https://scouts.yutori.com/"
+          }
+        },
+        {
+          "title": "OpenClaw é o breakout star do GitHub em 2026",
+          "body": "Análises da ByteByteGo e devFlokers apontam o OpenClaw como o projeto open-source que mais cresceu no GitHub em 2026 — possivelmente o de crescimento mais rápido da história da plataforma.",
+          "source": {
+            "label": "ByteByteGo — 14 jul",
+            "url": "https://blog.bytebytego.com/p/top-ai-github-repositories-in-2026"
+          }
+        },
+        {
+          "title": "Stanford HAI: 5,6 milhões de projetos de IA no GitHub",
+          "body": "O AI Index 2026 do Stanford HAI registra cerca de 5,6 milhões de projetos de IA no GitHub — quase 5 vezes mais — e o Octoverse cita 4,3 milhões de repositórios de IA só em 2025, alta de 178 por cento.",
+          "source": {
+            "label": "r/OpenSourceAI — 13 jul",
+            "url": "https://www.reddit.com/r/OpenSourceAI/comments/1u6bpjp/56m_ai_projects_on_github_now_open_source_is/"
+          }
+        },
+        {
+          "title": "AMD faz Advancing AI 2026 em SF (22–23 de julho)",
+          "body": "A AMD realiza o Advancing AI 2026 em São Francisco em 22 e 23 de julho, com anúncios esperados de infraestrutura de IA — chips e parcerias.",
+          "source": {
+            "label": "amd.com — 13 jul",
+            "url": "https://www.amd.com/en/corporate/events/advancing-ai.html"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O capital não discrimina: vai para vídeo IA na China, silício nos EUA, bio saindo da OpenAI e agentes enterprise. E por baixo disso tudo, um GitHub com 5,6 milhões de projetos mostra que o open-source já é a base estrutural."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-15",
       "date": "2026-07-15",
       "hook": "Radar IA · 15 jul",
