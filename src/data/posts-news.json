@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-07-16",
+      "date": "2026-07-16",
+      "hook": "O preço virou a métrica",
+      "caption": "Panorama de IA — 16/jul: guerra de custos (Grok 4.5 x Fable 5), Opus 5 pelo Honeycomb, Gemini 3.5 GA amanhã e a briga política dos pesos abertos. Desliza para ver 👉\n\nLeia: https://xnews.aronpc.dev/#ia-2026-07-16",
+      "link": "https://xnews.aronpc.dev/#ia-2026-07-16",
+      "slides": [
+        {
+          "title": "O preço virou a métrica",
+          "body": "Panorama de IA de 16 de julho. A semana é de guerra de custos, novas datas de lançamento e uma briga política pelo futuro dos pesos abertos."
+        },
+        {
+          "title": "Grok 4.5 custa US$ 2,49 por tarefa; Fable 5 custa US$ 11,80",
+          "body": "O Artificial Analysis mediu o custo por tarefa agêntica concluída: Grok 4.5 sai a US$ 2,49 contra US$ 11,80 do Fable 5 no Claude Code — diferença de quase 5x. O segredo é token: Grok gasta ~16 mil tokens de saída por tarefa de SWE-bench Pro; o Opus 4.8 gasta ~67 mil.",
+          "source": {
+            "label": "AI Tools Recap — 14 jul",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-july-14-2026"
+          }
+        },
+        {
+          "title": "'Claude Honeycomb' surge no Cursor e acende Opus 5 em julho",
+          "body": "Um modelo inédito, 'Claude Honeycomb EAP', apareceu brevemente no Cursor. A estrutura EAP é a mesma do early access do Fable 5, que surgiu no Cursor duas semanas antes do lançamento público em 9 de junho. Comunidade aposta num Opus 5 ainda em julho.",
+          "source": {
+            "label": "AI Tools Recap — 14 jul",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-july-14-2026"
+          }
+        },
+        {
+          "title": "Gemini 3.5 Pro mira GA em 17 de julho — com 2M de contexto",
+          "body": "O Gemini 3.5 Pro tem 17 de julho como data-alvo de GA. A Google descartou o modelo-base original e reiniciou o pré-treinamento com ciclo mais longo. Seria o primeiro frontier do Google em mais de um mês e o primeiro rival do Fable 5 com janela maior: 2 milhões de tokens. Preço cotado: ~US$ 15 de entrada, US$ 60 de saída.",
+          "source": {
+            "label": "Tech Time — 13 jul",
+            "url": "https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm"
+          }
+        },
+        {
+          "title": "DeepSeek aposenta 'chat' e 'reasoner' em 24 de julho",
+          "body": "Em 24 de julho, às 15h59 UTC, deepseek-chat e deepseek-reasoner param de funcionar. A migração vai para deepseek-v4-pro (substitui o chat e o raciocínio pesado) ou deepseek-v4-flash, que é modo thinking — para raciocínio pesado, chamar o v4-pro.",
+          "source": {
+            "label": "Tech Time — 8 jul",
+            "url": "https://www.techtimes.com/articles/319877/20260708/gemini-35-pro-targets-july-17-deepseeks-july-24-deadline-hits-developers-now.htm"
+          }
+        },
+        {
+          "title": "Cursor constrói 'Sand', agente de uso geral — que a SpaceX pode matar",
+          "body": "O Cursor desenvolve internamente o 'Sand', seu primeiro produto para não-desenvolvedores: e-mails, textos, planilhas e engenharia, com rollout interno em compute da SpaceXAI desde fim de junho. A aquisição do Cursor pela SpaceX, de US$ 60 bilhões prevista para o Q3, pode reescrever o roadmap antes de um lançamento público.",
+          "source": {
+            "label": "The Information — 14 jul",
+            "url": "https://llm-stats.com/ai-news"
+          }
+        },
+        {
+          "title": "Open-weight passa por 'teste político existencial' nos EUA",
+          "body": "Segundo Nathan Lambert, da Interconnects, os modelos open-weight passam por um teste de política existencial nos EUA, com a Anthropic liderando uma campanha contra modelos chineses sob argumentos de destilação.",
+          "source": {
+            "label": "Interconnects — 15 jul",
+            "url": "https://llm-stats.com/ai-news"
+          }
+        },
+        {
+          "title": "Fundador da Z.ai/GLM defende capacidades 'tão abertas quanto possível'",
+          "body": "Num memo visto pela Bloomberg, Tang Jie, fundador da Z.ai — o laboratório chinês por trás dos modelos GLM —, argumenta que as capacidades frontier de IA devem permanecer 'as open and widely accessible as possible'.",
+          "source": {
+            "label": "Bloomberg — 15 jul",
+            "url": "https://llm-stats.com/ai-news"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Custo por tarefa virou a métrica de compra. Os lançamentos se concentram em eficiência de tokens e contexto gigante. E a briga sobre pesos abertos saiu da técnica para a política."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-07-15",
       "date": "2026-07-15",
       "hook": "Radar Skills & MCP · 15 jul",
