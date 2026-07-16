@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-16-12h32",
+      "date": "2026-07-16",
+      "time": "12h32",
+      "hook": "BTC lateral em US$ 64,7 mil · F&G em medo extremo (25)",
+      "caption": "Já repimpou ~1,2% do fundo de US$ 63.966, mas o repique é fraco até romper os US$ 65 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-16-12h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-16-12h32",
+      "slides": [
+        {
+          "title": "Bitcoin segura o suporte num mercado em pânico",
+          "body": "Já repimpou ~1,2% do fundo de US$ 63.966, mas o repique é fraco até romper os US$ 65 mil."
+        },
+        {
+          "title": "US$ 64.730",
+          "body": "Δ1h +0,34% · Δ24h −1,01% · vol US$ 29,8B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Repimpou do suporte de US$ 64 mil e segue no meio-baixo da faixa de 24h · Smart Money: funding +0,006% e L/S 1,34, longs levemente na frente"
+        },
+        {
+          "title": "Romper US$ 65 mil busca o topo; perder US$ 64 mil volta ao fundo",
+          "body": "Suporte US$ 64.000 (−1,1%) · Resistência US$ 65.000 (+0,4%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-07-16-11h33",
       "date": "2026-07-16",
       "time": "11h33",
