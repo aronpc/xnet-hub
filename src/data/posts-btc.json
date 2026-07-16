@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-16-08h33",
+      "date": "2026-07-16",
+      "time": "08h33",
+      "hook": "BTC BAIXA em US$ 64.160 · rompe suporte intradiário sob medo extremo (F&G 25)",
+      "caption": "Queda de $65,16k → $64,16k na janela 1h rompeu o suporte de $64,6k e cravou mínima em $64,09k, mas segura $64k com funding neutro e sem longs lotados — combustível pra repique no apoio.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-16-08h33",
+      "link": "https://xbtc.aronpc.dev/#2026-07-16-08h33",
+      "slides": [
+        {
+          "title": "BTC rompe suporte e segura $64k sob medo extremo",
+          "body": "Queda de $65,16k → $64,16k na janela 1h rompeu o suporte de $64,6k e cravou mínima em $64,09k, mas segura $64k com funding neutro e sem longs lotados — combustível pra repique no apoio."
+        },
+        {
+          "title": "US$ 64.160",
+          "body": "Δ1h −0,02% · Δ24h −0,74% · vol $33,1B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Janela 1h em queda, rompeu suporte $64,6k e segura $64k com F&G 25 e funding neutro · Smart Money: funding +0,005% (neutro, leve viés long) + L/S 1,38 (longs 58/42 não esticados; sem combustível pra squeeze no topo)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Perder $64,0k acelera a $63,9k",
+          "body": "Suporte $64,0k (−0,25%, mín 24h $63,89k) · Resistência $64,6k (+0,69%, máx 24h $65,6k) · reaver $64,6k invalida a baixa e mira $65,0k"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica intradia · @xbtc.ai"
+        }
+      ]
+    },
+    {
       "id": "2026-07-16-07h32",
       "date": "2026-07-16",
       "time": "07h32",
