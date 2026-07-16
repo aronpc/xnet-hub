@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-16-07h32",
+      "date": "2026-07-16",
+      "time": "07h32",
+      "hook": "BTC LATERAL em US$ 64.171 · F&G 25 (medo extremo) ensaiando repique do piso",
+      "caption": "Bateu no piso de $64,1k e reagiu a $64,3k (+0,28% 1h), mas sem volume e com F&G em 25 — virada ainda sem confirmação até romper $64,5k.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-16-07h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-16-07h32",
+      "slides": [
+        {
+          "title": "BTC ensaia repique do piso sob medo extremo",
+          "body": "Bateu no piso de $64,1k e reagiu a $64,3k (+0,28% 1h), mas sem volume e com F&G em 25 — virada ainda sem confirmação até romper $64,5k."
+        },
+        {
+          "title": "US$ 64.171",
+          "body": "Δ1h +0,28% · Δ24h −0,64% · vol $32,9B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Repique do piso sem volume nem confirmação; segue na range até romper $64,5k ou perder $64,0k · Smart Money: funding +0,006% (neutro) + L/S 1,34 (longs leves 57/43; sem combustível pra squeeze ou pra confirmar virada)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Romper $64,5k mira $64,7k",
+          "body": "Suporte $64,0k (−0,27%, mín $64,09k) · Resistência $64,5k (+0,51%, lower-high $64,7–64,8k) · perder $64,0k com volume acelera a $63,9k–$63,5k"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica intradia · @xbtc.ai"
+        }
+      ]
+    },
+    {
       "id": "2026-07-16-06h31",
       "date": "2026-07-16",
       "time": "06h31",
