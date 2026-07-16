@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-16-17h32",
+      "date": "2026-07-16",
+      "time": "17h32",
+      "hook": "BTC segura US$ 64.128 com o F&G de volta a 25, no medo extremo",
+      "caption": "O preço encostou nos US$ 64 mil e o medo voltou ao extremo (F&G 25). A queda da última hora veio em volume fraco, então é range apertado, não lavagem.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-16-17h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-16-17h32",
+      "slides": [
+        {
+          "title": "Preço no suporte, medo extremo de volta",
+          "body": "O preço encostou nos US$ 64 mil e o medo voltou ao extremo (F&G 25). A queda da última hora veio em volume fraco, então é range apertado, não lavagem."
+        },
+        {
+          "title": "US$ 64.128",
+          "body": "Δ1h −0,14% · Δ24h −1,31% · vol US$ 27,7B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preso na faixa de US$ 63,8k a 65,0k, sem direção. Smart money calmo: funding +0,005% e L/S 1,40, longs na frente sem apertar."
+        },
+        {
+          "title": "Segurar os US$ 64 mil abre o 64,5k",
+          "body": "Suporte US$ 64.000 (−0,2%) · Resistência US$ 64.500 (+0,6%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-07-16-14h32",
       "date": "2026-07-16",
       "time": "14h32",
