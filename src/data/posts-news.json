@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-16",
+      "date": "2026-07-16",
+      "hook": "O dinheiro seguiu a infraestrutura",
+      "caption": "O dinheiro da IA — 16/jul: Baseten US$ 1,5bi, Groq US$ 650mi, Mirendil, General Intuition, Chai Discovery e Mach Industries. Desliza 👉\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-07-16",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-07-16",
+      "slides": [
+        {
+          "title": "O dinheiro seguiu a infraestrutura",
+          "body": "Resumo de captações do ecossistema de IA em 16 de julho. O fluxo segue pesado para inferência e para teses novas de modelo foundational."
+        },
+        {
+          "title": "Baseten: US$ 1,5 bi na Série F, valuation de US$ 13 bi",
+          "body": "A Baseten, de software para rodar workloads de IA, levantou US$ 1,5 bilhão na Série F — sua quarta captação em 18 meses — liderada por Altimeter, Conviction, Spark, Sands Capital e Wellington. Valuation: US$ 13 bilhões.",
+          "source": {
+            "label": "Crunchbase — 26 jun",
+            "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/"
+          }
+        },
+        {
+          "title": "Groq: US$ 650 mi para escalar a inference cloud",
+          "body": "A Groq, de São Francisco, fechou US$ 650 milhões liderados pela Infinitum e Disruptive para escalar sua inference cloud — pouco mais de seis meses depois de a Nvidia fazer um acquihire do fundador e times-chave e licenciar a tecnologia.",
+          "source": {
+            "label": "Crunchbase — 26 jun",
+            "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/"
+          }
+        },
+        {
+          "title": "Mirendil: seed de US$ 200 mi para um frontier lab de P&D",
+          "body": "A Mirendil, frontier lab de São Francisco que constrói sistemas fortes em P&D de IA, levantou uma seed de US$ 200 milhões liderada por Andreessen Horowitz e Kleiner Perkins, com a Nvidia como backer.",
+          "source": {
+            "label": "Crunchbase — 26 jun",
+            "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/"
+          }
+        },
+        {
+          "title": "General Intuition: US$ 320 mi, modelo treinado com gameplay",
+          "body": "A General Intuition, que constrói um modelo foundational de IA treinado a partir de gameplay, levantou US$ 320 milhões na Série A a US$ 2,3 bilhões, liderada pela Khosla Ventures com Jeff Bezos e General Catalyst.",
+          "source": {
+            "label": "Crunchbase — 26 jun",
+            "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/"
+          }
+        },
+        {
+          "title": "Chai Discovery: US$ 400 mi a US$ 3,8 bi em drug discovery",
+          "body": "A Chai Discovery, startup de IA para desenvolvimento de fármacos, captou US$ 400 milhões a uma valuation de US$ 3,8 bilhões, segundo o NYT de 14 de julho.",
+          "source": {
+            "label": "NYT — 14 jul",
+            "url": "https://www.nytimes.com/2026/07/14/business/dealbook/chai-discovery-ai-drug-development.html"
+          }
+        },
+        {
+          "title": "Mach Industries: US$ 300 mi Série C em drones autônomos",
+          "body": "A Mach Industries, de drones autônomos, levantou US$ 300 milhões na Série C num momento em que o funding de defense tech bate recordes históricos, segundo a Crunchbase, com IA autônoma no centro desses sistemas.",
+          "source": {
+            "label": "Crunchbase — 14 jul",
+            "url": "https://news.crunchbase.com/defense-tech/startup-venture-funding-all-time-record-ai-anduril/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O capital segue para quem roda inferência e para teses novas de pré-treinamento. Aplicações em bio e defesa mostram que a IA saiu do nicho de software."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-16",
       "date": "2026-07-16",
       "hook": "O preço virou a métrica",
