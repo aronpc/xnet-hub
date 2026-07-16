@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-16-13h31",
+      "date": "2026-07-16",
+      "time": "13h31",
+      "hook": "BTC lateral em US$ 64,5 mil · F&G em medo extremo (25)",
+      "caption": "Vela de US$ 254M (5 a 10× o normal) marcou o fundo de US$ 63.888 e o preço voltou a colar no suporte de US$ 64 mil. O repique segue frágil até romper os US$ 65 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-16-13h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-16-13h31",
+      "slides": [
+        {
+          "title": "A lavagem segurou o fundo num mercado em pânico",
+          "body": "Vela de US$ 254M (5 a 10× o normal) marcou o fundo de US$ 63.888 e o preço voltou a colar no suporte de US$ 64 mil. O repique segue frágil até romper os US$ 65 mil."
+        },
+        {
+          "title": "US$ 64.499",
+          "body": "Δ1h −0,36% · Δ24h −0,81% · vol US$ 28,9B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Colado no suporte de US$ 64 mil, no meio-baixo da faixa de 24h · Smart Money: funding +0,006% e L/S 1,35, longs na frente sem exagero"
+        },
+        {
+          "title": "Acima de US$ 65 mil mira US$ 65,5 mil; perder US$ 64 mil volta ao fundo de US$ 63.888",
+          "body": "Suporte US$ 64.000 (−0,8%) · Resistência US$ 65.000 (+0,8%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-07-16-12h32",
       "date": "2026-07-16",
       "time": "12h32",
