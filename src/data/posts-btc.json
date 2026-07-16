@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-16-01h33",
+      "date": "2026-07-16",
+      "time": "01h33",
+      "hook": "BTC LATERAL em US$ 64.598 · F&G 25 (medo extremo) cola na mínima 24h",
+      "caption": "Preço tocou $64.392 e voltou, com Δ1h positivo de novo. Medo extremo em cima do suporte costuma marcar de onde saem os repiques técnicos; a prova mesmo é segurar esse piso.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-16-01h33",
+      "link": "https://xbtc.aronpc.dev/#2026-07-16-01h33",
+      "slides": [
+        {
+          "title": "BTC testa o fundo 24h e reage sob medo extremo",
+          "body": "Preço tocou $64.392 e voltou, com Δ1h positivo de novo. Medo extremo em cima do suporte costuma marcar de onde saem os repiques técnicos; a prova mesmo é segurar esse piso."
+        },
+        {
+          "title": "US$ 64.598",
+          "body": "Δ1h +0,10% · Δ24h −0,21% · vol $26,5B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Terço inferior da faixa 24h, mínima segurada sem romper · Smart Money: funding +0,0044% + L/S 1,21 (neutro, sem combustível para squeeze de nenhum lado)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Segurar $64.392 mira $65.000",
+          "body": "Suporte $64.392 (−0,32%, mín 24h) · Resistência $65.000 (+0,62%, redondo) e zona $65.400 a $65.600 · perder a mínima com volume acelera para $64.000"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica intradia · @xbtc.ai"
+        }
+      ]
+    },
+    {
       "id": "2026-07-15-22h35",
       "date": "2026-07-15",
       "time": "22h35",
