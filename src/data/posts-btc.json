@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-16-10h32",
+      "date": "2026-07-16",
+      "time": "10h32",
+      "hook": "BTC LATERAL em US$ 64.234 · medo extremo no piso (F&G 25), mercado em espera",
+      "caption": "LATERAL no piso: preço segura $64,0k com F&G 25 (medo extremo) — cara de exaustão, à espera de romper $64,5k (alta) ou perder $63,9k (baixa).\n\nLeia: https://xbtc.aronpc.dev/#2026-07-16-10h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-16-10h32",
+      "slides": [
+        {
+          "title": "Medo extremo, mercado pausa",
+          "body": "LATERAL no piso: preço segura $64,0k com F&G 25 (medo extremo) — cara de exaustão, à espera de romper $64,5k (alta) ou perder $63,9k (baixa)."
+        },
+        {
+          "title": "US$ 64.234",
+          "body": "Δ1h +0,15% · Δ24h −1,75% · vol 24h US$ 31,0 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Consolidação no piso da faixa 24h (63,9k–65,6k) com cara de exaustão · F&G 25 (medo extremo) · Smart Money: funding +0,006% (neutro) + L/S 1,37 (58% long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "64,5k acima ou 63,9k abaixo",
+          "body": "Acima de $64,5k → reclaim até $64,8k–65,0k (alívio do viés de baixa) · Perder $63,9k (mín 24h) → alvo $63,5k/$63,0k, cascata dos longs (L/S 1,37)"
+        },
+        {
+          "title": "Impulso de venda secou",
+          "body": "Última vela (~346 BTC) abaixo da média (~880) da série 1h + F&G 25 no piso = zona de exaustão histórica; repiques técnicos seguem o cenário mais provável enquanto $63,9k segurar."
+        }
+      ]
+    },
+    {
       "id": "2026-07-16-09h32",
       "date": "2026-07-16",
       "time": "09h32",
