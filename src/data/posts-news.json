@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-16",
+      "date": "2026-07-16",
+      "hook": "O MCP cruzou de dev para vertical",
+      "caption": "Skills e MCP — 16/jul: Claude Code com segurança + Artifacts, e o MCP cruzando para Reuters, Xurrent e Featured. Desliza 👉\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-16",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-16",
+      "slides": [
+        {
+          "title": "O MCP cruzou de dev para vertical",
+          "body": "Radar de Skills e MCP de 16 de julho. O Claude Code ganhou segurança e Artifacts, e o MCP avançou em jornalismo, TI e relações públicas."
+        },
+        {
+          "title": "Claude Code v2.1.211 endurece aprovações e conserta background agents",
+          "body": "A v2.1.211 neutraliza caracteres bidirecionais, zero-width e aspas parecidas nas previews de permissão retransmitidas ao chat — para que entradas de ferramenta não alterem visualmente a mensagem de aprovação. Também corrige o auto-mode que sobrescrevia a decisão 'ask' de um hook PreToolUse para Bash não-sandboxado, e uma leva de bugs de background agents.",
+          "source": {
+            "label": "CHANGELOG — 11 jul",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "Claude Code ganha Artifacts: o trabalho vira página web ao vivo",
+          "body": "O Claude Code passou a suportar Artifacts, transformando o trabalho da sessão em páginas web ao vivo e compartilháveis que se atualizam no lugar — útil para walkthroughs de PR e relatórios de incidente.",
+          "source": {
+            "label": "Releasebot — 14 jul",
+            "url": "https://releasebot.io/updates/anthropic/claude-code"
+          }
+        },
+        {
+          "title": "Reuters lança MCP server para levar notícias confiáveis aos agentes",
+          "body": "A Reuters lançou, em 8 de julho, um Model Context Protocol server que permite a organizações acessar e integrar programaticamente o conteúdo jornalístico da Reuters dentro das próprias plataformas e agentes.",
+          "source": {
+            "label": "Reuters — 8 jul",
+            "url": "https://www.reuters.com/media-center/reuters-launches-model-context-protocol-server-bring-trusted-news-directly-into-2026-07-08/"
+          }
+        },
+        {
+          "title": "Xurrent: agentes autônomos e um MCP server aberto (ITSM)",
+          "body": "Nas atualizações de julho, a Xurrent, de gestão de serviços de TI, lançou agentes de IA autônomos e um MCP server aberto. Os dois primeiros agentes, da 'Sera AI', cuidam de triagem e tarefas dentro do fluxo de ITSM.",
+          "source": {
+            "label": "Xurrent — 14 jul",
+            "url": "https://www.xurrent.com/press-release/xurrent-extends-ai-fabric-autonomous-agents-mcp-server"
+          }
+        },
+        {
+          "title": "Featured lança MCP server para workflows de PR (Claude, Cursor, VS Code)",
+          "body": "A Featured lançou um MCP server que conecta Claude, Cursor, VS Code e outros agentes de IA diretamente aos seus workflows de relações públicas.",
+          "source": {
+            "label": "Yahoo Finance — 14 jul",
+            "url": "https://finance.yahoo.com/technology/ai/articles/featured-launches-mcp-server-bringing-140000890.html"
+          }
+        },
+        {
+          "title": "Anthropic empurra 'Managed Agents' em webinar sobre escalar",
+          "body": "A Anthropic realiza hoje, 16 de julho, o webinar 'How to ship and scale agents with Claude Managed Agents', parte do empurrão no produto Managed Agents — a camada gerenciada para rodar agentes em escala no Claude.",
+          "source": {
+            "label": "Anthropic Events — 16 jul",
+            "url": "https://www.anthropic.com/events"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "As ferramentas de agente amadurecem em segurança e entrega. E o MCP deixou de ser coisa de dev: jornalismo, TI e relações públicas já chegaram."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-16",
       "date": "2026-07-16",
       "hook": "O dinheiro seguiu a infraestrutura",
