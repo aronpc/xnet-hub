@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-16-06h31",
+      "date": "2026-07-16",
+      "time": "06h31",
+      "hook": "BTC LATERAL em US$ 63.992 · F&G 25 (medo extremo) colado no piso de 24h",
+      "caption": "Caiu a $63,9k, a só −0,14% do fundo de 24h, com Fear & Greed em 25. Medo extremo em cima do suporte costuma marcar zona de absorção — a prova é segurar $63,88k.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-16-06h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-16-06h31",
+      "slides": [
+        {
+          "title": "BTC gruda no piso 24h sob medo extremo",
+          "body": "Caiu a $63,9k, a só −0,14% do fundo de 24h, com Fear & Greed em 25. Medo extremo em cima do suporte costuma marcar zona de absorção — a prova é segurar $63,88k."
+        },
+        {
+          "title": "US$ 63.992",
+          "body": "Δ1h −0,23% · Δ24h −1,17% · vol $31,7B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço no fundo da range 24h, sem rompimento confirmado — ação despressurizada · Smart Money: funding +0,006% (neutro) + L/S 1,31 (longs leves; sem combustível pra squeeze ou pra confirmar repique)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Segurar $63,9k mira $64,7k",
+          "body": "Suporte $63,9k (−0,1%, mín 24h $63.880) · Resistência $64,7k (+1,0%) · perder $63,88k com volume acelera a $63,3k–$63,5k"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica intradia · @xbtc.ai"
+        }
+      ]
+    },
+    {
       "id": "2026-07-16-05h32",
       "date": "2026-07-16",
       "time": "05h32",
