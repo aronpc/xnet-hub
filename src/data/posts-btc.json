@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-16-09h32",
+      "date": "2026-07-16",
+      "time": "09h32",
+      "hook": "BTC em BAIXA exausto em US$ 64.138 · medo extremo (F&G 25) após vela de volume 5× a média",
+      "caption": "BAIXA com sinais de exaustão: suporte de 64,5k rompido, mas F&G 25 e consolidação em 64,1k sugerem capitulação próxima.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-16-09h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-16-09h32",
+      "slides": [
+        {
+          "title": "Medo extremo em US$ 64.138",
+          "body": "BAIXA com sinais de exaustão: suporte de 64,5k rompido, mas F&G 25 e consolidação em 64,1k sugerem capitulação próxima."
+        },
+        {
+          "title": "US$ 64.138",
+          "body": "Δ1h 0,0% · Δ24h −0,95% · vol 24h US$ 32,4 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no terço inferior da faixa 24h, abaixo do suporte rompido de 64,5k · Smart Money: funding +0,004% (neutro) + L/S 1,37 (58% long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "63,9k segura ou cascata",
+          "body": "Acima de 64,5k → reclaim até 64,8k (alívio do viés) · Perder 63,9k → alvo 63,5k/63,0k, cascata dos longs"
+        },
+        {
+          "title": "Padrão de exaustão",
+          "body": "Vela de queda ontem com volume ~5× a média 1h + F&G 25 = zona de capitulação · repiques violentos possíveis se 63,9k segurar."
+        }
+      ]
+    },
+    {
       "id": "2026-07-16-08h33",
       "date": "2026-07-16",
       "time": "08h33",
