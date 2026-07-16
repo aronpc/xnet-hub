@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-16-11h33",
+      "date": "2026-07-16",
+      "time": "11h33",
+      "hook": "BTC repica em US$ 64.634 · medo extremo vira combustível contrarian",
+      "caption": "Sai de US$ 63.966 e mira US$ 65 mil com Fear&Greed em 25\n\nLeia: https://xbtc.aronpc.dev/#2026-07-16-11h33",
+      "link": "https://xbtc.aronpc.dev/#2026-07-16-11h33",
+      "slides": [
+        {
+          "title": "BTC recupera em V da mínima",
+          "body": "Sai de US$ 63.966 e mira US$ 65 mil com Fear&Greed em 25"
+        },
+        {
+          "title": "US$ 64.634",
+          "body": "Δ1h s/d · Δ24h −1,00% · vol US$ 30,7 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA · recuperação",
+          "body": "V-bounce +1,2% da mínima · funding neutro +0,006% e L/S 1,38 sem combustível p/ squeeze",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Romper US$ 65 mil abre US$ 66 mil",
+          "body": "Suporte US$ 64.000 (−0,98%) · Resistência US$ 65.000 (+0,57%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Medo Extremo · F&G 25",
+          "body": "Leitura contrarian: segurar US$ 64 mil é zona histórica de acúmulo"
+        }
+      ]
+    },
+    {
       "id": "2026-07-16-10h32",
       "date": "2026-07-16",
       "time": "10h32",
