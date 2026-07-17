@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-17-03h32",
+      "date": "2026-07-17",
+      "time": "03h32",
+      "hook": "Os US$ 63k não seguraram. O BTC desceu para US$ 62.863, no extremo inferior do canal de 24h, e agora testa o suporte de US$ 62.500 com os longs ainda lotados.",
+      "caption": "Queda de quase 3% no dia. Perder os 62,5k destrava uma corrida aos 62k enquanto as posições em long continuam cheias.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-17-03h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-17-03h32",
+      "slides": [
+        {
+          "title": "63k cedeu. 62,5k entra no foco.",
+          "body": "Queda de quase 3% no dia. Perder os 62,5k destrava uma corrida aos 62k enquanto as posições em long continuam cheias."
+        },
+        {
+          "title": "US$ 62.863",
+          "body": "Δ1h −0,72% · Δ24h −2,92% · vol US$ 29,3 B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O preço vem desmontando níveis desde o topo de 65k e chegou aos 62,9k. Smart money parado: funding +0,005% (neutro) e L/S 1,63, com 62% das contas em long. Se os 62,5k cederem, esses longs viram combustível para uma queda maior."
+        },
+        {
+          "title": "62,5k sob pressão: ceder mira os 62k",
+          "body": "Suporte US$ 62.500 (−0,6%) · Resistência US$ 64.000 (+1,8%). Perder os 62,7k mira US$ 62.000 e abre US$ 61.500; segurar e voltar aos 63,2k sinaliza repique rumo a 64k.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-07-17-01h30",
       "date": "2026-07-17",
       "time": "01h30",
