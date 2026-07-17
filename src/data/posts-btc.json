@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-16-22h32",
+      "date": "2026-07-16",
+      "time": "22h32",
+      "hook": "BTC parou de cair e grudou no piso de 24h, em US$ 63.878. Repique tímido, volume sumido e o medo de volta ao indicador.",
+      "caption": "O preço encostou no suporte de US$ 63.600 e segurou. A última vela veio com volume fraco, 279 BTC contra uma média de 761, então é mais falta de vendedor do que comprador entrando.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-16-22h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-16-22h32",
+      "slides": [
+        {
+          "title": "Grudado no suporte, repique sem fôlego",
+          "body": "O preço encostou no suporte de US$ 63.600 e segurou. A última vela veio com volume fraco, 279 BTC contra uma média de 761, então é mais falta de vendedor do que comprador entrando."
+        },
+        {
+          "title": "US$ 63.878",
+          "body": "Δ1h +0,38% · Δ24h -1,05% · vol US$ 27,7B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Grudou no piso da faixa de 24h e não rompeu nada, então a hora segue sem direção. A vela veio com volume fraco, sinal de mercado parado mais do que virando. Smart money morno: funding +0,0086% e L/S 1,45, com long na frente e sem euforia."
+        },
+        {
+          "title": "Segurar os 63,6k e retomar os 64k",
+          "body": "Suporte US$ 63.600 (-0,4%) · Resistência US$ 64.200 (+0,5%). F&G em medo (27) no piso da faixa deixa abertura pra acumulação, se o suporte aguentar.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-07-16-21h41",
       "date": "2026-07-16",
       "time": "21h41",
