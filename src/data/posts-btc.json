@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-17-14h31",
+      "date": "2026-07-17",
+      "time": "14h31",
+      "hook": "O dia abriu apertado e o preço foi bater na mínima de 24h pela manhã. Horas depois já subiu de volta e encosta no teto da sessão, em US$ 64.001, com a hora mais forte do dia. Mercado ainda cauteloso, sem força para passar do topo.",
+      "caption": "A hora veio forte (+0,91%) e levou o preço de volta ao topo do dia, mas o saldo segue no vermelho e o teto ainda não cedeu.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-17-14h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-17-14h31",
+      "slides": [
+        {
+          "title": "Virou o dia: BTC de volta aos 64 mil",
+          "body": "A hora veio forte (+0,91%) e levou o preço de volta ao topo do dia, mas o saldo segue no vermelho e o teto ainda não cedeu."
+        },
+        {
+          "title": "US$ 64.001",
+          "body": "Δ1h +0,91% · Δ24h −0,33% · vol US$ 26,7 B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O repique da hora colocou o preço de volta perto da máxima de 24h, mas o dia segue plano e sem rompimento. Smart money: funding +0,0047% e L/S 1,81, com os longs ainda majoritários."
+        },
+        {
+          "title": "Teto do dia à prova: 64,3k a 64,5k",
+          "body": "Base US$ 63.500 (−0,78%) · teto US$ 64.500 (+0,78%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-07-17-11h31",
       "date": "2026-07-17",
       "time": "11h31",
