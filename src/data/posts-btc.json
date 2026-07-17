@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-16-21h12",
+      "date": "2026-07-16",
+      "time": "21h12",
+      "hook": "BTC escorrega pros US$ 63,7 mil e crava nova mínima do dia, só que sem volume pra sustentar",
+      "caption": "O preço perdeu os US$ 64 mil e marcou o fundo das últimas 24h. A última hora veio com volume pífio, uns 16% da média, então parece mais escorregada de fim de dia do que venda pra valer.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-16-21h12",
+      "link": "https://xbtc.aronpc.dev/#2026-07-16-21h12",
+      "slides": [
+        {
+          "title": "Nova mínima do dia, queda sem convicção",
+          "body": "O preço perdeu os US$ 64 mil e marcou o fundo das últimas 24h. A última hora veio com volume pífio, uns 16% da média, então parece mais escorregada de fim de dia do que venda pra valer."
+        },
+        {
+          "title": "US$ 63.741",
+          "body": "Δ1h −0,14% · Δ24h −1,62% · vol US$ 27,2B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Emendou mínimas mais baixas e perdeu os 64k, então a estrutura curta virou de baixa. Smart money morno: funding +0,007% e L/S 1,43, longs ainda na frente mas sem euforia."
+        },
+        {
+          "title": "Perder os 63,5k abre caminho pros 63 mil",
+          "body": "Suporte US$ 63.500 (−0,4%) · Resistência US$ 64.000 (+0,4%). Segurar aqui em volume seco deixa a porta aberta pro reteste dos 64k.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-07-16-17h32",
       "date": "2026-07-16",
       "time": "17h32",
