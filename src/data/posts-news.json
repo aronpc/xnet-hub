@@ -2,6 +2,91 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-07-17",
+      "date": "2026-07-17",
+      "hook": "Panorama IA · 17 jul",
+      "caption": "A semana foi de consolidação de poder em três frentes: capital, talento e silício. A OpenAI tenta transformar pressão regulatória em alinhamento oferecendo equity ao governo. A Anthropic vira ímã de pesos-pesados. E o que faltava virou o gargalo de verdade: não são parâmetros, é compute.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-07-17",
+      "link": "https://xnews.aronpc.dev/#ia-2026-07-17",
+      "slides": [
+        {
+          "title": "Panorama IA — 17 de julho",
+          "body": "A semana foi de consolidação de poder em três frentes: capital, talento e silício. A OpenAI tenta transformar pressão regulatória em alinhamento oferecendo equity ao governo. A Anthropic vira ímã de pesos-pesados. E o que faltava virou o gargalo de verdade: não são parâmetros, é compute."
+        },
+        {
+          "title": "OpenAI propõe dar US$ 42,6 bi em equity ao governo dos EUA",
+          "body": "A OpenAI ofereceu cerca de 5% da sua equity ao governo federal, algo em torno de US$ 42,6 bilhões sobre um valuation de US$ 852 bilhões. Sam Altman levou a ideia a Trump, a Lutnick (Comércio) e a Bessent (Tesouro), inspirado no Alaska Permanent Fund. A proposta saiu semanas antes de um IPO confidencial.",
+          "source": {
+            "label": "Build Fast — 14 jul",
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-14-2026"
+          }
+        },
+        {
+          "title": "Índice de Segurança de IA 2026: ninguém passa bem",
+          "body": "O AI Safety Index 2026 do Future of Life Institute deu a nota máxima da turma, um C+, para a Anthropic. OpenAI e Google DeepMind tiraram C. Meta ficou com D+. E xAI, DeepSeek e Mistral foram reprovados. A leitura do índice é que vários labs recuaram silenciosamente em promessas de segurança.",
+          "source": {
+            "label": "Build Fast — 15 jul",
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-15-2026"
+          }
+        },
+        {
+          "title": "GPT-Red: a OpenAI treina IA para hackear IA",
+          "body": "A OpenAI mostrou o GPT-Red, um sistema de red-teaming automatizado por self-play que descobre falhas de prompt injection em escala. Ele quebrou os modelos testados em 84% dos casos, contra 13% dos red-teamers humanos, e já ajudou a endurecer o GPT-5.6.",
+          "source": {
+            "label": "OpenAI — 15 jul",
+            "url": "https://openai.com/index/unlocking-self-improvement-gpt-red/"
+          }
+        },
+        {
+          "title": "Coreia do Sul compromete US$ 880 bi com IA em 10 anos",
+          "body": "A Coreia do Sul anunciou um pacote nacional de US$ 880 bilhões em inteligência artificial ao longo da próxima década, na mesma rodada de notícias de 15 de julho.",
+          "source": {
+            "label": "Build Fast — 15 jul",
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-15-2026"
+          }
+        },
+        {
+          "title": "Karpathy e o cofundador do Monzo teriam entrado na Anthropic",
+          "body": "Há relatos de que Andrej Karpathy (ex-Tesla e OpenAI) e Tom Blomfield, cofundador do Monzo, no time de compute, entraram na Anthropic. A contratação agressiva de 2026 já tinha trazido o Nobel John Jumper do Google DeepMind. O \"reportedly\" vale: é a confirmar.",
+          "source": {
+            "label": "Build Fast — 15 jul",
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-15-2026"
+          }
+        },
+        {
+          "title": "NYT pede sanções à OpenAI; Apple processa por segredos industriais",
+          "body": "A pilha legal sobre a OpenAI cresceu. O NYT pediu ao juiz que aplique sanções. A Apple entrou com processo por trade secrets. Tudo isso enquanto a empresa negocia IPO, equity pública e defesa regulatória.",
+          "source": {
+            "label": "Build Fast — 15 jul",
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-15-2026"
+          }
+        },
+        {
+          "title": "Gemini 3.5 Pro desliza para além de 17 de julho",
+          "body": "O GA esperado para hoje, 17 de julho, não saiu. Depois de um full rebuild para corrigir lacunas de matemática e raciocínio, relatos apontam novo deslizamento para o fim do mês. O modelo segue em preview limitado no Vertex AI.",
+          "source": {
+            "label": "TechTimes — 13 jul",
+            "url": "https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm"
+          }
+        },
+        {
+          "title": "TSMC bate recorde; Google fica sem compute e raciona Gemini",
+          "body": "A TSMC postou receita recorde puxada pela demanda de IA. No mesmo movimento, o Google ficou sem compute e começou a racionar Gemini para a Meta.",
+          "source": {
+            "label": "Build Fast — 14 jul",
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-14-2026"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A semana cristalizou três movimentos. Poder virou equity: a OpenAI quer o governo como sócio. Talento virou migração: pesos-pesados seguem para a Anthropic. E o que faltava deixou de ser parâmetro de modelo para ser silício e compute, com o Google racionando Gemini para a Meta."
+        },
+        {
+          "title": "Salva e compartilha",
+          "body": "Panorama IA todo dia: modelos, capital, regulação e o que muda pra quem constrói. Segue @xnews.ai."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-07-16",
       "date": "2026-07-16",
       "hook": "O MCP cruzou de dev para vertical",
