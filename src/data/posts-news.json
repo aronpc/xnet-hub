@@ -2,6 +2,91 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-17",
+      "date": "2026-07-17",
+      "hook": "Skills e MCP · 17 jul",
+      "caption": "A área mais central do stack amadureceu de uma vez. O Claude Code ganhou guardrails contra loops descontrolados, o protocolo MCP passou pela maior revisão desde o lançamento, e skill-authoring virou disciplina com curso formal. Quem constrói agentes e servidores MCP teve uma semana movimentada.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-17",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-17",
+      "slides": [
+        {
+          "title": "Skills e MCP — 17 de julho",
+          "body": "A área mais central do stack amadureceu de uma vez. O Claude Code ganhou guardrails contra loops descontrolados, o protocolo MCP passou pela maior revisão desde o lançamento, e skill-authoring virou disciplina com curso formal. Quem constrói agentes e servidores MCP teve uma semana movimentada."
+        },
+        {
+          "title": "Claude Code v2.1.212: guardrails anti-loop, /fork e /goal",
+          "body": "A nova versão do Claude Code traz /fork, que copia a conversa para uma sessão em background, e o comando /goal para coordenar agentes. Também chegaram tetos anti-loop: 200 WebSearch por sessão e 200 spawns de subagent. Chamadas MCP acima de 2 minutos viram background sozinhas. E houve correção crítica de segurança em plan mode que rodava Bash destrutivo sem prompt.",
+          "source": {
+            "label": "Claude Code CHANGELOG",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "MCP 2026-07-28: release candidate da maior revisão desde o lançamento",
+          "body": "Saiu o release candidate da spec MCP 2026-07-28, descrita como a maior revisão do protocolo desde o lançamento. Ela entrega o roadmap 2026 do MCP.",
+          "source": {
+            "label": "Blog MCP — 15 jul",
+            "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/"
+          }
+        },
+        {
+          "title": "Curso \"Agent Skills with Anthropic\" + multi-agent e /goal no Claude Code",
+          "body": "Andrew Ng anunciou um novo curso de Agent Skills feito com a Anthropic. Junto, o Claude Code ganhou multi-agent management e o comando /goal para coordenar agentes.",
+          "source": {
+            "label": "Andrew Ng — 15 jul",
+            "url": "https://www.facebook.com/andrew.ng.96/videos/important-new-course-agent-skills-with-anthropic-built-with-anthropic-and-taught/1694795058149120/"
+          }
+        },
+        {
+          "title": "Claude API skill: agent skill open-source de referência da Messages API",
+          "body": "A Anthropic lançou a Claude API skill, uma agent skill open-source que dá ao Claude material de referência atualizado da Messages API.",
+          "source": {
+            "label": "Claude Platform",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+          }
+        },
+        {
+          "title": "Context7 segue como o MCP server mais popular do ecossistema",
+          "body": "O Context7, open-source da Upstash, mantém-se como o MCP server mais adotado, com mais de 54 mil estrelas no GitHub e cerca de 890 mil downloads no npm por semana (dados de maio de 2026).",
+          "source": {
+            "label": "ShareUHack — 15 jul",
+            "url": "https://www.shareuhack.com/en/posts/best-mcp-servers-guide-2026"
+          }
+        },
+        {
+          "title": "FastMCP 3.0: framework Python para construir MCP servers e clients",
+          "body": "O FastMCP 3.0 é um framework pythonic para construir apps de contexto para IA e também servers e clients MCP, puxando e redirecionando ferramentas e dados de qualquer fonte com controle de acesso.",
+          "source": {
+            "label": "Product Hunt",
+            "url": "https://www.producthunt.com/products/fastmcp"
+          }
+        },
+        {
+          "title": "Product Hunt MCP & Skill: 13 ferramentas de descoberta para agentes",
+          "body": "Saiu um pacote que expõe o Product Hunt a agentes via MCP, com 13 ferramentas para descobrir e lançar produtos.",
+          "source": {
+            "label": "MCPBundles",
+            "url": "https://www.mcpbundles.com/skills/product-hunt"
+          }
+        },
+        {
+          "title": "API-to-MCP: SDK open-source transforma qualquer API em MCP server",
+          "body": "O API-to-MCP traz um SDK open-source e infra hospedada que converte APIs REST, GraphQL, SaaS e internas em MCP servers prontos para agentes em minutos.",
+          "source": {
+            "label": "Product Hunt",
+            "url": "https://www.producthunt.com/products/api-to-mcp"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O ecossistema amadureceu em três frentes. O Claude Code passou a se defender de loops descontrolados com tetos explícitos. O protocolo MCP entrou na maior revisão desde o lançamento. E skill-authoring virou disciplina formal, com curso, template oficial e frameworks que abaixam o custo de criar servidores."
+        },
+        {
+          "title": "Salva e compartilha",
+          "body": "Skills e MCP toda semana: ferramentas, protocolo e o que muda pra quem constrói agentes. Segue @xnews.ai."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-17",
       "date": "2026-07-17",
       "hook": "Projetos IA · 17 jul",
