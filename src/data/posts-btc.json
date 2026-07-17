@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-17-11h31",
+      "date": "2026-07-17",
+      "time": "11h31",
+      "hook": "O BTC chegou aos US$ 62.538, mínima de 24 horas, e os compradores apareceram com o maior volume das últimas 24h. O preço volta aos US$ 63.196, ainda no vermelho no dia.",
+      "caption": "Queda de 2,3% no dia, mas a banda de 62,5k a 63,5k voltou a valer depois que os compradores defenderam o fundo com volume forte.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-17-11h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-17-11h31",
+      "slides": [
+        {
+          "title": "A mínima de 24h segurou. BTC está nos 63,2k.",
+          "body": "Queda de 2,3% no dia, mas a banda de 62,5k a 63,5k voltou a valer depois que os compradores defenderam o fundo com volume forte."
+        },
+        {
+          "title": "US$ 63.196",
+          "body": "Δ1h +0,58% · Δ24h −2,30% · vol US$ 26,2 B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Depois de cair 2,3% no dia, o preço parou de descer e ficou preso entre 62,5k e 63,5k. Smart money quase parado: funding +0,005% (neutro) e L/S 1,88, com 65% das contas em long."
+        },
+        {
+          "title": "Segurar os 63k coloca 63,5k no radar",
+          "body": "Mínima 24h US$ 62.538 (−1,1%) · teto intradia US$ 63.500 (+0,5%) · referência acima: US$ 64,0k",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-07-17-03h32",
       "date": "2026-07-17",
       "time": "03h32",
