@@ -2,6 +2,83 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-17",
+      "date": "2026-07-17",
+      "hook": "Projetos IA · 17 jul",
+      "caption": "A tese da semana veio com cheque grande: o próximo negócio trilionário de IA é implementação, não modelo. Tem onda de capital asiático, primeiro open-weight da Thinking Machines, e no nicho técnico desponta um padrão que interessa direto a quem roda agentes: dados com MCP nativo e AI DevOps open-source.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-07-17",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-07-17",
+      "slides": [
+        {
+          "title": "Projetos IA — 17 de julho",
+          "body": "A tese da semana veio com cheque grande: o próximo negócio trilionário de IA é implementação, não modelo. Tem onda de capital asiático, primeiro open-weight da Thinking Machines, e no nicho técnico desponta um padrão que interessa direto a quem roda agentes: dados com MCP nativo e AI DevOps open-source."
+        },
+        {
+          "title": "Ode: Anthropic cria JV de US$ 1,5 bi para implementar Claude no enterprise",
+          "body": "Anthropic, Blackstone, Hellman & Friedman e Goldman Sachs formalizaram a Ode, empresa standalone de US$ 1,5 bilhão para implementar o Claude em grandes empresas. A operação absorveu a aquisição da Fractional AI para reforçar a engenharia.",
+          "source": {
+            "label": "TechCrunch — 15 jul",
+            "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/"
+          }
+        },
+        {
+          "title": "AIsphere capta US$ 439 mi em Série C liderada pela Alibaba",
+          "body": "A AIsphere fechou Série C de US$ 439 milhões liderada pelo Alibaba Group. Fechamento no dia 14, divulgação no 15.",
+          "source": {
+            "label": "Yutori — 15 jul",
+            "url": "https://scouts.yutori.com/68f22e10-d5fe-4e94-b1c8-9c6218cfdb2c"
+          }
+        },
+        {
+          "title": "Meta inicia rollout global do Meta Business Agent Platform",
+          "body": "A Meta começou o rollout global do Meta Business Agent Platform, dando a empresas a infraestrutura para construir, customizar e desplegar agentes de IA em escala.",
+          "source": {
+            "label": "Build Fast — 15 jul",
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-15-2026"
+          }
+        },
+        {
+          "title": "MyDecisive.ai sai do stealth com US$ 12 mi e SmartHub open-source",
+          "body": "A MyDecisive.ai saiu do stealth com US$ 12 milhões e o SmartHub, produto open-source para observabilidade e decisão em pipelines de IA.",
+          "source": {
+            "label": "SiliconANGLE — 15 jul",
+            "url": "https://siliconangle.com/2026/07/15/ai-devops-startup-mydecisive-launches-12m-open-source-smarthub/"
+          }
+        },
+        {
+          "title": "Inkling: Thinking Machines lança seu primeiro modelo open-weight",
+          "body": "A startup de Mira Murati lançou o Inkling, primeiro modelo in-house e open-weight, ou seja, baixável e customizável. O WSJ cita valuation de cerca de US$ 12 bilhões em funding early-stage.",
+          "source": {
+            "label": "TechCrunch — 15 jul",
+            "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/"
+          }
+        },
+        {
+          "title": "Funding de startups na Ásia bate máxima de vários anos, puxado por IA",
+          "body": "A rodada de notícias de 15 e 16 de julho destaca que o funding asiático de startups bateu máximo de vários anos, com IA e China na frente. A Crunchbase computa US$ 42,8 bilhões em funding de startups na Ásia no segundo trimestre de 2026.",
+          "source": {
+            "label": "TechStartups — 16 jul",
+            "url": "https://techstartups.com/2026/07/16/top-tech-news-today-july-15-2026/"
+          }
+        },
+        {
+          "title": "Marmot: catálogo de dados open-source com MCP server embutido",
+          "body": "O Marmot é um catálogo de dados open-source, com busca e lineage, 100% gratuito, e com MCP server nativo para dar contexto sobre os dados a LLMs e agentes. Esteve em destaque no Product Hunt em julho.",
+          "source": {
+            "label": "Product Hunt — jul",
+            "url": "https://www.producthunt.com/products/marmot"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O dinheiro grande está indo para implementação, não para modelo: a Ode coloca US$ 1,5 bi nessa tese. O capital asiático sobe, com US$ 42,8 bi no Q2 e a Alibaba liderando round da AIsphere. E no nicho técnico desponta um padrão que serve a quem roda agentes: dados com MCP nativo e AI DevOps open-source."
+        },
+        {
+          "title": "Salva e compartilha",
+          "body": "Projetos IA toda semana: rounds, lançamentos e o que muda pra quem constrói. Segue @xnews.ai."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-17",
       "date": "2026-07-17",
       "hook": "Panorama IA · 17 jul",
