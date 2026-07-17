@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-17-01h30",
+      "date": "2026-07-17",
+      "time": "01h30",
+      "hook": "BTC seguiu caindo e fechou a hora em US$ 63.318, encostado no fundo de 24h. O medo voltou ao Fear & Greed em 27 e a vela atual veio com volume fraco.",
+      "caption": "O preço foi rejeitado em US$ 64k e agora testa o fundo de US$ 63.320. Volume da última vela abaixo da média, então falta comprador entrando contra o suporte.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-17-01h30",
+      "link": "https://xbtc.aronpc.dev/#2026-07-17-01h30",
+      "slides": [
+        {
+          "title": "Apertado no piso, com medo no indicador",
+          "body": "O preço foi rejeitado em US$ 64k e agora testa o fundo de US$ 63.320. Volume da última vela abaixo da média, então falta comprador entrando contra o suporte."
+        },
+        {
+          "title": "US$ 63.318",
+          "body": "Δ1h −0,4% · Δ24h −1,95% · vol US$ 27,3 B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O preço caiu do topo de US$ 65k até US$ 63,3k e foi rejeitado em US$ 64k. Smart money neutro: funding +0,007% e L/S 1,47, com long na frente mas sem combustível pra squeeze."
+        },
+        {
+          "title": "Segurar os 63k ou cair aos 62k",
+          "body": "Suporte US$ 63.000 (−0,5%) · Resistência US$ 64.000 (+1,1%). Recuperar US$ 63.800 acende um repique; perder os 63k abre US$ 62.500 e US$ 62.000.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-07-16-22h32",
       "date": "2026-07-16",
       "time": "22h32",
