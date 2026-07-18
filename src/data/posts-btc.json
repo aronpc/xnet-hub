@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-18-02h31",
+      "date": "2026-07-18",
+      "time": "02h31",
+      "hook": "O Bitcoin ficou seis horas colado no teto do dia até o viés desempatar para alta. Está em US$ 63.928, com o ganho de 24h mais encorpado (+1,2%). Falta só o empurrão para cima dos 64 mil.",
+      "caption": "Horas de preço parado sob a máxima da sessão acabaram em viés de alta. O ganho do dia ganhou fôlego e o preço segue firme no terço alto do range.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-18-02h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-18-02h31",
+      "slides": [
+        {
+          "title": "BTC desempata para alta nos 63,9 mil",
+          "body": "Horas de preço parado sob a máxima da sessão acabaram em viés de alta. O ganho do dia ganhou fôlego e o preço segue firme no terço alto do range."
+        },
+        {
+          "title": "US$ 63.928",
+          "body": "Δ1h −0,02% · Δ24h +1,22% · vol US$ 25,4 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço no terço alto do range de 24h, com o ganho do dia mais firme. Smart money: funding +0,0075% e L/S 1,57, posicionamento tranquilo e sem exagero."
+        },
+        {
+          "title": "Decisão encostada nos 64,2 mil",
+          "body": "Base US$ 63.000 (−1,4%) · teto US$ 64.200 (+0,4%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-07-17-23h31",
       "date": "2026-07-17",
       "time": "23h31",
