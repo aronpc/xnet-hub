@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-18",
+      "date": "2026-07-18",
+      "hook": "Skills e MCP · 18 jul",
+      "caption": "O MCP entrou de vez no enterprise e no mainstream, com Meta, Box e NVIDIA empacotando servidores. E um concorrente direto da camada de memória apareceu em primeiro no Product Hunt, forçando reflexão sobre o que já temos.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-18",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-18",
+      "slides": [
+        {
+          "title": "Skills e MCP — 18 de julho",
+          "body": "O MCP entrou de vez no enterprise e no mainstream, com Meta, Box e NVIDIA empacotando servidores. E um concorrente direto da camada de memória apareceu em primeiro no Product Hunt, forçando reflexão sobre o que já temos."
+        },
+        {
+          "title": "Claude Code v2.1.214 ganha EndConversation e hardening",
+          "body": "A nova versão adiciona a tool EndConversation, para encerrar sessões com usuários abusivos ou tentativas de jailbreak. Endurece checagens de permissão do Bash e PowerShell e traz reasoning effort e timestamp ISO no frontmatter de memórias.",
+          "source": {
+            "label": "Claude Code CHANGELOG — 17 jul",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "Meta Ads AI Connectors: anúncios viram via nativa pra agentes",
+          "body": "A Meta adicionou duas novas capacidades ao seu ads MCP server, permitindo que qualquer aplicação de IA se conecte diretamente aos anúncios Meta.",
+          "source": {
+            "label": "Meta for Business — 16 jul",
+            "url": "https://www.facebook.com/business/news/meta-ads-ai-connectors"
+          }
+        },
+        {
+          "title": "Box lança MCP server para Databricks",
+          "body": "A Box anunciou o MCP server para Databricks, descrito como o primeiro passo de uma parceria crescente entre as duas empresas.",
+          "source": {
+            "label": "Box Blog — 16 jul",
+            "url": "https://blog.box.com/announcing-box-mcp-server-databricks"
+          }
+        },
+        {
+          "title": "NVIDIA NemoClaw: Managed MCP Servers + setup do DGX",
+          "body": "As release notes do NemoClaw trazem Managed MCP Servers, para adicionar e diagnosticar servidores, e o setup express do DGX Station GB300.",
+          "source": {
+            "label": "NVIDIA NemoClaw — 16 jul",
+            "url": "https://docs.nvidia.com/nemoclaw/user-guide/deepagents/release-notes/2026/7/16"
+          }
+        },
+        {
+          "title": "Revid.ai lança MCP server e CLI para agentes gerarem vídeo",
+          "body": "A plataforma de geração de vídeo Revid.ai lançou um MCP server e uma CLI que dão a agentes de IA acesso direto à produção de vídeo.",
+          "source": {
+            "label": "Business Insider — jul 2026",
+            "url": "https://markets.businessinsider.com/news/stocks/leading-ai-video-generation-platform-revid-ai-launches-mcp-server-and-command-line-tool-giving-ai-agents-direct-access-to-video-production-1036333945"
+          }
+        },
+        {
+          "title": "julia-mcp e Kaimon: sessões Julia persistentes para agentes",
+          "body": "Dois MCP servers, julia-mcp e Kaimon.jl, permitem que agentes mantenham sessões Julia vivas entre chamadas, captando mudanças de código sem reiniciar o runtime.",
+          "source": {
+            "label": "Julia Discourse — jul 2026",
+            "url": "https://discourse.julialang.org/t/ann-julia-mcp-persistent-julia-sessions-for-ai-assistants/135386"
+          }
+        },
+        {
+          "title": "Unabyss for Claude: memória compartilhada entre apps (PH #1)",
+          "body": "O Unabyss for Claude, primeiro lugar no Product Hunt, oferece memória compartilhada entre todos os apps e LLMs, um repositório unificado de contexto entre ferramentas.",
+          "source": {
+            "label": "Product Hunt — 17 jul",
+            "url": "https://www.producthunt.com/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O MCP deixou de ser experiência de desenvolvedor e virou peça enterprise empacotada por Meta, Box e NVIDIA. E a camada de memória ganhou um concorrente comercial polido, lembrando que a fragmentação entre ferramentas ainda é a dor central."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-18",
       "date": "2026-07-18",
       "hook": "Projetos IA · 18 jul",
