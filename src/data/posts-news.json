@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-07-18",
+      "date": "2026-07-18",
+      "hook": "Panorama IA · 18 jul",
+      "caption": "A semana teve dois lados colados. De um, um modelo aberto chinês passou os frontier fechados em benchmark pela primeira vez. Do outro, agentes autônomos viraram a porta de entrada de um ataque real. Poder e risco chegaram juntos.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-07-18",
+      "link": "https://xnews.aronpc.dev/#ia-2026-07-18",
+      "slides": [
+        {
+          "title": "Panorama IA — 18 de julho",
+          "body": "A semana teve dois lados colados. De um, um modelo aberto chinês passou os frontier fechados em benchmark pela primeira vez. Do outro, agentes autônomos viraram a porta de entrada de um ataque real. Poder e risco chegaram juntos."
+        },
+        {
+          "title": "Kimi K3: o maior open-weight já lançado",
+          "body": "A Moonshot liberou o Kimi K3, um modelo open-weight de 2,8 trilhões de parâmetros com 1 milhão de tokens de contexto. É cerca de 75% maior que o DeepSeek V4 Pro, e os pesos completos saem em 27 de julho.",
+          "source": {
+            "label": "VentureBeat — 16 jul",
+            "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems"
+          }
+        },
+        {
+          "title": "Agente autônomo abre brecha na Hugging Face",
+          "body": "A Hugging Face confirmou um incidente em que a invasão começou na pipeline de processamento de datasets. Um dataset malicioso abusou de dois caminhos de execução de código, e a atribuição foi a um agente de IA autônomo operando sobre os dados.",
+          "source": {
+            "label": "Hugging Face — 16 jul",
+            "url": "https://huggingface.co/blog/security-incident-july-2026"
+          }
+        },
+        {
+          "title": "Gemini 3.5 Pro segue sem data",
+          "body": "Prometido para junho no I/O e mirado em 17 de julho depois de um rebuild total, o Gemini 3.5 Pro ainda não chegou ao lançamento geral. O atraso é atribuído à performance em código.",
+          "source": {
+            "label": "9to5Google — 16 jul",
+            "url": "https://9to5google.com/2026/07/16/gemini-3-5-pro-delays/"
+          }
+        },
+        {
+          "title": "WAIC 2026 abre em Xangai com 300+ lançamentos",
+          "body": "A Conferência Mundial de IA abriu em Xangai. A cidade atingiu 637 bilhões de yuans em escala industrial de IA em 2025, alta de 39,5% em um ano.",
+          "source": {
+            "label": "SCIO China — 17 jul",
+            "url": "http://www.scio.gov.cn/xwfb/dfxwfb/gssfbh/sh_13834/202607/t20260709_998265.html"
+          }
+        },
+        {
+          "title": "78% adotam IA, só 27% chegam à maturidade",
+          "body": "O SANS AI Survey 2026, divulgado com a Darktrace, mostra IA em 78% das organizações, mas só 27% alcançam maturidade de produção. Agentes com acesso a dados e processos críticos geram crescente inquietação.",
+          "source": {
+            "label": "Industrial Cyber — 17 jul",
+            "url": "https://industrialcyber.co/news/darktrace-highlights-growing-unease-as-ai-agents-operate-with-access-to-critical-data-and-processes/"
+          }
+        },
+        {
+          "title": "Primeiro ransomware 100% autônomo movido a IA",
+          "body": "Pesquisadores da HiddenLayer documentaram o primeiro ataque de ransomware dirigido de ponta a ponta por IA autônoma. Agentes autônomos já respondem por cerca de 1 em cada 8 brechas de IA reportadas.",
+          "source": {
+            "label": "Campus Technology — 14 jul",
+            "url": "https://campustechnology.com/articles/2026/07/14/cybersecurity-researchers-identify-first-fully-autonomous-ai-driven-ransomware-attack.aspx"
+          }
+        },
+        {
+          "title": "ChatGPT separa Chat e Work no desktop",
+          "body": "A OpenAI atualizou o app de desktop para separar Chat e Work, o agente que reúne contexto entre apps e entrega trabalho pronto, lançado em 9 de julho.",
+          "source": {
+            "label": "OpenAI Release Notes — 16 jul",
+            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+          }
+        },
+        {
+          "title": "Meta propõe raciocínio por analogia em LLMs",
+          "body": "A Meta AI publicou Learning to Reason by Analogy, propondo raciocínio por analogia como alternativa ao chain-of-thought tradicional.",
+          "source": {
+            "label": "Meta AI — 17 jul",
+            "url": "https://ai.meta.com/global_search/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A tese de que modelo aberto nunca alcança a fronteira caiu com o Kimi K3. E no mesmo movimento agentes autônomos viraram, ao mesmo tempo, ferramenta de produção e superfície de ataque. O poder subiu e o risco subiu junto."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-07-17",
       "date": "2026-07-17",
       "hook": "Skills e MCP · 17 jul",
