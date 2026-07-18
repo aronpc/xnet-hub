@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-17-23h31",
+      "date": "2026-07-17",
+      "time": "23h31",
+      "hook": "O índice de medo e ganância afundou para 25 e voltou à zona de medo extremo, enquanto o Bitcoin segue em US$ 63.953, perto da máxima do dia. Preço quase parado, humor no fundo do poço: muito pessimismo com o preço ainda firme.",
+      "caption": "O humor do mercado escorregou para a zona de medo extremo (F&G 25), mas o preço continua na parte alta do dia. O sentimento piorou; o Bitcoin, não.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-17-23h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-17-23h31",
+      "slides": [
+        {
+          "title": "Medo extremo volta ao radar do Bitcoin",
+          "body": "O humor do mercado escorregou para a zona de medo extremo (F&G 25), mas o preço continua na parte alta do dia. O sentimento piorou; o Bitcoin, não."
+        },
+        {
+          "title": "US$ 63.953",
+          "body": "Δ1h 0,00% · Δ24h +0,65% · vol US$ 26,5 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço preso perto da máxima de 24h, em volume fraco e sem continuidade. Smart money: funding +0,007% e L/S 1,55, com leve viés long e sem exagero."
+        },
+        {
+          "title": "Chão de 63 mil entra no foco",
+          "body": "Base US$ 63.000 (−1,49%) · teto US$ 64.400 (+0,70%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-07-17-14h31",
       "date": "2026-07-17",
       "time": "14h31",
