@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-18",
+      "date": "2026-07-18",
+      "hook": "Projetos IA · 18 jul",
+      "caption": "A semana foi da robótica e do physical AI. Capitais e M&A correram para agentes que atuam no mundo físico, com um marco open-weight como contraponto de software. Dinheiro seguindo corpo robótico.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-07-18",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-07-18",
+      "slides": [
+        {
+          "title": "Projetos IA — 18 de julho",
+          "body": "A semana foi da robótica e do physical AI. Capitais e M&A correram para agentes que atuam no mundo físico, com um marco open-weight como contraponto de software. Dinheiro seguindo corpo robótico."
+        },
+        {
+          "title": "Pudu lança \"um cérebro, muitos corpos\" e o robô D7",
+          "body": "A Pudu Robotics apresentou no WAIC 2026 sua plataforma One Brain, Multiple Embodiments, um cérebro de IA servindo múltiplos corpos robóticos, e lançou o D7, robô industrial semi-humanoide.",
+          "source": {
+            "label": "Pudu Robotics — 17 jul",
+            "url": "https://www.pudurobotics.com/news/waic-2026-pudu-d7-industrial-semi-humanoid-robot-launch"
+          }
+        },
+        {
+          "title": "Kimi K3 vira o maior projeto open-weight já lançado",
+          "body": "O Kimi K3 da Moonshot, 2,8 trilhões de parâmetros e 1 milhão de contexto, é também um marco de projeto aberto. Os pesos completos saem em 27 de julho, com forte tração no r/LocalLLaMA e na Hugging Face.",
+          "source": {
+            "label": "Moonshot — 16 jul",
+            "url": "https://platform.kimi.ai/docs/guide/kimi-k3-quickstart"
+          }
+        },
+        {
+          "title": "Robótica captou US$ 18,8 bi em 2026, acima de 2025",
+          "body": "Dados do Crunchbase mostram startups de robótica já levantando US$ 18,8 bilhões em 2026, contra US$ 15 bilhões em todo o ano de 2025. O physical AI puxa o maior ano de VC da categoria.",
+          "source": {
+            "label": "Crunchbase — jul 2026",
+            "url": "https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/"
+          }
+        },
+        {
+          "title": "Shield AI compra Aechelon e mira US$ 540M de receita",
+          "body": "A Shield AI, de drones e aviônica autônoma de defesa, adquiriu a Aechelon Technology e projeta mais de US$ 540 milhões de receita em 2026, alta de 80% em um ano.",
+          "source": {
+            "label": "Crescendo — jul 2026",
+            "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups"
+          }
+        },
+        {
+          "title": "NVIDIA leva stack completo de IA e robótica ao Japão",
+          "body": "A NVIDIA anunciou uma iniciativa no Japão para desenvolver foundation models multimodais abertos para agentes, digital twins, robótica e physical AI em full-stack por setor.",
+          "source": {
+            "label": "NVIDIA Blog — jul 2026",
+            "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/"
+          }
+        },
+        {
+          "title": "OpenEvidence avalia captação de US$ 200 mi",
+          "body": "A OpenEvidence, chatbot de IA que ajuda médicos a encontrar informação médica, considera captar US$ 200 milhões após forte interesse de investidores.",
+          "source": {
+            "label": "The Information — jul 2026",
+            "url": "https://www.theinformation.com/"
+          }
+        },
+        {
+          "title": "Pebbles Ai: vendas B2B agentic em destaque no PH",
+          "body": "A Pebbles Ai, plataforma de vendas para times B2B modernos baseada em agentes, apareceu em segundo lugar no Product Hunt.",
+          "source": {
+            "label": "Product Hunt — 17 jul",
+            "url": "https://www.producthunt.com/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Robótica dominou VC e M&A da semana, com Pudu, Shield AI e NVIDIA Japão puxando agentes físicos. O contraponto foi o Kimi K3, provando que software aberto segue frontier. O corpo robótico virou destino de capital."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-18",
       "date": "2026-07-18",
       "hook": "Panorama IA · 18 jul",
