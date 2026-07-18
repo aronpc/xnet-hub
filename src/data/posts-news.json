@@ -231,7 +231,7 @@
     {
       "id": "skills-mcp-2026-07-17",
       "date": "2026-07-17",
-      "hook": "Skills e MCP · 17 jul",
+      "hook": "O MCP passou pela maior revisão desde o lançamento",
       "caption": "A área mais central do stack amadureceu de uma vez. O Claude Code ganhou guardrails contra loops descontrolados, o protocolo MCP passou pela maior revisão desde o lançamento, e skill-authoring virou disciplina com curso formal. Quem constrói agentes e servidores MCP teve uma semana movimentada.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-17",
       "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-17",
       "slides": [
