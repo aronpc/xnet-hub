@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-18-03h30",
+      "date": "2026-07-18",
+      "time": "03h30",
+      "hook": "O viés de alta durou pouco: o Bitcoin travou na última hora e ficou andando de lado, ainda colado embaixo dos 64 mil. Está em US$ 63.943, com o ganho de 24h (+1,7%) de pé, mas sem fôlego para avançar.",
+      "caption": "O empurrão até os 64 mil não veio e o viés esfriou. O preço segue parado perto da máxima da sessão, esperando direção.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-18-03h30",
+      "link": "https://xbtc.aronpc.dev/#2026-07-18-03h30",
+      "slides": [
+        {
+          "title": "BTC respira de lado nos 63,9 mil",
+          "body": "O empurrão até os 64 mil não veio e o viés esfriou. O preço segue parado perto da máxima da sessão, esperando direção."
+        },
+        {
+          "title": "US$ 63.943",
+          "body": "Δ1h +0,02% · Δ24h +1,70% · vol US$ 22,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O preço segurou embaixo do teto de 24h depois do repique da madrugada. Smart money: funding +0,008% e L/S 1,57, posicionamento tranquilo."
+        },
+        {
+          "title": "Faixa apertada entre 63,5k e 64,4k",
+          "body": "Base US$ 63.500 (−0,7%) · teto US$ 64.400 (+0,7%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-07-18-02h31",
       "date": "2026-07-18",
       "time": "02h31",
