@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-18-14h31",
+      "date": "2026-07-18",
+      "time": "14h31",
+      "hook": "O Bitcoin chegou perto da máxima das últimas 24 horas, na casa dos 64,4 mil, e o detalhe curioso é que isso acontece com o medo entre os investidores ainda no extremo. Preço agora em US$ 64.250, com o dia levemente positivo.",
+      "caption": "O preço busca de novo o teto das últimas 24h com o Fear & Greed parado em 25, no medo extremo — o preço sobe, o sentimento não acompanha.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-18-14h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-18-14h31",
+      "slides": [
+        {
+          "title": "BTC ronda o topo do dia enquanto o medo segue forte",
+          "body": "O preço busca de novo o teto das últimas 24h com o Fear & Greed parado em 25, no medo extremo — o preço sobe, o sentimento não acompanha."
+        },
+        {
+          "title": "US$ 64.250",
+          "body": "Δ1h +0,15% · Δ24h +0,33% · vol US$ 15,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Os mínimos vêm subindo e o preço insiste na máxima do dia depois de segurar a parte de baixo da sessão. Posicionamento neutro: funding +0,003% · L/S 1,53."
+        },
+        {
+          "title": "O ponto a observar é o pico de 24h",
+          "body": "Firme acima de US$ 64.000 (0,40% abaixo) · pico em US$ 64.450 (0,31% acima)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-07-18-10h34",
       "date": "2026-07-18",
       "time": "10h34",
