@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-19",
+      "date": "2026-07-19",
+      "hook": "Projetos · 19 jul",
+      "caption": "A semana foi de plumbing de desenvolvedor para agentes. A Microsoft abriu um SDK novo e a xAI liberou o código do Grok Build sob pressão. No meio, o GitHub Models ganhou data para morrer e surgiram ferramentas para baratear a conta de inferência. O roteamento de modelos virou problema de obra.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-07-19",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-07-19",
+      "slides": [
+        {
+          "title": "Projetos — 19 de julho",
+          "body": "A semana foi de plumbing de desenvolvedor para agentes. A Microsoft abriu um SDK novo e a xAI liberou o código do Grok Build sob pressão. No meio, o GitHub Models ganhou data para morrer e surgiram ferramentas para baratear a conta de inferência. O roteamento de modelos virou problema de obra."
+        },
+        {
+          "title": "xAI libera o código do Grok Build no GitHub",
+          "body": "Depois de o Cereblab provar que a CLI subia repositórios inteiros, com chaves SSH e bancos de senhas, para o GCS mesmo quando instruída a não tocar, a xAI publicou o Grok Build no GitHub. Musk prometeu uma purga interna.",
+          "source": {
+            "label": "The Decoder — 16 jul",
+            "url": "https://the-decoder.com/xai-open-sources-grok-build-on-github-after-massive-data-breach/"
+          }
+        },
+        {
+          "title": "Startups de agentes captam US$ 1,8 bi em julho",
+          "body": "O funding de startups de agentes de IA somou US$ 1,8 bilhão em mais de 12 rodadas em julho de 2026, liderado por automação enterprise e dev tools.",
+          "source": {
+            "label": "AI Funding — 16 jul",
+            "url": "https://aifunding.me/insights/ai-agent-funding-july-2026"
+          }
+        },
+        {
+          "title": "Microsoft lança o Rayfin no Build26",
+          "body": "A Microsoft lançou o Rayfin, um SDK e CLI de código aberto para desenvolvedores e coding tools preencherem lacunas em workflows de IA, anunciado no Build26.",
+          "source": {
+            "label": "Microsoft Build26 — 15 jul",
+            "url": "https://github.com/microsoft/Build26-news/blob/main/news.md"
+          }
+        },
+        {
+          "title": "GitHub Models será aposentado em 30/07",
+          "body": "O GitHub Models (playground, catálogo de modelos, inference API e endpoints BYOK) será totalmente aposentado em 30 de julho de 2026. Quem usava precisa migrar para outro provider de inferência.",
+          "source": {
+            "label": "GitHub Blog — 1 jul",
+            "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026/"
+          }
+        },
+        {
+          "title": "Product Hunt: V2Fun e Velo 3.0",
+          "body": "V2Fun gera personagens 3D com texturas 8K e motion capture via IA. Velo 3.0 é uma infraestrutura de vídeo por IA para explicar e treinar. Os dois no topo do Product Hunt de 15 de julho.",
+          "source": {
+            "label": "Product Hunt — 15 jul",
+            "url": "https://www.producthunt.com/leaderboard/daily/2026/7/15"
+          }
+        },
+        {
+          "title": "Product Hunt: ClawTeams e Pazi",
+          "body": "ClawTeams se apresenta como o primeiro time de IA proativo e goal-driven para e-commerce. Pazi faz vibe-code de operações de negócio. Topo do Product Hunt de 14 de julho.",
+          "source": {
+            "label": "Product Hunt — 14 jul",
+            "url": "https://www.producthunt.com/leaderboard/daily/2026/7/14"
+          }
+        },
+        {
+          "title": "Product Hunt: Auriko e Timbal AI",
+          "body": "Auriko é um trading desk para chamadas de LLM: otimiza custo e roteia inferência entre modelos. Timbal AI unifica agentes, workflows e apps num stack só. Topo do Product Hunt de 9 de julho.",
+          "source": {
+            "label": "Product Hunt — 9 jul",
+            "url": "https://www.producthunt.com/leaderboard/daily/2026/7/9"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O canal de agentes virou obra aberta: SDK novo da Microsoft, código do Grok Build liberado sob escrutínio e um prazo duro para migrar do GitHub Models até 30 de julho. Quem roteia vários modelos passa a precisar, cada vez mais, de uma camada que decida preço por chamada. O plumbing subiu de prioridade."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-19",
       "date": "2026-07-19",
       "hook": "Panorama IA · 19 jul",
