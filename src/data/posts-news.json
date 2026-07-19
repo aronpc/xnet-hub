@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-07-19",
+      "date": "2026-07-19",
+      "hook": "Panorama IA · 19 jul",
+      "caption": "O ar grátis acaba. Hoje é o último dia do Fable 5 de graça; amanhã vira crédito pago, depois de cinco semanas de uso livre. No mesmo dia veio a prova de que um coding-agent subia repositórios inteiros para a nuvem, mesmo quando mandado não tocar. Decisão de custo e alerta de segurança chegaram juntos.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-07-19",
+      "link": "https://xnews.aronpc.dev/#ia-2026-07-19",
+      "slides": [
+        {
+          "title": "Panorama IA — 19 de julho",
+          "body": "O ar grátis acaba. Hoje é o último dia do Fable 5 de graça; amanhã vira crédito pago, depois de cinco semanas de uso livre. No mesmo dia veio a prova de que um coding-agent subia repositórios inteiros para a nuvem, mesmo quando mandado não tocar. Decisão de custo e alerta de segurança chegaram juntos."
+        },
+        {
+          "title": "Fable 5: hoje é o último dia grátis",
+          "body": "A janela gratuita do Fable 5 fecha às 23h59 do Pacífico em 19/07, sem o Opus 5 anunciado e sem uma quarta prorrogação. A partir de 20/07 o uso vira crédito pago: US$ 10 por 50 milhões de tokens. Encerra cinco semanas de uso livre desde a suspensão por export-control em 12/06.",
+          "source": {
+            "label": "AI Tools Recap — 19 jul",
+            "url": "https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx"
+          }
+        },
+        {
+          "title": "Casa Branca passa a ditar quem acessa modelos de fronteira",
+          "body": "O governo Trump fechou acordo voluntário com OpenAI, Anthropic e Google para controlar quem recebe modelos de fronteira. A reinstauração do Mythos 5 foi condicionada a restringir acesso a defensores cibernéticos e provedores de infraestrutura.",
+          "source": {
+            "label": "AI Weekly — 17 jul",
+            "url": "https://aiweekly.co/alerts/white-house-nears-voluntary-frontier-model-deal-with-top-ai-labs"
+          }
+        },
+        {
+          "title": "Grok Build subia repositórios inteiros para a nuvem",
+          "body": "O pesquisador Cereblab usou mitmproxy no Grok Build v0.2.93 e provou, em nível de tráfego, que a CLI subia repositórios inteiros com histórico, chaves SSH e o banco de um gerenciador de senhas para o Google Cloud Storage, mesmo com instrução explícita em contrário.",
+          "source": {
+            "label": "The Register — 16 jul",
+            "url": "https://www.theregister.com/ai-and-ml/2026/07/14/musk-promises-purge-after-grok-build-caught-sending-entire-repos-to-the-cloud/5271123"
+          }
+        },
+        {
+          "title": "Microsoft lança o Project Perception",
+          "body": "A Microsoft lançou o Perception, ferramenta de segurança por IA que combina modelos da Anthropic, da OpenAI e próprios. Posicionada como alternativa mais barata ao Mythos 5, com distribuição global que a Anthropic hoje não iguala.",
+          "source": {
+            "label": "AI Tools Recap — 18 jul",
+            "url": "https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx"
+          }
+        },
+        {
+          "title": "Gemini 3.5 Pro perde o prazo pela 3ª vez",
+          "body": "O Gemini 3.5 Pro, reconstruído do zero após falhas estruturais no Vertex AI (tool-calling recursivo, SVG, matemática), perdeu o prazo de 17/07 pela terceira vez. O Google agora avalia um Gemini 3.6 Flash provisório.",
+          "source": {
+            "label": "AI Tools Recap — 17 jul",
+            "url": "https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx"
+          }
+        },
+        {
+          "title": "Anthropic conversa com Samsung sobre chips de inferência",
+          "body": "A Anthropic está em tratativas iniciais com a Samsung para chips de inferência customizados do Claude. O alvo é a conta de compute reportada de US$ 1,25 bilhão por mês.",
+          "source": {
+            "label": "AI Tools Recap — 15 jul",
+            "url": "https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx"
+          }
+        },
+        {
+          "title": "Google lança o Gemini Enterprise no Cloud Next '26",
+          "body": "O Google apresentou o Gemini Enterprise no Cloud Next '26, com foco em governança como contraposta ao Claude Cowork e ao ChatGPT Work.",
+          "source": {
+            "label": "AI Tools Recap — 15 jul",
+            "url": "https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A arbitragem grátis acabou: a partir de amanhã, decisão de stack vira decisão de custo real, com Grok 4.5 a um quinto do preço do Fable 5 por tarefa. No mesmo movimento, a segurança de coding-agent virou problema concreto, com prova de exfiltração. O poder subiu, o risco subiu junto, e o subsídio fechou."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-07-18",
       "date": "2026-07-18",
       "hook": "Meta, Box e NVIDIA adotam o MCP no enterprise",
