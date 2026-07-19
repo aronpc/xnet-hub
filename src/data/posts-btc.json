@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-19-02h32",
+      "date": "2026-07-19",
+      "time": "02h32",
+      "hook": "Preço firme de madrugada, mas o medo não passa",
+      "caption": "Depois de recuar a US$ 64,0 mil, o preço voltou a encostar nos US$ 64,8 mil e se mantém; o medo (F&G 28) segue no ar.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-19-02h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-19-02h32",
+      "slides": [
+        {
+          "title": "Bitcoin segura perto da máxima de 24h",
+          "body": "Depois de recuar a US$ 64,0 mil, o preço voltou a encostar nos US$ 64,8 mil e se mantém; o medo (F&G 28) segue no ar."
+        },
+        {
+          "title": "US$ 64.714",
+          "body": "Δ1h +0,07% · Δ24h +1,15% · vol US$ 15,49 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Saiu de US$ 64,0 mil e colou na máxima de 24h; o posicionamento dos traders acompanha a alta sem exagerar (funding +0,006% e L/S 1,36)."
+        },
+        {
+          "title": "Tudo se decide entre US$ 64,6 mil e os US$ 65 mil",
+          "body": "Suporte US$ 64.611 (−0,16%) · Resistência US$ 64.967 (+0,39%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-07-18-20h31",
       "date": "2026-07-18",
       "time": "20h31",
