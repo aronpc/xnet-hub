@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-19",
+      "date": "2026-07-19",
+      "hook": "Skills & MCP · 19 jul",
+      "caption": "A skill de agente virou padrão portátil, e o MCP ganhou prazo para virar stateless. Skills deixaram de ser exclusividade do Claude e passam a rodar entre clientes, enquanto o protocolo que conecta agentes a sistemas se prepara para a maior revisão da história, com data marcada.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-19",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-19",
+      "slides": [
+        {
+          "title": "Skills & MCP — 19 de julho",
+          "body": "A skill de agente virou padrão portátil, e o MCP ganhou prazo para virar stateless. Skills deixaram de ser exclusividade do Claude e passam a rodar entre clientes, enquanto o protocolo que conecta agentes a sistemas se prepara para a maior revisão da história, com data marcada."
+        },
+        {
+          "title": "Skills ganham sync entre Claude e Codex",
+          "body": "Anúncio de suporte experimental a Skills no Codex, junto a uma discussão ativa sobre sincronizar configs de skills, agentes, MCP e permissões entre Codex e Claude Code. Skills deixam de ser exclusivas do Claude e viram padrão portátil multi-cliente.",
+          "source": {
+            "label": "OpenAI Community — 12 jul",
+            "url": "https://community.openai.com/t/sync-codex-and-claude-code-configs-skills-agents-mcp-permissions/1380517"
+          }
+        },
+        {
+          "title": "Claude ganha HIPAA self-serve",
+          "body": "O Claude adicionou configuração self-serve de HIPAA para organizações Enterprise e API, com revisão de BAA, download de guia e ativação em um passo.",
+          "source": {
+            "label": "Releasebot — 14 jul",
+            "url": "https://releasebot.io/updates/anthropic/claude"
+          }
+        },
+        {
+          "title": "Spec MCP fecha em 28/07 com núcleo stateless",
+          "body": "O release candidate da maior revisão do MCP (núcleo stateless e Extensions) tem janela até o spec final em 28 de julho de 2026 para SDK maintainers e implementadores se prepararem. Traz também descoberta de servidores via URLs Well-Known.",
+          "source": {
+            "label": "WorkOS — 17 jul",
+            "url": "https://workos.com/blog/mcp-2026-spec-agent-authentication"
+          }
+        },
+        {
+          "title": "Framework consolida: servidor MCP vs Agent Skill",
+          "body": "A comunidade cristalizou um framework de decisão: servidor MCP dá ao agente acesso a um sistema vivo; Agent Skill ensina como fazer a tarefa.",
+          "source": {
+            "label": "Developers Digest — 15 jul",
+            "url": "https://www.developersdigest.tech/blog/mcp-servers-vs-agent-skills-2026"
+          }
+        },
+        {
+          "title": "`claude agents`: tela única para cada sessão",
+          "body": "O comando `claude agents` abre uma tela única para cada sessão do Claude Code, mostrando o que está rodando, o que está bloqueado e o que está concluído.",
+          "source": {
+            "label": "Claude Code Docs — 15 jul",
+            "url": "https://code.claude.com/docs/en/whats-new"
+          }
+        },
+        {
+          "title": "Marco: 930+ skills agentes publicadas",
+          "body": "A comunidade contabiliza mais de 930 skills de agentes para Claude Code, Cursor e Antigravity, incluindo skills oficiais da Anthropic, Vercel e Remotion.",
+          "source": {
+            "label": "AI Agent Builder — 15 jul",
+            "url": "https://www.facebook.com/groups/aiagentbuilder"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A skill de agente deixou de ser prisão de cliente: vira padrão portátil, com sync entre Claude e Codex. O MCP tem nove dias para migrar ao núcleo stateless, e já existe tela nativa para ver o que seus agentes estão fazendo. Capacidade virou camada, e camada pede curadoria."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-19",
       "date": "2026-07-19",
       "hook": "Projetos · 19 jul",
