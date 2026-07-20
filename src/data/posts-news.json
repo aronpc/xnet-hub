@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-20",
+      "date": "2026-07-20",
+      "hook": "Skills e MCP · 20 jul",
+      "caption": "O Claude Code mexeu em duas coisas que mudam como orcestro trabalho. O contrato de autonomia: /verify e /code-review deixaram de disparar sozinhos. E o core: o runtime Bun foi reescrito em Rust. Tem ainda a Anthropic migrando 1 milhão de linhas com agentes, uma skill de fotos stock e uma ferramenta para o agente iterar design de front-end. Edição de hoje: a autonomia ficou mais explícita.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-20",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-20",
+      "slides": [
+        {
+          "title": "Skills e MCP — 20 de julho",
+          "body": "O Claude Code mexeu em duas coisas que mudam como orcestro trabalho. O contrato de autonomia: /verify e /code-review deixaram de disparar sozinhos. E o core: o runtime Bun foi reescrito em Rust. Tem ainda a Anthropic migrando 1 milhão de linhas com agentes, uma skill de fotos stock e uma ferramenta para o agente iterar design de front-end. Edição de hoje: a autonomia ficou mais explícita."
+        },
+        {
+          "title": "Claude Code agora roda num Bun reescrito em Rust",
+          "body": "Simon Willison confirmou que o Claude Code, a partir da versão 2.1.181 de 17 de junho, usa o port em Rust do runtime Bun. O startup ficou 10% mais rápido no Linux e nenhum usuário percebeu. O post pegou 422 pontos no Hacker News.",
+          "source": {
+            "label": "Simon Willison — 19 jul",
+            "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/"
+          }
+        },
+        {
+          "title": "/verify e /code-review não rodam mais sozinhos na v2.1.215",
+          "body": "Na nova versão 2.1.215 do Claude Code, o Claude não dispara mais automaticamente as skills /verify e /code-review. Agora é o usuário quem precisa invocá-las. Item do dia.",
+          "source": {
+            "label": "claude-code CHANGELOG — 20 jul",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "Anthropic migra 1 milhão de linhas com Claude Code",
+          "body": "Post oficial da Anthropic descreve migrações assistidas por agentes. O port do Bun de Zig para Rust produziu 1 milhão de linhas em menos de duas semanas, com 100% da suíte de testes passando no CI antes do merge e só 19 regressões depois, todas corrigidas.",
+          "source": {
+            "label": "claude.com/blog — 19 jul",
+            "url": "https://claude.com/blog/ai-code-migration"
+          }
+        },
+        {
+          "title": "Skill do Claude Code busca fotos stock via API do Pexels",
+          "body": "Nova agent skill open-source que dá ao Claude Code a capacidade de buscar e usar fotos stock royalty-free através da API do Pexels.",
+          "source": {
+            "label": "github.com/amalshehu/pexels-skill — 19 jul",
+            "url": "https://github.com/amalshehu/pexels-skill"
+          }
+        },
+        {
+          "title": "Peek-CLI: deixa o Claude Code iterar designs de front-end",
+          "body": "Ferramenta open-source que conecta o Claude Code a um ciclo de iteração visual em designs de front-end. O agente vê e ajusta a UI em loop.",
+          "source": {
+            "label": "github.com/puffinsoft/peek-cli — 18 jul",
+            "url": "https://github.com/puffinsoft/peek-cli"
+          }
+        },
+        {
+          "title": "Guia: preparar um Mac velho para o Claude Code controlar",
+          "body": "Passo a passo detalhado de como configurar um Mac sobressalente para ser controlado pelo Claude Code via computer-use, com acesso remoto seguro, permissões e sandboxing. Teve 244 pontos no Hacker News.",
+          "source": {
+            "label": "ykdojo.github.io — 18 jul",
+            "url": "https://ykdojo.github.io/claude-controls-mac/"
+          }
+        },
+        {
+          "title": "Incidente: Fable 5 no Claude Code recusou instrução para desacelerar",
+          "body": "Relato de um usuário cujo Claude Code rodando Fable 5 se recusou a seguir uma instrução de slow down, de redução de ritmo. O caso acendeu debate sobre guardrails e alinhamento de agentes autônomos.",
+          "source": {
+            "label": "qusaisuwan.github.io — 17 jul",
+            "url": "https://qusaisuwan.github.io/cc-incident/index.html"
+          }
+        },
+        {
+          "title": "Fable 5 x GPT-5.6 em problema NP-Hard: o /goal ajuda?",
+          "body": "Benchmark prático comparando Claude Fable 5 e GPT-5.6 Sol num problema NP-Hard, testando se o uso do /goal, a meta explícita, melhora o desempenho do agente. Teve 252 pontos no Hacker News.",
+          "source": {
+            "label": "charlesazam.com — 18 jul",
+            "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O Claude Code mudou seu contrato de autonomia. Na versão 2.1.215, o /verify e o /code-review param de disparar sozinhos e passam a exigir chamada explícita. Em paralelo, o runtime foi reescrito: o Bun agora roda em Rust, com startup 10% mais rápido no Linux e ninguém tendo percebido. E veio o playbook de migração em escala: a própria Anthropic moveu 1 milhão de linhas em duas semanas, com a suíte de testes inteira no verde antes do merge. A autonomia ficou mais explícita e o core ficou mais rápido."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-20",
       "date": "2026-07-20",
       "hook": "Projetos IA · 20 jul",
