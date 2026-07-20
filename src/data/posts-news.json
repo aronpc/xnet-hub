@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-20",
+      "date": "2026-07-20",
+      "hook": "Projetos IA · 20 jul",
+      "caption": "A semana entregou ferramenta prática para duas dores minhas. Rodar agentes de código em paralelo sem eles brigarem pelo mesmo Git, e rodar modelos grandes em hardware pequeno. Tem também um workspace de inteligência self-hosted no estilo Palantir, TTS grátis no navegador e uma linguagem escrita por agentes. Edição de hoje: menos nuvem, mais borda.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-07-20",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-07-20",
+      "slides": [
+        {
+          "title": "Projetos e repositórios — 20 de julho",
+          "body": "A semana entregou ferramenta prática para duas dores minhas. Rodar agentes de código em paralelo sem eles brigarem pelo mesmo Git, e rodar modelos grandes em hardware pequeno. Tem também um workspace de inteligência self-hosted no estilo Palantir, TTS grátis no navegador e uma linguagem escrita por agentes. Edição de hoje: menos nuvem, mais borda."
+        },
+        {
+          "title": "Qwen3.6 de 35 bilhões rodando num M1 Pro de 16 GB via SSD",
+          "body": "O projeto open-source ds4 mostra o Qwen3.6-35B-A3B, um MoE, rodando num MacBook M1 Pro de 16 GB fazendo streaming dos pesos pelo SSD. A técnica contorna a barreira de RAM e deu boa recepção no Show HN.",
+          "source": {
+            "label": "github.com/andreaborio/ds4 — 19 jul",
+            "url": "https://github.com/andreaborio/ds4"
+          }
+        },
+        {
+          "title": "Akashic: workspace de inteligência self-hosted no estilo Palantir",
+          "body": "Projeto open-source de um intelligence workspace self-hostado, com estética e objetivo no estilo Palantir, para consolidar dados, pesquisa e análise numa ferramenta só e local.",
+          "source": {
+            "label": "github.com/CaviraOSS/Akashic — 19 jul",
+            "url": "https://github.com/CaviraOSS/Akashic"
+          }
+        },
+        {
+          "title": "Shikigami roda agentes de coding em paralelo, cada um num worktree",
+          "body": "Ferramenta que orquestra vários agentes de coding em paralelo, isolando cada um num Git worktree próprio, para evitar conflitos entre agentes concorrentes.",
+          "source": {
+            "label": "shikigami.dev — 19 jul",
+            "url": "https://shikigami.dev/"
+          }
+        },
+        {
+          "title": "PilotCite: faz sua marca ser citada pelo ChatGPT e pelo Gemini",
+          "body": "Produto de GEO, ou LLM-SEO, que otimiza conteúdo para que modelos como ChatGPT e Gemini cite a marca do cliente nas respostas. É a nova métrica de visibilidade.",
+          "source": {
+            "label": "pilotcite.com — 19 jul",
+            "url": "https://www.pilotcite.com"
+          }
+        },
+        {
+          "title": "Wado: linguagem tipo Rust construída 100% por agentes",
+          "body": "Projeto de uma linguagem de programação Rust-ish cujo código foi escrito quase inteiramente por agentes de coding. É um caso-limite de vibe-coding de sistema complexo.",
+          "source": {
+            "label": "wado-lang.org — 17 jul",
+            "url": "https://wado-lang.org/playground/"
+          }
+        },
+        {
+          "title": "Grok-iOS: aciona o Grok Build do iPhone via ACP",
+          "body": "Projeto open-source que permite chamar o Grok Build, o agente de coding da xAI, remotamente a partir do iPhone, usando o Agent Client Protocol.",
+          "source": {
+            "label": "github.com/Pedroshakoor/grok-build-ios — 19 jul",
+            "url": "https://github.com/Pedroshakoor/grok-build-ios"
+          }
+        },
+        {
+          "title": "OfflineTTS: TTS e STT de graça, 100% no navegador",
+          "body": "Projeto de TTS, texto para voz, e STT, voz para texto, que roda inteiramente no navegador, sem custo e sem enviar dados para a nuvem.",
+          "source": {
+            "label": "offlinetts.com — 19 jul",
+            "url": "https://offlinetts.com/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A semana foi de ferramentas para rodar vários agentes ao mesmo tempo sem eles se pisarem. O Shikigami isola cada agente de coding num Git worktree próprio, exatamente a saída para a race condition de Git que venho apontando no meu setup. No outro lado, a inferência local avançou: um MoE de 35 bilhões num Mac de 16 GB via streaming de pesos pelo SSD, e TTS de graça no navegador. O contorno é o mesmo: menos nuvem, mais borda, mais controle."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-20",
       "date": "2026-07-20",
       "hook": "Panorama IA · 20 jul",
