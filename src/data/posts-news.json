@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-07-20",
+      "date": "2026-07-20",
+      "hook": "Panorama IA · 20 jul",
+      "caption": "Esta semana os modelos resolveram problemas de matemática que estavam abertos há 30 anos. Em 48 horas caíram dois: um no GPT-5.6, outro no Fable 5, da Anthropic. Ao mesmo tempo, a Alibaba subiu o Qwen 3.8 brigando pelo topo dos pesos abertos, e o Kimi K3 chegou a esgotar a capacidade do próprio criador. Edição de hoje: raciocínio de ponta virou pesquisa de ponta.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-07-20",
+      "link": "https://xnews.aronpc.dev/#ia-2026-07-20",
+      "slides": [
+        {
+          "title": "Panorama IA — 20 de julho",
+          "body": "Esta semana os modelos resolveram problemas de matemática que estavam abertos há 30 anos. Em 48 horas caíram dois: um no GPT-5.6, outro no Fable 5, da Anthropic. Ao mesmo tempo, a Alibaba subiu o Qwen 3.8 brigando pelo topo dos pesos abertos, e o Kimi K3 chegou a esgotar a capacidade do próprio criador. Edição de hoje: raciocínio de ponta virou pesquisa de ponta."
+        },
+        {
+          "title": "Qwen 3.8 chega e briga pelo topo dos pesos abertos",
+          "body": "O time Qwen, da Alibaba, anunciou o Qwen 3.8 e o 3.8 Max Preview, novo topo de linha. É o maior release chinês de pesos abertos da semana, logo atrás do Kimi K3. Foi o tópico de IA mais votado do dia no Hacker News, com 812 pontos.",
+          "source": {
+            "label": "Alibaba Qwen — 19 jul",
+            "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291"
+          }
+        },
+        {
+          "title": "GPT-5.6 resolve problema aberto há 30 anos com um prompt",
+          "body": "A comunidade de matemática relata que o GPT-5.6 usou um único prompt para resolver um problema em aberto há cerca de 30 anos em otimização convexa. Veio na esteira do anúncio de prova do CDC pela OpenAI. A thread no r/math pegou tração forte, 584 pontos no HN.",
+          "source": {
+            "label": "r/math — 18 jul",
+            "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"
+          }
+        },
+        {
+          "title": "Fable 5 acha contraexemplo para a Conjectura Jacobiana",
+          "body": "Um matemático reportou que o Claude Fable 5 gerou um contraexemplo à Conjectura Jacobiana, problema clássico de álgebra comutativa. A postagem saiu no dia 20 de julho.",
+          "source": {
+            "label": "@__alpoge__ — 20 jul",
+            "url": "https://xcancel.com/__alpoge__/status/2079028340955197566"
+          }
+        },
+        {
+          "title": "Kimi K3: Moonshot pausa novas assinaturas por excesso de demanda",
+          "body": "A Moonshot AI pausou novas assinaturas do Kimi K3 depois do lançamento esmagar a capacidade. É o maior open-weight já lançado e superou a oferta de inferência da própria empresa.",
+          "source": {
+            "label": "Moonshot — 19 jul",
+            "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130"
+          }
+        },
+        {
+          "title": "OpenAI corta o contexto do Codex de 372 mil para 272 mil tokens",
+          "body": "Um PR no repo open-source do Codex reduziu o tamanho de contexto do modelo de 372 mil para 272 mil tokens. Teve 329 pontos no Hacker News.",
+          "source": {
+            "label": "openai/codex PR — 19 jul",
+            "url": "https://github.com/openai/codex/pull/33972/files"
+          }
+        },
+        {
+          "title": "DeepSeek passa a rotear chamadas para o Fable 5",
+          "body": "Usuários notaram que o DeepSeek começou a rotear parte das requisições para o Claude Fable 5. É o sinal de que até um frontier lab chinês recorre a um modelo concorrente da Anthropic em alguns casos.",
+          "source": {
+            "label": "@synthwavedd — 19 jul",
+            "url": "https://twitter.com/synthwavedd/status/2078514339552628880"
+          }
+        },
+        {
+          "title": "Por dentro do atraso do Gemini: coding tropeça e equipes batem cabeça",
+          "body": "Matéria da LA Times detalha as causas internas do novo escorregamento do Gemini 3.5 Pro: dificuldades em coding, equipes em conflito e engenheiros frustrados. É a terceira data perdida.",
+          "source": {
+            "label": "LA Times — 17 jul",
+            "url": "https://www.latimes.com/business/story/2026-07-17/inside-googles-gemini-delay-coding-stumbles-clashing-teams-f"
+          }
+        },
+        {
+          "title": "Fable 5 entra em todos os planos Max a partir de 20 de julho",
+          "body": "A conta oficial @claudeai confirmou que o Fable 5 passa a ser incluído em todos os planos Max a partir de 20 de julho. Formaliza o acesso depois do fim do gratuito.",
+          "source": {
+            "label": "@claudeai — 18 jul",
+            "url": "https://twitter.com/claudeai/status/2078302415804379218"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Dois problemas de matemática abertos há décadas caíram em 48 horas, um no GPT-5.6 e outro no Fable 5. Não é curiosidade de laboratório: modelos viraram motor de pesquisa de ponta. A ofensiva chinesa em pesos abertos segue pesada, com Qwen 3.8 no topo e o Kimi K3 esgotando a própria oferta em um dia. Para quem escolhe modelo hoje, a briga é custo, contexto e acesso. E o Fable 5 sai da semana como a referência de raciocínio."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-07-19",
       "date": "2026-07-19",
       "hook": "Skills & MCP · 19 jul",
