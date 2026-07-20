@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-20-12h35",
+      "date": "2026-07-20",
+      "time": "12h35",
+      "hook": "Bitcoin toca o teto de 24 horas",
+      "caption": "Subiu na hora, mas travou no topo do intervalo, sem volume para ir além.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-20-12h35",
+      "link": "https://xbtc.aronpc.dev/#2026-07-20-12h35",
+      "slides": [
+        {
+          "title": "Chega perto de US$ 65,1 mil sem passar",
+          "body": "Subiu na hora, mas travou no topo do intervalo, sem volume para ir além."
+        },
+        {
+          "title": "US$ 64.798",
+          "body": "Δ1h +0,65% · Δ24h +0,53% · vol US$ 27,5 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Sobe até o topo do intervalo sem convicção · Smart Money: funding +0,007% + L/S 1,44"
+        },
+        {
+          "title": "Os 65,1 mil decidem o próximo passo",
+          "body": "Suporte 64.000 (−1,2%) · Resistência 65.100 (+0,5%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-07-20-04h31",
       "date": "2026-07-20",
       "time": "04h31",
