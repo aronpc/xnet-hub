@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-21-13h31",
+      "date": "2026-07-21",
+      "time": "13h31",
+      "hook": "Sobe mesmo com o mercado assustado",
+      "caption": "Tendência das 24h segue firme, preço colado nos US$ 67 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-21-13h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-21-13h31",
+      "slides": [
+        {
+          "title": "Radar BTC · 13h31",
+          "body": "Tendência das 24h segue firme, preço colado nos US$ 67 mil."
+        },
+        {
+          "title": "US$ 66.500",
+          "body": "Δ1h −0,09% · Δ24h +1,75% · vol 30,8 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Subiu em degraus desde US$ 65,1 mil e segura os US$ 66 mil. Smart Money: funding +0,001% e long/short 1,01.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Decisão fica nos 67 mil",
+          "body": "Piso US$ 66.000 (−0,76%) · teto US$ 67.000 (+0,75%)."
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Radar BTC a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-07-21-12h33",
       "date": "2026-07-21",
       "time": "12h33",
