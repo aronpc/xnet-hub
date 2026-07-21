@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-21-17h30",
+      "date": "2026-07-21",
+      "time": "17h30",
+      "hook": "Trava na porta dos 67 mil",
+      "caption": "A alta da hora anterior encostou no teto da faixa e o preço ficou parado em US$ 66,4 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-21-17h30",
+      "link": "https://xbtc.aronpc.dev/#2026-07-21-17h30",
+      "slides": [
+        {
+          "title": "Radar BTC · 17h30",
+          "body": "A alta da hora anterior encostou no teto da faixa e o preço ficou parado em US$ 66,4 mil."
+        },
+        {
+          "title": "US$ 66.400",
+          "body": "Δ1h +0,01% · Δ24h +1,56% · vol 30,3 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O repique esbarrou entre os US$ 66,8k e 67k e esfriou; velas de 1h sem direção. Smart Money: funding +0,002% e long/short 1,03.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A faixa de 65 a 67 mil segue no comando",
+          "body": "Piso US$ 65.000 (−2,1%) · teto US$ 67.000 (+1,0%)."
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Radar BTC a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-07-21-16h31",
       "date": "2026-07-21",
       "time": "16h31",
