@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-21-16h31",
+      "date": "2026-07-21",
+      "time": "16h31",
+      "hook": "Recupera o fôlego e volta a subir",
+      "caption": "Depois de escorregar na hora anterior, o preço subiu de novo e reaproximou dos US$ 67 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-21-16h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-21-16h31",
+      "slides": [
+        {
+          "title": "Radar BTC · 16h31",
+          "body": "Depois de escorregar na hora anterior, o preço subiu de novo e reaproximou dos US$ 67 mil."
+        },
+        {
+          "title": "US$ 66.355",
+          "body": "Δ1h +0,24% · Δ24h +2,04% · vol 29,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "As velas de 1h voltaram a fazer topos mais altos e o preço subiu desde o fundo do dia. Smart Money: funding +0,002% e long/short 1,02.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Tenta de novo a faixa dos 67 mil",
+          "body": "Piso US$ 66.000 (−0,5%) · teto US$ 67.000 (+1,0%)."
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Radar BTC a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-07-21-15h31",
       "date": "2026-07-21",
       "time": "15h31",
