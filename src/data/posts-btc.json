@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-21-15h31",
+      "date": "2026-07-21",
+      "time": "15h31",
+      "hook": "Sem fôlego para segurar o topo",
+      "caption": "Recuou do pico de US$ 66.842 e deslizou de volta aos US$ 66,2 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-21-15h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-21-15h31",
+      "slides": [
+        {
+          "title": "Radar BTC · 15h31",
+          "body": "Recuou do pico de US$ 66.842 e deslizou de volta aos US$ 66,2 mil."
+        },
+        {
+          "title": "US$ 66.194",
+          "body": "Δ1h −0,32% · Δ24h +1,15% · vol 29,8 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A subida perdeu gás perto de US$ 66,8 mil e o viés virou neutro. Smart Money: funding +0,002% e long/short 1,00.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A atenção desceu para os 66 mil",
+          "body": "Suporte US$ 66.000 (−0,3%) · Resistência US$ 66.800 (+0,9%)."
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Radar BTC a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-07-21-13h31",
       "date": "2026-07-21",
       "time": "13h31",
