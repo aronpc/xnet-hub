@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-21-02h33",
+      "date": "2026-07-21",
+      "time": "02h33",
+      "hook": "No alto do dia, mas o medo domina",
+      "caption": "Já subiu 2,2% em 24h e encostou nos US$ 65,8 mil, com o medo ainda no extremo (F&G 25).\n\nLeia: https://xbtc.aronpc.dev/#2026-07-21-02h33",
+      "link": "https://xbtc.aronpc.dev/#2026-07-21-02h33",
+      "slides": [
+        {
+          "title": "Radar BTC · 02h33",
+          "body": "Já subiu 2,2% em 24h e encostou nos US$ 65,8 mil, com o medo ainda no extremo (F&G 25)."
+        },
+        {
+          "title": "US$ 65.559",
+          "body": "Δ1h +0,1% · Δ24h +2,2% · vol US$ 32,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Colado na máxima 24h há horas, sem conseguir romper. · Smart Money: funding +0,007% + L/S 1,19",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Faixa dos 65 mil no centro",
+          "body": "Teto do dia US$ 65.800 (+0,4%) · piso US$ 65.000 (−0,9%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Radar BTC a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-07-20-21h32",
       "date": "2026-07-20",
       "time": "21h32",
