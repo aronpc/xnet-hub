@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-21",
+      "date": "2026-07-21",
+      "hook": "Projetos IA · 21 jul",
+      "caption": "Semana de dinheiro quente em infraestrutura de agentes. Vários aportes grandes saíram e quase todos apontam para o mesmo lugar: agentes que agem, que pagam sozinhos e que rodam em qualquer chip. Tem de payment rail rival do Stripe a gateway multi-modelo compatível com MCP.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-07-21",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-07-21",
+      "slides": [
+        {
+          "title": "Projetos e Repos IA — 21 de julho",
+          "body": "Semana de dinheiro quente em infraestrutura de agentes. Vários aportes grandes saíram e quase todos apontam para o mesmo lugar: agentes que agem, que pagam sozinhos e que rodam em qualquer chip. Tem de payment rail rival do Stripe a gateway multi-modelo compatível com MCP."
+        },
+        {
+          "title": "CuspAI capta US$ 450 mi e lança fábrica de materiais com IA",
+          "body": "A CuspAI levantou 450 milhões de dólares numa Série B, com Jeff Bezos e o governo do Reino Unido no backing. Junto, lançou a AI Materials Foundry e uma rede global de descoberta de materiais com parceiros da indústria solar.",
+          "source": {
+            "label": "Economic Times — 20 jul",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uk-government-bezos-back-cuspais-450-million-round-as-startup-seeks-to-discover-new-materials/articleshow/132513929.cms"
+          }
+        },
+        {
+          "title": "Natural capta US$ 30 mi para pagamentos por agentes de IA",
+          "body": "A Natural levantou 30 milhões de dólares numa Série A para construir a infraestrutura de pagamentos que deixa agentes de IA fazer compras sozinhos. Ela se posiciona como rival do Stripe para a era agentica.",
+          "source": {
+            "label": "TechCrunch — 20 jul",
+            "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/"
+          }
+        },
+        {
+          "title": "Infinity capta US$ 15 mi para padronizar inferência em qualquer chip",
+          "body": "A Infinity levantou 15 milhões em seed, com valuation de 100 milhões, para construir a camada de software que deixa qualquer chip de IA pronto para inferência. Ela abstrai a fragmentação entre NVIDIA, chips custom e o resto.",
+          "source": {
+            "label": "BusinessWire — 20 jul",
+            "url": "https://www.businesswire.com/news/home/20260720324097/en/"
+          }
+        },
+        {
+          "title": "Empirical Security capta US$ 25 mi prevendo exploits por cliente",
+          "body": "A Empirical Security levantou 25 milhões numa Série A para uma IA que prevê vulnerabilidades calibradas por cliente. A previsão de exploit é ajustada para cada um, não é genérica.",
+          "source": {
+            "label": "RuntimeWire — 20 jul",
+            "url": "https://runtimewire.com/article/empirical-security-raises-25m-series-a-exploit-predictions"
+          }
+        },
+        {
+          "title": "Moonshot (Kimi) busca IPO em Hong Kong em até 6 meses",
+          "body": "A Moonshot AI, criadora do Kimi K3, está buscando aprovação dos investidores para iniciar o processo de IPO em Hong Kong. A abertura pode sair em até seis meses, capitalizando o momento do Kimi K3.",
+          "source": {
+            "label": "Bloomberg — 19 jul",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough"
+          }
+        },
+        {
+          "title": "APIMart: gateway multi-modelo compatível com MCP",
+          "body": "A APIMart lançou uma plataforma de API unificada que dá acesso a GPT-5, Claude 4.5, Gemini, Sora 2 e Flux com uma chave só, compatível com OpenAI. É drop-in para qualquer cliente MCP ou agente, no modelo pay-as-you-go.",
+          "source": {
+            "label": "apimart.ai — 20 jul",
+            "url": "https://apimart.ai/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O dinheiro desta semana foi quase todo para a mesma coisa: a infraestrutura que agentes vão precisar para agir no mundo. Pagamento autônomo, inferência que roda em qualquer chip, gateway multi-modelo compatível com MCP e segurança sob medida. O IPO da Moonshot testa quanto o mercado acredita nos labs de pesos abertos. Quem orquestra agentes hoje está vendo o chão sendo construído embaixo dos pés."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-21",
       "date": "2026-07-21",
       "hook": "Panorama IA · 21 jul",
