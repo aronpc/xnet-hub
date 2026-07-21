@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-21",
+      "date": "2026-07-21",
+      "hook": "Skills e MCP · 21 jul",
+      "caption": "Duas frentes andaram esta semana. O ecossistema MCP ganhou um ponto canônico de descoberta com o Registry do GitHub. E o Claude Code deu dois passos: virou móvel com o Remote Control no iPhone e ganhou correções de estabilidade em agent-teams. Também rola uma onda de servidores MCP verticais.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-21",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-21",
+      "slides": [
+        {
+          "title": "Skills e MCP — 21 de julho",
+          "body": "Duas frentes andaram esta semana. O ecossistema MCP ganhou um ponto canônico de descoberta com o Registry do GitHub. E o Claude Code deu dois passos: virou móvel com o Remote Control no iPhone e ganhou correções de estabilidade em agent-teams. Também rola uma onda de servidores MCP verticais."
+        },
+        {
+          "title": "Claude Code v2.1.216: controle a sessão do Mac pelo iPhone",
+          "body": "O Claude Code na versão 2.1.216 lançou o Remote Control. O comando remote-control expõe a sessão do Claude Code no Mac para ser dirigida pelo app do Claude no iPhone, como uma sessão de controle remoto. Só uma sessão por máquina, e sem suporte a pular permissões.",
+          "source": {
+            "label": "code.claude.com — 20 jul",
+            "url": "https://code.claude.com/docs/en/remote-control"
+          }
+        },
+        {
+          "title": "GitHub lança MCP Registry oficial",
+          "body": "O GitHub lançou um MCP Registry oficial para descoberta e integração centralizada de servidores MCP externos direto pela plataforma. Aparece marcado como novidade na página de IA do GitHub.",
+          "source": {
+            "label": "github.com/mcp — 20 jul",
+            "url": "https://github.com/mcp"
+          }
+        },
+        {
+          "title": "openai/skills: repositório oficial de agent skills",
+          "body": "A OpenAI publicou o repositório openai/skills com agent skills curadas, como hatch-pet e imagegen, dentro do Codex. Tudo em licença Apache 2.0, são implementações de referência abertas.",
+          "source": {
+            "label": "github.com/openai/skills — 19 jul",
+            "url": "https://github.com/openai/skills"
+          }
+        },
+        {
+          "title": "Onda de MCP servers de segurança: CVE e web3",
+          "body": "Catálogos como o Glama passaram a listar servidores MCP verticais de segurança. O DataNexus oferece watch de CVE com resumo de risco, e o WaxSeal foca em segurança junto com web3.",
+          "source": {
+            "label": "glama.ai/mcp — 20 jul",
+            "url": "https://glama.ai/mcp/servers"
+          }
+        },
+        {
+          "title": "MCP de negócios: pagamentos e automação de browser",
+          "body": "Novos servidores MCP verticais de negócio apareceram nos catálogos. O BillingServ cobre pagamentos e cobrança, e o fouradata faz web scraping e automação de browser.",
+          "source": {
+            "label": "glama.ai/mcp — 20 jul",
+            "url": "https://glama.ai/mcp/servers"
+          }
+        },
+        {
+          "title": "Claude Code endurece agent-teams, deep research e permissões",
+          "body": "As notas de versão recentes trouxeram correções relevantes. Fix de crash loop em agent-teams causado por mensagem malformada de mailbox do teammate. O Deep research passou a mostrar o hostname da fonte. E houve neutralização de caracteres bidi e zero-width nas mensagens de aprovação de permissão.",
+          "source": {
+            "label": "CC CHANGELOG — 20 jul",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O MCP deixou de ser protocolo de laboratório. Com o Registry do GitHub, ganhou ponto canônico e servidores verticais pipocando em segurança, pagamentos e browser. O Claude Code virou móvel e ficou mais estável em orquestração multi-agente. E a agent skill virou padrão compartilhado entre clientes. Quem vive de agentes está vendo o ecossistema amadurecer rápido embaixo dos pés."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-21",
       "date": "2026-07-21",
       "hook": "Projetos IA · 21 jul",
