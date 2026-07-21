@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-07-21",
+      "date": "2026-07-21",
+      "hook": "Panorama IA · 21 jul",
+      "caption": "Semana de bastidores. Não saiu modelo novo, mas saíram as regras e o hardware que vão moldar os próximos. Um juiz americano homologou o acordo de 1,5 bilhão de dólares da Anthropic com autores. A Europa mandou o Google abrir o Android para assistentes rivais. E a Apple começou a levar IA de escrita para dentro do sistema. Hoje é sobre o terreno onde os modelos pisam.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-07-21",
+      "link": "https://xnews.aronpc.dev/#ia-2026-07-21",
+      "slides": [
+        {
+          "title": "Panorama IA — 21 de julho",
+          "body": "Semana de bastidores. Não saiu modelo novo, mas saíram as regras e o hardware que vão moldar os próximos. Um juiz americano homologou o acordo de 1,5 bilhão de dólares da Anthropic com autores. A Europa mandou o Google abrir o Android para assistentes rivais. E a Apple começou a levar IA de escrita para dentro do sistema. Hoje é sobre o terreno onde os modelos pisam."
+        },
+        {
+          "title": "Anthropic fecha acordo de US$ 1,5 bi em ação de copyright",
+          "body": "Um juiz federal americano homologou o acordo de 1,5 bilhão de dólares entre a Anthropic e um grupo de autores e editoras. É a primeira grande ação de copyright contra um LLM nos Estados Unidos a ser encerrada por acordo. Alguns autores ficaram de fora e seguem processando.",
+          "source": {
+            "label": "Reuters — 20 jul",
+            "url": "https://www.reuters.com/world/us-judge-approves-anthropics-15-billion-settlement-copyright-lawsuit-2026-07-20/"
+          }
+        },
+        {
+          "title": "Google prepara chip que funde o Gemini no silício",
+          "body": "Reportagens apontam que o Google desenvolve um chip chamado Frozen v2, que assa a arquitetura do Gemini direto no silício. A ideia é trocar as TPUs genéricas por hardware dedicado ao modelo e cortar o custo de inferência.",
+          "source": {
+            "label": "The Decoder — 20 jul",
+            "url": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/"
+          }
+        },
+        {
+          "title": "UE obriga Google a abrir Android e Search a IAs rivais",
+          "body": "A Comissão Europeia emitiu duas decisões sob a DMA mandando o Google dar acesso comparável ao Android e aos dados do Search para assistentes de IA e buscadores concorrentes.",
+          "source": {
+            "label": "The Verge — 20 jul",
+            "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma"
+          }
+        },
+        {
+          "title": "macOS 27: Siri ganha ferramentas de escrita dentro do SO",
+          "body": "Alguém achou no beta público do macOS 27, o Golden Gate, uma interface escondida. Quando você seleciona um texto, abre um popover com ações e ferramentas de escrita com IA. É a Apple levando IA generativa para o sistema, não só para o app.",
+          "source": {
+            "label": "The Verge — 20 jul",
+            "url": "https://www.theverge.com/tech/967813/macos-27-has-a-siri-ai-writing-secret-you-can-try"
+          }
+        },
+        {
+          "title": "Fármaco descoberto por IA avança para ensaios de Fase III",
+          "body": "A Insilico Medicine vai para ensaios clínicos de Fase III, em humanos, um fármaco para fibrose pulmonar idiopática que foi identificado por IA. É um remédio de verdade indo para a última fase antes da aprovação.",
+          "source": {
+            "label": "AI News — 20 jul",
+            "url": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/"
+          }
+        },
+        {
+          "title": "Washington Post: modelos abertos são “boa competição”",
+          "body": "O Washington Post publicou um artigo argumentando que modelos de IA abertos são boa competição. Diz que abrir o código é uma estratégia de negócio antiga, não uma ameaça a ser combatida.",
+          "source": {
+            "label": "Washington Post — 20 jul",
+            "url": "https://www.washingtonpost.com/opinions/2026/07/20/open-model-ai-is-good-competition-anthropic-openai/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Não saiu modelo novo, mas a estrutura em volta deles se mexeu. Um juiz deu o primeiro grande precedente de como treino com obras protegidas se resolve nos Estados Unidos. A Europa forçou o Google a abrir espaço para IAs rivais. O Google corre atrás de eficiência no silício. A Apple plantou IA dentro do sistema. E os pesos abertos seguiram ganhando legitimidade. Os modelos que você roda hoje estão sendo moldados por forças fora do laboratório."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-07-20",
       "date": "2026-07-20",
       "hook": "Skills e MCP · 20 jul",
