@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-22",
+      "date": "2026-07-22",
+      "hook": "Skills e MCP · 22 jul",
+      "caption": "Duas frentes nesta edição. O Claude Code apertou a segurança e o sandbox com dois fixes. E a onda de skills profissionalizou de vez, com frameworks oficiais e coleções de alto perfil. Também rolam dois pilotos parados que o radar-interno de hoje pediu pra decidir: headroom e codebase-memory-mcp.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-22",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-22",
+      "slides": [
+        {
+          "title": "Skills e MCP · 22 de julho",
+          "body": "Duas frentes nesta edição. O Claude Code apertou a segurança e o sandbox com dois fixes. E a onda de skills profissionalizou de vez, com frameworks oficiais e coleções de alto perfil. Também rolam dois pilotos parados que o radar-interno de hoje pediu pra decidir: headroom e codebase-memory-mcp."
+        },
+        {
+          "title": "Claude Code v2.1.214: fix de segurança em regras dir/**",
+          "body": "A versão 2.1.214, de 18 de julho, corrige as regras de permissão dir/** em segmento único. Elas auto-aprovavam escritas em diretórios aninhados, e o fix fecha essa brecha.",
+          "source": {
+            "label": "github.com/anthropics/claude-code · 18 jul",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.214"
+          }
+        },
+        {
+          "title": "Claude Code v2.1.216: desliga o isolamento de filesystem",
+          "body": "A versão 2.1.216, de 20 de julho, adiciona a setting sandbox.filesystem.disabled. Ela pula o isolamento de filesystem mas mantém o egresso de rede.",
+          "source": {
+            "label": "github.com/anthropics/claude-code · 20 jul",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.216"
+          }
+        },
+        {
+          "title": "headroom: comprime outputs de tools, logs e RAG antes do LLM",
+          "body": "O headroom, da headroomlabs-ai, comprime saídas de tools, logs, arquivos e chunks de RAG antes de mandar pro modelo.",
+          "source": {
+            "label": "github.com/headroomlabs-ai/headroom · 21 jul",
+            "url": "https://github.com/headroomlabs-ai/headroom"
+          }
+        },
+        {
+          "title": "codebase-memory-mcp: servidor MCP de inteligência de código",
+          "body": "O codebase-memory-mcp, da DeusData, é um servidor MCP de alta performance que indexa o codebase e devolve inteligência de código.",
+          "source": {
+            "label": "github.com/DeusData/codebase-memory-mcp · 21 jul",
+            "url": "https://github.com/DeusData/codebase-memory-mcp"
+          }
+        },
+        {
+          "title": "obra/superpowers: framework de agent skills",
+          "body": "O obra/superpowers é um framework agêntico de skills com metodologia de desenvolvimento de software. É um dos mais populares do gênero.",
+          "source": {
+            "label": "github.com/obra/superpowers · 21 jul",
+            "url": "https://github.com/obra/superpowers"
+          }
+        },
+        {
+          "title": "mattpocock/skills: Skills for Real Engineers",
+          "body": "O mattpocock/skills é uma coleção de skills prontas, direto do .agents, assinada como Skills for Real Engineers.",
+          "source": {
+            "label": "github.com/mattpocock/skills · 21 jul",
+            "url": "https://github.com/mattpocock/skills"
+          }
+        },
+        {
+          "title": "anthropics/skills: repositório oficial de Agent Skills",
+          "body": "O anthropics/skills é o repositório oficial da Anthropic de Agent Skills, atualizado no dia 17 de julho.",
+          "source": {
+            "label": "github.com/anthropics/skills · 17 jul",
+            "url": "https://github.com/anthropics/skills"
+          }
+        },
+        {
+          "title": "video-shotcraft: skill de vídeo IA pluga em Claude Code e Codex",
+          "body": "O video-shotcraft é uma skill de geração de vídeo cinematográfica que pluga no Claude Code e no Codex. Por volta de 449 estrelas no GitHub.",
+          "source": {
+            "label": "github.com/Vincentwei1021 · 19 jul",
+            "url": "https://github.com/Vincentwei1021/video-shotcraft"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O Claude Code apertou sandbox e segurança em dois fixes seguidos. A skill virou padrão profissional, com framework, coleção oficial e até skill de vídeo. E dois MCPs de contexto e memória, headroom e codebase-memory-mcp, seguem como pilotos parados esperando decisão. Quem cria skills e roda agentes tem o ecossistema amadurecendo embaixo dos pés."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-22",
       "date": "2026-07-22",
       "hook": "Projetos IA · 22 jul",
