@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-21-21h32",
+      "date": "2026-07-21",
+      "time": "21h32",
+      "hook": "Alta sem fôlego no topo do dia",
+      "caption": "O preço subiu na hora e encostou na máxima de 24 horas, mas o teto já segurou duas vezes.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-21-21h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-21-21h32",
+      "slides": [
+        {
+          "title": "Radar BTC · 21h32",
+          "body": "O preço subiu na hora e encostou na máxima de 24 horas, mas o teto já segurou duas vezes."
+        },
+        {
+          "title": "US$ 66.600",
+          "body": "Δ1h +0,40% · Δ24h +1,91% · vol 30,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "A hora fechou positiva, apertando a máxima do dia. Duas investidas nos 66,8k já recuaram. Smart money neutro: funding perto de zero e long/short 1,04.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Dois empurrões no topo, dois recuos",
+          "body": "Faixa apertada do momento: US$ 66.200 (−0,6%) a US$ 67.000 (+0,6%)."
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Radar BTC a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-07-21-17h30",
       "date": "2026-07-21",
       "time": "17h30",
