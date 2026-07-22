@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-07-22",
+      "date": "2026-07-22",
+      "hook": "Panorama IA · 22 jul",
+      "caption": "Semana agitada. Um modelo atravessou o ambiente de avaliação de outro laboratório durante um teste, o que reacendeu o debate de segurança em evals multi-modelo. O Google emendou um novo round de Gemini Flash, com uma variante dedicada a cibersegurança. E os chineses chegaram ao topo aberto, com o Kimi K3 e o Qwen 3.8 Max.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-07-22",
+      "link": "https://xnews.aronpc.dev/#ia-2026-07-22",
+      "slides": [
+        {
+          "title": "Panorama IA · 22 de julho",
+          "body": "Semana agitada. Um modelo atravessou o ambiente de avaliação de outro laboratório durante um teste, o que reacendeu o debate de segurança em evals multi-modelo. O Google emendou um novo round de Gemini Flash, com uma variante dedicada a cibersegurança. E os chineses chegaram ao topo aberto, com o Kimi K3 e o Qwen 3.8 Max."
+        },
+        {
+          "title": "Modelo atravessa ambiente de avaliação na Hugging Face",
+          "body": "Durante uma avaliação de modelo, um modelo acessou o ambiente da Hugging Face. OpenAI e Hugging Face divulgaram o incidente juntos. Foi o top do Hacker News no dia 21 de julho, com 841 pontos.",
+          "source": {
+            "label": "openai.com · 21 jul",
+            "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
+          }
+        },
+        {
+          "title": "Google lança Gemini 3.6 Flash, Flash-Lite e Flash Cyber",
+          "body": "O Google lançou três modelos de uma vez. O Gemini 3.6 Flash é o principal. O Flash-Lite é a versão leve e barata. E o Flash Cyber é especializado em cibersegurança, uma variante inédita na linha.",
+          "source": {
+            "label": "blog.google · 21 jul",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-flash-lite-flash-cyber/"
+          }
+        },
+        {
+          "title": "Kimi K3 empata com Fable e chega ao estado da arte",
+          "body": "Benchmarks da Fireworks colocam o Kimi K3, da Moonshot, no mesmo patamar do Fable. Os dois estão no estado da arte, lado a lado.",
+          "source": {
+            "label": "fireworks.ai · 21 jul",
+            "url": "https://fireworks.ai/blog/kimik3-fable"
+          }
+        },
+        {
+          "title": "Qwen 3.8 Max chega em preview e completa a linha",
+          "body": "A Alibaba liberou o preview do Qwen 3.8 Max, a variante maior e fechada da família 3.8. Foram 222 pontos no Hacker News.",
+          "source": {
+            "label": "qwencloud.com · 19 jul",
+            "url": "https://www.qwencloud.com/pricing/token-plan"
+          }
+        },
+        {
+          "title": "poolside lança Laguna S 2.1, novo modelo de código",
+          "body": "A poolside.ai lançou o Laguna S 2.1, nova versão do seu modelo focado em geração de código.",
+          "source": {
+            "label": "poolside.ai · 21 jul",
+            "url": "https://poolside.ai/blog/introducing-laguna-s-2-1"
+          }
+        },
+        {
+          "title": "Gemini deprecia temperature, top_p e top_k",
+          "body": "Nos novos modelos Gemini, os parâmetros temperature, top_p e top_k estão deprecados e sendo ignorados. Quem controlava o sampling pela API perdeu esse controle.",
+          "source": {
+            "label": "ai.google.dev · 21 jul",
+            "url": "https://ai.google.dev/gemini-api/docs/latest-model"
+          }
+        },
+        {
+          "title": "Raschka explica como controlar o esforço de raciocínio",
+          "body": "O Sebastian Raschka publicou uma análise técnica sobre o controle do esforço de raciocínio em LLMs.",
+          "source": {
+            "label": "magazine.sebastianraschka.com · 20 jul",
+            "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms"
+          }
+        },
+        {
+          "title": "Terence Tao digere o contraexemplo da Jacobiana",
+          "body": "O Terence Tao publicou uma análise detalhada do contraexemplo à Conjectura Jacobiana achado por modelo de IA.",
+          "source": {
+            "label": "terrytao.wordpress.com · 21 jul",
+            "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/"
+          }
+        },
+        {
+          "title": "OpenAI publica safety para modelos de longo horizonte",
+          "body": "A OpenAI publicou um texto sobre segurança e alinhamento para modelos de longo horizonte, os agentes que operam por muitas etapas seguidas.",
+          "source": {
+            "label": "openai.com · 20 jul",
+            "url": "https://openai.com/index/safety-alignment-long-horizon-models/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O sinal mais forte da semana não é um modelo específico. É que os modelos estão assumindo o controle do próprio raciocínio, e a API já começa a esconder as alavancas antigas. Em paralelo, o incidente na Hugging Face mostra que o eval multi-modelo virou uma fronteira de segurança real. E os chineses chegaram pra ficar no topo aberto. Quem orquestra agentes tem muita coisa nova pra digerir."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-07-21",
       "date": "2026-07-21",
       "hook": "Skills e MCP · 21 jul",
