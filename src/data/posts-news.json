@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-22",
+      "date": "2026-07-22",
+      "hook": "Projetos IA · 22 jul",
+      "caption": "O tema da semana nos projetos é contexto e memória para coding agents. Várias ferramentas novas brigam para cortar tokens e guardar o que importa. Também rolou uma aposta grande do Jack Dorsey fundindo chat, agentes e git, e mais opções de IA local saindo da nuvem.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-07-22",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-07-22",
+      "slides": [
+        {
+          "title": "Projetos IA · 22 de julho",
+          "body": "O tema da semana nos projetos é contexto e memória para coding agents. Várias ferramentas novas brigam para cortar tokens e guardar o que importa. Também rolou uma aposta grande do Jack Dorsey fundindo chat, agentes e git, e mais opções de IA local saindo da nuvem."
+        },
+        {
+          "title": "Jack Dorsey lança Buzz no Block: chat, agentes e git juntos",
+          "body": "O Jack Dorsey apresentou o Buzz, do Block. É um app que combina chat de equipe, agentes de IA e hospedagem de Git num produto só. Fez 270 pontos no Hacker News no dia 21.",
+          "source": {
+            "label": "runtimewire.com · 21 jul",
+            "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git-hosting/"
+          }
+        },
+        {
+          "title": "agentsmith: harness universal para operar agentes",
+          "body": "A PromptPartner lançou o agentsmith, um harness agnóstico a modelo para operar agentes de IA. Tem por volta de 314 estrelas no GitHub.",
+          "source": {
+            "label": "github.com/PromptPartner · 16 jul",
+            "url": "https://github.com/PromptPartner/agentsmith"
+          }
+        },
+        {
+          "title": "CodeAlmanac: wiki do codebase a partir das suas conversas",
+          "body": "O CodeAlmanac gera uma wiki no estilo Karpathy do seu codebase, montada a partir das conversas com IA. Foi Show HN no dia 21, com 45 pontos.",
+          "source": {
+            "label": "github.com/AlmanacCode · 21 jul",
+            "url": "https://github.com/AlmanacCode/codealmanac"
+          }
+        },
+        {
+          "title": "fastctx: ferramentas de repo eficientes em contexto",
+          "body": "O yc-duan lançou o fastctx, um conjunto de ferramentas de repositório eficientes em contexto para agentes de IA. Por volta de 286 estrelas no GitHub.",
+          "source": {
+            "label": "github.com/yc-duan · 17 jul",
+            "url": "https://github.com/yc-duan/fastctx"
+          }
+        },
+        {
+          "title": "video-shotcraft: skill de vídeo IA para Claude Code e Codex",
+          "body": "O video-shotcraft é uma skill de geração de vídeo cinematográfica que pluga no Claude Code e no Codex. Por volta de 449 estrelas no GitHub.",
+          "source": {
+            "label": "github.com/Vincentwei1021 · 19 jul",
+            "url": "https://github.com/Vincentwei1021/video-shotcraft"
+          }
+        },
+        {
+          "title": "nativ: hub de IA local para o Mac",
+          "body": "O Blaizzy lançou o nativ, um hub de IA local para Mac que faz chat, serve modelos e monitora o uso. Por volta de 647 estrelas no GitHub, criado no dia 20.",
+          "source": {
+            "label": "github.com/Blaizzy/nativ · 20 jul",
+            "url": "https://github.com/Blaizzy/nativ"
+          }
+        },
+        {
+          "title": "Cue: copiloto de IA open que flutua sobre a tela",
+          "body": "O Cue é um copiloto de IA open-source para macOS que flutua sobre qualquer app na tela e enxerga o contexto. Por volta de 704 estrelas no GitHub, criado em meados de julho.",
+          "source": {
+            "label": "github.com/Blueturboguy07/cue · 15 jul",
+            "url": "https://github.com/Blueturboguy07/cue"
+          }
+        },
+        {
+          "title": "Orate: fila de TTS neural on-device para o Mac",
+          "body": "O Orate é uma fila de text-to-speech neural rodando localmente no Mac. Foi Show HN no dia 21.",
+          "source": {
+            "label": "orate.to · 21 jul",
+            "url": "https://orate.to/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Memória e contexto para coding agents dominaram a semana, com CodeAlmanac e fastctx brigando por tokens. A convergência de chat, agentes e git apareceu no Buzz e no agentsmith. E a IA local seguiu saindo da nuvem, do nativ ao Cue e ao Orate. Quase tudo isso cai no quintal do Aron, entre devclaw, anchored e o pipeline de stories."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-22",
       "date": "2026-07-22",
       "hook": "Panorama IA · 22 jul",
