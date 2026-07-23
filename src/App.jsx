@@ -290,6 +290,7 @@ export default function App() {
           idx={focusedIdx} count={posts.length} go={go} />
         <footer className="foot">
           <a className="ig" href={IG[perfil]} target="_blank" rel="noopener">{HANDLE[perfil]}</a>
+        <a className="rss" href="/feed.xml" target="_blank" rel="noopener" aria-label="Assinar RSS">RSS</a>
           <a className="xnet" href={SITE[perfil === 'news' ? 'btc' : 'news']}>ver {HANDLE[perfil === 'news' ? 'btc' : 'news']} →</a>
         </footer>
         <div className={'toast' + (toast ? ' show' : '')} role="status" aria-live="polite">{toast}</div>
@@ -329,6 +330,7 @@ export default function App() {
 
       <footer className="foot">
         <a className="ig" href={IG[perfil]} target="_blank" rel="noopener">{HANDLE[perfil]}</a>
+        <a className="rss" href="/feed.xml" target="_blank" rel="noopener" aria-label="Assinar RSS">RSS</a>
         <a className="xnet" href={SITE[other]}>ver {HANDLE[other]} →</a>
       </footer>
 
