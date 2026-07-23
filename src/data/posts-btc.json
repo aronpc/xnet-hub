@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-23-10h32",
+      "date": "2026-07-23",
+      "time": "10h32",
+      "hook": "Trégua curta: preço volta a recuar",
+      "caption": "A pausa lá nos 65,6 mil não durou. Escorregou de novo e ficou colado no limite de baixo do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-23-10h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-23-10h32",
+      "slides": [
+        {
+          "title": "De volta aos US$ 65 mil",
+          "body": "A pausa lá nos 65,6 mil não durou. Escorregou de novo e ficou colado no limite de baixo do dia."
+        },
+        {
+          "title": "US$ 65.051",
+          "body": "Δ1h −0,52% · Δ24h −0,88% · vol US$ 23,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A série de quedas horárias aperta a mínima de 24h; o funding neutro (~0%) e o L/S 1,36 também não apontam virada."
+        },
+        {
+          "title": "O próximo passo sai da mínima de 24h",
+          "body": "Suporte US$ 64.948 (−0,2%) · Resistência US$ 65.800 (+1,2%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-23-05h35",
       "date": "2026-07-23",
       "time": "05h35",
