@@ -1,88 +1,64 @@
 # Setup — Web Push (PWA) + RSS
 
-Guia dos passos manuais na Cloudflare pra ligar as notificações. O código já está no repo:
+## Já configurado (feito via automação / commitado)
 
-- **RSS**: `functions/feed.xml.js` → `/feed.xml` (não precisa de config; funciona no deploy).
+- **RSS** (`functions/feed.xml.js`) → `/feed.xml`. Funciona no deploy, sem config.
 - **PWA**: `public/sw.js`, `functions/manifest.webmanifest.js`, registro em `src/main.jsx`.
-- **Inscrição**: `functions/api/subscribe.js` e `functions/api/unsubscribe.js` (precisam do KV).
-- **Disparo**: Worker `notifier/` com Cron Trigger (precisa do KV + VAPID).
+- **Inscrição**: `functions/api/{subscribe,unsubscribe}.js` (usam o binding KV `SUBS`).
+- **Chaves VAPID** geradas. Pública (não é segredo) já em:
+  - `notifier/wrangler.toml` (`VAPID_PUBLIC_KEY`)
+  - `.env.production` (`VITE_VAPID_PUBLIC_KEY`) → o build do Pages injeta no bundle sozinho.
+- **KV namespace** `xnet-hub-subs` criado (id `be9b546cdfc246438db0601bf890a9ab`), já apontado
+  no `notifier/wrangler.toml`.
+- **Chave privada VAPID**: fora do git, em `notifier/.dev.vars` (git-ignored). Não commitar.
 
-## 1. Gerar as chaves VAPID (uma vez)
+## Falta você fazer (precisa das suas credenciais Cloudflare)
 
-```bash
-npx web-push generate-vapid-keys
-# guarde Public Key e Private Key
-```
+Três passos, todos exigem `wrangler` autenticado (`npx wrangler login`) ou o painel.
 
-## 2. Criar o KV namespace (compartilhado Pages + Worker)
+### 1. Ligar o KV `SUBS` ao projeto Pages
+Painel → projeto Pages → **Settings → Functions → KV namespace bindings** (Production e Preview):
+- Variable name: `SUBS`
+- KV namespace: **xnet-hub-subs** (`be9b546cdfc246438db0601bf890a9ab`)
 
-```bash
-cd notifier
-npx wrangler kv namespace create SUBS
-# copie o id retornado
-```
+Sem isso, `/api/subscribe` responde `503 kv-unbound`.
 
-- Cole o `id` em `notifier/wrangler.toml` (campo `id` do bloco `[[kv_namespaces]]`).
-- No painel do **Pages** → projeto → *Settings* → *Bindings* (ou *Functions* → *KV namespace bindings*):
-  adicione um binding **`SUBS`** apontando pro **mesmo** namespace.
-
-## 3. Configurar o frontend (Pages)
-
-No painel do Pages → *Settings* → *Environment variables* (Production **e** Preview):
-
-| Variável | Valor |
-|---|---|
-| `VITE_VAPID_PUBLIC_KEY` | a **Public Key** do passo 1 |
-
-> É uma env de **build** (Vite injeta no bundle). Refaça o deploy após adicionar.
-> Sem ela, o botão "🔔 receber novidades" fica oculto — o RSS continua funcionando.
-
-## 4. Configurar e publicar o Worker `notifier`
-
+### 2. Publicar o Worker `notifier` + gravar o segredo
 ```bash
 cd notifier
 npm install
-
-# segredos (não vão pro repo)
-npx wrangler secret put VAPID_PRIVATE_KEY   # Private Key do passo 1
-npx wrangler secret put VAPID_PUBLIC_KEY    # Public Key (ou deixe como [vars] no wrangler.toml)
-npx wrangler secret put RUN_KEY             # opcional, protege o gatilho manual /run
-
-# confira VAPID_SUBJECT (mailto) no wrangler.toml e publique
+npx wrangler login                      # se ainda não estiver autenticado
+npx wrangler secret put VAPID_PRIVATE_KEY   # cole o valor de notifier/.dev.vars
+npx wrangler secret put RUN_KEY             # opcional (protege GET /run); troque o placeholder
 npx wrangler deploy
 ```
+O Cron dispara a cada 5 min. **Na 1ª execução ele só registra `last:{perfil}` sem notificar**;
+o primeiro push sai no próximo post novo.
 
-O Cron dispara a cada 5 min. **Na 1ª execução ele só registra o estado (`last:{perfil}`) sem
-notificar** — o primeiro push sai no próximo post novo depois disso.
+### 3. Redeploy do Pages
+Pra o frontend pegar `.env.production` e o binding `SUBS`, force um novo deploy (qualquer push já
+serve, ou "Retry deployment" no painel).
 
-### Dev local do Worker
-
-Crie `notifier/.dev.vars` (git-ignored):
-
-```
-VAPID_SUBJECT=mailto:aronpeyroteo@gmail.com
-VAPID_PUBLIC_KEY=...
-VAPID_PRIVATE_KEY=...
-RUN_KEY=teste123
-```
-
-```bash
-npx wrangler dev
-# em outra aba: curl "http://localhost:8787/run?key=teste123"
-```
-
-## 5. Validar
+## Validar
 
 1. `https://xnews.aronpc.dev/feed.xml` e `https://xbtc.aronpc.dev/feed.xml` → RSS de cada perfil.
-2. Abra o site (Android/desktop), clique **🔔 receber novidades**, aceite a permissão.
-   - Confirme no KV que surgiu uma chave `sub:{perfil}:...`.
-3. Force um disparo: `curl "https://xnet-notifier.<subdominio>.workers.dev/run?key=RUN_KEY"`
-   com um post novo publicado → a notificação deve chegar e abrir a permalink ao clicar.
+2. Abrir o site (Android/desktop) → **🔔 receber novidades** → aceitar. Confere no KV que surgiu
+   `sub:{perfil}:...`.
+3. Disparo manual: `curl "https://xnet-notifier.<subdominio>.workers.dev/run?key=RUN_KEY"` com um
+   post novo publicado → a notificação chega e abre a permalink ao clicar.
 
 ## Notas
 
-- **iOS** (16.4+): Web Push só funciona com o site **instalado** na tela inicial. A UI já mostra a
-  dica; sem instalar, o botão não ativa no Safari iOS.
+- **iOS** (16.4+): Web Push só com o site **instalado** na tela inicial. A UI já mostra a dica.
 - **Permissão** é pedida só no clique do botão (nunca no load).
 - **Anti-spam**: notifica só a edição mais recente por execução; seed silencioso na 1ª run.
-- **Custo**: dentro do free tier da Cloudflare pro volume esperado.
+- **Girar as chaves VAPID** (se um dia vazar a privada): gere um novo par, atualize
+  `VAPID_PUBLIC_KEY` (wrangler.toml + `.env.production`) e o secret `VAPID_PRIVATE_KEY`, e redeploy.
+  As inscrições antigas param de receber e os usuários reativam.
+
+### Dev local do Worker
+```bash
+cd notifier && npm install
+npx wrangler dev                        # usa notifier/.dev.vars
+curl "http://localhost:8787/run?key=<RUN_KEY do .dev.vars>"
+```

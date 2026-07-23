@@ -6,16 +6,16 @@ compatibility_date = "2024-11-01"
 [triggers]
 crons = ["*/5 * * * *"]
 
-# MESMO namespace KV ligado ao projeto Pages (binding SUBS).
-# Preencha o id após criar: `wrangler kv namespace create SUBS`
+# namespace KV "xnet-hub-subs" (o MESMO que deve ser ligado ao projeto Pages com binding SUBS)
 [[kv_namespaces]]
 binding = "SUBS"
-id = "REPLACE_WITH_KV_NAMESPACE_ID"
+id = "be9b546cdfc246438db0601bf890a9ab"
 
 [vars]
 VAPID_SUBJECT = "mailto:aronpeyroteo@gmail.com"
-# VAPID_PUBLIC_KEY = "..."   # a mesma chave pública do frontend (pode ficar em var)
-# Segredos (NÃO commitar):
+# chave pública VAPID (não é segredo — vai no bundle do cliente de qualquer jeito)
+VAPID_PUBLIC_KEY = "BJMottJLFZVEqvEO3zIxNtlL3jpcwuPM1Kh328BQIsYYoemKCEoTd9UbPBMkvUY95G1NP4EX2hleU2tHNOUSWRQ"
+
+# Segredo (NÃO commitar) — grave antes do deploy:
 #   wrangler secret put VAPID_PRIVATE_KEY
-#   wrangler secret put VAPID_PUBLIC_KEY   # (ou deixe como var acima)
-#   wrangler secret put RUN_KEY            # opcional, pro gatilho manual /run
+#   wrangler secret put RUN_KEY   # opcional, protege o gatilho manual GET /run
