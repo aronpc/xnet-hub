@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-23-04h43",
+      "date": "2026-07-23",
+      "time": "04h43",
+      "hook": "Bitcoin roça a mínima do dia",
+      "caption": "Preço parado na mínima de 24h, com medo em 31. A próxima direção sai daqui.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-23-04h43",
+      "link": "https://xbtc.aronpc.dev/#2026-07-23-04h43",
+      "slides": [
+        {
+          "title": "Decisão no limite inferior",
+          "body": "Preço parado na mínima de 24h, com medo em 31. A próxima direção sai daqui."
+        },
+        {
+          "title": "US$ 65.388",
+          "body": "Δ1h −0,5% · Δ24h −0,5% · vol US$ 25,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço vem caindo e cola na mínima de 24h; funding neutro (~0%), sem pressão para virar."
+        },
+        {
+          "title": "Mínima de 24h decide a rota",
+          "body": "Faixa do dia: US$ 65.350 (−0,1%) a US$ 66.000 (+0,9%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-22-12h31",
       "date": "2026-07-22",
       "time": "12h31",
