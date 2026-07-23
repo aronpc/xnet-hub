@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-23",
+      "date": "2026-07-23",
+      "hook": "O ecossistema MCP começou a se higienizar",
+      "caption": "Semana de limpeza no MCP. Um terço dos servers populares reprova em usabilidade pra agentes, surgiu uma nova superfície de ataque por sequências ANSI, e as ferramentas de diagnóstico e cota chegaram pra ficar.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-23",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-23",
+      "slides": [
+        {
+          "title": "O ecossistema MCP começou a se higienizar",
+          "body": "Semana de limpeza no MCP. Um terço dos servers populares reprova em usabilidade pra agentes, surgiu uma nova superfície de ataque por sequências ANSI, e as ferramentas de diagnóstico e cota chegaram pra ficar."
+        },
+        {
+          "title": "Um terço dos MCP servers reprova em usabilidade pra agentes",
+          "body": "A ferramenta mcpgrade, estilo Lighthouse, escaneou 36 MCP servers populares. Onze, cerca de um terço, tiraram D ou F em usabilidade pra agentes. Os piores foram firecrawl com 134 erros, todoist com 110, e MongoDB e Airtable com 66.",
+          "source": {
+            "label": "tengli.dev, 21 jul",
+            "url": "https://tengli.dev/posts/mcp-servers-failing-agents.html"
+          }
+        },
+        {
+          "title": "Injeção de sequências ANSI em servers MCP",
+          "body": "Pesquisa da Bright Security mostra que sequências ANSI injetadas em servers MCP são invisíveis pra humanos mas visíveis pra IA. Viram vetor de prompt injection e exfiltração.",
+          "source": {
+            "label": "brightsec.com, 21 jul",
+            "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/"
+          }
+        },
+        {
+          "title": "drskill: um brew doctor pra Skills e MCP",
+          "body": "O drskill é um brew doctor para o conjunto de skills e MCP instalado. Ele diagnostica a saúde do loadout e aponta conflitos e órfãos.",
+          "source": {
+            "label": "github.com/dbreunig/drskill, 22 jul",
+            "url": "https://github.com/dbreunig/drskill"
+          }
+        },
+        {
+          "title": "Claudexor: roteamento quota-aware pra Claude Code, Codex e Cursor",
+          "body": "O Claudexor faz roteamento consciente de cota entre Claude Code, Codex e Cursor. Ele desvia a carga conforme cada harness esgota o limite.",
+          "source": {
+            "label": "github.com/razzant/claudexor, 21 jul",
+            "url": "https://github.com/razzant/claudexor"
+          }
+        },
+        {
+          "title": "TokenOptimization: 40 a 90% menos tokens no Claude Code",
+          "body": "O TokenOptimization, da IterateAI, comprime o contexto do Claude Code e reduz de 40 a 90% os tokens usados.",
+          "source": {
+            "label": "github.com/IterateAI/compression, 21 jul",
+            "url": "https://github.com/IterateAI/compression"
+          }
+        },
+        {
+          "title": "herdr: code review adversarial com Claude e GPT-5.6",
+          "body": "O herdr é uma skill de code review adversarial que combina Claude e GPT-5.6-sol. Um modelo revisa o outro num padrão de cheque cruzado.",
+          "source": {
+            "label": "github.com/overflowy/herdr, 21 jul",
+            "url": "https://github.com/overflowy/herdr-claude-gpt-adversarial-review-skill"
+          }
+        },
+        {
+          "title": "Não ponha um LLM atrás de um server MCP",
+          "body": "Um ensaio argumenta contra colocar um LLM por trás de um server MCP. O ponto é que vira uma camada extra lenta, cara e difícil de depurar entre o agente e o modelo.",
+          "source": {
+            "label": "spletzer.com, 21 jul",
+            "url": "https://www.spletzer.com/2026/07/dont-put-an-llm-behind-an-mcp-server/"
+          }
+        },
+        {
+          "title": "Onze subagentes testaram todo skill de PPTX pro Claude Code",
+          "body": "Um post colocou 11 subagentes de IA pra testar todos os skills de PPTX do Claude Code e reportar o que funciona.",
+          "source": {
+            "label": "bulaev.net, 22 jul",
+            "url": "https://www.bulaev.net/p/i-had-11-ai-subagents-test-every"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O MCP passou da fase de tudo funciona pra fase de higiene: lint de usabilidade, ataque, diagnóstico e cota. O ecossistema amadureceu o bastante pra começar a se limpar."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-23",
       "date": "2026-07-23",
       "hook": "A infra dos agentes saiu do protótipo",
