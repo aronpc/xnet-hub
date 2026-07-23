@@ -19,6 +19,8 @@ const DESC   = {
 const RAW = (perfil) => `https://raw.githubusercontent.com/aronpc/xnet-hub/main/src/data/posts-${perfil}.json`
 const PAGE = 8
 const FETCH_TIMEOUT = 8000
+// chave pública VAPID (injetada no build via env). Sem ela, o botão de push fica oculto.
+const VAPID_PUBLIC = import.meta.env.VITE_VAPID_PUBLIC_KEY || ''
 
 function perfilFromHost() {
   const h = (typeof location !== 'undefined' ? location.hostname : '') || ''
@@ -203,6 +205,76 @@ function DetailView({ p, perfil, base, focusN, onCopy, prev, next, idx, count, g
   )
 }
 
+/* ---------- opt-in de notificações (Web Push / PWA) ---------- */
+function urlB64ToUint8(base64) {
+  const pad = '='.repeat((4 - (base64.length % 4)) % 4)
+  const b64 = (base64 + pad).replace(/-/g, '+').replace(/_/g, '/')
+  const raw = atob(b64)
+  const out = new Uint8Array(raw.length)
+  for (let i = 0; i < raw.length; i++) out[i] = raw.charCodeAt(i)
+  return out
+}
+function iosState() {
+  const ua = typeof navigator !== 'undefined' ? navigator.userAgent || '' : ''
+  const iOS = /iPad|iPhone|iPod/.test(ua)
+  const standalone = (typeof navigator !== 'undefined' && navigator.standalone === true) ||
+    (typeof matchMedia !== 'undefined' && matchMedia('(display-mode: standalone)').matches)
+  return { iOS, standalone }
+}
+function NotifyButton({ perfil, flash }) {
+  const supported = typeof window !== 'undefined' &&
+    'serviceWorker' in navigator && 'PushManager' in window && 'Notification' in window && !!VAPID_PUBLIC
+  const [state, setState] = useState('idle') // idle | on | denied | busy | hidden
+
+  useEffect(() => {
+    if (!supported) { setState('hidden'); return }
+    let alive = true
+    navigator.serviceWorker.ready
+      .then(reg => reg.pushManager.getSubscription())
+      .then(sub => { if (alive) setState(sub ? 'on' : (Notification.permission === 'denied' ? 'denied' : 'idle')) })
+      .catch(() => {})
+    return () => { alive = false }
+  }, [supported])
+
+  const enable = async () => {
+    const { iOS, standalone } = iosState()
+    if (iOS && !standalone) { flash('No iPhone: Compartilhar ⬆ → "Adicionar à Tela de Início", e ative por lá'); return }
+    setState('busy')
+    try {
+      const perm = await Notification.requestPermission()
+      if (perm !== 'granted') { setState(perm === 'denied' ? 'denied' : 'idle'); if (perm === 'denied') flash('Permissão bloqueada no navegador'); return }
+      const reg = await navigator.serviceWorker.ready
+      const sub = await reg.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: urlB64ToUint8(VAPID_PUBLIC) })
+      const r = await fetch('/api/subscribe', {
+        method: 'POST', headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({ subscription: sub.toJSON(), perfil }),
+      })
+      if (!r.ok) throw new Error('subscribe')
+      setState('on'); flash('Pronto — você recebe cada nova edição 🔔')
+    } catch { setState('idle'); flash('Não deu pra ativar agora, tenta de novo') }
+  }
+  const disable = async () => {
+    setState('busy')
+    try {
+      const reg = await navigator.serviceWorker.ready
+      const sub = await reg.pushManager.getSubscription()
+      if (sub) {
+        await fetch('/api/unsubscribe', {
+          method: 'POST', headers: { 'content-type': 'application/json' },
+          body: JSON.stringify({ endpoint: sub.endpoint }),
+        }).catch(() => {})
+        await sub.unsubscribe().catch(() => {})
+      }
+      setState('idle'); flash('Notificações desativadas')
+    } catch { setState('on') }
+  }
+
+  if (state === 'hidden') return null
+  if (state === 'denied') return <button className="notify" disabled aria-label="Notificações bloqueadas">🔕 bloqueado</button>
+  if (state === 'on') return <button className="notify on" onClick={disable} aria-label="Desativar notificações">🔔 ativado</button>
+  return <button className="notify" onClick={enable} disabled={state === 'busy'} aria-label="Receber notificações">🔔 {state === 'busy' ? '…' : 'receber novidades'}</button>
+}
+
 function Skeleton() {
   return (<div className="card sk" aria-hidden="true"><div className="sk-line w40" /><div className="sk-line w80 tall" /><div className="sk-line w100" /><div className="sk-line w60" /></div>)
 }
@@ -256,6 +328,8 @@ export default function App() {
     try { navigator.clipboard?.writeText(url) } catch {}
     setToast('Link copiado'); setTimeout(() => setToast(''), 1800)
   }, [])
+
+  const flash = useCallback((msg) => { setToast(msg); setTimeout(() => setToast(''), 3400) }, [])
 
   // busca
   const filtered = useMemo(() => {
@@ -313,6 +387,9 @@ export default function App() {
           <span className="brandword"><span className="x">{BRAND[perfil][0]}</span>{BRAND[perfil].slice(1)}<span className="dim">.ai</span></span>
         </a>
         <p className="sub">{loaded ? `${posts.length} ${NOUN[perfil]}` : 'carregando…'}</p>
+        <div className="hero-actions">
+          <NotifyButton perfil={perfil} flash={flash} />
+        </div>
         <div className="searchbar">
           <input type="search" value={query} onChange={e => setQuery(e.target.value)} placeholder={`Buscar em ${NOUN[perfil]}…`} aria-label="Buscar" />
           {query && <button className="clear" onClick={() => setQuery('')} aria-label="limpar busca">×</button>}

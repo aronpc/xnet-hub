@@ -1,0 +1,21 @@
+name = "xnet-notifier"
+main = "src/index.js"
+compatibility_date = "2024-11-01"
+
+# roda a cada 5 min (casa com o cache ~5min do raw do GitHub)
+[triggers]
+crons = ["*/5 * * * *"]
+
+# MESMO namespace KV ligado ao projeto Pages (binding SUBS).
+# Preencha o id após criar: `wrangler kv namespace create SUBS`
+[[kv_namespaces]]
+binding = "SUBS"
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
+
+[vars]
+VAPID_SUBJECT = "mailto:aronpeyroteo@gmail.com"
+# VAPID_PUBLIC_KEY = "..."   # a mesma chave pública do frontend (pode ficar em var)
+# Segredos (NÃO commitar):
+#   wrangler secret put VAPID_PRIVATE_KEY
+#   wrangler secret put VAPID_PUBLIC_KEY   # (ou deixe como var acima)
+#   wrangler secret put RUN_KEY            # opcional, pro gatilho manual /run
