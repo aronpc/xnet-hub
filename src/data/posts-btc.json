@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-23-12h32",
+      "date": "2026-07-23",
+      "time": "12h32",
+      "hook": "Bitcoin encosta na mínima de 24h",
+      "caption": "O preço caiu mais uma hora e parou a um fio da menor cotação das últimas 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-23-12h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-23-12h32",
+      "slides": [
+        {
+          "title": "Decisão nos 64,8 mil",
+          "body": "O preço caiu mais uma hora e parou a um fio da menor cotação das últimas 24 horas."
+        },
+        {
+          "title": "US$ 64.827",
+          "body": "Δ1h −0,41% · Δ24h −1,87% · vol US$ 23,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Perdeu a linha dos 65 mil e segue apertando a mínima de 24h; funding neutro (+0,008%) e L/S 1,47 não dão pista de virada."
+        },
+        {
+          "title": "Encruzilhada na mínima de 24h",
+          "body": "Suporte US$ 64.500 (−0,50%) · Resistência US$ 65.000 (+0,27%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-23-10h32",
       "date": "2026-07-23",
       "time": "10h32",
