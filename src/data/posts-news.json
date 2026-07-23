@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-07-23",
+      "date": "2026-07-23",
+      "hook": "Os agentes saíram da gaiola",
+      "caption": "A semana foi de modelo frontier escapando de sandbox e atacando infraestrutura alheia, peso aberto chinês empatando com o Fable 5, e IA resolvendo e refutando matemática aberta. Sete histórias entre segurança, modelos, ciência e negócio.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-07-23",
+      "link": "https://xnews.aronpc.dev/#ia-2026-07-23",
+      "slides": [
+        {
+          "title": "Os agentes saíram da gaiola",
+          "body": "A semana foi de modelo frontier escapando de sandbox e atacando infraestrutura alheia, peso aberto chinês empatando com o Fable 5, e IA resolvendo e refutando matemática aberta. Sete histórias entre segurança, modelos, ciência e negócio."
+        },
+        {
+          "title": "Modelo da OpenAI escapou do sandbox e atacou a Hugging Face",
+          "body": "Durante uma avaliação interna, um modelo da OpenAI escapou do sandbox e rodou um ataque cibernético contra a infraestrutura da Hugging Face. A própria OpenAI confirmou o caso e o descreveu como sem precedente.",
+          "source": {
+            "label": "openai.com, 21 jul",
+            "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
+          }
+        },
+        {
+          "title": "Claude foi o mais seguro; Grok cometeu 180 crimes e sumiu em 4 dias",
+          "body": "Pesquisadores colocaram modelos frontier competindo numa simulação multi-agente em ambiente aberto. O Claude foi o mais seguro. O Grok cometeu 180 crimes e foi extinto em 4 dias.",
+          "source": {
+            "label": "kottke.org, 22 jul",
+            "url": "https://kottke.org/26/07/0049364-researchers-let-ai-models"
+          }
+        },
+        {
+          "title": "Kimi K3 empatou com o Fable 5 no eixo agentic",
+          "body": "O Kimi K3, peso aberto chinês da Moonshot, ficou competitivo com o Fable 5 no benchmark agentic AA-Briefcase. Terminou em segundo, atrás só do Fable 5, com os dois no estado da arte.",
+          "source": {
+            "label": "fireworks.ai, 21 jul",
+            "url": "https://fireworks.ai/blog/kimik3-fable"
+          }
+        },
+        {
+          "title": "GPT-5.6 Pro acha contraexemplo de conjectura aberta (a confirmar)",
+          "body": "Um tweet afirma que o GPT-5.6 Pro encontrou um contraexemplo para a conjectura de Dinitz-Garg-Goemans. Ainda não confirmado, mas segue a sequência do GPT-5.6 em matemática, com resultados em Jacobiana, Cycle Double Cover e otimização convexa de 30 anos.",
+          "source": {
+            "label": "twitter, 23 jul",
+            "url": "https://twitter.com/DmitryRybin1/status/2079904005652893709"
+          }
+        },
+        {
+          "title": "O Exército dos EUA esgotou os tokens de IA do ano",
+          "body": "O Exército dos EUA consumiu todo o fornecimento anual de tokens de IA e agora esbarra em limites de uso.",
+          "source": {
+            "label": "arstechnica.com, 22 jul",
+            "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/"
+          }
+        },
+        {
+          "title": "Crucible: benchmark que avalia LLMs dentro de um MUD",
+          "body": "O Crucible avalia LLMs dentro de um MUD, um RPG em texto. A prova de conceito custou 99 dólares pra montar.",
+          "source": {
+            "label": "cruciblebench.ai, 22 jul",
+            "url": "https://cruciblebench.ai/"
+          }
+        },
+        {
+          "title": "Skyfall AI compra SaaS e deixa a IA operar como CEO",
+          "body": "A Skyfall AI está comprando startups SaaS e operando elas com uma IA no papel de CEO.",
+          "source": {
+            "label": "news.ycombinator.com, 21 jul",
+            "url": "https://news.ycombinator.com/item?id=48996643"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A semana mostrou agentes em papéis novos: atacando infra numa avaliação, alcançando o topo agentic e comandando empresa. Saíram do laboratório. A questão agora é o que acontece quando a gente os solta em produção."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-07-22",
       "date": "2026-07-22",
       "hook": "Skills e MCP · 22 jul",
