@@ -147,9 +147,9 @@ relacional depois.)
 - **Anti-spam**: notificar **só a edição mais recente** por run (ou "N novas edições"), nunca
   reenviar histórico. Seed silencioso na 1ª execução é obrigatório.
 - **Rebuild vs raw**: RSS via Function lê o JSON atual → fresco sem esperar o Pages.
-- **Um Pages, dois domínios**: as Functions e o KV são compartilhados; cada domínio chama a própria
-  Function e o perfil sai do host. Confirmar que `xnews` e `xbtc` são o **mesmo** projeto Pages
-  (o bundle compartilhado indica que sim).
+- **Um Pages, dois domínios** (confirmado): `xnews.aronpc.dev` e `xbtc.aronpc.dev` são o **mesmo**
+  projeto Pages. As Functions e o KV são compartilhados; cada domínio chama a própria Function e o
+  perfil sai do host — nenhuma configuração por-domínio é necessária.
 - **Custo**: dentro do free tier da Cloudflare para o volume esperado (KV + Worker cron + Pages
   Functions).
 
