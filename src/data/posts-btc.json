@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-23-17h31",
+      "date": "2026-07-23",
+      "time": "17h31",
+      "hook": "BTC reage e encosta no teto do dia",
+      "caption": "Depois de tocar o piso do dia, o preço repicou e agora cola no teto de curto prazo, sem convicção para passar.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-23-17h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-23-17h31",
+      "slides": [
+        {
+          "title": "Fôlego para cima em US$ 65,1 mil",
+          "body": "Depois de tocar o piso do dia, o preço repicou e agora cola no teto de curto prazo, sem convicção para passar."
+        },
+        {
+          "title": "US$ 65.126",
+          "body": "Δ1h +0,4% · Δ24h −1,2% · vol US$ 25,1 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Segurou o piso em US$ 64.650 e repicou, mas sem romper o teto. Segue preso no range. Smart Money: funding +0,01% e L/S 1,57."
+        },
+        {
+          "title": "Decisão no teto dos 65,2 mil",
+          "body": "Suporte US$ 64.650 (−0,7%) · Resistência US$ 65.200 (+0,1%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-23-12h32",
       "date": "2026-07-23",
       "time": "12h32",
