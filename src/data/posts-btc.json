@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-23-05h35",
+      "date": "2026-07-23",
+      "time": "05h35",
+      "hook": "Bitcoin freia a queda e estabiliza",
+      "caption": "Depois de encostar nos US$ 65,3 mil, o preço parou de cair e ficou num compasso de espera, sem rumo para nenhum lado.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-23-05h35",
+      "link": "https://xbtc.aronpc.dev/#2026-07-23-05h35",
+      "slides": [
+        {
+          "title": "O tombo do dia parou por aqui",
+          "body": "Depois de encostar nos US$ 65,3 mil, o preço parou de cair e ficou num compasso de espera, sem rumo para nenhum lado."
+        },
+        {
+          "title": "US$ 65.605",
+          "body": "Δ1h +0,3% · Δ24h −0,6% · vol US$ 25,5 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O ponto mais baixo do dia segurou firme e o preço deu um repique; mesmo assim, funding neutro (~0%) e L/S 1,30 continuam sem indicar direção."
+        },
+        {
+          "title": "A faixa que prende o preço",
+          "body": "Suporte US$ 65.350 (−0,4%) · Resistência US$ 66.000 (+0,6%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-23-04h43",
       "date": "2026-07-23",
       "time": "04h43",
