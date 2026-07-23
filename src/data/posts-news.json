@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-23",
+      "date": "2026-07-23",
+      "hook": "A infra dos agentes saiu do protótipo",
+      "caption": "Semana de ferramentas que preenchem buracos reais do stack de agentes: isolamento com microVM, observabilidade multi-agente, memória em grafo e identidade sem API key. Sete projetos que valem olhar.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-07-23",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-07-23",
+      "slides": [
+        {
+          "title": "A infra dos agentes saiu do protótipo",
+          "body": "Semana de ferramentas que preenchem buracos reais do stack de agentes: isolamento com microVM, observabilidade multi-agente, memória em grafo e identidade sem API key. Sete projetos que valem olhar."
+        },
+        {
+          "title": "Bento: um PowerPoint inteiro num arquivo HTML",
+          "body": "O Bento guarda uma apresentação inteira num único HTML de uns 560 KB. Edita, apresenta, imprime e colabora ao vivo, tudo offline, sem cloud nem login. Feito com Claude Code e licença MIT.",
+          "source": {
+            "label": "github.com/nyblnet/bento, 22 jul",
+            "url": "https://github.com/nyblnet/bento"
+          }
+        },
+        {
+          "title": "Superserve: microVMs Firecracker para agentes de longa duração",
+          "body": "O Superserve sobe sandboxes em microVM com Firecracker, feitas para agentes de IA que precisam rodar por muito tempo.",
+          "source": {
+            "label": "superserve.ai, 21 jul",
+            "url": "https://www.superserve.ai/"
+          }
+        },
+        {
+          "title": "Observal: registro self-hosted para agentes de IA",
+          "body": "O Observal é um registro e analítica self-hostado, open-source, para acompanhar agentes de IA em vários harnesses ao mesmo tempo.",
+          "source": {
+            "label": "github.com/Observal/Observal, 21 jul",
+            "url": "https://github.com/Observal/Observal"
+          }
+        },
+        {
+          "title": "Stele: knowledge graph auto-mantido para agentes de código",
+          "body": "O Stele mantém um knowledge graph sozinho, para agentes de IA que escrevem código. Ele atualiza o grafo conforme o projeto muda, sem intervenção manual.",
+          "source": {
+            "label": "stele-ai.dev, 22 jul",
+            "url": "https://stele-ai.dev/"
+          }
+        },
+        {
+          "title": "The Harbinger: identidade mTLS para agentes, em vez de API key",
+          "body": "O The Harbinger é um proxy mTLS que dá identidade a agentes de IA. Cada agente se autentica com certificado, sem API key.",
+          "source": {
+            "label": "github.com/n0tduck1e/theharbinger, 22 jul",
+            "url": "https://github.com/n0tduck1e/theharbinger"
+          }
+        },
+        {
+          "title": "ami: IA sombra open-source que age como você",
+          "body": "O ami, da NanoNets, é uma IA sombra open-source que roda na sua máquina e age como você. Aprende com seu histórico e age em seu nome.",
+          "source": {
+            "label": "github.com/NanoNets/ami, 22 jul",
+            "url": "https://github.com/NanoNets/ami"
+          }
+        },
+        {
+          "title": "Oh-my-pi: coding agent com o IDE wired in",
+          "body": "O Oh-my-pi, em omp.sh, é um coding agent com o IDE wired in, acesso direto ao editor em vez de operar por arquivo.",
+          "source": {
+            "label": "omp.sh, 21 jul",
+            "url": "https://omp.sh/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A infra de agentes está se empilhando: isolamento, observabilidade, memória e identidade viraram produtos. O agente autônomo de longa duração deixou de ser prototype e vira algo que dá pra montar com peças prontas."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-23",
       "date": "2026-07-23",
       "hook": "Os agentes saíram da gaiola",
