@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-24-04h32",
+      "date": "2026-07-24",
+      "time": "04h32",
+      "hook": "De madrugada o preço foi encostar na máxima de 24 horas. O medo segue alto, e essa distância entre os dois ainda não se resolveu.",
+      "caption": "Depois de um dia inteiro parado perto de US$ 65 mil, o Bitcoin subiu de madrugada e foi buscar o topo recente. Falta volume para transformar isso numa saída real da faixa.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-24-04h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-24-04h32",
+      "slides": [
+        {
+          "title": "Encostou no teto, sem fechar nada",
+          "body": "Depois de um dia inteiro parado perto de US$ 65 mil, o Bitcoin subiu de madrugada e foi buscar o topo recente. Falta volume para transformar isso numa saída real da faixa."
+        },
+        {
+          "title": "US$ 65.598",
+          "body": "Δ1h +0,34% · Δ24h +0,29% · vol US$ 25,5 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O preço subiu para o terço superior da faixa, mas a variação de 24h segue quase zerada e não houve fechamento de rompimento. Smart money: funding +0,005% (neutro) e L/S 1,51."
+        },
+        {
+          "title": "Os US$ 65.800 estão sendo testados",
+          "body": "Chão de US$ 64.800 (−1,2%) · teto recente de US$ 65.800 (+0,3%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-23-23h32",
       "date": "2026-07-23",
       "time": "23h32",
