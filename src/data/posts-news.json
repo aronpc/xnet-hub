@@ -2,6 +2,72 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-24",
+      "date": "2026-07-24",
+      "hook": "Open source de agentes domina; silicon e robótica puxam o privado",
+      "caption": "O GitHub seguiu tomado por ferramentas de agentes: um gateway que une 290 provedores de LLM, um code review da escala da Alibaba, e um browser feito para humano e agente trabalharem juntos. O lado privado veio com silicon de inferência e robótica. E tem um foundation model só para dados financeiros, que interessa direto a quem acompanha cripto.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-07-24",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-07-24",
+      "slides": [
+        {
+          "title": "Projetos e repos — 24 de julho",
+          "body": "O GitHub seguiu tomado por ferramentas de agentes: um gateway que une 290 provedores de LLM, um code review da escala da Alibaba, e um browser feito para humano e agente trabalharem juntos. O lado privado veio com silicon de inferência e robótica. E tem um foundation model só para dados financeiros, que interessa direto a quem acompanha cripto."
+        },
+        {
+          "title": "Sierra compra a Takeoff para agentes de longo horizonte",
+          "body": "A Sierra, startup de agentes para enterprise, comprou a Takeoff, que desenvolve agentes de longo horizonte, por valor não divulgado. A Takeoff foi fundada em 2025 e já beirava 10 milhões de dólares de receita anualizada no início de julho.",
+          "source": {
+            "label": "The Information — 23 jul",
+            "url": "https://www.theinformation.com/articles/sierra-acquires-agent-startup-takeoff-diversify-business"
+          }
+        },
+        {
+          "title": "AegisAI levanta US$ 36 mi contra spear-phishing de IA",
+          "body": "A AegisAI, fundada por ex-executivos de segurança do Google, usa agentes para detectar ataques de spear-phishing gerados por IA. Levantou 36 milhões de dólares em Série A liderada pela Battery Ventures, num total de 49 milhões.",
+          "source": {
+            "label": "TechCrunch — 23 jul",
+            "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+          }
+        },
+        {
+          "title": "worldmonitor: dashboard de inteligência global em tempo real",
+          "body": "O koala73/worldmonitor subiu no GitHub. Agrega notícias com IA, faz monitoramento geopolítico e mostra inteligência global em tempo real num painel único.",
+          "source": "github.com/koala73/worldmonitor"
+        },
+        {
+          "title": "Kronos: foundation model para a linguagem dos mercados",
+          "body": "O shiyu-coder/Kronos é um foundation model dedicado a dados financeiros de mercado, séries temporais e preços. Descrito como modelo de base para a linguagem dos mercados financeiros.",
+          "source": "github.com/shiyu-coder/Kronos"
+        },
+        {
+          "title": "ego-lite: um browser para você e seus agentes trabalharem juntos",
+          "body": "O citrolabs/ego-lite se descreve como o melhor browser tanto para você quanto para os seus agentes de IA trabalharem em paralelo. Um navegador desenhado para co-pilotagem humano mais agente, não uma extensão.",
+          "source": "github.com/citrolabs/ego-lite"
+        },
+        {
+          "title": "Foxy: 1 endpoint, 290+ provedores e 500+ modelos de IA",
+          "body": "O diegosouzapw/Foxy é um gateway open source, licença MIT, que oferece um único endpoint para 290 provedores, sendo 90 gratuitos, e 500 modelos. Cita o Kimi entre outros.",
+          "source": "github.com/diegosouzapw/foxy"
+        },
+        {
+          "title": "Alibaba libera open-code-review open source, em hiperescala",
+          "body": "O alibaba/open-code-review é uma ferramenta de code review open source com arquitetura híbrida, descrita como testada em batalha na escala da Alibaba.",
+          "source": "github.com/alibaba/open-code-review"
+        },
+        {
+          "title": "Screenpipe (YC S26): grava seu trabalho e vira agentes",
+          "body": "O Screenpipe, do batch S26 da YC, grava a atividade de trabalho, tela, áudio e dados, e converte isso em agentes automatizados. Fez 63 pontos no Hacker News em 24 horas.",
+          "source": {
+            "label": "HN — 23 jul",
+            "url": "https://news.ycombinator.com/item?id=49024620"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O open source de agentes virou categoria madura no GitHub: gateway de modelos, code review em hiperescala, browser para co-pilotagem e OSINT em tempo real. O dinheiro privado continuou em silicon de inferência e robótica. E a ideia de derivar agentes da gravação do seu próprio trabalho ganhou força."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-24",
       "date": "2026-07-24",
       "hook": "Dinheiro pesado, cerco de chips e um botão de desligue",
