@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-24-10h32",
+      "date": "2026-07-24",
+      "time": "10h32",
+      "hook": "A última hora pesou. Depois de um dia inteiro andando devagar, o Bitcoin recuou quase 1% e foi bater na mínima das últimas 24 horas, um nível que ainda não cedeu.",
+      "caption": "O preço caiu perto de 1% na última hora e encostou em US$ 64,3 mil, o ponto mais baixo do dia, sem fechar abaixo dele.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-24-10h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-24-10h32",
+      "slides": [
+        {
+          "title": "Foi bater na mínima de 24h",
+          "body": "O preço caiu perto de 1% na última hora e encostou em US$ 64,3 mil, o ponto mais baixo do dia, sem fechar abaixo dele."
+        },
+        {
+          "title": "US$ 64.303",
+          "body": "Δ1h −1,06% · Δ24h −1,16% · vol US$ 25,99 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Caiu ~1% na última hora direto sobre a mínima de 24h · Smart money: funding +0,005% + L/S 1,52"
+        },
+        {
+          "title": "Decisão na mínima de 24h",
+          "body": "Suporte US$ 64.300 (−0,1%) · Resistência US$ 64.800 (+0,8%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-24-06h31",
       "date": "2026-07-24",
       "time": "06h31",
