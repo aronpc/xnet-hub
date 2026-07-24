@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-24-11h31",
+      "date": "2026-07-24",
+      "time": "11h31",
+      "hook": "O Bitcoin recuou mais um degrau nesta hora. Saiu da faixa dos 64 mil dólares que segurava desde cedo e encostou em 63,7 mil, a cotação mais baixa das últimas 24 horas. O sentimento no mercado segue em zona de medo.",
+      "caption": "A mínima das últimas 24 horas baixou dos 64,3 mil para a casa dos 63,7 mil dólares ao longo da manhã.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-24-11h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-24-11h31",
+      "slides": [
+        {
+          "title": "O piso cedeu e fez mínima nova",
+          "body": "A mínima das últimas 24 horas baixou dos 64,3 mil para a casa dos 63,7 mil dólares ao longo da manhã."
+        },
+        {
+          "title": "US$ 63.804",
+          "body": "Δ1h −0,78% · Δ24h −1,99% · vol US$ 26,84 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Pressão vendedora na última hora abriu nova mínima em 63,7 mil · Smart money: funding +0,005% (neutro) e L/S 1,69, em alta"
+        },
+        {
+          "title": "Decisão nos 63,7 mil",
+          "body": "Suporte US$ 63.740 (−0,1%) · Resistência US$ 64.200 (+0,6%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-24-10h32",
       "date": "2026-07-24",
       "time": "10h32",
