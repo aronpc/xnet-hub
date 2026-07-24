@@ -1,0 +1,22 @@
+name = "xnet-notifier"
+main = "src/index.js"
+compatibility_date = "2024-11-01"
+compatibility_flags = ["nodejs_compat"]
+
+# roda a cada 5 min (casa com o cache ~5min do raw do GitHub)
+[triggers]
+crons = ["*/5 * * * *"]
+
+# namespace KV "xnet-hub-subs" (o MESMO que deve ser ligado ao projeto Pages com binding SUBS)
+[[kv_namespaces]]
+binding = "SUBS"
+id = "be9b546cdfc246438db0601bf890a9ab"
+
+[vars]
+VAPID_SUBJECT = "mailto:aronpeyroteo@gmail.com"
+# chave pública VAPID (não é segredo — vai no bundle do cliente de qualquer jeito)
+VAPID_PUBLIC_KEY = "BJMottJLFZVEqvEO3zIxNtlL3jpcwuPM1Kh328BQIsYYoemKCEoTd9UbPBMkvUY95G1NP4EX2hleU2tHNOUSWRQ"
+
+# Segredo (NÃO commitar) — grave antes do deploy:
+#   wrangler secret put VAPID_PRIVATE_KEY
+#   wrangler secret put RUN_KEY   # opcional, protege o gatilho manual GET /run

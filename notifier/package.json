@@ -1,0 +1,16 @@
+{
+  "name": "xnet-notifier",
+  "private": true,
+  "type": "module",
+  "description": "Worker (Cron Trigger) que envia Web Push a cada post novo do xnet-hub",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "@block65/webcrypto-web-push": "^1.0.2"
+  },
+  "devDependencies": {
+    "wrangler": "^3.90.0"
+  }
+}
