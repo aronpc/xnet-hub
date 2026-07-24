@@ -2,6 +2,70 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-24",
+      "date": "2026-07-24",
+      "hook": "O /code-review vira subagente; o MCP passa de 60 mil servidores",
+      "caption": "O Claude Code mudou o /code-review para rodar como subagente em background e tirar a revisão pesada da conversa principal. O diretório Glama passou de 60 mil servidores MCP indexados. E apareceram duas peças diretas para a stack de skills: um gateway que une 290 provedores de modelo e um code review da escala da Alibaba.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-24",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-24",
+      "slides": [
+        {
+          "title": "Skills e MCP — 24 de julho",
+          "body": "O Claude Code mudou o /code-review para rodar como subagente em background e tirar a revisão pesada da conversa principal. O diretório Glama passou de 60 mil servidores MCP indexados. E apareceram duas peças diretas para a stack de skills: um gateway que une 290 provedores de modelo e um code review da escala da Alibaba."
+        },
+        {
+          "title": "/code-review vira subagente em background (v2.1.218)",
+          "body": "A release de 22 de julho do Claude Code mudou o /code-review para rodar como subagente em background. O trabalho de revisão para de lotar a conversa principal e mantém os slash commands empilhados como alvo da review. Adicionou ainda anúncios de screen-reader para textos deletados.",
+          "source": {
+            "label": "Claude Code Releases — 22 jul",
+            "url": "https://github.com/anthropics/claude-code/releases"
+          }
+        },
+        {
+          "title": "awesome-claude-skills: índice curado de Claude Skills",
+          "body": "O ComposioHQ/awesome-claude-skills é uma lista curada de Claude Skills, recursos e ferramentas para customizar workflows do Claude. Mantido pela Composio e em alta no GitHub.",
+          "source": "github.com/ComposioHQ/awesome-claude-skills"
+        },
+        {
+          "title": "Setoku: servidor de conhecimento self-hosted para agentes",
+          "body": "O Setoku, postado no Hacker News, é um servidor de conhecimento self-hosted feito para dar memória e contexto persistente a agentes de IA. Funciona como um MCP server de memória, rodando na sua própria máquina.",
+          "source": {
+            "label": "setoku.com — 23 jul",
+            "url": "https://setoku.com/"
+          }
+        },
+        {
+          "title": "GitHub corta bug bounty público ante enxurrada de IA",
+          "body": "O GitHub planeja um programa de bug bounty em dois níveis. Corta recompensas para o público e aumenta pagamentos só para pesquisadores convidados. Reação ao volume de relatórios gerados por IA que soterram o time de segurança.",
+          "source": {
+            "label": "The Register — 23 jul",
+            "url": "https://www.theregister.com/devops/2026/07/23/github-slashes-public-bug-bounty-payouts-as-ai-report-flood-buries-its-security-team/5277046"
+          }
+        },
+        {
+          "title": "open-code-review (Alibaba) como quality gate de agentes",
+          "body": "O alibaba/open-code-review é uma ferramenta de code review open source com arquitetura híbrida, validada na hiperescala da Alibaba. Pode ser plugado como camada de revisão automatizada em pipelines de coding agents.",
+          "source": "github.com/alibaba/open-code-review"
+        },
+        {
+          "title": "Foxy: camada de roteamento entre skills/MCP e 290+ provedores",
+          "body": "O diegosouzapw/Foxy é um gateway open source, licença MIT, que unifica 290 provedores, 90 gratuitos, e 500 modelos num único endpoint. Peça de roteamento e fallback para agentes que consomem muitos LLMs.",
+          "source": "github.com/diegosouzapw/foxy"
+        },
+        {
+          "title": "Screenpipe: grava seu trabalho e deriva skills disso",
+          "body": "O Screenpipe, do batch S26 da YC, grava a atividade de trabalho, tela e áudio, e converte em agentes automatizados. Funciona como fonte de dados de execução para treinar ou rodar skills personalizadas.",
+          "source": {
+            "label": "HN — 23 jul",
+            "url": "https://news.ycombinator.com/item?id=49024620"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O ecossistema Claude Code amadureceu: o /code-review virou subagente em background e a curadoria de skills ganhou índice oficial. O MCP passou de 60 mil servidores. E dois buracos seguiram quentes: memória persistente para agentes e derivar skills da gravação do próprio trabalho."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-24",
       "date": "2026-07-24",
       "hook": "Open source de agentes domina; silicon e robótica puxam o privado",
