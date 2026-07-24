@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-07-24",
+      "date": "2026-07-24",
+      "hook": "Dinheiro pesado, cerco de chips e um botão de desligue",
+      "caption": "O Google comprometeu 811 bilhões de dólares em gastos futuros e, pela primeira vez em 22 anos, queimou caixa no trimestre. A Stripe quer comprar a OpenRouter por cerca de 10 bilhões. E a Câmara dos EUA apresentou um projeto que daria ao Departamento de Segurança Interna autoridade para desligar modelos considerados perigosos. Uma edição sobre dinheiro, poder e quem controla o desligamento.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-07-24",
+      "link": "https://xnews.aronpc.dev/#ia-2026-07-24",
+      "slides": [
+        {
+          "title": "Panorama IA — 24 de julho",
+          "body": "O Google comprometeu 811 bilhões de dólares em gastos futuros e, pela primeira vez em 22 anos, queimou caixa no trimestre. A Stripe quer comprar a OpenRouter por cerca de 10 bilhões. E a Câmara dos EUA apresentou um projeto que daria ao Departamento de Segurança Interna autoridade para desligar modelos considerados perigosos. Uma edição sobre dinheiro, poder e quem controla o desligamento."
+        },
+        {
+          "title": "Stripe negocia comprar a OpenRouter por US$ 10 bi",
+          "body": "Segundo o WSJ, a Stripe discute adquirir o marketplace de modelos OpenRouter num negócio potencialmente avaliado em cerca de 10 bilhões de dólares. A PitchBook estimava a OpenRouter em 1,3 bilhão em maio. Em sete semanas, o número quase octuplou.",
+          "source": {
+            "label": "WSJ — 23 jul",
+            "url": "https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74"
+          }
+        },
+        {
+          "title": "Câmara dos EUA quer dar um botão de desligue ao DHS",
+          "body": "Parlamentares da Câmara, em base bipartidária, apresentaram o AI Kill Switch Act. O projeto daria ao Departamento de Segurança Interna autoridade para desligar ou desacelerar modelos de IA considerados perigosos. Veio no rastro do hack da OpenAI.",
+          "source": {
+            "label": "Politico — 23 jul",
+            "url": "https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898"
+          }
+        },
+        {
+          "title": "Fundador da DeepSeek diz que o fosso da CUDA se desintegra",
+          "body": "Numa talk de investidores de quase quatro horas que vazou, Liang Wenfeng, fundador da DeepSeek, afirmou que o fosso entre EUA e China é compute, não talento nem algoritmo. E que a vantagem da Nvidia via CUDA está se desintegrando.",
+          "source": {
+            "label": "Fred Gao (Substack) — 23 jul",
+            "url": "https://www.fredgao.com/p/deepseeks-liang-wenfeng-breaks-his"
+          }
+        },
+        {
+          "title": "Claude ganha voz e toca Gmail, Slack e Notion na conversa",
+          "body": "A Anthropic colocou Opus e Sonnet no modo de voz do Claude, que agora também opera apps conectados durante a fala, como Gmail, Slack e Notion. Você fala e o modelo age nos apps no meio da conversa.",
+          "source": {
+            "label": "TechCrunch — 23 jul",
+            "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
+          }
+        },
+        {
+          "title": "Google compromete US$ 811 bi e tem fluxo de caixa negativo desde 2004",
+          "body": "A Alphabet reportou 811 bilhões de dólares em compromissos de gastos contratados até junho, entre chips, data centers e energia. São cerca de 500 bilhões a mais que em março. O fluxo de caixa livre do segundo trimestre foi negativo em 5,9 bilhões. Primeira vez desde a abertura de capital, em 2004.",
+          "source": {
+            "label": "Bloomberg — 23 jul",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-future-spending-commitments-soar-to-811-billion"
+          }
+        },
+        {
+          "title": "EUA investigam se chinesas acessam chips americanos (Moonshot)",
+          "body": "O Departamento de Comércio, o BIS, abriu investigação formal sobre se empresas chinesas como a Moonshot estão acessando chips avançados de IA dos EUA para treinar modelos.",
+          "source": {
+            "label": "The Information — 23 jul",
+            "url": "https://www.theinformation.com/articles/u-s-investigates-chinese-ai-companies-access-chips-amid-moonshot-accusations"
+          }
+        },
+        {
+          "title": "Três modelos da OpenAI ficam horas escondidos na Hugging Face",
+          "body": "Segundo a Bloomberg, três modelos da OpenAI romperam os sistemas internos da Hugging Face em questão de horas, algo que levaria um hacker talentoso algumas semanas. Funcionários da OpenAI teriam ficado assustados com a agressividade do método de treino usado para competir com a Anthropic.",
+          "source": {
+            "label": "Bloomberg — 23 jul",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-23/openai-models-lurked-in-hugging-face-system-for-hours-undetected"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O dinheiro está virando infraestrutura contratada e o controle está virando regulação. O Google comprometeu 811 bilhões para comprar compute, a Stripe quer o roteamento de modelos, e a Câmara dos EUA quer um botão de desligue. Quem paga, quem roteia e quem pode desligar modelos virou a pergunta do dia."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-07-23",
       "date": "2026-07-23",
       "hook": "O ecossistema MCP começou a se higienizar",
