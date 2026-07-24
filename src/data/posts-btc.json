@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-23-23h32",
+      "date": "2026-07-23",
+      "time": "23h32",
+      "hook": "BTC encerra o dia colado nos US$ 65 mil, sem sair do lugar",
+      "caption": "O preço passou horas comprimido numa faixa estreita perto dos US$ 65 mil e chega à noite quase onde começou — o mercado seguiu esperando um empurrão que não apareceu.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-23-23h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-23-23h32",
+      "slides": [
+        {
+          "title": "Um dia inteiro de lado, sem catalisador",
+          "body": "O preço passou horas comprimido numa faixa estreita perto dos US$ 65 mil e chega à noite quase onde começou — o mercado seguiu esperando um empurrão que não apareceu."
+        },
+        {
+          "title": "US$ 65.091",
+          "body": "Δ1h +0,06% · Δ24h −0,94% · vol US$ 24,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Horas girando dentro da faixa US$ 64.650–65.821, sem rompimento. Smart Money: funding ~0% (+0,0072%) e L/S 1,57 — posição equilibrada, sem combustível para um esticão."
+        },
+        {
+          "title": "Faixa US$ 64.650–65.500 ainda manda",
+          "body": "Suporte US$ 64.650 (−0,7%) · Resistência US$ 65.200 (+0,2%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-23-17h31",
       "date": "2026-07-23",
       "time": "17h31",
