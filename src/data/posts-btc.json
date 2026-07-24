@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-24-06h31",
+      "date": "2026-07-24",
+      "time": "06h31",
+      "hook": "O Bitcoin subiu de madrugada e logo perdeu o fôlego. Antes das 7h já tinha recuado para a parte mais baixa da faixa em que negocia o dia inteiro.",
+      "caption": "O preço buscou o topo recente, não segurou e recuou mais de US$ 600 desde a madrugada. Fechou a hora na parte de baixo do dia, com a faixa de negociação ainda intacta.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-24-06h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-24-06h31",
+      "slides": [
+        {
+          "title": "Subiu e logo voltou atrás",
+          "body": "O preço buscou o topo recente, não segurou e recuou mais de US$ 600 desde a madrugada. Fechou a hora na parte de baixo do dia, com a faixa de negociação ainda intacta."
+        },
+        {
+          "title": "US$ 64.971",
+          "body": "Δ1h −0,6% · Δ24h −1,15% · vol US$ 25,8 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Recuou do terço superior e foi parar no inferior, mas o dia não cedeu a faixa. Smart money: funding +0,004% (neutro) e L/S 1,48."
+        },
+        {
+          "title": "Olho na base de US$ 64.650",
+          "body": "Suporte US$ 64.650 (−0,5%) · Resistência US$ 65.800 (+1,3%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-24-04h32",
       "date": "2026-07-24",
       "time": "04h32",
