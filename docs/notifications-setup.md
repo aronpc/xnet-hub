@@ -12,32 +12,26 @@
   no `notifier/wrangler.toml`.
 - **Chave privada VAPID**: fora do git, em `notifier/.dev.vars` (git-ignored). Não commitar.
 
-## Falta você fazer (precisa das suas credenciais Cloudflare)
+## Deploy realizado (2026-07-23) — no ar ✅
 
-Três passos, todos exigem `wrangler` autenticado (`npx wrangler login`) ou o painel.
+Feito de ponta a ponta via `wrangler` autenticado + API da Cloudflare (conta **Conta ARON**,
+`ab3acdeb0c5cde0c08606aac726ccad8`):
 
-### 1. Ligar o KV `SUBS` ao projeto Pages
-Painel → projeto Pages → **Settings → Functions → KV namespace bindings** (Production e Preview):
-- Variable name: `SUBS`
-- KV namespace: **xnet-hub-subs** (`be9b546cdfc246438db0601bf890a9ab`)
+### 1. KV `SUBS` ligado ao projeto Pages `xnet-hub` ✅
+Binding `SUBS` → **xnet-hub-subs** (`be9b546cdfc246438db0601bf890a9ab`) em **production e preview**
+(via `PATCH .../pages/projects/xnet-hub`). `/api/subscribe` não responde mais `503`.
 
-Sem isso, `/api/subscribe` responde `503 kv-unbound`.
+### 2. Worker `xnet-notifier` publicado ✅
+`https://xnet-notifier.mqx.workers.dev` — cron `*/5 * * * *`, `nodejs_compat` ligado (a lib de
+push usa `node:crypto`). Secrets gravados: `VAPID_PRIVATE_KEY` e `RUN_KEY` (o RUN_KEY também ficou
+em `notifier/.dev.vars`, git-ignored). Disparo manual seed rodou sem notificar (topo inalterado).
 
-### 2. Publicar o Worker `notifier` + gravar o segredo
-```bash
-cd notifier
-npm install
-npx wrangler login                      # se ainda não estiver autenticado
-npx wrangler secret put VAPID_PRIVATE_KEY   # cole o valor de notifier/.dev.vars
-npx wrangler secret put RUN_KEY             # opcional (protege GET /run); troque o placeholder
-npx wrangler deploy
-```
-O Cron dispara a cada 5 min. **Na 1ª execução ele só registra `last:{perfil}` sem notificar**;
-o primeiro push sai no próximo post novo.
+### 3. Frontend publicado ✅
+Merge no `main` (commit de merge `a0f26fa`) → build do Pages concluído. Bundle já carrega a chave
+pública VAPID de `.env.production`.
 
-### 3. Redeploy do Pages
-Pra o frontend pegar `.env.production` e o binding `SUBS`, force um novo deploy (qualquer push já
-serve, ou "Retry deployment" no painel).
+> Se um dia precisar refazer: `cd notifier && CLOUDFLARE_ACCOUNT_ID=ab3acdeb0c5cde0c08606aac726ccad8 npx wrangler deploy`.
+> O push pro GitHub aqui foi via HTTPS (`gh auth setup-git`) porque o remote SSH não resolve DNS neste ambiente.
 
 ## Validar
 
