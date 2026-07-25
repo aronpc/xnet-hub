@@ -2,6 +2,66 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-25",
+      "date": "2026-07-25",
+      "hook": "Sandbox mais duro, memória local e dados do mundo plugados em agentes",
+      "caption": "O Claude Code 2.1.219 trouxe hardening de sandbox e observabilidade de MCP para o modo headless. Um MCP chamado ctxfile passou a snapshottar o estado do projeto num único contexto. E o fouradata começou a servir preços de mercado, macro e notícias direto para agentes. Uma edição sobre o que falta para agentes rodarem em produção.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-25",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-25",
+      "slides": [
+        {
+          "title": "Skills e MCP — 25 de julho",
+          "body": "O Claude Code 2.1.219 trouxe hardening de sandbox e observabilidade de MCP para o modo headless. Um MCP chamado ctxfile passou a snapshottar o estado do projeto num único contexto. E o fouradata começou a servir preços de mercado, macro e notícias direto para agentes. Uma edição sobre o que falta para agentes rodarem em produção."
+        },
+        {
+          "title": "Claude Code 2.1.219: Opus 5, sandbox e hooks",
+          "body": "A versão 2.1.219 adicionou o claude-opus-5 como Opus padrão, o sandbox.network.strictAllowlist que bloqueia hosts não listados sem perguntar, o hook DirectoryAdded e o mcp_server_errors na inicialização do modo headless. A 2.1.220 trouxe correções de bugs.",
+          "source": {
+            "label": "Claude Code CHANGELOG",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "hallmark: skill anti-AI-slop de design",
+          "body": "O Nutlope/hallmark é uma skill de design anti-'AI slop' que roda em Claude Code, Cursor e Codex.",
+          "source": "github.com/Nutlope/hallmark"
+        },
+        {
+          "title": "ctxfile: snapshot de estado do projeto num contexto",
+          "body": "O ctxfile é um MCP local-first e open-core que captura o estado de trabalho do projeto num único objeto de contexto para alimentar agentes.",
+          "source": "mcp.so/servers/ctxfile"
+        },
+        {
+          "title": "Claudexor: roteamento quota-aware entre agents",
+          "body": "O razzant/claudexor, apresentado no Show HN em 21 de julho, faz roteamento com consciência de quota entre Claude Code, Codex e Cursor.",
+          "source": "github.com/razzant/claudexor"
+        },
+        {
+          "title": "fouradata MCP: mercado, macro e notícias para agentes",
+          "body": "O @fouradata/mcp é um gateway entre agentes LLM e dados do mundo: preços de mercado, indicadores macroeconômicos e notícias.",
+          "source": "glama.ai/mcp/servers"
+        },
+        {
+          "title": "VerifyAX MCP: avaliação de agentes por conversa",
+          "body": "O VerifyAX é um MCP que dá acesso conversacional a uma plataforma de avaliação de agentes, expondo ferramentas para workflows de eval.",
+          "source": "glama.ai/mcp/servers"
+        },
+        {
+          "title": "Keenable: busca web para agentes com alto uso",
+          "body": "O Keenable Web Search é um MCP de busca web listado com cerca de 11,16 mil usos no diretório mcp.so.",
+          "source": "mcp.so"
+        },
+        {
+          "title": "MCP converte mais de 35 formatos de arquivo",
+          "body": "Um MCP da Glama converte PDF, Word, Excel, PowerPoint, EPUB, HEIC e imagens a partir do Claude, do Cursor ou de qualquer client MCP. São mais de 35 ferramentas de conversão.",
+          "source": "glama.ai/mcp/servers"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Falta pouco para agentes rodarem em produção. O Claude Code ganhou sandbox duro e observabilidade de MCP no headless. Memória local virou MCP com o ctxfile, e dados de mercado e notícias chegaram pelo fouradata. A peça que ainda engatinha é avaliar os agentes, e o VerifyAX aponta pra esse lado."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-25",
       "date": "2026-07-25",
       "hook": "Coding agents fervendo e o self-host voltando a ficar barato",
