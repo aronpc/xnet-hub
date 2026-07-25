@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-25",
+      "date": "2026-07-25",
+      "hook": "Coding agents fervendo e o self-host voltando a ficar barato",
+      "caption": "A categoria de harness de coding agent está fervendo: pi, kimi-code, jcode e claudexor chegaram juntos. Um livro aberto de engenharia de agentes virou o top 1 do GitHub semanal. E o ktransformers mostra como servir modelos grandes misturando GPU e CPU pra gastar menos. Uma edição sobre a camada de agente se consolidando.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-07-25",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-07-25",
+      "slides": [
+        {
+          "title": "Projetos IA — 25 de julho",
+          "body": "A categoria de harness de coding agent está fervendo: pi, kimi-code, jcode e claudexor chegaram juntos. Um livro aberto de engenharia de agentes virou o top 1 do GitHub semanal. E o ktransformers mostra como servir modelos grandes misturando GPU e CPU pra gastar menos. Uma edição sobre a camada de agente se consolidando."
+        },
+        {
+          "title": "pi empacota a stack inteira de agente",
+          "body": "O projeto earendel-works/pi reúne num só toolkit a API unificada de LLM, o loop de agente, uma TUI e um coding agent CLI.",
+          "source": "github.com/earendil-works/pi"
+        },
+        {
+          "title": "Livro aberto de engenharia de agentes é o top 1 semanal",
+          "body": "O bojieli/ai-agent-book reúne texto, PDF compilado e código por capítulo sobre engenharia de agentes.",
+          "source": "github.com/bojieli/ai-agent-book"
+        },
+        {
+          "title": "Moonshot lança o Kimi Code CLI",
+          "body": "A MoonshotAI lançou o kimi-code, um CLI de agente de código da mesma casa do Kimi K3.",
+          "source": "github.com/MoonshotAI/kimi-code"
+        },
+        {
+          "title": "jcode: harness de agente para código",
+          "body": "O 1jehuang/jcode se descreve como o harness de agente para código mais inteligente.",
+          "source": "github.com/1jehuang/jcode"
+        },
+        {
+          "title": "harper: corretor gramatical offline em Rust",
+          "body": "O Automattic/harper é um corretor gramatical open-source, offline e escrito em Rust, mantido pela empresa por trás do WordPress.",
+          "source": "github.com/Automattic/harper"
+        },
+        {
+          "title": "Apache Ossie quer padronizar metadados semânticos",
+          "body": "O apache/ossie é um esforço entre indústrias para padronizar como sistemas e agentes trocam metadados semânticos.",
+          "source": "github.com/apache/ossie"
+        },
+        {
+          "title": "ktransformers serve modelos grandes em hardware misto",
+          "body": "O kvcache-ai/ktransformers é um framework flexível para rodar inferência e fine-tune em hardware heterogêneo, misturando GPU, CPU e accelerators.",
+          "source": "github.com/kvcache-ai/ktransformers"
+        },
+        {
+          "title": "Claudexor roteia quota entre coding agents",
+          "body": "O razzant/claudexor, apresentado no Show HN em 21 de julho, faz roteamento com consciência de quota entre Claude Code, Codex e Cursor.",
+          "source": "github.com/razzant/claudexor"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A camada de agente está se consolidando. Coding agents pipocaram, um livro de engenharia de agentes virou o top 1 do GitHub, e o ktransformers mostra o caminho pra servir modelos gastando pouco. A pergunta não é mais se vale usar agente, e sim qual harness e qual roteamento escolher."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-25",
       "date": "2026-07-25",
       "hook": "Opus 5 no topo, e um agente da OpenAI à solta",
