@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-25-03h30",
+      "date": "2026-07-25",
+      "time": "03h30",
+      "hook": "O repique da tarde de ontem não segurou. O Bitcoin amanheceu de volta na parte de baixa do dia, nos 63,9 mil dólares, e ainda não deu sinais de sair do fundo.",
+      "caption": "Depois de subir um pouco na véspera, o preço voltou a cair e segue colado ao ponto mais baixo do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-25-03h30",
+      "link": "https://xbtc.aronpc.dev/#2026-07-25-03h30",
+      "slides": [
+        {
+          "title": "A reação não passou de ensaio",
+          "body": "Depois de subir um pouco na véspera, o preço voltou a cair e segue colado ao ponto mais baixo do dia."
+        },
+        {
+          "title": "US$ 63.954",
+          "body": "Δ1h −0,2% · Δ24h −2,2% · vol US$ 25,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Debruçado sobre a mínima de 24h (63,7k) com Δ24h −2,2% e sem recuperação · Smart money: funding +0,007% + L/S 1,86"
+        },
+        {
+          "title": "O teste é segurar 63,5 mil",
+          "body": "Suporte US$ 63.500 (−0,7%) · Resistência US$ 65.000 (+1,6%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-24-12h31",
       "date": "2026-07-24",
       "time": "12h31",
