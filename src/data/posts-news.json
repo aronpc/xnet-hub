@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-26",
+      "date": "2026-07-26",
+      "hook": "O stack de agente vira mercado",
+      "caption": "O dinheiro foi atrás da infra nativa para agentes autônomos. Pagamentos para agentes de IA, um editor de vídeo operável por MCP, e muito capital em saúde e segurança. As rodadas e lançamentos da semana.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-07-26",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-07-26",
+      "slides": [
+        {
+          "title": "Projetos — 26 de julho",
+          "body": "O dinheiro foi atrás da infra nativa para agentes autônomos. Pagamentos para agentes de IA, um editor de vídeo operável por MCP, e muito capital em saúde e segurança. As rodadas e lançamentos da semana."
+        },
+        {
+          "title": "Palmier Pro: editor de vídeo que agentes operam",
+          "body": "Editor de vídeo nativo do macOS com geração de imagem, vídeo e áudio embutida na timeline. Agentes como Claude e Codex operam o editor por um MCP server local. É open-source e saiu pelo Y Combinator.",
+          "source": {
+            "label": "YC Launch — 24 jul",
+            "url": "https://www.ycombinator.com/launches/QtT-palmier-pro-an-open-source-video-editor-your-agents-can-operate"
+          }
+        },
+        {
+          "title": "Meshy vira unicórnio com US$ 400 mi",
+          "body": "A Meshy, que gera assets 3D a partir de texto e imagem, captou cerca de 400 milhões de dólares em Série B. A valuation ficou em torno de 1,4 a 1,5 bilhão.",
+          "source": {
+            "label": "TechFundingNews — 24 jul",
+            "url": "https://techfundingnews.com/from-mit-research-to-1-5b-unicorn-ethan-hus-meshy-raises-400m-for-ai-powered-3d-creation/"
+          }
+        },
+        {
+          "title": "Natural: US$ 30 mi para pagamentos de agentes",
+          "body": "A Natural captou 30 milhões de dólares em Série A para construir infra de pagamentos nativa para agentes de IA.",
+          "source": {
+            "label": "PRNewswire — 24 jul",
+            "url": "https://www.prnewswire.com/news-releases/natural-raises-30m-series-a-to-build-payments-infrastructure-for-ai-agents-302829855.html"
+          }
+        },
+        {
+          "title": "Neko Health levanta US$ 700 mi",
+          "body": "A Neko Health, rede de scan corporal preventivo guiado por IA, captou 700 milhões de dólares para expandir nos Estados Unidos.",
+          "source": {
+            "label": "AI News — 25 jul",
+            "url": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/"
+          }
+        },
+        {
+          "title": "Empirical Security: US$ 25 mi para prever exploits",
+          "body": "A Empirical Security captou 25 milhões de dólares em Série A para prever explorações e vulnerabilidades com IA.",
+          "source": {
+            "label": "FinSMEs — 24 jul",
+            "url": "https://www.finsmes.com/2026/07/empirical-security-raises-25m-in-series-a-funding.html"
+          }
+        },
+        {
+          "title": "Abstract: US$ 25 mi para SIEM componível com IA",
+          "body": "A Abstract, fundada por um veterano da ArcSight, captou 25 milhões de dólares para um SIEM componível e com IA.",
+          "source": {
+            "label": "RuntimeWire — 24 jul",
+            "url": "https://runtimewire.com/article/colby-derodeff-abstract-raises-25-million-composable-siem"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O dinheiro segue a tese de que agentes autônomos precisam de stack próprio. Pagamentos, edição de vídeo por MCP e identidade jurídica viram categoria. Saúde e segurança continuam atraindo rodadas pesadas, mas o sinal novo é a infra de agente deixando de ser promessa e virando mercado."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-26",
       "date": "2026-07-26",
       "hook": "Lobby contra open-weight, inferência caindo e voz no centro",
