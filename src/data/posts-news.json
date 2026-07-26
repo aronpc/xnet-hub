@@ -2,6 +2,70 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-26",
+      "date": "2026-07-26",
+      "hook": "Claude Code para power-user e o MCP ganha mundo físico e jurídico",
+      "caption": "O Claude Code ganhou remote control pelo navegador e ajustes que servem direto a quem roda provedor não-Anthropic. No ecossistema MCP, um alerta de qualidade em servidores oficiais, MCP para correio físico e até uma casa legal para agentes autônomos. As novidades da semana.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-26",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-26",
+      "slides": [
+        {
+          "title": "Skills e MCP — 26 de julho",
+          "body": "O Claude Code ganhou remote control pelo navegador e ajustes que servem direto a quem roda provedor não-Anthropic. No ecossistema MCP, um alerta de qualidade em servidores oficiais, MCP para correio físico e até uma casa legal para agentes autônomos. As novidades da semana."
+        },
+        {
+          "title": "Claude Code ganha Remote Control pelo navegador",
+          "body": "Novo recurso do Claude Code permite controlar a sessão de CLI a partir do claude.ai slash code. O navegador passa a dirigir o agente local, no desktop ou no mobile. O comando /color agora sincroniza a cor da sessão quando o remote control está ligado.",
+          "source": {
+            "label": "Claude Code docs — 24 jul",
+            "url": "https://code.claude.com/docs/en/remote-control"
+          }
+        },
+        {
+          "title": "Project purge, MCP não-bloqueante e gateway custom",
+          "body": "Entradas recentes do changelog do Claude Code. O comando claude project purge apaga todo o estado do CC de um projeto, com opção de dry-run. O startup do MCP server deixou de bloquear o app, com a variável MCP_TIMEOUT. E o /model passou a listar modelos do endpoint /v1/models do gateway, com ANTHROPIC_CUSTOM_MODEL_OPTION.",
+          "source": {
+            "label": "Claude Code release-notes — 25 jul",
+            "url": "https://docs.claude.com/en/release-notes/claude-code"
+          }
+        },
+        {
+          "title": "MailStream: MCP para correspondência física",
+          "body": "A Sponge Labs lançou o MailStream, descrito como o primeiro MCP server para correio físico. Clientes compatíveis com MCP passam a lidar com correspondência.",
+          "source": {
+            "label": "mcp.so — 25 jul",
+            "url": "https://mcp.so/servers?sort=latest"
+          }
+        },
+        {
+          "title": "goalie-mcp: busca em 14 milhões de marcas USPTO",
+          "body": "MCP server que dá a agentes busca e filtro sobre mais de 14 milhões de registros de marca do USPTO. Não é lookup TSDR, é busca semântica de trademarks.",
+          "source": {
+            "label": "mcp.so — 24 jul",
+            "url": "https://mcp.so/servers/goalie-trademark-search-mcp"
+          }
+        },
+        {
+          "title": "Auditoria mostra MCP oficiais com muita falha",
+          "body": "Um benchmark de MCP servers aponta qualidade baixa em servidores oficiais. MongoDB com 66 erros, Notion 62, Airtable 69 com 66 erros, todoist 67 com 110 erros. O firecrawl-mcp apareceu no fundo, com nota 57 e 134 erros.",
+          "source": {
+            "label": "tengli grading — 25 jul (a confirmar)"
+          }
+        },
+        {
+          "title": "OffshoreProz: casa legal para agente autônomo",
+          "body": "MCP server que dá a um agente de IA autônomo uma casa legal. Uma empresa real, registrada em estado, que passa a pertencer ao agente.",
+          "source": {
+            "label": "Smithery — 25 jul",
+            "url": "https://smithery.ai/servers/offshoreproz/agent-company"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O Claude Code virou ferramenta de power-user, com ajustes quase todos pensados para uso não-Anthropic. O ecossistema MCP amadureceu, mas a auditoria mostra que oficial não é sinônimo de confiável. E nasceu uma categoria inesperada, a infra legal e econômica de agentes, com empresa e pagamentos próprios."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-26",
       "date": "2026-07-26",
       "hook": "O stack de agente vira mercado",
