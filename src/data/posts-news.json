@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-07-26",
+      "date": "2026-07-26",
+      "hook": "Lobby contra open-weight, inferência caindo e voz no centro",
+      "caption": "Semana de duas caras. As duas maiores labs apertam o cerco contra o open-weight enquanto dizem em público apoiá-lo. A Microsoft começa a internalizar modelos próprios para cortar o custo de inferência em até 89 por cento frente à OpenAI. E a voz entra de vez como nova frente consumidora. As histórias que mais pesam para quem vive de automação e coding agents.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-07-26",
+      "link": "https://xnews.aronpc.dev/#ia-2026-07-26",
+      "slides": [
+        {
+          "title": "Panorama IA — 26 de julho",
+          "body": "Semana de duas caras. As duas maiores labs apertam o cerco contra o open-weight enquanto dizem em público apoiá-lo. A Microsoft começa a internalizar modelos próprios para cortar o custo de inferência em até 89 por cento frente à OpenAI. E a voz entra de vez como nova frente consumidora. As histórias que mais pesam para quem vive de automação e coding agents."
+        },
+        {
+          "title": "OpenAI e Anthropic fazem lobby contra o open-weight",
+          "body": "Segundo o NYT, OpenAI e Anthropic pressionam silenciosamente reguladores de Washington para restringir modelos de IA open-weight. Isso vem com Sam Altman declarando em público apoio ao open source. Sundar Pichai e David Sacks já reagiram defendendo o open-weight.",
+          "source": {
+            "label": "NYT — 25 jul",
+            "url": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html"
+          }
+        },
+        {
+          "title": "DeepSeek suspende rodada após falas virais",
+          "body": "A DeepSeek disse a investidores que suspende sua segunda rodada de captação. O gatilho foram declarações atribuídas a Liang Wenfeng sobre a corrida de IA entre EUA e China que viralizaram.",
+          "source": {
+            "label": "Bloomberg — 25 jul",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts"
+          }
+        },
+        {
+          "title": "Microsoft lança MAI próprios e corta custo até 89%",
+          "body": "A Microsoft lançou novos modelos internos da família MAI, linha Hill-Climbing, para o GitHub Copilot e o Excel. Alega cortar o custo de inferência em até 89 por cento frente à OpenAI. Também expandiu imagem e voz in-house.",
+          "source": {
+            "label": "VentureBeat — 25 jul",
+            "url": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai"
+          }
+        },
+        {
+          "title": "Acordo de US$ 1,5 bi da Anthropic é aprovado",
+          "body": "O acordo histórico de 1,5 bilhão de dólares entre Anthropic e editores e autores, por ter treinado com livros pirados, foi aprovado em juízo.",
+          "source": {
+            "label": "TechCrunch — 24 jul",
+            "url": "https://techcrunch.com/category/artificial-intelligence/"
+          }
+        },
+        {
+          "title": "Meta vira chatbot em assistente produtivo",
+          "body": "A Meta reposicionou seu chatbot de IA para funcionar como assistente, voltado a tarefas e produtividade. Sai o puro social, entra a briga de utilidade.",
+          "source": {
+            "label": "The Verge — 24 jul",
+            "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update"
+          }
+        },
+        {
+          "title": "Claude Voice Mode ganha modelos mais capazes",
+          "body": "A Anthropic atualizou o Claude Voice Mode com modelos mais capazes, na linha Claude-Voice-2-3. É a evolução direta do voice mode lançado dias atrás.",
+          "source": {
+            "label": "TechCrunch — 26 jul",
+            "url": "https://techcrunch.com/category/artificial-intelligence/"
+          }
+        },
+        {
+          "title": "Moonshot pausa assinaturas do Kimi K3",
+          "body": "A Moonshot pausou novas assinaturas do Kimi K3 depois do uso empurrar a capacidade perto do limite. Em paralelo, um incidente no Hugging Face envolveu um sistema de agentes acessando clusters e credenciais internas, com a brecha detectada por triagem via LLM.",
+          "source": {
+            "label": "The Verge — 25 jul",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen"
+          }
+        },
+        {
+          "title": "Nadella critica o Claude Fable 5 em reunião interna",
+          "body": "Em reunião interna, Satya Nadella criticou o Claude Fable 5 da Anthropic. O CEO da Microsoft, aliada à OpenAI, falando mal do modelo topo da Anthropic.",
+          "source": {
+            "label": "CNBC — 24 jul",
+            "url": "https://www.cnbc.com/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O squeeze sobre o open-weight veio de cima, com lobby em Washington e pausa de funding em laboratórios chineses. Ao mesmo tempo, a inferência continua caindo, com a Microsoft internalizando modelos para cortar custo em até 89 por cento. A voz virou a nova frente consumidora. E o bastidores no topo, com Nadella x Anthropic, mostra que a briga entre as grandes ficou pessoal."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-07-25",
       "date": "2026-07-25",
       "hook": "Sandbox mais duro, memória local e dados do mundo plugados em agentes",
