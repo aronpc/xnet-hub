@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-25-22h31",
+      "date": "2026-07-25",
+      "time": "22h31",
+      "hook": "Depois de uma madrugada na parte de baixa, o Bitcoin devolveu o que tinha perdido e foi parar no topo do dia, perto dos 64,5 mil dólares.",
+      "caption": "Saiu do fundo, subiu até a máxima de 24h e ficou por ali, sem definir o próximo passo.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-25-22h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-25-22h31",
+      "slides": [
+        {
+          "title": "Subiu e encostou no teto do dia",
+          "body": "Saiu do fundo, subiu até a máxima de 24h e ficou por ali, sem definir o próximo passo."
+        },
+        {
+          "title": "US$ 64.426",
+          "body": "Δ1h +0,03% · Δ24h +0,68% · vol US$ 14,4 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Encostou na máxima de 24h (64,5k) numa vela de pouco volume · Smart money: funding +0,004% + L/S 1,81"
+        },
+        {
+          "title": "O dia se decide perto dos 64,5 mil",
+          "body": "Zona de baixa US$ 64.000 (−0,7%) · Teto do dia US$ 64.500 (+0,1%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-25-03h30",
       "date": "2026-07-25",
       "time": "03h30",
