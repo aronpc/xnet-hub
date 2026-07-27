@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-07-27",
+      "date": "2026-07-27",
+      "hook": "IA virou commodity — e o capital fugiu pros gigawatts",
+      "caption": "A semana em que a IA virou commodity roteável por preço, enquanto o capital se concentrou em mega-data-centers e chips próprios.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-07-27",
+      "link": "https://xnews.aronpc.dev/#ia-2026-07-27",
+      "slides": [
+        {
+          "title": "Panorama IA — 27 de julho",
+          "body": "A semana em que a IA virou commodity roteável por preço, enquanto o capital se concentrou em mega-data-centers e chips próprios."
+        },
+        {
+          "title": "Nvidia quer garantir US$ 250 bi para a OpenAI",
+          "body": "A Nvidia negocia um backstop de cerca de US$ 250 bilhões em financiamento para a OpenAI, dentro do data center de 10 GW que a SoftBank constrói em Ohio.",
+          "source": {
+            "label": "WSJ — 26 jul",
+            "url": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3"
+          }
+        },
+        {
+          "title": "CXMT estreia em Xangai e vale US$ 487 bi",
+          "body": "A chinesa CXMT saltou até 470% no debut em Xangai e virou a empresa listada mais valiosa da China, com valor de mercado perto de US$ 487 bilhões. O IPO levantou US$ 9,8 bilhões.",
+          "source": {
+            "label": "CNBC — 27 jul",
+            "url": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html"
+          }
+        },
+        {
+          "title": "De \"tokenmaxxing\" a \"thrift-maxxing\"",
+          "body": "O WSJ mostra empresas americanas misturando modelos chineses mais baratos com OpenAI e Anthropic para cortar a conta de tokens.",
+          "source": {
+            "label": "WSJ — 26 jul",
+            "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96"
+          }
+        },
+        {
+          "title": "Falta de compute faz a Microsoft escolher ela mesma",
+          "body": "Com o compute apertado, a Microsoft está priorizando seus próprios produtos de IA em vez dos clientes do Azure. É o ano mais difícil de Satya Nadella.",
+          "source": {
+            "label": "Business Insider — 26 jul",
+            "url": "https://www.businessinsider.com/inside-nadella-hardest-year-microsoft-ai-azure-github-2026-7"
+          }
+        },
+        {
+          "title": "Apple adia óculos de IA por causa da Meta",
+          "body": "A Apple pode ter atrasado os óculos de IA em parte por receios de privacidade que a categoria ganhou depois dos óculos da Meta.",
+          "source": {
+            "label": "Bloomberg — 26 jul",
+            "url": "https://www.bloomberg.com/news/newsletters/2026-07-26/apple-glasses-may-debut-at-wwdc-2027-privacy-camera-features-versus-meta-ms1v7lta"
+          }
+        },
+        {
+          "title": "Yale e outras universidades desistem de detectores de IA",
+          "body": "Yale, Johns Hopkins e Waterloo restringiram ou desativaram o uso de detectores de IA por causa da imprecisão.",
+          "source": {
+            "label": "FT — 26 jul",
+            "url": "https://www.ft.com/content/49304b1e-8a9d-4fb6-bc4d-37dd3430bb98"
+          }
+        },
+        {
+          "title": "Kimi K3 ainda fica atrás em ciber",
+          "body": "Avaliação preliminar conjunta do UK AISI e do US CAISI conclui que o Kimi K3, da Moonshot, fica atrás dos modelos fechados americanos em capacidade cibernética.",
+          "source": {
+            "label": "UK AISI — 26 jul",
+            "url": "https://www.aisi.gov.uk/blog/preliminary-assessment-of-kimi-k3s-cyber-capabilities"
+          }
+        },
+        {
+          "title": "EUA e China concordam em apoiar modelos abertos",
+          "body": "EUA, China e outras economias da APEC divulgaram declaração a favor de modelos abertos, com ênfase em segurança, proteção de dados e propriedade intelectual.",
+          "source": {
+            "label": "CNBC — 24 jul",
+            "url": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "IA vira commodity roteável por preço, enquanto o capital se concentra em mega-data-centers de 10 GW e em chips próprios. O consenso EUA-China pela via aberta sustenta os modelos que a gente consome todo dia."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-07-26",
       "date": "2026-07-26",
       "hook": "Claude Code para power-user e o MCP ganha mundo físico e jurídico",
