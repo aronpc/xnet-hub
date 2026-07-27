@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-27",
+      "date": "2026-07-27",
+      "hook": "Guardrails e portabilidade levando agentes à produção",
+      "caption": "A bateria de guardrails e a portabilidade de harness que aproximam agentes da produção, com uma linguagem de design que ressoa num design system centralizado.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-27",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-27",
+      "slides": [
+        {
+          "title": "Skills e MCP — 27 de julho",
+          "body": "A bateria de guardrails e a portabilidade de harness que aproximam agentes da produção, com uma linguagem de design que ressoa num design system centralizado."
+        },
+        {
+          "title": "Hook de 60 linhas impede o Claude de tocar no .env",
+          "body": "Um hook PreToolUse enxuto, de 60 linhas, bloqueia o Claude Code de ler ou editar arquivos sensíveis como o .env.",
+          "source": "github.com/avenna01-ceo/claude-code-survival-kr/tree/main/guard"
+        },
+        {
+          "title": "Anyclaude-SDK: o loop do Claude Code em outros provedores",
+          "body": "O Anyclaude-SDK é um SDK estilo Claude Code que roda contra endpoints OpenAI e Anthropic, permitindo reusar o loop e as ferramentas do Claude Code com outros provedores.",
+          "source": "github.com/pipilot-dev/anyclaude-sdk"
+        },
+        {
+          "title": "Wmux: um tmux para múltiplos agentes",
+          "body": "Wmux é um multiplexador de workspaces para agentes de IA, gerenciando várias sessões e contextos em paralelo, como um tmux para agentes.",
+          "source": "github.com/openwong2kim/wmux"
+        },
+        {
+          "title": "Impeccable: a linguagem de design que melhora o harness",
+          "body": "Impeccable, em alta no GitHub, é descrita como a linguagem e os tokens de design que deixam um harness de IA melhor em design: um design system para agentes gerarem UI.",
+          "source": "github.com/pbakaus/impeccable"
+        },
+        {
+          "title": "Hubo: dois agentes implementam e revisam até concordar",
+          "body": "Hubo é um harness de dois agentes, um implementa e outro revisa, que iteram até chegar a um acordo sobre o código.",
+          "source": "github.com/h0ngcha0/hubo"
+        },
+        {
+          "title": "ModelFuzz: guardrails de runtime open-source",
+          "body": "ModelFuzz oferece guardrails de runtime open-source para agentes de IA, uma camada de proteção e fuzzing que vigia e restringe ações em execução.",
+          "source": "modelfuzz.com"
+        },
+        {
+          "title": "Claude-cookbooks, do próprio Anthropic, volta a subir",
+          "body": "O repositório oficial anthropics/claude-cookbooks, com receitas e notebooks de como usar o Claude, voltou ao trending do GitHub ganhando centenas de estrelas por dia.",
+          "source": "github.com/anthropics/claude-cookbooks"
+        },
+        {
+          "title": "Aisuite, do Andrew Ng, sobe no GitHub",
+          "body": "O andrewyng/aisuite oferece uma interface simples e unificada para múltiplos provedores de IA generativa e segue em alta no trending.",
+          "source": "github.com/andrewyng/aisuite"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Guardrails (hook anti-.env e ModelFuzz) e portabilidade de harness (Anyclaude e Aisuite) convergem para agentes em produção. Impeccable ressoa direto num design system centralizado."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-27",
       "date": "2026-07-27",
       "hook": "FinOps e orquestração de agentes dominam a rodada",
