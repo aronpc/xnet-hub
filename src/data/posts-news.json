@@ -2,6 +2,67 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-27",
+      "date": "2026-07-27",
+      "hook": "FinOps e orquestração de agentes dominam a rodada",
+      "caption": "A rodada em que FinOps de tokens e orquestração multi-agente viraram categoria, com um TTS que roda no navegador ameaçando a própria narração destes stories.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-07-27",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-07-27",
+      "slides": [
+        {
+          "title": "Projetos e repos — 27 de julho",
+          "body": "A rodada em que FinOps de tokens e orquestração multi-agente viraram categoria, com um TTS que roda no navegador ameaçando a própria narração destes stories."
+        },
+        {
+          "title": "Prentis quer levantar US$ 1 bi com computer-use",
+          "body": "A Prentis, laboratório de modelos de computer-use co-fundada por Reid Hoffman e Marc Pincus, negocia levantar US$ 100 milhões a uma avaliação de US$ 1 bilhão.",
+          "source": {
+            "label": "TechCrunch — 25 jul",
+            "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/"
+          }
+        },
+        {
+          "title": "Cognition compra o Poke pela personalidade",
+          "body": "A Cognition, dona do Devin, comprou os criadores do Poke, um assistente de IA acessível por mensagens, em acordo que avalia a empresa em \"nove dígitos baixos\".",
+          "source": {
+            "label": "TechCrunch — 25 jul",
+            "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/"
+          }
+        },
+        {
+          "title": "Unitree enviou 5.500 humanoides e prepara IPO",
+          "body": "A Unitree, de Hangzhou, enviou 5.500 robôs humanoides em 2025, mais de 25% do mercado global, enquanto se prepara para um IPO em Xangai.",
+          "source": {
+            "label": "Time — 25 jul",
+            "url": "https://time.com/article/2026/07/23/unitree-china-human-robotics/"
+          }
+        },
+        {
+          "title": "Forkbench: sala de controle para vários agentes CLI",
+          "body": "Forkbench é uma sala de controle nativa para Mac que roda vários agentes de código em CLI, como Claude Code e Codex, em paralelo, deixando comparar e dirigir cada um.",
+          "source": "forkbench.com"
+        },
+        {
+          "title": "Wattage transforma custo de tokens em gate de CI",
+          "body": "Wattage é um profiler open-source de gasto de tokens e um gate de regressão de custo para agentes de IA, transformando custo em métrica contínua de CI.",
+          "source": "github.com/faizannraza/wattage"
+        },
+        {
+          "title": "RelQL: queries em cima de foundation models",
+          "body": "A RelativeDB lançou o RelQL, um motor de consulta open-source para foundation models relacionais, que trata modelos como fonte de dado consultável.",
+          "source": "github.com/RelativeDB/RelQL"
+        },
+        {
+          "title": "Inflect TTS roda no navegador com 9M de parâmetros",
+          "body": "O Inflect TTS v2, com export ONNX, entrega modelos de text-to-speech de apenas 9M e 4M de parâmetros rodando inteiros no navegador.",
+          "source": "inflect-tts.geronimo-labs.com"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "FinOps de agentes (Wattage) e orquestração multi-agente (Forkbench) viram categoria. TTS no navegador (Inflect) ameaça e complementa a própria narração destes stories."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-27",
       "date": "2026-07-27",
       "hook": "IA virou commodity — e o capital fugiu pros gigawatts",
