@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-27-14h31",
+      "date": "2026-07-27",
+      "time": "14h31",
+      "hook": "O preço segurou o fundo do intervalo e voltou a subir na última hora. Depois de encostar na mínima de 24 horas, fecha em alta pela primeira vez desde a queda da manhã, mas ainda não superou a máxima recente.",
+      "caption": "BTC a US$ 64.937, subindo da mínima de 24h após a queda da manhã.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-27-14h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-27-14h31",
+      "slides": [
+        {
+          "title": "Sai do fundo do intervalo",
+          "body": "BTC a US$ 64.937, subindo da mínima de 24h após a queda da manhã."
+        },
+        {
+          "title": "US$ 64.937",
+          "body": "Δ1h +0,37% · Δ24h +0,42% · volume US$ 24,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Três velas seguidas em alta saindo da mínima de 24h (64.418) e o Δ24h voltou a ficar positivo · Smart Money: funding +0,004% + L/S 1,56",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Máxima da manhã ainda no caminho",
+          "body": "Suporte US$ 64.418 (−0,8%) · Resistência US$ 65.745 (+1,2%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-27-11h32",
       "date": "2026-07-27",
       "time": "11h32",
