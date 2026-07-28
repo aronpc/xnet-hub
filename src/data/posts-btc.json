@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-28-16h32",
+      "date": "2026-07-28",
+      "time": "16h32",
+      "hook": "A queda da madrugada perdeu força à tarde e o BTC passou horas parado perto de US$ 63,7 mil, sem sair do lugar",
+      "caption": "Depois de encostar em US$ 63 mil de manhã, o BTC parou de cair e o viés virou lateral.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-28-16h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-28-16h32",
+      "slides": [
+        {
+          "title": "A venda arrefeceu e o preço estacionou numa faixa estreita",
+          "body": "Depois de encostar em US$ 63 mil de manhã, o BTC parou de cair e o viés virou lateral."
+        },
+        {
+          "title": "US$ 63.724",
+          "body": "Δ1h +0,1% · Δ24h −1,84% · vol US$ 25,7B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A pressão de venda amainou e o preço ficou oscilando na parte baixa da faixa do dia · Smart Money: funding +0,01% + L/S 1,76",
+          "source": "https://www.coinglass.com/"
+        },
+        {
+          "title": "Volume 2,7× acima da média no fundo: sinal de absorção",
+          "body": "Enquanto os US$ 63 mil segurarem, a leitura segue lateral; abaixo disso, a próxima referência é a mínima de US$ 62,7 mil."
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura horária do Bitcoin em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-28-03h31",
       "date": "2026-07-28",
       "time": "03h31",
