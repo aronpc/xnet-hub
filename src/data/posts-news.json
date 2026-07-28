@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-07-28",
+      "date": "2026-07-28",
+      "hook": "Roubar modelo virou acusação oficial, e o agente barato virou estratégia.",
+      "caption": "A Casa Branca acusa a chinesa Moonshot de ter destilado o Fable, da Anthropic, para fabricar o Kimi K3. No mesmo compasso, a OpenAI dobra de tamanho no coding e o Cursor aponta que o modelo caro só precisa fazer o planejamento.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-07-28",
+      "link": "https://xnews.aronpc.dev/#ia-2026-07-28",
+      "slides": [
+        {
+          "title": "Radar IA — 28 de julho",
+          "body": "A Casa Branca acusa a chinesa Moonshot de ter destilado o Fable, da Anthropic, para fabricar o Kimi K3. No mesmo compasso, a OpenAI dobra de tamanho no coding e o Cursor aponta que o modelo caro só precisa fazer o planejamento."
+        },
+        {
+          "title": "Casa Branca acusa: Moonshot destilou o Fable para o Kimi K3",
+          "body": "O enviado da Casa Branca, Michael Kratsios, acusou publicamente a Moonshot de ter destilado o modelo Fable, da Anthropic, para construir o Kimi K3 em versão aberta. É a acusação técnica por trás da ofensiva contra modelos chineses abertos.",
+          "source": {
+            "label": "The Verge — 27 jul",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen"
+          }
+        },
+        {
+          "title": "Google e OpenAI reclamam de ataques de destilação",
+          "body": "The Decoder reporta que Google e OpenAI passaram a reclamar oficialmente de ataques nos quais rivais clonam modelos proprietários só a partir das saídas, pagando uma fração do custo.",
+          "source": {
+            "label": "The Decoder — 26 jul",
+            "url": "https://the-decoder.com/google-and-openai-complain-about-distillation-attacks-that-clone-their-ai-models-on-the-cheap/"
+          }
+        },
+        {
+          "title": "METR põe número: quando o agente fica mais caro que o humano",
+          "body": "O laboratório de avaliação METR publicou uma métrica que calcula o ponto exato em que rodar um agente de IA sai mais caro do que contratar uma pessoa para a mesma tarefa.",
+          "source": {
+            "label": "The Decoder — 27 jul",
+            "url": "https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/"
+          }
+        },
+        {
+          "title": "OpenAI chega a 10 milhões em Codex e ChatGPT Work",
+          "body": "A Bloomberg reporta que a OpenAI atingiu 10 milhões de usuários em Codex e ChatGPT Work, quase o dobro do início do mês, depois do lançamento do ChatGPT Work.",
+          "source": {
+            "label": "Bloomberg — 21 jul",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-agents-reach-10-million-users-after-chatgpt-work-debut"
+          }
+        },
+        {
+          "title": "Gemma 4 ganha update furtivo e muda de comportamento",
+          "body": "The Decoder flagrou uma atualização discreta do Gemma 4, sem anúncio e sob o mesmo nome, que conserta bugs de tool-calling e de respostas truncadas.",
+          "source": {
+            "label": "The Decoder — 26 jul",
+            "url": "https://the-decoder.com/gemma-4-gets-a-stealth-update-that-fixes-tool-calling-bugs-and-truncated-responses-under-the-same-name/"
+          }
+        },
+        {
+          "title": "App do Gemini se aproxima de 1 bilhão de usuários",
+          "body": "O TechCrunch reporta que o app do Gemini está perto da marca de 1 bilhão de usuários, o marco de escala consumidora do concorrente direto do ChatGPT.",
+          "source": {
+            "label": "TechCrunch — 27 jul",
+            "url": "https://techcrunch.com/category/artificial-intelligence/"
+          }
+        },
+        {
+          "title": "Google quer queimar o Gemini direto no chip (2028)",
+          "body": "The Information e TechCrunch reportam que a Google desenvolve um chip de servidor chamado Frozen v2 que integra o blueprint do Gemini direto no silício, com meta de 2028.",
+          "source": {
+            "label": "The Decoder — 20 jul",
+            "url": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Roubar modelo virou caso técnico, com acusação pública de destilação. Ao mesmo tempo, o agente barato ganha força: a OpenAI dobra no coding e o Cursor mostra que o modelo caro só precisa planejar. A fronteira agora é decidir quem copia quem e a quanto."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-07-27",
       "date": "2026-07-27",
       "hook": "Guardrails e portabilidade levando agentes à produção",
