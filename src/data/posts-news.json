@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-28",
+      "date": "2026-07-28",
+      "hook": "O dinheiro pesado foi para robôs e materiais; a aposta contrária é o agente de fábrica.",
+      "caption": "A robótica segue como a categoria mais quente de captação, com a Genesis mirando US$ 3 bilhões e a Humanoid virando unicórnio em Londres. No meio disso, a Arrakis aposta que o maior retorno da IA está na indústria, não no escritório.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-07-28",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-07-28",
+      "slides": [
+        {
+          "title": "Radar Projetos — 28 de julho",
+          "body": "A robótica segue como a categoria mais quente de captação, com a Genesis mirando US$ 3 bilhões e a Humanoid virando unicórnio em Londres. No meio disso, a Arrakis aposta que o maior retorno da IA está na indústria, não no escritório."
+        },
+        {
+          "title": "Genesis AI negocia rodada a US$ 3 bilhões",
+          "body": "A Bloomberg reporta que a startup de robótica Genesis AI está em negociações para levantar cerca de US$ 500 milhões numa rodada que daria à empresa valuation de US$ 3 bilhões.",
+          "source": {
+            "label": "Bloomberg — 23 jul",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million"
+          }
+        },
+        {
+          "title": "Humanoid vira unicórnio em Londres com US$ 152 mi",
+          "body": "A Forbes reporta que a robótica londrina Humanoid levantou US$ 152 milhões de Série A liderada pela Prime Movers Lab, a US$ 1,35 bilhão de valuation pós-dinheiro. Foram US$ 270 milhões no total.",
+          "source": {
+            "label": "Forbes — 21 jul",
+            "url": "https://www.forbes.com/sites/johnkoetsier/2026/07/21/humanoid-raises-152-million-at-135-billion-valuation-europes-newest-robot-unicorn/"
+          }
+        },
+        {
+          "title": "CuspAI levanta US$ 450 mi para descobrir novos materiais",
+          "body": "A CuspAI anunciou US$ 450 milhões de Série B, cerca de 334 milhões de libras, e o lançamento da AI Materials Foundry, aplicando IA para descobrir novos materiais.",
+          "source": {
+            "label": "UKTN — 20 jul",
+            "url": "https://www.uktech.news/ai/cuspai-raises-334m-and-launches-ai-materials-foundry-20260720"
+          }
+        },
+        {
+          "title": "Arrakis sai do stealth apostando em agentes de fábrica",
+          "body": "A Fortune reporta que a Arrakis, que faz agentes de IA para empresas industriais, saiu do stealth com US$ 7,5 milhões de seed e US$ 30 milhões de Série A, a US$ 140 milhões pós-dinheiro.",
+          "source": {
+            "label": "Fortune — 22 jul",
+            "url": "https://fortune.com/2026/07/22/arrakis-a-startup-betting-ais-biggest-payoff-is-in-industrial-sectors-not-office-work-emerges-from-stealth-with-38-million-in-venture-funding/"
+          }
+        },
+        {
+          "title": "SkyPilot, do cofundador da Databricks, quer ser a Suíça das GPUs",
+          "body": "A Fortune reporta que a SkyPilot, de orquestração de GPU fundada por Ion Stoica, cofundador da Databricks, levantou US$ 20 milhões de seed liderada pela Lux para ser neutra entre hardware e nuvem.",
+          "source": {
+            "label": "Fortune — 21 jul",
+            "url": "https://fortune.com/2026/07/21/skypilot-from-databricks-cofounder-raises-20m-to-be-the-switzerland-of-ai-compute/"
+          }
+        },
+        {
+          "title": "DocsGPT sobe no GitHub: chat com docs e agentes",
+          "body": "O projeto arc53/DocsGPT, em Python com cerca de 18,1 mil estrelas, subiu no GitHub Trending. Faz pesquisa e análise de documentos, com suporte a vários modelos e conectividade para agentes.",
+          "source": {
+            "label": "GitHub — 28 jul",
+            "url": "https://github.com/arc53/DocsGPT"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O capital pesado continua indo para o mundo físico: robôs com valuation de bilhões e IA para descobrir materiais. A aposta mais interessante é a contrária, da Arrakis, de que agentes rendem mais na fábrica do que no escritório, junto com o compute neutro da SkyPilot para escapar do custo de GPU."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-28",
       "date": "2026-07-28",
       "hook": "Roubar modelo virou acusação oficial, e o agente barato virou estratégia.",
