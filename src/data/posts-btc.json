@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-27-21h31",
+      "date": "2026-07-27",
+      "time": "21h31",
+      "hook": "Depois de quase duas horas apertado nesse nível, o preço passou direto dos US$ 63.600 e cravou nova mínima de 24 horas, a US$ 63.558.",
+      "caption": "A queda ganhou fôlego nas últimas três velas e o funding foi parar perto de zero.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-27-21h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-27-21h31",
+      "slides": [
+        {
+          "title": "Os US$ 63.600 não aguentaram",
+          "body": "A queda ganhou fôlego nas últimas três velas e o funding foi parar perto de zero."
+        },
+        {
+          "title": "US$ 63.558",
+          "body": "Δ1h −0,45% · Δ24h −2,4% · volume US$ 26,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Renovou a mínima de 24h logo abaixo dos US$ 63,6k · Smart Money: funding +0,003% (quase zero) e L/S 1,69",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Os US$ 63.500 são a parada agora",
+          "body": "Suporte US$ 63.500 (mín 24h, −0,1%) · resistência US$ 64.000 (+0,7%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-27-20h30",
       "date": "2026-07-27",
       "time": "20h30",
