@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-28-03h31",
+      "date": "2026-07-28",
+      "time": "03h31",
+      "hook": "O BTC caiu 3% no dia e operou perto da mínima de 24 horas, num clima de medo que voltou a pesar",
+      "caption": "Perdeu os US$ 64 mil, encostou em US$ 63 mil e ainda não mostrou reação que convença.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-28-03h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-28-03h31",
+      "slides": [
+        {
+          "title": "Dia de queda forte, e o preço sem forças para sair do fundo",
+          "body": "Perdeu os US$ 64 mil, encostou em US$ 63 mil e ainda não mostrou reação que convença."
+        },
+        {
+          "title": "US$ 63.450",
+          "body": "Δ1h −0,01% · Δ24h −3,07% · vol US$ 26,4B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O primeiro repique do dia ainda não convenceu e o preço segue preso lá embaixo · Smart Money: funding −0,001% + L/S 1,91"
+        },
+        {
+          "title": "Tudo passa por segurar os US$ 63 mil",
+          "body": "Suporte US$ 63.000 (−0,7%) · Resistência US$ 64.000 (+0,9%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura horária do Bitcoin em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-27-22h31",
       "date": "2026-07-27",
       "time": "22h31",
