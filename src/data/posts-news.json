@@ -2,6 +2,55 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-28",
+      "date": "2026-07-28",
+      "hook": "Edição magra: o Cursor mostra que o modelo caro só precisa planejar.",
+      "caption": "A coleta foi mais apertada nesta área, com só quatro pautas. Mas o sinal-âncora é forte: o padrão agent swarm do Cursor aponta que o modelo frontier pode só planejar, enquanto modelos baratos fazem a maior parte do código.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-28",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-28",
+      "slides": [
+        {
+          "title": "Radar Skills & MCP — 28 de julho",
+          "body": "A coleta foi mais apertada nesta área, com só quatro pautas. Mas o sinal-âncora é forte: o padrão agent swarm do Cursor aponta que o modelo frontier pode só planejar, enquanto modelos baratos fazem a maior parte do código."
+        },
+        {
+          "title": "Cursor: modelo caro planeja, barato executa",
+          "body": "The Decoder reporta o padrão agent swarm do Cursor, no qual um modelo frontier faz o planejamento e modelos mais baratos executam a maior parte do código.",
+          "source": {
+            "label": "The Decoder — 27 jul",
+            "url": "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/"
+          }
+        },
+        {
+          "title": "ego-lite: companheiro do Claude Code que não atrapalha",
+          "body": "O projeto citrolabs/ego-lite, em JavaScript com cerca de 2,7 mil estrelas, subiu no GitHub Trending. É um companheiro que roda junto ao Claude Code sem te atrapalhar, com custo e configuração zerados.",
+          "source": {
+            "label": "GitHub — 28 jul",
+            "url": "https://github.com/citrolabs/ego-lite"
+          }
+        },
+        {
+          "title": "claude-video: entrega frames e transcrição ao Claude",
+          "body": "O projeto bradautomates/claude-video, em Python com cerca de 11,3 mil estrelas, pega um vídeo, extrai os frames, transcreve e entrega tudo ao Claude para análise.",
+          "source": {
+            "label": "GitHub — 28 jul",
+            "url": "https://github.com/bradautomates/claude-video"
+          }
+        },
+        {
+          "title": "Alibaba lança open-code-review multi-provider",
+          "body": "O projeto alibaba/open-code-review, em Go com cerca de 11,7 mil estrelas, é um reviewer de IA que detecta problemas como thread-safety, XSS e injeção de SQL, compatível com APIs da OpenAI e da Anthropic.",
+          "source": {
+            "label": "GitHub — 28 jul",
+            "url": "https://github.com/alibaba/open-code-review"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O sinal para levar é o agent swarm do Cursor: quando o plano é bom, o modelo barato cobre o código. É um padrão de roteamento de custo que vale formalizar. O resto é a borda do harness crescendo, com observador passivo, entrada de vídeo e mais um reviewer."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-28",
       "date": "2026-07-28",
       "hook": "O dinheiro pesado foi para robôs e materiais; a aposta contrária é o agente de fábrica.",
