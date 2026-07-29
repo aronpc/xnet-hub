@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-29",
+      "date": "2026-07-29",
+      "hook": "O MCP passou a não guardar estado, e o Claude Code ficou com skills vivas e hooks de verdade.",
+      "caption": "Edição curta, com só quatro pautas, mas o sinal-âncora é dos grandes. A Anthropic liberou o update MCP 2026-07-28, descrito como o maior desde o lançamento do protocolo: o MCP agora é stateless, o que tira o maior atrito para escalar servidores remotos. No mesmo pacote, o Claude Code ganhou skills vivas no slash menu e hooks mais rígidos.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-29",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-29",
+      "slides": [
+        {
+          "title": "Skills & MCP — 29 de julho",
+          "body": "Edição curta, com só quatro pautas, mas o sinal-âncora é dos grandes. A Anthropic liberou o update MCP 2026-07-28, descrito como o maior desde o lançamento do protocolo: o MCP agora é stateless, o que tira o maior atrito para escalar servidores remotos. No mesmo pacote, o Claude Code ganhou skills vivas no slash menu e hooks mais rígidos."
+        },
+        {
+          "title": "MCP vira stateless no maior update do protocolo",
+          "body": "A Anthropic liberou o update MCP 2026-07-28, o maior desde o lançamento do protocolo. O MCP passa a ser stateless, sem guardar estado de sessão, o que facilita deployar e escalar servidores remotos.",
+          "source": {
+            "label": "Anthropic (X) — 28 jul",
+            "url": "https://x.com/claudedevs/status/2082164248697069935"
+          }
+        },
+        {
+          "title": "Skills aparecem no slash menu sem restart",
+          "body": "Novo release do Claude Code: skills e commands alterados durante a sessão agora aparecem no slash menu sem precisar reiniciar. Também corrigiu o bug em que plugin-skills perdiam o prefixo no autocomplete.",
+          "source": {
+            "label": "GitHub — 29 jul",
+            "url": "https://github.com/anthropics/claude-code/releases"
+          }
+        },
+        {
+          "title": "Hooks mais rígidos e hardening de plugin e MCP",
+          "body": "No mesmo release, um PreToolUse hook com decisão ask passa a obrigar prompt, o auto mode não sobrescreve mais. E houve hardening contra shell-injection em plugin hooks e no headersHelper de MCP, rejeitando variáveis como user config em shell-form e exigindo exec form.",
+          "source": {
+            "label": "GitHub — 29 jul",
+            "url": "https://github.com/anthropics/claude-code/releases"
+          }
+        },
+        {
+          "title": "Catálogo de MCP cresce para além de devs",
+          "body": "O mcp.so e a Glama listaram novos servidores publicados, como o FT Optix MCP, o DataNexus MCP com dados de governo, legal e compliance, o Desk3 e o GJQ Runtime MCP, de cloud e IA.",
+          "source": {
+            "label": "mcp.so — 29 jul",
+            "url": "https://mcp.so/"
+          }
+        },
+        {
+          "title": "MCP vira produto litigioso: RunLayer processa a Rippling",
+          "body": "A RunLayer, startup que constrói servidores MCP, processou a Rippling por suposto roubo de segredo comercial da sua ideia de produto de agentes. É a primeira briga judicial em torno de uma startup de MCP.",
+          "source": {
+            "label": "TechCrunch — 28 jul",
+            "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O sinal para levar é a virada de maturidade do MCP. O protocolo passou a não guardar estado, no maior update desde o lançamento, e o Claude Code ficou com skills vivas no slash menu e hooks que obrigam confirmação. Junto disso, a primeira briga judicial de uma startup de MCP mostra que a categoria virou produto. Para quem roda servidores próprios, é hora de validar o spec stateless."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-29",
       "date": "2026-07-29",
       "hook": "O dinheiro correu para a fronteira de compute e nasceu uma categoria nova: governança de agentes.",
