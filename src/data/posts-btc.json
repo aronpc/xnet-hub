@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-29-14h31",
+      "date": "2026-07-29",
+      "time": "14h31",
+      "hook": "A alta da manhã não segurou. O preço desceu de volta para a faixa mais baixa do dia e segue sem direção, com o medo ainda pesando no humor do mercado.",
+      "caption": "Depois de chegar perto da máxima de 24 horas logo cedo, o embalo se perdeu e o preço voltou a flutuar junto da mínima do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-29-14h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-29-14h31",
+      "slides": [
+        {
+          "title": "Recuperação esfria e o BTC volta ao começo do intervalo",
+          "body": "Depois de chegar perto da máxima de 24 horas logo cedo, o embalo se perdeu e o preço voltou a flutuar junto da mínima do dia."
+        },
+        {
+          "title": "US$ 63.710",
+          "body": "Δ1h −0,42% · Δ24h +0,03% · vol US$ 23,7B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Dia parado, preço grudado na faixa de baixo sem fechar acima nem abaixo de nada relevante · Smart Money: funding +0,006% + L/S 1,51",
+          "source": "https://www.coinglass.com/"
+        },
+        {
+          "title": "O movimento das próximas horas passa por US$ 63.500 e US$ 64.100",
+          "body": "Suporte US$ 63.500 (−0,33%) · Resistência US$ 64.100 (+0,61%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura horária do Bitcoin em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-29-05h33",
       "date": "2026-07-29",
       "time": "05h33",
