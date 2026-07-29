@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-29",
+      "date": "2026-07-29",
+      "hook": "O dinheiro correu para a fronteira de compute e nasceu uma categoria nova: governança de agentes.",
+      "caption": "O funding da semana tem dois eixos. O dinheiro pesado foi para a fronteira de compute, com a Nvidia se aliando à SSI de Sutskever e a SpaceX conversando com o Pentágono. No outro eixo, os agentes ganham contornos de mercado: nasce a categoria de governança de agentes, Andrew Ng aposta em tutores-IA, e a primeira briga judicial envolvendo uma startup de agentes foi a juízo.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-07-29",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-07-29",
+      "slides": [
+        {
+          "title": "Projetos & Repos IA — 29 de julho",
+          "body": "O funding da semana tem dois eixos. O dinheiro pesado foi para a fronteira de compute, com a Nvidia se aliando à SSI de Sutskever e a SpaceX conversando com o Pentágono. No outro eixo, os agentes ganham contornos de mercado: nasce a categoria de governança de agentes, Andrew Ng aposta em tutores-IA, e a primeira briga judicial envolvendo uma startup de agentes foi a juízo."
+        },
+        {
+          "title": "Nvidia faz aposta substancial na SSI de Sutskever",
+          "body": "A Nvidia fez um investimento substancial na Safe Superintelligence, a SSI, startup de Ilya Sutskever, e deu à SSI acesso à próxima arquitetura de GPU, a Vera Rubin. Sutskever diz ter pesquisa digna de escalar.",
+          "source": {
+            "label": "Bloomberg — 27 jul",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-makes-substantial-investment-in-sutskever-s-ai-startup"
+          }
+        },
+        {
+          "title": "SpaceX negocia fornecer compute ao Pentágono",
+          "body": "A SpaceX está em tratativas para fornecer capacidade de data center, na casa de bilhões de dólares, para rodar modelos de IA do esforço do Pentágono.",
+          "source": {
+            "label": "WSJ — 28 jul",
+            "url": "https://www.wsj.com/tech/ai/spacex-in-talks-to-provide-computing-power-for-pentagons-ai-push-15e752e4"
+          }
+        },
+        {
+          "title": "Hush Security levanta US$ 30 mi para governar agentes",
+          "body": "A Hush Security captou 30 milhões de dólares para fechar a lacuna de governança de agentes de IA, com a Akamai entrando como investidora estratégica.",
+          "source": {
+            "label": "PR Newswire — 28 jul",
+            "url": "https://www.prnewswire.com/news-releases/hush-security-raises-30m-to-close-the-ai-agent-governance-gap-with-akamai-joining-as-strategic-investor-302836307.html"
+          }
+        },
+        {
+          "title": "Andrew Ng lança a LearnVector com US$ 100 mi",
+          "body": "Andrew Ng lançou a LearnVector, nova empresa de educação com IA, com 100 milhões de dólares de investimento da Coursera. O objetivo é construir agentes que funcionem como tutores pessoais.",
+          "source": {
+            "label": "Runtime Wire — 28 jul",
+            "url": "https://runtimewire.com/article/andrew-ng-launches-learnvector-coursera-100-million"
+          }
+        },
+        {
+          "title": "Threads libera a Meta AI nas mensagens privadas",
+          "body": "Usuários do Threads agora podem conversar com a Meta AI direto nas mensagens privadas, os DMs. É mais uma superfície da Meta absorvendo o assistente.",
+          "source": {
+            "label": "TechCrunch — 28 jul",
+            "url": "https://techcrunch.com/category/artificial-intelligence/"
+          }
+        },
+        {
+          "title": "RunLayer processa a Rippling e o mercado de agentes vai a juízo",
+          "body": "A RunLayer, startup que faz servidores MCP, processou a Rippling alegando roubo de segredo comercial da sua ideia de produto de agentes. É a primeira disputa judicial de visibilidade envolvendo o setor.",
+          "source": {
+            "label": "TechCrunch — 28 jul",
+            "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O sinal para levar é o eixo do dinheiro. O funding pesado foi para a fronteira de compute, com Nvidia e SSI de um lado e SpaceX a caminho do Pentágono do outro. Em paralelo, os agentes ganham mercado próprio: nasce a categoria de governança, Andrew Ng aposta em tutores, e a primeira briga judicial do setor foi a juízo. Agentes deixaram de ser protótipo e viraram negócio."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-29",
       "date": "2026-07-29",
       "hook": "A semana em que a IA aprendeu a atacar sozinha, e a fronteira de código ficou aberta e barata.",
