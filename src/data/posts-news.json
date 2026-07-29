@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-07-29",
+      "date": "2026-07-29",
+      "hook": "A semana em que a IA aprendeu a atacar sozinha, e a fronteira de código ficou aberta e barata.",
+      "caption": "Dois movimentos se cruzam nesta edição. De um lado, a IA ofensiva autônoma sai da teoria: um modelo da Anthropic acha rachaduras na criptografia da internet e um agente da OpenAI invade uma segunda empresa. Do outro, a fronteira de código chega aberta e barata, com janela de 1 milhão de tokens e preço de agentic despencando.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-07-29",
+      "link": "https://xnews.aronpc.dev/#ia-2026-07-29",
+      "slides": [
+        {
+          "title": "Panorama IA — 29 de julho",
+          "body": "Dois movimentos se cruzam nesta edição. De um lado, a IA ofensiva autônoma sai da teoria: um modelo da Anthropic acha rachaduras na criptografia da internet e um agente da OpenAI invade uma segunda empresa. Do outro, a fronteira de código chega aberta e barata, com janela de 1 milhão de tokens e preço de agentic despencando."
+        },
+        {
+          "title": "Claude Mythos acha rachaduras na cripto da internet",
+          "body": "O Claude Mythos Preview, da Anthropic, descobriu formas de acelerar ataques ao AES em até 800 vezes e também melhorou ataques ao HAWK, um esquema pós-quântico. Boa parte do trabalho foi feita de forma autônoma.",
+          "source": {
+            "label": "Simon Willison — 28 jul",
+            "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/"
+          }
+        },
+        {
+          "title": "Agente da OpenAI invade uma segunda empresa",
+          "body": "O agente de cibersegurança da OpenAI, que já havia invadido a Hugging Face, agora comprometeu a conta da Modal, segundo o CTO Akshat Bubna. Em parceria com a JFrog, o caso rendeu descobertas de zero-days.",
+          "source": {
+            "label": "Reuters — 28 jul",
+            "url": "https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/"
+          }
+        },
+        {
+          "title": "Microsoft entra na briga de ciber com o MAI-Cyber",
+          "body": "A Microsoft lançou o MAI-Cyber-1-Flash, modelo treinado para segurança, junto do Project Perception, um sistema agentic que encontra e corrige falhas. A entrega promete performance de ponta por cerca de metade do custo dos líderes.",
+          "source": {
+            "label": "NYT — 27 jul",
+            "url": "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html"
+          }
+        },
+        {
+          "title": "Ciber-IA vira categoria: Google e Sakana chegam",
+          "body": "O Google liberou o Gemini 3.5 Flash Cyber como alternativa barata e capaz ao Mythos, primeiro para governos e parceiros. A Sakana AI Labs lançou o Fugu-Cyber, modelo de orquestração que lidera benchmarks de segurança.",
+          "source": {
+            "label": "The Verge — 28 jul",
+            "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model"
+          }
+        },
+        {
+          "title": "GLM-5.2 chega com 1 milhão de tokens e licença MIT",
+          "body": "A Z.ai liberou o GLM-5.2, frontier open-weight voltado a código e tarefas agentic de longo horizonte, com janela de 1 milhão de tokens. A Databricks já o otimizou para cerca de 392 tokens por segundo.",
+          "source": {
+            "label": "smol.ai — 29 jul",
+            "url": "https://news.smol.ai/"
+          }
+        },
+        {
+          "title": "Anthropic derruba o preço do agente",
+          "body": "A Anthropic lançou um novo Claude com capacidade agentic, planejamento, uso de browser e terminal, disponível em Claude, Claude Code, API e Managed Agents. O preço promocional fica em US$ 2 por milhão na entrada e US$ 10 na saída, até o início de setembro.",
+          "source": {
+            "label": "smol.ai — 29 jul",
+            "url": "https://news.smol.ai/"
+          }
+        },
+        {
+          "title": "Ornith-1.0: coding models abertos de 9B a 397B",
+          "body": "Foi lançada a Ornith-1.0, família de modelos de código sob licença MIT que vai de 9B a 397B parâmetros, com método de reinforcement learning autodidata e bons resultados em benchmarks de código.",
+          "source": {
+            "label": "smol.ai — 29 jul",
+            "url": "https://news.smol.ai/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O sinal para levar é duplo. A IA ofensiva virou capacidade concreta: modelo rachando cripto e agente invadindo empresas, com a ciber-IA consolidada como categoria. Do outro lado, a fronteira de código ficou aberta e barata, com o GLM-5.2 de 1 milhão de tokens puxando o preço do agente para baixo. As duas pontas andaram juntas nesta semana."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-07-28",
       "date": "2026-07-28",
       "hook": "Edição magra: o Cursor mostra que o modelo caro só precisa planejar.",
