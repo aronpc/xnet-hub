@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-29-05h33",
+      "date": "2026-07-29",
+      "time": "05h33",
+      "hook": "Depois de dois dias pressionado para baixo, o BTC se recuperou do fundo de US$ 62,7 mil e encostou na máxima de 24 horas, com o viés virado para alta mesmo com o medo ainda alto no índice de sentimento (29).",
+      "caption": "Subiu mais de 1% no dia e agora encosta na máxima de US$ 64.588, depois de virar para alta durante a madrugada.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-29-05h33",
+      "link": "https://xbtc.aronpc.dev/#2026-07-29-05h33",
+      "slides": [
+        {
+          "title": "Do fundo de US$ 62,7 mil até esbarrar no teto de 24 horas",
+          "body": "Subiu mais de 1% no dia e agora encosta na máxima de US$ 64.588, depois de virar para alta durante a madrugada."
+        },
+        {
+          "title": "US$ 64.245",
+          "body": "Δ1h −0,32% · Δ24h +1,36% · vol US$ 24,6B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "A recuperação do fundo de US$ 62,7 mil chegou até a máxima de 24 horas e o viés virou junto · Smart Money: funding +0,01% + L/S 1,52",
+          "source": "https://www.coinglass.com/"
+        },
+        {
+          "title": "Encostou na máxima e ainda não fechou acima dela",
+          "body": "Suporte US$ 63.700 (−1,0%) · Resistência US$ 64.600 (+0,4%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura horária do Bitcoin em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-07-28-16h32",
       "date": "2026-07-28",
       "time": "16h32",
