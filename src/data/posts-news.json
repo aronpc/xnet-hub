@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-07-30",
+      "date": "2026-07-30",
+      "hook": "IA — 30 de julho",
+      "caption": "O que aconteceu em IA entre 24 e 29 de julho. Tem o maior modelo aberto já lançado, frontier de graça para a academia e conversas do Claude aparecendo no Google.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-07-30",
+      "link": "https://xnews.aronpc.dev/#ia-2026-07-30",
+      "slides": [
+        {
+          "title": "IA — 30 de julho",
+          "body": "O que aconteceu em IA entre 24 e 29 de julho. Tem o maior modelo aberto já lançado, frontier de graça para a academia e conversas do Claude aparecendo no Google."
+        },
+        {
+          "title": "Kimi K3: 2,8 trilhões de parâmetros em peso aberto",
+          "body": "A Moonshot liberou os pesos do Kimi K3 no Hugging Face: 1,56 TB, o maior open-weight já publicado. A Cognition já plugou no Devin e, no FrontierCode 1.1, é o primeiro modelo aberto no nível frontier.",
+          "source": {
+            "label": "Bloomberg — 27 jul",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-27/china-s-moonshot-to-release-breakthrough-ai-model-for-download"
+          }
+        },
+        {
+          "title": "OpenAI dá frontier grátis a 100 mil pesquisadores",
+          "body": "O ChatGPT for Academic Researchers abre o GPT-5.6 Sol e outros modelos frontier de graça para uns 100 mil cientistas até o fim de 2027.",
+          "source": {
+            "label": "Axios — 29 jul",
+            "url": "https://www.axios.com/2026/07/29/openai-academics-research-chatgpt-sol"
+          }
+        },
+        {
+          "title": "Conversas do Claude aparecem no Google",
+          "body": "Um busca por site:claude.ai/share começa a indexar conversas que viraram link público. O debate pegou no Reddit, perto de 4,5 mil upvotes.",
+          "source": {
+            "label": "Reddit r/ChatGPT — 27 jul",
+            "url": "https://www.reddit.com/r/ChatGPT/comments/1v6w630/"
+          }
+        },
+        {
+          "title": "Google lança Lyria 3.5 dentro do Flow Music",
+          "body": "Novo modelo de geração musical do Google e DeepMind, integrado ao Flow Music, com vocais e letras mais nítidos que a geração anterior.",
+          "source": {
+            "label": "Google Blog — 29 jul",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/"
+          }
+        },
+        {
+          "title": "Netflix: 300 títulos com IA generativa em 2026",
+          "body": "Nos resultados do segundo trimestre, a Netflix disse que uns 300 títulos no app usaram IA generativa no ano, a maioria em pós-produção.",
+          "source": {
+            "label": "The Verge — 28 jul",
+            "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings"
+          }
+        },
+        {
+          "title": "Apple processa OpenAI por segredos comerciais",
+          "body": "A Apple acusa a OpenAI de se apropriar de segredos com ajuda de ex-funcionários e passou a mandar cartas a dezenas de pessoas na OpenAI, segundo o Financial Times.",
+          "source": {
+            "label": "The Verge — 24 jul",
+            "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A fronteira dos modelos abertos pula para 2,8 trilhões de parâmetros. A OpenAI compra influência na academia. E o link que você compartilhou virou busca pública."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-07-29",
       "date": "2026-07-29",
       "hook": "O MCP passou a não guardar estado, e o Claude Code ficou com skills vivas e hooks de verdade.",
