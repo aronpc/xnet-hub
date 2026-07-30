@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-30",
+      "date": "2026-07-30",
+      "hook": "Skills e MCP — 30 de julho",
+      "caption": "O Claude Code vira hub dentro do VS Code, o ecossistema ganha um quality-gate para MCP e nascem marketplaces de skills. Cinco movimentos de maturação.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-30",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-30",
+      "slides": [
+        {
+          "title": "Skills e MCP — 30 de julho",
+          "body": "O Claude Code vira hub dentro do VS Code, o ecossistema ganha um quality-gate para MCP e nascem marketplaces de skills. Cinco movimentos de maturação."
+        },
+        {
+          "title": "Claude Code: MCP nativo, planos e skills no VS Code",
+          "body": "O changelog traz um ícone spark no VS Code que lista todas as sessões, planos em markdown com comentários e gestão nativa de MCP servers — além de fixes em plugins e skills.",
+          "source": {
+            "label": "Claude Code changelog — 29 jul",
+            "url": "https://docs.claude.com/en/docs/claude-code/changelog"
+          }
+        },
+        {
+          "title": "mcpgrade: um Lighthouse para MCP servers",
+          "body": "A TengByte lançou o mcpgrade, que gera um scorecard estilo Lighthouse para MCP servers em um comando só, sem API key. Já rodou contra 36 servidores populares.",
+          "source": {
+            "label": "github.com/TengByte/mcpgrade",
+            "url": "https://github.com/TengByte/mcpgrade"
+          }
+        },
+        {
+          "title": "cc-skills: as 12 skills que o Claude Code esqueceu",
+          "body": "O repositório cc-skills, do yasyf, reúne as doze skills que o Claude Code esqueceu de lançar: um pacote de skills utilitárias para agentes.",
+          "source": {
+            "label": "github.com/yasyf/cc-skills",
+            "url": "https://github.com/yasyf/cc-skills"
+          }
+        },
+        {
+          "title": "soltero-skills: marketplace de plugins do Claude Code",
+          "body": "O FrankieSoltero publicou a soltero-skills, descrita como uma biblioteca de skills: um marketplace de plugins do Claude Code.",
+          "source": {
+            "label": "github.com/FrankieSoltero/soltero-skills",
+            "url": "https://github.com/FrankieSoltero/soltero-skills"
+          }
+        },
+        {
+          "title": "gamemaker-mcp: servidor MCP project-aware para jogos",
+          "body": "O gamemaker-mcp, do yearningss, é um servidor MCP project-aware para GameMaker, que integra assistentes de IA ao contexto do projeto de jogo.",
+          "source": {
+            "label": "github.com/yearningss/gamemaker-mcp",
+            "url": "https://github.com/yearningss/gamemaker-mcp"
+          }
+        },
+        {
+          "title": "O ecossistema amadurece",
+          "body": "O Claude Code se consolida como hub e o ecossistema ganha quality-gates e marketplaces. É a maturação que combina com o backlog de skills órfãs a triar."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-30",
       "date": "2026-07-30",
       "hook": "Projetos IA — 30 de julho",
