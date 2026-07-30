@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-30-19h30",
+      "date": "2026-07-30",
+      "time": "19h30",
+      "hook": "Pela segunda vez no dia, o preço voltou a encostar na casa dos US$ 65 mil. A última hora rendeu +0,4% e levou o BTC até o número redondo, que continua segurando: sem um fechamento acima dele, o movimento ainda não convence.",
+      "caption": "A hora mais forte da noite coloca o BTC no terço superior da faixa, perto do teto do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-30-19h30",
+      "link": "https://xbtc.aronpc.dev/#2026-07-30-19h30",
+      "slides": [
+        {
+          "title": "BTC faz a 2ª visita do dia aos US$ 65 mil",
+          "body": "A hora mais forte da noite coloca o BTC no terço superior da faixa, perto do teto do dia."
+        },
+        {
+          "title": "US$ 64.962",
+          "body": "Δ1h +0,40% · Δ24h +1,62% · volume 24h de US$ 26,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço subiu até a faixa mais alta do dia, mas segue preso sob US$ 65 mil · Smart money: funding +0,008% e L/S 1,25",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "O teste dos US$ 65 mil decide o próximo trecho",
+          "body": "Suporte US$ 64.500 (−0,7%) · Resistência US$ 65.000 (+0,1%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização do intraday de 19h30."
+        }
+      ]
+    },
+    {
       "id": "2026-07-30-06h35",
       "date": "2026-07-30",
       "time": "06h35",
