@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-30",
+      "date": "2026-07-30",
+      "hook": "Projetos IA — 30 de julho",
+      "caption": "Cinco rodadas que mostram para onde o dinheiro está indo. Tem voz IA com receita real, detecção de IA, IA 3D, design que vira código e segurança com agentes.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-07-30",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-07-30",
+      "slides": [
+        {
+          "title": "Projetos IA — 30 de julho",
+          "body": "Cinco rodadas que mostram para onde o dinheiro está indo. Tem voz IA com receita real, detecção de IA, IA 3D, design que vira código e segurança com agentes."
+        },
+        {
+          "title": "Fish Audio levanta US$ 52 mi com voz IA",
+          "body": "A Fish Audio, que faz modelos de voz IA para criadores e empresas, captou um seed de US$ 52 mi. Já gera US$ 21 mi de receita anual.",
+          "source": {
+            "label": "TechCrunch — 28 jul",
+            "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/"
+          }
+        },
+        {
+          "title": "Meshy capta US$ 400 mi a valuation de US$ 1,5 bi",
+          "body": "A Meshy, de IA para gerar mundos 3D interativos, captou quase US$ 400 mi a uma valuation de US$ 1,5 bi. É a maior rodada da categoria de IA 3D até hoje.",
+          "source": {
+            "label": "PRNewswire — 22 jul",
+            "url": "https://www.prnewswire.com/news-releases/meshy-raises-nearly-400-million-at-a-1-5-billion-valuation-the-largest-round-to-date-in-ai-3d-302828384.html"
+          }
+        },
+        {
+          "title": "Paper liga designers ao código, com agentes",
+          "body": "A Paper, cuja ferramenta conecta designers direto ao código de produção e aos agentes de IA que o criam, captou uma Série A de US$ 34 mi liderada por Accel e ICONIQ.",
+          "source": {
+            "label": "Axios Pro — 23 jul",
+            "url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/23/paper-software-design-accel-iconiq"
+          }
+        },
+        {
+          "title": "Pangram capta US$ 9 mi para detectar IA",
+          "body": "Com o conteúdo gerado por IA inundando a internet, a Pangram levantou US$ 9 mi para expandir a detecção de texto e imagem produzidos por IA.",
+          "source": {
+            "label": "TechCrunch — 29 jul",
+            "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/"
+          }
+        },
+        {
+          "title": "Glow usa agentes para vigiar software e devs",
+          "body": "A Glow é uma startup de cybersecurity que usa agentes de IA para monitorar software e a atividade de desenvolvimento.",
+          "source": {
+            "label": "TechCrunch — 28 jul",
+            "url": "https://techcrunch.com/tag/ai-startups/"
+          }
+        },
+        {
+          "title": "Onde o dinheiro foi",
+          "body": "O capital foi atrás de receita real em voz IA, da nova fronteira 3D e do lado que detecta IA. O fio condutor é maturidade: acabou a fase de hype puro."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-30",
       "date": "2026-07-30",
       "hook": "IA — 30 de julho",
