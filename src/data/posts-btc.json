@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-30-06h35",
+      "date": "2026-07-30",
+      "time": "06h35",
+      "hook": "Depois de um dia inteiro parado no meio do intervalo, o BTC acordou na última hora: subiu e foi bater na ponta de cima, perto dos US$ 65 mil. O viés do dia virou pra alta.",
+      "caption": "A hora mais forte do dia leva o preço ao terço superior da faixa.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-30-06h35",
+      "link": "https://xbtc.aronpc.dev/#2026-07-30-06h35",
+      "slides": [
+        {
+          "title": "BTC sai da paralisia e sobe até o teto do intervalo",
+          "body": "A hora mais forte do dia leva o preço ao terço superior da faixa."
+        },
+        {
+          "title": "US$ 64.519",
+          "body": "Δ1h +0,5% · Δ24h −0,0% · volume 24h de US$ 29,8 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "O balanço de 24h segue neutro, mas o preço subiu e encostou no topo do intervalo · Smart money: funding +0,0085% e L/S 1,51.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "O próximo passo passa por firmar os US$ 65 mil",
+          "body": "Acima de US$ 65.000, sobra fôlego para seguir subindo; se cair de US$ 63.000, o movimento perde força."
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização do intraday de 06h35."
+        }
+      ]
+    },
+    {
       "id": "2026-07-29-14h31",
       "date": "2026-07-29",
       "time": "14h31",
