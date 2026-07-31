@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-31-14h31",
+      "date": "2026-07-31",
+      "time": "14h31",
+      "hook": "O viés técnico virou para baixa nesta hora. O preço ensaiou uma reação, mas o repique veio sem volume e segue perto do fundo do dia.",
+      "caption": "US$ 62.911 depois de cair 3% no dia; a leitura técnica agora é de baixa.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-31-14h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-31-14h31",
+      "slides": [
+        {
+          "title": "Repique sem convicção",
+          "body": "US$ 62.911 depois de cair 3% no dia; a leitura técnica agora é de baixa."
+        },
+        {
+          "title": "US$ 62.911",
+          "body": "Δ1h +0,11% · Δ24h −3,05% · volume 24h de US$ 29,3 bi.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A tendência do dia segue para baixo (−3%) e o preço continua parado lá embaixo; o repique da última hora não trouxe volume. Smart Money: funding +0,0092% e L/S 2,32 (70% em long).",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Repique ou aceleração",
+          "body": "Segurar os 62,5k leva a um repique até 63,3k; ceder 62,4k com volume aponta para 61,8k. Suporte 62.500 · resistência 63.300."
+        },
+        {
+          "title": "Hora a hora",
+          "body": "Atualização a cada hora, sempre como leitura técnica."
+        }
+      ]
+    },
+    {
       "id": "2026-07-31-12h35",
       "date": "2026-07-31",
       "time": "12h35",
