@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-31-04h31",
+      "date": "2026-07-31",
+      "time": "04h31",
+      "hook": "O Bitcoin escorregou para a mínima do dia e segue colado nela, num mercado ainda preso ao medo extremo.",
+      "caption": "US$ 63.945, rente à mínima de 24 horas. Fear & Greed em 25, medo extremo.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-31-04h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-31-04h31",
+      "slides": [
+        {
+          "title": "Preço no fundo do dia, clima pesado",
+          "body": "US$ 63.945, rente à mínima de 24 horas. Fear & Greed em 25, medo extremo."
+        },
+        {
+          "title": "US$ 63.945",
+          "body": "Δ1h −0,6% · Δ24h −0,03% · volume 24h de US$ 27,5 bi.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Desce até a mínima de 24h e fica rente a ela, sem definir direção. Smart Money: funding +0,01% e L/S 1,50.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O que vigiar",
+          "body": "Segurar US$ 64,0k traz repique até US$ 64,8 a 65,0k; perder US$ 63,9k (mínima 24h) abre espaço para US$ 63,5k."
+        },
+        {
+          "title": "Hora a hora",
+          "body": "Atualização a cada hora, sempre como leitura técnica."
+        }
+      ]
+    },
+    {
       "id": "2026-07-31-03h31",
       "date": "2026-07-31",
       "time": "03h31",
