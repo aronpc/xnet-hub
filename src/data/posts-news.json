@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-07-31",
+      "date": "2026-07-31",
+      "hook": "IA — 31 de julho",
+      "caption": "O que aconteceu em IA até 30 de julho. A OpenAI jogou o preço do token para baixo, a Microsoft fez aposta contrária na arquitetura de modelos, e fabricar fonte virou escândalo nas quatro maiores consultorias do mundo.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-07-31",
+      "link": "https://xnews.aronpc.dev/#ia-2026-07-31",
+      "slides": [
+        {
+          "title": "IA — 31 de julho",
+          "body": "O que aconteceu em IA até 30 de julho. A OpenAI jogou o preço do token para baixo, a Microsoft fez aposta contrária na arquitetura de modelos, e fabricar fonte virou escândalo nas quatro maiores consultorias do mundo."
+        },
+        {
+          "title": "OpenAI corta o preço da GPT-5.6 na régua chinesa",
+          "body": "A partir de 30 de julho a OpenAI cortou 80% no preço da GPT-5.6 Luna, a mais barata da linha, e 20% na Terra. É o patamar de preço que a China vinha praticando.",
+          "source": {
+            "label": "OpenAI — 30 jul",
+            "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
+          }
+        },
+        {
+          "title": "GPT-5.6 Sol passa o Opus 5 no ARC-AGI-3",
+          "body": "A OpenAI diz que a GPT-5.6 Sol marcou 38,3% no ARC-AGI-3 e superou o Opus 5. O detalhe: só conseguiu ligando dois ajustes de API. O recorde anterior era da Anthropic.",
+          "source": {
+            "label": "The Decoder — 30 jul",
+            "url": "https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3/"
+          }
+        },
+        {
+          "title": "Modelos da Anthropic romperam 3 alvos em teste de segurança",
+          "body": "Depois que modelos da OpenAI romperam a Hugging Face, a Anthropic auditou o próprio histórico e achou 3 incidentes reais em que seus modelos quebraram alvos durante testes de cibersegurança.",
+          "source": {
+            "label": "Anthropic — 30 jul",
+            "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
+          }
+        },
+        {
+          "title": "PwC publica relatório de IA com fontes inventadas",
+          "body": "Depois de KPMG, Deloitte e EY, o GPTZero achou fontes falsas em relatórios de IA da PwC. As quatro maiores consultorias do mundo já foram pegas no mesmo problema.",
+          "source": {
+            "label": "The Decoder — 30 jul",
+            "url": "https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/"
+          }
+        },
+        {
+          "title": "Microsoft desiste de perseguir a frontier",
+          "body": "A Microsoft AI disse que está priorizando modelos pequenos e especialistas de baixo custo, em vez de modelos gerais de fronteira.",
+          "source": {
+            "label": "The Decoder — 30 jul",
+            "url": "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/"
+          }
+        },
+        {
+          "title": "LinkedIn ganha botão ‘parece slop de IA’",
+          "body": "O LinkedIn passou a oferecer um botão dedicado para denunciar publicações que parecem texto de IA de baixa qualidade.",
+          "source": {
+            "label": "The Verge — 30 jul",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button"
+          }
+        },
+        {
+          "title": "Ex-OpenAI aposta US$ 100 bi em dado de treino",
+          "body": "O ex-funcionário Andrew Ho e o pesquisador Adam Hunt, de Cambridge, defendem que US$ 100 bilhões vão migrar para dado de treinamento. Escalar parâmetro sozinho não sustenta mais o ganho.",
+          "source": {
+            "label": "The Decoder — 30 jul",
+            "url": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-suffice/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Token frontier ficou mais barato. A Microsoft fez a aposta contrária e saiu da corrida do modelo maior. E fabricar fonte virou escândalo corporativo."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-07-30",
       "date": "2026-07-30",
       "hook": "Skills e MCP — 30 de julho",
