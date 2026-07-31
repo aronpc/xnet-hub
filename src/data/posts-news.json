@@ -2,6 +2,70 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-07-31",
+      "date": "2026-07-31",
+      "hook": "Projetos — 31 de julho",
+      "caption": "Os repositórios e produtos em alta até 30 de julho. Voz local desponta de vez, o Claude Cowork ganha clone aberto com tração real, e a Okta compra segurança para agente.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-07-31",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-07-31",
+      "slides": [
+        {
+          "title": "Projetos — 31 de julho",
+          "body": "Os repositórios e produtos em alta até 30 de julho. Voz local desponta de vez, o Claude Cowork ganha clone aberto com tração real, e a Okta compra segurança para agente."
+        },
+        {
+          "title": "Okta compra a Permiso por cerca de US$ 200 mi",
+          "body": "A Okta comprou a Permiso, startup de detecção de ameaças com IA, por aproximadamente US$ 200 milhões, segundo fonte ao TechCrunch.",
+          "source": {
+            "label": "TechCrunch — 30 jul",
+            "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/"
+          }
+        },
+        {
+          "title": "openwork: clone aberto do Claude Cowork",
+          "body": "Repo em alta no GitHub se posiciona como alternativa open-source ao Claude Cowork, construído sobre o opencode. Cresce uns 915 estrelas por dia.",
+          "source": "github.com/different-ai/openwork"
+        },
+        {
+          "title": "Hugging Face: agente de voz local e aberto",
+          "body": "Projeto da Hugging Face para construir agentes de voz completos com modelos open-source rodando na sua própria máquina, sem nuvem.",
+          "source": "github.com/huggingface/speech-to-speech"
+        },
+        {
+          "title": "Yap: ditado por voz 100% no Mac",
+          "body": "App de ditado por voz open-source para Mac, totalmente on-device, sem mandar nada para a nuvem.",
+          "source": {
+            "label": "Product Hunt — 30 jul",
+            "url": "https://www.producthunt.com/products/yap-5"
+          }
+        },
+        {
+          "title": "avatarin: agente de voz 24/7 em loja física",
+          "body": "A avatarin usa o GPT-Realtime da OpenAI para dar suporte multilíngue 24 horas por dia em lojas da Yamada Denki, no Japão.",
+          "source": {
+            "label": "OpenAI — 30 jul",
+            "url": "https://openai.com/index/avatarin"
+          }
+        },
+        {
+          "title": "Lista curada de trading sistemático",
+          "body": "Lista no GitHub reunindo bibliotecas, estratégias e livros de trading sistemático, em alta no trending diário.",
+          "source": "github.com/paperswithbacktest/awesome-systematic-trading"
+        },
+        {
+          "title": "Sorinai: bloco de notas com IA para reunião",
+          "body": "Notepad com IA lançado no Product Hunt que captura e organiza reuniões, com ângulo interativo em vez de só transcrição.",
+          "source": {
+            "label": "Product Hunt — 30 jul",
+            "url": "https://www.producthunt.com/products/sorinai"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Voz local virou padrão viável. O agente de trabalho assíncrono ganhou concorrente aberto. E segurança para agentes virou alvo de aquisição."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-07-31",
       "date": "2026-07-31",
       "hook": "IA — 31 de julho",
