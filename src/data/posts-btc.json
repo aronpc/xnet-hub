@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-31-03h31",
+      "date": "2026-07-31",
+      "time": "03h31",
+      "hook": "Depois de bater na cabeça dos US$ 65 mil, o Bitcoin recuou e segue na faixa dos 64 mil.",
+      "caption": "USD 64.340, no terço de baixo do range. Fear & Greed em 25, medo extremo.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-31-03h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-31-03h31",
+      "slides": [
+        {
+          "title": "Preço parado, sentimento em alerta",
+          "body": "USD 64.340, no terço de baixo do range. Fear & Greed em 25, medo extremo."
+        },
+        {
+          "title": "US$ 64.340",
+          "body": "Variação de 1h +0,10% · 24h +0,54% · volume 24h de US$ 26,6 bi.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Consolida no terço inferior depois da rejeição em US$ 65 mil. Smart Money: funding +0,01% e L/S 1,49.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "F&G 25 · medo extremo",
+          "body": "Medo extremo com preço parado na metade de baixo do range costuma indicar exaustão de venda. Desta vez o preço ainda não reagiu com força.",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "Olhar nas faixas",
+          "body": "Acima de US$ 64.800, retesta o teto do range. Segurar US$ 64.000 mantém o piso do dia."
+        }
+      ]
+    },
+    {
       "id": "2026-07-30-23h30",
       "date": "2026-07-30",
       "time": "23h30",
