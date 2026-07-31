@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-31-09h32",
+      "date": "2026-07-31",
+      "time": "09h32",
+      "hook": "Depois de horas sem rumo, o Bitcoin definiu o caminho para baixo e agora encosta no menor preço das últimas 24 horas.",
+      "caption": "US$ 63.680, no menor nível das últimas 24 horas, depois de ceder ao longo da manhã.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-31-09h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-31-09h32",
+      "slides": [
+        {
+          "title": "Define o caminho para baixo",
+          "body": "US$ 63.680, no menor nível das últimas 24 horas, depois de ceder ao longo da manhã."
+        },
+        {
+          "title": "US$ 63.680",
+          "body": "Δ1h −0,34% · Δ24h −1,74% · volume 24h de US$ 25,8 bi.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Máximas recuando (65,4k → 63,7k), preço no menor nível de 24h. Smart Money: funding +0,0017% e L/S 1,71.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Onde o mercado reage",
+          "body": "Base 63.500 (−0,3%) · topo 64.000 (+0,5%)."
+        },
+        {
+          "title": "Hora a hora",
+          "body": "Atualização a cada hora, sempre como leitura técnica."
+        }
+      ]
+    },
+    {
       "id": "2026-07-31-04h31",
       "date": "2026-07-31",
       "time": "04h31",
