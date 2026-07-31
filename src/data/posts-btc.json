@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-30-22h31",
+      "date": "2026-07-30",
+      "time": "22h31",
+      "hook": "Numa hora só, o BTC passou do teto que segurava o preço o dia inteiro e foi bater na máxima das últimas 24 horas. Ainda não firmou: o topo do dia segue ali, a uns 0,4% acima.",
+      "caption": "Foi a hora mais forte do dia. Agora falta ver se o preço se sustenta acima do ponto onde bateu.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-30-22h31",
+      "link": "https://xbtc.aronpc.dev/#2026-07-30-22h31",
+      "slides": [
+        {
+          "title": "BTC encosta na máxima de 24h no fim do dia",
+          "body": "Foi a hora mais forte do dia. Agora falta ver se o preço se sustenta acima do ponto onde bateu."
+        },
+        {
+          "title": "US$ 65.120",
+          "body": "Δ1h +0,65% · Δ24h +2,1% · vol $26,9B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Veio do fundo de $63,9k e fechou a hora numa nova máxima de closes · Smart Money: funding +0,01% + L/S 1,25"
+        },
+        {
+          "title": "Agora o preço precisa se segurar acima do topo do dia",
+          "body": "Suporte $64.700 (−0,6%) · Resistência $65.400 (+0,4%)"
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    },
+    {
       "id": "2026-07-30-19h30",
       "date": "2026-07-30",
       "time": "19h30",
