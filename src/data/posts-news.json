@@ -2,6 +2,66 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-07-31",
+      "date": "2026-07-31",
+      "hook": "Skills e MCP — 31 de julho",
+      "caption": "O que aconteceu em skills e MCP até 30 de julho. Skill e MCP viram padrão também no Copilot, o skill-authoring amadurece, e o DevTools do Chrome chega ao agente.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-07-31",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-07-31",
+      "slides": [
+        {
+          "title": "Skills e MCP — 31 de julho",
+          "body": "O que aconteceu em skills e MCP até 30 de julho. Skill e MCP viram padrão também no Copilot, o skill-authoring amadurece, e o DevTools do Chrome chega ao agente."
+        },
+        {
+          "title": "Copilot: agent skills e MCP viram GA",
+          "body": "O changelog oficial do GitHub, de 29 de julho, marcou como generally available o uso de agent skills e MCP dentro do Copilot code review.",
+          "source": {
+            "label": "GitHub Blog — 29 jul",
+            "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available/"
+          }
+        },
+        {
+          "title": "Alibaba Skill-up: teste de regressão para skill",
+          "body": "Repo da Alibaba traz regression testing para Agent Skills, para garantir que a skill continua funcionando depois de qualquer mudança.",
+          "source": "github.com/alibaba/skill-up"
+        },
+        {
+          "title": "Agent-Manager: TUI para vários coding agents",
+          "body": "Ferramenta com interface de terminal sobre tmux para orquestrar Claude Code, Codex e OpenCode em paralelo, sem CLI complexo.",
+          "source": "github.com/YoanWai/agent-manager"
+        },
+        {
+          "title": "last30days: skill que cruza Reddit, X, YouTube e HN",
+          "body": "Skill que faz um agente pesquisar um tema cruzando Reddit, X, YouTube e Hacker News, em alta no GitHub trending.",
+          "source": "github.com/mvanhorn/last30days-skill"
+        },
+        {
+          "title": "Bullshit Detector: skill que checa fato em vídeo e artigo",
+          "body": "Conjunto de agent skills que verificam fato automaticamente em vídeos e artigos.",
+          "source": "github.com/SerhiiKorniienko/bullshit-detector"
+        },
+        {
+          "title": "book-to-skill: PDF de livro vira skill",
+          "body": "Repo em alta no trending semanal que converte o PDF de um livro técnico em um skill do Claude Code, pronto para estudo e referência.",
+          "source": "github.com/virgiliojr94/book-to-skill"
+        },
+        {
+          "title": "Chrome DevTools agora via MCP",
+          "body": "Servidor MCP oficial das Chrome DevTools que expõe debug e inspeção do navegador para agentes de código.",
+          "source": "github.com/ChromeDevTools/chrome-devtools-mcp"
+        },
+        {
+          "title": "Merge queue local para agentes em paralelo",
+          "body": "Ferramenta que cria uma fila de merge local para coordenar vários agentes Claude Code rodando ao mesmo tempo.",
+          "source": "github.com/funador/claude-code-merge-queue"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Skill e MCP viraram padrão multi-plataforma. Skill-authoring ganhou teste e verificação. E o agente finalmente enxerga o navegador."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-07-31",
       "date": "2026-07-31",
       "hook": "Projetos — 31 de julho",
