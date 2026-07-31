@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-31-15h32",
+      "date": "2026-07-31",
+      "time": "15h32",
+      "hook": "A queda perdeu o fôlego nesta hora: o preço parou de deslizar e ficou preso num intervalo curto, num mercado sem direção.",
+      "caption": "US$ 63.016 depois de recuar 2,7% no dia; a leitura saiu da baixa e virou lateral.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-31-15h32",
+      "link": "https://xbtc.aronpc.dev/#2026-07-31-15h32",
+      "slides": [
+        {
+          "title": "Venda sem fôlego",
+          "body": "US$ 63.016 depois de recuar 2,7% no dia; a leitura saiu da baixa e virou lateral."
+        },
+        {
+          "title": "US$ 63.016",
+          "body": "Δ1h +0,17% · Δ24h −2,69% · volume 24h de US$ 30,0 bi.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O preço colou num intervalo curto entre 62,5k e 63,3k, e a última vela veio com volume abaixo da média. Smart Money: funding +0,0092% e L/S 2,29 (70% em long).",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Base em jogo",
+          "body": "Segurar os 62,5k mantém a base e abre espaço para 63,3k; perder 62.466 (mínima do dia) leva a 61,8k. Suporte 62.500 · resistência 63.300."
+        },
+        {
+          "title": "Hora a hora",
+          "body": "Atualização a cada hora, sempre como leitura técnica."
+        }
+      ]
+    },
+    {
       "id": "2026-07-31-14h31",
       "date": "2026-07-31",
       "time": "14h31",
