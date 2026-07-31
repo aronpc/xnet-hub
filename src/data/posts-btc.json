@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-31-12h35",
+      "date": "2026-07-31",
+      "time": "12h35",
+      "hook": "O Bitcoin caiu o dia todo e bateu na mínima de 24 horas. Não passou dali: o mercado segue parado, à espera do próximo passo.",
+      "caption": "US$ 62.500, no menor nível do dia, depois de cair 3,3%.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-31-12h35",
+      "link": "https://xbtc.aronpc.dev/#2026-07-31-12h35",
+      "slides": [
+        {
+          "title": "Colado na mínima de 24h",
+          "body": "US$ 62.500, no menor nível do dia, depois de cair 3,3%."
+        },
+        {
+          "title": "US$ 62.500",
+          "body": "Δ1h −0,04% · Δ24h −3,3% · volume 24h de US$ 28,6 bi.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Os vendedores pausaram no fundo, e o preço segue rente à mínima de 24h. Smart Money: funding +0,005% e L/S 2,21.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Decisão na mínima de 24h",
+          "body": "Suporte 62.466 (−0,05%) · depois 62.000 (−0,8%) · resistência 63.000 (+0,8%)."
+        },
+        {
+          "title": "Hora a hora",
+          "body": "Atualização a cada hora, sempre como leitura técnica."
+        }
+      ]
+    },
+    {
       "id": "2026-07-31-09h32",
       "date": "2026-07-31",
       "time": "09h32",
