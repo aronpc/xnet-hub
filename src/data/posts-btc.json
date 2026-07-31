@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-07-30-23h30",
+      "date": "2026-07-30",
+      "time": "23h30",
+      "hook": "O rompimento dos 65 mil durou menos de uma hora. O preço chegou ao teto do dia, foi rejeitado e desceu de volta para a base do canal, perto dos 64 mil.",
+      "caption": "Caiu 1,1% só na última hora e fechou em US$ 64.380, colado no apoio de 64 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-07-30-23h30",
+      "link": "https://xbtc.aronpc.dev/#2026-07-30-23h30",
+      "slides": [
+        {
+          "title": "Rejeitado no teto, BTC recua à base do canal",
+          "body": "Caiu 1,1% só na última hora e fechou em US$ 64.380, colado no apoio de 64 mil."
+        },
+        {
+          "title": "US$ 64.380",
+          "body": "Δ1h −1,1% · Δ24h +0,1% · vol $26,8B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O canal do dia segue intacto. Dessa vez a alta não vingou e o preço voltou ao pé do canal. Smart Money: funding +0,01% + L/S 1,33"
+        },
+        {
+          "title": "A hora vai mostrar se 64 mil aguenta",
+          "body": "Suporte $64.000 (−0,6%) · Resistência $65.000 (+1,0%)"
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    },
+    {
       "id": "2026-07-30-22h31",
       "date": "2026-07-30",
       "time": "22h31",
