@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-01-17h31",
+      "date": "2026-08-01",
+      "time": "17h31",
+      "hook": "O preço recuou das máximas da sessão e voltou a encostar na faixa baixa do dia, num clima de cautela e com muitos compradores ainda posicionados.",
+      "caption": "US$ 62.561 depois de recuar de 63.126; a leitura virou baixa e 62.275 ainda segura.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-01-17h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-01-17h31",
+      "slides": [
+        {
+          "title": "Pressão na base",
+          "body": "US$ 62.561 depois de recuar de 63.126; a leitura virou baixa e 62.275 ainda segura."
+        },
+        {
+          "title": "US$ 62.561",
+          "body": "Δ1h +0,10% · Δ24h −0,60% · volume 24h de US$ 14,47 bi.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O caminho de menor resistência aponta para baixo enquanto 63.000 não for reconquistado, e o preço roda no terço inferior do range de 24h. Smart Money: funding +0,005% e L/S 2,1 (68% em long).",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Base 62.275 em foco",
+          "body": "Ceder 62.275 com volume abre caminho a 62.000 e depois 61.500; segurar e reagir acima de 62.800 retesta o teto 63.000. Suporte 62.275 · resistência 63.000."
+        },
+        {
+          "title": "Hora a hora",
+          "body": "Atualização a cada hora, sempre como leitura técnica de contexto."
+        }
+      ]
+    },
+    {
       "id": "2026-07-31-15h32",
       "date": "2026-07-31",
       "time": "15h32",
