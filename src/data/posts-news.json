@@ -2,6 +2,66 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-01",
+      "date": "2026-08-01",
+      "hook": "Radar de Projetos — 1º de agosto",
+      "caption": "O que rolou em projetos até 31 de julho. Apareceram um harness multiplayer de agentes, uma interface nativa para IA, e a voz entrou pela porta de entrada na codificação.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-01",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-01",
+      "slides": [
+        {
+          "title": "Radar de Projetos — 1º de agosto",
+          "body": "O que rolou em projetos até 31 de julho. Apareceram um harness multiplayer de agentes, uma interface nativa para IA, e a voz entrou pela porta de entrada na codificação."
+        },
+        {
+          "title": "qm: agentes e humanos no mesmo canvas",
+          "body": "O projeto de código aberto yc-software/qm é um harness multiagente multiplayer para trabalho colaborativo entre gente e agentes. Virou o topo do Hacker News com 506 pontos.",
+          "source": "github.com/yc-software/qm"
+        },
+        {
+          "title": "Prized: não-engenheiro monta ferramenta interna",
+          "body": "Startup do batch YC S26 lançada no Launch HN. Deixa funcionário não técnico montar ferramentas internas seguras com agentes. Fez 77 pontos.",
+          "source": "prized.dev"
+        },
+        {
+          "title": "MarbleOS: como seria a GUI para agentes",
+          "body": "Projeto no marbleos.com que propõe uma interface nativa para agentes de IA. Rendeu 108 pontos no Show HN.",
+          "source": "marbleos.com/demo"
+        },
+        {
+          "title": "Smallest.ai levanta US$ 13 mi em voz IA",
+          "body": "A Smallest.ai captou 13 milhões de dólares para construir modelos de voz ultrarrápidos que soam de fato humanos.",
+          "source": {
+            "label": "TechCrunch — 31 jul",
+            "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/"
+          }
+        },
+        {
+          "title": "reverse-skill: pack de skills de pentest",
+          "body": "Repo em alta no GitHub trending, com mais de 335 estrelas por dia. É um pacote de skills de engenharia reversa e segurança, com roteamento por IA e base de conhecimento que evolui sozinha. Roda no Claude Code, Kiro, Cursor e Cline.",
+          "source": "github.com/zhaoxuya520/reverse-skill"
+        },
+        {
+          "title": "Ski: codificação por voz no Claude Code",
+          "body": "Projeto no heyski.io de codificação por voz que roda no dispositivo e é grátis. Funciona com Claude Code, Codex e outros.",
+          "source": "heyski.io"
+        },
+        {
+          "title": "Claude-account: troca de conta sem relogin",
+          "body": "Ferramenta no GitHub, hamzarehmandeveloper/claude-account, que deixa alternar entre contas do Claude Code sem logar de novo. Fez 54 pontos no HN.",
+          "source": "github.com/hamzarehmandeveloper/claude-account"
+        },
+        {
+          "title": "Tuneloop: CLI para ler sessão de agente",
+          "body": "CLI local no GitHub, tuneloop/tuneloop, que analisa transcrições de sessões de coding agents para extrair insights de uso.",
+          "source": "github.com/tuneloop/tuneloop"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A infra de agentes ganhou multiplayer, interface nativa e pacotes de skill portáteis. A voz entrou na codificação como entrada, e surgiu um CLI para auditar o que o agente fez."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-01",
       "date": "2026-08-01",
       "hook": "IA — 1º de agosto",
