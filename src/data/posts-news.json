@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-01",
+      "date": "2026-08-01",
+      "hook": "Skills e MCP — 1º de agosto",
+      "caption": "O que aconteceu em skills e MCP até 31 de julho. O MCP amadureceu em qualidade e segurança, apareceu um grafo de memória entre Claude e ChatGPT, e skill-authoring ganhou constraints e poda consciente.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-01",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-01",
+      "slides": [
+        {
+          "title": "Skills e MCP — 1º de agosto",
+          "body": "O que aconteceu em skills e MCP até 31 de julho. O MCP amadureceu em qualidade e segurança, apareceu um grafo de memória entre Claude e ChatGPT, e skill-authoring ganhou constraints e poda consciente."
+        },
+        {
+          "title": "SimpleEnglish força docs em inglês técnico",
+          "body": "Agent skill no GitHub, AminBlg/SimpleEnglish, que obriga a documentação a seguir o padrão ASD-STE100 de Simplified Technical English. Virou 323 pontos no Hacker News.",
+          "source": "github.com/AminBlg/SimpleEnglish"
+        },
+        {
+          "title": "Grafo de memória entre Claude e ChatGPT",
+          "body": "Projeto em Show HN, no uml.gpmai.workers.dev, que expõe um grafo de memória compartilhado entre Claude e ChatGPT através de um servidor MCP.",
+          "source": "uml.gpmai.workers.dev"
+        },
+        {
+          "title": "ClickHouse lança MCP server com benchmark",
+          "body": "A ClickHouse publicou um MCP server do ClickStack voltado a agentes SRE, junto de um benchmark que usa evals HDX. Fez 10 pontos no HN.",
+          "source": "clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals"
+        },
+        {
+          "title": "Mcploitable: MCP servers vulneráveis de propósito",
+          "body": "Repo no GitHub, agileAlligator/mcploitable, com servidores MCP intencionalmente vulneráveis, para treinar e testar defesas contra o OWASP Agentic Top, o top de riscos de agentes.",
+          "source": "github.com/agileAlligator/mcploitable"
+        },
+        {
+          "title": "ResiliReplay: chaos testing para agentes",
+          "body": "Projeto no GitHub, aliengineering-byte/resilireplay, de chaos testing dedicado a agentes de IA e a servidores MCP.",
+          "source": "github.com/aliengineering-byte/resilireplay"
+        },
+        {
+          "title": "Tokimeter mede tokens e custo por harness",
+          "body": "Ferramenta de código aberto no GitHub, toshipepe/tokimeter, que mede uso de tokens e custo entre vários harnesses de agente, como Claude, Codex e Cursor.",
+          "source": "github.com/toshipepe/tokimeter"
+        },
+        {
+          "title": "Cadence Money: app de orçamento só via MCP",
+          "body": "App de orçamento no cadencemoney.com que deliberadamente não tem features de IA. Expõe toda a funcionalidade por um servidor MCP, invertendo a tendência de enfiar IA em tudo.",
+          "source": "cadencemoney.com"
+        },
+        {
+          "title": "Claude-Fleet: vários agentes Claude em paralelo",
+          "body": "Repo no GitHub, Shubhamgupta2612/claude-fleet, para orquestrar múltiplos agentes Claude em paralelo.",
+          "source": "github.com/Shubhamgupta2612/claude-fleet"
+        },
+        {
+          "title": "Quais skills must-have você já descontinuou?",
+          "body": "Thread no Hacker News discutindo quais skills de agente, tidas como indispensáveis, foram de fato abandonadas na prática.",
+          "source": {
+            "label": "HN — 31 jul",
+            "url": "https://news.ycombinator.com/item?id=49116411"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O MCP amadureceu em qualidade e segurança, e um grafo de memória cruzou Claude e ChatGPT. Skill-authoring ganhou constraint de saída e começou a poda consciente do que não presta."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-01",
       "date": "2026-08-01",
       "hook": "Radar de Projetos — 1º de agosto",
