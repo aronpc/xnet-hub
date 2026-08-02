@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-02",
+      "date": "2026-08-02",
+      "hook": "IA — 02 de agosto",
+      "caption": "A semana mostrou o preço de verdade da IA. Um loop descontrolado custou US$ 1,8 milhão e o capex ficou dependente de dívida. Ao mesmo tempo, a frontier segue viva em vídeo e a segurança continua frágil.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-02",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-02",
+      "slides": [
+        {
+          "title": "IA — 02 de agosto",
+          "body": "A semana mostrou o preço de verdade da IA. Um loop descontrolado custou US$ 1,8 milhão e o capex ficou dependente de dívida. Ao mesmo tempo, a frontier segue viva em vídeo e a segurança continua frágil."
+        },
+        {
+          "title": "Amazon gasta US$ 1,8 mi com Claude numa tarefa trivial",
+          "body": "Métricas internas da Amazon mostraram que uma tarefa de codificação simples consumiu US$ 1,8 milhão em chamadas do Claude, 860% acima do orçamento. Foi um loop de tokens rodando solto.",
+          "source": {
+            "label": "Tom's Hardware — 1 ago",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophically-expensive-coding-blunders-discovered-in-internal-amazon-ai-usage-metrics"
+          }
+        },
+        {
+          "title": "Thomson Reuters empata modelo próprio com o Opus 4.8",
+          "body": "A Thomson Reuters estreia o Thomson, seu primeiro modelo de IA. Em tarefas jurídicas e gerais ele empata com o Claude Opus 4.8 e fica à frente do GPT-5.5, do Sonnet 5 e do Gemini 3.1 Pro.",
+          "source": {
+            "label": "Thomson Reuters — 31 jul",
+            "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/"
+          }
+        },
+        {
+          "title": "MiniMax H3 gera vídeo 2K com áudio sincronizado",
+          "body": "Em 31 de julho a MiniMax lançou o H3, terceira geração do Hailuo. Gera cenas em 2K nativo a 24 quadros com áudio sincronizado: diálogo, efeitos e ambiente numa tacada só, até 15 segundos por clipe.",
+          "source": {
+            "label": "MiniMax H3 — 31 jul",
+            "url": "https://minimaxh3.art/blog/what-is-minimax-h3"
+          }
+        },
+        {
+          "title": "Medalhista Fields que teme a IA vai pra OpenAI",
+          "body": "Jacob Tsimerman, matemático premiado com a Fields e crítico dos riscos da IA, foi contratado pela OpenAI para trabalhar em segurança.",
+          "source": {
+            "label": "WSJ — 1 ago",
+            "url": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79"
+          }
+        },
+        {
+          "title": "Nvidia financia as próprias vendas de GPU",
+          "body": "Análise aponta que a Nvidia passou a financiar clientes para que comprem suas GPUs, o chamado vendor financing. Parte dos US$ 2,4 trilhões em compromissos de gasto depende desse financiamento.",
+          "source": {
+            "label": "Newcomer — 31 jul",
+            "url": "https://www.newcomer.co/p/the-abrupt-fall-of-situational-awareness"
+          }
+        },
+        {
+          "title": "México vira pedra angular da IA dos EUA",
+          "body": "O México virou peça central da infraestrutura de IA dos EUA: energia, data centers e mão de obra, segundo o Financial Times.",
+          "source": {
+            "label": "Financial Times — 1 ago",
+            "url": "https://www.ft.com/content/ac3274ac-86ca-46ac-bc7b-029fb9dcd173"
+          }
+        },
+        {
+          "title": "Jailbreak de 3 palavras derruba o Claude Opus 5",
+          "body": "Um prompt de só três palavras supostamente contorna as travas do Claude Opus 5 e viralizou nas redes. Ainda é uma claim a confirmar.",
+          "source": {
+            "label": "Viral — a confirmar",
+            "url": "https://twitter.com/i/status/2082566186785480708"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A IA mostrou seu preço de verdade: US$ 1,8 milhão num loop e capex dependente de dívida. Ao mesmo tempo a frontier segue viva em vídeo e a segurança continua frágil."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-01",
       "date": "2026-08-01",
       "hook": "Skills e MCP — 1º de agosto",
