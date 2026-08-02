@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-02",
+      "date": "2026-08-02",
+      "hook": "Skills & MCP — 02 de agosto",
+      "caption": "A categoria que mais engrossou foi memória de agente. Um hub que unifica skill, wiki e grafo de código num só lugar, e um MCP de memória de codebase disparando em estrelas.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-02",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-02",
+      "slides": [
+        {
+          "title": "Skills & MCP — 02 de agosto",
+          "body": "A categoria que mais engrossou foi memória de agente. Um hub que unifica skill, wiki e grafo de código num só lugar, e um MCP de memória de codebase disparando em estrelas."
+        },
+        {
+          "title": "TencentDB Agent Memory: hub de memória de time",
+          "body": "O TencentDB-Agent-Memory é um hub de memória no nível de time que transforma conversas, docs e código em quatro ativos: Chat Memory, Skill, LLM-Wiki e Code-Graph. Reutilizáveis e governáveis entre agentes. Tem 10,4 mil estrelas.",
+          "source": {
+            "label": "GitHub — TencentCloud/TencentDB-Agent-Memory",
+            "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+          }
+        },
+        {
+          "title": "codebase-memory-mcp: memória de código persistente",
+          "body": "O codebase-memory-mcp, da DeusData, é um MCP server de alta performance que indexa o codebase numa base de conhecimento persistente para agentes. Já tem 37 mil estrelas.",
+          "source": {
+            "label": "GitHub — DeusData/codebase-memory-mcp",
+            "url": "https://github.com/DeusData/codebase-memory-mcp"
+          }
+        },
+        {
+          "title": "wienerdog: memória e rotina só com arquivos",
+          "body": "O wienerdog dá ao seu agente memória, hábitos e rotina diária usando só arquivos. Setup de uma linha para Claude Code e Codex CLI.",
+          "source": {
+            "label": "GitHub — wienerdog-ai/wienerdog",
+            "url": "https://github.com/wienerdog-ai/wienerdog"
+          }
+        },
+        {
+          "title": "episko: cockpit de sessões do Claude Code",
+          "body": "O episko é um cockpit nativo para gerenciar sessões e projetos do Claude Code: pular para uma sessão, ranking de urgência e previsão de uso. Para macOS e Windows.",
+          "source": {
+            "label": "episko.dev",
+            "url": "https://episko.dev/"
+          }
+        },
+        {
+          "title": "umcp: micro MCP core mínimo",
+          "body": "O umcp, do rcarmo, é um micro MCP core mínimo, com implementações asyncio e síncrona para construir e rodar MCP servers.",
+          "source": {
+            "label": "GitHub — rcarmo/umcp",
+            "url": "https://github.com/rcarmo/umcp"
+          }
+        },
+        {
+          "title": "Casdoor vira IAM agent-first com gateway de MCP",
+          "body": "O Casdoor, solução de IAM open-source, se reposicionou como agent-first, com gateway de LLM MCP e agentes.",
+          "source": {
+            "label": "GitHub — casdoor/casdoor",
+            "url": "https://github.com/casdoor/casdoor"
+          }
+        },
+        {
+          "title": "HN debate: agentes precisam mesmo de skills?",
+          "body": "Discussão ativa no Hacker News em que devs debatem a real necessidade do conceito de skills para agentes, com ceticismo e defesas.",
+          "source": {
+            "label": "Hacker News — 2 ago",
+            "url": "https://news.ycombinator.com/item?id=49139845"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Memória de agente virou categoria, com hub unificado e MCP de codebase em alta. Identidade e acesso entraram na conversa de agentes via MCP."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-02",
       "date": "2026-08-02",
       "hook": "Projetos — 02 de agosto",
