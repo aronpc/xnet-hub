@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-02",
+      "date": "2026-08-02",
+      "hook": "Projetos — 02 de agosto",
+      "caption": "A semana foi de infra de agentes. Orquestração de longo horizonte no topo, e em volta a camada que a cerca: gateway de roteamento, custo por prompt e otimização de contexto.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-02",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-02",
+      "slides": [
+        {
+          "title": "Projetos — 02 de agosto",
+          "body": "A semana foi de infra de agentes. Orquestração de longo horizonte no topo, e em volta a camada que a cerca: gateway de roteamento, custo por prompt e otimização de contexto."
+        },
+        {
+          "title": "ByteDance deer-flow: harness de SuperAgent open-source",
+          "body": "O deer-flow, da ByteDance, é um harness open-source de SuperAgent de longo horizonte. Pesquisa, codifica e cria usando sandbox, memória, ferramentas, skills, subagentes e um message gateway. Já tem 78,8 mil estrelas.",
+          "source": {
+            "label": "GitHub — bytedance/deer-flow",
+            "url": "https://github.com/bytedance/deer-flow"
+          }
+        },
+        {
+          "title": "Aurora: gateway de IA em Go, 55x mais rápido que LiteLLM",
+          "body": "O aurorallm/aurora é um gateway self-hosted em Go que roteia tráfego de LLM entre OpenAI, Anthropic, Gemini, Groq e mais de 30 provedores numa API só, sem amarrar a um vendor. Alega ser 55 vezes mais rápido que o LiteLLM.",
+          "source": {
+            "label": "GitHub — aurorallm/aurora",
+            "url": "https://github.com/aurorallm/aurora"
+          }
+        },
+        {
+          "title": "headroom comprime tool outputs antes do LLM",
+          "body": "O headroom comprime saídas de tools, logs, arquivos e chunks de RAG antes de chegarem ao LLM. Mede cerca de 20% a menos de tokens. Já passa de 63 mil estrelas.",
+          "source": {
+            "label": "GitHub — headroomlabs-ai/headroom",
+            "url": "https://github.com/headroomlabs-ai/headroom"
+          }
+        },
+        {
+          "title": "Symbio: loop aberto de self fine-tuning",
+          "body": "O Symbio é um loop aberto em que a IA ajusta a si mesma de forma contínua, num processo de self fine-tuning.",
+          "source": {
+            "label": "GitHub — huyedits/Symbio",
+            "url": "https://github.com/huyedits/Symbio"
+          }
+        },
+        {
+          "title": "CostPerPrompt: preço de API de IA ao vivo",
+          "body": "O costperprompt.com mostra a precificação das APIs de IA em tempo real e tem calculadora de custo por carga real de trabalho.",
+          "source": {
+            "label": "costperprompt.com",
+            "url": "https://costperprompt.com/"
+          }
+        },
+        {
+          "title": "‘Todos constroem routers, nós descontinuamos o nosso’",
+          "body": "A Manifest publicou por que aposentou o próprio LLM router, argumentando contra o padrão crescente de uma camada de roteamento entre modelos.",
+          "source": {
+            "label": "Manifest — 31 jul",
+            "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/"
+          }
+        },
+        {
+          "title": "Hugging Face libera kit de agentes de voz locais",
+          "body": "O huggingface/speech-to-speech é o kit aberto para construir agentes de voz locais com modelos open-source. Traz o pipeline de voz a voz que roda on-device.",
+          "source": {
+            "label": "GitHub — huggingface/speech-to-speech",
+            "url": "https://github.com/huggingface/speech-to-speech"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Tudo converge para infra de agentes: orquestração no topo, e em volta gateway, custo e contexto. O roteamento virou debate, não consenso."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-02",
       "date": "2026-08-02",
       "hook": "IA — 02 de agosto",
