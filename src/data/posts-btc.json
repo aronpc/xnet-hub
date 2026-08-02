@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-02-01h31",
+      "date": "2026-08-02",
+      "time": "01h31",
+      "hook": "Num movimento curto e concentrado, o preço foi testar a máxima das últimas 24 horas. O curioso é que o medo ainda domina o termômetro de mercado (índice em 27): a alta simplesmente não convenceu todo mundo.",
+      "caption": "US$ 63.491 colado na máxima de 24h (63.558), com a leitura agora virada para cima.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-02-01h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-02-01h31",
+      "slides": [
+        {
+          "title": "No teto do dia",
+          "body": "US$ 63.491 colado na máxima de 24h (63.558), com a leitura agora virada para cima."
+        },
+        {
+          "title": "US$ 63.491",
+          "body": "Δ1h +0,16% · Δ24h +0,80% · volume 24h de US$ 15,0 bi.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço colado na máxima de 24h, com Δ1h e Δ24h positivos. Falta só confirmar o rompimento acima para a leitura seguir. Smart Money: funding +0,007% (neutro) e L/S 2,04.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Rompimento em jogo",
+          "body": "Passar de US$ 63.560 com volume abre espaço a 64.000; ceder 63.000 leva o preço de volta ao meio do range, rumo a 62.500. Suporte 62.500 · resistência 64.000."
+        },
+        {
+          "title": "Hora a hora",
+          "body": "Atualização a cada hora, sempre como leitura técnica de contexto."
+        }
+      ]
+    },
+    {
       "id": "2026-08-01-17h31",
       "date": "2026-08-01",
       "time": "17h31",
