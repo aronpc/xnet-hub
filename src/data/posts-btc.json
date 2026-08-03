@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-03-12h30",
+      "date": "2026-08-03",
+      "time": "12h30",
+      "hook": "O dia começou para baixo e virou: o Bitcoin se recuperou e agora encosta no topo do dia, perto de 64 mil dólares.",
+      "caption": "Bateu o fundo do dia em 62.540 e subiu até a maior cotação de 24 horas, 63.993.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-03-12h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-03-12h30",
+      "slides": [
+        {
+          "title": "Recuperou e encostou no topo do dia",
+          "body": "Bateu o fundo do dia em 62.540 e subiu até a maior cotação de 24 horas, 63.993."
+        },
+        {
+          "title": "US$ 63.675",
+          "body": "Δ1h +0,0% · Δ24h +0,96% · volume 24h de US$ 22,8 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Encostou na maior cotação do dia com funding neutro, o que confirma a subida sem exagero. Smart Money: funding +0,003% e L/S 1,71"
+        },
+        {
+          "title": "Tudo se decide perto dos 64 mil",
+          "body": "Suporte 63.000 (−1,1%) · Resistência 64.000 (+0,5%)"
+        },
+        {
+          "title": "A cada hora",
+          "body": "Leitura de contexto, hora a hora. Acompanhamento informativo do mercado, não recomendação de operação."
+        }
+      ]
+    },
+    {
       "id": "2026-08-03-06h31",
       "date": "2026-08-03",
       "time": "06h31",
