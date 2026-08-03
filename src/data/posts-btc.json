@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-02-21h30",
+      "date": "2026-08-02",
+      "time": "21h30",
+      "hook": "O dia mudou de cara. À 01h o preço encostava no topo de 24 horas; agora caiu para o terço de baixo do range, com volume fraco e o medo ainda em 28.",
+      "caption": "US$ 63.200 escorregou para a parte baixa da faixa de 24h (de 62,8k a 63,8k), num movimento sem convicção.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-02-21h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-02-21h30",
+      "slides": [
+        {
+          "title": "No terço de baixo do range",
+          "body": "US$ 63.200 escorregou para a parte baixa da faixa de 24h (de 62,8k a 63,8k), num movimento sem convicção."
+        },
+        {
+          "title": "US$ 63.200",
+          "body": "Δ1h −0,37% · Δ24h +0,63% · volume 24h de US$ 15,9 bi.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço parou na parte de baixo do range, sem fôlego para subir, com Δ1h negativa e volume fraco. Smart Money: funding +0,01% (neutro) e L/S 1,94.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Tudo depende do volume",
+          "body": "Segurar acima de US$ 63,6 mil com volume abre o topo de 24h (63,8k). Sem volume, a subida vira falsa ruptura. Suporte 62,8 mil · resistência 63,8 mil."
+        },
+        {
+          "title": "De hora em hora",
+          "body": "Leitura de contexto a cada hora. Acompanhamento informativo do mercado, não é recomendação de operação."
+        }
+      ]
+    },
+    {
       "id": "2026-08-02-01h31",
       "date": "2026-08-02",
       "time": "01h31",
