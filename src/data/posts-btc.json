@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-03-03h32",
+      "date": "2026-08-03",
+      "time": "03h32",
+      "hook": "Nove horas de queda seguidas levaram o preço de volta à parte mais baixa do intervalo de 24h, e a leitura do momento virou para baixo.",
+      "caption": "O recuo começou no fim da tarde e seguiu firme até o preço encostar na base das últimas 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-03-03h32",
+      "link": "https://xbtc.aronpc.dev/#2026-08-03-03h32",
+      "slides": [
+        {
+          "title": "Sem trégua",
+          "body": "O recuo começou no fim da tarde e seguiu firme até o preço encostar na base das últimas 24 horas."
+        },
+        {
+          "title": "US$ 62.728",
+          "body": "Δ1h −0,07% · Δ24h −1,10% · volume 24h de US$ 15,9 bi.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Nove closes em queda e preço colado na mínima de 24h, com Δ24h negativa. Smart Money: funding +0,01% (neutro) e L/S 2,00.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A faixa decide",
+          "body": "Segurar a faixa dos 62,7 mil sustenta um repique a 63,2 mil; ceder 62,5 mil com volume leva o olhar a 61,8 mil. Suporte 62.500 · resistência 63.500."
+        },
+        {
+          "title": "A cada hora",
+          "body": "Leitura de contexto, hora a hora. Acompanhamento informativo do mercado, não recomendação de operação."
+        }
+      ]
+    },
+    {
       "id": "2026-08-02-21h30",
       "date": "2026-08-02",
       "time": "21h30",
