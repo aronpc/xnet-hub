@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-03-06h31",
+      "date": "2026-08-03",
+      "time": "06h31",
+      "hook": "A menor cotação do dia saiu com volume bem acima do normal. O preço rebateu de leve, mas segue grudado na faixa mais baixa, parado no mesmo lugar.",
+      "caption": "Depois de tocar a menor cotação do dia, em US$ 62.552, o preço subiu um pouco na última hora e ficou ali, preso na faixa mais baixa.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-03-06h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-03-06h31",
+      "slides": [
+        {
+          "title": "Repique curto, sem convicção",
+          "body": "Depois de tocar a menor cotação do dia, em US$ 62.552, o preço subiu um pouco na última hora e ficou ali, preso na faixa mais baixa."
+        },
+        {
+          "title": "US$ 62.573",
+          "body": "Δ1h +0,46% · Δ24h −0,97% · volume 24h de US$ 17,1 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Absorve na faixa mais baixa do dia, com repique tímido e sem volume que confirme virada · Smart Money: funding +0,004% e L/S 2,14"
+        },
+        {
+          "title": "O que decide a próxima hora",
+          "body": "Segurar 62.300 leva a 62.800 e 63.000; ceder 62.300 com volume aponta 61.800 e depois 61.500. A vela da mínima saiu com volume 3 a 4 vezes a média, sinal de exaustão."
+        },
+        {
+          "title": "A cada hora",
+          "body": "Leitura de contexto, hora a hora. Acompanhamento informativo do mercado, não recomendação de operação."
+        }
+      ]
+    },
+    {
       "id": "2026-08-03-05h32",
       "date": "2026-08-03",
       "time": "05h32",
