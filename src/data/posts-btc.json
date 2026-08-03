@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-03-05h32",
+      "date": "2026-08-03",
+      "time": "05h32",
+      "hook": "O deslize ganhou força e o preço acabou de cravar a menor cotação do dia, em US$ 62.285. O medo segue em 28 e a atenção está na faixa dos 62,3 mil.",
+      "caption": "A pressão se intensificou na última hora (Δ1h de −0,49%) e empurrou o preço ao fundo do intervalo das últimas 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-03-05h32",
+      "link": "https://xbtc.aronpc.dev/#2026-08-03-05h32",
+      "slides": [
+        {
+          "title": "Nova mínima do dia",
+          "body": "A pressão se intensificou na última hora (Δ1h de −0,49%) e empurrou o preço ao fundo do intervalo das últimas 24 horas."
+        },
+        {
+          "title": "US$ 62.285",
+          "body": "Δ1h −0,49% · Δ24h −1,67% · volume 24h de US$ 16,9 bi.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Nova mínima de 24h e Δ24h ainda mais negativa; o ímpeto de venda segue. Smart Money: funding +0,005% (neutro) e L/S 2,04.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teste dos 62,3 mil",
+          "body": "Ceder 62.300 com volume aponta a 62.000 e depois 61.500; segurar e voltar acima de 62.800 devolve o preço à faixa de 63.000 a 63.300. Suporte 62.300 · resistência 62.800."
+        },
+        {
+          "title": "A cada hora",
+          "body": "Leitura de contexto, hora a hora. Acompanhamento informativo do mercado, não recomendação de operação."
+        }
+      ]
+    },
+    {
       "id": "2026-08-03-03h32",
       "date": "2026-08-03",
       "time": "03h32",
