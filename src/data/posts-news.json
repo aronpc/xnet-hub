@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-03",
+      "date": "2026-08-03",
+      "hook": "Projetos — 3 de agosto",
+      "caption": "A inferência local pesou nesta semana. O criador do Redis entrou no jogo, um modelo de 70 bilhões passou a rodar em 4 GB de VRAM, e a categoria de juntar vários agentes numa só sala ganhou corpo.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-03",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-03",
+      "slides": [
+        {
+          "title": "Projetos — 3 de agosto",
+          "body": "A inferência local pesou nesta semana. O criador do Redis entrou no jogo, um modelo de 70 bilhões passou a rodar em 4 GB de VRAM, e a categoria de juntar vários agentes numa só sala ganhou corpo."
+        },
+        {
+          "title": "MicroCodex: o Codex num binário de 1 MB",
+          "body": "Projeto open source reimplementa o coding agent da OpenAI em C++, num binário de menos de 1 MB. Sem runtime pesado, sem dependência grande.",
+          "source": {
+            "label": "Show HN — 2 ago",
+            "url": "https://github.com/paoloanzn/microcodex"
+          }
+        },
+        {
+          "title": "Draco: Firecrawl self-host em Rust",
+          "body": "Crawler de scraping self-hostável, escrito em Rust, num binário só. Se apresenta como alternativa ao Firecrawl para extração de web para agentes e RAG.",
+          "source": {
+            "label": "Show HN — 2 ago",
+            "url": "https://github.com/0xchasercat/draco/"
+          }
+        },
+        {
+          "title": "Sprocket: agente de hardware e software",
+          "body": "Sprocket é um agente de IA para desenvolver tanto hardware quanto software. Foi construído por um desenvolvedor de 16 anos, e foi o projeto com mais tração do dia no HN.",
+          "source": {
+            "label": "Show HN — 2 ago",
+            "url": "https://github.com/spikonado/sprocket"
+          }
+        },
+        {
+          "title": "antirez lança engine de inferência pro DeepSeek 4",
+          "body": "Salvatore Sanfilippo, o antirez, criador do Redis, publicou uma engine de inferência local para o DeepSeek 4 Flash e PRO. Roda em Metal, CUDA e ROCm.",
+          "source": {
+            "label": "GitHub — 3 ago",
+            "url": "https://github.com/antirez"
+          }
+        },
+        {
+          "title": "DeepSeek-Reasonix: coding agent DeepSeek-native",
+          "body": "Agente de coding para terminal construído em torno dos modelos DeepSeek, com foco em estabilidade de prefix-cache. Tinha 333 estrelas por dia no GitHub quando pegou.",
+          "source": {
+            "label": "GitHub — 3 ago",
+            "url": "https://github.com/esengine/DeepSeek-Reasonix"
+          }
+        },
+        {
+          "title": "AirLLM: 70B numa GPU de 4 GB",
+          "body": "O AirLLM roda modelos de 70 bilhões de parâmetros numa única GPU com só 4 GB de RAM, por offloading agressivo. É queridinho recorrente do GitHub trending.",
+          "source": {
+            "label": "GitHub — 3 ago",
+            "url": "https://github.com/lyogavin/AirLLM"
+          }
+        },
+        {
+          "title": "OpenTalking: avatar de IA em tempo real, local",
+          "body": "Avatar de IA conversacional em tempo real, feito para deploy privado e local. Privacidade com realtime, as duas categorias quentes do momento juntas.",
+          "source": {
+            "label": "Show HN — 3 ago",
+            "url": "https://github.com/datascale-ai/opentalking"
+          }
+        },
+        {
+          "title": "Kota: juntar CLIs de agentes numa mesma sala",
+          "body": "O Kota reúne vários CLIs de agentes de IA num mesmo espaço compartilhado, para fazerem colaborar e serem observados juntos. Endereça o problema de orquestrar coding agents simultâneos.",
+          "source": {
+            "label": "Show HN — 2 ago",
+            "url": "https://www.kota.place/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A inferência local virou tema central, com nomes pesados entrando e modelos grandes em hardware pequeno. E a orquestração de vários agentes juntos deixou de ser caso isolado."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-03",
       "date": "2026-08-03",
       "hook": "IA — 3 de agosto",
