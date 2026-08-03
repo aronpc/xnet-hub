@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-03",
+      "date": "2026-08-03",
+      "hook": "Skills e MCP — 3 de agosto",
+      "caption": "A governança de agentes amadureceu. Surgiu camada de guardrail que agentes consultam antes de agir, controle de pagamento para IA, e telemetria assinada. E o próprio agent-reach apareceu fora de casa com o mesmo nome.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-03",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-03",
+      "slides": [
+        {
+          "title": "Skills e MCP — 3 de agosto",
+          "body": "A governança de agentes amadureceu. Surgiu camada de guardrail que agentes consultam antes de agir, controle de pagamento para IA, e telemetria assinada. E o próprio agent-reach apareceu fora de casa com o mesmo nome."
+        },
+        {
+          "title": "Yamlet: CLI e skillset pra definir requisitos",
+          "body": "O Yamlet é uma CLI com skillset pro Claude Code que casa checagens determinísticas com interface humana, para ajudar a definir requisitos antes de codar.",
+          "source": {
+            "label": "Show HN — 3 ago",
+            "url": "https://hn.algolia.com/api/v1/search_by_date?query=Yamlet&tags=story"
+          }
+        },
+        {
+          "title": "Agent-Reach: projeto trending com o seu nome",
+          "body": "Um projeto chamado Agent-Reach, que dá a um agente a capacidade de ler e buscar em Twitter, Reddit, YouTube e GitHub, estava trending no GitHub com 659 estrelas por dia.",
+          "source": {
+            "label": "GitHub — 3 ago",
+            "url": "https://github.com/Panniantong/Agent-Reach"
+          }
+        },
+        {
+          "title": "Gauge: veja pra onde vai sua assinatura",
+          "body": "O Gauge rastreia o consumo e o limite da assinatura do Claude Code. Transparência de uso num produto onde custo e quota são opacos.",
+          "source": {
+            "label": "GitHub — 2 ago",
+            "url": "https://github.com/joey-io/gauge"
+          }
+        },
+        {
+          "title": "gnt: o cérebro que agentes consultam antes de agir",
+          "body": "O gnt é uma camada de governança, um cérebro da empresa que agentes de IA checam antes de executar ações. Funciona como guardrail organizacional.",
+          "source": {
+            "label": "GitHub — 3 ago",
+            "url": "https://github.com/gnt-ai/gnt"
+          }
+        },
+        {
+          "title": "Authoryze: controle de pagamento pra agentes",
+          "body": "Camada de controles de pagamento desenhada para agentes de IA, que limita e autoriza as transações que eles tentam fazer.",
+          "source": {
+            "label": "Show HN — 2 ago",
+            "url": "https://authoryze.ai"
+          }
+        },
+        {
+          "title": "Trail: telemetria assinada pra agentes",
+          "body": "Sistema de observabilidade que emite spans de OpenTelemetry assinados criptograficamente para agentes de IA, permitindo trilha auditável.",
+          "source": {
+            "label": "GitHub — 3 ago",
+            "url": "https://github.com/varmax2511/trail"
+          }
+        },
+        {
+          "title": "Graph Engineering com Claude",
+          "body": "Guia técnico explicando graph engineering com Claude: o que é e como usar grafos de contexto com o modelo, em vez de arquivos soltos.",
+          "source": {
+            "label": "X — 3 ago",
+            "url": "https://x.com/Mahaximus_/article/2082442856417956173"
+          }
+        },
+        {
+          "title": "Workflow de Claude Code pra TDAH",
+          "body": "Post detalhando um workflow de Claude Code desenhado para cérebros com TDAH, com foco em organização de contexto e redução de fricção.",
+          "source": {
+            "label": "chudi.dev — 2 ago",
+            "url": "https://chudi.dev/blog/claude-code-adhd-workflows"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A maturação veio na governança e na observabilidade de agentes: guardrail antes de agir, controle de dinheiro e trilha assinada. E o seu agent-reach apareceu fora de casa com o mesmo nome."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-03",
       "date": "2026-08-03",
       "hook": "Projetos — 3 de agosto",
