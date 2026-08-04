@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-04",
+      "date": "2026-08-04",
+      "hook": "Skills e MCP — edição de 04 de agosto",
+      "caption": "Observabilidade e avaliação de agentes ganham ferramentas dedicadas e o MCP verticaliza para além de dev tools.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-04",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-04",
+      "slides": [
+        {
+          "title": "Skills e MCP — edição de 04 de agosto",
+          "body": "Observabilidade e avaliação de agentes ganham ferramentas dedicadas e o MCP verticaliza para além de dev tools."
+        },
+        {
+          "title": "Armature: analytics de sessão de agente",
+          "body": "O Armature captura toda sessão no seu Claude Connector, app ChatGPT ou MCP e mostra o que usuários perguntam, o que agentes pensam e como usam o produto, com evals.",
+          "source": {
+            "label": "armature.tech",
+            "url": "https://armature.tech/"
+          }
+        },
+        {
+          "title": "Hermes: loop autônomo de issue a PR",
+          "body": "Uma agent skill que faz loop autônomo entre Codex e Claude Code. Recebe uma issue e segue até abrir o PR sozinha.",
+          "source": {
+            "label": "codenote.net",
+            "url": "https://codenote.net/en/posts/issue-to-pr-autonomous-loop-hermes-agent-skill/"
+          }
+        },
+        {
+          "title": "NestDocfy: contrato OpenAPI vira MCP",
+          "body": "Um MCP server que deixa coding agents consultarem o contrato OpenAPI da sua API NestJS direto.",
+          "source": {
+            "label": "nestdocfy.com",
+            "url": "https://www.nestdocfy.com/"
+          }
+        },
+        {
+          "title": "xcreener-mcp: peneira de mercados em português",
+          "body": "Um MCP server que deixa agentes peneirarem mercados financeiros em linguagem natural, em português claro.",
+          "source": {
+            "label": "github.com/xcreener/xcreener-mcp",
+            "url": "https://github.com/xcreener/xcreener-mcp"
+          }
+        },
+        {
+          "title": "MCPEmails: Gmail e IMAP para o agente",
+          "body": "Um MCP server self-hostável para Gmail e caixas IMAP e SMTP, que dá ao agente acesso a e-mail.",
+          "source": {
+            "label": "github.com/Albretsen/MCPEmails",
+            "url": "https://github.com/Albretsen/MCPEmails/tree/main/self-host"
+          }
+        },
+        {
+          "title": "AgentCodeGUI: multi-conta Claude Code e Codex",
+          "body": "Uma GUI desktop multi-conta para rodar Claude Code e Codex lado a lado.",
+          "source": {
+            "label": "github.com/UnrealFactory/AgentCodeGUI",
+            "url": "https://github.com/UnrealFactory/AgentCodeGUI"
+          }
+        },
+        {
+          "title": "Replaybook: avaliação para agentes de infra",
+          "body": "Um framework de avaliação para agentes que operam infraestrutura, com replay e avaliação das decisões do agente.",
+          "source": {
+            "label": "github.com/ducks/replaybook",
+            "url": "https://github.com/ducks/replaybook"
+          }
+        },
+        {
+          "title": "DFAH-Bench: drift em LLMs financeiros",
+          "body": "Um benchmark da IBM que mede drift de saída em LLMs financeiros. A mesma decisão de agente chega por rotas de ferramenta diferentes.",
+          "source": {
+            "label": "github.com/ibm-client-engineering",
+            "url": "https://github.com/ibm-client-engineering/output-drift-financial-llms"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Avaliação e observabilidade viram categoria própria e o MCP deixa de ser só dev tool para alcançar finança, e-mail e contrato de API."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-04",
       "date": "2026-08-04",
       "hook": "Projetos — edição de 04 de agosto",
