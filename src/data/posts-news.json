@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-04",
+      "date": "2026-08-04",
+      "hook": "Projetos — edição de 04 de agosto",
+      "caption": "MoE gigante cabe no bolso, ferramentas locais batem direto no seu stack e plataformas de agentes virando open-source.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-04",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-04",
+      "slides": [
+        {
+          "title": "Projetos — edição de 04 de agosto",
+          "body": "MoE gigante cabe no bolso, ferramentas locais batem direto no seu stack e plataformas de agentes virando open-source."
+        },
+        {
+          "title": "Swiftlet roda Qwen 80B num Mac",
+          "body": "Um runtime em Swift e Metal mantém só o núcleo denso residente e faz stream dos experts sob demanda. O Qwen3-Next-80B roda em 4,3 GB de RAM e o 35B roda até em iPhone.",
+          "source": {
+            "label": "github.com/leonickson1/Swiftlet",
+            "url": "https://github.com/leonickson1/Swiftlet"
+          }
+        },
+        {
+          "title": "Voicebox: estúdio de voz open-source",
+          "body": "Um app local-first que clona vozes a partir de poucos segundos de áudio, gera fala, dita em qualquer app e conversa com agentes. Alternativa gratuita ao ElevenLabs e WisprFlow.",
+          "source": {
+            "label": "github.com/jamiepine/voicebox",
+            "url": "https://github.com/jamiepine/voicebox"
+          }
+        },
+        {
+          "title": "Free Claude Code: proxy de providers",
+          "body": "Um proxy local com painel admin para rodar Claude Code, Codex e Pi por providers grátis, pagos ou locais. Você escolhe e valida os providers num só lugar.",
+          "source": {
+            "label": "github.com/Alishahryar1/free-claude-code",
+            "url": "https://github.com/Alishahryar1/free-claude-code"
+          }
+        },
+        {
+          "title": "Kronos: foundation model de candlesticks",
+          "body": "O primeiro foundation model open-source para candlesticks financeiros, treinado em dados de mais de 45 bolsas globais. Aceito no AAAI 2026.",
+          "source": {
+            "label": "github.com/shiyu-coder/Kronos",
+            "url": "https://github.com/shiyu-coder/Kronos"
+          }
+        },
+        {
+          "title": "Benzi: agente grounded num mapa de código",
+          "body": "Um assistente de coding IA aterrissado num mapa de código ao vivo do seu repositório.",
+          "source": {
+            "label": "benzi.fly.dev",
+            "url": "https://benzi.fly.dev/"
+          }
+        },
+        {
+          "title": "Keystroke abre o código da plataforma de agentes",
+          "body": "A Keystroke publicou no Show HN o código da sua plataforma interna de agentes e automações.",
+          "source": {
+            "label": "news.ycombinator.com",
+            "url": "https://news.ycombinator.com/item?id=49160376"
+          }
+        },
+        {
+          "title": "Sixb: a camada de SO para IA enterprise",
+          "body": "A Sixb lançou um framework que se descreve como a camada de sistema operacional e governança para IA empresarial, onde agentes rodam, são orquestrados e controlados.",
+          "source": {
+            "label": "sixb.ai",
+            "url": "https://sixb.ai/news/sixb-framework-launch"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Modelo grande cabe em poucos GB de RAM, a stack local de voz e coding ganha alternativas grátis e o harness de agentes vira produto open-source."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-04",
       "date": "2026-08-04",
       "hook": "IA — edição de 04 de agosto",
