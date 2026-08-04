@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-03-22h36",
+      "date": "2026-08-03",
+      "time": "22h36",
+      "hook": "O Bitcoin tentou de novo chegar aos 64 mil e esbarrou no mesmo teto: não passou. O preço recua pouco e segue parado na faixa de cima, com o mercado ainda em medo extremo.",
+      "caption": "O preço está no terço superior da faixa do dia, sem força para passar dos 64 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-03-22h36",
+      "link": "https://xbtc.aronpc.dev/#2026-08-03-22h36",
+      "slides": [
+        {
+          "title": "Topo de 64 mil resiste de novo e o Bitcoin segue parado",
+          "body": "O preço está no terço superior da faixa do dia, sem força para passar dos 64 mil."
+        },
+        {
+          "title": "US$ 63.443",
+          "body": "Δ1h +0,13% · Δ24h +0,49% · volume 24h de US$ 25,7 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Encostou no teto de 64 mil e recou, sem romper; as variações de 1h e 24h são minúsculas. Smart Money: funding quase zero e L/S 1,49."
+        },
+        {
+          "title": "Teto de 64 mil segue sem ceder",
+          "body": "Suporte 63.000 (−0,70%) · Resistência 64.000 (+0,88%)"
+        },
+        {
+          "title": "A cada hora",
+          "body": "Leitura de contexto, hora a hora. Acompanhamento informativo do mercado, não recomendação de operação."
+        }
+      ]
+    },
+    {
       "id": "2026-08-03-12h30",
       "date": "2026-08-03",
       "time": "12h30",
