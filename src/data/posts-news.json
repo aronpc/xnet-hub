@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-04",
+      "date": "2026-08-04",
+      "hook": "IA — edição de 04 de agosto",
+      "caption": "Semana de matemática de ponta como vitrine, open-weights chegando na edge e os primeiros marcos regulatórios duros virando lei.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-04",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-04",
+      "slides": [
+        {
+          "title": "IA — edição de 04 de agosto",
+          "body": "Semana de matemática de ponta como vitrine, open-weights chegando na edge e os primeiros marcos regulatórios duros virando lei."
+        },
+        {
+          "title": "OpenAI lista 10 avanços em matemática",
+          "body": "A OpenAI publicou dez avanços em matemática e ciência da computação teórica alcançados com seus modelos. Virou o tópico mais comentado do Hacker News no dia.",
+          "source": {
+            "label": "openai.com",
+            "url": "https://openai.com/index/ten-advances-in-mathematics/"
+          }
+        },
+        {
+          "title": "Cloudflare serve Kimi e GLM na edge",
+          "body": "A Cloudflare detalhou como servir modelos frontier abertos em escala, com KV cache quantizado, compressão de pesos e verificações de integridade.",
+          "source": {
+            "label": "blog.cloudflare.com",
+            "url": "https://blog.cloudflare.com/smaller-faster-safer-models/"
+          }
+        },
+        {
+          "title": "MiniMax H3 ganha pipeline no ComfyUI",
+          "body": "O ComfyUI publicou suporte Day-0 ao MiniMax H3 com pesos abertos, áudio nativo e geração de vídeo 2K. Ficou no topo do Hacker News.",
+          "source": {
+            "label": "blog.comfy.org",
+            "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui"
+          }
+        },
+        {
+          "title": "SWE-Touch: benchmark com humano no loop",
+          "body": "Pesquisadores lançaram um benchmark que avalia coding agents enquanto o usuário edita o código ao mesmo tempo. Os benchmarks atuais assumem o código intacto.",
+          "source": {
+            "label": "trae1oung.github.io",
+            "url": "https://trae1oung.github.io/SWE-Touch/"
+          }
+        },
+        {
+          "title": "Design Arena capta US$ 7,9 mi por 'gosto'",
+          "body": "Os criadores do Design Arena levantaram 7,9 milhões de dólares para adicionar juízo estético humano a modelos de IA.",
+          "source": {
+            "label": "techcrunch.com",
+            "url": "https://techcrunch.com/category/artificial-intelligence/"
+          }
+        },
+        {
+          "title": "Snapchat para de pagar por IA no Spotlight",
+          "body": "O Snapchat deixou de monetizar conteúdo totalmente gerado por IA no Spotlight.",
+          "source": {
+            "label": "techcrunch.com",
+            "url": "https://techcrunch.com/category/artificial-intelligence/"
+          }
+        },
+        {
+          "title": "Regras de transparência da UE entram em vigor",
+          "body": "As obrigações de rotulagem e transparência do AI Act da União Europeia entraram em vigor, exigindo marcação de conteúdo e saída de IA.",
+          "source": {
+            "label": "theverge.com",
+            "url": "https://www.theverge.com/ai-artificial-intelligence"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A capacidade virou vitrina de matemática, open-weights baixou para a edge e a regulação deixou de ser ameaça para virar lei. O eixo agora é medir agentes em uso real."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-03",
       "date": "2026-08-03",
       "hook": "Skills e MCP — 3 de agosto",
