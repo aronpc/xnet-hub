@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-04-08h30",
+      "date": "2026-08-04",
+      "time": "08h30",
+      "hook": "Depois de horas parado, o BTC reagiu na última hora e virou para a alta. Preço em US$ 63.723, ainda abaixo do teto de 64,2k.",
+      "caption": "Horas sem direção, até o preço reagir e fechar a hora em alta, abaixo do teto do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-04-08h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-04-08h30",
+      "slides": [
+        {
+          "title": "Saiu do repouso e virou pra cima",
+          "body": "Horas sem direção, até o preço reagir e fechar a hora em alta, abaixo do teto do dia."
+        },
+        {
+          "title": "US$ 63.723",
+          "body": "Δ1h +0,47% · Δ24h +1,71% · vol $25,3 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Recupera do fundo de 62,4k rumo ao teto de 64,2k · Smart Money: funding +0,009% + L/S 1,51",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teto está a 0,8%",
+          "body": "Em cima, 64,2k (+0,8%) · Embaixo, 62,5k (−1,9%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "BTC intraday, atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-04-03h32",
       "date": "2026-08-04",
       "time": "03h32",
