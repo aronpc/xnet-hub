@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-05",
+      "date": "2026-08-05",
+      "hook": "Skills e MCP — edição de 05 de agosto",
+      "caption": "Segurança e governança dominaram o MCP. Surgiu plugin oficial de segurança, lint de conformidade, sandbox para server desconfiado e verificação de claims, ao lado de memória entre harnesses.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-05",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-05",
+      "slides": [
+        {
+          "title": "Skills e MCP — edição de 05 de agosto",
+          "body": "Segurança e governança dominaram o MCP. Surgiu plugin oficial de segurança, lint de conformidade, sandbox para server desconfiado e verificação de claims, ao lado de memória entre harnesses."
+        },
+        {
+          "title": "Claude Security Plugin entra em beta",
+          "body": "A Anthropic colocou em beta um plugin que escaneia, valida e aplica patch de vulnerabilidades direto no Claude Code, com o código ficando no ambiente do usuário.",
+          "source": {
+            "label": "code.claude.com",
+            "url": "https://code.claude.com/docs/en/claude-security"
+          }
+        },
+        {
+          "title": "Mcpscore: lint de conformidade MCP",
+          "body": "Ferramenta que testa servidores MCP contra a nova versão do protocolo, com as mudanças stateless recentes.",
+          "source": {
+            "label": "github.com/mcp-box/mcpscore",
+            "url": "https://github.com/mcp-box/mcpscore"
+          }
+        },
+        {
+          "title": "mcpvessel: enjaula MCP com egress negado",
+          "body": "Roda servidores MCP não confiáveis num sandbox com saída de rede negada por padrão.",
+          "source": {
+            "label": "github.com/okedeji/mcpvessel",
+            "url": "https://github.com/okedeji/mcpvessel"
+          }
+        },
+        {
+          "title": "Capshelf: skills com lockfile por projeto",
+          "body": "Compartilha agent skills entre repositórios usando lockfiles por projeto, como dependência de pacote.",
+          "source": {
+            "label": "github.com/genged/capshelf",
+            "url": "https://github.com/genged/capshelf"
+          }
+        },
+        {
+          "title": "adlc-team-skills: padrão do time vira skill",
+          "body": "Transforma padrões de codificação de um time em agent skills consumíveis por Claude Code e Codex.",
+          "source": {
+            "label": "github.com/tikalk/adlc-team-skills",
+            "url": "https://github.com/tikalk/adlc-team-skills"
+          }
+        },
+        {
+          "title": "Bourdon: um arquivo de memória entre harnesses",
+          "body": "Propõe um único arquivo de memória compartilhado entre Claude Code, Codex e Cursor.",
+          "source": {
+            "label": "bourdon.ai",
+            "url": "https://bourdon.ai"
+          }
+        },
+        {
+          "title": "cctap: a sessão que pede sua atenção",
+          "body": "Mostra e dá acesso rápido à sessão do Claude Code que está esperando ação humana.",
+          "source": {
+            "label": "github.com/chipmates/cctap",
+            "url": "https://github.com/chipmates/cctap"
+          }
+        },
+        {
+          "title": "Av9n: confira claims contra evidência externa",
+          "body": "Permite verificar afirmações feitas por um agente contra evidências externas que o próprio agente não controla.",
+          "source": {
+            "label": "av9n.ai/demo",
+            "url": "https://av9n.ai/demo"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O MCP ganhou camada de segurança e governança, com plugin oficial, conformidade e sandbox. Memória virou arquivo portátil entre harnesses, e skills deram mais um passo para virar dependência gerenciada."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-05",
       "date": "2026-08-05",
       "hook": "Projetos IA — edição de 05 de agosto",
