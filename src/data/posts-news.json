@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-05",
+      "date": "2026-08-05",
+      "hook": "Projetos IA — edição de 05 de agosto",
+      "caption": "Coding agents ganharam categoria própria. Há agente rodando na nuvem, editando vídeo, isolando segredos e atrás de um gateway, com fine-tune barato e bench local.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-05",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-05",
+      "slides": [
+        {
+          "title": "Projetos IA — edição de 05 de agosto",
+          "body": "Coding agents ganharam categoria própria. Há agente rodando na nuvem, editando vídeo, isolando segredos e atrás de um gateway, com fine-tune barato e bench local."
+        },
+        {
+          "title": "Nightcrawler: pentest no smartphone",
+          "body": "Projeto aberto de agente de IA para pentest que roda localmente no celular, sem mandar nada para a nuvem.",
+          "source": {
+            "label": "github.com/garagehq/nightcrawler",
+            "url": "https://github.com/garagehq/nightcrawler/"
+          }
+        },
+        {
+          "title": "Soup: fine-tune de 8B em GPU de 4 GB",
+          "body": "Mostra como ajustar um modelo de 8 bilhões de parâmetros numa GPU de 4 GB de notebook.",
+          "source": {
+            "label": "github.com/MakazhanAlpamys/Soup",
+            "url": "https://github.com/MakazhanAlpamys/Soup"
+          }
+        },
+        {
+          "title": "OpenEdit: coding agent edita vídeo",
+          "body": "A Veed abriu um plugin para que coding agents como Claude Code e Codex editem vídeos em timeline.",
+          "source": {
+            "label": "github.com/veedstudio/open-edit",
+            "url": "https://github.com/veedstudio/open-edit"
+          }
+        },
+        {
+          "title": "Isolade: microVMs sem segredo para agentes",
+          "body": "Um workbench local-first para coding agents, com microVMs que isolam por padrão e nunca expõem segredos.",
+          "source": {
+            "label": "github.com/isolade/isolade",
+            "url": "https://github.com/isolade/isolade"
+          }
+        },
+        {
+          "title": "Homebench: LLMs locais por velocidade e memória",
+          "body": "Um benchmark para avaliar LLMs rodando em casa em três eixos: velocidade, memória e qualidade.",
+          "source": {
+            "label": "github.com/david-g-3654/homebench",
+            "url": "https://github.com/david-g-3654/homebench"
+          }
+        },
+        {
+          "title": "Stonefold: gateway determinístico para agentes",
+          "body": "Um gateway que fica entre agentes de IA e os sistemas que eles tocam, para dar previsibilidade aos efeitos colaterais.",
+          "source": {
+            "label": "stonefold.ai",
+            "url": "https://stonefold.ai/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O coding agent deixou de ser ferramenta de dev e virou workload. Roda isolado, toca vídeo e ganha gateway de produção, enquanto o fine-tune barato e o bench local aproximam o frontier da própria máquina."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-05",
       "date": "2026-08-05",
       "hook": "IA — edição de 05 de agosto",
