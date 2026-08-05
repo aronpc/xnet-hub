@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-05-11h30",
+      "date": "2026-08-05",
+      "time": "11h30",
+      "hook": "Caiu e voltou. Uma hora depois de recuar, o Bitcoin subiu de novo e encostou no topo de 24h, perto dos 64,6 mil, desta vez com um volume um pouco maior.",
+      "caption": "BTC recupera o recuo da hora anterior e faz a segunda investida no topo de 24h, nos 64,6 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-05-11h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-05-11h30",
+      "slides": [
+        {
+          "title": "Teima com o teto",
+          "body": "BTC recupera o recuo da hora anterior e faz a segunda investida no topo de 24h, nos 64,6 mil."
+        },
+        {
+          "title": "US$ 64.366",
+          "body": "Δ1h +0,43% · Δ24h +0,83% · vol $23,22 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Recuperou o recuo e voltou a empurrar o topo de 24h, no terço superior do intervalo, com volume subindo. Smart Money: funding +0,004% + L/S 1,29",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Segundo teste do topo",
+          "body": "Teto 64,6k (+0,3%) · Chão 63,8k (−0,9%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "BTC intraday, atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-05-10h31",
       "date": "2026-08-05",
       "time": "10h31",
