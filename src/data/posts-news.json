@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-05",
+      "date": "2026-08-05",
+      "hook": "IA — edição de 05 de agosto",
+      "caption": "A semana misturou dinheiro e confiança. Compute virou contrato de bilhões, a dívida do setor virou risco visível e a segurança em pesos abertos ganhou peso.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-05",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-05",
+      "slides": [
+        {
+          "title": "IA — edição de 05 de agosto",
+          "body": "A semana misturou dinheiro e confiança. Compute virou contrato de bilhões, a dívida do setor virou risco visível e a segurança em pesos abertos ganhou peso."
+        },
+        {
+          "title": "Anthropic fecha 10 bi com a nuvem Volta",
+          "body": "A Anthropic assinou um acordo de 10 bilhões de dólares com a Volta, uma nuvem feita só para IA, para garantir capacidade de compute a longo prazo.",
+          "source": {
+            "label": "TechCrunch — 4 ago",
+            "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
+          }
+        },
+        {
+          "title": "Dívida oculta da IA passa de 1,6 trilhão",
+          "body": "A Fortune mostra que o endividamento escondido dos hyperscalers saltou mil por cento e chegou a 1,65 trilhão de dólares em capex financiado fora do balanço.",
+          "source": {
+            "label": "Fortune — 31 jul",
+            "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/"
+          }
+        },
+        {
+          "title": "Mistral Shieldstral: guardrail de 3B em pesos abertos",
+          "body": "A Mistral lançou o Shieldstral, um classificador de segurança multimodal de 3 bilhões de parâmetros em pesos abertos, que diz superar modelos até sete vezes maiores.",
+          "source": {
+            "label": "mistral.ai",
+            "url": "https://mistral.ai/news/shieldstral/"
+          }
+        },
+        {
+          "title": "DeepSeek V4 Flash roda numa única MI300X",
+          "body": "Um engenheiro publicou a configuração para rodar o DeepSeek V4 Flash numa única GPU AMD MI300X, com Docker Compose e overlays fixados por hash.",
+          "source": {
+            "label": "github.com/ryanzhou",
+            "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x"
+          }
+        },
+        {
+          "title": "Pesos abertos encostam na frontier",
+          "body": "Modelos de pesos abertos estão alcançando a fronteira em capacidade, mas a lacuna de segurança em relação aos fechados continua aberta.",
+          "source": {
+            "label": "TechCrunch — 4 ago",
+            "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
+          }
+        },
+        {
+          "title": "CVEs críticos do SQLite eram invenção de LLM",
+          "body": "A JFrog mostrou que uma onda de CVEs críticos reportados no SQLite eram fabricação gerada por LLM, e não falhas reais.",
+          "source": {
+            "label": "research.jfrog.com",
+            "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O dinheiro foi a linguagem da semana, com compute virando contrato e dívida virando risco. Do lado técnico, a segurança em pesos abertos ganhou peso, e claims de IA foram postos à prova."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-04",
       "date": "2026-08-04",
       "hook": "Skills e MCP — edição de 04 de agosto",
