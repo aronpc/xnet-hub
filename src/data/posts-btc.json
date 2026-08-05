@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-05-16h31",
+      "date": "2026-08-05",
+      "time": "16h31",
+      "hook": "O mercado ficou horas parado na mesma faixa. O Bitcoin acabou passando do teto que segurava a manhã e bateu nova máxima do dia, perto dos 65 mil.",
+      "caption": "Deixou para trás a faixa da manhã e subiu até a máxima nova de 24h, perto dos 65 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-05-16h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-05-16h31",
+      "slides": [
+        {
+          "title": "Nova máxima do dia",
+          "body": "Deixou para trás a faixa da manhã e subiu até a máxima nova de 24h, perto dos 65 mil."
+        },
+        {
+          "title": "US$ 64.860",
+          "body": "Δ1h +0,30% · Δ24h +0,97% · vol $23,4 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Subiu oito horas seguidas, do 64,3 mil ao 64,9 mil, e está na máxima de 24h. Smart Money: funding +0,0004% + L/S 1,16",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Teste dos 65 mil",
+          "body": "Piso 64,0k (−1,3%) · Teto 65,0k (+0,2%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "BTC intraday, atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-05-11h30",
       "date": "2026-08-05",
       "time": "11h30",
