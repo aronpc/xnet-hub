@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-06",
+      "date": "2026-08-06",
+      "hook": "Projetos: edição de 6 de agosto",
+      "caption": "A semana foi de infra de agentes amadurecendo. Computer-use virou serviço, estado durável ganhou kernel, e a memória apareceu como o eixo saturado.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-06",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-06",
+      "slides": [
+        {
+          "title": "Projetos: edição de 6 de agosto",
+          "body": "A semana foi de infra de agentes amadurecendo. Computer-use virou serviço, estado durável ganhou kernel, e a memória apareceu como o eixo saturado."
+        },
+        {
+          "title": "Cloudflare dá um computador ao seu agente",
+          "body": "A Cloudflare lançou o computer, uma API que entrega um ambiente de computador para agentes operarem interfaces. Está em alta no GitHub trending.",
+          "source": {
+            "label": "github.com/cloudflare",
+            "url": "https://github.com/cloudflare/computer"
+          }
+        },
+        {
+          "title": "TencentDB Agent Memory vira hub de memória de time",
+          "body": "A TencentCloud abriu o TencentDB Agent Memory, um hub de memória em nível de time que converte conversas, docs e código em quatro ativos reutilizáveis.",
+          "source": {
+            "label": "github.com/TencentCloud",
+            "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+          }
+        },
+        {
+          "title": "Uber abre o ADR: runtime protection para agentes",
+          "body": "A Uber abriu o ADR, uma camada de observabilidade, benchmark de segurança e detecção de ameaças para agentes de IA. Já roda em deploy interno na própria Uber.",
+          "source": {
+            "label": "github.com/uber",
+            "url": "https://github.com/uber/ADR"
+          }
+        },
+        {
+          "title": "loopx: kernel de estado durável para times de agentes",
+          "body": "O loopx é um kernel leve de loop engineering com estado durável, agnóstico entre Codex, Claude Code e outros coding agents.",
+          "source": {
+            "label": "github.com/huangruiteng",
+            "url": "https://github.com/huangruiteng/loopx"
+          }
+        },
+        {
+          "title": "MoE de 20B roda a 120 tok/s num iPhone",
+          "body": "A Deepgrove mostrou o Maple-Preview, um modelo MoE de 20 bilhões com pesos ternários rodando a cerca de 120 tokens por segundo num iPhone.",
+          "source": {
+            "label": "deepgrove.ai",
+            "url": "https://deepgrove.ai/maple-preview"
+          }
+        },
+        {
+          "title": "EdotEnv: ambientes de RL quant para treinar LLMs",
+          "body": "O EdotEnv, do batch S26 do YC, oferece ambientes de reinforcement learning de trading quantitativo para treinar LLMs em pesquisa.",
+          "source": {
+            "label": "edotenv.com — YC S26",
+            "url": "https://edotenv.com"
+          }
+        },
+        {
+          "title": "Alcatraz: detecção de PII em Go, 100x mais rápida",
+          "body": "O Alcatraz é uma ferramenta de detecção de PII em Go puro que se afirma cerca de cem vezes mais rápida que o Microsoft Presidio.",
+          "source": {
+            "label": "news.ycombinator.com",
+            "url": "https://news.ycombinator.com/item?id=49169567"
+          }
+        },
+        {
+          "title": "Wallfacer: gerenciador de sessões para Claude Code",
+          "body": "O Wallfacer é um gerenciador de sessões de terminal para o Claude Code e outros, lançado em Show HN no dia 6 de agosto.",
+          "source": {
+            "label": "github.com/pradipta",
+            "url": "https://github.com/pradipta/wallfacer"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A infra de agentes está virando produto: computer-use, observabilidade e session managers saíram do repositório. O nó a desatar é memória, e a saída é curar, não empilhar."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-06",
       "date": "2026-08-06",
       "hook": "IA: edição de 6 de agosto",
