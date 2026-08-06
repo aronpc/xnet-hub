@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-06",
+      "date": "2026-08-06",
+      "hook": "Skills e MCP: edição de 6 de agosto",
+      "caption": "O MCP ganhou ferramenta canônica e a camada de skill-authoring virou categoria. É justamente o eixo onde dá pra curar o que está sobrando.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-06",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-06",
+      "slides": [
+        {
+          "title": "Skills e MCP: edição de 6 de agosto",
+          "body": "O MCP ganhou ferramenta canônica e a camada de skill-authoring virou categoria. É justamente o eixo onde dá pra curar o que está sobrando."
+        },
+        {
+          "title": "draw.io ganha MCP Server oficial",
+          "body": "A jgraph lançou o MCP Server oficial do draw.io, permitindo que coding agents manipulem diagramas.",
+          "source": {
+            "label": "github.com/jgraph",
+            "url": "https://github.com/jgraph/drawio-mcp"
+          }
+        },
+        {
+          "title": "Implement-spec: de spec a PR verificado, em qualquer harness",
+          "body": "O Implement-spec é uma agent-skill que leva uma spec a um PR verificado, independente de harness, seja Claude Code, Codex ou outro.",
+          "source": {
+            "label": "github.com/SteveVitali",
+            "url": "https://github.com/SteveVitali/agent-skills"
+          }
+        },
+        {
+          "title": "Watchfire: control room open-source para agentes",
+          "body": "O Watchfire é uma sala de controle open-source para monitorar agentes de coding.",
+          "source": {
+            "label": "github.com/watchfire-io",
+            "url": "https://github.com/watchfire-io/watchfire"
+          }
+        },
+        {
+          "title": "HUD: UI de terminal para Claude Code, Codex e OpenCode",
+          "body": "O HUD é uma UI de terminal open-source e minimal para Claude Code, Codex e OpenCode.",
+          "source": {
+            "label": "github.com/adrida",
+            "url": "https://github.com/adrida/hud-mode"
+          }
+        },
+        {
+          "title": "Ocean: sessões de agentes do time num só lugar",
+          "body": "O Ocean centraliza todas as sessões de agentes do time num único lugar.",
+          "source": {
+            "label": "ocean.mosaic.inc",
+            "url": "https://ocean.mosaic.inc/"
+          }
+        },
+        {
+          "title": "Securitycards: skill para uso seguro de bibliotecas",
+          "body": "O Securitycards é uma agent-skill que orienta coding agents a usarem bibliotecas de forma segura.",
+          "source": {
+            "label": "github.com/Reware-Labs",
+            "url": "https://github.com/Reware-Labs/securitycards"
+          }
+        },
+        {
+          "title": "Voice mode para o Claude Code",
+          "body": "O heyski lançou o voice mode para o Claude Code, em que o agente responde em voz como uma pessoa.",
+          "source": {
+            "label": "heyski.io",
+            "url": "https://heyski.io/"
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills: skills production-grade",
+          "body": "O Addy Osmani publicou o agent-skills, uma coleção de skills de engenharia production-grade para coding agents. Está em alta no GitHub trending.",
+          "source": {
+            "label": "github.com/addyosmani",
+            "url": "https://github.com/addyosmani/agent-skills"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Skill-authoring deixou de ser hobby e virou categoria, com curadoria como o próximo problema. O MCP, enquanto isso, seguiu incorporando ferramentas canônicas."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-06",
       "date": "2026-08-06",
       "hook": "Projetos: edição de 6 de agosto",
