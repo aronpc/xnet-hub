@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-06-10h32",
+      "date": "2026-08-06",
+      "time": "10h32",
+      "hook": "O dia começou lá em cima, nos 65 mil, e foi caindo devagar até encostar na mínima das últimas 24 horas. O piso de 64 mil é a questão agora, e até aqui segurou.",
+      "caption": "Cruzou o intervalo de ponta a ponta e parou na mínima de 24h; o piso de US$ 64.000 não cedeu.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-06-10h32",
+      "link": "https://xbtc.aronpc.dev/#2026-08-06-10h32",
+      "slides": [
+        {
+          "title": "Encostou no piso do dia",
+          "body": "Cruzou o intervalo de ponta a ponta e parou na mínima de 24h; o piso de US$ 64.000 não cedeu."
+        },
+        {
+          "title": "US$ 64.171",
+          "body": "Δ1h −0,45% · Δ24h +0,16% · vol $21,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Desceu até a mínima de 24h sem fechar abaixo de 64 mil e segue sem rumo, parado na beira do piso. Smart money quieto: funding +0,002% e L/S 1,18.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O piso de 64 mil decide",
+          "body": "Suporte $64.000 (−0,27%) · Resistência $64.500 (+0,51%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "BTC intraday, atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-06-05h31",
       "date": "2026-08-06",
       "time": "05h31",
