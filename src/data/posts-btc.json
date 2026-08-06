@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-06-02h33",
+      "date": "2026-08-06",
+      "time": "02h33",
+      "hook": "Depois de passar o começo do dia perto da base, o Bitcoin subiu e foi encostar nos 65 mil. Chegou perto da máxima das últimas 24 horas e parou por lá, num arranque pequeno que segurou.",
+      "caption": "Subiu até a máxima de 24h e segue perto dos 65 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-06-02h33",
+      "link": "https://xbtc.aronpc.dev/#2026-08-06-02h33",
+      "slides": [
+        {
+          "title": "Firmou no topo",
+          "body": "Subiu até a máxima de 24h e segue perto dos 65 mil."
+        },
+        {
+          "title": "US$ 64.845",
+          "body": "Δ1h −0,03% · Δ24h +0,75% · vol $22,5 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Saiu da base do intervalo e subiu até a ponta de cima, onde segue firme. Smart money quieto: funding 0,0036% + L/S 1,17.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teto dos 65 mil em foco",
+          "body": "Base 64,5k (−0,5%) · Teto 65,0k (+0,2%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "BTC intraday, atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-05-21h33",
       "date": "2026-08-05",
       "time": "21h33",
