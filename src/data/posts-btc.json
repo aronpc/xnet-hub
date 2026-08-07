@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-07-03h30",
+      "date": "2026-08-07",
+      "time": "03h30",
+      "hook": "Horas colado na ponta de baixo da faixa de 24 horas, o BTC enfim deu um sinal de vida na madrugada e segura os 64,4k. O sentimento segue em medo.",
+      "caption": "O preço encostou no limite inferior do intervalo, não cedeu e voltou a subir. Falta convicção dos dois lados.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-07-03h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-07-03h30",
+      "slides": [
+        {
+          "title": "A ponta de baixo aguentou",
+          "body": "O preço encostou no limite inferior do intervalo, não cedeu e voltou a subir. Falta convicção dos dois lados."
+        },
+        {
+          "title": "US$ 64.379",
+          "body": "Δ1h +0,39% · Δ24h −0,58% · vol $18,0 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Faixa curta de 24h, de US$ 64,2k a 65,0k, com o preço roçando o limite de baixo. Smart money neutro: funding +0,0042% + L/S 1,25.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A faixa tem duas bordas",
+          "body": "Limite inferior US$ 64.166 (−0,33%) · Topo da faixa US$ 65.000 (+0,96%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "BTC intraday, atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-06-20h30",
       "date": "2026-08-06",
       "time": "20h30",
