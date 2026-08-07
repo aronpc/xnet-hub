@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-07-14h32",
+      "date": "2026-08-07",
+      "time": "14h32",
+      "hook": "A alta não durou. O Bitcoin devolve os ganhos da manhã e volta perto da menor cotação das últimas 24 horas.",
+      "caption": "Chegou a encostar em $65 mil, recuou e agora roça a faixa mais baixa do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-07-14h32",
+      "link": "https://xbtc.aronpc.dev/#2026-08-07-14h32",
+      "slides": [
+        {
+          "title": "Ganhos da manhã, devolvidos",
+          "body": "Chegou a encostar em $65 mil, recuou e agora roça a faixa mais baixa do dia."
+        },
+        {
+          "title": "US$ 64.561",
+          "body": "Δ1h −0,49% · Δ24h −0,11% · vol $20,7 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A última hora teve o recuo mais forte do dia, com o preço caindo em direção ao piso. · Smart Money: funding +0,006% + L/S 1,07",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Perto da mínima de 24h",
+          "body": "Suporte US$ 64.200 (−0,56%) · Resistência US$ 65.400 (+1,30%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "BTC intraday, atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-07-08h30",
       "date": "2026-08-07",
       "time": "08h30",
