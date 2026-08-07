@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-06-20h30",
+      "date": "2026-08-06",
+      "time": "20h30",
+      "hook": "A recuperação do meio-dia não durou: o preço escorreu a tarde inteira de volta até a mínima de 24 horas e estacionou ali, num volume que quase some.",
+      "caption": "O que subiu no almoço já evaporou. O preço está colado na ponta de baixo, parado, sem fôlego para romper de nenhum dos lados.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-06-20h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-06-20h30",
+      "slides": [
+        {
+          "title": "O repique não vingou",
+          "body": "O que subiu no almoço já evaporou. O preço está colado na ponta de baixo, parado, sem fôlego para romper de nenhum dos lados."
+        },
+        {
+          "title": "US$ 64.217",
+          "body": "Δ1h −0,15% · Δ24h −0,68% · vol $18,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Encostou na borda de baixo do intervalo, sem fechar abaixo da mínima de 24h. Faixa curta, de US$ 64,2k a 65,0k. Smart money neutro: funding +0,0004% (recuou pela metade) + L/S 1,19.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Tudo passa pela mínima de 24h",
+          "body": "Chão US$ 64.200 (−0,03%) · Teto US$ 64.800 (+0,91%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "BTC intraday, atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-06-12h31",
       "date": "2026-08-06",
       "time": "12h31",
