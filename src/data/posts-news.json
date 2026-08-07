@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-07",
+      "date": "2026-08-07",
+      "hook": "Skills e MCP: edição de 7 de agosto",
+      "caption": "O MCP amadureceu e a pergunta virou como rodar em escala. Um padrão aberto tenta unificar skills e protocolo, a spec stateless força migração e a segurança foi parar no centro da semana.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-07",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-07",
+      "slides": [
+        {
+          "title": "Skills e MCP: edição de 7 de agosto",
+          "body": "O MCP amadureceu e a pergunta virou como rodar em escala. Um padrão aberto tenta unificar skills e protocolo, a spec stateless força migração e a segurança foi parar no centro da semana."
+        },
+        {
+          "title": "Agent Plugins: o padrão aberto que roda em qualquer produto",
+          "body": "Na véspera de 1 ano do GPT-5, OpenAI e quatro rivais (Amazon, Microsoft, Cursor, Vercel) publicaram o Agent Plugins, padrão aberto para uma extensão rodar em qualquer produto. Build once, run anywhere em ChatGPT, Copilot e Cursor.",
+          "source": {
+            "label": "thenextweb.com — 6 ago",
+            "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp"
+          }
+        },
+        {
+          "title": "Cloudflare publica a visão do MCP v2",
+          "body": "A Cloudflare publicou sua visão para a próxima geração do Model Context Protocol, alinhada à spec stateless de 28 de julho, com foco em escala e deploy remoto.",
+          "source": {
+            "label": "blog.cloudflare.com — 6 ago",
+            "url": "https://blog.cloudflare.com/mcp-v2/"
+          }
+        },
+        {
+          "title": "Só 1 em cada 30 MCP servers em prod tirou A em OAuth",
+          "body": "O Authgent escaneou a configuração de OAuth de 30 MCP servers em produção e constatou que só 1 recebeu nota A. A imensa maioria tem autenticação fraca.",
+          "source": {
+            "label": "github.com/authgent — 7 ago",
+            "url": "https://github.com/authgent/authgent"
+          }
+        },
+        {
+          "title": "Sift: agregador MCP que expõe 2 tools em vez de centenas",
+          "body": "Projeto que agrega múltiplos MCP servers e expõe só cerca de 2 ferramentas consolidadas ao LLM, em vez das centenas que surgiriam da soma bruta.",
+          "source": {
+            "label": "github.com/Narasimha1997 — 6 ago",
+            "url": "https://github.com/Narasimha1997/sift"
+          }
+        },
+        {
+          "title": "Argus: scanner de segurança open-source via MCP",
+          "body": "Scanner de código de segurança open-source que expõe suas capacidades via MCP. Deixa agentes IA fazerem code-scanning de vulnerabilidades.",
+          "source": {
+            "label": "github.com/argus-code-scanning — 5 ago",
+            "url": "https://github.com/argus-code-scanning/argus-codescan-mcp"
+          }
+        },
+        {
+          "title": "Mirafold: UI generativa para Claude Code, Codex e Gemini",
+          "body": "Ferramenta que gera interfaces para sessões de Claude Code, Codex e Gemini CLI. Abstrai os CLIs em componentes visuais reutilizáveis.",
+          "source": {
+            "label": "mirafold.com — 6 ago",
+            "url": "https://mirafold.com"
+          }
+        },
+        {
+          "title": "Memoars: memória criptografada compartilhada entre assistentes",
+          "body": "Camada de memória criptografada de ponta a ponta que múltiplos assistentes IA compartilham. Memória entre harnesses com privacidade por criptografia.",
+          "source": {
+            "label": "memoars.com — 6 ago",
+            "url": "https://memoars.com"
+          }
+        },
+        {
+          "title": "Lapse: notas e memória compartilhada para agentes (MCP)",
+          "body": "App de notas que também funciona como espaço de memória compartilhado em tempo real entre os agentes do usuário, exposto via MCP.",
+          "source": {
+            "label": "lapse.in — 5 ago",
+            "url": "https://lapse.in"
+          }
+        },
+        {
+          "title": "Skills x MCP x rules: o que cada um custa",
+          "body": "Análise compara os três mecanismos de estender agentes, skills, MCP servers e arquivos de regras, em custo de tokens, manutenção e latência, e quando usar cada um.",
+          "source": {
+            "label": "paelladoc.com — 6 ago",
+            "url": "https://paelladoc.com/blog/agent-skills-vs-mcp-servers/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Semana de consolidação do MCP. O Agent Plugins tenta unificar skills e MCP num formato só, a spec stateless força uma migração, e a segurança virou o foco depois da auth fraca quantificada e do primeiro grande alerta de um MCP server."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-07",
       "date": "2026-08-07",
       "hook": "Projetos: edição de 7 de agosto",
