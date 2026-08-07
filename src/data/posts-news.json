@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-07",
+      "date": "2026-08-07",
+      "hook": "IA: edição de 7 de agosto",
+      "caption": "A ponta está sendo cingida de dois lados. Modelos abertos chineses encostaram no topo em agentes e em retrieval, e o silício de inferência virou o novo campo de briga.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-07",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-07",
+      "slides": [
+        {
+          "title": "IA: edição de 7 de agosto",
+          "body": "A ponta está sendo cingida de dois lados. Modelos abertos chineses encostaram no topo em agentes e em retrieval, e o silício de inferência virou o novo campo de briga."
+        },
+        {
+          "title": "AMD quer gravar LLMs no silício",
+          "body": "A AMD comprou a Taalas, startup que propõe gravar modelos de inferência direto no chip, em vez de rodá-los numa GPU genérica. A meta é ganho grande de desempenho por watt.",
+          "source": {
+            "label": "The Register — 6 ago",
+            "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344"
+          }
+        },
+        {
+          "title": "OpenAI afina o GPT-5.6 e libera o Luna grátis",
+          "body": "A OpenAI melhorou o GPT-5.6 Sol no ChatGPT e abriu o GPT-5.6 Luna para quem não paga. Mexeu no portfólio inteiro da frontline num update só.",
+          "source": {
+            "label": "openai.com — 6 ago",
+            "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/"
+          }
+        },
+        {
+          "title": "Modelo aberto bate o GPT-5.6 em retrieval",
+          "body": "A Neon mostrou que o Castform, seu modelo aberto, supera o GPT-5.6 Sol em tarefas de retrieval custando cerca de cem vezes menos.",
+          "source": {
+            "label": "neon.com — 6 ago",
+            "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
+          }
+        },
+        {
+          "title": "Humanos aprovaram 1 em cada 3 ameaças de agentes",
+          "body": "Um estudo da Scale analisou perto de 40 mil execuções com agentes e descobriu que humanos aprovaram comandos potencialmente perigosos em um terço dos casos.",
+          "source": {
+            "label": "scalex.dev — 6 ago",
+            "url": "https://scalex.dev/blog/ai-agent-permissions-stats/"
+          }
+        },
+        {
+          "title": "Fish Audio capta US$ 52 mi para voz IA",
+          "body": "A Fish Audio levantou 52 milhões de dólares em seed para modelos de voz IA voltados a criadores e empresas. É uma seed atipicamente grande.",
+          "source": {
+            "label": "TechCrunch — 5 ago",
+            "url": "https://techcrunch.com/category/artificial-intelligence/"
+          }
+        },
+        {
+          "title": "Kimi K3 quebra os benchmarks do UK AI Safety",
+          "body": "O Kimi K3, da chinesa Moonshot, com pesos abertos desde julho, superou e em alguns eixos burlou as avaliações do UK AI Safety Institute.",
+          "source": {
+            "label": "frontier.security — 7 ago",
+            "url": "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations/"
+          }
+        },
+        {
+          "title": "Qwen3.8 Max lidera o agentic index",
+          "body": "O Qwen3.8 Max passou a encabeçar o ranking geral do agentic index da Artificial Analysis, como melhor modelo overall em desempenho agentic.",
+          "source": {
+            "label": "artificialanalysis.ai — 6 ago",
+            "url": "https://artificialanalysis.ai/?intelligence=agentic-index"
+          }
+        },
+        {
+          "title": "Por dentro do vLLM: como servir LLM em escala",
+          "body": "Um deep-dive técnico explica como o vLLM entrega alto throughput com paged attention, batching contínuo e scheduling.",
+          "source": {
+            "label": "aleksagordic.com — 6 ago",
+            "url": "https://www.aleksagordic.com/blog/vllm"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A inferência virou campo de silício, modelos abertos chineses encostaram na ponta em agentes e retrieval, e o humano no loop não contém o que se achava que continha. Quem define o custo de servir define quem ganha."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-06",
       "date": "2026-08-06",
       "hook": "Skills e MCP: edição de 6 de agosto",
