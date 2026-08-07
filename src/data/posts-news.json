@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-07",
+      "date": "2026-08-07",
+      "hook": "Projetos: edição de 7 de agosto",
+      "caption": "A camada de runtime e guardrails de agentes está tomando forma. Os destaques da semana: deploy em k8s, debug read-only e trilhas imutáveis de auditoria virando padrão.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-07",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-07",
+      "slides": [
+        {
+          "title": "Projetos: edição de 7 de agosto",
+          "body": "A camada de runtime e guardrails de agentes está tomando forma. Os destaques da semana: deploy em k8s, debug read-only e trilhas imutáveis de auditoria virando padrão."
+        },
+        {
+          "title": "Channels SDK: agente em qualquer canal",
+          "body": "A CopilotKit lançou o Channels SDK, que liga qualquer agente, de qualquer framework, a Slack e MS Teams com pouco código. Padroniza a última milha da entrega.",
+          "source": {
+            "label": "github.com/CopilotKit — 6 ago",
+            "url": "https://github.com/CopilotKit/channels-sdk"
+          }
+        },
+        {
+          "title": "HyperProbe: debug só-leitura em produção",
+          "body": "Startup do batch S26 do YC lançou agentes que depuram direto em produção, em modo apenas-leitura, sem risco de mutação.",
+          "source": {
+            "label": "hyperprobe.co — 5 ago",
+            "url": "https://www.hyperprobe.co"
+          }
+        },
+        {
+          "title": "Curie: agentes Claude Code no Kubernetes",
+          "body": "Projeto open-source faz deploy de agentes do Claude Code para Kubernetes num git push só. Trata o agente como workload containerizado e versionado.",
+          "source": {
+            "label": "github.com/curie-eng — 5 ago",
+            "url": "https://github.com/curie-eng/curie"
+          }
+        },
+        {
+          "title": "Srelens: sala de controle de k8s para humano e agente",
+          "body": "Ferramenta open-source sob licença MIT cria uma sala de controle de Kubernetes compartilhada entre engenheiros e agentes IA, para operar o cluster juntos.",
+          "source": {
+            "label": "github.com/srelens — 6 ago",
+            "url": "https://github.com/srelens/srelens"
+          }
+        },
+        {
+          "title": "Sif 1.0: LLM no controle de um coder determinístico",
+          "body": "Projeto usa um LLM como vibe coder no controle de um motor determinístico. O modelo decide o quê, o motor executa com garantias.",
+          "source": {
+            "label": "github.com/Mac-at-SifSys — 5 ago",
+            "url": "https://github.com/Mac-at-SifSys/Sif-1.0"
+          }
+        },
+        {
+          "title": "Selvedge: log imutável do que seu agente já rejeitou",
+          "body": "Ferramenta mantém um log append-only de tudo que o agente IA já recusou. Um histórico auditável das decisões negativas.",
+          "source": {
+            "label": "github.com/masondelan — 7 ago",
+            "url": "https://github.com/masondelan/selvedge"
+          }
+        },
+        {
+          "title": "ARF: formato de registro para runs de eval",
+          "body": "Define um record format padronizado para runs de avaliação de IA, com digests criptográficos que tornam cada run reproduzível e verificável.",
+          "source": {
+            "label": "korvo.xyz — 6 ago",
+            "url": "https://www.korvo.xyz/arf"
+          }
+        },
+        {
+          "title": "Agente de trading que respeita limites (e começa em paper)",
+          "body": "Agente IA que opera trades dentro de limites definidos pelo usuário, começando em modo paper, simulado, antes de qualquer risco real.",
+          "source": {
+            "label": "quantsignals.xyz — 5 ago",
+            "url": "https://quantsignals.xyz/fst"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A camada de runtime e guardrails de agentes está tomando forma. Deploy em k8s e debug read-only viraram padrão, e a auditoria imutável apareceu como sub-tema recorrente nessa leva."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-07",
       "date": "2026-08-07",
       "hook": "IA: edição de 7 de agosto",
