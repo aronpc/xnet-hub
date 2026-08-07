@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-07-08h30",
+      "date": "2026-08-07",
+      "time": "08h30",
+      "hook": "Os 65 mil seguraram a manhã toda e acabaram cedendo. O BTC passou e agora roça a máxima das últimas 24 horas.",
+      "caption": "Resistiu desde cedo, mas a faixa cedeu e o preço foi bater na máxima de 24h.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-07-08h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-07-08h30",
+      "slides": [
+        {
+          "title": "Os 65 mil cederam",
+          "body": "Resistiu desde cedo, mas a faixa cedeu e o preço foi bater na máxima de 24h."
+        },
+        {
+          "title": "US$ 65.064",
+          "body": "Δ1h +0,35% · Δ24h +0,84% · vol $19,1 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Uma escada de alta na manhã levou o preço até a máxima das últimas 24h. · Smart Money: funding +0,006% + L/S 1,12",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Decisão na máxima de 24h",
+          "body": "Suporte US$ 64.800 (−0,41%) · Resistência US$ 65.200 (+0,21%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "BTC intraday, atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-07-07h33",
       "date": "2026-08-07",
       "time": "07h33",
