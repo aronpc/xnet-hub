@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-07-15h31",
+      "date": "2026-08-07",
+      "time": "15h31",
+      "hook": "O repique bateu no teto das últimas 24 horas e parou por aí. No topo o volume foi pesado e o preço tomou venda, recuando para o meio do caminho.",
+      "caption": "Subiu de novo depois da queda da manhã, mas esbarrou na faixa mais alta e não passou.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-07-15h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-07-15h31",
+      "slides": [
+        {
+          "title": "Repique barrado no teto",
+          "body": "Subiu de novo depois da queda da manhã, mas esbarrou na faixa mais alta e não passou."
+        },
+        {
+          "title": "US$ 64.781",
+          "body": "Δ1h +0,34% · Δ24h +0,50% · vol $21,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Máximas sobem e a base segura, mas o ganho do dia ainda é tímido. Preço parado no meio do range, esperando um lado ceder. · Smart Money: funding +0,006% + L/S 1,12",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "As bordas que decidem",
+          "body": "Faixa de baixo US$ 64.500 (−0,43%) · topo US$ 65.400 (+0,94%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "BTC intraday, atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-07-14h32",
       "date": "2026-08-07",
       "time": "14h32",
