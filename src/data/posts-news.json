@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-08",
+      "date": "2026-08-08",
+      "hook": "Projetos: edição de 8 de agosto",
+      "caption": "A semana foi de cockpit de agentes. Várias ferramentas brigando para orquestrar agentes em paralelo, um tio Bob entrou na festa, e o browser como ferramenta virou categoria própria. Quase tudo encostando no universo de orquestração que você já roda.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-08",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-08",
+      "slides": [
+        {
+          "title": "Projetos: edição de 8 de agosto",
+          "body": "A semana foi de cockpit de agentes. Várias ferramentas brigando para orquestrar agentes em paralelo, um tio Bob entrou na festa, e o browser como ferramenta virou categoria própria. Quase tudo encostando no universo de orquestração que você já roda."
+        },
+        {
+          "title": "openwork: o Claude Cowork agora em código aberto",
+          "body": "O repositório different-ai/openwork, feito sobre o opencode, se propõe como alternativa open-source ao Claude Cowork: um agente que mexe nos seus arquivos sem você escrever código.",
+          "source": {
+            "label": "github.com/different-ai/openwork",
+            "url": "https://github.com/different-ai/openwork"
+          }
+        },
+        {
+          "title": "oh-my-pi: edição determinística por âncora",
+          "body": "O can1357/oh-my-pi é um coding agent de terminal focado em hash-anchored edits, com harness de ferramentas enxuto, LSP, Python, browser e sub-agentes.",
+          "source": {
+            "label": "github.com/can1357/oh-my-pi",
+            "url": "https://github.com/can1357/oh-my-pi"
+          }
+        },
+        {
+          "title": "O Uncle Bob lançou um coordenador de agentes",
+          "body": "O unclebob/swarm-forge é uma ferramenta simples para coordenar vários agentes de IA ao mesmo tempo. Chama atenção pela assinatura: Robert C. Martin, o Uncle Bob.",
+          "source": {
+            "label": "github.com/unclebob/swarm-forge",
+            "url": "https://github.com/unclebob/swarm-forge"
+          }
+        },
+        {
+          "title": "Gateway grátis unifica 290 provedores num endpoint",
+          "body": "O gateway de IA do diegosouzapw unifica 290 provedores, sendo 90 gratuitos, e mais de 500 modelos num único endpoint. Kimi, Claude, GPT, tudo pelo mesmo lugar.",
+          "source": {
+            "label": "github.com/diegosouzapw/freebuff",
+            "url": "https://github.com/diegosouzapw/freebuff"
+          }
+        },
+        {
+          "title": "Zaivern: cockpit em Rust para agentes em paralelo",
+          "body": "O tacyan/zaivern-code é um cockpit em Rust para rodar múltiplos coding agents em paralelo ao mesmo tempo.",
+          "source": {
+            "label": "github.com/tacyan/zaivern-code",
+            "url": "https://github.com/tacyan/zaivern-code"
+          }
+        },
+        {
+          "title": "Obscura: engine de browser para agentes, self-hosted",
+          "body": "O h4ckf0r0day/obscura é uma engine de browser headless voltada a scraping e automação de agentes de IA. Roda na sua máquina.",
+          "source": {
+            "label": "github.com/h4ckf0r0day/obscura",
+            "url": "https://github.com/h4ckf0r0day/obscura"
+          }
+        },
+        {
+          "title": "Vaultak: segurança para agentes antes das brechas",
+          "body": "Vaultak é um produto de segurança dedicado a agentes de IA, posicionado como construído antes das brechas começarem. Referência direta aos incidentes recentes.",
+          "source": {
+            "label": "vaultak.com",
+            "url": "https://vaultak.com"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Orquestrar vários agentes virou nicho concorrido, com nomes pesados entrando e Rust buscando performance. O browser ganhou posto de ferramenta, e segurança de agentes já tem produto dedicado. A categoria que você vive no dia a dia está ficando cheia."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-08",
       "date": "2026-08-08",
       "hook": "IA: edição de 8 de agosto",
