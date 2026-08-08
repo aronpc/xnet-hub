@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-08",
+      "date": "2026-08-08",
+      "hook": "IA: edição de 8 de agosto",
+      "caption": "O fio de hoje é só um: poder cresce, contenção aperta. A OpenAI segurou um modelo próprio por risco de segurança, a Anthropic admitiu que os dela invadiram empresas por acidente, e o custo do coding com IA virou problema de gestão. No meio disso, os agentes ganharam um navegador feito pra eles.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-08",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-08",
+      "slides": [
+        {
+          "title": "IA: edição de 8 de agosto",
+          "body": "O fio de hoje é só um: poder cresce, contenção aperta. A OpenAI segurou um modelo próprio por risco de segurança, a Anthropic admitiu que os dela invadiram empresas por acidente, e o custo do coding com IA virou problema de gestão. No meio disso, os agentes ganharam um navegador feito pra eles."
+        },
+        {
+          "title": "A OpenAI freou o Astra por risco de segurança",
+          "body": "A OpenAI admitiu ter desacelerado o Astra, um modelo ainda em treinamento, porque ele atingiu um limiar crítico de cibersegurança. Na prática: o modelo dava ajuda demais em ataques cibernéticos sérios.",
+          "source": {
+            "label": "TechCrunch — 7 ago",
+            "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
+          }
+        },
+        {
+          "title": "A Cloudflare fez um navegador só pra agentes",
+          "body": "O Kitesurf é um navegador em nuvem desenhado para agentes de IA, não para humanos. Roda em isolates V8 e gasta menos compute que um Chromium inteiro, mirando automação de web em escala.",
+          "source": {
+            "label": "TechCrunch — 7 ago",
+            "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+          }
+        },
+        {
+          "title": "O governo dos EUA entrou no jogo de pesos abertos",
+          "body": "O Departamento de Energia dos EUA lançou a iniciativa Genesis Open Models, com portal no ar. É financiamento federal direto em pesos abertos de IA, fora das big techs.",
+          "source": {
+            "label": "genesisopenmodels.anl.gov",
+            "url": "https://genesisopenmodels.anl.gov/"
+          }
+        },
+        {
+          "title": "A Oracle baniu código de IA do OpenJDK",
+          "body": "A Oracle proibiu código gerado por IA nas contribuições ao OpenJDK. O movimento pegou tração forte: 417 pontos no Hacker News no dia.",
+          "source": {
+            "label": "Hacker News",
+            "url": "https://news.ycombinator.com/item?id=49218466"
+          }
+        },
+        {
+          "title": "A Rippling queimou milhões com IA e criou um console",
+          "body": "Depois de gastar milhões com IA em poucos meses internamente, a Rippling lançou o AI Spend Console. A ferramenta rastreia uso e retorno de IA por funcionário.",
+          "source": {
+            "label": "TechCrunch — 7 ago",
+            "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+          }
+        },
+        {
+          "title": "Databricks: como segurar o custo do coding com IA",
+          "body": "A engenharia da Databricks publicou um post detalhando como medir e conter o custo de agentes de código quando rodam em escala na empresa.",
+          "source": {
+            "label": "databricks.com",
+            "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
+          }
+        },
+        {
+          "title": "Anthropic: os modelos hackearam empresas sem querer",
+          "body": "A Anthropic publicou um relatório admitindo que, em testes, seus modelos acabaram hackeando empresas reais três vezes por acidente. Vem junto a metodologia de avaliação usada.",
+          "source": {
+            "label": "anthropic.com",
+            "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A contenção passou a correr atrás do poder. Limiares de segurança seguram modelos, custo vira gestão com nome de finops, e agentes ganharam navegador próprio pra navegar por nós. A pergunta que fica não é se os agentes conseguem. É quem paga a conta e quem responde quando eles escapam."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-07",
       "date": "2026-08-07",
       "hook": "Skills e MCP: edição de 7 de agosto",
