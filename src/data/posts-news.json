@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-08",
+      "date": "2026-08-08",
+      "hook": "Skills e MCP: edição de 8 de agosto",
+      "caption": "A skill saiu da casca de capacidade técnica e virou superfície oficial. O Google e o Android publicaram skills de agente, surge authoring de skills em massa, e apareceu a primeira pesquisa de segurança focada em skill maliciosa.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-08",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-08",
+      "slides": [
+        {
+          "title": "Skills e MCP: edição de 8 de agosto",
+          "body": "A skill saiu da casca de capacidade técnica e virou superfície oficial. O Google e o Android publicaram skills de agente, surge authoring de skills em massa, e apareceu a primeira pesquisa de segurança focada em skill maliciosa."
+        },
+        {
+          "title": "O Google publicou skills oficiais para agentes",
+          "body": "O Google lançou o repositório google/skills, com Agent Skills para seus produtos e tecnologias. Skills oficiais empacotadas para agentes consumirem Gmail, Drive e o resto.",
+          "source": {
+            "label": "github.com/google/skills",
+            "url": "https://github.com/google/skills"
+          }
+        },
+        {
+          "title": "i-have-adhd: skill pra o agente não enterrar a resposta",
+          "body": "O ayghri/i-have-adhd é uma skill que evita que o coding agent esconda ou enterre a resposta. Devolve uma saída dita ADHD-friendly, direto ao ponto.",
+          "source": {
+            "label": "github.com/ayghri/i-have-adhd",
+            "url": "https://github.com/ayghri/i-have-adhd"
+          }
+        },
+        {
+          "title": "PDF-to-skill: vira livro técnico em skill do Claude Code",
+          "body": "A ferramenta do virgiliojr94 converte qualquer PDF de livro técnico em uma skill do Claude Code, pronta para estudar, referenciar ou usar enquanto você trabalha.",
+          "source": {
+            "label": "github.com/virgiliojr94",
+            "url": "https://github.com/virgiliojr94"
+          }
+        },
+        {
+          "title": "Sessões do Claude Code agora trocam mensagens entre si",
+          "body": "Documentação nova no code.claude.com descreve como fazer suas sessões do Claude Code trocarem mensagens entre elas. Uma sessão conversa com a outra.",
+          "source": {
+            "label": "code.claude.com",
+            "url": "https://code.claude.com/docs/en/cross-session-messaging"
+          }
+        },
+        {
+          "title": "Bifrost: router de modelos que também é gateway de MCP",
+          "body": "O maximhq/bifrost é um router de modelos que defende a tese de que um model router deveria também prover um gateway de MCP. Funde as duas camadas numa peça só.",
+          "source": {
+            "label": "github.com/maximhq/bifrost",
+            "url": "https://github.com/maximhq/bifrost/"
+          }
+        },
+        {
+          "title": "Aident Loadout: uma skill, 25 mil ações",
+          "body": "O Aident-AI/aident-skill é um skill pack que conecta o Codex a apps reais através de cerca de 25 mil ações expostas.",
+          "source": {
+            "label": "github.com/Aident-AI/aident-skill",
+            "url": "https://github.com/Aident-AI/aident-skill"
+          }
+        },
+        {
+          "title": "Primeira pesquisa sobre skill maliciosa em agentes",
+          "body": "Um paper no arXiv propõe um framework de avaliação de risco para arquivos de skill maliciosos em coding agents. Não fala de MCP, fala de skill.",
+          "source": {
+            "label": "arxiv.org/abs/2608.05223",
+            "url": "https://arxiv.org/abs/2608.05223"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A skill parou de ser só capacidade técnica. Ganhou padaria de authoring em massa, virou canal de comportamento do agente e até superfície oficial do Google. E agora também tem gente estudando como atacar por ela. Quem importa skill de terceiros passou a ter mais um vetor pra vigiar."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-08",
       "date": "2026-08-08",
       "hook": "Projetos: edição de 8 de agosto",
