@@ -2,6 +2,66 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-09",
+      "date": "2026-08-09",
+      "hook": "Skills e MCP: edição de 9 de agosto",
+      "caption": "A semana é de virada de chave. O Claude Code vira auto por padrão a partir de 14 de agosto, e o resto é memória e contexto: memória de agente num SQLite, auditoria do que a compaction jogou fora, e MCP exposto pra nuvem via Tailscale. Tudo colado no stack de quem roda agente todo dia.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-09",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-09",
+      "slides": [
+        {
+          "title": "Skills e MCP: edição de 9 de agosto",
+          "body": "A semana é de virada de chave. O Claude Code vira auto por padrão a partir de 14 de agosto, e o resto é memória e contexto: memória de agente num SQLite, auditoria do que a compaction jogou fora, e MCP exposto pra nuvem via Tailscale. Tudo colado no stack de quem roda agente todo dia."
+        },
+        {
+          "title": "Claude Code vira auto por padrão em 14 de agosto",
+          "body": "A Anthropic torna o auto mode do Claude Code o padrão para novas sessões em Pro, Max e Team a partir de 14 de agosto. Um eval com 1.053 testers pagos mostrou risco de prompt injection e exfiltração menor que o de um revisor humano médio.",
+          "source": {
+            "label": "Simon Willison — 8 ago",
+            "url": "https://simonwillison.net/2026/Aug/8/auto-mode/"
+          }
+        },
+        {
+          "title": "Remembrane: memória de agente num SQLite",
+          "body": "Remembrane é uma camada de memória para agentes guardada num único arquivo SQLite, sem dependências externas. Persistência no estilo mais minimal possível.",
+          "source": "github.com/satyasairay/remembrane"
+        },
+        {
+          "title": "anti-slop: regras de design contra UI genérica",
+          "body": "anti-slop é um conjunto de regras de design para impedir que agentes de coding gerem UI genérica. Tem 43 estrelas.",
+          "source": "github.com/miqdadbadjuber/anti-slop"
+        },
+        {
+          "title": "aki-mcp-sv: MCP local exposto via Tailscale",
+          "body": "aki-mcp-sv é um servidor MCP de filesystem, shell e busca que roda local e é exposto via Tailscale Funnel com OAuth 2.1, pro claude.ai conectar por connector custom. Tem 37 estrelas.",
+          "source": "github.com/lacvietanh/aki-mcp-sv"
+        },
+        {
+          "title": "bubble-agent-mcp acha conversas em alta na web",
+          "body": "bubble-agent-mcp é um servidor MCP que descobre conversas e discussões em rápido crescimento na internet. Agentes escutando a web em tempo real. Tem 34 estrelas.",
+          "source": "github.com/alijancb/bubble-agent-mcp"
+        },
+        {
+          "title": "Compactdiff mostra o que a compaction jogou fora",
+          "body": "Compactdiff mostra o que o processo de compaction de contexto removeu de uma sessão de agente. Transparência sobre o que se perde nas sessões longas.",
+          "source": "github.com/mkmkkkkk/compactdiff"
+        },
+        {
+          "title": "PropMotion: skill do Claude Code pra 3D em SwiftUI",
+          "body": "PropMotion é uma skill do Claude Code que faz um objeto 3D performar num app SwiftUI, com SceneKit, coreografia baked, física e sombras reais. Tem 91 estrelas.",
+          "source": "github.com/dembsky/PropMotion"
+        },
+        {
+          "title": "Cowchat: Claude e Codex conversando em casa",
+          "body": "Cowchat deixa Claude, Codex e outros agentes conversarem entre si localmente. Multi-agent e cross-model chat num só canal.",
+          "source": "cowchat.cowboy.inc"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A confiança virou default. O auto mode assume o volante, a memória fica sob escrutínio, e o contexto ganha janelas de inspeção. O MCP, enquanto isso, deixa o localhost e aparece na nuvem pela porta do Tailscale. A semana pede revisar allowlist e gates de shell antes de soltar a mão."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-09",
       "date": "2026-08-09",
       "hook": "Projetos e repos: edição de 9 de agosto",
