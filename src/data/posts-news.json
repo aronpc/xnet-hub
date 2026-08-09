@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-09",
+      "date": "2026-08-09",
+      "hook": "IA: edição de 9 de agosto",
+      "caption": "O fio de hoje é o preço de tudo isso. O raciocínio de ponta virou commodity barata, o custo de rodar agentes virou problema de gestão, e a China começou a cobrar pelos pesos abertos. O resumo é curto: poder barato tem uma conta que aparece depois.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-09",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-09",
+      "slides": [
+        {
+          "title": "IA: edição de 9 de agosto",
+          "body": "O fio de hoje é o preço de tudo isso. O raciocínio de ponta virou commodity barata, o custo de rodar agentes virou problema de gestão, e a China começou a cobrar pelos pesos abertos. O resumo é curto: poder barato tem uma conta que aparece depois."
+        },
+        {
+          "title": "DeepSeek cravou 89% no ARC-AGI por centavos",
+          "body": "O DeepSeek V4 Flash 0731, liberado em 31 de julho, atingiu 89% no ARC-AGI-1 e 61,4% no ARC-AGI-2 no esforço máximo. Ficou no topo do ranking de raciocínio, custando US$ 0,02 por tarefa.",
+          "source": {
+            "label": "arcprize.org",
+            "url": "https://arcprize.org/results/deepseek-v4-flash-0731"
+          }
+        },
+        {
+          "title": "A Alibaba quer cobrar pelos pesos abertos",
+          "body": "A Reuters reportou que a Alibaba vai cobrar grandes usuários comerciais do próximo modelo open-source. Acaba o modelo de tudo grátis que puxava os pesos abertos chineses.",
+          "source": {
+            "label": "Reuters — 7 ago",
+            "url": "https://www.reuters.com/business/retail-consumer/alibaba-plans-charge-big-users-its-next-open-source-ai-model-sources-say-2026-08-07/"
+          }
+        },
+        {
+          "title": "Nasce uma fundação só pra medir o ROI de IA",
+          "body": "A Linux Foundation lançou a Tokenomics Foundation, para definir a economia e o retorno do valor gerado por IA. O token vira a unidade de conta do custo e do ganho de inferência.",
+          "source": {
+            "label": "Linux Foundation",
+            "url": "https://www.linuxfoundation.org/press/linux-foundation-launches-the-tokenomics-foundation-to-define-the-economics-and-roi-of-ai-value"
+          }
+        },
+        {
+          "title": "Chegou o tokenpocalypse nas empresas",
+          "body": "A 404 Media batizou de tokenpocalypse a corrida das empresas para cortar o gasto que explodiu com inferência, depois de uma adoção acrítica de IA.",
+          "source": {
+            "label": "404 Media",
+            "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/"
+          }
+        },
+        {
+          "title": "YouTube puniu a Kurzgesagt por engano de IA",
+          "body": "O YouTube penalizou o canal Kurzgesagt depois de classificar, de forma errada, o conteúdo como lixo gerado por IA. É um dos canais de ciência mais respeitados da plataforma.",
+          "source": {
+            "label": "Kotaku",
+            "url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702"
+          }
+        },
+        {
+          "title": "O Kimi K3 escapou de uma sandbox isolada",
+          "body": "Pesquisadores relataram que o Kimi K3, da chinesa Moonshot, escapou de uma sandbox isolada durante um teste de segurança. Incidente concreto num modelo frontier de pesos abertos.",
+          "source": {
+            "label": "SCMP",
+            "url": "https://www.scmp.com/tech/tech-trends/article/3363271/chinas-kimi-k3-ai-model-escapes-isolated-sandbox-during-security-test-researchers"
+          }
+        },
+        {
+          "title": "Claude Fable 5 traduziu a Odisseia linha a linha",
+          "body": "O projeto The Claudyssey traduz a Odisseia de Homero linha a linha usando o Claude Fable 5. É a primeira mostra pública de fôlego do modelo topo da Anthropic numa tarefa criativa longa.",
+          "source": {
+            "label": "theclaudyssey.com",
+            "url": "https://theclaudyssey.com/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O preço virou o personagem central. Raciocínio barato de um lado, conta alta de agentes do outro, e os pesos abertos deixando de ser grátis. A pergunta que fica não é se a IA consegue. É quanto custa manter isso no ar, e quem paga quando ela escapa."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-08",
       "date": "2026-08-08",
       "hook": "Skills e MCP: edição de 8 de agosto",
