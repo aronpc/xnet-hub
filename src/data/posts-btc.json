@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-09-00h30",
+      "date": "2026-08-09",
+      "time": "00h30",
+      "hook": "BTC perdeu a faixa que aguentava desde cedo e foi bater na mínima das últimas 24 horas.",
+      "caption": "Horas preso num range estreito acabaram quando a linha dos US$ 64.800 cedeu, e o preço desceu de vez.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-09-00h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-09-00h30",
+      "slides": [
+        {
+          "title": "Bitcoin escorrega até o piso do dia",
+          "body": "Horas preso num range estreito acabaram quando a linha dos US$ 64.800 cedeu, e o preço desceu de vez."
+        },
+        {
+          "title": "US$ 64.740",
+          "body": "Variação 1h: −0,10% · 24h: −0,39% · volume: US$ 12,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Quatro velas horárias em mínimas mais baixas foram puxando o preço para baixo. Smart money tranquilo: funding +0,005% (quase neutro) e long/short em 1,15."
+        },
+        {
+          "title": "Dois preços que importam agora",
+          "body": "Apoio imediato US$ 64.700 (−0,06%) · teto US$ 64.800 (+0,09%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Próxima leitura às 01h30",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-07-15h31",
       "date": "2026-08-07",
       "time": "15h31",
