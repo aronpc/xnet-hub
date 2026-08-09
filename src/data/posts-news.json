@@ -2,6 +2,53 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-09",
+      "date": "2026-08-09",
+      "hook": "Projetos e repos: edição de 9 de agosto",
+      "caption": "O fio da semana são as abstrações de controle. Agentes que evoluem sozinhos, contexto de LLM com câmbio manual, e assistentes de voz rodando em casa com MCP. Tudo conversa com o mesmo problema: como orquestrar e guardar memória de agentes que rodam por muito tempo.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-09",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-09",
+      "slides": [
+        {
+          "title": "Projetos e repos: edição de 9 de agosto",
+          "body": "O fio da semana são as abstrações de controle. Agentes que evoluem sozinhos, contexto de LLM com câmbio manual, e assistentes de voz rodando em casa com MCP. Tudo conversa com o mesmo problema: como orquestrar e guardar memória de agentes que rodam por muito tempo."
+        },
+        {
+          "title": "KADATH cruza e melhora agentes sozinho",
+          "body": "KADATH é um runtime multi-agente em Python que cruza, avalia e melhora agentes autônomos em épocas reprodutíveis, até convergir num objetivo. Fez 164 estrelas em dois dias.",
+          "source": "github.com/i3T4AN/KADATH"
+        },
+        {
+          "title": "goal-flow vira a DSL do Dify em código",
+          "body": "O goal-flow combina grafos de workflow com loops de agente sobre LangGraph, e transpõe a DSL do Dify em código executável, com providers trocáveis. Tem 71 estrelas.",
+          "source": "github.com/wanmol/goal-flow"
+        },
+        {
+          "title": "Jarvis: assistente de voz local com MCP",
+          "body": "Um assistente de voz 100% local em francês, com Claude ou Ollama offline e um servidor MCP. Integra Philips Hue, OBS, agenda, navegador e chamadas Twilio. Tem 85 estrelas.",
+          "source": "github.com/sosoj92/jarvis-assistant-vocal"
+        },
+        {
+          "title": "Alyph: câmbio manual pro contexto do LLM",
+          "body": "Alyph se descreve como uma transmissão manual para o contexto do LLM. Dá controle fino sobre o que entra e o que sai do contexto do modelo.",
+          "source": "alyph.ai"
+        },
+        {
+          "title": "limioryn: agentes edge-cloud verificáveis",
+          "body": "Um framework multi-agente edge-cloud de alto nível, com atuação verificável e recuperação limitada por entropia. Tem 38 estrelas.",
+          "source": "github.com/YINGLINGH/limioryn"
+        },
+        {
+          "title": "Salestrics: CRM com servidor MCP aberto",
+          "body": "Salestrics é um servidor MCP open-source acoplado a um CRM, feito para times de receita nativos de IA. Os agentes consomem dados de venda direto da fonte.",
+          "source": "salestrics.com"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O controle subiu de nível. Em vez de só orquestrar agentes, aparecem runtime que os evolve, ferramenta que pilota o contexto manualmente, e MCP self-hosted conectando dispositivos reais. A tendência é empoderar quem quer ver e mexer em cada engrenagem do agente."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-09",
       "date": "2026-08-09",
       "hook": "IA: edição de 9 de agosto",
