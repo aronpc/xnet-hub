@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-09-07h31",
+      "date": "2026-08-09",
+      "time": "07h31",
+      "hook": "O Bitcoin passou a madrugada colado na mínima de 24h e, de uma hora pra outra, reagiu e virou o jogo.",
+      "caption": "Depois de seis horas apertado lá embaixo, o preço montou cinco velas verdes seguidas e trocou o viés de baixa para alta.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-09-07h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-09-07h31",
+      "slides": [
+        {
+          "title": "Bitcoin deixa o piso e volta a subir",
+          "body": "Depois de seis horas apertado lá embaixo, o preço montou cinco velas verdes seguidas e trocou o viés de baixa para alta."
+        },
+        {
+          "title": "US$ 64.909",
+          "body": "Δ1h +0,22% · Δ24h −0,11% · volume US$ 12,3 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "O preço bateu no apoio de 24h, segurou e abriu uma sequência de velas verdes. O smart money ficou mais leve: funding em +0,0045% e o posicionamento dos traders caiu de 1,72 para 1,21."
+        },
+        {
+          "title": "Os US$ 65 mil são o próximo passo",
+          "body": "Apoio em US$ 64.800 (−0,17%) · Teto em US$ 65.000 (+0,14%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Próxima leitura às 08h30",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-09-00h30",
       "date": "2026-08-09",
       "time": "00h30",
