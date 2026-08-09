@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-09-10h33",
+      "date": "2026-08-09",
+      "time": "10h33",
+      "hook": "Depois de horas parado no meio do caminho, o Bitcoin subiu e fechou a hora no preço mais alto das últimas 24 horas, mesmo com o medo ainda mandando no mercado.",
+      "caption": "O preço retomou o teto do range do dia e fechou a hora em US$ 65.135, o maior valor em 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-09-10h33",
+      "link": "https://xbtc.aronpc.dev/#2026-08-09-10h33",
+      "slides": [
+        {
+          "title": "Bitcoin alcança a máxima de 24h",
+          "body": "O preço retomou o teto do range do dia e fechou a hora em US$ 65.135, o maior valor em 24 horas."
+        },
+        {
+          "title": "US$ 65.032",
+          "body": "Δ1h +0,21% · Δ24h +0,09% · volume US$ 12,15 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "A compressão que durou horas terminou quando o preço subiu e fechou a hora no topo do dia. O smart money não está exagerado: funding em +0,006% e long/short em 1,18 (longs em 54%)."
+        },
+        {
+          "title": "O preço firmou acima de US$ 65 mil e encosta no teto",
+          "body": "Apoio imediato US$ 64.730 (−0,46%) · Teto imediato US$ 65.200 (+0,26%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Próxima leitura às 11h30",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-09-07h31",
       "date": "2026-08-09",
       "time": "07h31",
