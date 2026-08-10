@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-10-13h31",
+      "date": "2026-08-10",
+      "time": "13h31",
+      "hook": "BTC caiu abaixo de US$ 64,3k e encostou no fundo de 24h com o dobro do volume",
+      "caption": "A faixa que segurava há uma hora não resistiu, e o preço desceu com volume duas vezes a média.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-10-13h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-10-13h31",
+      "slides": [
+        {
+          "title": "O piso cedeu",
+          "body": "A faixa que segurava há uma hora não resistiu, e o preço desceu com volume duas vezes a média."
+        },
+        {
+          "title": "US$ 64.073",
+          "body": "Δ1h −0,41% · Δ24h −1,66% · vol US$ 18,7B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Perdeu a faixa anterior e faz nova mínima de 24h em US$ 63.988. Volume das últimas 6h perto de 2× a média; funding +0,006% e L/S em 1,34 em alta."
+        },
+        {
+          "title": "Teste no fundo de 24h",
+          "body": "US$ 64.000 é o ponto crítico desta hora. Segurar abre caminho de volta a US$ 64.500; se ceder, a próxima parada fica em US$ 63.500."
+        },
+        {
+          "title": "Quebra com peso",
+          "body": "Caiu com o dobro do volume de média, sinal de que a perda da faixa tem fôlego."
+        }
+      ]
+    },
+    {
       "id": "2026-08-10-12h30",
       "date": "2026-08-10",
       "time": "12h30",
