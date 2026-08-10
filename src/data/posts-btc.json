@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-10-14h31",
+      "date": "2026-08-10",
+      "time": "14h31",
+      "hook": "Quebra dos US$ 64 mil: BTC no ponto mais baixo do dia, a US$ 63.891",
+      "caption": "Nova mínima de 24h em US$ 63.830. Volume das últimas 6h a 2,55× a média.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-10-14h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-10-14h31",
+      "slides": [
+        {
+          "title": "Abaixo de US$ 64k pela 1ª vez hoje",
+          "body": "Nova mínima de 24h em US$ 63.830. Volume das últimas 6h a 2,55× a média."
+        },
+        {
+          "title": "US$ 63.891",
+          "body": "Δ1h −0,28% · Δ24h −1,99% · vol 24h US$ 19,8B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Perdeu o US$ 64 mil que segurava há uma hora e encostou na mínima de 24h. Smart Money: funding +0,0077% + L/S 1,45.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Defesa em US$ 63.800",
+          "body": "Nova mín 24h US$ 63.830, a 0,1% de distância. A pressão vendedora volta abaixo de US$ 64.000."
+        },
+        {
+          "title": "Volume confirma a queda",
+          "body": "Últimas 6h a 2,55× a média. 59% das posições em compra enquanto o preço desce."
+        }
+      ]
+    },
+    {
       "id": "2026-08-10-13h31",
       "date": "2026-08-10",
       "time": "13h31",
