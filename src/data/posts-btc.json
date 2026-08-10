@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-09-20h31",
+      "date": "2026-08-09",
+      "time": "20h31",
+      "hook": "O topo do dia não durou uma hora. O Bitcoin tocou US$ 65.474 e foi rejeitado na mesma hora: já recua 0,4% e cai para o terço de baixo do intervalo que ocupa há horas.",
+      "caption": "A arrancada da hora anterior acabou e o preço voltou à parte de baixo da faixa.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-09-20h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-09-20h31",
+      "slides": [
+        {
+          "title": "Máxima rejeitada: o topo do dia já era",
+          "body": "A arrancada da hora anterior acabou e o preço voltou à parte de baixo da faixa."
+        },
+        {
+          "title": "US$ 64.905",
+          "body": "Δ1h −0,4% · Δ24h +1,3% · vol US$ 12,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A máxima do dia foi rejeitada e o preço recuou ao terço inferior do intervalo, sem convicção para nenhum dos lados. · Smart Money: funding +0,008% + L/S 1,14"
+        },
+        {
+          "title": "Falso rompimento: a alta não se confirmou",
+          "body": "Suporte US$ 64.730 (−0,3%) · Resistência US$ 65.000 (+0,1%)"
+        },
+        {
+          "title": "Próxima leitura às 21h30",
+          "body": "As próximas horas mostram se o intervalo se mantém."
+        }
+      ]
+    },
+    {
       "id": "2026-08-09-19h31",
       "date": "2026-08-09",
       "time": "19h31",
