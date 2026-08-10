@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-10",
+      "date": "2026-08-10",
+      "hook": "Skills e MCP: edição de 10 de agosto",
+      "caption": "O fio de hoje é a maturação do ecossistema. Pack de skill virou o formato dominante de distribuição, o spec do MCP migrou para stateless, e rolou o primeiro incidente público de supply-chain de MCP. O resumo é curto: o ecossistema cresceu, e agora aparece a conta de segurança.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-10",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-10",
+      "slides": [
+        {
+          "title": "Skills e MCP: edição de 10 de agosto",
+          "body": "O fio de hoje é a maturação do ecossistema. Pack de skill virou o formato dominante de distribuição, o spec do MCP migrou para stateless, e rolou o primeiro incidente público de supply-chain de MCP. O resumo é curto: o ecossistema cresceu, e agora aparece a conta de segurança."
+        },
+        {
+          "title": "reverse-skill: pack de skills de segurança com 22,7 mil estrelas",
+          "body": "O reverse-skill é um skill router pack de engenharia reversa, pentest e pesquisa de segurança. Tem roteamento por IA, bootstrapping de toolchain e base de conhecimento que evolui sozinha. Funciona no Claude Code, Kiro, Cursor e Cline.",
+          "source": {
+            "label": "github.com/zhaoxuya520/reverse-skill",
+            "url": "https://github.com/zhaoxuya520/reverse-skill"
+          }
+        },
+        {
+          "title": "book-to-skill: transforme um livro PDF em skill (19,5 mil estrelas)",
+          "body": "O book-to-skill converte qualquer livro técnico em PDF numa skill do Claude Code, pronta para estudar e referenciar durante o trabalho.",
+          "source": {
+            "label": "github.com/virgiliojr94/book-to-skill",
+            "url": "https://github.com/virgiliojr94/book-to-skill"
+          }
+        },
+        {
+          "title": "Whetstone: 20 skills, cada uma destilada de uma falha real",
+          "body": "O Whetstone é um conjunto de 20 skills do Claude Code, em que cada uma foi destilada de uma falha real observada em uso.",
+          "source": {
+            "label": "whetstone.akbarsha.dev",
+            "url": "https://whetstone.akbarsha.dev/"
+          }
+        },
+        {
+          "title": "mcp-use v2 foi reescrito pro MCP stateless",
+          "body": "O mcp-use v2 foi reconstruído do zero para o spec MCP stateless, publicado no fim de julho. O protocolo migrou de estado para stateless.",
+          "source": {
+            "label": "manufact.com",
+            "url": "https://manufact.com/blog/mcp-use-v2"
+          }
+        },
+        {
+          "title": "Revise.io: editor de Word com MCP server para agente",
+          "body": "O Revise.io é um editor de DOCX gratuito que expõe um MCP server, para que agentes possam editar documentos de Word.",
+          "source": {
+            "label": "revise.io",
+            "url": "https://revise.io/help/mcp-server"
+          }
+        },
+        {
+          "title": "Shorz: MCP server que deixa o Claude editar vídeo",
+          "body": "O Shorz dá um MCP server ao seu editor de vídeo, permitindo ao Claude cortar e editar os vídeos por você.",
+          "source": {
+            "label": "shorz.ai",
+            "url": "https://www.shorz.ai"
+          }
+        },
+        {
+          "title": "A conta do mantenedor do Blender MCP foi hackeada",
+          "body": "A conta GitHub do mantenedor do Blender MCP foi comprometida. Quem consome o server fica exposto a risco de supply-chain.",
+          "source": {
+            "label": "twitter.com/sidahuj — 10 ago",
+            "url": "https://twitter.com/sidahuj/status/2086445625147793503"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O ecossistema de skill e MCP amadureceu rápido. Pack de skill virou o formato dominante, o protocolo migrou para stateless, e já apareceu o primeiro incidente de supply-chain. A parte boa é a maturação. A conta que chegou é a de segurança: quem consome MCP sem auditar está exposto."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-10",
       "date": "2026-08-10",
       "hook": "Projetos: edição de 10 de agosto",
