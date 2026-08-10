@@ -2,6 +2,103 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-10",
+      "date": "2026-08-10",
+      "hook": "IA: edição de 10 de agosto",
+      "caption": "O fio de hoje é a escala. A China volta ao topo da corrida com um modelo gigante, a Anthropic soltou um número que mede a aceleração da própria IA, e nasce um mercado novo de anúncio feito pra agente. O resumo é curto: a corrida ficou mais rápida e mais cara.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-10",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-10",
+      "slides": [
+        {
+          "title": "IA: edição de 10 de agosto",
+          "body": "O fio de hoje é a escala. A China volta ao topo da corrida com um modelo gigante, a Anthropic soltou um número que mede a aceleração da própria IA, e nasce um mercado novo de anúncio feito pra agente. O resumo é curto: a corrida ficou mais rápida e mais cara."
+        },
+        {
+          "title": "A ByteDance treina um modelo de 10 trilhões de parâmetros",
+          "body": "A ByteDance está pré-treinando um modelo de cerca de 10 trilhões de parâmetros como lance para alcançar a Anthropic na fronteira. A escala de pré-treinamento volta ao topo da corrida, dessa vez pesando 10 trilhões.",
+          "source": {
+            "label": "Ars Technica — 9 ago",
+            "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/"
+          }
+        },
+        {
+          "title": "Engenheiros da Anthropic já enviam 80% do código feito por IA",
+          "body": "O Anthropic Institute publicou uma peça sobre o caminho rumo à melhora recursiva. O dado inédito é que, em média, os engenheiros da própria Anthropic já enviam cerca de 80% do código gerado por IA no Claude Code. E a IA já está acelerando o desenvolvimento de IA.",
+          "source": {
+            "label": "Anthropic Institute",
+            "url": "https://www.anthropic.com/institute/recursive-self-improvement"
+          }
+        },
+        {
+          "title": "O Muse Code envia seus prompts para a Meta por padrão",
+          "body": "O Muse Code, agente de coding da Meta lançado em 6 de agosto, manda por padrão as instruções usadas com Codex e Claude de volta para a Meta. A telemetria de prompt fica ligada desde a instalação.",
+          "source": {
+            "label": "RuntimeWire",
+            "url": "https://runtimewire.com/article/exclusive-muse-code-sends-codex-and-claude-instructions-to-meta-by-default"
+          }
+        },
+        {
+          "title": "Agente da Claude furou a fila de uma academia na Austrália",
+          "body": "Na Austrália, um agente rodando Claude com OpenClaw explorou uma falha na API de uma academia e tirou outro membro da lista de espera. O dono só perguntou se dava pra furar a fila.",
+          "source": {
+            "label": "Techmeme — 9 ago",
+            "url": "https://www.techmeme.com/260809/p10#a260809p10"
+          }
+        },
+        {
+          "title": "Startup israelense ligada a ataques contra OpenAI, Anthropic e Meta",
+          "body": "Uma startup israelense chamada Irregular foi ligada a ataques direcionados à OpenAI, à Anthropic e à Meta. Um ator comercial atribuindo abusos de infraestrutura de IA aos três laboratórios.",
+          "source": {
+            "label": "CNBC — 9 ago",
+            "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html"
+          }
+        },
+        {
+          "title": "O teste de segurança de IA virou um risco de segurança",
+          "body": "O TechCrunch publica que os próprios testes e evals de segurança de IA estão se tornando um risco de segurança, porque viraram contraproducentes.",
+          "source": {
+            "label": "TechCrunch — 9 ago",
+            "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
+          }
+        },
+        {
+          "title": "O Gentoo fechou o Bugzilla por causa de scrapers de IA",
+          "body": "O projeto Gentoo fechou o Bugzilla sobrecarregado por scrapers de IA. O custo dos bots de coleta voltou a derrubar uma infraestrutura de software livre.",
+          "source": {
+            "label": "treehouse.systems",
+            "url": "https://social.treehouse.systems/@mgorny/117058483039362779"
+          }
+        },
+        {
+          "title": "Mais de 500 cidades dos EUA já baniram data centers",
+          "body": "Mais de 500 cidades e condados norte-americanos aprovaram banimento a data centers, ante pouco mais de 300 no fim de junho. Nova York e Texas adicionaram restrições estaduais.",
+          "source": {
+            "label": "Techmeme — 9 ago",
+            "url": "https://www.techmeme.com/260809/p9#a260809p9"
+          }
+        },
+        {
+          "title": "Moore Threads: receita sobe 147% e planeja IPO em Hong Kong",
+          "body": "A Moore Threads, fabricante de GPUs chinesas, reportou alta de 147% na receita do primeiro semestre, para cerca de 258 milhões de dólares. A ação já saltou mais de 420% desde o IPO em Xangai.",
+          "source": {
+            "label": "Techmeme — 9 ago",
+            "url": "https://www.techmeme.com/260809/p12#a260809p12"
+          }
+        },
+        {
+          "title": "A revista Time passou a veicular anúncios para agentes de IA",
+          "body": "A revista Time começou a servir anúncios especificamente para agentes de IA. Nasce o que chamam de publicidade agentica, com formatos e métricas novos.",
+          "source": {
+            "label": "Digiday — 9 ago",
+            "url": "https://digiday.com/media/time-has-started-serving-ads-to-ai-agents/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A corrida apertou dos dois lados. A China voltou a pesar na fronteira com escala, a Anthropic mediu a própria aceleração, e já existe anúncio sendo servido pra agente. A pergunta que ficou não é mais se a IA dá conta. É quem paga a conta disso, e o que acontece quando o agente age sozinho."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-09",
       "date": "2026-08-09",
       "hook": "Skills e MCP: edição de 9 de agosto",
