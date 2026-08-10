@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-10-12h30",
+      "date": "2026-08-10",
+      "time": "12h30",
+      "hook": "BTC recua à mínima de 24h em US$ 64.338, com força vendedora crescente",
+      "caption": "Cedeu a faixa da hora anterior e encostou na mínima de 24h, com volume em alta.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-10-12h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-10-12h30",
+      "slides": [
+        {
+          "title": "Nova mínima do dia",
+          "body": "Cedeu a faixa da hora anterior e encostou na mínima de 24h, com volume em alta."
+        },
+        {
+          "title": "US$ 64.338",
+          "body": "Δ1h −0,65% · Δ24h −1,30% · vol US$ 17,5B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Nova mínima de 24h, com volume das últimas 6h 36% acima da média. Funding +0,005% e L/S em 1,24, ninguém fora da curva."
+        },
+        {
+          "title": "Olho na mínima do dia",
+          "body": "US$ 64.300 (−0,06%) é onde a pressão mais aperta. Segurar pode devolver US$ 64.800."
+        },
+        {
+          "title": "Pressão de verdade",
+          "body": "O volume acima da média sustenta o recuo, não é movimento fraco."
+        }
+      ]
+    },
+    {
       "id": "2026-08-09-20h31",
       "date": "2026-08-09",
       "time": "20h31",
