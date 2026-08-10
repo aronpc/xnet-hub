@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-10",
+      "date": "2026-08-10",
+      "hook": "Projetos: edição de 10 de agosto",
+      "caption": "O fio de hoje é o tooling de agente. Surgiu um coding agent gigante em Go feito pra DeepSeek, um harness que bate o Claude Code no mesmo modelo, e RAG de monorepo com grafo de conhecimento. O resumo é curto: a briga migrou do modelo para a orquestração.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-10",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-10",
+      "slides": [
+        {
+          "title": "Projetos: edição de 10 de agosto",
+          "body": "O fio de hoje é o tooling de agente. Surgiu um coding agent gigante em Go feito pra DeepSeek, um harness que bate o Claude Code no mesmo modelo, e RAG de monorepo com grafo de conhecimento. O resumo é curto: a briga migrou do modelo para a orquestração."
+        },
+        {
+          "title": "DeepSeek-Reasonix: agente Go que já tem 33,5 mil estrelas",
+          "body": "O DeepSeek-Reasonix é um agente de coding de terminal escrito em Go e feito em torno da estabilidade de prefix-cache do DeepSeek, para deixar rodando sem travar. Subiu no GitHub Trending com 33,5 mil estrelas.",
+          "source": {
+            "label": "github.com/esengine/DeepSeek-Reasonix",
+            "url": "https://github.com/esengine/DeepSeek-Reasonix"
+          }
+        },
+        {
+          "title": "Benzi: harness que bate o Claude Code rodando Sonnet",
+          "body": "O Benzi é um coding harness que alega superar o Claude Code rodando no mesmo modelo Sonnet. A comparação deixa de ser entre modelos e passa a ser entre camadas de orquestração.",
+          "source": {
+            "label": "benzi.fly.dev",
+            "url": "https://benzi.fly.dev/about"
+          }
+        },
+        {
+          "title": "Tura promete agentes com 80% menos tokens",
+          "body": "O Tura, em Rust, promete construir agentes que gastam 80% menos tokens e ainda entregam melhores resultados. Entra no vetor de agente barato que pipocou depois do pânico de custo.",
+          "source": {
+            "label": "github.com/Tura-AI/tura",
+            "url": "https://github.com/Tura-AI/tura"
+          }
+        },
+        {
+          "title": "code-graph-rag: RAG de monorepo com knowledge graph",
+          "body": "O code-graph-rag consulta, entende e edita codebases multilinguagem usando IA com knowledge graph, em vez de embeddings puros. Tem 3,1 mil estrelas.",
+          "source": {
+            "label": "github.com/vitali87/code-graph-rag",
+            "url": "https://github.com/vitali87/code-graph-rag"
+          }
+        },
+        {
+          "title": "firecrawl/pdf-inspector: PDF em Rust com 14 mil estrelas",
+          "body": "A firecrawl lançou uma lib em Rust para inspecionar, classificar e extrair texto de PDF. Ela detecta se o PDF é escaneado ou nativo para decidir o melhor caminho de extração.",
+          "source": {
+            "label": "github.com/firecrawl/pdf-inspector",
+            "url": "https://github.com/firecrawl/pdf-inspector"
+          }
+        },
+        {
+          "title": "us-vs-them: quem escreveu essa linha, nós ou a IA?",
+          "body": "O us-vs-them traz proveniência linha a linha em texto editado por agente. Ele deriva a atribuição do histórico de versão, sem precisar de marcação no arquivo.",
+          "source": {
+            "label": "github.com/eighttrigrams/us-vs-them",
+            "url": "https://github.com/eighttrigrams/us-vs-them"
+          }
+        },
+        {
+          "title": "Fabraix: playground livre de red-team contra prompts públicos",
+          "body": "O Fabraix é um playground open-source para red-teaming de agentes de IA contra prompts públicos. O custo de testar a resiliência de um agente em produção cai com isso.",
+          "source": {
+            "label": "playground.fabraix.com",
+            "url": "https://playground.fabraix.com/"
+          }
+        },
+        {
+          "title": "ai_courtroom: um júri de agentes para rastrear influência",
+          "body": "O exemplo ai_courtroom do protolink monta um júri reproduzível de agentes que rastreia como um agente influencia a decisão humana. É o protocolo A2A aplicado à auditoria.",
+          "source": {
+            "label": "github.com/nMaroulis/protolink",
+            "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom"
+          }
+        },
+        {
+          "title": "Ex-auditor da Deloitte abriu o método SOC 2 para IA",
+          "body": "O Chiaro-HQ publicou o método completo de SOC 2 para produto de IA, com controles, critérios e padrão de evidência. O autor é um ex-auditor da Deloitte.",
+          "source": {
+            "label": "github.com/Chiaro-HQ/methodology",
+            "url": "https://github.com/Chiaro-HQ/methodology"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A frente de projeto virou ferramenta de agente. Tem agente de coding em Go ganhando dezenas de milhares de estrelas, RAG de código com grafo, e harness desafiando o Claude Code no mesmo modelo. A briga saiu do peso do modelo e foi pra a qualidade da orquestração e do dado."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-10",
       "date": "2026-08-10",
       "hook": "IA: edição de 10 de agosto",
