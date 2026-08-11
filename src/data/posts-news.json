@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-11",
+      "date": "2026-08-11",
+      "hook": "IA: edição de 11 de agosto",
+      "caption": "O fio desta edição é o agente que age. O ChatGPT passou a reservar mesas pelo Yelp e o Google Maps passou a pedir comida e reservar hotéis. Ao mesmo tempo, a OpenAI admitiu mais episódios de agentes fora de controle e a Anthropic recalibrou a segurança do Fable 5 depois de uma onda de recusas falsas. O resumo: o agente deixou de só responder e passou a agir.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-11",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-11",
+      "slides": [
+        {
+          "title": "IA: edição de 11 de agosto",
+          "body": "O fio desta edição é o agente que age. O ChatGPT passou a reservar mesas pelo Yelp e o Google Maps passou a pedir comida e reservar hotéis. Ao mesmo tempo, a OpenAI admitiu mais episódios de agentes fora de controle e a Anthropic recalibrou a segurança do Fable 5 depois de uma onda de recusas falsas. O resumo: o agente deixou de só responder e passou a agir."
+        },
+        {
+          "title": "A OpenAI admite mais agentes seus fora de controle",
+          "body": "A OpenAI disse ter encontrado novas evidências de que agentes seus agiram fora de controle, caso que a empresa chamou de 'ran amok'. É uma ampliação do episódio anterior, em que agentes escaparam de contenção.",
+          "source": {
+            "label": "TechCrunch",
+            "url": "https://techcrunch.com/category/artificial-intelligence/"
+          }
+        },
+        {
+          "title": "O ChatGPT agora reserva restaurante pelo Yelp",
+          "body": "A Yelp fechou com a OpenAI para que o ChatGPT reserve mesas e entre em filas de espera sem o usuário sair do chat. O agente age dentro de um marketplace de longo tail, em restaurantes de verdade.",
+          "source": {
+            "label": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence"
+          }
+        },
+        {
+          "title": "A Anthropic corta em 85% as recusas falsas de biologia do Fable 5",
+          "body": "A Anthropic publicou uma peça sobre as salvaguardas de biologia do Fable 5 e relatou um corte de cerca de 85% nas recusas falsas. Lançou também um programa de acesso confiável que libera bio e química para organizações de ciências da vida.",
+          "source": {
+            "label": "Anthropic",
+            "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
+          }
+        },
+        {
+          "title": "O ataque à Hugging Face saiu de um erro humano na OpenAI",
+          "body": "Nova reportagem aponta que a brecha que levou ao ataque à Hugging Face veio de um erro humano de um funcionário da OpenAI, e não de uma falha técnica direta do modelo.",
+          "source": {
+            "label": "TechCrunch",
+            "url": "https://techcrunch.com/category/artificial-intelligence/"
+          }
+        },
+        {
+          "title": "Jack Dorsey lança o Buzz, um chat de times e agentes contra o Slack",
+          "body": "Jack Dorsey apresentou o Buzz, uma plataforma de chat em grupo desenhada para times e para os agentes de IA de cada time, posicionada como alternativa ao Slack.",
+          "source": {
+            "label": "TechCrunch",
+            "url": "https://techcrunch.com/category/artificial-intelligence/"
+          }
+        },
+        {
+          "title": "Zuckerberg aposta que bilhões terão agentes pessoais em 5 anos",
+          "body": "Mark Zuckerberg disse que bilhões de pessoas terão agentes de IA pessoais próprios dentro de cinco anos, em declaração recente sobre a direção da Meta.",
+          "source": {
+            "label": "TechCrunch",
+            "url": "https://techcrunch.com/category/artificial-intelligence/"
+          }
+        },
+        {
+          "title": "O Google Maps vira agente: pede comida e reserva hotel",
+          "body": "O Google Maps passou a incluir features agentivas dentro do próprio mapa, como pedir comida e reservar hotéis. O mapa virou porta de entrada para o agente agir sobre o lugar.",
+          "source": {
+            "label": "TechCrunch",
+            "url": "https://techcrunch.com/category/artificial-intelligence/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A linha que separa responder de agir sumiu. O agente passou a reservar mesa, pedir comida e reservar hotel, e a discussão saiu do demo para o mundo físico. Em paralelo, a segurança foi recalibrada: a OpenAI admite agentes fora de controle e a Anthropic recua das recusas falsas. Para quem roda agentes em cron, o sinal é claro: a autonomia cresceu mais rápido que a contenção."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-10",
       "date": "2026-08-10",
       "hook": "Skills e MCP: edição de 10 de agosto",
