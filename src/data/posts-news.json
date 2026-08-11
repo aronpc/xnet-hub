@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-11",
+      "date": "2026-08-11",
+      "hook": "Projetos: edição de 11 de agosto",
+      "caption": "O fio desta edição é a infraestrutura para frotas de agentes em paralelo. Surgiu um ambiente para rodar vários agentes com a própria assinatura, um Durable Object self-hosted e um harness econômico em RAM. Do outro lado, governança: um kit da Microsoft que cobre os 10 do OWASP Agentic e uma camada de risco em tempo real. E um achado inquietante: um projeto de 65 mil estrelas que é a tese do agent-reach.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-11",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-11",
+      "slides": [
+        {
+          "title": "Projetos: edição de 11 de agosto",
+          "body": "O fio desta edição é a infraestrutura para frotas de agentes em paralelo. Surgiu um ambiente para rodar vários agentes com a própria assinatura, um Durable Object self-hosted e um harness econômico em RAM. Do outro lado, governança: um kit da Microsoft que cobre os 10 do OWASP Agentic e uma camada de risco em tempo real. E um achado inquietante: um projeto de 65 mil estrelas que é a tese do agent-reach."
+        },
+        {
+          "title": "prime-agent: o agente que se auto-aprimora, em TypeScript",
+          "body": "O prime-agent, do PrimeIntellect, é um agente self-improving voltado a fluxos de código e a tarefas autônomas longas, com aprendizado e memória recorrentes, em TypeScript.",
+          "source": {
+            "label": "github.com/PrimeIntellect-ai/prime-agent",
+            "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+          }
+        },
+        {
+          "title": "Kit da Microsoft cobre os 10 do OWASP Agentic",
+          "body": "A Microsoft lançou o agent-governance-toolkit, em Python, para governança de agentes autônomos: política, identidade zero-trust, sandbox e confiabilidade, mapeando os 10 do OWASP Agentic e o NIST AI RMF.",
+          "source": {
+            "label": "github.com/microsoft/agent-governance-toolkit",
+            "url": "https://github.com/microsoft/agent-governance-toolkit"
+          }
+        },
+        {
+          "title": "Orca: rode uma frota de agentes com a sua assinatura",
+          "body": "O Orca, da stably, é um ambiente de desenvolvimento para rodar uma frota de agentes em paralelo usando a própria assinatura do usuário, em desktop, celular ou VPS.",
+          "source": {
+            "label": "github.com/stablyai/orca",
+            "url": "https://github.com/stablyai/orca"
+          }
+        },
+        {
+          "title": "celld: Durable Objects distribuído, do criador do Deno",
+          "body": "O celld, do time do Deno com Ryan Dahl, é uma alternativa self-hosted e distribuída aos Durable Objects do Cloudflare, escrita em Rust.",
+          "source": {
+            "label": "github.com/denoland/celld",
+            "url": "https://github.com/denoland/celld"
+          }
+        },
+        {
+          "title": "jcode: o harness que aperta o cinto na RAM",
+          "body": "O jcode se apresenta como o harness mais eficiente em memória RAM para agentes de código, escrito em Rust.",
+          "source": {
+            "label": "github.com/1jehuang/jcode",
+            "url": "https://github.com/1jehuang/jcode"
+          }
+        },
+        {
+          "title": "Agent-Reach, 65 mil estrelas: a tese do agent-reach, fora",
+          "body": "O Agent-Reach, do Panniantong, é um CLI que lê e busca Twitter, Reddit, YouTube, GitHub, Bilibili e XiaoHongShu sem pagar API fees, em Python.",
+          "source": {
+            "label": "github.com/Panniantong/Agent-Reach",
+            "url": "https://github.com/Panniantong/Agent-Reach"
+          }
+        },
+        {
+          "title": "Kredit: risco em tempo real para cada ação do agente",
+          "body": "O Kredit, lançado no Show HN, é uma camada de risk intelligence em tempo real que avalia o risco da ação do agente antes e durante a execução.",
+          "source": {
+            "label": "kredit.sh",
+            "url": "https://kredit.sh/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O stack de agentes paralelos ganhou infra própria: assinatura compartilhada, estado durável sem nuvem e harness leve. E a governança saiu do genérico para o operacional, com kit da Microsoft para conformidade e risk intelligence em tempo real. O sinal mais forte veio de fora: um clone de 65 mil estrelas que copia a tese do agent-reach. Quem orquestra agentes precisa tanto de frota quanto de cerca."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-11",
       "date": "2026-08-11",
       "hook": "IA: edição de 11 de agosto",
