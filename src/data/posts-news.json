@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-11",
+      "date": "2026-08-11",
+      "hook": "Skills e MCP: edição de 11 de agosto",
+      "caption": "O fio desta edição é a consolidação. O repositório de skills do addyosmani virou o número um do GitHub Trending com mais de 80 mil estrelas, e a categoria anti-slop de design segue subindo. Do lado de MCP, dois projetos locais e sem API key mostram para onde o protocolo vai: pesquisa e controle da casa no próprio hardware.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-11",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-11",
+      "slides": [
+        {
+          "title": "Skills e MCP: edição de 11 de agosto",
+          "body": "O fio desta edição é a consolidação. O repositório de skills do addyosmani virou o número um do GitHub Trending com mais de 80 mil estrelas, e a categoria anti-slop de design segue subindo. Do lado de MCP, dois projetos locais e sem API key mostram para onde o protocolo vai: pesquisa e controle da casa no próprio hardware."
+        },
+        {
+          "title": "design.md: um spec para ensinar identidade visual ao agente",
+          "body": "O design.md, do Google Labs, é uma especificação, o arquivo DESIGN.md, que dá aos agentes de código um entendimento persistente e estruturado do design system, em TypeScript.",
+          "source": {
+            "label": "github.com/google-labs-code/design.md",
+            "url": "https://github.com/google-labs-code/design.md"
+          }
+        },
+        {
+          "title": "adhd: tree-of-thought com poda para o agente pensar melhor",
+          "body": "A skill adhd roda tree-of-thought com pruning sobre o Claude e o Codex SDK: expande pensamentos divergentes em frames cognitivos diferentes, pontua, poda armadilhas e aprofunda os sobreviventes.",
+          "source": {
+            "label": "github.com/UditAkhourii/adhd",
+            "url": "https://github.com/UditAkhourii/adhd"
+          }
+        },
+        {
+          "title": "unifi-mcp: o agente enxerga a sua rede e as suas câmeras",
+          "body": "O unifi-mcp, do sirkirby, é um conjunto de servidores MCP para o ecossistema UniFi, cobrindo Network, Protect, Access e Drive, em Python.",
+          "source": {
+            "label": "github.com/sirkirby/unifi-mcp",
+            "url": "https://github.com/sirkirby/unifi-mcp"
+          }
+        },
+        {
+          "title": "wigolo: a web do seu agente, sem API key e sem nuvem",
+          "body": "O wigolo, do KnockOutEZ, expõe busca, fetch, crawl e pesquisa local-first via MCP, sem API keys, sem nuvem e a zero por consulta, em TypeScript.",
+          "source": {
+            "label": "github.com/KnockOutEZ/wigolo",
+            "url": "https://github.com/KnockOutEZ/wigolo"
+          }
+        },
+        {
+          "title": "Buy My Agent: marketplace de agentes pelo MCP",
+          "body": "O Buy My Agent, lançado no Show HN, é um MCP server que funciona como marketplace para buscar e disponibilizar agentes a partir de qualquer client compatível com MCP.",
+          "source": {
+            "label": "buy-my-agent.com",
+            "url": "https://www.buy-my-agent.com/connect"
+          }
+        },
+        {
+          "title": "hallmark ganha tração: a skill anti-slop de design sobe",
+          "body": "A skill hallmark, do Nutlope, faz anti-AI-slop de design para Claude Code, Cursor e Codex e segue em alta no GitHub Trending.",
+          "source": {
+            "label": "github.com/Nutlope/hallmark",
+            "url": "https://github.com/Nutlope/hallmark"
+          }
+        },
+        {
+          "title": "agent-skills vira o número 1 do GitHub Trending",
+          "body": "O repositório agent-skills, do addyosmani, com skills production-grade para agentes de código, cruzou mais de 80 mil estrelas e apareceu como número um do GitHub Trending geral.",
+          "source": {
+            "label": "github.com/addyosmani/agent-skills",
+            "url": "https://github.com/addyosmani/agent-skills"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A skill deixou de ser experimento e virou padrão: o repositório do addyosmani é o número um do trending com mais de 80 mil estrelas, e a categoria anti-slop de design escala. No MCP, o vetor é claro: local, sem API key e sem nuvem, da pesquisa ao controle da casa. Quem mantém skills e MCPs próprios precisa parar de tratar o formato como opcional e começar a minerar o que a comunidade já consolidou."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-11",
       "date": "2026-08-11",
       "hook": "Projetos: edição de 11 de agosto",
