@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-11-13h31",
+      "date": "2026-08-11",
+      "time": "13h31",
+      "hook": "O US$ 63,7 mil que segurava o preço a manhã toda não resistiu. O bitcoin caiu abaixo da linha e agora encosta na mínima das últimas 24 horas.",
+      "caption": "Duas horas seguidas de queda. O preço deixou a faixa da manhã para trás e continua descendo.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-11-13h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-11-13h31",
+      "slides": [
+        {
+          "title": "Bitcoin perde os US$ 63,7 mil na segunda hora de queda",
+          "body": "Duas horas seguidas de queda. O preço deixou a faixa da manhã para trás e continua descendo."
+        },
+        {
+          "title": "US$ 63.551",
+          "body": "Δ1h −0,36% · Δ24h −0,81% · vol 24h US$ 21,2B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Segunda hora de queda seguida. Mesmo assim, quem comprou segue posicionado: funding +0,009% · L/S 1,65 (62% em compra).",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Foco na mínima de 24h, US$ 63.450",
+          "body": "Fundo do dia US$ 63.450 (−0,16%) · Teto imediato US$ 63.800 (+0,39%)"
+        },
+        {
+          "title": "Queda em câmera lenta",
+          "body": "O volume da última vela ficou em 0,83× da média. Desce devagar, com direção, mas sem um tombo de verdade."
+        }
+      ]
+    },
+    {
       "id": "2026-08-11-12h33",
       "date": "2026-08-11",
       "time": "12h33",
