@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-11-16h32",
+      "date": "2026-08-11",
+      "time": "16h32",
+      "hook": "O bitcoin não tinha chegado tão baixo em nenhum momento do dia. Pela quarta hora seguida em queda, o preço passou dos US$ 63,3 mil e encostou no piso das últimas 24 horas.",
+      "caption": "Quarta queda seguida, a mais funda do dia. O limite de US$ 63,4 mil que segurava a tarde cedeu.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-11-16h32",
+      "link": "https://xbtc.aronpc.dev/#2026-08-11-16h32",
+      "slides": [
+        {
+          "title": "Bitcoin toca o ponto mais baixo das últimas 24 horas",
+          "body": "Quarta queda seguida, a mais funda do dia. O limite de US$ 63,4 mil que segurava a tarde cedeu."
+        },
+        {
+          "title": "US$ 63.305",
+          "body": "Δ1h −0,21% · Δ24h −1,11% · vol 24h US$ 19,9B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Aprofundou depois que o piso da tarde cedeu. Mesmo assim, quem comprou segue posicionado: funding +0,01% · L/S 1,77 (64% em compra).",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Preço colado na mínima de 24h",
+          "body": "Suporte US$ 63.238 (−0,11%) · Resistência US$ 63.600 (+0,47%)"
+        },
+        {
+          "title": "Hora de decisão",
+          "body": "Primeira movimentação real depois de quase três horas parado. Pode ser seguir caindo ou tentar um repique."
+        }
+      ]
+    },
+    {
       "id": "2026-08-11-13h31",
       "date": "2026-08-11",
       "time": "13h31",
