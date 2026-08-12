@@ -2,6 +2,47 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-12",
+      "date": "2026-08-12",
+      "hook": "Skills e MCP: edição de 12 de agosto",
+      "caption": "Janela magra também aqui. A newsroom da Anthropic não trouxe nada mais novo que 7 de agosto, e os runs dos últimos dias já cobriram o que havia de fresco. Mas os três itens que sobraram são no alvo do stack local: um túnel seguro para MCP, uma ponte para trazer a sessão da nuvem para a máquina, e o problema de curadoria de skills.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-12",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-12",
+      "slides": [
+        {
+          "title": "Skills e MCP: edição de 12 de agosto",
+          "body": "Janela magra também aqui. A newsroom da Anthropic não trouxe nada mais novo que 7 de agosto, e os runs dos últimos dias já cobriram o que havia de fresco. Mas os três itens que sobraram são no alvo do stack local: um túnel seguro para MCP, uma ponte para trazer a sessão da nuvem para a máquina, e o problema de curadoria de skills."
+        },
+        {
+          "title": "MCP tunnels: conectar MCP em rede privada, sem buraco no firewall",
+          "body": "As notas de versão da Claude Platform de agosto trouxeram o MCP tunnels como research preview. A ideia é conectar a servidores MCP dentro de redes privadas, sem expô-los à internet aberta.",
+          "source": {
+            "label": "Claude Platform",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+          }
+        },
+        {
+          "title": "Claude Code ganha /teleport, ambientes self-hosted e marketplace",
+          "body": "As atualizações do Claude Code em agosto trouxeram controles de marketplace, ambientes self-hosted, mensageria entre sessões e um atalho /teleport para trazer sessões da nuvem para a máquina local. Vieram também avisos mais claros de modelo e sessão.",
+          "source": {
+            "label": "Releasebot",
+            "url": "https://releasebot.io/updates/anthropic/claude-code"
+          }
+        },
+        {
+          "title": "Agent-skills em alta: bibliotecas com 362 skills e diretórios 225 mil",
+          "body": "O ecossistema de agent-skills segue aquecido em agosto. Bibliotecas comunitárias reúnem 362 skills para 13 ferramentas de IA, e diretórios passaram a indexar mais de 225 mil skills do GitHub, com curadoria manual da Anthropic ao lado de parceiros como Atlassian e Canva.",
+          "source": {
+            "label": "GitHub",
+            "url": "https://github.com/alirezarezvani/claude-skills"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A camada de agentes ganhou três peças de uma vez: um túnel seguro para servir MCP, uma ponte para trazer a sessão da nuvem para casa, e o problema de escolher o que manter. Quem administra skills e agentes saiu ganhando. Até amanhã."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-12",
       "date": "2026-08-12",
       "hook": "Projetos: edição de 12 de agosto",
