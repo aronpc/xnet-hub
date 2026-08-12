@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-12-03h32",
+      "date": "2026-08-12",
+      "time": "03h32",
+      "hook": "BTC derrama devagar até a ponta baixa da faixa do dia · clima de cautela no overnight",
+      "caption": "Faixa de 24h segura há mais de 14 horas; preço perde terreno na madrugada, com volume fraco.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-12-03h32",
+      "link": "https://xbtc.aronpc.dev/#2026-08-12-03h32",
+      "slides": [
+        {
+          "title": "Overnight puxa o preço para a ponta baixa",
+          "body": "Faixa de 24h segura há mais de 14 horas; preço perde terreno na madrugada, com volume fraco."
+        },
+        {
+          "title": "US$ 63.556",
+          "body": "Δ1h −0,35% · Δ24h −0,46% · vol $21,0 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preso no terço inferior da faixa há 14h, sem escolher lado. Smart Money: funding +0,007% e L/S 1,74.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Ponta baixa sob pressão",
+          "body": "Faixa segura em $63.238 (−0,5%) · teto do dia intocado em $64.000 (+0,7%)"
+        },
+        {
+          "title": "Madrugada de pouca liquidez",
+          "body": "Volume fraco e faixa travada: cenário típico de overnight."
+        }
+      ]
+    },
+    {
       "id": "2026-08-11-21h30",
       "date": "2026-08-11",
       "time": "21h30",
