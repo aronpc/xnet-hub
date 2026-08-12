@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-12",
+      "date": "2026-08-12",
+      "hook": "IA: edição de 12 de agosto",
+      "caption": "O fio desta edição é a guerra do peso aberto. A Meta soltou um modelo agêntico de 30 bilhões de parâmetros em Apache 2.0 e usou o lance para cobrar do governo americano uma política de código aberto. Ao mesmo tempo, uma onda de 150 bilhões de dólares em infraestrutura começou a se mover. A briga entre aberto e fechado virou política de Estado, e o dinheiro da infra chegou antes da demanda.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-12",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-12",
+      "slides": [
+        {
+          "title": "IA: edição de 12 de agosto",
+          "body": "O fio desta edição é a guerra do peso aberto. A Meta soltou um modelo agêntico de 30 bilhões de parâmetros em Apache 2.0 e usou o lance para cobrar do governo americano uma política de código aberto. Ao mesmo tempo, uma onda de 150 bilhões de dólares em infraestrutura começou a se mover. A briga entre aberto e fechado virou política de Estado, e o dinheiro da infra chegou antes da demanda."
+        },
+        {
+          "title": "A Meta abre pesos e cobra uma política de IA do governo dos EUA",
+          "body": "Em 10 de agosto a Meta liberou o Muse Glimmer, um modelo agêntico de cerca de 30 bilhões de parâmetros em Apache 2.0, e avisou que vai abrir também o Muse Spark 1.2. Mark Zuckerberg usou o anúncio para desafiar os labs fechados e pediu em público que o governo americano derrube as barreiras ao código aberto para competir com a China.",
+          "source": {
+            "label": "CNBC",
+            "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html"
+          }
+        },
+        {
+          "title": "Anúncios no ChatGPT chegam a Reino Unido, México e Brasil",
+          "body": "Em 11 de agosto a OpenAI levou os anúncios dentro do ChatGPT para mais cinco mercados: Reino Unido, México, Brasil, Japão e Coreia do Sul. A publicidade vira vetor permanente do produto, e não mais um teste pontual.",
+          "source": {
+            "label": "OpenAI",
+            "url": "https://openai.com/index/testing-ads-in-chatgpt/"
+          }
+        },
+        {
+          "title": "Claude passa a marcar as saídas com marca d'água invisível",
+          "body": "Um artigo do help center atualizado em 11 de agosto confirma que os modelos Claude lançados a partir dessa data passam a marcar as saídas com uma marca d'água invisível, no padrão C2PA de procedência.",
+          "source": {
+            "label": "ExplainX",
+            "url": "https://explainx.ai/blog/anthropic-claude-invisible-watermarks-c2pa-august-2026"
+          }
+        },
+        {
+          "title": "Pixel 11 chega com Tensor G6 e Gemini rodando no aparelho",
+          "body": "O evento Made by Google em 12 de agosto, em Nova York, lançou a linha Pixel 11 em quatro modelos, com chip Tensor G6 e Android 17 integrado ao Gemini. As pré-vendas abriram no mesmo dia, e 256 gigabytes virou o piso de armazenamento.",
+          "source": {
+            "label": "Android Authority",
+            "url": "https://www.androidauthority.com/big-google-pixel-announcements-august-12-2026-3694960/"
+          }
+        },
+        {
+          "title": "Onda de 150 bilhões em capex: IPO da OpenAI, Intel e TSMC disparam",
+          "body": "O fim de semana trouxe um ciclo quente: o pedido de IPO da OpenAI se aproxima, a Intel captou 15 bilhões de dólares, as vendas da TSMC subiram 45 por cento, e cerca de 150 bilhões em capex de IA estão em movimento.",
+          "source": {
+            "label": "Build Fast",
+            "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-11-2026"
+          }
+        },
+        {
+          "title": "Quatro pesquisadores seniores deixam o Google DeepMind",
+          "body": "Reportagem de 8 e 9 de agosto aponta que pelo menos quatro pesquisadores seniores saíram do DeepMind, e o Google fez uma reforma na liderança de IA. A saída do Google Assistant do celular também entrou no mesmo ciclo.",
+          "source": {
+            "label": "Memeburn",
+            "url": "https://memeburn.com/google-deepmind-brain-drain-2026/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A briga entre modelo aberto e fechado virou política de Estado, com a Meta puxando o lado aberto e o governo americano no meio. Ao mesmo tempo, 150 bilhões de dólares em infraestrutura começaram a se mover antes da demanda chegar. Para quem roda agentes em casa, o sinal é duplo: o compute vai ficar caro na nuvem e barato no local. Até amanhã."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-11",
       "date": "2026-08-11",
       "hook": "Skills e MCP: edição de 11 de agosto",
