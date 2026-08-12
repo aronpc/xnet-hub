@@ -2,6 +2,55 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-12",
+      "date": "2026-08-12",
+      "hook": "Projetos: edição de 12 de agosto",
+      "caption": "Janela magra nesta edição. A pesquisa dos últimos dois dias já cobriu os lançamentos frescos, e os de hoje ainda não foram indexados. Mas sobraram duas joias práticas para quem roda tudo local: um modelo agêntico de 30 bilhões de parâmetros que cabe numa placa de vídeo só, e seis meses de Claude grátis para quem mantém código aberto.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-12",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-12",
+      "slides": [
+        {
+          "title": "Projetos: edição de 12 de agosto",
+          "body": "Janela magra nesta edição. A pesquisa dos últimos dois dias já cobriu os lançamentos frescos, e os de hoje ainda não foram indexados. Mas sobraram duas joias práticas para quem roda tudo local: um modelo agêntico de 30 bilhões de parâmetros que cabe numa placa de vídeo só, e seis meses de Claude grátis para quem mantém código aberto."
+        },
+        {
+          "title": "Muse Glimmer: agente de 30B que roda numa GPU só",
+          "body": "Em 10 de agosto a Meta publicou o Muse Glimmer no Hugging Face sob Apache 2.0. É um modelo agêntico destilado do Muse Spark 1.2, com cerca de 30 bilhões de parâmetros, compacto o suficiente para rodar num Mac ou PC com uma única placa de vídeo de consumidor, sem nuvem.",
+          "source": {
+            "label": "CNBC",
+            "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html"
+          }
+        },
+        {
+          "title": "Anthropic dá 6 meses de Claude Max grátis a mantenedores",
+          "body": "A Anthropic lançou em agosto o programa Claude for Open Source. Oferece seis meses de Claude Max 20x, no valor de cerca de 1.200 dólares, de graça para mantenedores e contribuidores de projetos de código aberto.",
+          "source": {
+            "label": "Claude Community",
+            "url": "https://www.facebook.com/groups/claudecommunity/posts/1082823480924983/"
+          }
+        },
+        {
+          "title": "Claude for Government Desktop chega com FedRAMP High",
+          "body": "Em agosto a Anthropic abriu o beta público do Claude Code e do Claude Cowork dentro do Claude for Government Desktop, levando IA autorizada com FedRAMP High para times do setor público americano.",
+          "source": {
+            "label": "Releasebot",
+            "url": "https://releasebot.io/updates/anthropic/claude"
+          }
+        },
+        {
+          "title": "Nvidia prepara o NemoClaw, plataforma de agentes em código aberto",
+          "body": "A Nvidia está prestes a lançar o NemoClaw, uma plataforma de agentes de IA em código aberto, no GTC. A ideia é oferecer a parceiros como Salesforce e Google, com data exata ainda a confirmar.",
+          "source": {
+            "label": "The New Stack",
+            "url": "https://thenewstack.io/nvidia-nemoclaw-launch/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Mesmo numa janela magra, o local-first ficou mais barato esta semana. Um agente de 30 bilhões cabe numa placa só, e o modelo de ponta ficou grátis para quem mantém código aberto. Para quem roda tudo no docker-server, são duas alavancas concretas. Até amanhã."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-12",
       "date": "2026-08-12",
       "hook": "IA: edição de 12 de agosto",
