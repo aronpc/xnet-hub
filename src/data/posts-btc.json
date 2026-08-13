@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-13-02h32",
+      "date": "2026-08-13",
+      "time": "02h32",
+      "hook": "Depois de horas parado numa faixa estreita, o bitcoin dá na madrugada o pulso mais forte do dia e chega perto da linha dos US$ 64 mil. Falta volume para confirmar.",
+      "caption": "Foram +0,5% numa hora, o bastante para empurrar o preço à metade de cima da faixa. A vela, porém, corre sem força.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-13-02h32",
+      "link": "https://xbtc.aronpc.dev/#2026-08-13-02h32",
+      "slides": [
+        {
+          "title": "Bitcoin encosta nos US$ 64 mil na madrugada",
+          "body": "Foram +0,5% numa hora, o bastante para empurrar o preço à metade de cima da faixa. A vela, porém, corre sem força."
+        },
+        {
+          "title": "US$ 63.869",
+          "body": "Δ1h +0,51% · Δ24h +0,11% · vol $22,1 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O preço sobe, mas o teto dos US$ 64 mil ainda segura. Smart Money: funding +0,008% · L/S 1,85.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Linha dos US$ 64 mil à frente",
+          "body": "Suporte $63.300 (−0,9%) · Resistência $64.000 (+0,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Sobe sem combustível",
+          "body": "O movimento nasce abaixo da média de volume. Sem quem compre, ele esfria sozinho."
+        }
+      ]
+    },
+    {
       "id": "2026-08-12-03h32",
       "date": "2026-08-12",
       "time": "03h32",
