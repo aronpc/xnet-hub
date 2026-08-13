@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-13-14h30",
+      "date": "2026-08-13",
+      "time": "14h30",
+      "hook": "O intervalo que sustentava o bitcoin desde a madrugada cedeu nesta tarde. O preço deslizou para o fundo do canal e beira a mínima do dia, num mercado de novo tomado pelo medo.",
+      "caption": "O viés virou para baixa nesta tarde, com o preço encostando na mínima de 24h.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-13-14h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-13-14h30",
+      "slides": [
+        {
+          "title": "Bitcoin perde terreno e roça a mínima do dia",
+          "body": "O viés virou para baixa nesta tarde, com o preço encostando na mínima de 24h."
+        },
+        {
+          "title": "US$ 63.126",
+          "body": "Δ1h −0,42% · Δ24h −0,38% · vol 19,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço recuou ao terço inferior do canal, de 62,8k a 64,0k. Smart Money: funding +0,0069% · L/S 1,86 (longs lotados).",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Mínima de 24h sob pressão",
+          "body": "Suporte $62.800 (−0,52%) · Resistência $64.000 (+1,39%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Apostas na alta lotadas",
+          "body": "Quem apostou na alta está apertado, e qualquer novo recuo do preço tende a ganhar força."
+        }
+      ]
+    },
+    {
       "id": "2026-08-13-02h32",
       "date": "2026-08-13",
       "time": "02h32",
