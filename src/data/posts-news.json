@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-13",
+      "date": "2026-08-13",
+      "hook": "Projetos: edição de 13 de agosto",
+      "caption": "O Trending do GitHub amanheceu dominado por infraestrutura de agentes com memória e grafo, ao lado de ferramentas para operar uma frota deles ao mesmo tempo. No meio disso, modelos de base verticais surgem para mercado financeiro e para áudio e vídeo, e a automação ganha um contorno generativo. A edição costura o que está pegando fogo agora.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-13",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-13",
+      "slides": [
+        {
+          "title": "Projetos: edição de 13 de agosto",
+          "body": "O Trending do GitHub amanheceu dominado por infraestrutura de agentes com memória e grafo, ao lado de ferramentas para operar uma frota deles ao mesmo tempo. No meio disso, modelos de base verticais surgem para mercado financeiro e para áudio e vídeo, e a automação ganha um contorno generativo. A edição costura o que está pegando fogo agora."
+        },
+        {
+          "title": "semantica sobe com infra graph-native para IA rastreável",
+          "body": "O repositório semantica-agi/semantica subiu no Trending com cerca de 845 estrelas por dia e se descreve como infraestrutura graph-native para contexto e sistemas de IA accountability. O foco é dar contexto estruturado e rastreabilidade para agentes.",
+          "source": {
+            "label": "GitHub",
+            "url": "https://github.com/semantica-agi/semantica"
+          }
+        },
+        {
+          "title": "macro junta email, chat e agentes numa memória compartilhada",
+          "body": "O macro-inc/macro é um workspace all-in-one escrito em Rust que reúne e-mail, chat, docs, tarefas, agentes, calls e CRM ligados por uma memória de IA compartilhada. Ganha uns 227 estrelas por dia.",
+          "source": {
+            "label": "GitHub",
+            "url": "https://github.com/macro-inc/macro"
+          }
+        },
+        {
+          "title": "Operator é a UI web para rodar agentes de código em paralelo",
+          "body": "Um Show HN apresentou o Operator, interface open-source de web para disparar e acompanhar vários agentes de código ao mesmo tempo. O código está em iishyfishyy/operator-oss.",
+          "source": {
+            "label": "GitHub",
+            "url": "https://github.com/iishyfishyy/operator-oss"
+          }
+        },
+        {
+          "title": "Nvidia formaliza a stack de agentes em open source com o Switchyard",
+          "body": "O repositório NVIDIA-NeMo/Switchyard subiu no Trending com cerca de 421 estrelas por dia como peça aberta de infraestrutura de agentes da Nvidia, dentro do ecossistema NeMo.",
+          "source": {
+            "label": "GitHub",
+            "url": "https://github.com/NVIDIA-NeMo/Switchyard"
+          }
+        },
+        {
+          "title": "Kronos é um foundation model para a linguagem dos mercados",
+          "body": "O shiyu-coder/Kronos se apresenta como um foundation model para séries financeiras e de mercado, treinado para dados de mercado em vez de texto ou imagem. Sobe uns 266 estrelas por dia.",
+          "source": {
+            "label": "GitHub",
+            "url": "https://github.com/shiyu-coder/Kronos"
+          }
+        },
+        {
+          "title": "LTX-2 traz áudio e vídeo generativo com trainer de LoRA aberto",
+          "body": "A Lightricks liberou o pacote Python oficial de inferência e o trainer de LoRA para o LTX-2, modelo generativo de áudio e vídeo. O fine-tune fica nas mãos da comunidade.",
+          "source": {
+            "label": "GitHub",
+            "url": "https://github.com/Lightricks/LTX-2"
+          }
+        },
+        {
+          "title": "ppt-master gera decks de PowerPoint com objetos nativos",
+          "body": "A ferramenta hugohe3/ppt-master transforma documentos e tópicos em decks de PowerPoint nativos, com shapes, transições, animações, gráficos e tabelas reais. Não é um export genérico para pptx.",
+          "source": {
+            "label": "GitHub",
+            "url": "https://github.com/hugohe3/ppt-master"
+          }
+        },
+        {
+          "title": "Ballet escreve a integração contra qualquer API na hora",
+          "body": "O Ballet, mostrado em Show HN no ballet.dev, automatiza workflows escrevendo ele mesmo a integração contra APIs arbitrárias, em vez de exigir conectores pré-prontos como Zapier e n8n.",
+          "source": {
+            "label": "ballet.dev",
+            "url": "https://www.ballet.dev/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A infraestrutura de agentes está virando categoria, com memória em grafo, workspace unificado e UI para frota paralela ganhando tração real. Em paralelo, foundation models verticais surgem para mercado financeiro e para áudio e vídeo, e a automação testa o modelo generativo de escrever integrações. O sinal é que o agente virou a unidade base de muita ferramenta nova. Até amanhã."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-13",
       "date": "2026-08-13",
       "hook": "IA: edição de 13 de agosto",
