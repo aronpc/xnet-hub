@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-13",
+      "date": "2026-08-13",
+      "hook": "IA: edição de 13 de agosto",
+      "caption": "O dinheiro voltou a correr atrás dos agentes que escrevem código. Em um dia, o Devin quase dobrou de valuation e a revisão por IA emplacou um unicórnio. Em paralelo, a DeepSeek volta ao topo com um V4 aberto e a DeepMind troca a chefia de IA sob pressão por velocidade. A edição deixa claro onde capital e competição estão olhando.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-13",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-13",
+      "slides": [
+        {
+          "title": "IA: edição de 13 de agosto",
+          "body": "O dinheiro voltou a correr atrás dos agentes que escrevem código. Em um dia, o Devin quase dobrou de valuation e a revisão por IA emplacou um unicórnio. Em paralelo, a DeepSeek volta ao topo com um V4 aberto e a DeepMind troca a chefia de IA sob pressão por velocidade. A edição deixa claro onde capital e competição estão olhando."
+        },
+        {
+          "title": "A DeepSeek volta ao topo com o V4 aberto",
+          "body": "A DeepSeek liberou a nova geração V4, com o Pro no build de 13 de agosto e o Flash no 0731. Vários posts no Hacker News confirmaram o release na mesma faixa de horário. É o retorno da chinesa ao ciclo de modelos de fronteira depois de meses mais quieta.",
+          "source": {
+            "label": "GitHub — DeepSeek",
+            "url": "https://github.com/deepseek-ai"
+          }
+        },
+        {
+          "title": "O Devin salta para uma valuation de 40 bilhões de dólares",
+          "body": "A Cognition, dona do Devin, está em conversas para levantar mais de 1 bilhão de dólares a uma valuation acima de 40 bilhões. São cerca de 14 bilhões a mais do que os 26 bilhões de maio, em torno de três meses.",
+          "source": {
+            "label": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-12/ai-startup-cognition-in-new-funding-talks-at-40-billion-value"
+          }
+        },
+        {
+          "title": "CodeRabbit vira unicórnio e consolida a revisão por IA",
+          "body": "A plataforma de revisão de código com IA levantou 143 milhões de dólares em Série C, co-liderada por Atomico e Smash, chegando a 1,5 bilhão de valuation. Antes disso, eram 60 milhões em Série B, em setembro.",
+          "source": {
+            "label": "Reuters",
+            "url": "https://www.reuters.com/technology/ai-code-review-platform-coderabbit-valued-15-billion-latest-funding-round-2026-08-12/"
+          }
+        },
+        {
+          "title": "Trajectory aposta em aprender sem re-treinar do zero",
+          "body": "Fundada por ex-pesquisadores do DeepMind, Apple, OpenAI e Meta, a Trajectory levantou 40 milhões de dólares liderados pela Sequoia, a 300 milhões de valuation. O foco é continual learning, aprender de forma contínua sem re-treinar.",
+          "source": {
+            "label": "The Information",
+            "url": "https://www.theinformation.com/articles/trajectory-founded-ex-google-apple-researchers-raises-funding-sequoia-back-back-round"
+          }
+        },
+        {
+          "title": "Gemini Robotics passa a controlar o corpo inteiro de um humanoide",
+          "body": "A versão mais recente do Gemini Robotics, do Google DeepMind, consegue controlar todo o corpo de um robô humanoide, segundo o The Verge. É o salto de modelos de visão e linguagem para controle motor integral.",
+          "source": {
+            "label": "The Verge",
+            "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body"
+          }
+        },
+        {
+          "title": "Casa Branca prepara política de IA ampliada para modelos abertos",
+          "body": "O governo dos Estados Unidos sinaliza expandir a política federal de IA para modelos abertos e encerrar a isenção de revisão de segurança que beneficiava a OpenAI. A medida redesenharia o marco regulatório sobre pesos abertos.",
+          "source": {
+            "label": "Techbuzz",
+            "url": "https://www.techbuzz.ai/articles/white-house-preps-expanded-ai-policy-for-open-models"
+          }
+        },
+        {
+          "title": "Um dia depois, já existe ferramenta contra a marca d'água do Claude",
+          "body": "O site nomark.me oferece remoção da marca d'água invisível que o Claude passou a inserir nas saídas, noticiada ontem. Surgiu como contramedida pública menos de 24 horas depois.",
+          "source": {
+            "label": "nomark.me",
+            "url": "https://nomark.me/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O capital se concentra em agentes de código, com o Devin quase dobrando de valuation e a revisão por IA virando categoria. A DeepSeek volta ao topo com modelo aberto, a DeepMind troca a chefia sob pressão por velocidade e a Casa Branca redesenha o marco dos pesos abertos. Para quem roda agentes em casa, o sinal é que inferência barata e código automatizado seguem no centro. Até amanhã."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-12",
       "date": "2026-08-12",
       "hook": "Skills e MCP: edição de 12 de agosto",
