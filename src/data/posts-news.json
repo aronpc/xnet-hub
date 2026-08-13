@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-13",
+      "date": "2026-08-13",
+      "hook": "Skills e MCP: edição de 13 de agosto",
+      "caption": "A skill deixou de ser só um atalho e virou o formato de distribuição de lógica de agentes. Diagramas, orquestração em grafo e camadas de controle chegam empacotados como skill, enquanto o meta-tooling amadurece: surge quem testa skill, quem corta tokens e quem supervisiona a frota de sessões. A edição mostra o ecossistema ganhando ferramentas para se governar.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-13",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-13",
+      "slides": [
+        {
+          "title": "Skills e MCP: edição de 13 de agosto",
+          "body": "A skill deixou de ser só um atalho e virou o formato de distribuição de lógica de agentes. Diagramas, orquestração em grafo e camadas de controle chegam empacotados como skill, enquanto o meta-tooling amadurece: surge quem testa skill, quem corta tokens e quem supervisiona a frota de sessões. A edição mostra o ecossistema ganhando ferramentas para se governar."
+        },
+        {
+          "title": "diagram-design: 29 diagramas editoriais contra o Mermaid-slop",
+          "body": "O pack cathrynlavery/diagram-design entrega 29 tipos de diagramas editoriais para o Claude Code, em HTML e SVG self-contained. Tem postura explícita contra o Mermaid-slop e foi a maior estreia do dia, com quase 2,9 mil estrelas por dia.",
+          "source": {
+            "label": "GitHub",
+            "url": "https://github.com/cathrynlavery/diagram-design"
+          }
+        },
+        {
+          "title": "Peter empacota orquestração de agentes em grafo como skill",
+          "body": "O Peter, no robertkeus/peter, entrega orquestração de agentes baseada em grafo dentro do formato skill do Claude Code. Transforma o padrão de DAG numa peça portátil.",
+          "source": {
+            "label": "GitHub",
+            "url": "https://github.com/robertkeus/peter"
+          }
+        },
+        {
+          "title": "Dayan publica camadas de controle abertas para workflows de agentes",
+          "body": "O Kosmoray/dayan-agent-skills publica control layers, camadas de controle reutilizáveis para orquestrar workflows de agentes. Inclui gating, priorização e guarda-corpos.",
+          "source": {
+            "label": "GitHub",
+            "url": "https://github.com/Kosmoray/dayan-agent-skills"
+          }
+        },
+        {
+          "title": "Repo2Skill transforma qualquer repositório do GitHub em skill",
+          "body": "A ferramenta Hhhkarimi/repo2skill converte um repositório do GitHub em uma skill usável no ChatGPT e no Claude. Automatiza o authoring a partir de código existente.",
+          "source": {
+            "label": "GitHub",
+            "url": "https://github.com/Hhhkarimi/repo2skill"
+          }
+        },
+        {
+          "title": "Dynobox é o test runner para skills e workflows de agentes",
+          "body": "O dynobox/dynobox se apresenta como um test runner para skills e workflows de agentes, para testar e validar skills de forma automática e pegar regressões.",
+          "source": {
+            "label": "GitHub",
+            "url": "https://github.com/dynobox/dynobox"
+          }
+        },
+        {
+          "title": "tmux-agent-switcher mostra qual agente está esperando você",
+          "body": "A skill Ymirke/tmux-agent-switcher mostra quais sessões de agentes, de Claude e Codex, estão esperando atenção humana dentro do tmux. Resolve a fila de atenção de quem roda frota.",
+          "source": {
+            "label": "GitHub",
+            "url": "https://github.com/Ymirke/tmux-agent-switcher"
+          }
+        },
+        {
+          "title": "jcodemunch-mcp corta mais de 95% dos tokens ao explorar código",
+          "body": "O servidor MCP jgravelle/jcodemunch-mcp promete cortar mais de 95% dos tokens que o agente gasta navegando codebases, com exploração precisa em nível de símbolo. Já acumula uns 2,5 mil estrelas.",
+          "source": {
+            "label": "GitHub",
+            "url": "https://github.com/jgravelle/jcodemunch-mcp"
+          }
+        },
+        {
+          "title": "Um servidor MCP inteiro num único arquivo bash",
+          "body": "Um post no blazed.sh mostra como implementar um servidor MCP completo num único arquivo bash, baixando a barreira de entrada ao mínimo possível.",
+          "source": {
+            "label": "blazed.sh",
+            "url": "https://blazed.sh/blog/posts/mcp-server-in-one-bash-file/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A skill virou o formato de distribuição de lógica de agentes, com orquestração em grafo, camadas de controle e authoring automático chegando empacotados. Ao mesmo tempo, o meta-tooling amadurece: surge quem testa skill, quem corta tokens e quem supervisiona a frota. O ecossistema começou a construir as ferramentas para se governar. Até amanhã."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-13",
       "date": "2026-08-13",
       "hook": "Projetos: edição de 13 de agosto",
