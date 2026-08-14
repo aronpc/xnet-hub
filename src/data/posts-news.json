@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-14",
+      "date": "2026-08-14",
+      "hook": "Skills e MCP: edição de 14 de agosto",
+      "caption": "O fio da semana é a portabilidade. As Skills da Anthropic viraram padrão multi-cliente e passaram a rodar no Cursor, no Copilot e no Codex. No mesmo movimento, o Claude Code ligou o fork de subagente por padrão e facilitou o empacotamento de skill dentro de plugin.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-14",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-14",
+      "slides": [
+        {
+          "title": "Skills e MCP: edição de 14 de agosto",
+          "body": "O fio da semana é a portabilidade. As Skills da Anthropic viraram padrão multi-cliente e passaram a rodar no Cursor, no Copilot e no Codex. No mesmo movimento, o Claude Code ligou o fork de subagente por padrão e facilitou o empacotamento de skill dentro de plugin."
+        },
+        {
+          "title": "Claude Code liga o fork de subagente por padrão",
+          "body": "No changelog de 13 de agosto, o fork de subagente passou a ficar ativo por padrão, junto com melhorias de carregamento de plugins e mais capacidades para sub-agentes.",
+          "source": {
+            "label": "Claude Code changelog",
+            "url": "https://code.claude.com/docs/en/changelog"
+          }
+        },
+        {
+          "title": "Plugins do Claude Code aceitam a raiz como path de skill",
+          "body": "Atualização de agosto de 2026: os plugins passam a aceitar o ponto como skills path. O erro de validação do SKILL.md raiz agora sugere usar a raiz do plugin.",
+          "source": {
+            "label": "Releasebot",
+            "url": "https://releasebot.io/updates/anthropic/claude-code"
+          }
+        },
+        {
+          "title": "Cursor, Copilot e Codex passam a rodar as Skills da Claude",
+          "body": "As Skills, no formato da Anthropic com seis componentes, ficaram portáveis. Cursor, Copilot e Codex passam a executá-las.",
+          "source": {
+            "label": "Towards AI — 12 ago",
+            "url": "https://pub.towardsai.net/cursor-copilot-and-codex-now-run-claudes-skills-and-anthropic-got-zero-seats-451d918a7717"
+          }
+        },
+        {
+          "title": "Repo reúne 31 skills de agente para lançamentos",
+          "body": "O repositório producthunt-skills traz 31 Agent Skills com orientação de estratégia, conteúdo, marketing e compliance para lançamentos no Product Hunt. Roda em Claude Code, Cursor e Codex.",
+          "source": {
+            "label": "GitHub — yoanbernabeu/producthunt-skills",
+            "url": "https://github.com/yoanbernabeu/producthunt-skills"
+          }
+        },
+        {
+          "title": "Skill traz o Hacker News para dentro do Claude Code",
+          "body": "Uma skill de leitor do Hacker News, do mcpmarket, integra o site ao Claude Code. Top stories, comentários e dados de usuário chegam pela API pública do HN.",
+          "source": {
+            "label": "mcpmarket",
+            "url": "https://mcpmarket.com/tools/skills/hacker-news-reader"
+          }
+        },
+        {
+          "title": "CLI cola as agent-skills do Google nos clientes Anthropic",
+          "body": "Um CLI, divulgado por Akshay no X, injeta as skills de build de agentes do Google em Claude Code, Cursor, Codex ou Antigravity e monta um agente RAG com citações.",
+          "source": {
+            "label": "Akshay no X — 12 ago",
+            "url": "https://x.com/akshay_pachaar/status/2085791632457433119"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A skill saiu do ecossistema só da Claude. Virou padrão multi-cliente e passou a rodar em Cursor, Copilot e Codex, o fork de subagente virou default e o empacotamento ficou mais simples. A aposta em skill própria acaba de ganhar o dobro de clientes onde rodar."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-14",
       "date": "2026-08-14",
       "hook": "Projetos: edição de 14 de agosto",
