@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-14-13h31",
+      "date": "2026-08-14",
+      "time": "13h31",
+      "hook": "BTC US$ 63.055 · duas velas em alta tiraram o preço do fundo e o devolveram aos 63 mil · ainda no meio do corredor",
+      "caption": "O repique da manhã ganhou corpo: saiu de 62,6 mil e fechou acima de 63 mil. Recuperação, sim. Reversão, por enquanto não.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-14-13h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-14-13h31",
+      "slides": [
+        {
+          "title": "O preço voltou pra casa dos 63 mil",
+          "body": "O repique da manhã ganhou corpo: saiu de 62,6 mil e fechou acima de 63 mil. Recuperação, sim. Reversão, por enquanto não.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "US$ 63.055",
+          "body": "Δ1h +0,5% · Δ24h −0,4% · vol $21,4B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A marca de 63 mil foi reconquistada, mas o preço segue no meio da faixa do dia, longe do topo · Fluxo: funding +0,0013% e 69% das contas acompanhando a subida",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "63,3 mil é a próxima porta",
+          "body": "O repique tem lastro em 62,8 mil (−0,4%); o topo das últimas 24h fica em 63,6 mil (+0,9%). Um fechamento acima de 63,3 mil encostaria no topo do dia.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura horária do bitcoin",
+          "body": "Acompanhe o mercado"
+        }
+      ]
+    },
+    {
       "id": "2026-08-14-10h30",
       "date": "2026-08-14",
       "time": "10h30",
