@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-14-08h30",
+      "date": "2026-08-14",
+      "time": "08h30",
+      "hook": "Três velas quase paradas e o bitcoin segue grudado na mínima do dia, na casa dos US$ 62,7 mil. A manhã de sexta começa com dois terços das contas ainda posicionados para cima, esperando o mercado virar. Até agora, ele não virou.",
+      "caption": "Já são três horas engatinhando em volta dos US$ 62,7 mil, sem força para subir.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-14-08h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-14-08h30",
+      "slides": [
+        {
+          "title": "Manhã de sexta grudada na mínima do dia",
+          "body": "Já são três horas engatinhando em volta dos US$ 62,7 mil, sem força para subir."
+        },
+        {
+          "title": "US$ 62.835",
+          "body": "Δ1h +0,1% · Δ24h −0,9% · vol US$ 20,3B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Desceu de US$ 63,8 mil e ainda não conseguiu retomar US$ 63,3 mil · funding +0,001%, quase zero, com 68% das contas na direção contrária à queda",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Duas portas: 62,7 ou 63,3 mil",
+          "body": "Mínima do dia em US$ 62.700 (−0,2%) · teto de 24h em US$ 64.000 (+1,8%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura horária do bitcoin",
+          "body": "Atualização de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-14-05h50",
       "date": "2026-08-14",
       "time": "05h50",
