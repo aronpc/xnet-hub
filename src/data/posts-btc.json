@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-14-10h30",
+      "date": "2026-08-14",
+      "time": "10h30",
+      "hook": "BTC US$ 62.724 · piso de 62,6 mil enfim cedeu por instantes e voltou · sexta hora seguida no fundo do canal",
+      "caption": "Pela primeira vez hoje o preço passou por baixo de 62,7 mil: tocou 62.605 e fechou de volta acima. Nada resolvido ainda.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-14-10h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-14-10h30",
+      "slides": [
+        {
+          "title": "O fundo foi furado, e devolvido na mesma hora",
+          "body": "Pela primeira vez hoje o preço passou por baixo de 62,7 mil: tocou 62.605 e fechou de volta acima. Nada resolvido ainda.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "US$ 62.724",
+          "body": "Δ1h −0,1% · Δ24h −1,3% · vol $20,5B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A cada hora o teste sai mais raspado, e o repique perde força · 68% das contas ainda apostam contra essa estrutura, com funding em +0,0002%",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Cada vez mais apertado no mesmo corredor",
+          "body": "Fundo do canal em $62.600 (−0,2%), teto em $64.000 (+2,0%). Seis horas sem sair da faixa de baixo: alguém vai ceder primeiro.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura horária do bitcoin",
+          "body": "Acompanhe o mercado"
+        }
+      ]
+    },
+    {
       "id": "2026-08-14-08h30",
       "date": "2026-08-14",
       "time": "08h30",
