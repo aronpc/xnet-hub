@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-14",
+      "date": "2026-08-14",
+      "hook": "Projetos: edição de 14 de agosto",
+      "caption": "O fio da semana é o peso aberto. A China empatou a disputa de coding com um modelo de 2,4 trilhões liberado em pesos abertos, e nasceu uma onda de ferramentas de agente ao redor: ambiente pra rodar agente, scanner de compliance e um app inteiro entregue por agente em 36 horas.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-14",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-14",
+      "slides": [
+        {
+          "title": "Projetos: edição de 14 de agosto",
+          "body": "O fio da semana é o peso aberto. A China empatou a disputa de coding com um modelo de 2,4 trilhões liberado em pesos abertos, e nasceu uma onda de ferramentas de agente ao redor: ambiente pra rodar agente, scanner de compliance e um app inteiro entregue por agente em 36 horas."
+        },
+        {
+          "title": "Qwen3.8-Max empata com o Claude Opus 4.8 em pesos abertos",
+          "body": "A Alibaba liberou em 3 de agosto o Qwen3.8-Max, um MoE de 2,4 trilhões de parâmetros, e o 27B em open weights. Marcou 86,6 no Terminal-Bench 2.1 e 92,6% no GPQA Diamond.",
+          "source": {
+            "label": "Qwen blog — 3 ago",
+            "url": "https://qwen.ai/blog?id=qwen3.8"
+          }
+        },
+        {
+          "title": "MiniMax H3 é o release de vídeo open-weight do momento",
+          "body": "O MiniMax H3 aparece como o standout multimodal e de vídeo, em quarto lugar no geral com cerca de 1.668 de Elo no Latent Space.",
+          "source": {
+            "label": "Latent Space",
+            "url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new"
+          }
+        },
+        {
+          "title": "holaOS transforma workspace em agente de longa duração",
+          "body": "O app desktop open-source holaOS roda cada workspace como um agente de longa duração com memória. Suporta Claude Code e Codex, com mais de 100 integrações e MCP.",
+          "source": {
+            "label": "GitHub — holaboss-ai/holaOS",
+            "url": "https://github.com/holaboss-ai/holaOS"
+          }
+        },
+        {
+          "title": "Scanner acha 97% do código de agente fora da regra",
+          "body": "A ferramenta open-source AIR Blackbox, mostrada no Show HN, faz análise estática de código Python de agentes contra seis requisitos técnicos do AI Act europeu. Relata perto de 97% de não-conformidade.",
+          "source": {
+            "label": "Show HN — 10 ago",
+            "url": "https://news.ycombinator.com/item?id=47247314"
+          }
+        },
+        {
+          "title": "Agentes entregam um app inteiro em 36 horas por 270 dólares",
+          "body": "Um post no Show HN mostra agentes de IA projetando e publicando um app completo em 36 horas, com custo de cerca de 270 dólares de compute.",
+          "source": {
+            "label": "Show HN",
+            "url": "https://news.ycombinator.com/item?id=47059153"
+          }
+        },
+        {
+          "title": "AdAnt AI, o 'Claude para anúncios', lidera o Product Hunt",
+          "body": "O AdAnt AI, descrito como Claude para anúncios sociais virais e de alta conversão, aparece como o número um dos lançamentos em destaque de agosto no Product Hunt.",
+          "source": {
+            "label": "Product Hunt",
+            "url": "https://www.producthunt.com/products"
+          }
+        },
+        {
+          "title": "Product Hunt faz 'OpenAI Day' com 400 produtos sobre GPT-5.6",
+          "body": "O evento OpenAI Day no Product Hunt reuniu mais de 400 produtos construídos sobre o GPT-5.6. Cinco vencedores levaram 10 mil dólares em créditos.",
+          "source": {
+            "label": "Product Hunt",
+            "url": "https://www.producthunt.com/products/openai"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A frente de projetos virou ferramenta de agente. O Qwen mostrou que o topo do coding já existe em pesos abertos, nasceu ambiente pra rodar agente com memória e scanner de compliance de código. A pergunta que sobra é operacional: dá pra self-hostar o modelo, e o código do seu agente passa na regra europeia."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-14",
       "date": "2026-08-14",
       "hook": "IA: edição de 14 de agosto",
