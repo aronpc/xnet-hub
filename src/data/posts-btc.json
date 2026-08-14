@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-14-05h50",
+      "date": "2026-08-14",
+      "time": "05h50",
+      "hook": "A madrugada levou o bitcoin de volta ao piso do dia. O preço encostou nos US$ 62,7 mil, testou a mínima de 24 horas e segurou. Mas o mercado segue abarrotado de apostas na alta, e é esse peso todo que mantém a pressão sobre o chão.",
+      "caption": "Chegou a tocar os US$ 62,7 mil e recuou um pouco; a estrutura, porém, segue de baixa.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-14-05h50",
+      "link": "https://xbtc.aronpc.dev/#2026-08-14-05h50",
+      "slides": [
+        {
+          "title": "Piso do dia à prova, apostas na alta no talo",
+          "body": "Chegou a tocar os US$ 62,7 mil e recuou um pouco; a estrutura, porém, segue de baixa."
+        },
+        {
+          "title": "US$ 62.821",
+          "body": "Δ1h −0,35% · Δ24h −1,41% · vol US$ 19,7B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Continua de baixa até recuperar os US$ 63,3 mil · Mercado: funding +0,004% (neutro) e apostas na alta em 66% das contas",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Tudo passa pelo piso de US$ 62,7 mil",
+          "body": "Apoio do dia em US$ 62,7 mil (−0,2%) · Teto em US$ 63,6 mil (+1,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura horária do bitcoin",
+          "body": "Atualização de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-13-14h30",
       "date": "2026-08-13",
       "time": "14h30",
