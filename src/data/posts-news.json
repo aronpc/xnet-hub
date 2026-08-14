@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-14",
+      "date": "2026-08-14",
+      "hook": "IA: edição de 14 de agosto",
+      "caption": "O fio da semana é a consolidação de mercado. O Gemini cruzou 1 bilhão de usuários, o Claude cresceu 75% em assinantes pagos, e a OpenAI levou anúncio ao Japão e à Coreia do Sul. Abaixo desse ruído, a Europa começou a aplicar a regra sobre o código dos agentes.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-14",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-14",
+      "slides": [
+        {
+          "title": "IA: edição de 14 de agosto",
+          "body": "O fio da semana é a consolidação de mercado. O Gemini cruzou 1 bilhão de usuários, o Claude cresceu 75% em assinantes pagos, e a OpenAI levou anúncio ao Japão e à Coreia do Sul. Abaixo desse ruído, a Europa começou a aplicar a regra sobre o código dos agentes."
+        },
+        {
+          "title": "O Gemini passou de 1 bilhão de usuários por mês",
+          "body": "Sundar Pichai anunciou no X que o app Gemini cruzou a marca de 1 bilhão de usuários ativos mensais. O número de assinantes pagos ficou de fora do anúncio.",
+          "source": {
+            "label": "TechTimes — 12 ago",
+            "url": "https://www.techtimes.com/articles/324095/20260812/gemini-reaches-1-billion-users-subscriber-count-left-out-announcement.htm"
+          }
+        },
+        {
+          "title": "OpenAI pré-lança o Ultrafast mode",
+          "body": "A OpenAI publicou em 13 de agosto o preview do Ultrafast mode, um modo de inferência de baixa latência para respostas mais rápidas.",
+          "source": {
+            "label": "OpenAI — 13 ago",
+            "url": "https://openai.com/news/"
+          }
+        },
+        {
+          "title": "ChatGPT conecta o Google Drive ao Library",
+          "body": "Nas release notes de 13 de agosto, o Google Drive passou a ser conectável ao Library, e o modelo GPT-Live-1 entrou em rollout nas plataformas.",
+          "source": {
+            "label": "OpenAI release notes",
+            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+          }
+        },
+        {
+          "title": "GPT-5.6 Luna vira o modelo padrão do plano gratuito",
+          "body": "Na mesma semana, o GPT-5.6 Luna passou a ser o modelo padrão dos usuários Free e Go do ChatGPT, levando o mais novo da família 5.6 à cauda gratuita.",
+          "source": {
+            "label": "OpenAI release notes",
+            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+          }
+        },
+        {
+          "title": "Anúncios do ChatGPT chegam a Japão e Coreia do Sul",
+          "body": "Atualização de 11 de agosto estendeu os ChatGPT Ads, já em Reino Unido, México e Brasil, para o Japão e a Coreia do Sul.",
+          "source": {
+            "label": "OpenAI",
+            "url": "https://openai.com/index/testing-ads-in-chatgpt/"
+          }
+        },
+        {
+          "title": "A Europa começa a aplicar o AI Act de verdade",
+          "body": "Desde 2 de agosto a Comissão Europeia passou a aplicar as obrigações centrais do AI Act sobre sistemas de alto risco, com novas regras de transparência.",
+          "source": {
+            "label": "Comissão Europeia — 2 ago",
+            "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august"
+          }
+        },
+        {
+          "title": "Claude cresce 75% em consumidores pagos",
+          "body": "Dados de transação de cartão apontam um aumento de cerca de 75% nos consumidores pagos do Claude desde janeiro de 2026.",
+          "source": {
+            "label": "Pluang",
+            "url": "https://pluang.com/en/news-feed/anthropic-clause-menarik-pelanggan-berbayar-di-pasar-ai"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A semana foi de consolidação de mercado. O Gemini chegou a 1 bilhão, o Claude cresceu em assinante pago, e a OpenAI levou o anúncio à Ásia. O sinal que ficou é outro: a Europa começou a aplicar a regra sobre o código dos agentes, e perto de 97% dele ainda não passa."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-13",
       "date": "2026-08-13",
       "hook": "Skills e MCP: edição de 13 de agosto",
