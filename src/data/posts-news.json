@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-15",
+      "date": "2026-08-15",
+      "hook": "Skills e MCP: edição de 15 de agosto",
+      "caption": "O ecossistema Claude Code amadureceu de vez: a Anthropic publicou o playbook oficial de sessões, apareceu hook que corta 42% dos tokens com prova em SWE-bench, e um paper deu nome acadêmico ao problema que todo mundo que mantém memória de agente já sentia na pele.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-15",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-15",
+      "slides": [
+        {
+          "title": "Skills e MCP: edição de 15 de agosto",
+          "body": "O ecossistema Claude Code amadureceu de vez: a Anthropic publicou o playbook oficial de sessões, apareceu hook que corta 42% dos tokens com prova em SWE-bench, e um paper deu nome acadêmico ao problema que todo mundo que mantém memória de agente já sentia na pele."
+        },
+        {
+          "title": "Anthropic ensina a extrair mais das sessões",
+          "body": "A Anthropic publicou o guia \"Maximizing the value of your Claude Code sessions\", com técnicas de planejamento de sessão, gestão de contexto e custo. Fez 164 pontos no Hacker News com debate ativo.",
+          "source": {
+            "label": "Anthropic — 14 ago",
+            "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions"
+          }
+        },
+        {
+          "title": "Hooks que cortam 42% dos tokens",
+          "body": "O Graft, da NanoNets, injeta entendimento contextual do codebase no agente via hooks, no Claude Code, Cursor e Codex. O benchmark controlado, com 162 execuções, mostrou 46% menos chamadas de ferramenta, 42% menos tokens, 60% menos tempo, e a taxa de correção subiu de 54% para 66% no SWE-bench Verified. O repositório já tem 2,7 mil estrelas.",
+          "source": {
+            "label": "GitHub — 14 ago",
+            "url": "https://github.com/NanoNets/Graft"
+          }
+        },
+        {
+          "title": "Hexis: skills e tools versionadas em git",
+          "body": "O Hexis, open-source, é um control plane onde skills, tools, contexto, permissões e identidade de agente vivem como arquivos num repositório git. O histórico de auditoria é a própria camada de storage. Self-hosted e nativo de MCP.",
+          "source": {
+            "label": "GitHub — 14 ago",
+            "url": "https://github.com/Bevel-Software/Hexis"
+          }
+        },
+        {
+          "title": "MCP Memory no formato de conhecimento do Google",
+          "body": "Saiu um MCP server de memória persistente que grava records no Open Knowledge Format, a especificação v0.2 do Google Cloud Platform, e indexa tudo em SQLite com FTS5. Funciona no Claude Desktop, Cursor, Antigravity, Windsurf e Codex.",
+          "source": {
+            "label": "GitHub — 13 ago",
+            "url": "https://github.com/fellowgeek/mcp-memory"
+          }
+        },
+        {
+          "title": "No DeepSeek Harness, skill também é plugin",
+          "body": "No dev preview do harness da DeepSeek, skills, tools, sessões e sandboxes são plugins trocáveis via kernel Cordis, e a documentação cita plugins da comunidade como cidadão de primeira classe. O repositório cruzou 100 mil estrelas em 48 horas.",
+          "source": {
+            "label": "DeepSeek — 13 ago",
+            "url": "https://deepseek.com/harness/en/"
+          }
+        },
+        {
+          "title": "Skill_Atlas: achar a skill certa sem varrer arquivos",
+          "body": "O Skill_Atlas indexa as skills instaladas no Claude Code como um grafo, e o agente consulta esse índice pra encontrar a skill certa em vez de ler diretório por diretório.",
+          "source": {
+            "label": "GitHub — 14 ago",
+            "url": "https://github.com/danielLublinsky/Skill_Atlas"
+          }
+        },
+        {
+          "title": "Gnat: analytics num binário Go com MCP embutido",
+          "body": "O Gnat distribui analytics self-hosted como um único binário Go que já expõe um MCP server. O agente consulta métricas do produto direto, sem API intermediária.",
+          "source": {
+            "label": "GitHub — 14 ago",
+            "url": "https://github.com/var-raphael/Gnat"
+          }
+        },
+        {
+          "title": "\"Catastrophic remembering\": por que o CLAUDE.md só cresce",
+          "body": "Paper submetido no dia 11 e discutido no HN na quinta formaliza a degradação de agentes que acumulam memória e instruções sem esquecer nada. O nome do fenômeno: catastrophic remembering.",
+          "source": {
+            "label": "arXiv — 14 ago",
+            "url": "https://arxiv.org/abs/2608.11095"
+          }
+        },
+        {
+          "title": "Contexto virou o recurso a gerenciar",
+          "body": "Hooks que cortam tokens, memória em formato aberto, grafo pra achar skill, e um paper dando nome ao acúmulo sem poda. A comunidade parou de pedir mais modelo e começou a gerenciar melhor o que já tem. A skill de 2027 provavelmente nasce com política de esquecimento embutida."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-15",
       "date": "2026-08-15",
       "hook": "Projetos: edição de 15 de agosto",
