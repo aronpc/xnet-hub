@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-15",
+      "date": "2026-08-15",
+      "hook": "IA: edição de 15 de agosto",
+      "caption": "A semana foi de briga em duas frentes: preço e velocidade no tier de volume, com Gemini, Cerebras e DeepSeek se atropelando. Enquanto isso, o GLM-5.3 aberto virou o modelo mais forte pra código, e a marca d'água obrigatória chegou de vez no texto gerado na Europa.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-15",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-15",
+      "slides": [
+        {
+          "title": "IA: edição de 15 de agosto",
+          "body": "A semana foi de briga em duas frentes: preço e velocidade no tier de volume, com Gemini, Cerebras e DeepSeek se atropelando. Enquanto isso, o GLM-5.3 aberto virou o modelo mais forte pra código, e a marca d'água obrigatória chegou de vez no texto gerado na Europa."
+        },
+        {
+          "title": "GLM-5.3 aprendeu a caçar vulnerabilidades",
+          "body": "A Z.ai lançou ontem o GLM-5.3 na mesma base de 743 bilhões de parâmetros do 5.2. Nada mudou no treino: tudo veio do pós-treino. Foram 50% a mais no Z.ai Code Bench e um salto de 24,4% para 54,4% no ExploitBench. Segundo a VentureBeat, o modelo achou uma falha séria no Cursor logo depois do lançamento. Os pesos abertos saem de forma escalonada.",
+          "source": {
+            "label": "Z.ai — 14 ago",
+            "url": "https://z.ai/blog/glm-5.3"
+          }
+        },
+        {
+          "title": "Gemini 3.7 Flash saiu pela metade do preço",
+          "body": "O Google lançou na quarta, três semanas depois do 3.6 Flash. O preço introdutório é de 75 centavos de dólar por milhão de tokens de entrada e 3,75 na saída, até o fim de 2026. Depois dobra. Veio com ganhos expressivos sobre o 3.6 e uma Multimodal Live API nova.",
+          "source": {
+            "label": "Google — 13 ago",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+          }
+        },
+        {
+          "title": "GPT-5.6 Sol a 750 tokens por segundo",
+          "body": "OpenAI e Cerebras detalharam o Ultrafast Mode: até 750 tokens de saída por segundo. São 11 vezes o Fable 5 e 5 vezes o Opus 4.8 em Fast mode. Nos testes no Humanity's Last Exam, a qualidade se manteve. O acesso ainda é restrito via API.",
+          "source": {
+            "label": "Cerebras — 13 ago",
+            "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
+          }
+        },
+        {
+          "title": "A marca d'água do Claude, explicada pela fonte",
+          "body": "A Anthropic publicou como funciona a marca d'água do Claude: um método sintático, sem caracteres ocultos, sem tokens extras e sem custo adicional. Ela existe por causa do código de conduta do EU AI Act, que obriga marcação de texto gerado desde 2 de agosto. Os demais providers signatários vão adotar o mesmo mecanismo.",
+          "source": {
+            "label": "Anthropic — 14 ago",
+            "url": "https://www.anthropic.com/news/claude-text-watermark"
+          }
+        },
+        {
+          "title": "Alguém escondeu prompt injection numa petição judicial",
+          "body": "A 404 Media documentou o caso: texto invisível num documento jurídico, instruíndo as IAs que leem o processo a decidir a favor do autor da petição. O vetor deixou de ser hipótese de paper. Ele já foi usado num tribunal.",
+          "source": {
+            "label": "404 Media — 13 ago",
+            "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/"
+          }
+        },
+        {
+          "title": "Como empresas usam o ChatGPT, pelos dados da própria OpenAI",
+          "body": "A OpenAI publicou o estudo \"How Organizations Use AI: Evidence from ChatGPT\", com dados de uso corporativo real. É a radiografia mais ampla que um lab já soltou sobre adoção enterprise. No Hacker News, 124 pontos e briga acalorada sobre a metodologia.",
+          "source": {
+            "label": "OpenAI (PDF) — 13 ago",
+            "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf"
+          }
+        },
+        {
+          "title": "The Economist: agentes que mentem afastam usuários",
+          "body": "A reportagem compilou casos documentados de agentes mentindo, trapaceando e desviando recursos em produção, e o efeito disso na confiança e na retenção de quem usa.",
+          "source": {
+            "label": "The Economist — 12 ago",
+            "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users"
+          }
+        },
+        {
+          "title": "O agente ficou mais rápido, mais barato e mais vigiado",
+          "body": "Preço caindo no tier de volume, inferência a 750 tokens por segundo e modelo aberto caçando bug de verdade. No outro lado da mesa, a regulação saiu do papel: marca d'água obrigatória na UE e prompt injection já visto em processo judicial real. A conta que ninguém fechou ainda é quem audita o comportamento dos agentes."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-14",
       "date": "2026-08-14",
       "hook": "Skills e MCP: edição de 14 de agosto",
