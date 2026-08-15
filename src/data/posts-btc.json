@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-15-01h30",
+      "date": "2026-08-15",
+      "time": "01h30",
+      "hook": "BTC US$ 63.067 · virou a madrugada e o preço continua preso perto de 63 mil · quem está posicionado segue apostando pra cima",
+      "caption": "Dez horas e nenhum rompimento. O preço continua colado na porta dos 63,1 mil sem conseguir entrar, e o piso de 62,5 mil segue de pé.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-15-01h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-15-01h30",
+      "slides": [
+        {
+          "title": "A décima hora no mesmo lugar",
+          "body": "Dez horas e nenhum rompimento. O preço continua colado na porta dos 63,1 mil sem conseguir entrar, e o piso de 62,5 mil segue de pé.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "US$ 63.067",
+          "body": "Δ1h +0,1% · Δ24h −0,5% · vol $19,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Hora quase flat, giro normal e sentimento ainda no medo (34) · Fluxo: funding +0,009% e 67,5% das contas na direção de alta",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "O próximo passo do preço está a 0,1%",
+          "body": "A porta de entrada dos 63,1 mil (+0,1%) e o piso da última hora, 62,9 mil. O que sair primeiro define o tamanho do movimento.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura horária do bitcoin",
+          "body": "Acompanhe o mercado"
+        }
+      ]
+    },
+    {
       "id": "2026-08-14-23h30",
       "date": "2026-08-14",
       "time": "23h30",
