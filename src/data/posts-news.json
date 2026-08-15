@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-15",
+      "date": "2026-08-15",
+      "hook": "Projetos: edição de 15 de agosto",
+      "caption": "O tema da semana foi radicalização. A DeepSeek abriu um harness onde absolutamente tudo é plugin, e o resto do mercado foi pra especialização: agente de busca dedicado, foundation model de 14 megabytes, browser feito sob medida pra agente. O agente genérico frontier está sendo comido pelas bordas.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-15",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-15",
+      "slides": [
+        {
+          "title": "Projetos: edição de 15 de agosto",
+          "body": "O tema da semana foi radicalização. A DeepSeek abriu um harness onde absolutamente tudo é plugin, e o resto do mercado foi pra especialização: agente de busca dedicado, foundation model de 14 megabytes, browser feito sob medida pra agente. O agente genérico frontier está sendo comido pelas bordas."
+        },
+        {
+          "title": "DeepSeek Harness: 100 mil estrelas em 2 dias",
+          "body": "A DeepSeek abriu o código de um harness de agentes onde toda capacidade é plugin: modelos, tools, skills, sessões, sandboxes, storage, agendamento e até a interface. Tudo trocável sobre o kernel Cordis. O repositório passou de 100 mil estrelas em 48 horas.",
+          "source": {
+            "label": "DeepSeek — 13 ago",
+            "url": "https://deepseek.com/harness/en/"
+          }
+        },
+        {
+          "title": "Qwen3.8-27B promete contextão de 1 milhão",
+          "body": "A Alibaba liberou os pesos do Qwen3.8-27B em FP8, Apache 2.0, multimodal de imagem e texto. A versão hospedada no Qwen Cloud vem com 1 milhão de contexto por padrão e tools nativas. Fez 992 pontos no Hacker News.",
+          "source": {
+            "label": "Hugging Face — 13 ago",
+            "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
+          }
+        },
+        {
+          "title": "Toast 1: agente de busca 10x mais barato que Opus",
+          "body": "A Mixedbread lançou o primeiro agente especializado em busca. Ele assume o loop de pesquisa inteiro, da decomposição às subqueries até a síntese, e iguala ou supera o Claude Opus 5 e o GPT-5.6 Sol em qualidade de retrieval. Custa até 10 vezes menos e roda 12 vezes mais rápido. Funciona com qualquer backend de busca.",
+          "source": {
+            "label": "Mixedbread — 13 ago",
+            "url": "https://www.mixedbread.com/blog/toast-1"
+          }
+        },
+        {
+          "title": "needle: foundation model de 14 megabytes",
+          "body": "O projeto needle, da Cactus Compute, sobe na ordem de 660 estrelas por dia. É um foundation model agentic de 14 megabytes feito pra celular, wearable, casa inteligente e robô. Roda no dispositivo, sem nuvem, com pesos livremente distribuíveis. É a evolução do Needle2, que fez 527 pontos no HN no dia 10.",
+          "source": {
+            "label": "GitHub — 14 ago",
+            "url": "https://github.com/cactus-compute/needle"
+          }
+        },
+        {
+          "title": "spec-kit segue subindo: mais mil estrelas por dia",
+          "body": "O spec-kit, do próprio GitHub, segue no trending com cerca de 1.160 estrelas novas por dia. A proposta é desenvolvimento dirigido por spec: a especificação executável vem antes do código, e o agente trabalha a partir dela.",
+          "source": {
+            "label": "GitHub — 14 ago",
+            "url": "https://github.com/github/spec-kit"
+          }
+        },
+        {
+          "title": "ego-lite: browser que compartilha seu login com agentes",
+          "body": "O projeto ego-lite ganhou 165 estrelas por dia, num total de 10,4 mil. É um browser construído pra automação por agentes, com um detalhe disputado: ele compartilha o estado logado do browser do usuário. Entra direto contra o Kitesurf da Cloudflare, lançado no dia 7.",
+          "source": {
+            "label": "GitHub — 14 ago",
+            "url": "https://github.com/citrolabs/ego-lite"
+          }
+        },
+        {
+          "title": "OJCP: vagas de emprego legíveis por agente",
+          "body": "Saiu o Open Job Content Protocol, um protocolo aberto pra dados de emprego estruturados, pensado pra agentes consumirem sem scraping. Fez 33 pontos no HN na quarta.",
+          "source": {
+            "label": "ojcp.dev — 12 ago",
+            "url": "https://ojcp.dev/"
+          }
+        },
+        {
+          "title": "Harness virou commodity, especialista virou economia",
+          "body": "Com o harness da DeepSeek aberto e tudo nele sendo plugin, orquestração deixou de ser diferencial. O que sobra de margem está nos especialistas: busca, browser, dispositivo pequeno. E a camada de dados reformatando pra agente indica que a próxima escassez é contexto limpo, não modelo."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-15",
       "date": "2026-08-15",
       "hook": "IA: edição de 15 de agosto",
