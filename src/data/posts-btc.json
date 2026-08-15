@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-14-23h30",
+      "date": "2026-08-14",
+      "time": "23h30",
+      "hook": "BTC US$ 63.043 · o preço passou o dia inteiro fechado entre 62,5 e 63,6 mil, e a noite não foi diferente · mercado sem convicção",
+      "caption": "Oito horas seguidas dentro da mesma faixa. O preço encostou no teto imediato algumas vezes, mas nada de força pra atravessar.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-14-23h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-14-23h30",
+      "slides": [
+        {
+          "title": "Um dia inteiro no mesmo corredor",
+          "body": "Oito horas seguidas dentro da mesma faixa. O preço encostou no teto imediato algumas vezes, mas nada de força pra atravessar.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "US$ 63.043",
+          "body": "Δ1h +0,1% · Δ24h −0,61% · vol $19,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Repique preso abaixo de 63,1 mil, sem volume e com sentimento ainda cauteloso · Fluxo: funding +0,009% e 67,4% das contas posicionadas pra cima",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Quanto mais tempo parado, maior o movimento depois",
+          "body": "A faixa vai de 62,5 mil (mínima do dia, −0,9%) a 63,1 mil (+0,1%); acima dela, o teto de 24h fica em 63,6 mil.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura horária do bitcoin",
+          "body": "Acompanhe o mercado"
+        }
+      ]
+    },
+    {
       "id": "2026-08-14-13h31",
       "date": "2026-08-14",
       "time": "13h31",
