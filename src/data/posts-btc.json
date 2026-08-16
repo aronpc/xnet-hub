@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-16-14h30",
+      "date": "2026-08-16",
+      "time": "14h30",
+      "hook": "BTC US$ 63.136 · a fuga pra cima de 63,2 mil durou uma hora: o empurrão parou na máxima do dia e o preço voltou pro corredor. Enquanto isso, a turma alavancada subiu a aposta comprada pro maior nível da semana (L/S 2,11)",
+      "caption": "Duas horas de força e o recuo chegou, justamente com mais gente apostando contra o movimento.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-16-14h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-16-14h30",
+      "slides": [
+        {
+          "title": "O teto da semana segurou",
+          "body": "Duas horas de força e o recuo chegou, justamente com mais gente apostando contra o movimento."
+        },
+        {
+          "title": "US$ 63.136",
+          "body": "Δ1h −0,23% · Δ24h +0,20% · vol 9,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Tentativa de saída barrada na máxima de 24h (US$ 63.390) e preço de volta ao miolo de 63,0 a 63,4 mil · Multidão comprada: funding zerado + L/S 2,11",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "O corredor segue de pé",
+          "body": "Faixa vigente: 63.000 (−0,2%) até 63.400 (+0,4%). O topo do dia continua sendo a referência",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura de contexto, número na mão",
+          "body": "Clima de cautela segue (34). O acompanhamento completo sai de hora em hora no canal."
+        }
+      ]
+    },
+    {
       "id": "2026-08-16-13h32",
       "date": "2026-08-16",
       "time": "13h32",
