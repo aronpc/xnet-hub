@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-16-19h31",
+      "date": "2026-08-16",
+      "time": "19h31",
+      "hook": "BTC US$ 62.789 · quase dois dias andando de lado entre 63,0 e 63,4 mil, e a primeira hora com direção veio pra baixo: a marca de 62.968, que segurou por 50 horas, cedeu com fechamento de hora e volume acima da média. E a maior parte das apostas em derivativos seguia na direção contrária.",
+      "caption": "Primeiro movimento de verdade em duas sessões paradas, e dessa vez com volume junto.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-16-19h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-16-19h31",
+      "slides": [
+        {
+          "title": "O chão que segurou dois dias cedeu",
+          "body": "Primeiro movimento de verdade em duas sessões paradas, e dessa vez com volume junto."
+        },
+        {
+          "title": "US$ 62.789",
+          "body": "Δ1h −0,33% · Δ24h −0,48% · vol 9,2bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Primeiro fechamento de hora abaixo de 62.968 em dois dias, com volume 1,2× a média · funding +0,003% zerado e L/S 2,18",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "62.754 é a mínima de 24h",
+          "body": "Preço colado nela (−0,06%). De volta, 63.000 (+0,34%) é a porta da faixa antiga: retomar essa linha apaga o movimento de hoje.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura de contexto, número na mão",
+          "body": "Fluxo de 9,2 bi em 24h e clima de cautela persistente. O acompanhamento completo sai de hora em hora no canal."
+        }
+      ]
+    },
+    {
       "id": "2026-08-16-14h30",
       "date": "2026-08-16",
       "time": "14h30",
