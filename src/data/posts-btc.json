@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-16-13h32",
+      "date": "2026-08-16",
+      "time": "13h32",
+      "hook": "BTC US$ 63.281 · depois de quase dois dias preso entre 62,9 e 63,2 mil, o preço fechou a primeira hora acima do teto, e dessa vez veio com volume de verdade (46% acima da média) · quem acompanha o canal viu essa banda se formar lá atrás",
+      "caption": "Primeira fechada de 1h acima de 63,2 mil desde sexta, e o fluxo acompanhou: 46% acima do normal.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-16-13h32",
+      "link": "https://xbtc.aronpc.dev/#2026-08-16-13h32",
+      "slides": [
+        {
+          "title": "Fim da banda de 45 horas",
+          "body": "Primeira fechada de 1h acima de 63,2 mil desde sexta, e o fluxo acompanhou: 46% acima do normal."
+        },
+        {
+          "title": "US$ 63.281",
+          "body": "Δ1h +0,36% · Δ24h +0,35% · vol 8,9bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Quebra inicial do teto da banda de 45h, preço encostando na máxima de 24h · Fluxo alavancado: funding +0,0054% + L/S 2,03",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Falta o sim acima de 63,4 mil",
+          "body": "Faixa de referência: 63.150 (−0,2%) · 63.400 (+0,2%), a máxima do dia ainda na frente",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura de contexto, número na mão",
+          "body": "Sentimento ainda no medo (34). O intraday completo sai de hora em hora no canal"
+        }
+      ]
+    },
+    {
       "id": "2026-08-15-01h30",
       "date": "2026-08-15",
       "time": "01h30",
