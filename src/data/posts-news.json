@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-17",
+      "date": "2026-08-17",
+      "hook": "Projetos: edição de 17 de agosto",
+      "caption": "O dia em que a camada de harness começou a virar commodity, a criptografia homomórfica ficou prática e um modelo local de 27B cravou bench de agente sério.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-17",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-17",
+      "slides": [
+        {
+          "title": "Projetos: edição de 17 de agosto",
+          "body": "O dia em que a camada de harness começou a virar commodity, a criptografia homomórfica ficou prática e um modelo local de 27B cravou bench de agente sério."
+        },
+        {
+          "title": "HarnessRouter abre interface unificada para harnesses",
+          "body": "Lançou o Community Edition open-source e self-hosted de uma interface unificada — o Unified Harness Protocol — que pluga Codex, Claude Code, Hermes e outros numa única AI Agent API. Há edição Cloud gerenciada pra quem não quer self-host.",
+          "source": {
+            "label": "harnessrouter.ai — 16 ago",
+            "url": "https://harnessrouter.ai/"
+          }
+        },
+        {
+          "title": "Google open-sourça compilador para inferência em dados cifrados",
+          "body": "O HEIR (Homomorphic Encryption Intermediate Representation) é uma toolchain MLIR que converte modelos pré-treinados para rodar inferência sobre inputs criptografados. Demos com recomendador, fraude de cartão, intrusão de rede e hotword, mais 4 parceiros de hardware — Belfort, Niobium, Cornami e Optalysys.",
+          "source": {
+            "label": "Google Blog — 14 ago",
+            "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
+          }
+        },
+        {
+          "title": "Nemotron 3.5 Lightning 30B + NeMo Switchyard",
+          "body": "MoE de 30B com 3B ativos, inteligência nível gpt-oss-120b com um quarto dos parâmetros e ~4x mais tokens de saída (~670 tok/s medidos), uso comercial gratuito. Junto veio o NeMo Switchyard, biblioteca de roteamento em Rust que corta o custo por tarefa a ~1/3 do Opus 4.8 — o Devin Desktop integrou e reduziu custo médio em 28%.",
+          "source": {
+            "label": "Hugging Face — 15 ago",
+            "url": "https://huggingface.co"
+          }
+        },
+        {
+          "title": "Qwen3.8-27B com visão e 262K de contexto",
+          "body": "Apache 2.0, vision-language de 27B com 262K nativos (extensível a 1M via hosted), Gated DeltaNet + Gated Attention. Em FP8 marca 61,7 no SWE-Bench Pro, 73,0 no Terminal-Bench 2.1 e 90,3 no LiveCodeBench v6. A thread no Hacker News passou de 1.000 pontos em um dia e o repo base já tem ~92 mil downloads.",
+          "source": {
+            "label": "Hugging Face — 14 ago",
+            "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+          }
+        },
+        {
+          "title": "Blume: docs AI-ready a partir de uma pasta de markdown",
+          "body": "Framework open-source zero-config do Hayden Bleasel, feito em Astro, que transforma uma pasta de Markdown/MDX em site de documentação com busca local, theming, SEO, i18n e deploy em um comando. Ficou #1 do Product Hunt em 16/08.",
+          "source": {
+            "label": "Product Hunt — 16 ago",
+            "url": "https://www.producthunt.com/products/blume-3"
+          }
+        },
+        {
+          "title": "Databricks levanta US$ 5 bi e quase empurra US$ 15 bi",
+          "body": "Rodada fechada em 13/08 a US$ 190 bilhões de valuation — a segunda do ano. A TechCrunch revela que a empresa queria US$ 1 bilhão e os investidores empurraram US$ 15 bi; run rate de US$ 5,4 bi, crescendo 65% ao ano.",
+          "source": {
+            "label": "Reuters — 13 ago",
+            "url": "https://www.reuters.com/legal/transactional/databricks-raises-5-billion-financing-190-billion-valuation-2026-08-13/"
+          }
+        },
+        {
+          "title": "Interoperabilidade e dado privado no mesmo pacote",
+          "body": "A camada de agente está virando API padrão (Unified Harness Protocol), o modelo local já bencha como agente sério (Qwen3.8) e a inferência sobre dado cifrado sai do paper pro toolchain. Quem estava preso num harness único ganhou porta de saída."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-17",
       "date": "2026-08-17",
       "hook": "IA: edição de 17 de agosto",
