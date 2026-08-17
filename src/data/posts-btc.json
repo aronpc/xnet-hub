@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-17-08h30",
+      "date": "2026-08-17",
+      "time": "08h30",
+      "hook": "BTC em US$ 63.590 · em 24 horas o preço já voltou seis vezes à porta dos 63,7 mil, e desta vez foi a visita mais fraca: a última hora negociou 234 BTC, bem abaixo da média de 374.",
+      "caption": "Duas de cada três contas seguem posicionadas na alta, e sustentar essa posição custa quase nada.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-17-08h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-17-08h30",
+      "slides": [
+        {
+          "title": "O teto continua de pé",
+          "body": "Duas de cada três contas seguem posicionadas na alta, e sustentar essa posição custa quase nada."
+        },
+        {
+          "title": "US$ 63.590",
+          "body": "Δ1h +0,46% · Δ24h +1,05% · vol 14,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Sexta recusa na faixa de 63,6 a 63,7 mil, agora com vela fraca: 234 BTC contra média de 374 · Smart money: funding +0,006% + L/S 1,98",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "A hora decide a faixa",
+          "body": "Uma hora fechada acima de 63.700, com volume, abre espaço para 64.200 · mais uma recusa devolve 63.300 e, na sequência, 63.000"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, sempre no canal."
+        }
+      ]
+    },
+    {
       "id": "2026-08-17-02h30",
       "date": "2026-08-17",
       "time": "02h30",
