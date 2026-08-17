@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-17-15h30",
+      "date": "2026-08-17",
+      "time": "15h30",
+      "hook": "BTC em US$ 64.455 · o teto de 64,4 mil segurou o preço a manhã toda, e nesta hora foi deixado para trás, com mais gente negociando junto. Já são +2,1% em 24h.",
+      "caption": "A hora fechou acima da máxima antiga e cravou 64,6 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-17-15h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-17-15h30",
+      "slides": [
+        {
+          "title": "O teto virou chão",
+          "body": "A hora fechou acima da máxima antiga e cravou 64,6 mil."
+        },
+        {
+          "title": "US$ 64.455",
+          "body": "Δ1h +0,42% · Δ24h +2,14% · vol $20,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Subida sem dívida embutida: funding esfriou a +0,004% e a razão comprados/vendidos caiu à mínima do dia (1,64) enquanto o preço fez topo novo",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "64,6 mil é o próximo degrau",
+          "body": "Faixa do momento: 64,2 mil (−0,4%) e 64,6 mil (+0,2%), com terreno livre até 64,8 mil",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Alta que ninguém precipita",
+          "body": "Quatro topos cada vez mais altos, um degrau de cada vez, sem euforia no caminho. Acompanhe o mercado"
+        }
+      ]
+    },
+    {
       "id": "2026-08-17-14h30",
       "date": "2026-08-17",
       "time": "14h30",
