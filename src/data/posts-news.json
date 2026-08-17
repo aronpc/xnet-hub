@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-17",
+      "date": "2026-08-17",
+      "hook": "IA: edição de 17 de agosto",
+      "caption": "O que a semana deixou: o fornecedor central do stack entrou no azul, a inferência barata deixou de existir e o raciocínio cifrado dos agentes levou um golpe.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-17",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-17",
+      "slides": [
+        {
+          "title": "IA: edição de 17 de agosto",
+          "body": "O que a semana deixou: o fornecedor central do stack entrou no azul, a inferência barata deixou de existir e o raciocínio cifrado dos agentes levou um golpe."
+        },
+        {
+          "title": "Anthropic fatura US$ 11,5 bi e entra no azul",
+          "body": "Receita do 2º tri bateu US$ 11,5 bilhões, 14 vezes os US$ 787 milhões de um ano atrás e mais que o dobro do trimestre anterior. Pela primeira vez o resultado operacional ajustado fechou positivo. Morgan Stanley, Goldman e JPMorgan preparam o IPO para o outono.",
+          "source": {
+            "label": "Bloomberg — 14 ago",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter"
+          }
+        },
+        {
+          "title": "Anthropic engaveta o Model 2 por risco",
+          "body": "O relatório de risco de agosto elevou a avaliação de desalinh catastrófico de \"muito baixo\" para \"baixo\", por incerteza geral. E revela um Model 2, mais capaz que o Mythos 5, sem liberação prevista: falta avaliação de segurança completa. O documento cita teste da UK AISI em que o Mythos 5 sem guardrails manteve atividade potencialmente danosa contra pessoas reais.",
+          "source": {
+            "label": "TechTimes — 15 ago",
+            "url": "https://www.techtimes.com/articles/324573/20260815/anthropic-upgrades-misalignment-risk-key-safety-benchmarks-saturate.htm"
+          }
+        },
+        {
+          "title": "DeepSeek sobe preço de API em até 1.100%",
+          "body": "Desde 16/08, o V4-Pro cobra US$ 3,96 por milhão de tokens de saída em horário de pico, contra US$ 0,87 antes, com tiers peak e off-peak. Reuters e InfoWorld atribuem à demanda de IA tensionando capacidade de GPU.",
+          "source": {
+            "label": "Reuters — 13 ago",
+            "url": "https://www.reuters.com/world/china/deepseek-raises-api-pricing-its-v4-models-2026-08-13/"
+          }
+        },
+        {
+          "title": "Qwen passa de 3 bilhões de downloads",
+          "body": "A família Qwen acumulou mais de 3 bilhões de downloads em 6 meses — contra 418 milhões do Google e 227 milhões da Meta em 2026. São 460+ modelos abertos e 300 mil derivados na cena.",
+          "source": {
+            "label": "The Next Web — 16 ago",
+            "url": "https://thenextweb.com/news/alibaba-qwen-downloads-hugging-face-open-models"
+          }
+        },
+        {
+          "title": "Ataque descriptografa raciocínio cifrado entre modelos",
+          "body": "Paper novo mostra que blocos de raciocínio cifrados são intercambiáveis dentro de um ecossistema: injeta-se o chain-of-thought de um modelo forte num modelo irmão mais fraco e força a descriptografia em texto plano. Os autores decodificaram 315.320 blocos de repositórios públicos e recuperaram 367 artefatos com dados pessoais e 182 credenciais.",
+          "source": {
+            "label": "AI Weekly — 16 ago",
+            "url": "https://aiweekly.co/ai-news-today"
+          }
+        },
+        {
+          "title": "US$ 70 bi em garantias fora do balanço no buildout de IA",
+          "body": "Bloomberg mapeou cerca de US$ 70 bilhões em \"residual value guarantees\" fora dos balanços, no topo do financiamento de US$ 500 bilhões da Nvidia com BlackRock, Goldman, Apollo, Blackstone, Brookfield e KKR. Broadcom lastreia US$ 35 bilhões para a Anthropic (Project Big Sky) e a Meta estruturou uns US$ 27 bi + US$ 13 bi parecidos. O BofA projeta até US$ 370 bilhões em dívida no veículo da Broadcom até 2029.",
+          "source": {
+            "label": "Bloomberg — 16 ago",
+            "url": "https://www.bloomberg.com"
+          }
+        },
+        {
+          "title": "Mercor compra Slack e Jira de startups mortas",
+          "body": "A Mercor e rivais oferecem até US$ 300 mil pelos arquivos internos — Slack, tickets, workflows — de startups falidas ou adquiridas, montando \"academias de RL\" onde OpenAI, Anthropic e Google treinam agentes em tarefas reais de empresa.",
+          "source": {
+            "label": "The Information — 15 ago",
+            "url": "https://finance.biggo.com/news/d34746c0-e437-4855-93c5-09c6e850550d"
+          }
+        },
+        {
+          "title": "O lucro chegou, e a conta chegou junto",
+          "body": "A IA virou negócio lucrativo no topo da cadeia — e o resto do mercado pagou a conta: inferência mais cara, capex escondido em garantias fora do balanço e memória de empresa virando matéria-prima de treino."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-15",
       "date": "2026-08-15",
       "hook": "Skills e MCP: edição de 15 de agosto",
