@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-17-12h30",
+      "date": "2026-08-17",
+      "time": "12h30",
+      "hook": "BTC em US$ 63.887 · o teto dos 63,7 mil que segurou o preço a manhã inteira acabou de ser ultrapassado, e a última hora negociou o dobro do volume usual. Quatro velas seguidas de alta deixaram o preço colado na máxima do dia.",
+      "caption": "Rompimento com participação real, não um toque qualquer.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-17-12h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-17-12h30",
+      "slides": [
+        {
+          "title": "A porta abriu no meio-dia",
+          "body": "Rompimento com participação real, não um toque qualquer."
+        },
+        {
+          "title": "US$ 63.887",
+          "body": "Δ1h +0,54% · Δ24h +1,32% · vol $17,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "4 fechamentos seguidos de subida com volume dobrando · dinheiro alavancado comprado sem exagero: funding +0,009%, L/S 1,87",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Campo livre acima de 64,1 mil",
+          "body": "Faixa segura hoje: 63,7 mil (−0,3%) · topo do dia em 64,1 mil (+0,3%), com espaço até 64,5 mil",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Clima de medo ainda dá folga",
+          "body": "Índice de medo e ganância em 31, perto da zona onde o mercado já virou outras vezes este mês. Acompanhe o mercado",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        }
+      ]
+    },
+    {
       "id": "2026-08-17-08h30",
       "date": "2026-08-17",
       "time": "08h30",
