@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-17-14h30",
+      "date": "2026-08-17",
+      "time": "14h30",
+      "hook": "BTC em US$ 64.183 · a hora passada tocou 64,4 mil, a máxima do dia inteiro de ontem para cá, e depois voltou um pouquinho. Um dia de +1,7% em 24h sendo digerido sem afobação.",
+      "caption": "O impulso existe. Falta o mercado aceitar o degrau novo.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-17-14h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-17-14h30",
+      "slides": [
+        {
+          "title": "Chegou no topo e ficou por lá",
+          "body": "O impulso existe. Falta o mercado aceitar o degrau novo."
+        },
+        {
+          "title": "US$ 64.183",
+          "body": "Δ1h +0,21% · Δ24h +1,66% · vol $19,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Máxima de 24h renovada (64.425) com o volume acompanhando ($18,3→$19,1bi) · parte de quem estava comprado foi realizando no topo: funding +0,006%, L/S 1,68",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O dia decide em 64,4 mil",
+          "body": "Acima, espaço até 64,8 mil; abaixo de 64,0 mil, recuo para 63,7 mil",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Alta sem pressa",
+          "body": "Depois de tocar 64,4 mil, o preço passou a girar entre 64,1 e 64,2 mil, num ritmo mais calmo. Acompanhe o mercado"
+        }
+      ]
+    },
+    {
       "id": "2026-08-17-12h30",
       "date": "2026-08-17",
       "time": "12h30",
