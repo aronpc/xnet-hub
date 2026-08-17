@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-16-22h30",
+      "date": "2026-08-16",
+      "time": "22h30",
+      "hook": "BTC US$ 63.067 · a visita abaixo dos 63 mil durou pouco: uma vela de alta com volume 1,5× a média trouxe o preço de volta à faixa onde ele gira há dois dias. E a maior parte das posições segue comprada.",
+      "caption": "Uma vela de 1h foi suficiente para desfazer a queda.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-16-22h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-16-22h30",
+      "slides": [
+        {
+          "title": "O tombo que não passou de susto",
+          "body": "Uma vela de 1h foi suficiente para desfazer a queda."
+        },
+        {
+          "title": "US$ 63.067",
+          "body": "Δ1h +0,47% · Δ24h +0,10% · vol 10,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Falsa saída por baixo: a vela de 1h fechou em 63.230 e reocupou a marca de 63.0k · Fluxo: funding +0,0059% + L/S 2,22",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "O topo do dia decide o próximo passo",
+          "body": "63.390 é a máxima de 24h (+0,51%) e segue no caminho · de novo abaixo de 63.000 (−0,11%), a referência volta a ser o piso de 62.716 (−0,56%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura de contexto, número na mão",
+          "body": "Volume de 10,6 bi em 24h e mercado de volta à indecisão. O acompanhamento completo sai de hora em hora no canal."
+        }
+      ]
+    },
+    {
       "id": "2026-08-16-19h31",
       "date": "2026-08-16",
       "time": "19h31",
