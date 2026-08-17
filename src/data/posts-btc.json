@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-17-01h30",
+      "date": "2026-08-17",
+      "time": "01h30",
+      "hook": "BTC em US$ 63.447 · depois da visita abaixo dos 63 mil, a noite mudou o humor: quatro velas de alta em sequência e um pico novo de 24 horas em 63.524, com funding praticamente zerado.",
+      "caption": "Quatro velas verdes em sequência levaram o preço ao ponto mais alto do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-17-01h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-17-01h30",
+      "slides": [
+        {
+          "title": "Depois do susto, um topo novo",
+          "body": "Quatro velas verdes em sequência levaram o preço ao ponto mais alto do dia."
+        },
+        {
+          "title": "US$ 63.447",
+          "body": "Δ1h +0,1% · Δ24h +0,5% · vol 11,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Quarta vela 1h de alta seguida, com nova máxima 24h em 63.524 · Smart money: funding +0,009% + L/S 2,11",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Testando o limite do dia",
+          "body": "Chão do impulso em 63.200 (−0,4%) · teto em 63.520 (+0,1%), tocado agora",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, sempre no canal."
+        }
+      ]
+    },
+    {
       "id": "2026-08-16-22h30",
       "date": "2026-08-16",
       "time": "22h30",
