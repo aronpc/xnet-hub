@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-17",
+      "date": "2026-08-17",
+      "hook": "Skills e MCP: edição de 17 de agosto",
+      "caption": "O ecossistema Claude Code e MCP passou por um dia de confiança: permissão automática virou default, o spec stateless chegou com ataque novo e skill ganhou contador de custo.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-17",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-17",
+      "slides": [
+        {
+          "title": "Skills e MCP: edição de 17 de agosto",
+          "body": "O ecossistema Claude Code e MCP passou por um dia de confiança: permissão automática virou default, o spec stateless chegou com ataque novo e skill ganhou contador de custo."
+        },
+        {
+          "title": "Auto mode vira default em Pro, Max e Team",
+          "body": "Desde 14/08, novas sessões nos planos Pro, Max e Team rodam em auto mode — permissões gerenciadas pelo próprio Claude — por padrão. A Anthropic alega 89% de captura de comandos perigosos contra 13,6% de humanos em testes. Defaults explícitos do usuário são preservados.",
+          "source": {
+            "label": "Claude Blog — 14 ago",
+            "url": "https://claude.com/blog/auto-mode-default-in-claude-code"
+          }
+        },
+        {
+          "title": "Zscaler abre MCP server de segurança",
+          "body": "Preview open-source em Python, no GitHub, do Zscaler Integrations MCP Server: dá a agentes de IA automação de ZIA, ZPA e sandbox por linguagem natural — configurar, monitorar e automatizar políticas de zero trust.",
+          "source": {
+            "label": "Zscaler — 15 ago",
+            "url": "https://www.zscaler.com/blogs/product-insights/zscaler-integrations-mcp-server-unified-security-automation-your-ai-agents"
+          }
+        },
+        {
+          "title": "MCP 2.0 stateless abre 3 superfícies de ataque",
+          "body": "Análise técnica do spec de 28/07 (\"MCP 2.0\": core stateless, cacheável, extensions) aponta handles sequestráveis, perda de escopo de filesystem e risco de HTML no server como vetores novos que gateways não cobrem.",
+          "source": {
+            "label": "Backslash — 16 ago",
+            "url": "https://www.backslash.security/blog/new-mcp-spec-opens-new-attack-surfaces"
+          }
+        },
+        {
+          "title": "skillassay: quanto custa cada linha do seu CLAUDE.md",
+          "body": "Skill + CLI postado no r/ClaudeCode que quantifica quanto cada instrução do CLAUDE.md e cada skill custa em always-on context e aponta problemas. O autor documenta a dificuldade de provar que os números não foram inventados pelo próprio Claude.",
+          "source": {
+            "label": "r/ClaudeCode — 15 ago",
+            "url": "https://www.reddit.com/r/ClaudeCode/comments/1vqavrv/built_a_skill_that_audits_your_claudemd_and/"
+          }
+        },
+        {
+          "title": "Claude Security: scanning multi-agente no terminal",
+          "body": "Plugin oficial em beta roda scans multi-agente de vulnerabilidade direto no terminal, valida achados e sugere patches mantendo o código no ambiente. Saiu do closed preview e ganhou cobertura da imprensa especializada.",
+          "source": {
+            "label": "Anthropic — 16 ago",
+            "url": "https://www.anthropic.com/news/claude-code-security"
+          }
+        },
+        {
+          "title": "Workbench legado morre hoje (e o Sonnet 5 ficou barato)",
+          "body": "O acesso ao legacy Workbench em platform.claude.com — prompts salvos, versões, variables — foi encerrado em 17/08: quem mantinha ferramentas em cima teve de migrar. No mesmo release note, a Anthropic cancelou o aumento de preço de setembro do Sonnet 5, que fica em US$ 2 e US$ 10 por milhão de tokens.",
+          "source": {
+            "label": "Platform docs — 17 ago",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+          }
+        },
+        {
+          "title": "Marketplace de skills explode: 3.069 catalogadas",
+          "body": "O repo claude-code-plugins-plus-skills indexa 471 plugins, 3.069 skills e 347 agents, com o marketplace tonsofskills.com e o gerenciador ccpi CLI. Concorrentes como SkillsLLM (1.600+ \"security-vetted\") e agent-skills.cc disputam a mesma curadoria.",
+          "source": {
+            "label": "GitHub — 16 ago",
+            "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
+          }
+        },
+        {
+          "title": "Confiança e custo no mesmo eixo",
+          "body": "O ecossistema deu mais autonomia ao agente (auto mode), ganhou defesa first-party (Claude Security) e começou a cobrar a conta do excesso: threat model novo para o MCP 2.0 e métrica de quanto cada skill pesa no contexto."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-17",
       "date": "2026-08-17",
       "hook": "Projetos: edição de 17 de agosto",
