@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-17-02h30",
+      "date": "2026-08-17",
+      "time": "02h30",
+      "hook": "BTC em US$ 63.476 · a linha dos 63.520 segurou o preço a noite toda e acabou de cair: o candle fechou acima dela, com volume 2,4 vezes acima do normal para o horário.",
+      "caption": "O que era teto virou degrau. O dia ganhou máxima nova em 63.595.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-17-02h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-17-02h30",
+      "slides": [
+        {
+          "title": "A marca caiu de madrugada",
+          "body": "O que era teto virou degrau. O dia ganhou máxima nova em 63.595."
+        },
+        {
+          "title": "US$ 63.476",
+          "body": "Δ1h +0,05% · Δ24h +0,7% · vol 12,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fechou acima do antigo topo de 63.520, cravou máxima 24h em 63.595 e rodou com volume 2,4× a média · Smart money: funding +0,009% + L/S 2,08",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Segurar os 63.600",
+          "body": "Degrau novo em 63.400 (−0,1%) · máxima do dia em 63.600 (+0,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, sempre no canal."
+        }
+      ]
+    },
+    {
       "id": "2026-08-17-01h30",
       "date": "2026-08-17",
       "time": "01h30",
