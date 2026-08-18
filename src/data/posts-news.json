@@ -2,6 +2,64 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-18",
+      "date": "2026-08-18",
+      "hook": "Skills e MCP de 18 de agosto: dia de hardening",
+      "caption": "O Claude Code fechou um vetor de vazamento de segredo no MCP, e a interface de agente consolidou mais um vertical B2B. Sete escolhas da curadoria.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-18",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-18",
+      "slides": [
+        {
+          "title": "Skills e MCP de 18 de agosto: dia de hardening",
+          "body": "O Claude Code fechou um vetor de vazamento de segredo no MCP, e a interface de agente consolidou mais um vertical B2B. Sete escolhas da curadoria."
+        },
+        {
+          "title": "Claude Code v2.1.234 trava leitura remota e vaza menos segredo",
+          "body": "A release rejeita leitura de arquivo remota em restore de sessão, includes de CLAUDE.md, workflow scripts e uploads. Continua a sessão sozinha ao resetar o limite do claude.ai, ganha badge de MR do GitLab no statusline e corrige o diagnóstico do MCP que mostrava segredo resolvido. Agora aparece só a variável, sem o valor.",
+          "source": {
+            "label": "CHANGELOG.md",
+            "url": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "817 skills de ciber mapeadas a frameworks",
+          "body": "O Anthropic-Cybersecurity-Skills empacota 817 skills de cibersegurança pra agentes, mapeadas a MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS e D3FEND. Soma 28.545 estrelas.",
+          "source": "github.com/mukul975/Anthropic-Cybersecurity-Skills"
+        },
+        {
+          "title": "statuslin.es: status line virou artefato de comunidade",
+          "body": "Show HN lançou uma biblioteca pública de status lines do Claude Code, coleção curada de configurações prontas pra copiar.",
+          "source": "statuslin.es"
+        },
+        {
+          "title": "OrbitQuote: procurement B2B com MCP server incluso",
+          "body": "Show HN apresentou o Buyer's Editor, editor de PDF de compra B2B que expõe API e um MCP server pro agente consumir o fluxo de cotação inteiro.",
+          "source": "orbitquote.com"
+        },
+        {
+          "title": "GitHub MCP Server segue semanal depois da spec nova",
+          "body": "A v1.9.0, de 10 de agosto, entrega filtragem de campos em tools e paginação melhorada. A v1.7.0, de 23 de julho, já tinha S2S auth pra GitHub Apps via stdio, alinhada ao go-sdk do MCP spec stateless.",
+          "source": {
+            "label": "Releases",
+            "url": "https://github.com/github/github-mcp-server/releases"
+          }
+        },
+        {
+          "title": "Visimer: Mermaid editável no canvas",
+          "body": "Show HN da Inkeep lançou editor visual open-source pra diagramas Mermaid, com edição bidirecional entre código e canvas.",
+          "source": "github.com/inkeep/visimer"
+        },
+        {
+          "title": "Wildstatic: uma IA com memória de todo mundo",
+          "body": "Show HN com 81 pontos. A memória dessa IA é compartilhada por todos os usuários, uma espécie de consciência coletiva deliberada.",
+          "source": "wildstatic.com"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Segurança de harness virou release note, não paper. E MCP seguiu de promessa pra interface padrão de produto B2B. Quem roda agente com credencial no environment tem motivo pra atualizar essa semana."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-18",
       "date": "2026-08-18",
       "hook": "Repos de 18 de agosto: nichos agênticos em alta",
