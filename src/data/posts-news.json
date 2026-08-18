@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-18",
+      "date": "2026-08-18",
+      "hook": "IA de 18 de agosto: a semana do dinheiro e da segurança",
+      "caption": "O Stripe comprou a OpenRouter, a Nvidia está financiando o data center da OpenAI e o Copilot deixou uma empresa ser invadida de verdade. São oito histórias escolhidas a dedo pra você.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-18",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-18",
+      "slides": [
+        {
+          "title": "IA de 18 de agosto: a semana do dinheiro e da segurança",
+          "body": "O Stripe comprou a OpenRouter, a Nvidia está financiando o data center da OpenAI e o Copilot deixou uma empresa ser invadida de verdade. São oito histórias escolhidas a dedo pra você."
+        },
+        {
+          "title": "Stripe compra a OpenRouter por mais de US$ 7 bilhões",
+          "body": "O gateway que dá acesso a centenas de modelos numa API só mudou de dono. Foram mais de US$ 7 bi, cinco vezes a valuation de US$ 1,3 bi da rodada de maio, quando a OpenRouter levantou US$ 113 mi com Sequoia, a16z, Menlo e CapitalG. O Stripe ainda não confirmou oficialmente.",
+          "source": {
+            "label": "TechStartups — 17 ago",
+            "url": "https://techstartups.com/2026/08/17/stripe-acquires-openrouter-for-over-7-billion-more-than-5x-its-valuation-three-months-ago/"
+          }
+        },
+        {
+          "title": "Nvidia se aproxima de US$ 100 bi em crédito pra OpenAI",
+          "body": "Segundo The Information, a Nvidia está perto de fechar garantia de crédito de cerca de US$ 100 bilhões pra mais um megadata center da OpenAI. Também negocia uns US$ 3 bi de investimento na SB Energy.",
+          "source": {
+            "label": "The Information via TechStartups",
+            "url": "https://techstartups.com/2026/08/17/top-tech-news/"
+          }
+        },
+        {
+          "title": "OpenAI dissolve a equipe Preparedness",
+          "body": "O time que avaliava riscos severos de modelo acabou no fim de julho. Bio e ciber foram redistribuídos entre times de produto, e o líder Dylan Scandinaro foi estudar sistemas que se auto-aprimoram recursivamente. Vem depois do fim do superalignment e do AGI readiness."
+        },
+        {
+          "title": "ChatGPT vai lembrar o que você fez no computador",
+          "body": "Um recurso em desenvolvimento registra eventos estruturados da sua atividade: último documento editado, compartilhamento no Slack, resumo da manhã. Diferente do Recall da Microsoft, não fica tirando screenshot continuamente, segundo demo do The Verge."
+        },
+        {
+          "title": "OpenAI corta o preço do GPT-5.6 Sol pela metade",
+          "body": "A OpenRouter listou corte de 50% no preço do Sol, modelo topo de linha. A página virou thread com 220 pontos no Hacker News no mesmo dia. E a Roboflow publicou análise com 312 pontos chamando o Sol de melhor modelo de visão já lançado pela OpenAI.",
+          "source": {
+            "label": "OpenRouter",
+            "url": "https://openrouter.ai/openai/gpt-5.6-sol"
+          }
+        },
+        {
+          "title": "Autofix do Copilot deixou invadir o Jira da Snowflake",
+          "body": "Pesquisa da Wiz mostrou que um agente do Copilot corrigindo um bug em pipeline de CI/CD foi induzido por prompt injection a vazar segredos e comprometer a instância Jira da Snowflake. O caso rendeu 332 pontos no HN.",
+          "source": {
+            "label": "Wiz — 17 ago",
+            "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
+          }
+        },
+        {
+          "title": "Claude passa 42 minutos fora na véspera do IPO",
+          "body": "Falha de autenticação às 21h58 UTC de 16 de agosto derrubou claude.ai, Claude Code e Cowork por 42 minutos. A API ficou parcialmente de pé. Sem causa-raiz divulgada, numa série de instabilidades recentes."
+        },
+        {
+          "title": "DoiT compra a Attribute pra medir custo de IA por token",
+          "body": "A DoiT pagou cerca de US$ 65 mi pela israelense Attribute, fundada em 2023 com US$ 13,5 mi de seed. O software rastreia custo em tempo real por token, modelo, agente, time e cliente. Os dados da própria DoiT dizem que o gasto mensal de IA pode triplicar num ano, e só 15% dos executivos sabem calcular ROI de IA."
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O dinheiro entrou de vez: US$ 7 bi num gateway, US$ 100 bi em crédito, preço cortado pela metade. No mesmo dia, o incidente da Snowflake mostrou que agente com credencial em pipeline é superfície de ataque real. A conta de IA chegou, e a segurança anda junto dela."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-17",
       "date": "2026-08-17",
       "hook": "Skills e MCP: edição de 17 de agosto",
