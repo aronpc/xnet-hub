@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-18-03h30",
+      "date": "2026-08-18",
+      "time": "03h30",
+      "hook": "BTC segura a região de 64 mil dólares pela 8ª hora seguida, a 0,5% da máxima do dia. Clima de espera: ninguém força nada neste horário.",
+      "caption": "Quatro fechamentos de 1h cada vez mais altos, presenciados com volume tímido.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-18-03h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-18-03h30",
+      "slides": [
+        {
+          "title": "O topo que ainda não cedeu",
+          "body": "Quatro fechamentos de 1h cada vez mais altos, presenciados com volume tímido."
+        },
+        {
+          "title": "US$ 64.284",
+          "body": "Δ1h +0,2% · Δ24h +1,2% · vol US$ 21,5bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Subida em degraus sem dívida: funding +0,003% e razão comprados/vendidos caindo (1,57 → 1,53) · Fonte: Coinglass",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Sem euforia no balanço",
+          "body": "Volume da última vela a 0,6× a média: quem crava novos topos agora está fazendo isso com pouco gás, não em cascata.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "64,6 mil continua sendo o degrau",
+          "body": "Faixa do momento: 64,0 mil (−0,4%) e 64,6 mil (+0,5%, máxima 64.610)."
+        }
+      ]
+    },
+    {
       "id": "2026-08-17-15h30",
       "date": "2026-08-17",
       "time": "15h30",
