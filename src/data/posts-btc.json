@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-18-11h30",
+      "date": "2026-08-18",
+      "time": "11h30",
+      "hook": "BTC passou dos 64,6 mil dólares que travavam o preço desde sexta e agora negocia a 64.926. Desta vez saiu do lugar com volume de verdade, 1,9 vez a média da hora.",
+      "caption": "A vela de 1h fechou em 65.026 depois de furar a máxima de 24h, e quem acompanhou os últimos dias sabe que não é qualquer rompimento.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-18-11h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-18-11h30",
+      "slides": [
+        {
+          "title": "O teto cedeu de verdade",
+          "body": "A vela de 1h fechou em 65.026 depois de furar a máxima de 24h, e quem acompanhou os últimos dias sabe que não é qualquer rompimento."
+        },
+        {
+          "title": "US$ 64.926",
+          "body": "Δ1h +1,42% · Δ24h +2,16% · vol US$ 21,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Nível que era teto virou chão: quem comprou na máxima da semana agora defende a própria região. Ainda com medo no termômetro (41), o combustível emocional não acabou · Fonte: Coinglass",
+          "source": "https://www.coinglass.com/FearAndGreedIndex"
+        },
+        {
+          "title": "Multidão comprada, mas sem exagero",
+          "body": "Funding em +0,006% e 61% posicionados na ponta compradora: o dinheiro alavancado acompanhou o movimento, só não está esticado a ponto de armar armadilha por si só.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "64,6 mil é o novo chão a vigiar",
+          "body": "Faixa do momento: 64,6 mil (−0,5%, antigo teto) e 65,05 mil (+0,2%, topo da vela)."
+        }
+      ]
+    },
+    {
       "id": "2026-08-18-03h30",
       "date": "2026-08-18",
       "time": "03h30",
