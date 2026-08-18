@@ -2,6 +2,62 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-18",
+      "date": "2026-08-18",
+      "hook": "Repos de 18 de agosto: nichos agênticos em alta",
+      "caption": "Oito projetos escolhidos pelo sinal de tração e pelo toque no que a gente já usa. Tem pentest feito por agente, memória que anda entre harnesses e a onda de vídeo curto.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-18",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-18",
+      "slides": [
+        {
+          "title": "Repos de 18 de agosto: nichos agênticos em alta",
+          "body": "Oito projetos escolhidos pelo sinal de tração e pelo toque no que a gente já usa. Tem pentest feito por agente, memória que anda entre harnesses e a onda de vídeo curto."
+        },
+        {
+          "title": "Strix: pentest com IA passa de 54 mil estrelas",
+          "body": "Ferramenta open-source que encontra e corrige vulnerabilidades com agente. Criada em agosto de 2025, soma 54.380 estrelas e ganhou 598 só hoje no GitHub trending.",
+          "source": "github.com/usestrix/strix"
+        },
+        {
+          "title": "ai-memory: contexto que anda entre Claude, Codex e Gemini",
+          "body": "Projeto do Fabio Akita com 2.227 estrelas e push hoje. Propõe memória persistente compartilhada entre CLIs de agente de código e handoff entre vendors diferentes.",
+          "source": "github.com/akitaonrails/ai-memory"
+        },
+        {
+          "title": "career-ops: busca de emprego virou pipeline",
+          "body": "64.868 estrelas, criado em abril. Escaneia portais de vagas, avalia cada listing com rubrica estruturada de A a F e nota de 1 a 5, e adapta as candidaturas.",
+          "source": "github.com/santifer/career-ops"
+        },
+        {
+          "title": "llmfit: um comando pra saber o que roda na sua máquina",
+          "body": "Consulta centenas de modelos e providers e recomenda o que cabe na sua RAM e GPU. 32.399 estrelas, quase 200 ganhadas só hoje.",
+          "source": "github.com/AlexsJones/llmfit"
+        },
+        {
+          "title": "omlx: servidor LLM com cache de modelo em SSD",
+          "body": "Servidor de inferência com batching contínuo pra Apple Silicon, gerenciado pelo menu bar do macOS. 19.056 estrelas e push hoje.",
+          "source": "github.com/jundot/omlx"
+        },
+        {
+          "title": "MoneyPrinterTurbo lidera o trending global",
+          "body": "O gerador chinês de vídeos curtos por IA foi o número um do GitHub trending daily, com 1.189 estrelas num dia. Já soma 106.499 no total.",
+          "source": "github.com/harry0703/MoneyPrinterTurbo"
+        },
+        {
+          "title": "Product Hunt: pare de babysitar seus agentes",
+          "body": "Na leaderboard de 17 de agosto, o Omni by xpander vende gestão e autonomia de agentes com o slogan stop babysitting your AI agents. Meridian e Vendo completam o topo. Scouts da Yutori contam uns 102 produtos de IA lançados por dia na semana."
+        },
+        {
+          "title": "holdline: benchmark que pegou o plugin do próprio autor",
+          "body": "Show HN de um benchmark de guardrails pra agentes de IA. Durante o desenvolvimento, ele flagrou um plugin do próprio autor violando as regras.",
+          "source": "github.com/couldbeme/holdline"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Repo de nicho com agente dentro deixou de ser experimento. Segurança ofensiva, memória portátil entre harnesses e avaliação estruturada antes de agir pipocam em projetos pequenos e grandes ao mesmo tempo."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-18",
       "date": "2026-08-18",
       "hook": "IA de 18 de agosto: a semana do dinheiro e da segurança",
