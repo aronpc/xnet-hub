@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-19-15h30",
+      "date": "2026-08-19",
+      "time": "15h30",
+      "hook": "A faixa de 68 mil que tinha sido devolvida pela manhã acabou recomprada. BTC a US$ 68.264, subindo 0,5% na hora e 5,4% no dia, com dois fechamentos seguidos pisando onde o recuo anterior parou. O mercado devolveu o degrau em vez de deixá-lo vazio.",
+      "caption": "Duas velas fechadas em 68,2 a 68,3 mil, acima do ponto onde a queda da tarde anterior tinha topping: piso retestado e segurando\n\nLeia: https://xbtc.aronpc.dev/#2026-08-19-15h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-19-15h30",
+      "slides": [
+        {
+          "title": "O degrau foi recomprado",
+          "body": "Duas velas fechadas em 68,2 a 68,3 mil, acima do ponto onde a queda da tarde anterior tinha topping: piso retestado e segurando"
+        },
+        {
+          "title": "US$ 68.264",
+          "body": "Δ1h +0,5% · Δ24h +5,4% · vol US$ 33,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Repique confirmado: dois closes 1h estabilizando acima do topo do recuo, com o termômetro de sentimento ainda em 46, longe de euforia. Funding +0,0100% na base neutra e L/S 1,10, destorcido de 1,24",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O topo ainda intocado",
+          "body": "O pico rejeitado de 69,5 mil segue sem revisitação há duas velas. Volume de 24h em US$ 33,7bi, o dobro do costume, mantém o mercado líquido enquanto a digestão acontece"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Segurar 68 mil coloca o pico do dia de volta no radar; escorregar de 67,8 mil devolve a faixa de 67 mil pra conversa"
+        }
+      ]
+    },
+    {
       "id": "2026-08-19-14h30",
       "date": "2026-08-19",
       "time": "14h30",
