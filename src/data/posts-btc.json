@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-19-17h30",
+      "date": "2026-08-19",
+      "time": "17h30",
+      "hook": "Fechou a hora em 68.735 dólares, o maior fechamento das últimas 24 velas. BTC a US$ 68.703, com 6,4% no dia e volume rodando o dobro do costume. A subida ainda não convenceu o sentimento, que segue em medo.",
+      "caption": "O preço voltou a empurrar depois da pausa da tarde e fechou a hora acima de todos os fechamentos anteriores do dia\n\nLeia: https://xbtc.aronpc.dev/#2026-08-19-17h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-19-17h30",
+      "slides": [
+        {
+          "title": "Maior fechamento do dia",
+          "body": "O preço voltou a empurrar depois da pausa da tarde e fechou a hora acima de todos os fechamentos anteriores do dia"
+        },
+        {
+          "title": "US$ 68.703",
+          "body": "Δ1h +0,66% · Δ24h +6,4% · vol US$ 35,9bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Terceira vela seguida de força depois da pausa, com contratos em aberto subindo junto do preço: dinheiro novo, não aposta esticada. Funding +0,010% e L/S 1,10",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "US$ 35,9bi em 24h",
+          "body": "Cerca de 2× a média das últimas sessões (US$ 17-18bi). Com o índice de sentimento em 46, o rali segue sem euforia: se passar de 60 encostando em 69,5 mil, aí sim entra a zona de exaustão",
+          "source": "https://www.coinglass.com/FearAndGreed"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O teto do dia está em 69,5 mil dólares; atrás, a marca de 68,4 mil é o que segurou todas as rejeições da tarde"
+        }
+      ]
+    },
+    {
       "id": "2026-08-19-15h30",
       "date": "2026-08-19",
       "time": "15h30",
