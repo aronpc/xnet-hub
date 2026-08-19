@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-19-13h30",
+      "date": "2026-08-19",
+      "time": "13h30",
+      "hook": "Uma hora depois do salto, o preço segue em terreno novo: BTC a US$ 68.861, dia acumulando +6,5%, e nada do movimento foi devolvido. Quem esperava recuo rápido segue esperando.",
+      "caption": "O pulo da hora do almoço virou chão: preço firma acima de 68,5 mil em vez de escoar\n\nLeia: https://xbtc.aronpc.dev/#2026-08-19-13h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-19-13h30",
+      "slides": [
+        {
+          "title": "O que sobrou do disparo",
+          "body": "O pulo da hora do almoço virou chão: preço firma acima de 68,5 mil em vez de escoar"
+        },
+        {
+          "title": "US$ 68.861",
+          "body": "Δ1h +1,2% · Δ24h +6,5% · vol US$ 31bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Firme acima de 68,5 mil uma hora depois do pulo. Contratos em aberto crescem junto com o preço e o funding segue brando: entra dinheiro novo, sem pilha de apostas em cima",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Quente demais pra uma quarta",
+          "body": "Volume de 24h saltou de US$ 24,3bi pra US$ 31bi em uma hora. Mercado líquido, mas acelerado; o topo rejeitado em 69,5 mil ainda não voltou a ser testado"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "A faixa entre 68 e 69,5 mil decide a próxima perna: fechar em cima muda o patamar da conversa; recuar de 68 mil devolve a discussão ao terreno do disparo"
+        }
+      ]
+    },
+    {
       "id": "2026-08-19-12h30",
       "date": "2026-08-19",
       "time": "12h30",
