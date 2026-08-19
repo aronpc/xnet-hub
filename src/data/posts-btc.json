@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-19-10h30",
+      "date": "2026-08-19",
+      "time": "10h30",
+      "hook": "BTC em US$ 64.923: depois de 17 horas parado, o preço finalmente saiu do lugar e cravou topo novo do dia, US$ 65.140, com negócios voltando de vez",
+      "caption": "Primeira hora com direção depois de quase um dia de compressão, e o movimento veio acompanhado de volume, não no vácuo\n\nLeia: https://xbtc.aronpc.dev/#2026-08-19-10h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-19-10h30",
+      "slides": [
+        {
+          "title": "A espera acabou",
+          "body": "Primeira hora com direção depois de quase um dia de compressão, e o movimento veio acompanhado de volume, não no vácuo"
+        },
+        {
+          "title": "US$ 64.923",
+          "body": "Δ1h +0,74% · Δ24h +1,41% · vol US$ 18,2bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Cinco fechamentos de 1h em sequência ascendente e topo do dia superado · dinheiro alavancado comportado: funding +0,005% e L/S 1,47 caindo, sinal de subida puxada por cobertura de vendidos, não por compra exagerada",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Confirmar o novo patamar",
+          "body": "F&G segue em 46, zona de cautela — sentimento ainda não acompanhou o preço, e isso costuma dar margem pra continuidade",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "Segurar 65 mil",
+          "body": "Preço encostou no topo do dia (65,1 mil, a +0,3%). Segurar esse pé lá em cima muda o patamar da conversa; recuar pra trás de 64,6 mil devolve o mercado à faixa antiga",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-19-09h31",
       "date": "2026-08-19",
       "time": "09h31",
