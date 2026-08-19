@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-19-14h30",
+      "date": "2026-08-19",
+      "time": "14h30",
+      "hook": "A faixa de 68 mil que o mercado tinha acabado de conquistar voltou pro dono uma hora depois. BTC a US$ 67.955, recuando 1,3% na hora, mas ainda segurando quase 5% no dia. O volume do recuo é pequeno, mais quem recolhendo lucro do que quem correndo.",
+      "caption": "O salto da hora do almoço perdeu a primeira marca que tinha ganho; o dia segue positivo e bem acima de onde tudo começou\n\nLeia: https://xbtc.aronpc.dev/#2026-08-19-14h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-19-14h30",
+      "slides": [
+        {
+          "title": "O chão novo não passou no teste",
+          "body": "O salto da hora do almoço perdeu a primeira marca que tinha ganho; o dia segue positivo e bem acima de onde tudo começou"
+        },
+        {
+          "title": "US$ 67.955",
+          "body": "Δ1h −1,3% · Δ24h +4,9% · vol US$ 32,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Explosão em digestão: o recuo veio com volume morno (1,1k BTC/h contra 9,3k do pico). Funding de volta à base neutra e a proporção de apostas esfriou de 1,24 pra 1,15: sem pilha armada pra nenhum lado",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Quem vendeu, vendeu devagar",
+          "body": "Volume de 24h em US$ 32,6bi, o dobro do costume: o mercado segue líquido. A região de 67,8 a 68,5 mil virou a conversa da tarde, com o topo rejeitado de 69,5 mil esperando lá em cima"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Retomar 68,5 mil reabre a conversa com o topo do dia; escorregar de 67,8 mil traz a zona de 67 mil de volta ao assunto"
+        }
+      ]
+    },
+    {
       "id": "2026-08-19-13h30",
       "date": "2026-08-19",
       "time": "13h30",
