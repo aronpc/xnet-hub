@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-19-09h31",
+      "date": "2026-08-19",
+      "time": "09h31",
+      "hook": "BTC em US$ 64.448 há 17 horas na mesma faixa, com volume sumindo do mapa",
+      "caption": "Segunda hora seguida de negócios a 17% da média: 74 BTC/hora contra 427 de costume\n\nLeia: https://xbtc.aronpc.dev/#2026-08-19-09h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-19-09h31",
+      "slides": [
+        {
+          "title": "O mercado esqueceu de mover o preço",
+          "body": "Segunda hora seguida de negócios a 17% da média: 74 BTC/hora contra 427 de costume"
+        },
+        {
+          "title": "US$ 64.448",
+          "body": "Δ1h −0,04% · Δ24h +0,32% · vol US$ 16,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço no meio morto da faixa de 24h ($64,0k–65,1k) · funding +0,004% e 61% comprados: dinheiro travado igual à tela",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Calmaria que costuma custar caro",
+          "body": "F&G 46, clima de cautela. Quando o negócio volta de vez, a faixa estreita tende a soltar um movimento grande de uma vez"
+        },
+        {
+          "title": "64,9 mil abre caminho a 65 mil",
+          "body": "Faixa do momento: 64,2 mil (−0,4%) e 64,9 mil (+0,7%). Fechamento acima do topo com negócios fortes muda o quadro",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-18-11h30",
       "date": "2026-08-18",
       "time": "11h30",
