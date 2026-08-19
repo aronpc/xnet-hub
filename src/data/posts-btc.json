@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-19-11h30",
+      "date": "2026-08-19",
+      "time": "11h30",
+      "hook": "BTC em US$ 65.368: preço colou na máxima de 24h com o maior volume do dia, e o índice de sentimento nem saiu da zona de medo. A festa está cheia?",
+      "caption": "Terceira hora seguida de negócios muito acima do normal, com o preço encostando no teto do dia. Enquanto isso, o termômetro de humor segue esfriado\n\nLeia: https://xbtc.aronpc.dev/#2026-08-19-11h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-19-11h30",
+      "slides": [
+        {
+          "title": "Preço subiu, ânimo não",
+          "body": "Terceira hora seguida de negócios muito acima do normal, com o preço encostando no teto do dia. Enquanto isso, o termômetro de humor segue esfriado"
+        },
+        {
+          "title": "US$ 65.368",
+          "body": "Δ1h +0,69% · Δ24h +0,66% · vol US$ 19bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Rompimento do teto do dia confirmado com 1.070 BTC negociados na última hora, quase 2,5x a média · quem opera alavancado segue cauteloso: funding +0,0066% e L/S 1,38, em queda",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Subida sem torcida",
+          "body": "F&G em 46, zona de medo, com o preço no topo do dia: movimento puxado por quem apostava contra e foi fechando posição, não por multidão entrando",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "A máxima de 24h",
+          "body": "Preço a um passo de 65,5 mil, o topo das últimas 24h. Passar dele com volume segue abrindo conversa para 66 mil; recuar até 65 mil devolve o passo dado hoje",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-19-10h30",
       "date": "2026-08-19",
       "time": "10h30",
