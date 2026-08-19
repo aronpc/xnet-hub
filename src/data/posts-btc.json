@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-19-12h30",
+      "date": "2026-08-19",
+      "time": "12h30",
+      "hook": "BTC em US$ 68.045 depois de uma hora de arrepio: o maior volume do dia, oito vezes acima do normal, jogou o preço até 69,5 mil antes de recuar. Difícil de ignorar.",
+      "caption": "Uma vela só fez o trabalho do dia inteiro: disparo, topo em 69,5 mil e volta parcial\n\nLeia: https://xbtc.aronpc.dev/#2026-08-19-12h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-19-12h30",
+      "slides": [
+        {
+          "title": "A hora em que o mercado acordou",
+          "body": "Uma vela só fez o trabalho do dia inteiro: disparo, topo em 69,5 mil e volta parcial"
+        },
+        {
+          "title": "US$ 68.045",
+          "body": "Δ1h +4,1% · Δ24h +5,0% · vol US$ 24,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Vela de 3,2% numa hora com 5.924 BTC negociados, contra 711 de média. Veio de compra a vista, não de dívida: o funding segue brando e a aposta em alta esfriou durante a subida",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Dinheiro de verdade",
+          "body": "Uma subida dessas com o termômetro de humor ainda em 46, zona de medo, e menos gente apostando em alta do que antes do disparo. Rali sem multidão atrás"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Depois de um pulso assim, o costume é pausa pra digerir: segurar 67 mil mantém o novo patamar; recuar além disso devolve a conversa pra 66 mil"
+        }
+      ]
+    },
+    {
       "id": "2026-08-19-11h30",
       "date": "2026-08-19",
       "time": "11h30",
