@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-19-19h30",
+      "date": "2026-08-19",
+      "time": "19h30",
+      "hook": "Depois de subir mais de 7% no dia, o Bitcoin parou de empurrar e passou a hora recuando um pouco, a $69.168 · o topo do dia, 69.910, ficou para trás e o mercado entrou em modo digestão",
+      "caption": "Primeira vela da hora no vermelho depois de uma sequência longa de força. Nada de pânico: o preço segue colado na região mais alta do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-19-19h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-19-19h30",
+      "slides": [
+        {
+          "title": "O salto dado, a conta chegando",
+          "body": "Primeira vela da hora no vermelho depois de uma sequência longa de força. Nada de pânico: o preço segue colado na região mais alta do dia."
+        },
+        {
+          "title": "US$ 69.168",
+          "body": "Δ1h −0,61% · Δ24h +7,15% · vol US$ 41,9bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O impulso da tarde cansou na porta dos 70 mil e o preço agora amassa tempo em vez de espaço · Smart Money: funding +0,0100% + L/S 1,14",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Realização, não fuga",
+          "body": "Os contratos em aberto caíram uns 2% (de 110k para 107,5k BTC) com o preço segurando: quem lucrou embolsou, e sobrou movimento de verdade, em moeda, não em aposta. O volume do dia, US$ 41,9bi, roda o dobro do habitual e a vela que furou 68,5k negociou quase 8× o fluxo de uma hora normal. Com o sentimento ainda em 46 (medo), ninguém parece disposto a coroar o dia antes da hora.",
+          "source": "https://www.coinglass.com/FearAndGreed"
+        },
+        {
+          "title": "A porta dos 70 mil",
+          "body": "Em cima, o redondo de 70.000 é também a máxima das últimas 24 horas, a +1,2%. Embaixo, 68.500 segurou o dia todo e fica a −1,0%. Entre os dois, o mercado escolhe o próximo capítulo.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-19-18h30",
       "date": "2026-08-19",
       "time": "18h30",
