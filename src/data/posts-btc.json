@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-20-05h31",
+      "date": "2026-08-20",
+      "time": "05h31",
+      "hook": "Depois de bater na porta três vezes, o preço passou: BTC rompeu os 70 mil e chegou a US$ 71.302, com o maior volume das últimas semanas. O dia acumula +11%.",
+      "caption": "A vela que rompeu o teto veio com volume 1,8× acima da média e marcou novo topo de 24h em US$ 71.570. Desta vez não foi recusado.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-20-05h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-20-05h31",
+      "slides": [
+        {
+          "title": "A passagem pelos 70 mil aconteceu",
+          "body": "A vela que rompeu o teto veio com volume 1,8× acima da média e marcou novo topo de 24h em US$ 71.570. Desta vez não foi recusado."
+        },
+        {
+          "title": "US$ 71.302",
+          "body": "Δ1h +2,4% · Δ24h +11,0% · vol US$ 56,9bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Movimento carregado por compra à vista, sem alavancagem: funding +0,01% e posições divididas em 50/50 · Smart Money: L/S 0,99 · OI 108k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Rápido demais",
+          "body": "O indicador de sentimento saltou de 46 para 62 em um dia, já em ganância. Alta de dois dígitos em 24h com preço esticado costuma pedir pausa; recuo com volume fraco seria até saudável.",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "US$ 70.000 é a referência",
+          "body": "O antigo teto virou chão: enquanto 70 mil segurar, a leitura segue construtiva. Perder essa linha devolve o preço à faixa de 69,2 mil."
+        }
+      ]
+    },
+    {
       "id": "2026-08-20-01h30",
       "date": "2026-08-20",
       "time": "01h30",
