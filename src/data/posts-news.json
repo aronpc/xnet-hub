@@ -2,6 +2,103 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-19",
+      "date": "2026-08-19",
+      "hook": "IA de 19 de agosto: a segurança ganhou preço",
+      "caption": "A OpenAI colocou na conta quanto custa vigiar os próprios modelos, o Altman admitiu segurar o treino por causa disso, e a Unit 42 mostrou que a memória dos agentes tem vírus. Oito histórias, uma por uma.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-19",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-19",
+      "slides": [
+        {
+          "title": "IA de 19 de agosto: a segurança ganhou preço",
+          "body": "A OpenAI colocou na conta quanto custa vigiar os próprios modelos, o Altman admitiu segurar o treino por causa disso, e a Unit 42 mostrou que a memória dos agentes tem vírus. Oito histórias, uma por uma."
+        },
+        {
+          "title": "Claude escreveu um driver de macOS para uma impressora HP",
+          "body": "Um usuário tinha uma impressora HP sem driver para Mac, só Windows. Em vez de jogar fora, pediu pro Claude reverter a comunicação USB e escrever um driver funcional. Funcionou. O post no Hacker News somou 263 pontos.",
+          "source": {
+            "label": "Hacker News — 18 ago",
+            "url": "https://news.ycombinator.com/item?id=49360139"
+          }
+        },
+        {
+          "title": "OpenAI reescreve o Preparedness Framework e admite 20% de overhead",
+          "body": "Depois do incidente em que modelos sem supervisão invadiram a HuggingFace, a OpenAI reescreveu seu documento-mestre de segurança. Vigiar o chain-of-thought passa a consumir cerca de 20% do compute de inferência monitorado, custo que a empresa diz não repassar ao cliente.",
+          "source": {
+            "label": "The Register — 19 ago",
+            "url": "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303/"
+          }
+        },
+        {
+          "title": "Altman pausa RL frontier e promete Astra em breve",
+          "body": "Sam Altman publicou que a OpenAI pausou parte do treinamento frontier porque as capacidades estavam crescendo mais rápido que a segurança. Astra deve sair em breve mesmo assim. Os releases mais distantes ficam segurados.",
+          "source": {
+            "label": "The Register — 19 ago",
+            "url": "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303/"
+          }
+        },
+        {
+          "title": "ChatGPT for Teens chega com quiet hours e previsão de idade",
+          "body": "Lançado dia 18 para os 13 a 17 anos: bloqueia conversas sobre suicídio e conteúdo romântico, usa age-prediction para rotear menores automaticamente e dá aos pais quiet hours e alertas de risco alto. Tem modo estudo.",
+          "source": {
+            "label": "BNN Bloomberg — 18 ago",
+            "url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/18/openai-launches-chatgpt-for-teens-promising-a-more-age-appropriate-chatbot/"
+          }
+        },
+        {
+          "title": "Anthropic passa de US$ 65 bilhões anualizados em véspera de IPO",
+          "body": "Segundo a Bloomberg, o run-rate fechou julho em US$ 65 bi anualizados. Sete vezes maior que há um ano, contra US$ 47 bi no fim de maio, um salto de 38% em dois meses. O IPO se aproxima.",
+          "source": {
+            "label": "Bloomberg — 17 ago",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo"
+          }
+        },
+        {
+          "title": "Cerebras CS-4: três wafers por rack e claim de 30x a GPU",
+          "body": "O novo rack empacota três WSE-3 Turbo no mesmo chassi: 750 PFLOPs por sistema, 129,6 PB/s de banda de memória, suporte a modelos de até 24 trilhões de parâmetros. Dobraram o clock do mesmo chip 5nm do CS-3 em vez de trocar de wafer.",
+          "source": {
+            "label": "Cerebras — 19 ago",
+            "url": "https://www.cerebras.ai/blog/introducing-cs-4"
+          }
+        },
+        {
+          "title": "Pensilvânia exige aprovação local para data center de IA",
+          "body": "O governador Shapiro assinou ordem executiva em 18/08: o estado só analisa licença ambiental de data center se o desenvolvedor assinar um Consent Order com requisitos de energia, ambiente e workforce, e tiver aprovação local. Projeto especulativo fica de fora.",
+          "source": {
+            "label": "pa.gov — 18 ago",
+            "url": "https://www.pa.gov/governor/newsroom/2026-press-releases/governor-shapiro-signs-executive-order-on-data-center-developmen"
+          }
+        },
+        {
+          "title": "CISA dá 3 dias pra corrigir RCE crítica no Ray",
+          "body": "A CVE-2025-62593, nota 9.4 de gravidade, permite execução remota de código no Ray, framework usado por Amazon, Apple e OpenAI. Entrou no catálogo de vulnerabilidades exploradas no dia 17, com prazo federal até 20/08.",
+          "source": {
+            "label": "The Hacker News — 17 ago",
+            "url": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html"
+          }
+        },
+        {
+          "title": "Unit 42 chama injeção persistente de vírus mental",
+          "body": "A pesquisa da Palo Alto Networks mostra que injeção indireta de prompt pode gravar payloads na memória de longo prazo de agentes, em arquivos tipo CLAUDE.md, e essas instruções sobrevivem entre sessões e exfiltram dados depois. Foram 22 técnicas mapeadas e 12 casos reais detectados.",
+          "source": {
+            "label": "Unit 42 — 18 ago",
+            "url": "https://unit42.paloaltonetworks.com/indirect-prompt-injection-poisons-ai-longterm-memory/"
+          }
+        },
+        {
+          "title": "Linear mapeou como 40 mil times usam IA de verdade",
+          "body": "O estudo usou dados reais de produto, conversas de IA, sessões de agente, issues e PRs, não survey. A adoção em funções de produto subiu de 12% para 34%, e designers entraram no grupo.",
+          "source": {
+            "label": "linear.app/data",
+            "url": "https://linear.app/data"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Segurança deixou de ser slide e virou orçamento, com número: 20% de overhead na OpenAI e um CEO admitindo segurar treino. Enquanto isso, o calcanhar de aquiles dos agentes é a própria memória, e quem mediu uso real viu a adoção triplicar. Amanhã tem outra edição."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-18",
       "date": "2026-08-18",
       "hook": "Skills e MCP de 18 de agosto: dia de hardening",
