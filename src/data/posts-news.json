@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-19",
+      "date": "2026-08-19",
+      "hook": "Projetos de 19 de agosto: open-source agêntico em força total",
+      "caption": "O Mojo abriu o compilador, a ByteDance entrou no jogo de contexto como banco de dados, e um diretório de skills virou um dos repos mais estrelados da história do GitHub. Dez histórias escolhidas a dedo.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-19",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-19",
+      "slides": [
+        {
+          "title": "Projetos de 19 de agosto: open-source agêntico em força total",
+          "body": "O Mojo abriu o compilador, a ByteDance entrou no jogo de contexto como banco de dados, e um diretório de skills virou um dos repos mais estrelados da história do GitHub. Dez histórias escolhidas a dedo."
+        },
+        {
+          "title": "Mojo vira open-source e chega ao 1.0",
+          "body": "A Modular, a startup do Chris Lattner que a Qualcomm comprou, liberou o código do compilador do Mojo no github.com/modular/modular, depois do Mojo 1.0. A biblioteca padrão já era aberta, agora o resto também. O anúncio ecoou no ModCon e rendeu 148 pontos no HN.",
+          "source": {
+            "label": "Phoronix — 19 ago",
+            "url": "https://www.phoronix.com/news/Modular-Mojo-Open-Source"
+          }
+        },
+        {
+          "title": "Cursor lança o Origin, forge de git pra era agêntica",
+          "body": "O Origin hospeda código dentro do ecossistema Cursor, com cópia de projetos do GitHub em poucos cliques e sync com upstream. O marketing cita 22,6 commits por segundo e 296 mil clones num repo só. Foi número 3 do Product Hunt, e o rollout coincidiu com uma outage do GitHub.",
+          "source": {
+            "label": "Cursor changelog",
+            "url": "https://cursor.com/changelog/origin-code-hosting"
+          }
+        },
+        {
+          "title": "mattpocock/skills: 223 mil estrelas em 6 meses",
+          "body": "O repo com as skills do diretório .agents do Matt Pocock, nomes como The Agent Didn't Do What I Want e The Code Doesn't Work, saltou de 182 mil pra 223 mil estrelas. Segue número 1 do trending com mais de 1.200 estrelas por dia.",
+          "source": {
+            "label": "github.com/mattpocock/skills",
+            "url": "https://github.com/mattpocock/skills"
+          }
+        },
+        {
+          "title": "OpenViking: a ByteDance entra no jogo de contexto como banco",
+          "body": "O volcengine/OpenViking nasceu em janeiro e já passou de 29,8 mil estrelas, crescendo 800 por dia. Ele unifica memória de agente, RAG de conhecimento e skills num banco de contexto que evolui sozinho. Live demo no site, licença AGPLv3, docs em inglês, chinês e japonês.",
+          "source": {
+            "label": "github.com/volcengine/OpenViking",
+            "url": "https://github.com/volcengine/OpenViking"
+          }
+        },
+        {
+          "title": "Munder Difflin: escritório de agentes usando sua assinatura",
+          "body": "O harness orquestra terminais Claude Code e Codex como um escritório multi-agente, rodando dentro dos limites horários das assinaturas que você já paga. Free, open source, com builds pra macOS, Windows e Linux. Já são 2,5 mil estrelas crescendo quase 800 por dia.",
+          "source": {
+            "label": "github.com/chaitanyagiri/munder-difflin",
+            "url": "https://github.com/chaitanyagiri/munder-difflin"
+          }
+        },
+        {
+          "title": "MoneyPrinterTurbo segue número 1 do trending",
+          "body": "O gerador chinês de vídeos curtos por IA passou de 110 mil estrelas e soma mais de 2.200 por dia, puxado pela onda de vídeo generativo. Colado nele vem o omlx, servidor de inferência com SSD caching pra Apple Silicon, quase 20 mil estrelas.",
+          "source": {
+            "label": "github.com/trending",
+            "url": "https://github.com/trending"
+          }
+        },
+        {
+          "title": "Turbovec: quantização de vetores do Google em Rust",
+          "body": "Show HN com 274 pontos apresenta o Turbovec, implementação Rust do TurboQuant do Google pra compressão quantizada de vetores em busca semântica.",
+          "source": {
+            "label": "Hacker News — 18 ago",
+            "url": "https://news.ycombinator.com/item?id=49359473"
+          }
+        },
+        {
+          "title": "Goldset: 896 fixes de bugs Python verificados de verdade",
+          "body": "O dataset traz 896 correções de bugs Python validadas rodando os testes de verdade, não diffs plausíveis. Nasceu pra ser ground-truth de agentes de código, atacando o problema de benchmark contamination.",
+          "source": {
+            "label": "Hacker News — 19 ago",
+            "url": "https://news.ycombinator.com/item?id=49361832"
+          }
+        },
+        {
+          "title": "AgentBadge: SEO pra agentes chega ao Product Hunt",
+          "body": "Entre os launches do dia aparece o AgentBadge, um scoring de agent-readiness pra APIs, vendido como SEO for AI agents. Junto com o Ressearch AI, workspace de pesquisa científica reproduzível, liderou a curadoria do dia.",
+          "source": {
+            "label": "Product Hunt — 19 ago",
+            "url": "https://www.producthunt.com/leaderboard/daily/2026/8/19"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O ecossistema aberto se reorganizou em torno de agentes: linguagem compilada aberta, forge desenhada pra agents, contexto virando banco de dados e skills virando produto de massa. O custo da era agêntico está sendo resolvido por harnesses que reaproveitam assinatura. Amanhã tem mais."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-19",
       "date": "2026-08-19",
       "hook": "IA de 19 de agosto: a segurança ganhou preço",
