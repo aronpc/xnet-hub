@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-20-17h31",
+      "date": "2026-08-20",
+      "time": "17h31",
+      "hook": "O recuo das últimas velas durou pouco. O Bitcoin voltou a fechar a hora no topo do dia, em 72,8 mil, a poucos passos da máxima das últimas 24h. E tem um detalhe esquisito nesse movimento: mais da metade das contas de derivativos segue posicionada contra ele. O ganho de 6% no dia ainda não convenceu a mesa.",
+      "caption": "Fechamentos de 1h colados na máxima de 24h (72.966) de novo, agora com pressão de continuação em vez de pausa.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-20-17h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-20-17h31",
+      "slides": [
+        {
+          "title": "O recuo durou três velas",
+          "body": "Fechamentos de 1h colados na máxima de 24h (72.966) de novo, agora com pressão de continuação em vez de pausa."
+        },
+        {
+          "title": "US$ 72.814",
+          "body": "Δ1h +0,32% · Δ24h +6,0% · vol US$ 59,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Closes comprimidos no topo da faixa, sem rejeição · Smart money: funding +0,0024% (neutro) e long/short 0,96, com 51% das contas short",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Ganho sem aposta embutida",
+          "body": "Funding neutro e maioria posicionada contra: o movimento veio do mercado à vista, não da alavancagem. F&G em 62, mesma zona de ganância do começo da tarde.",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "73 mil pela terceira visita",
+          "body": "Referência de baixo em $72.000 (−1,1%) · topo imediato em $73.000 (+0,3%), colado na máxima 24h",
+          "source": "https://www.coinglass.com"
+        }
+      ]
+    },
+    {
       "id": "2026-08-20-15h31",
       "date": "2026-08-20",
       "time": "15h31",
