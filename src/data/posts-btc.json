@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-20-14h30",
+      "date": "2026-08-20",
+      "time": "14h30",
+      "hook": "O gatilho das 12h30 disparou: o preço passou dos 72,6 mil que travavam o movimento e já rodou até 72,9 mil. Foram mais 7% em 24h com o triplo de volume, e o sentimento pulou de neutro para ganância em duas horas. US$ 72.752 agora.",
+      "caption": "O preço cruzou o topo que segurava o dia e fechou a hora em 72.752, encostado na máxima de 24h.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-20-14h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-20-14h30",
+      "slides": [
+        {
+          "title": "Passou dos 72,6 e seguiu",
+          "body": "O preço cruzou o topo que segurava o dia e fechou a hora em 72.752, encostado na máxima de 24h."
+        },
+        {
+          "title": "US$ 72.752",
+          "body": "Δ1h +0,58% · Δ24h +7,06% · vol US$ 58,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Máxima de 24h renovada em 72.905 com fluxo 3× acima do normal · Smart money: funding +0,005% e long/short 1,02",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Ganância chegando rápido",
+          "body": "F&G saltou de 46 para 62 nesta tarde. A mesa alavancada segue equilibrada em 50,5% de comprados, número raro num dia de +7%. O movimento nasceu do mercado à vista, não de aposta.",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "73 mil é o próximo número redondo",
+          "body": "Referência de baixo em $72.000 (−1,0%), o teto antigo da semana · teto imediato em $73.000 (+0,3%)",
+          "source": "https://www.coinglass.com"
+        }
+      ]
+    },
+    {
       "id": "2026-08-20-12h30",
       "date": "2026-08-20",
       "time": "12h30",
