@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-19",
+      "date": "2026-08-19",
+      "hook": "Skills e MCP de 19 de agosto: o contrato endureceu",
+      "caption": "O Claude Code aposentou as todo-tools nos modelos novos, fork de subagente agora herda o cache, e a Unit 42 provou que a memória persistente pega vírus. Nove histórias do ecossistema de skills, agentes e MCP.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-19",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-19",
+      "slides": [
+        {
+          "title": "Skills e MCP de 19 de agosto: o contrato endureceu",
+          "body": "O Claude Code aposentou as todo-tools nos modelos novos, fork de subagente agora herda o cache, e a Unit 42 provou que a memória persistente pega vírus. Nove histórias do ecossistema de skills, agentes e MCP."
+        },
+        {
+          "title": "Claude Code v2.1.233 desliga as todo-tools nos modelos novos",
+          "body": "A partir do build 2.1.233, as ferramentas de task-tracking, TaskCreate, TaskUpdate e TodoWrite, não ficam mais disponíveis em Opus 4.8, Sonnet 5, Fable 5 e modelos posteriores. O planejamento interno substituiu a ferramenta. A flag CLAUDE_CODE_ENABLE_TODO_TOOLS=1 reativa.",
+          "source": {
+            "label": "CHANGELOG.md",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "v2.1.235: spellcheck nativo e escada de aprovação fechada",
+          "body": "A release de 18/08 adiciona spellcheck opcional no input usando aspell, hunspell ou ispell, e corrige o bug do Shift+Tab no permission prompt que aprovava uma edição e dava permissão de sessão inteira em vez de fechar o campo. O SendMessage agora recusa mensagem grande em vez de descartar silenciosamente.",
+          "source": {
+            "label": "CHANGELOG.md",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "v2.1.232: fork herda conversa e cache; @mention entre sessões",
+          "body": "Subagent forking virou default: subagent_type fork herda a conversa inteira e o prompt cache. Digitar @ menciona outra sessão de Claude por nome, com SendMessage direto. Nomes de sessão agora são únicos por máquina, e a redação de segredos cobriu as famílias de token do GitLab.",
+          "source": {
+            "label": "CHANGELOG.md",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "Unit 42: memória persistente é vetor de vírus mental",
+          "body": "A pesquisa mostra injeção indireta gravando payloads na memória de longo prazo de agentes, em arquivos de prompt e memory tipo CLAUDE.md, persistindo entre sessões e disparando exfiltração depois. São 22 técnicas mapeadas e 12 casos reais.",
+          "source": {
+            "label": "Unit 42 — 18 ago",
+            "url": "https://unit42.paloaltonetworks.com/indirect-prompt-injection-poisons-ai-longterm-memory/"
+          }
+        },
+        {
+          "title": "Skills viram categoria dominante: 223k e 274k estrelas",
+          "body": "O mattpocock/skills passou de 182 mil pra 223 mil estrelas, com skills pros problemas reais do dia a dia com agentes. O obra/superpowers, framework de skills agênticas e metodologia do Jesse Vincent, já passa de 274 mil.",
+          "source": {
+            "label": "github.com/obra/superpowers",
+            "url": "https://github.com/obra/superpowers"
+          }
+        },
+        {
+          "title": "MCP chega ao Android dirigindo apps sem root",
+          "body": "Show HN de um app Android que expõe MCP pro agente operar os apps do dispositivo via IA, sem root e com redação de PII feita localmente no aparelho.",
+          "source": {
+            "label": "Hacker News — 19 ago",
+            "url": "https://news.ycombinator.com/item?id=49362047"
+          }
+        },
+        {
+          "title": "Clipto MCP e a toolchain mobile de agentes",
+          "body": "O Clipto MCP, lançado no Product Hunt, expõe servidor MCP pra agentes buscarem e extraírem clipes de terabytes de vídeo. No mesmo dia, dois Show HN: o Yado roda Claude Code e Codex no iPhone, e o Codex Memory Trim faz prune e dedup da memória global do Codex CLI.",
+          "source": {
+            "label": "Product Hunt — 19 ago",
+            "url": "https://www.producthunt.com/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O contrato entre harness e skills endureceu: ferramenta aposentada, validação de frontmatter virou gate oficial, e fork com cache mudou a economia de subagentes. Enquanto isso, a maior ameaça não é o modelo, é o arquivo de contexto que ele carrega sem pensar. Amanhã tem mais."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-19",
       "date": "2026-08-19",
       "hook": "Projetos de 19 de agosto: open-source agêntico em força total",
