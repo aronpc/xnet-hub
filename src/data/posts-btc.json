@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-20-07h30",
+      "date": "2026-08-20",
+      "time": "07h30",
+      "hook": "BTC passou dos 72 mil pela manhã e encostou em US$ 72.490, o topo das últimas 24 horas. Dali mesmo foi devolvido, e o preço ficou nos US$ 72.092. O dia acumula +12,1% e o volume rodou três vezes o habitual.",
+      "caption": "A última hora rendeu só +0,4%, com volume dentro da média: fôlego para segurar o que foi ganho, não para esticar.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-20-07h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-20-07h30",
+      "slides": [
+        {
+          "title": "A subida segue, o ritmo é outro",
+          "body": "A última hora rendeu só +0,4%, com volume dentro da média: fôlego para segurar o que foi ganho, não para esticar."
+        },
+        {
+          "title": "US$ 72.092",
+          "body": "Δ1h +0,4% · Δ24h +12,1% · vol US$ 63,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Terceira hora seguida de fechamentos mais altos acima de 70 mil, tudo à vista, nada no fiado · Smart Money: funding +0,0100% + L/S 1,03",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "72,5 mil segura o passo",
+          "body": "Suporte US$ 71.200 (−1,2%), mínima do salto · Resistência US$ 72.500 (+0,6%), o topo do dia",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "O intraday segue no ar",
+          "body": "Leitura atualizada de hora em hora; próxima atualização às 08h30."
+        }
+      ]
+    },
+    {
       "id": "2026-08-20-05h31",
       "date": "2026-08-20",
       "time": "05h31",
