@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-20-01h30",
+      "date": "2026-08-20",
+      "time": "01h30",
+      "hook": "A queda durou uma hora. BTC voltou aos US$ 69.316, recuperou o que tinha entregado e agora encara o teto das últimas 24h de novo, com US$ 49bi rodando no dia.",
+      "caption": "O recuo parou no mesmo lugar das outras vezes e o preço voltou a colar na zona que já rejeitou três tentativas de passagem.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-20-01h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-20-01h30",
+      "slides": [
+        {
+          "title": "De volta à porta dos 70 mil",
+          "body": "O recuo parou no mesmo lugar das outras vezes e o preço voltou a colar na zona que já rejeitou três tentativas de passagem."
+        },
+        {
+          "title": "US$ 69.316",
+          "body": "Δ1h +0,55% · Δ24h +7,8% · vol US$ 49,0bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Piso da consolidação segurou e a subida segue sem alavancagem: quase todo o movimento é compra à vista · Smart Money: funding +0,0100% + L/S 1,05",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Força que nasce à vista",
+          "body": "Funding no mínimo e posição dividida em 51/49: ninguém entrou de vez. Menos gente comprada significa menos gente forçada a vender se o ritmo mudar.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Teto de 70 mil, de novo",
+          "body": "A faixa 69,8 a 70 mil já devolveu o preço três vezes em 8 horas. Enquanto 69 mil segurar, a leitura segue construtiva.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-20-00h32",
       "date": "2026-08-20",
       "time": "00h32",
