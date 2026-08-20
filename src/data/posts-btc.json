@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-19-22h30",
+      "date": "2026-08-19",
+      "time": "22h30",
+      "hook": "Segunda visita a 70 mil dólares em menos de duas horas, e o preço voltou de mãos vazias de novo. BTC a US$ 69.287, com 7,5% de valorização no dia e US$ 45,8bi negociados. Desta vez a retração veio mansa: um terço do volume habitual, nada de pressa pra sair.",
+      "caption": "A máxima das últimas 24 velas parou em 70.000 pela segunda vez e o recuo foi discreto. O preço segue colado abaixo do número, na terceira hora acima de 69 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-19-22h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-19-22h30",
+      "slides": [
+        {
+          "title": "70 mil devolveu a visita",
+          "body": "A máxima das últimas 24 velas parou em 70.000 pela segunda vez e o recuo foi discreto. O preço segue colado abaixo do número, na terceira hora acima de 69 mil."
+        },
+        {
+          "title": "US$ 69.287",
+          "body": "Δ1h −0,55% · Δ24h +7,5% · vol US$ 45,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Bateu no redondo, voltou, e o recuo veio com um terço do volume de sempre. As mínimas seguem subindo hora a hora · Smart Money: funding +0,0082% + L/S 1,07",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Recuo sem pressa",
+          "body": "A vela da queda negocia com ⅓ do volume típico e o interesse aberto encolheu de ~110 mil pra ~107,5 mil BTC. Vendedores aparecem, mas sem força pra mudar o rumo.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Uma hora decisiva",
+          "body": "Fechamento acima de 70.000 abre terreno inédito nas 24 velas; abaixo, 69.000 segue segurando a estrutura, a −0,41% de distância.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-19-21h30",
       "date": "2026-08-19",
       "time": "21h30",
