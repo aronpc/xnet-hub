@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-19-20h30",
+      "date": "2026-08-19",
+      "time": "20h30",
+      "hook": "A máxima do dia parou a centavos de 70 mil dólares e voltou. BTC a US$ 69.367, com 7,2% no dia e o maior volume em semanas, US$ 43,5bi. O teto redondo ainda não cedeu, mas os topos da hora seguem subindo, um degrau de cada vez.",
+      "caption": "A máxima das últimas 24 velas nasceu exatamente em 70.000, há duas horas, e o preço não largou a região desde então.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-19-20h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-19-20h30",
+      "slides": [
+        {
+          "title": "Encostou no teto e recuou",
+          "body": "A máxima das últimas 24 velas nasceu exatamente em 70.000, há duas horas, e o preço não largou a região desde então."
+        },
+        {
+          "title": "US$ 69.367",
+          "body": "Δ1h +0,29% · Δ24h +7,2% · vol US$ 43,5bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Topos da hora em degraus, subindo colados no redondo de 70k. O índice de sentimento segue em 46, medo, com funding quase neutro · Smart Money: funding +0,0100% + L/S 1,10",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Um rali sem aposta",
+          "body": "Subiu 7,2% e ninguém embarcou com margem: o funding em +0,0100% e L/S de 1,10 são posições modestas, não multidão. O volume de US$ 43,5bi, 2,4 vezes o normal, veio de fluxo real. Sobrando espaço antes de qualquer exaustão.",
+          "source": "https://www.coinglass.com/FearAndGreed"
+        },
+        {
+          "title": "A hora do teste",
+          "body": "Em cima, o redondo de 70.000 segue virgem, a +0,9%. Embaixo, 69.000 ficou como degrau imediato, a −0,5%. Falso rompimento só conta com fechamento, não com pavio.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-19-19h30",
       "date": "2026-08-19",
       "time": "19h30",
