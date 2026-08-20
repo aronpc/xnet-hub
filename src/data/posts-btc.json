@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-20-09h30",
+      "date": "2026-08-20",
+      "time": "09h30",
+      "hook": "Cinco horas na mesma faixa depois de um salto de 11% num dia só. O Bitcoin espera em US$ 71.782, com volume na metade do habitual. Quanto mais tempo encostado no topo, mais firme a base fica por baixo.",
+      "caption": "Depois de subir 11,4% em 24h, o preço passou as últimas 5 horas entre 71,5 e 72,5 mil, sem vendedor à vista.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-20-09h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-20-09h30",
+      "slides": [
+        {
+          "title": "O salto fez a pausa",
+          "body": "Depois de subir 11,4% em 24h, o preço passou as últimas 5 horas entre 71,5 e 72,5 mil, sem vendedor à vista."
+        },
+        {
+          "title": "US$ 71.782",
+          "body": "Δ1h −0,2% · Δ24h +11,4% · vol US$ 66,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Consolidação no topo com volume a 0,56× a média · Smart money: funding +0,0100% e L/S 1,03, mesa equilibrada",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Rally de bolso, não de alavanca",
+          "body": "Funding no mínimo da faixa e 51% de posições compradoras: quem ergueu o preço foi o mercado à vista. Sem multidão posicionada de lado nenhum, o próximo movimento depende do fluxo real.",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "A faixa 71,5–72,5k segura o roteiro",
+          "body": "Piso testado 2× hoje em $71.500 (−0,4%) · teto das 24h em $72.500 (+1,0%)"
+        }
+      ]
+    },
+    {
       "id": "2026-08-20-07h30",
       "date": "2026-08-20",
       "time": "07h30",
