@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-20-12h30",
+      "date": "2026-08-20",
+      "time": "12h30",
+      "hook": "Sete horas andando de lado e a coisa se resolveu numa hora só: o Bitcoin deixou a faixa pelo topo, encostou na máxima do dia e o volume quadruplicou de uma vez. US$ 72.220, sem cara de fim de movimento.",
+      "caption": "A hora fechou colada na máxima de 24h, US$ 72.564, com fluxo quatro vezes acima do normal e Δ24h de +5,7%.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-20-12h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-20-12h30",
+      "slides": [
+        {
+          "title": "A faixa ficou para trás",
+          "body": "A hora fechou colada na máxima de 24h, US$ 72.564, com fluxo quatro vezes acima do normal e Δ24h de +5,7%."
+        },
+        {
+          "title": "US$ 72.220",
+          "body": "Δ1h +1,0% · Δ24h +5,7% · vol US$ 62,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Consolidação de 7h vencida pelo topo, com volume 4× · Smart money: funding +0,01% (neutro) e long/short em 1,00",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Fechar acima de 72,6 mil estica o movimento",
+          "body": "Suporte $71.700 (−0,7%), a prateleira da consolidação · Resistência $72.600 (+0,5%), o topo de 24h",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, atualização de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-08-20-09h30",
       "date": "2026-08-20",
       "time": "09h30",
