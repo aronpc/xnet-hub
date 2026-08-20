@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-20-00h32",
+      "date": "2026-08-20",
+      "time": "00h32",
+      "hook": "A madrugada devolveu um pedaço do dia de alta: BTC a US$ 68.934, ainda 7,2% acima nas 24 horas, com US$ 47,5bi negociados. Primeira hora de perda real desde o movimento começar, e ela desceu em conta-gotas.",
+      "caption": "Recusado pela terceira vez em 70 mil, o preço deixou a faixa dos 69 mil pela primeira vez no rali e agora olha a janela de 68,4 mil a 68,8 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-20-00h32",
+      "link": "https://xbtc.aronpc.dev/#2026-08-20-00h32",
+      "slides": [
+        {
+          "title": "69 mil ficou para trás",
+          "body": "Recusado pela terceira vez em 70 mil, o preço deixou a faixa dos 69 mil pela primeira vez no rali e agora olha a janela de 68,4 mil a 68,8 mil."
+        },
+        {
+          "title": "US$ 68.934",
+          "body": "Δ1h −0,77% · Δ24h +7,2% · vol US$ 47,5bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Terceira recusa no topo e perda da casa dos 69 mil, com a vela atual rodando a menos da metade do volume típico · Smart Money: funding +0,0100% + L/S 1,05",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Realização em câmera lenta",
+          "body": "Sem multidão comprada e sem venda desenfreada: o fluxo é spot, gente convertendo o dia de 7% em caixa enquanto a divisão entre os dois lados fica em 51/49.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Faixa de 68,8 a 69,3 mil",
+          "body": "Acima de 69.300 (+0,53%) a leitura de alta volta ao papo; perder 68.800 (−0,19%) estica o caminho até 68,4 mil.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-19-22h30",
       "date": "2026-08-19",
       "time": "22h30",
