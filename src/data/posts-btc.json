@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-19-21h30",
+      "date": "2026-08-19",
+      "time": "21h30",
+      "hook": "O preço voltou em 70 mil dólares pela segunda vez hoje e recolheu de novo. BTC a US$ 69.668, subindo 7,9% no dia com US$ 45bi negociados. O humor do mercado, que acordava com medo, já passou pra ganância.",
+      "caption": "A máxima das últimas 24 velas encostou exatamente em 70.000 de novo, e o preço segue firme acima de 69 mil pela terceira hora seguida.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-19-21h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-19-21h30",
+      "slides": [
+        {
+          "title": "70 mil respondeu duas vezes",
+          "body": "A máxima das últimas 24 velas encostou exatamente em 70.000 de novo, e o preço segue firme acima de 69 mil pela terceira hora seguida."
+        },
+        {
+          "title": "US$ 69.668",
+          "body": "Δ1h +0,43% · Δ24h +7,9% · vol US$ 45bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Terceira hora acima de 69 mil, com topos cada vez mais altos. A ganância saiu de 46 e chegou a 62 em um dia · Smart Money: funding +0,0093% + L/S 1,08",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Ganância sem aposta",
+          "body": "O índice de sentimento pulou de 46 pra 62, mas as mesas seguem leves: funding de +0,0093% e razão long/short de 1,08. Gente acreditando mais, com pouco dinheiro em cima da mesa.",
+          "source": "https://www.coinglass.com/FearAndGreed"
+        },
+        {
+          "title": "Terceira visita decide",
+          "body": "Em cima, 70.000 testado duas vezes, a +0,48%. Embaixo, 69.000 é o degrau que segura a estrutura, a −0,96%. Fechamento acima do redondo abre terreno novo; só o pavio, não conta.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-19-20h30",
       "date": "2026-08-19",
       "time": "20h30",
