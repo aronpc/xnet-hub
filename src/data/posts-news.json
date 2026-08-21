@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-21",
+      "date": "2026-08-21",
+      "hook": "Skills e MCP de 21 de agosto: o Claude Code está em cadência diária",
+      "caption": "Dois releases do Claude Code em um dia atacando as duas maiores queixas da comunidade: verbosidade e fricção de teclado. No resto, skill virando produto vertical, MCP ganhando camada de governança, e o Slack entrando na briga com canais de código onde agentes trabalham como colegas. Nove histórias.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-21",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-21",
+      "slides": [
+        {
+          "title": "Skills e MCP de 21 de agosto: o Claude Code está em cadência diária",
+          "body": "Dois releases do Claude Code em um dia atacando as duas maiores queixas da comunidade: verbosidade e fricção de teclado. No resto, skill virando produto vertical, MCP ganhando camada de governança, e o Slack entrando na briga com canais de código onde agentes trabalham como colegas. Nove histórias."
+        },
+        {
+          "title": "Modo Concise e keybinding readline chegam juntos",
+          "body": "O v2.1.237 conserta o prompt caching para sessões via gateway e adiciona o output style Concise: o Claude vai direto ao resultado, sem preâmbulo. O v2.1.238, no mesmo dia, traz o keybindingFlavor readline, com Ctrl+W apagando até o espaço anterior, como no Bash, e o headersHelper para marketplaces de plugins com token de curta duração.",
+          "source": {
+            "label": "GitHub — claude-code releases — 20 ago",
+            "url": "https://github.com/anthropics/claude-code/releases"
+          }
+        },
+        {
+          "title": "v2.1.236: modelo default por variável e sessões que se avisam",
+          "body": "O release de 19 de agosto adicionou a ANTHROPIC_DEFAULT_MODEL, que define o modelo inicial de novas sessões sem travar o /model, e o notify_when_idle no envio de mensagens entre sessões: uma sessão pede à outra para avisar quando ficar ociosa, uma vez, sem polling.",
+          "source": {
+            "label": "GitHub — claude-code releases — 19 ago",
+            "url": "https://github.com/anthropics/claude-code/releases"
+          }
+        },
+        {
+          "title": "marketing-os: um departamento inteiro dentro de uma skill",
+          "body": "A skill de um repo só tem 14 módulos: auditorias pontuadas de zero a cem, engine com 18 táticas de hook, copy avaliada antes de exibir, diagnóstico de anúncios. São 237 estrelas em 4 dias.",
+          "source": {
+            "label": "GitHub — Yuzzyuk — 17 ago",
+            "url": "https://github.com/Yuzzyuk/marketing-os"
+          }
+        },
+        {
+          "title": "arc-skill: declarar cada ação antes de gastá-la",
+          "body": "Skill de agente para jogar ARC-AGI-3 com uma regra: dizer o que cada ação vai fazer antes de executá-la. Claude Code em Opus 5 terminou os 25 jogos públicos.",
+          "source": {
+            "label": "GitHub — pbshgthm — 19 ago",
+            "url": "https://github.com/pbshgthm/arc-skill"
+          }
+        },
+        {
+          "title": "Caveman: a skill mais popular do mundo economiza 65% dos tokens",
+          "body": "A skill faz o modelo responder em telegramês, \"por que usar muitos tokens se poucos resolvem\", e reduz em torno de 65% o consumo. Explodiu para 99.719 estrelas desde abril e segue no trending.",
+          "source": {
+            "label": "GitHub — JuliusBrussee — 20 ago",
+            "url": "https://github.com/JuliusBrussee/caveman"
+          }
+        },
+        {
+          "title": "nexus: gateway de governança entre agentes e bancos de dados",
+          "body": "Servidor MCP que fica entre Claude, Codex, Dify ou agentes próprios e o banco corporativo: autenticação unificada, controle de acesso, proteção contra SQL perigoso, mascaramento de resultados, orçamento de consultas e rastreamento.",
+          "source": {
+            "label": "GitHub — owen-xiao-g — 20 ago",
+            "url": "https://github.com/owen-xiao-g/nexus"
+          }
+        },
+        {
+          "title": "anthropics/skills ganha discernment-nudge e prompt-audit",
+          "body": "O repositório canônico de skills da Anthropic movimentou nos dias 17 e 18: entrou a discernment-nudge, a claude-academy-guide, renomeada depois para academy-guide, e a claude-api skill ganhou o subcomando prompt-audit.",
+          "source": {
+            "label": "GitHub — anthropics/skills — 18 ago",
+            "url": "https://github.com/anthropics/skills/commits/main"
+          }
+        },
+        {
+          "title": "Slack Code: agentes como colegas em canais de código",
+          "body": "O Slack lançou canais de código dedicados por projeto, disponíveis em todos os planos, em que o time colabora com agentes de codificação como se fossem colegas de equipe.",
+          "source": {
+            "label": "The Verge — 20 ago",
+            "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O Claude Code passou a evoluir em cadência diária, e as duas maiores dores da comunidade, output verboso e atalhos de teclado, caíram no mesmo dia. Skill saiu do papel de snippet e virou produto vertical de 14 módulos. MCP ganhou camada de governança. E a fronteira de interface mudou de editor pra chat: se o Slack Code vingar, o agente de código mora onde o time já está."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-21",
       "date": "2026-08-21",
       "hook": "Projetos de 21 de agosto: frontier aberto cabe na sua RAM",
