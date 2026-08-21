@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-21-12h31",
+      "date": "2026-08-21",
+      "time": "12h31",
+      "hook": "O tombo da manhã durou pouco. Quatro fechamentos de hora no verde devolveram quase tudo o que caiu depois da recusa nos 79,5 mil, e o preço voltou a encostar no teto de 77,8 mil. É a quarta visita em dois dias.",
+      "caption": "Depois de tocar 76,7 mil mais cedo, o bitcoin já opera na porta dos 78 mil de novo. A recuperação foi gradual, vela a vela, sem sobressalto.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-21-12h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-21-12h31",
+      "slides": [
+        {
+          "title": "A queda da manhã foi devolvida",
+          "body": "Depois de tocar 76,7 mil mais cedo, o bitcoin já opera na porta dos 78 mil de novo. A recuperação foi gradual, vela a vela, sem sobressalto."
+        },
+        {
+          "title": "US$ 77.636",
+          "body": "Δ1h +0,7%, a maior alta por hora desde o pico de ontem · Δ24h +7,3% · vol US$ 69bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Quatro fechamentos de hora em alta até a borda de 77,8 mil, ainda dentro da faixa que vai de 76,2 a 77,8 mil · Smart money: funding +0,0100% (neutro) e razão long/short 1,04 (51% das contas na alta)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Quarta visita ao teto da faixa",
+          "body": "Um fechamento de hora acima de 77,8 mil abriria caminho até 78,2 e 78,5 mil; perder 77 mil devolve o preço pra faixa de baixo, em 76,2 mil. Com o sentimento em 72 (ganância), o risco é o falso rompimento: encostar não conta, só fechamento confirmado.",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Leitura atualizada a cada 60 minutos",
+          "body": "Preço, volume e como o dinheiro profissional está posicionado, hora a hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-21-09h30",
       "date": "2026-08-21",
       "time": "09h30",
