@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-21-02h31",
+      "date": "2026-08-21",
+      "time": "02h31",
+      "hook": "O Bitcoin acordou a mil acima de onde fechou a noite. Com 75,1 mil no preço e um salto de quase 8% no dia, o movimento agora encosta no topo de 75,8 mil pela segunda vez em poucas horas. Volume três vezes acima do habitual e um detalhe que chama atenção: a alavancagem segue tranquila, sobe sem aperto. O termômetro de humor em 72 pede cautela.",
+      "caption": "Preço colado na máxima de 24h depois de uma subida de 8%, com fluxo três vezes acima do normal.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-21-02h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-21-02h31",
+      "slides": [
+        {
+          "title": "Segunda visita ao teto de 75,8 mil",
+          "body": "Preço colado na máxima de 24h depois de uma subida de 8%, com fluxo três vezes acima do normal."
+        },
+        {
+          "title": "US$ 75.148",
+          "body": "Δ1h +0,46% · Δ24h +7,98% · vol US$ 60,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Closes de 1h subindo em sequência, preço no topo da faixa · Dinheiro alavancado: funding +0,006% e metade das contas em cada lado",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Sobe sem estar esticado",
+          "body": "Uma subida de 8% com funding de +0,006% e razão long/short em 1,03 é entrada de capital fresco, não aperto de posições. O risco mora no sentimento: o índice pulou de 46 para 72 num dia só.",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "O teto de 75,8 mil, de novo",
+          "body": "Faixa de baixo em $74.400 (−1,0%), região que segurou a consolidação · topo em $75.800 (+0,9%), máxima do dia por dois toques",
+          "source": "https://www.coinglass.com"
+        }
+      ]
+    },
+    {
       "id": "2026-08-20-22h30",
       "date": "2026-08-20",
       "time": "22h30",
