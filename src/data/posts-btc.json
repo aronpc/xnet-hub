@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-21-06h34",
+      "date": "2026-08-21",
+      "time": "06h34",
+      "hook": "O preço esticou até 79,5 mil pela primeira vez na virada do dia e voltou quase 2% na mesma hora, com volume duas vezes acima do normal entrando na venda. Nada de pânico: quem lucrou resolveu realizar. A casa dos 77 mil, que era obstáculo ontem, segue segurando o preço por cima, e o dia ainda marca +8,3%.",
+      "caption": "Primeira visita a 79,5 mil terminou com devolução de 2% em uma hora sobre volume pesado. O piso novo da noite, 77 mil, continua intacto.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-21-06h34",
+      "link": "https://xbtc.aronpc.dev/#2026-08-21-06h34",
+      "slides": [
+        {
+          "title": "O esticou-e-voltou dos 79,5 mil",
+          "body": "Primeira visita a 79,5 mil terminou com devolução de 2% em uma hora sobre volume pesado. O piso novo da noite, 77 mil, continua intacto."
+        },
+        {
+          "title": "US$ 77.681",
+          "body": "Δ1h +0,8% · Δ24h +8,3% · vol US$ 66,9bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Rejeição no topo com fluxo dobrado, mas o preço não devolveu o número cheio de 77 mil · Dinheiro profissional: funding +0,0100% (taxa-base) e razão long/short em 1,14",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Correção veio de quem vendia lucro, não de aperto",
+          "body": "A queda da hora carregou o dobro do volume médio e, ainda assim, quem opera alavancado nem se mexeu: funding na taxa-base e só 53,2% das contas do lado de cima. Realização de lucro depois de um dia de 8%, sem cara de exaustão."
+        },
+        {
+          "title": "A convivência com os 77 mil",
+          "body": "Faixa que era teto ontem e agora segura por baixo em $77.000 (−0,9%) · topo do dia em $79.500 (+2,3%), a região rejeitada",
+          "source": "https://www.coinglass.com"
+        }
+      ]
+    },
+    {
       "id": "2026-08-21-04h30",
       "date": "2026-08-21",
       "time": "04h30",
