@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-20-20h30",
+      "date": "2026-08-20",
+      "time": "20h30",
+      "hook": "Acabou a briga pelos 73 mil. O Bitcoin passou o número redondo que segurou a tarde inteira e marcou máxima nova nas últimas 24 horas: 73,4 mil. O que dá peso ao movimento é o volume, rodando quase o triplo do habitual. Rali de vela seca não tem esse tamanho. O dia já acumula 5,7%.",
+      "caption": "O preço cruzou 73 mil e encostou no topo renovado das 24 velas (73,4k), com participação de verdade por trás.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-20-20h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-20-20h30",
+      "slides": [
+        {
+          "title": "Máxima nova no dia",
+          "body": "O preço cruzou 73 mil e encostou no topo renovado das 24 velas (73,4k), com participação de verdade por trás."
+        },
+        {
+          "title": "US$ 73.286",
+          "body": "Δ1h +0,73% · Δ24h +5,69% · vol US$ 48,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Máxima de 24h renovada com fluxo 2,7× acima do normal · Smart money: funding +0,0044% (neutro) e long/short 0,94, com 51% das contas short",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Quem apostou contra está pagando a conta",
+          "body": "Maioria das contas em short com o preço subindo 5,7% e funding zerado: compra real apertando quem estava do outro lado, não aposta alavancada. F&G em 62, ganância longe ainda do extremo.",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "Segurar acima de 73,4 mil muda a conversa",
+          "body": "Faixa de baixo em $72.500 (−1,1%) · topo imediato em $73.400 (+0,2%), sendo testado agora",
+          "source": "https://www.coinglass.com"
+        }
+      ]
+    },
+    {
       "id": "2026-08-20-17h31",
       "date": "2026-08-20",
       "time": "17h31",
