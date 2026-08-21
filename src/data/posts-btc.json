@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-20-22h30",
+      "date": "2026-08-20",
+      "time": "22h30",
+      "hook": "A fronteira de 74 mil durou uma hora. O Bitcoin passou por ela no início da noite, cravou 74,9 mil e segue acelerando com volume quase três vezes acima do normal. O detalhe curioso: metade das contas segue posicionada contra o movimento, o que historicamente alimenta pernas de alta mais longas. O aquecimento do sentimento (índice em 72) é o ponto de atenção.",
+      "caption": "Quarta vela de alta seguida, topo de 24h renovado em 74,9 mil e fluxo crescendo a cada hora.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-20-22h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-20-22h30",
+      "slides": [
+        {
+          "title": "74 mil caiu, e a perna continua",
+          "body": "Quarta vela de alta seguida, topo de 24h renovado em 74,9 mil e fluxo crescendo a cada hora."
+        },
+        {
+          "title": "US$ 74.631",
+          "body": "Δ1h +1,10% · Δ24h +7,72% · vol US$ 57,0bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Thrust na 4ª vela 1h consecutiva, volume da perna em 1,9k BTC/h contra ~500 antes · Funding +0,0074% e 51% das contas short",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O rali é real, o clima esquenta",
+          "body": "Sentimento em 72 pela segunda hora, a três pontos da zona extrema, com volume 2,8× o normal. Movimento saudável até aqui, mas exaustão vira tema se o índice passar de 75 junto com funding acima de 0,01%.",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "75 mil é o próximo número redondo",
+          "body": "Faixa de baixo em $73.700 (−1,2%) · referência de cima em $75.000 (+0,5%), logo acima do topo de 74.896",
+          "source": "https://www.coinglass.com"
+        }
+      ]
+    },
+    {
       "id": "2026-08-20-21h30",
       "date": "2026-08-20",
       "time": "21h30",
