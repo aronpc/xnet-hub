@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-21-09h30",
+      "date": "2026-08-21",
+      "time": "09h30",
+      "hook": "A faixa dos 77 mil, que segurava o preço desde a madrugada, cedeu pela manhã. Terceira vela vermelha seguida desde a rejeição nos 79,5 mil, e o dia que abria em +8% agora está em +6,9%. Correção de um movimento grande, com o mercado ainda processando o volume de ontem.",
+      "caption": "O degrau que sustentou a noite foi perdido na manhã desta sexta, com três fechamentos por hora em queda desde a recusa em 79,5 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-21-09h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-21-09h30",
+      "slides": [
+        {
+          "title": "77 mil não segurou",
+          "body": "O degrau que sustentou a noite foi perdido na manhã desta sexta, com três fechamentos por hora em queda desde a recusa em 79,5 mil."
+        },
+        {
+          "title": "US$ 76.750",
+          "body": "Δ1h −0,8% · Δ24h +6,9% · vol US$ 68bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Correção do impulso dos 79,5 mil em andamento, sem reversão confirmada · Dinheiro profissional: funding +0,0100% (neutro) e razão long/short em 0,97",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Quem opera alavancado pendeu pra baixo, sem exagero",
+          "body": "A razão de contas caiu de 1,06 para 0,97 na última hora, com 49% posicionadas para cima. Funding neutro e contratos estáveis: leveza, não convicção. E posição vendida pequena também empurra o preço de volta quando o fundo segura."
+        },
+        {
+          "title": "A briga agora é em 76,2 mil",
+          "body": "Fundo do impulso em $76.200 (−0,7%) · região perdida em $77.800 (+1,4%), onde o preço tentaria voltar num cenário calmo",
+          "source": "https://www.coinglass.com"
+        }
+      ]
+    },
+    {
       "id": "2026-08-21-06h34",
       "date": "2026-08-21",
       "time": "06h34",
