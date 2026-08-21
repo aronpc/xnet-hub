@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-21",
+      "date": "2026-08-21",
+      "hook": "Projetos de 21 de agosto: frontier aberto cabe na sua RAM",
+      "caption": "Um dev rodou o Kimi K3, de 2,78 trilhões de parâmetros, num CPU comum com 8 GB de RAM. Outro colocou o Gemma 4 rodando em 2 GB num MacBook. O Block abriu o workspace de agentes interno, a Tencent soltou um scanner de segurança pra skills e MCP, e o \"Claude Code chinês\" já tem loja com 4 mil plugins. Oito histórias.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-21",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-21",
+      "slides": [
+        {
+          "title": "Projetos de 21 de agosto: frontier aberto cabe na sua RAM",
+          "body": "Um dev rodou o Kimi K3, de 2,78 trilhões de parâmetros, num CPU comum com 8 GB de RAM. Outro colocou o Gemma 4 rodando em 2 GB num MacBook. O Block abriu o workspace de agentes interno, a Tencent soltou um scanner de segurança pra skills e MCP, e o \"Claude Code chinês\" já tem loja com 4 mil plugins. Oito histórias."
+        },
+        {
+          "title": "Kimi K3 de 2,78 trilhões de parâmetros rodando em 8 GB de RAM",
+          "body": "O repo kimi-k3-in-c implementa o modelo chinês em C99 puro, sem BLAS, sem framework, sem GPU, e roda num único CPU com 8,24 GB de RAM. São 6.182 estrelas desde o dia 1 de agosto.",
+          "source": {
+            "label": "GitHub — FareedKhan-dev — 20 ago",
+            "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+          }
+        },
+        {
+          "title": "Gemma 4 26B em 2 GB de RAM em qualquer MacBook M",
+          "body": "O turbo-fieldfare roda o Gemma 4 26B-A4B com aproximadamente 2 GB de RAM em qualquer Mac com chip M. São 6.228 estrelas desde 17 de julho, e o número ainda cresce.",
+          "source": {
+            "label": "GitHub — drumih — 20 ago",
+            "url": "https://github.com/drumih/turbo-fieldfare"
+          }
+        },
+        {
+          "title": "Block abre o Berd, workspace de agentes que usava por dentro",
+          "body": "O Block, dono do Square, liberou em Apache 2.0 o Berd: app desktop que dá aos funcionários um ambiente único para trabalhar com agentes em diferentes modelos e harnesses, com histórico de conversas salvo localmente.",
+          "source": {
+            "label": "VentureBeat — 20 ago",
+            "url": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally"
+          }
+        },
+        {
+          "title": "Tencent AI-Infra-Guard: red team pra agentes, skills e MCP",
+          "body": "Plataforma open-source de red teaming que escaneia agentes, skills, servidores MCP e infraestrutura de IA, e testa jailbreak de LLM. São 5.041 estrelas e entrou no trending global hoje.",
+          "source": {
+            "label": "GitHub — Tencent — 20 ago",
+            "url": "https://github.com/Tencent/AI-Infra-Guard"
+          }
+        },
+        {
+          "title": "OpenBot: cada agente de IA com o próprio computador",
+          "body": "O CopilotKit lançou o OpenBot, coworkers de IA open-source em que cada agente recebe browser, arquivos e ferramentas próprias, e toda ação é decidida antes de executar. Chegou a 1.727 estrelas em 4 dias.",
+          "source": {
+            "label": "GitHub — CopilotKit — 17 ago",
+            "url": "https://github.com/CopilotKit/OpenBot"
+          }
+        },
+        {
+          "title": "Huzzah: nova abordagem de codificar com IA faz 239 pontos no HN",
+          "body": "Post Show HN de 20 de agosto do Daniel Vaughn, com uma abordagem nova de codificar com IA. Somou 239 pontos e 138 comentários em um dia.",
+          "source": {
+            "label": "danielvaughn.dev — 20 ago",
+            "url": "https://www.danielvaughn.dev/posts/huzzah/"
+          }
+        },
+        {
+          "title": "Cline v0.0.76: imagens no chat e tarefas agendadas",
+          "body": "O release de hoje do Cline adiciona geração de imagem durante a conversa, persistida no histórico, e agentes que criam e gerenciam tarefas agendadas.",
+          "source": {
+            "label": "GitHub — cline — 21 ago",
+            "url": "https://github.com/cline/cline/releases"
+          }
+        },
+        {
+          "title": "O \"Claude Code chinês\" já tem loja com 4 mil plugins",
+          "body": "O ecossistema DeepSeek Harness explodiu na China nas últimas duas semanas: desktop clients como o deepseek-harness-desktop-app (607 estrelas) e o dsh-plugin-hub, marketplace com 4 mil plugins.",
+          "source": {
+            "label": "GitHub — dshplugin — 20 ago",
+            "url": "https://github.com/dshplugin/dsh-plugin-hub"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A semana provou que modelo frontier aberto em hardware de consumidor deixou de ser piada: 2,78 trilhões de parâmetros em 8 GB, Gemma 4 em 2 GB. Do outro lado, o ecossistema em volta dos harnesses está se institutionalizando: scanner de segurança da Tencent, workspace corporativo do Block, loja de plugins na China. A camada de ferramenta amadureceu mais rápido que a de modelo."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-21",
       "date": "2026-08-21",
       "hook": "IA de 21 de agosto: o roteamento virou commodity",
