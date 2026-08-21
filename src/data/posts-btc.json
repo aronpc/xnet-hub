@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-21-18h30",
+      "date": "2026-08-21",
+      "time": "18h30",
+      "hook": "Um dia inteiro preso entre 76 e 78 mil, e a saída veio no fim da tarde: o bitcoin fechou a hora acima dos 77,9 mil pela primeira vez desde ontem. Estão 78,1 mil no preço, e o curioso é que a força veio do mercado à vista, sem alavancagem nova.",
+      "caption": "Quase 24 horas comprimido numa faixa de 2 mil dólares, até o preço resolver a pendência na última hora da tarde e segurar o patamar novo.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-21-18h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-21-18h30",
+      "slides": [
+        {
+          "title": "A espera acabou pra cima",
+          "body": "Quase 24 horas comprimido numa faixa de 2 mil dólares, até o preço resolver a pendência na última hora da tarde e segurar o patamar novo."
+        },
+        {
+          "title": "US$ 78.107",
+          "body": "Δ1h +0,9%, o movimento mais forte da tarde · Δ24h +7,5% · vol US$ 68,9bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fechamento de hora em 78.244, acima da linha que segurava desde ontem · Smart money: funding +0,0100% e razão long/short 1,03, ou seja, compra na ponta à vista, sem aposta alavancada entrando",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Segurar ou devolver",
+          "body": "Uma hora inteira acima de 78,5 mil encaminha pro pico do dia, 79,5 mil (+1,8%). Voltar abaixo de 77,9 mil devolve o preço a 77 mil (−1,4%). Com o sentimento já em 72, encostar não conta: só fechamento confirmado.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura atualizada a cada 60 minutos",
+          "body": "Preço, volume e como o dinheiro profissional está posicionado, hora a hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-21-12h31",
       "date": "2026-08-21",
       "time": "12h31",
