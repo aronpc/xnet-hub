@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-21-04h30",
+      "date": "2026-08-21",
+      "time": "04h30",
+      "hook": "Na quarta tentativa, foi. O topo de 75,8 mil tinha rejeitado o preço três vezes nesta madrugada e acabou cedendo: fechamento de 1h acima do nível, preço a 76,3 mil e alta de 9,5% no dia. O volume seguiu junto, quase 63 bilhões. Agora começa o teste de convivência com o número novo.",
+      "caption": "O preço atravessou o nível que o rejeitou três vezes, fechou a hora acima dele e já tocou 76,9 mil no caminho.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-21-04h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-21-04h30",
+      "slides": [
+        {
+          "title": "75,8 mil cedeu na quarta tentativa",
+          "body": "O preço atravessou o nível que o rejeitou três vezes, fechou a hora acima dele e já tocou 76,9 mil no caminho."
+        },
+        {
+          "title": "US$ 76.290",
+          "body": "Δ1h +1,25% · Δ24h +9,5% · vol US$ 62,9bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fechamento de 1h em 76.456, acima do nível antigo, com volume 1,2 vezes a média · Dinheiro alavancado: funding +0,0043% e razão long/short em 0,99",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Metade do mercado ainda apostava contra",
+          "body": "No momento em que o preço atravessou 75,8 mil, 50,2% das contas seguiam posicionadas contra a subida. Elas bancam a conta do movimento, e isso costuma dar combustível para a continuação, sem multidão comprada demais do lado de cima.",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "O piso novo em 75,8 mil",
+          "body": "Faixa que era obstáculo e agora é referência de baixo em $75.800 (−0,6%) · número redondo acima em $77.000 (+0,9%), logo depois da máxima 76.917",
+          "source": "https://www.coinglass.com"
+        }
+      ]
+    },
+    {
       "id": "2026-08-21-02h31",
       "date": "2026-08-21",
       "time": "02h31",
