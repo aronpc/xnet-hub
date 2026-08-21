@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-21",
+      "date": "2026-08-21",
+      "hook": "IA de 21 de agosto: o roteamento virou commodity",
+      "caption": "A Stripe gastou 7 bilhões de dólares para comprar o OpenRouter, a Anthropic ensaia o maior IPO de tecnologia desde a SpaceX, e um relatório interno da Linear trouxe o dado mais espinhoso da semana: agentes de IA escrevem metade das issues, e os times ficaram mais lentos. Nove histórias, uma por uma.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-21",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-21",
+      "slides": [
+        {
+          "title": "IA de 21 de agosto: o roteamento virou commodity",
+          "body": "A Stripe gastou 7 bilhões de dólares para comprar o OpenRouter, a Anthropic ensaia o maior IPO de tecnologia desde a SpaceX, e um relatório interno da Linear trouxe o dado mais espinhoso da semana: agentes de IA escrevem metade das issues, e os times ficaram mais lentos. Nove histórias, uma por uma."
+        },
+        {
+          "title": "Stripe compra o OpenRouter por 7 bilhões de dólares",
+          "body": "A maior aquisição da história da Stripe não é uma fintech: é o marketplace de modelos OpenRouter, fundado em 2023 e avaliado em 1,3 bilhão em maio. A aposta é que empresas vão consumir uma mistura de modelos e pagar por token, do mesmo jeito que hoje pagam por transação.",
+          "source": {
+            "label": "WSJ — 20 ago",
+            "url": "https://www.wsj.com/tech/ai/why-a-payments-giant-is-paying-7-billion-for-the-stripe-of-ai-f5832e54"
+          }
+        },
+        {
+          "title": "Anthropic mira IPO do tamanho do da SpaceX",
+          "body": "Fontes ouvidas pela Bloomberg dizem que a Anthropic quer igualar ou superar o recorde de IPO da SpaceX, com registro público já no fim de agosto. A linha de crédito pré-IPO deve passar dos 10 bilhões de dólares. Os fundadores vão receber ações com superpoder de voto.",
+          "source": {
+            "label": "Bloomberg — 20 ago",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it"
+          }
+        },
+        {
+          "title": "Q2 vazado: OpenAI cresce 18% e perde 12,3 bilhões",
+          "body": "No segundo trimestre a OpenAI faturou 6,7 bilhões de dólares, alta de 18% sobre o trimestre anterior, com prejuízo de 12,3 bilhões, 32% maior. A Anthropic faturou 11,6 bilhões, mais que o dobro do ano anterior, e fechou no lucro operacional.",
+          "source": {
+            "label": "WSJ — 20 ago",
+            "url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998"
+          }
+        },
+        {
+          "title": "CoSnitch: pesquisadores pediram ao Copilot para hackeá-lo, e ele explicou como",
+          "body": "A Varonis descobriu uma falha no Copilot Personal, gravidade 8,8, que drenava Gmail, Drive e Calendar da vítima com um clique. O caminho foi perguntar ao próprio assistente por que o ataque seria impossível, até ele entregar a arquitetura interna. Instruções maliciosas ficaram gravadas na memória e sobreviveram à troca de senha. Reportada em dezembro, corrigida só no dia 18 de agosto.",
+          "source": {
+            "label": "AI Tools Recap — 20 ago",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-august-20-2026"
+          }
+        },
+        {
+          "title": "Linear: IA escreve metade das issues, e o tempo de entrega sobe",
+          "body": "Dados agregados dos workspaces pagos da Linear mostram IA como autora de quase 50% de tudo que é criado, contra menos de 1 a cada mil há dois anos. Times usando agentes triplicaram os PRs por semana, passando de 21 para 65. O tempo total de desenvolvimento também subiu.",
+          "source": {
+            "label": "AI Tools Recap — 21 ago",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-august-21-2026"
+          }
+        },
+        {
+          "title": "Asana apaga backlog de 5 anos em 2 semanas com Codex",
+          "body": "A OpenAI publicou o estudo de caso: usando o Codex, o time de engenharia da Asana limpou em duas semanas um backlog acumulado ao longo de cinco anos. A thread no Hacker News passou de 138 pontos.",
+          "source": {
+            "label": "OpenAI — 20 ago",
+            "url": "https://openai.com/index/asana/"
+          }
+        },
+        {
+          "title": "GLM-5.3 chega à API a 1,40 dólar por milhão de tokens",
+          "body": "A Z.ai manteve o preço da geração anterior, 1,40 de entrada e 4,40 de saída por milhão de tokens, e subiu o índice de inteligência da Artificial Analysis em 7 pontos, para 60. Empatou com o Kimi K3, que custa mais que o dobro, e ficou a 3 pontos do Opus 5.",
+          "source": {
+            "label": "VentureBeat — 20 ago",
+            "url": "https://venturebeat.com/ai/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens"
+          }
+        },
+        {
+          "title": "Gemma passa de 1 bilhão de downloads; Qwen3.8-27B valida rápido",
+          "body": "A família Gemma do Google bateu 1 bilhão de downloads em dois anos, com mais de 100 mil variantes publicadas pela comunidade. No mesmo dia, a Alibaba anunciou que o Qwen3.8-27B, multimodal e aberto, passou de 1 milhão de downloads poucos dias após o lançamento. Simon Willison testou e confirmou: contexto longo, tool calling e visão fortes num modelo pequeno.",
+          "source": {
+            "label": "Google — 20 ago",
+            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/"
+          }
+        },
+        {
+          "title": "Binance Agent OS: agentes que operam trades por você",
+          "body": "A Binance lançou uma plataforma em que agentes de IA analisam mercados e executam operações em nome do usuário, com limites e alcance definidos... por você mesmo. A exchange avisa que conter o agente é, em grande parte, responsabilidade de quem o configura.",
+          "source": {
+            "label": "TechCrunch — 20 ago",
+            "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Rotear modelos deixou de ser diferencial: a Stripe pagou 7 bilhões pelo OpenRouter e a Ramp abriu seu router interno de graça no mesmo dia. A conta mudou de lado: Anthropic dá lucro, OpenAI perde 12 bilhões por trimestre. E o dado da Linear pausa a festa: mais PRs não significa entregar mais rápido. A métrica que importa agora é tempo de ciclo, não throughput."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-19",
       "date": "2026-08-19",
       "hook": "Skills e MCP de 19 de agosto: o contrato endureceu",
