@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-22-07h31",
+      "date": "2026-08-22",
+      "time": "07h31",
+      "hook": "Seis velas de uma hora em sequência levaram o bitcoin de 77,4 a 76,9 mil, e o volume na metade da média entrega o que houve por trás: derrapagem. Ninguém vendeu com força, o preço foi cedendo e a linha dos 77 mil ficou para trás.",
+      "caption": "Foram seis fechamentos seguidos em queda, nenhum com volume acima do normal. Mais deriva do que venda.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-22-07h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-22-07h31",
+      "slides": [
+        {
+          "title": "O redondo de 77 mil ficou para trás",
+          "body": "Foram seis fechamentos seguidos em queda, nenhum com volume acima do normal. Mais deriva do que venda."
+        },
+        {
+          "title": "US$ 76.916",
+          "body": "Δ1h −0,37% · Δ24h −1,21% · vol US$ 47,9bi, metade da média",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Meia dúzia de fechamentos de 1h em queda, de 77,4 a 76,9 mil, sem fluxo atrás · Posicionamento parado: funding +0,01% na taxa-base e long/short 1,00",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "76.900 decide a próxima hora",
+          "body": "Base 76.500 (−0,54%), lastro 76.243 (−0,88%, mínima do dia) · Teto 77.000 (+0,11%), o redondo perdido",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Relatório novo a cada hora",
+          "body": "Cada hora traz preço, fluxo e fonte na tela."
+        }
+      ]
+    },
+    {
       "id": "2026-08-22-02h30",
       "date": "2026-08-22",
       "time": "02h30",
