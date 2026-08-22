@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-22",
+      "date": "2026-08-22",
+      "hook": "Skills e MCP de 22 de agosto: o authoring amadurece",
+      "caption": "Uma design language inteira empacotada como skill, um servidor MCP com 220 milhões de papers revisados por pares, e um comando novo que migra o SDK Python da Anthropic de uma vez. O dia foi de ferramentas ficando adultas. Oito histórias, uma por uma.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-22",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-22",
+      "slides": [
+        {
+          "title": "Skills e MCP de 22 de agosto: o authoring amadurece",
+          "body": "Uma design language inteira empacotada como skill, um servidor MCP com 220 milhões de papers revisados por pares, e um comando novo que migra o SDK Python da Anthropic de uma vez. O dia foi de ferramentas ficando adultas. Oito histórias, uma por uma."
+        },
+        {
+          "title": "Claude Code 2.1.239 migra o SDK Python 0.x para 1.x",
+          "body": "O comando /claude-api upgrade passa projetos do anthropic 0.x para o 1.x, a maior quebra de compatibilidade do ecossistema. A release ainda traz plugins sincronizados do claude.ai e corrige o streaming Bedrock que dobrava billing atrás de proxy.",
+          "source": "github.com/anthropics/claude-code"
+        },
+        {
+          "title": "Claudette: skill que tira a voz BuzzFeed do Claude",
+          "body": "A skill /debuzz canalha as respostas pelo Gemini para remover o tom de listicle que os modelos escorregam. Fez 221 pontos no HN e 89 estrelas em um único dia.",
+          "source": "github.com/adnanakil/nobuzz"
+        },
+        {
+          "title": "oa-design: design system inteiro como agent skill",
+          "body": "A OpenLabs publicou o Open Analytics design system empacotado como skill: receitas de componentes com código type-checked que o agente consulta na hora de montar tela. Já são 109 estrelas.",
+          "source": "github.com/OpenLabs-so/oa-design"
+        },
+        {
+          "title": "Codex endurece a revisão automática de MCP",
+          "body": "Commits de 21 e 22 de agosto no Codex adicionam log do Guardian V2 e preservação dos outcomes do strict MCP auto-review. O harness concorrente está apertando o círculo em torno de ações não verificadas.",
+          "source": "github.com/openai/codex"
+        },
+        {
+          "title": "Consensus lança MCP oficial com 220 milhões de papers",
+          "body": "Busca em mais de 220 milhões de artigos revisados por pares direto de Claude, ChatGPT e Cursor, via servidor MCP oficial.",
+          "source": "github.com/Consensus-NLP/consensus-mcp"
+        },
+        {
+          "title": "docster: skill de documentação do criador do Nuxt",
+          "body": "Sébastien Chopin publicou uma skill que guia agents na escrita de docs, com suporte a componentes Comark. Fez 26 estrelas no primeiro dia.",
+          "source": "github.com/atinux/docster"
+        },
+        {
+          "title": "Computer Use da OpenAI portado pro DeepSeek Harness",
+          "body": "Reimplementação do plugin de Computer Use do macOS para o DSH, expondo dez ferramentas MCP. O ecossistema de 169 mil estrelas portou na mão uma capacidade dos harnesses comerciais, sem esperar ninguém.",
+          "source": "github.com/AzaiSakura/dsh-computer-use"
+        },
+        {
+          "title": "airlock: gate de CI para prompts, skills e modelos",
+          "body": "Projeto nascente que aplica release engineering a artefatos de IA: versiona e bloqueia mudanças em prompts, skills, servidores MCP e modelos antes do deploy.",
+          "source": "github.com/ankittk/airlock"
+        },
+        {
+          "title": "Skill-authoring cresceu, e a revisão virou obrigação",
+          "body": "Design system, voz de marca, documentação: tudo que era documentação para humanos está virando skill para agentes. Do outro lado, harnesses endurecendo a revisão automática de ações MCP. As skills ficaram mais poderosas, e com isso veio a cobrança: gate, versão e revisão antes de subir em produção."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-22",
       "date": "2026-08-22",
       "hook": "Projetos de 22 de agosto: a camada acima do harness esquenta",
