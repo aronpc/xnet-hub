@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-22",
+      "date": "2026-08-22",
+      "hook": "IA de 22 de agosto: a guerra de preços chegou ao frontier",
+      "caption": "A OpenAI cortou mais de 20% no preço do GPT-5.6 Sol, a Anthropic subiu o Sonnet 5 de 2 para 3 dólares e ensaia um IPO de 100 bilhões, e um modelo aberto chinês encostou no Opus multimodal. O tema do dia é um só: o preço do token virou campo de batalha. Sete histórias, uma por uma.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-22",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-22",
+      "slides": [
+        {
+          "title": "IA de 22 de agosto: a guerra de preços chegou ao frontier",
+          "body": "A OpenAI cortou mais de 20% no preço do GPT-5.6 Sol, a Anthropic subiu o Sonnet 5 de 2 para 3 dólares e ensaia um IPO de 100 bilhões, e um modelo aberto chinês encostou no Opus multimodal. O tema do dia é um só: o preço do token virou campo de batalha. Sete histórias, uma por uma."
+        },
+        {
+          "title": "OpenAI corta o preço do GPT-5.6 Sol em mais de 20%",
+          "body": "Entrada caiu para 4 dólares por milhão de tokens e saída para 20, promessa mantida por três meses. É corte explícito de guerra de preços numa faixa onde GLM-5.3 e Kimi K3 brigavam por custo.",
+          "source": {
+            "label": "Reuters — 21 ago",
+            "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/"
+          }
+        },
+        {
+          "title": "Sonnet 5 fica mais caro e troca de tokenizer",
+          "body": "O input subiu de 2 para 3 dólares por milhão, e o tokenizer novo engole de 10% a 35% mais tokens em código. Na prática, a conta de quem usa Sonnet para programar pode inflar até 70%.",
+          "source": {
+            "label": "AIToolsRecap — 21 ago",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-august-21-2026"
+          }
+        },
+        {
+          "title": "Anthropic ensaia IPO de 100 bilhões, valuation de 2 trilhões",
+          "body": "Banqueiros em conversa com investidores falaram em captar mais de 100 bilhões de dólares, com valuation de 2 trilhões. O filing público pode sair já no fim de agosto.",
+          "source": {
+            "label": "New York Times — 21 ago",
+            "url": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html"
+          }
+        },
+        {
+          "title": "DeepSeek V4 Flash multimodal encosta no Opus 4.8",
+          "body": "A versão multimodal experimental do V4 Flash se aproxima do Opus 4.8 em testes agênticos, segundo a própria DeepSeek. Modelo aberto chinês perto do frontier fechado, com custo de praticamente zero.",
+          "source": {
+            "label": "Bloomberg — 21 ago",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-21/deepseek-unveils-test-model-to-rival-anthropic-s-opus-4-8"
+          }
+        },
+        {
+          "title": "Ox Alpha: reasoning stealth e grátis no OpenRouter",
+          "body": "Um modelo de terceiro não identificado apareceu no OpenRouter de graça, com 1 milhão de contexto, 131 mil de saída e foco em código e trabalho agêntico sustentado. Fez 229 pontos no Hacker News.",
+          "source": {
+            "label": "OpenRouter",
+            "url": "https://openrouter.ai/stealth/ox-alpha"
+          }
+        },
+        {
+          "title": "Nvidia AVO zera o ARC-AGI-3 público",
+          "body": "O sistema agêntico de código da Nvidia completou os 183 níveis do conjunto público do benchmark: 100% nos 25 ambientes. É o primeiro placar perfeito publicado nesse teste de longa duração.",
+          "source": {
+            "label": "Nvidia Developer — 21 ago",
+            "url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/"
+          }
+        },
+        {
+          "title": "Liquid AI acelera modelos pequenos em 3,2x sem trocar hardware",
+          "body": "Os checkpoints DSpark dos LFM2.5, de 1.2B a 8B, entregam até 3,18x de throughput em GPU e 2,87x direto no dispositivo via speculative decoding, sem perder qualidade. Suporte a llama.cpp e SGLang desde o dia um.",
+          "source": {
+            "label": "Liquid AI — 20 ago",
+            "url": "https://www.liquid.ai/blog/lfm2.5-dspark"
+          }
+        },
+        {
+          "title": "O token virou commodity, e o aberto encostou",
+          "body": "A OpenAI corta, a Anthropic sobe e capta, DeepSeek e Ox Alpha entregam quase-frontier de graça. Numa semana, o eixo da competição saiu da capacidade pura e caiu no preço por token. Para quem constrói com esses modelos, a pergunta do dia não é qual é o melhor, e sim qual fica barato o suficiente para escalar."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-21",
       "date": "2026-08-21",
       "hook": "Skills e MCP de 21 de agosto: o Claude Code está em cadência diária",
