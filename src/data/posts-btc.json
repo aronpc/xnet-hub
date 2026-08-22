@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-22-00h30",
+      "date": "2026-08-22",
+      "time": "00h30",
+      "hook": "O recuo da noite de sexta durou pouco. Três horas de alta depois, o bitcoin trocou de degrau: rodou acima dos 78,5 mil e agora encosta no pico do dia, 79,5 mil, com volume bem acima do normal. Está em 78,7 mil.",
+      "caption": "A queda que trouxe o preço de volta à faixa ontem virou história curta. A recuperação passou dos 78,5 mil e seguiu em frente.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-22-00h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-22-00h30",
+      "slides": [
+        {
+          "title": "O teto do dia à vista",
+          "body": "A queda que trouxe o preço de volta à faixa ontem virou história curta. A recuperação passou dos 78,5 mil e seguiu em frente."
+        },
+        {
+          "title": "US$ 78.704",
+          "body": "Δ1h +0,46%, terceira hora seguida no verde · Δ24h +5,6% · vol US$ 66,6bi, muito acima da média",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Três fechamentos de hora em alta e o passo acima dos 78,5 mil vingou · Dinheiro profissional tranquilo: funding +0,01% e razão long/short 1,05, subida sem esticar alavancagem",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O pico de 79,5 mil no radar",
+          "body": "Preço a +1,0% do topo de 24h; acima dele, faixa inédita do dia entre 80 e 81 mil. Pra trás, o degrau de 78 mil (−0,9%) é o chão da hora.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura atualizada a cada 60 minutos",
+          "body": "Preço, volume e o comportamento do dinheiro profissional, hora a hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-21-21h30",
       "date": "2026-08-21",
       "time": "21h30",
