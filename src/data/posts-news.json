@@ -2,6 +2,64 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-22",
+      "date": "2026-08-22",
+      "hook": "Projetos de 22 de agosto: a camada acima do harness esquenta",
+      "caption": "Uma IDE self-hosted que orquestra Claude Code, Codex e OpenCode em paralelo, uma ferramenta que limpa o excesso de texto dos modelos novos, e duas apostas em roteamento de modelos que prometem derrubar a conta no fim do mês. Sete histórias, uma por uma.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-22",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-22",
+      "slides": [
+        {
+          "title": "Projetos de 22 de agosto: a camada acima do harness esquenta",
+          "body": "Uma IDE self-hosted que orquestra Claude Code, Codex e OpenCode em paralelo, uma ferramenta que limpa o excesso de texto dos modelos novos, e duas apostas em roteamento de modelos que prometem derrubar a conta no fim do mês. Sete histórias, uma por uma."
+        },
+        {
+          "title": "Vomit: um segundo modelo comprime o excesso do Claude 5",
+          "body": "A ferramenta passa a saída verbosa do Claude 5 por um LLM auxiliar que comprime o texto antes de chegar em você. Fez 295 pontos no Hacker News e 130 estrelas em uma semana.",
+          "source": "github.com/zachahn/vomit"
+        },
+        {
+          "title": "Proliferate: IDE self-hosted para qualquer coding agent",
+          "body": "Roda Claude Code, Codex e OpenCode em paralelo numa interface única, sem SaaS no meio. Fez 103 pontos no Show HN e já tem 247 estrelas.",
+          "source": "github.com/proliferate-ai/proliferate"
+        },
+        {
+          "title": "Vendo: usuários finais constroem features no seu produto",
+          "body": "A startup do YC S26 embarca agents que deixam clientes automatizar trabalho, criar views e conectar ferramentas dentro de produtos de terceiros. Fez 539 estrelas no lançamento no HN.",
+          "source": "github.com/runvendo/vendo"
+        },
+        {
+          "title": "OzBrain: cérebro compartilhado entre agents e time",
+          "body": "Base de conhecimento comum lida por agents e por pessoas, apresentada no Show HN com 52 pontos. A ideia é que humano e agente consultem a mesma memória organizacional.",
+          "source": "ozbrain.com"
+        },
+        {
+          "title": "Autolith: agente que programa contra um runtime vivo",
+          "body": "Da Lambda Symbolics, um agente que edita código contra um runtime que reage em tempo real às mudanças, em vez do ciclo tradicional de rodar teste e ler output.",
+          "source": "lambda-symbolics.com/autolith"
+        },
+        {
+          "title": "Callosum capta 100 milhões para baratear tarefas de IA",
+          "body": "O software de Londres direciona cada tarefa para a combinação de modelo e silício mais barata. Seed liderado pela Atomico, com o fundo soberano britânico de IA entrando junto.",
+          "source": {
+            "label": "Bloomberg — 20 ago",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-20/ai-startup-callosum-raises-100-million-to-make-ai-tasks-cheaper"
+          }
+        },
+        {
+          "title": "Ramp abre seu roteador interno de modelos, grátis até 2027",
+          "body": "O Router, que a Ramp usa há três anos internamente, abriu nos Estados Unidos gratuito até o fim de 2026. Mais um player pesado entrando no território que o OpenRouter popularizou.",
+          "source": {
+            "label": "TechCrunch — 20 ago",
+            "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/"
+          }
+        },
+        {
+          "title": "O pós-processamento virou commodity, e o controle saiu do SaaS",
+          "body": "Limpar a saída de um modelo com outro modelo, orquestrar vários agents numa interface própria, rotear cada tarefa pro caminho mais barato: o que era diferencial de produto fechado virou peça aberta e intercambiável. A stack agêntica está ganhando sua camada de acabamento, e quem monta a própria leva vantagem."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-22",
       "date": "2026-08-22",
       "hook": "IA de 22 de agosto: a guerra de preços chegou ao frontier",
