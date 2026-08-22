@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-22-09h30",
+      "date": "2026-08-22",
+      "time": "09h30",
+      "hook": "Pouco depois das 9h o bitcoin devolveu os 77 mil ao tabuleiro, o mesmo redondo que tinha ficado para trás no comecinho do dia. Duas horas de alta fizeram o resgate, com um terço do volume habitual: o preço subiu sozinho, sem multidão junto.",
+      "caption": "O nível perdido de manhã voltou ao lugar antes das 10h, num repique puxado quase todo pelo spot.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-22-09h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-22-09h30",
+      "slides": [
+        {
+          "title": "77 mil de volta, sem plateia",
+          "body": "O nível perdido de manhã voltou ao lugar antes das 10h, num repique puxado quase todo pelo spot."
+        },
+        {
+          "title": "US$ 77.315",
+          "body": "Δ1h +0,54% · Δ24h +0,87% · vol US$ 53,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Repique sem participação: 373 BTC por vela contra 1.177 de média, e o preço ainda preso sob a faixa de 77,5 mil · Posicionamento parado: funding +0,0100% e long/short 0,998",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A faixa de 77,5 mil decide a próxima hora",
+          "body": "Chão 77.000 (−0,4%), o redondo de volta ao lugar · Teto 77.500 (+0,2%), topo do dia 78.828 (+2,0%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Pulso do mercado, hora a hora",
+          "body": "Preço e fluxo com leitura de contexto, sempre atualizados."
+        }
+      ]
+    },
+    {
       "id": "2026-08-22-07h31",
       "date": "2026-08-22",
       "time": "07h31",
