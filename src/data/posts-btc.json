@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-22-02h30",
+      "date": "2026-08-22",
+      "time": "02h30",
+      "hook": "O impulso da madrugada deu uma travada. Uma vela de uma hora tirou 1,7% do preço e o bitcoin deixou a faixa dos 78 mil, negociando 69,5 bilhões em 24h, quase o dobro do habitual. Agora vale 77,2 mil.",
+      "caption": "Depois de encostar no topo do dia, o preço voltou e passou por dentro da consolidação que segurava desde ontem.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-22-02h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-22-02h30",
+      "slides": [
+        {
+          "title": "A faixa dos 78 mil cedeu",
+          "body": "Depois de encostar no topo do dia, o preço voltou e passou por dentro da consolidação que segurava desde ontem."
+        },
+        {
+          "title": "US$ 77.209",
+          "body": "Δ1h −1,72% · Δ24h +2,63% · vol US$ 69,5bi, bem acima da média",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Perda do platô de 78,4 mil com fluxo real, acima de 3 bi por hora · Posicionamento calmo: funding +0,01% e razão long/short 1,05",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "77 mil é o chão da hora",
+          "body": "Suporte 77.000 (−0,3%) · Resistência 78.500 (+1,7%), o platô que cedeu. Mais abaixo, 76.500 e 75.100",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "O intraday atualiza a cada 60 minutos",
+          "body": "Preço, volume e posicionamento, sempre com a fonte na tela."
+        }
+      ]
+    },
+    {
       "id": "2026-08-22-00h30",
       "date": "2026-08-22",
       "time": "00h30",
