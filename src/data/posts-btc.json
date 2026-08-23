@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-22-20h30",
+      "date": "2026-08-22",
+      "time": "20h30",
+      "hook": "Vinte horas preso entre 77,0 e 77,5 mil, e o bitcoin finalmente escolheu lado: pra baixo. A saída veio com metade do movimento usual, o que conta mais a história de quem cansou de comprar do que de quem vendeu com pressa.",
+      "caption": "Quase um dia inteiro espremido no mesmo corredor resolveu na 21ª hora, mais por peso próprio do que por venda firme.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-22-20h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-22-20h30",
+      "slides": [
+        {
+          "title": "A faixa cedeu, devagar",
+          "body": "Quase um dia inteiro espremido no mesmo corredor resolveu na 21ª hora, mais por peso próprio do que por venda firme."
+        },
+        {
+          "title": "US$ 76.948",
+          "body": "Δ1h −0,18% · Δ24h −1,90% · vol US$ 37,2bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O redondo de 77 mil durou vinte horas e ficou para trás, só que a vela da saída negociou 328 BTC contra ~660 de média: pouca gente junto · Posicionamento travado: funding +0,0100% e long/short 1,01",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "76,5 mil decide a próxima hora",
+          "body": "Chão 76.500 (−0,6%), mínima do dia · Teto 77.300 (+0,5%), o antigo piso que agora atrapalha a volta",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Pulso do mercado, hora a hora",
+          "body": "Preço e fluxo com leitura de contexto, sempre atualizados."
+        }
+      ]
+    },
+    {
       "id": "2026-08-22-09h30",
       "date": "2026-08-22",
       "time": "09h30",
