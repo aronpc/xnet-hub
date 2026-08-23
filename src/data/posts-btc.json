@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-23-02h30",
+      "date": "2026-08-23",
+      "time": "02h30",
+      "hook": "O 76,5 mil passou a madrugada inteira segurando e caiu na virada das 2h. A vela da quebra negociou duas vezes e meia o volume de sempre, terceiro fechamento seguido em baixa. E veio de venda pura: funding neutro, multidão dividida ao meio, ninguém forçado a sair.",
+      "caption": "76,5 mil cedeu com 2,5× o volume normal e fecha a terceira vela seguida em baixa.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-23-02h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-23-02h30",
+      "slides": [
+        {
+          "title": "Caiu com volume de verdade",
+          "body": "76,5 mil cedeu com 2,5× o volume normal e fecha a terceira vela seguida em baixa."
+        },
+        {
+          "title": "US$ 76.251",
+          "body": "Δ1h −0,91% · Δ24h −1,29% · vol US$ 30,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Pressão vendedora com volume real, diferente do embalo fraco da madrugada · Sentimento esfriando na zona de ganância (66) · Funding +0,010%, long/short 1,00",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "76 mil é o próximo redondo",
+          "body": "Chão imediato 76.000 (−0,3%), depois o mínimo do dia em 75.545 · Teto imediato 76.500 (+0,3%), o piso antigo virou barreira · Repique sem volume ali costuma ser só descanso",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Pulso do mercado, hora a hora",
+          "body": "Preço e fluxo com leitura de contexto, sempre atualizados."
+        }
+      ]
+    },
+    {
       "id": "2026-08-22-21h31",
       "date": "2026-08-22",
       "time": "21h31",
