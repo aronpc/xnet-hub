@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-23-18h30",
+      "date": "2026-08-23",
+      "time": "18h30",
+      "hook": "Dezoito horas colado embaixo do teto, e na 19ª ele cedeu. O BTC passou dos 78 mil pela primeira vez no dia, no maior puxão por hora desde a madrugada. Desta vez sem multidão apostada no mesmo lado, e isso costuma dar fôlego maior ao movimento. A tarde termina pressionando a máxima de 24 horas.",
+      "caption": "A barreira que segurou o dia inteiro foi atravessada no maior impulso por hora de hoje.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-23-18h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-23-18h30",
+      "slides": [
+        {
+          "title": "O teto dos 77,5 mil cedeu",
+          "body": "A barreira que segurou o dia inteiro foi atravessada no maior impulso por hora de hoje."
+        },
+        {
+          "title": "US$ 77.984",
+          "body": "Δ1h +0,78% · Δ24h +1,05% · vol US$ 28,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Vela 1h fechou acima dos 77,5k e encostou na máxima de 24h (78.052) · Smart Money: funding +0,01% no piso + L/S 1,04 (51% longs)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Movimento com pouco dinheiro emprestado",
+          "body": "A travessia veio com taxa de funding parada no chão e apostas divididas quase ao meio: a entrada ficou por conta do dinheiro a vista.",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "A noite se decide colado nos 78 mil",
+          "body": "Piso novo em US$ 77,5k (−0,6%) · teto US$ 78.050 (+0,1%), a máxima do dia sendo testada",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-23-12h31",
       "date": "2026-08-23",
       "time": "12h31",
