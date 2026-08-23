@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-23",
+      "date": "2026-08-23",
+      "hook": "Projetos de 23 de agosto: frontier na GPU de gamer",
+      "caption": "A semana no GitHub foi de derrubar barreiras: modelo MoE de 290 bilhões rodando em PC gamer, skill de front-end com verificação por screenshot, e recon de rede antes de mexer em produção. Quem usa modelo custom via gateway ainda sofre com tool-calling. Sete histórias.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-23",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-23",
+      "slides": [
+        {
+          "title": "Projetos de 23 de agosto: frontier na GPU de gamer",
+          "body": "A semana no GitHub foi de derrubar barreiras: modelo MoE de 290 bilhões rodando em PC gamer, skill de front-end com verificação por screenshot, e recon de rede antes de mexer em produção. Quem usa modelo custom via gateway ainda sofre com tool-calling. Sete histórias."
+        },
+        {
+          "title": "FreeToken roda MoE frontier de 290B+ em GPU de gamer",
+          "body": "O repo da FlashML-org mostra como rodar modelos MoE de mais de 290 bilhões de parâmetros localmente num PC comum. O truque é carregar e expandir só a rota de experts ativa por token, o que derruba o pico de VRAM.",
+          "source": "github.com/FlashML-org/FreeToken"
+        },
+        {
+          "title": "scroll-craft: sites scroll-driven com design floor e screenshot a cada passo",
+          "body": "Skill de Claude Code pra sites premium guiados pelo scroll: o scroll vira timeline sobre um design floor definido, e cada etapa é verificada por screenshot antes de seguir. Fez 179 estrelas no dia do lançamento.",
+          "source": "github.com/nateherkai/scroll-craft"
+        },
+        {
+          "title": "netwalk: survey de rede read-only antes de mexer em produção",
+          "body": "Toolkit que varre a rede a partir de um dispositivo, diagnostica, desenha a topologia e entrega o resultado pronto pro coding agent consumir. A ideia é ver a rede antes de mudar nela.",
+          "source": "github.com/ripmilla/netwalk"
+        },
+        {
+          "title": "Solo-skills: kit coreano de 15 skills pra quem trabalha sozinho",
+          "body": "Kit de produtividade pra pessoa-só do mercado coreano: 49 automações mapeadas, das quais 15 publicadas como skills de agente de IA prontas pra usar.",
+          "source": "github.com/bam-bam-2/solo-skills"
+        },
+        {
+          "title": "Cline v4.1.13 e Codex rust-v0.150 corrigem tool-calling de modelos custom",
+          "body": "O Cline restaurou o tool calling pra modelos OpenAI-compatible cuja lista de capacidades era inferida de flags de conveniência. O Codex segue em alpha diário de Rust, versão v0.150.0-alpha.7.",
+          "source": "github.com/cline/cline/releases"
+        },
+        {
+          "title": "Seu LLM local parece burro por causa da implementação, não do modelo",
+          "body": "Série técnica no fórum Level1Techs demonstra que o mesmo modelo com os mesmos pesos rende diferente conforme o stack local: kernels por geração de GPU, quantização e runtime mudam o resultado.",
+          "source": {
+            "label": "Level1Techs — 22 ago",
+            "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
+          }
+        },
+        {
+          "title": "AgentSight: eBPF pra observar agentes de IA sem tocar no código",
+          "body": "Projeto do anolisa, da Alibaba, usa eBPF pra observar chamadas de agentes de IA, incluindo LLM, tools e rede, sem instrumentação. Métricas e traces de agente em nível de kernel.",
+          "source": "github.com/alibaba/anolisa"
+        },
+        {
+          "title": "O runtime virou o novo diferencial",
+          "body": "MoE de 290 bilhões em GPU de gamer e o mesmo modelo rendendo diferente por causa do runtime: a diferença entre ter acesso e ter desempenho agora mora na implementação. Em volta disso, skill com loop de verificação visual, recon de rede read-only e eBPF pra enxergar agente em produção. A camada de execução local está ficando tão importante quanto a escolha do modelo."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-23",
       "date": "2026-08-23",
       "hook": "IA de 23 de agosto: a semana dos limites",
