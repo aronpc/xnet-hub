@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-23-06h30",
+      "date": "2026-08-23",
+      "time": "06h30",
+      "hook": "A venda forte da madrugada perdeu força: o fundo do dia foi testado e segurou, e o preço já se afastou dele. Agora circula no meio do corredor de 76 a 77 mil, com compradores e vendedores empatados no posicionamento.",
+      "caption": "Repique devolve o BTC ao meio da faixa de 24h, sem convicção em nenhum lado.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-23-06h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-23-06h30",
+      "slides": [
+        {
+          "title": "O fundo do dia aguentou o teste",
+          "body": "Repique devolve o BTC ao meio da faixa de 24h, sem convicção em nenhum lado."
+        },
+        {
+          "title": "US$ 76.547",
+          "body": "Δ1h +0,41% · Δ24h −0,85% · vol US$ 28bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Fundo do dia testado e recuperado; preço no meio da faixa de 75,5 a 77,5 mil · Smart money: funding +0,010% e long/short 1,01, ninguém puxa",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "76 mil e 77 mil seguem no comando",
+          "body": "Barreira de baixo 76.000 (−0,71%), mín 24h 75.546 logo abaixo · Teto 77.000 (+0,59%), topo 24h 77.548 na sequência",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Pulso do mercado, sempre atualizado",
+          "body": "Preço e fluxo do BTC com leitura de contexto a cada 60 minutos."
+        }
+      ]
+    },
+    {
       "id": "2026-08-23-02h30",
       "date": "2026-08-23",
       "time": "02h30",
