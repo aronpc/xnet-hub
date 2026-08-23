@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-23",
+      "date": "2026-08-23",
+      "hook": "IA de 23 de agosto: a semana dos limites",
+      "caption": "Agentes de ponta já executam otimização de verdade, mas continuam ruim em originar ciência. O dinheiro segue entrando, com IPO da Anthropic e chips a valuation inflado. E a regulação chegou com a maior multa europeia por decisão algorítmica. Oito histórias pra ficar em dia.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-23",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-23",
+      "slides": [
+        {
+          "title": "IA de 23 de agosto: a semana dos limites",
+          "body": "Agentes de ponta já executam otimização de verdade, mas continuam ruim em originar ciência. O dinheiro segue entrando, com IPO da Anthropic e chips a valuation inflado. E a regulação chegou com a maior multa europeia por decisão algorítmica. Oito histórias pra ficar em dia."
+        },
+        {
+          "title": "Fable 5 fecha 81,7% do gap do recorde humano em otimização de código",
+          "body": "A Prime Intellect rodou 153 execuções autônomas do nanoGPT speedrun com 18 modelos de ponta. Fable 5 chegou a 81,7% da distância entre o baseline e o recorde humano, gastando 8,7 dias de tempo de agente. Opus 5 fez 53,6%, Kimi K3 52,2%, GPT-5.6 Sol 35,9% e Sonnet 5 26,8%.",
+          "source": {
+            "label": "Prime Intellect — 22 ago",
+            "url": "https://www.primeintelect.ai/research/nanogpt-speedrun"
+          }
+        },
+        {
+          "title": "Anthropic testaria níveis de esforço reduzidos sem avisar",
+          "body": "Usuários relatam numa thread com 174 pontos no Hacker News que o Claude Code estaria servindo menos esforço de raciocínio para parte da base, sem comunicação. Comportamento típico de experimento controlado, ainda não confirmado pela Anthropic.",
+          "source": {
+            "label": "Thread no X — 22 ago",
+            "url": "https://twitter.com/argofowl/status/2091150597374537729"
+          }
+        },
+        {
+          "title": "S-1 da Anthropic vai listar \"backlash contra IA\" como risco",
+          "body": "Fontes dizem que o registro do IPO, esperado até o fim de agosto, inclui o sentimento público negativo contra IA como fator formal de risco. Seria o primeiro IPO frontier a fazer isso. Na mesma semana, pesquisa europeia mostrou que quem faz IA é considerado menos confiável que a própria IA.",
+          "source": {
+            "label": "CNBC — 21 ago",
+            "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html"
+          }
+        },
+        {
+          "title": "Holanda multa Uber em €825 milhões por decisão algorítmica",
+          "body": "A autoridade holandesa aplicou a multa porque a Uber deixava algoritmo desativar contas de motoristas sem revisão humana adequada. É a maior multa europeia por decisão algorítmica até hoje.",
+          "source": {
+            "label": "NL Times — 21 ago",
+            "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts"
+          }
+        },
+        {
+          "title": "Modelos recuperam só 3 a 15% das ideias de um paper pela bibliografia",
+          "body": "Novo benchmark pede que o modelo reconstrua as ideias centrais de um paper olhando só a lista de referências, sem texto nem autores. Os frontier ficam entre 3 e 15%. Um pipeline multi-agente com torneio suíço entre 4 modelos chega a 42%.",
+          "source": {
+            "label": "AI Tools Recap — 22 ago",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-august-22-2026"
+          }
+        },
+        {
+          "title": "Nvidia avisa clientes: mais de 15% nos sistemas Vera Rubin",
+          "body": "Clientes topo foram informados de aumento acima de 15% em sistemas com Vera Rubin e Grace Blackwell a partir do início de 2027. Em paralelo, a Nvidia negocia parceria com a sul-coreana Rebellions e investe na Cloverleaf, de infra de data center.",
+          "source": {
+            "label": "Bloomberg — 22 ago",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15"
+          }
+        },
+        {
+          "title": "Agente de 27B treinado com RL bate frontier em replicar pesquisa",
+          "body": "A Inherent, startup londrina de ex-DeepMind com seed de US$ 50 milhões, lançou o agente Faraday. Ele roda sobre o Qwen 3.6 de 27B e superou Opus 4.8 e GPT-5.5 em replicar findings de papers científicos, treinado com RL pra desenvolver gosto de pesquisa.",
+          "source": {
+            "label": "TechCrunch — 22 ago",
+            "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+          }
+        },
+        {
+          "title": "80% dos devs acham coding com IA mais viciante que útil",
+          "body": "O relato de um CTO, às 2h47 da manhã assistindo o Claude Code refatorar sem conseguir parar, virou síntese na ZDNet: agentic coding gera loop de dopamina no acerto e adrenalina no erro. Workaholism passivo-ativo e um burnout de formato novo.",
+          "source": {
+            "label": "ZDNet — 22 ago",
+            "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/"
+          }
+        },
+        {
+          "title": "Executar ficou fácil. Originar, não",
+          "body": "A semana deixou o desenho mais nítido: agentes top já otimizam código quase no nível humano e modelo pequeno com RL vence frontier em nicho. Mas quando a tarefa é ter a ideia, não rodar atrás dela, o placar desaba pra 3 a 15%. Enquanto isso, o mercado segue a todo vapor, Anthropic prepara IPO com backlash no risco, e a Europa multou quem deixou algoritmo decidir sozinho sobre pessoas. Autonomia com auditoria deixou de ser discurso."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-22",
       "date": "2026-08-22",
       "hook": "Skills e MCP de 22 de agosto: o authoring amadurece",
