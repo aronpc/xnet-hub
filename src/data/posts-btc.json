@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-23-08h30",
+      "date": "2026-08-23",
+      "time": "08h30",
+      "hook": "A queda das 2h já virou história: cinco velas de 1h em sequência subindo devolveram tudo o que a madrugada tirou, e o BTC voltou ao ponto mais alto do dia. Quem puxou foi dinheiro a vista, sem aposta alavancada forçando o movimento.",
+      "caption": "Cinco fechamentos seguidos no azul trouxeram o preço de volta ao topo do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-23-08h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-23-08h30",
+      "slides": [
+        {
+          "title": "A queda da madrugada foi devolvida",
+          "body": "Cinco fechamentos seguidos no azul trouxeram o preço de volta ao topo do dia."
+        },
+        {
+          "title": "US$ 77.156",
+          "body": "Δ1h +0,51% · Δ24h +0,28% · vol US$ 27bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço encostou na máxima de 24h depois de escalar o dia inteiro · Smart money: funding +0,010% neutro e long/short 1,02, recuperação veio a spot",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teto do dia está a meio por cento",
+          "body": "76,8 mil logo abaixo (−0,46%) e a máxima 24h de 77.548 logo acima (+0,45%), faixa apertada antes de uma definição",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Pulso do BTC, atualizado sempre",
+          "body": "Preço, fluxo e contexto do mercado a cada 60 minutos."
+        }
+      ]
+    },
+    {
       "id": "2026-08-23-06h30",
       "date": "2026-08-23",
       "time": "06h30",
