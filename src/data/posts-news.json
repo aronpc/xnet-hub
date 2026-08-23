@@ -2,6 +2,73 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-23",
+      "date": "2026-08-23",
+      "hook": "Skills e MCP de 23 de agosto: o protocolo cresceu para cima",
+      "caption": "O MCP publicou roadmap novo atacando as duas dores reais do ano: identidade de agente e explosão de tools. O Claude Code ganhou Artifacts que transforma sessão em página viva. E o ecossistema de skills ganhou QA de load e memória que poda a si mesma. Sete histórias.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-23",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-23",
+      "slides": [
+        {
+          "title": "Skills e MCP de 23 de agosto: o protocolo cresceu para cima",
+          "body": "O MCP publicou roadmap novo atacando as duas dores reais do ano: identidade de agente e explosão de tools. O Claude Code ganhou Artifacts que transforma sessão em página viva. E o ecossistema de skills ganhou QA de load e memória que poda a si mesma. Sete histórias."
+        },
+        {
+          "title": "Roadmap do MCP: 5 prioridades agora chefiadas por lead maintainers",
+          "body": "O blog oficial publicou cinco frentes: mensageria agêntica com eventos iniciados pelo servidor, unificação HTTP-native com um transporte só, identidade de agente por padrões OAuth e IETF em vez de API key colada, contrato único de resultado de tools/call, e progressive discovery, em que o servidor revela tools conforme a conversa estreita.",
+          "source": {
+            "label": "Blog MCP — 22 ago",
+            "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/"
+          }
+        },
+        {
+          "title": "Artifacts no Claude Code: a sessão vira página web viva",
+          "body": "O Claude Code agora captura o progresso do trabalho como artifact: walkthrough de PR, dashboard filtrável, timeline de incidente, checklist de release. A página é construída do contexto completo da sessão, cada republicação é uma versão no mesmo link, com histórico e galeria. Privado por padrão.",
+          "source": {
+            "label": "Blog Anthropic — 22 ago",
+            "url": "https://claude.com/blog/artifacts-in-claude-code"
+          }
+        },
+        {
+          "title": "SkillWorks pontua cada skill por \"carrega ou não\"",
+          "body": "Show HN que roda todas as skills públicas do ecossistema e publica um score de load: se a skill carrega, quantos tokens o frontmatter consome e se ela quebra o boot da sessão.",
+          "source": {
+            "label": "Show HN — 22 ago",
+            "url": "https://news.ycombinator.com/item?id=show-hn-skillworks"
+          }
+        },
+        {
+          "title": "Knowl: memória que poda a si mesma quando o CLAUDE.md passa de 1.000 linhas",
+          "body": "O autor tinha CLAUDE.md de mil linhas e construiu camada de memória com pruning automático: o que envelhece sem ser referenciado sai do contexto sozinho.",
+          "source": {
+            "label": "Show HN — 22 ago",
+            "url": "https://news.ycombinator.com/item?id=knowl"
+          }
+        },
+        {
+          "title": "Status line do Claude Code mostra worktree, contexto e quota",
+          "body": "Ferramenta dedicada pro rodapé do Claude Code: worktree ativo, branch, uso de contexto e quota da sessão, tudo visível em tempo real.",
+          "source": {
+            "label": "HN — 22 ago",
+            "url": "https://news.ycombinator.com/item?id=cc-status-line"
+          }
+        },
+        {
+          "title": "CLAUDE.md único com as regras do Karpathy chega a 205 mil estrelas",
+          "body": "O repo multica-ai destila as observações de Andrej Karpathy sobre armadilhas de LLM coding num único CLAUDE.md, pra melhorar o comportamento padrão do Claude Code. Junto com mattpocock/skills e affaan-m/ECC forma o pódio estável do gênero.",
+          "source": "github.com/multica-ai/andrej-karpathy-skills"
+        },
+        {
+          "title": "Argentic cobra dos agents em sats via Lightning pra liberar conteúdo",
+          "body": "Toll booth que responde HTTP 402 com cobrança em satoshis via rede Lightning: agent de IA que quer raspar o conteúdo paga micropagamento e recebe o acesso.",
+          "source": "argentic.network"
+        },
+        {
+          "title": "O protocolo amadureceu, e a cobrança por qualidade começou",
+          "body": "O MCP saiu da fase de crescer em número de servidores e entrou na de resolver identidade, descoberta gradual e transporte único. O trabalho do agente ganhou formato entregável com Artifacts. E em volta disso surgiu a infraestrutura de cobrança: skill que precisa carregar, memória que se poda, contexto que aparece no rodapé. O ecossistema passou a exigir manutenção, não só publicação."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-23",
       "date": "2026-08-23",
       "hook": "Projetos de 23 de agosto: frontier na GPU de gamer",
