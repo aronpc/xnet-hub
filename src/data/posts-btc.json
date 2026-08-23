@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-23-12h31",
+      "date": "2026-08-23",
+      "time": "12h31",
+      "hook": "A subida do meio da manhã não teve sequência. O preço encostou nos 77,8 mil, não encontrou quem sustentasse por ali e desfez o caminho inteiro. O BTC encerra a manhã nos 77,2 mil, quase no mesmo ponto de duas horas atrás. Quem puxa o movimento segue sendo dinheiro a vista; as apostas alavancadas estão neutras dos dois lados.",
+      "caption": "O repique parou no topo e voltou; a manhã termina praticamente em zero a zero.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-23-12h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-23-12h31",
+      "slides": [
+        {
+          "title": "A porta dos 77,8 mil não abriu",
+          "body": "O repique parou no topo e voltou; a manhã termina praticamente em zero a zero."
+        },
+        {
+          "title": "US$ 77.185",
+          "body": "Δ1h −0,38% · Δ24h +0,26% · vol US$ 28,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço espremido entre 77,0k e 77,8k: a rejeição no topo empurrou de volta ao piso sem arrebentar nada · Smart Money: funding +0,01% + L/S 1,05 (51,3% longs)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Faixa apertada, decisão pendente",
+          "body": "Piso US$ 77,0k (−0,24%) em teste · teto US$ 77,8k (+0,80%), máxima 24h",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Sem pressa para escolher lado",
+          "body": "Sentimento em 66, ainda em ganância, esfriando devagar. O mercado engoliu a rejeição sem pressa de definir rumo.",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        }
+      ]
+    },
+    {
       "id": "2026-08-23-10h31",
       "date": "2026-08-23",
       "time": "10h31",
