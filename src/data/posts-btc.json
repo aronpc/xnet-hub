@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-22-21h31",
+      "date": "2026-08-22",
+      "time": "21h31",
+      "hook": "Há uma hora o 77 mil tinha caído e a conversa era outra. O preço voltou pra cima do piso, emendou quatro fechamentos seguidos em alta e deixou a fuga com cara de susto passageiro. Só que a volta veio sem gente: a vela em curso negocia a um quarto do usual.",
+      "caption": "Quem apostou na saída pra baixo devolveu o movimento em sessenta minutos.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-22-21h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-22-21h31",
+      "slides": [
+        {
+          "title": "O 77 mil não foi embora",
+          "body": "Quem apostou na saída pra baixo devolveu o movimento em sessenta minutos."
+        },
+        {
+          "title": "US$ 77.204",
+          "body": "Δ1h +0,33% · Δ24h −0,97% · vol US$ 36,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O piso de 77 mil, testado quatro vezes hoje, aguentou de novo · Dinheiro travado: funding +0,0100% e long/short 1,01, com o índice de sentimento esfriando de 71 para 66",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "77,3 mil destrava o xadrez",
+          "body": "Chão 77.000 (−0,3%), firme o dia inteiro · Teto 77.300 (+0,1%), a porta que ninguém abriu ainda",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Pulso do mercado, hora a hora",
+          "body": "Preço e fluxo com leitura de contexto, sempre atualizados."
+        }
+      ]
+    },
+    {
       "id": "2026-08-22-20h30",
       "date": "2026-08-22",
       "time": "20h30",
