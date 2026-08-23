@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-23-10h31",
+      "date": "2026-08-23",
+      "time": "10h31",
+      "hook": "O limite dos 77,5 mil segurou o preço a manhã inteira e acabou cedendo: BTC passou e cravou 77,8 mil, a maior marca das últimas 24 horas. Agora confere se o novo patamar fica de pé. Sem corrida alavancada por trás: o posicionamento segue quase neutro.",
+      "caption": "O topo que segurou a sessão foi furado e o preço agora valida a região acima.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-23-10h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-23-10h31",
+      "slides": [
+        {
+          "title": "77,8 mil: a maior marca do dia",
+          "body": "O topo que segurou a sessão foi furado e o preço agora valida a região acima."
+        },
+        {
+          "title": "US$ 77.515",
+          "body": "Δ1h +0,65% · Δ24h +0,44% · vol US$ 27,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Quebra em validação: furou o topo do dia e cravou máxima 24h em 77,8 mil · Smart money: funding +0,010% no mínimo e long/short 1,05, sem aglomeração",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A quebra agora passa por um teste",
+          "body": "77,0 mil logo abaixo (−0,66%), onde os closes se acumularam · 77,8 mil logo acima (+0,37%), a máxima recém-cravada",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Contexto fresco a cada 60 minutos",
+          "body": "Preço, fluxo e leitura de mercado atualizados hora a hora."
+        }
+      ]
+    },
+    {
       "id": "2026-08-23-08h30",
       "date": "2026-08-23",
       "time": "08h30",
