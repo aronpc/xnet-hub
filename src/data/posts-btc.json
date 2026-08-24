@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-24-09h31",
+      "date": "2026-08-24",
+      "time": "09h31",
+      "hook": "Segurou a manhã inteira, mas cedeu. O BTC passou dos 78 mil que vinham bloqueando o preço desde cedo e agora negocia a US$ 78,4 mil. E desta vez teve volume por trás.",
+      "caption": "O preço fechou a hora acima do antigo limite com volume 75% acima do normal. A hora seguinte segurou lá em cima.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-24-09h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-24-09h31",
+      "slides": [
+        {
+          "title": "78 mil finalmente cedeu",
+          "body": "O preço fechou a hora acima do antigo limite com volume 75% acima do normal. A hora seguinte segurou lá em cima."
+        },
+        {
+          "title": "US$ 78.428",
+          "body": "Δ1h +0,76% · Δ24h +1,81% · volume 24h US$ 34,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Duas velas de hora fechadas acima do antigo teto, com volume · ninguém se jogou junto: funding segue em +0,01% e o posicionamento está praticamente 50/49",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Otimismo 73 em cima da máxima do dia",
+          "body": "Sentimento lá em cima justamente quando o preço faz topo novo é receita de pegadinha. Vale confiar no fechamento da vela, não no pavio.",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "O antigo teto virou chão",
+          "body": "78.050 é o piso a −0,6% · 79.000 é o número redondo seguinte, a +0,6%",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-24-07h30",
       "date": "2026-08-24",
       "time": "07h30",
