@@ -2,6 +2,64 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-24",
+      "date": "2026-08-24",
+      "hook": "Skills & MCP de 24 de agosto: a camada virou infra",
+      "caption": "Agentes pagando sozinhos na borda da Cloudflare, scanner de segurança no install de skills, formato universal de empacotamento e record/replay de sessão MCP. O ciclo de autor, distribuição, confiança e teste fechou. Sete histórias pra ficar em dia.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-24",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-24",
+      "slides": [
+        {
+          "title": "Skills & MCP de 24 de agosto: a camada virou infra",
+          "body": "Agentes pagando sozinhos na borda da Cloudflare, scanner de segurança no install de skills, formato universal de empacotamento e record/replay de sessão MCP. O ciclo de autor, distribuição, confiança e teste fechou. Sete histórias pra ficar em dia."
+        },
+        {
+          "title": "Cloudflare Wallets + x402: agentes pagam sozinhos",
+          "body": "A Cloudflare lançou Wallets, com pagamento nativo e identidade verificável para agentes, com limite de gasto configurável. Junto com a Coinbase, criou a x402 Foundation, que trouxe o protocolo para o Agents SDK e para MCP servers. Mais de 20 empresas já operam em fluxos de pagamento iniciados por agente.",
+          "source": {
+            "label": "blog.cloudflare.com — ago",
+            "url": "https://blog.cloudflare.com/wallets/"
+          }
+        },
+        {
+          "title": "Claude Code lidera ranking de sessões autônomas longas",
+          "body": "Ranking de agosto coloca Claude Code em primeiro para sessões autônomas longas de código, com profundidade de hooks, subagents e workflows dinâmicos. Codex CLI leva em autonomia de PR na nuvem, Cursor em editor, Gemini CLI e Copilot fecham o top 5.",
+          "source": {
+            "label": "AITools Recap — 24 ago",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-august-24-2026"
+          }
+        },
+        {
+          "title": "kendex: escreva a skill uma vez, instale em todo harness",
+          "body": "Package manager para agentes, skills, hooks e extensões com autoria única e instalação em múltiplos harnesses. Skill de Claude, plugin de Cursor e skill de Codex deixam de ser três coisas diferentes. Push de hoje, 64 estrelas.",
+          "source": "github.com/vanillagreencom/kendex"
+        },
+        {
+          "title": "SkillVet: gate de segurança na instalação de skills",
+          "body": "Scanner que detecta conteúdo malicioso em Agent Skills na instalação, cobrindo Claude Code e Cowork. É um gate devsecops contra exfiltração de dados por skill.",
+          "source": "github.com/V3r7ig0/skillvet"
+        },
+        {
+          "title": "Suite de skills evidence-first: verificar falhando pela razão certa",
+          "body": "Seis skills abertas para Claude Code e Codex cobrindo investigação guiada por evidência, verificação de teste de regressão, ship de apps mobile, análise de dados e objetivo-virando-prova. O destaque é o verify-regression-tests: o teste falhou pela razão que devia falhar?",
+          "source": "github.com/aiopshwang/verify-regression-tests"
+        },
+        {
+          "title": "mcp-replay: grave a sessão MCP real e teste contra ela",
+          "body": "Ferramenta que grava uma sessão MCP real uma vez e depois reproduz a gravação contra builds novas do server para pegar regressão. Record e replay pra quem desenvolve MCP server.",
+          "source": "github.com/shriramkv/mcp-replay"
+        },
+        {
+          "title": "comfyui-mcp e cbmman: skill+MCP num produto, memória com tooling",
+          "body": "comfyui-mcp (658 estrelas) junta MCP server e skill Claude Code num control plane local-first de geração de imagem. E o cbmman é um TUI para gerenciar projetos de Codebase-Memory-MCP, prova de que a camada de memória via MCP já tem ecossistema próprio.",
+          "source": "github.com/artokun/comfyui-mcp"
+        },
+        {
+          "title": "O ciclo fechou: autor, distribuir, confiar, testar",
+          "body": "Pagamento nativo pra agentes que consomem MCP, scanner de segurança no install, formato universal de empacotamento e replay de sessão pra testar server. Cada elo da cadeia de skills e MCP ganhou ferramenta própria essa semana. Quando as peças de infraestrutura se encaixam desse jeito, é porque a categoria deixou de ser aposta e virou alicerce."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-24",
       "date": "2026-08-24",
       "hook": "Projetos de 24 de agosto: agentes auditáveis",
