@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-24-07h30",
+      "date": "2026-08-24",
+      "time": "07h30",
+      "hook": "A madrugada inteira foi passada testando o piso de 77 mil. A manhã chegou e o BTC apareceu do outro lado da faixa: US$ 77,9 mil, colado na máxima do dia, com o dobro do volume normal girando.",
+      "caption": "De encostar no piso a encostar no teto em sete horas. Falta menos de 0,3% pra derrubar o topo de 78.052.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-24-07h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-24-07h30",
+      "slides": [
+        {
+          "title": "Atravessou a faixa de uma vez",
+          "body": "De encostar no piso a encostar no teto em sete horas. Falta menos de 0,3% pra derrubar o topo de 78.052."
+        },
+        {
+          "title": "US$ 77.876",
+          "body": "Δ1h +0,59% · Δ24h +1,47% · volume 24h US$ 31,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Máxima 24h a +0,2% com funding neutro e L/S em 51/49 · a alta não depende de crowd, não tem aposta lotada em lado nenhum",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O dobro de volume, justo no teto",
+          "body": "US$ 31,8bi girando exatamente quando o preço encostou na máxima 24h. Sentimento em 73 (ganância) pede confirmação acima de 78 mil pra virar convicção.",
+          "source": "https://www.coinglass.com/pro/futures/Bitcoin"
+        },
+        {
+          "title": "78 mil decide se a faixa acabou",
+          "body": "Teto de 78.052 a +0,2% do preço · piso de 77.000 a −1,1%",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-24-02h30",
       "date": "2026-08-24",
       "time": "02h30",
