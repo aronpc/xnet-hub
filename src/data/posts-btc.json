@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-23-23h30",
+      "date": "2026-08-23",
+      "time": "23h30",
+      "hook": "O empurrão da noite durou pouco. O Bitcoin rondou os 78 mil, não conseguiu fechar acima e já devolveu boa parte do caminho: está em 77,4 mil, de novo dentro da faixa de 75,5 a 78 mil que vigora desde cedo. O volume chamou atenção, US$ 30,9bi girados, o dobro do normal para o horário. Com o termômetro de sentimento em 73, zona de ganância, movimento forte nesse ponto costuma indicar cansaço antes de continuidade. A leitura do dia segue de alta, só que o teto mandou o preço de volta.",
+      "caption": "O avanço da noite foi devolvido; BTC segue dentro da faixa de 75,5 a 78 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-23-23h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-23-23h30",
+      "slides": [
+        {
+          "title": "O teto mandou o preço de volta",
+          "body": "O avanço da noite foi devolvido; BTC segue dentro da faixa de 75,5 a 78 mil."
+        },
+        {
+          "title": "US$ 77.415",
+          "body": "Δ1h +0,20% · Δ24h +0,41% · vol US$ 30,9bi (2× o usual)",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Recuperação na parte alta da faixa 24h, a 0,8% do topo · Smart Money: funding +0,01% neutro + L/S 1,05 (51% longs)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Volume dobrado com o clima esquentando",
+          "body": "US$ 30,9bi é o dobro do típico; com F&G em 73, o quadro aponta exaustão potencial",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "A faixa segue de pé",
+          "body": "Piso da hora em US$ 76.900 (−0,7%) · topo em US$ 78.000 (+0,7%), máxima 24h em 78.052",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-23-18h30",
       "date": "2026-08-23",
       "time": "18h30",
