@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-24",
+      "date": "2026-08-24",
+      "hook": "IA de 24 de agosto: a semana do repricing",
+      "caption": "A Anthropic cancelou o aumento do Sonnet 5 na véspera dele valer. O dia 31 de agosto virou prazo de validade para dois modelos de código. E a Nvidia entrou de vez no jogo de dona de aplicação de IA. Sete histórias pra ficar em dia.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-24",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-24",
+      "slides": [
+        {
+          "title": "IA de 24 de agosto: a semana do repricing",
+          "body": "A Anthropic cancelou o aumento do Sonnet 5 na véspera dele valer. O dia 31 de agosto virou prazo de validade para dois modelos de código. E a Nvidia entrou de vez no jogo de dona de aplicação de IA. Sete histórias pra ficar em dia."
+        },
+        {
+          "title": "Anthropic cancela o aumento do Sonnet 5",
+          "body": "O preço introdutório de 2 dólares por milhão de tokens de entrada e 10 de saída virou o padrão. O aumento para 3 e 15, agendado para 1º de setembro, não vai acontecer, confirma a página de pricing. O tokenizer novo segue valendo: o mesmo texto gera cerca de 30% mais tokens.",
+          "source": {
+            "label": "docs.anthropic.com — 24 ago",
+            "url": "https://docs.anthropic.com/en/docs/about-claude/pricing"
+          }
+        },
+        {
+          "title": "Fable 5 empaca em 11% do gasto com Anthropic",
+          "body": "Dados da Ramp mostram o Fable 5 estacionado em cerca de 11% do que as empresas gastam em ferramentas da Anthropic, quase três meses depois do lançamento. As empresas estão escolhendo os modelos mais baratos da casa.",
+          "source": {
+            "label": "Financial Times — 24 ago",
+            "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
+          }
+        },
+        {
+          "title": "31 de agosto: dois ecossistemas desligam modelos",
+          "body": "Segunda-feira que vem, o GPT-5.4 e o 5.4 mini saem do Codex para quem entra com conta ChatGPT, e o Kimi K2.5 entra em sunset com migração para o K3. Mais na fila: DeepSeek chat e reasoner em 24 de outubro e o fim da promoção do GPT-5.6 Sol perto de 21 de novembro.",
+          "source": {
+            "label": "AITools Recap — 24 ago",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-august-24-2026"
+          }
+        },
+        {
+          "title": "Nvidia negocia entrar no Perplexity a 30 bilhões",
+          "body": "A Nvidia discute liderar um investimento no Perplexity com valuation acima de 30 bilhões de dólares, depois de avaliar um deal de licenciamento de tecnologia. Vem na sequência dos 6 bilhões na Poolside e dos 20 bilhões em discussão no Mercor.",
+          "source": {
+            "label": "The Information — 24 ago",
+            "url": "https://www.theinformation.com/articles/nvidia-discusses-perplexity-investme"
+          }
+        },
+        {
+          "title": "Deal da Poolside vai virar modelo aberto contra os chineses",
+          "body": "O acordo de 6 bilhões com a Poolside, com 1 bilho investido, será usado para a Nvidia construir um modelo open-weight forte, competindo com os modelos chineses. É o WSJ que conta o plano.",
+          "source": {
+            "label": "WSJ — 24 ago",
+            "url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful"
+          }
+        },
+        {
+          "title": "Anthropic contrata o homem do TPU do Google",
+          "body": "Amir Salek, que comandou o negócio de TPU no Google até 2022, chegou ao time de compute da Anthropic como parte do esforço de desenvolver chip próprio. Na véspera do IPO, com banqueiros falando em 100 bilhões e valuation de 2 trilhões.",
+          "source": {
+            "label": "Bloomberg — 21 ago",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-pus"
+          }
+        },
+        {
+          "title": "Texas: data centers \"cavaram a própria cova\"",
+          "body": "O governador Greg Abbott disse que as empresas de data center cavaram a própria cova ao chegarem em comunidades sem buscar apoio local. O memo interno do GOP já pedia às empresas de IA conter a reação pública sob risco de perder eleições.",
+          "source": {
+            "label": "Axios — 23 ago",
+            "url": "https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash"
+          }
+        },
+        {
+          "title": "Robô da Honor corre 100 metros em 9,39",
+          "body": "Nos World Humanoid Robot Games, em Pequim, um robô da Honor completou os 100 metros em 9,39 segundos, marca de referência do evento, e outro robô chinês fechou os 400 metros. Unitree prevê consolidação do setor.",
+          "source": {
+            "label": "The Telegraph — 23 ago",
+            "url": "https://www.telegraph.co.uk/world-news/2026/08/23/robot-tiangong-beats-human"
+          }
+        },
+        {
+          "title": "A guerra de preço chegou antes da guerra de agentes",
+          "body": "O cancelamento do aumento do Sonnet e o dado da Ramp contam a mesma história: o dinheiro corporativo está no tier médio, e quem cobrar caro pelo topo de linha fica de fora. Enquanto isso, a Nvidia compra posição na aplicação e o prazo de 31 de agosto força migração em cadeia. E do lado de fora dos data centers, a paciência das comunidades acabou. Barato, auditável e bem-vindo no bairro: esse é o padrão agora."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-23",
       "date": "2026-08-23",
       "hook": "Skills e MCP de 23 de agosto: o protocolo cresceu para cima",
