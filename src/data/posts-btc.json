@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-24-12h30",
+      "date": "2026-08-24",
+      "time": "12h30",
+      "hook": "Cinco horas seguidas de ganho e o BTC parou a 0,1% dos 80 mil. Das duas últimas velas, cada uma negociou o triplo do volume habitual.",
+      "caption": "Preço a 0,1% do número redondo, máxima 24h em 79.989 e volume 3× a média nas últimas duas velas\n\nLeia: https://xbtc.aronpc.dev/#2026-08-24-12h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-24-12h30",
+      "slides": [
+        {
+          "title": "O teste dos 80 mil",
+          "body": "Preço a 0,1% do número redondo, máxima 24h em 79.989 e volume 3× a média nas últimas duas velas"
+        },
+        {
+          "title": "US$ 79.910",
+          "body": "Δ1h +0,76% · Δ24h +3,52% · volume 24h US$ 43,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Quinta vela 1h seguida de ganho, agora encostando em 80 mil · dinheiro emprestado calmo: funding +0,01% e 51,3% das contas apostando na queda",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "80 mil em discussão",
+          "body": "Máxima 24h 79.989, a +0,1% do preço · uma hora fechada abaixo de 79.350 devolve o mercado à faixa 78,6 a 79,3 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Hora de acompanhar",
+          "body": "Atualização de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-24-10h30",
       "date": "2026-08-24",
       "time": "10h30",
