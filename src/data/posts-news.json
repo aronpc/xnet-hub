@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-24",
+      "date": "2026-08-24",
+      "hook": "Projetos de 24 de agosto: agentes auditáveis",
+      "caption": "O dia foi de governança e observabilidade: firewall de prompt injection por token, proxy que mede o custo de cada tool, multi-agente em que ninguém se auto-aprova, e até um removedor de watermark que fez 760 estrelas em um dia. Sete repositórios pra ficar em dia.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-24",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-24",
+      "slides": [
+        {
+          "title": "Projetos de 24 de agosto: agentes auditáveis",
+          "body": "O dia foi de governança e observabilidade: firewall de prompt injection por token, proxy que mede o custo de cada tool, multi-agente em que ninguém se auto-aprova, e até um removedor de watermark que fez 760 estrelas em um dia. Sete repositórios pra ficar em dia."
+        },
+        {
+          "title": "Removedor de watermark de IA: 760 estrelas em 1 dia",
+          "body": "Repo criado ontem expurga watermarks de IA de múltiplos vendors: limpa texto Unicode invisível, aplica hooks de reescrita estatística e mexe nos metadados C2PA, EXIF e XMP. Vem empacotado como plugin de Claude Code e Codex, com skills incluídas.",
+          "source": "github.com/ShadowAqueduct/watermark-remover"
+        },
+        {
+          "title": "Cline 4.1.15: catálogo novo e o fix do MCP",
+          "body": "A 4.1.14 adicionou ao catálogo Fable 5, Grok 4.6 no Vertex, DeepSeek V4 Flash com visão, Qwen3.8 27B e mais sete modelos. A 4.1.15 corrige o toggle de MCP servers que não auto-aprovava tools selecionadas individualmente.",
+          "source": "github.com/cline/cline/releases/tag/v4.1.14"
+        },
+        {
+          "title": "Wbrowser: controle o Chrome onde você já está logado",
+          "body": "Repo novo que dirige a instância do Chrome em que o usuário já tem sessão, a partir do terminal ou de qualquer assistente de IA, com interface MCP e suporte cross-platform.",
+          "source": "github.com/w-partners/Wbrowser"
+        },
+        {
+          "title": "shifu: cerimônia conforme o tamanho da tarefa",
+          "body": "SHIFU (师父) ajusta quanta profundidade de processo o agente de código aplica conforme a complexidade do que foi pedido. Tarefa simples, pouco ritual; tarefa cabeluda, rigor de arquitetura.",
+          "source": "github.com/Longado/shifu"
+        },
+        {
+          "title": "Triad: nenhum agente assina a própria aprovação",
+          "body": "Design multi-agente em que nenhuma parte do sistema consegue aprovar o próprio trabalho, com ledger auditável das execuções reais junto com a implementação.",
+          "source": "github.com/Wu030616/Triad"
+        },
+        {
+          "title": "TokenTaint: firewall de injection por provenance de token",
+          "body": "Rastreia a origem de cada token do contexto pra bloquear prompt injection em agentes LLM. É taint-tracking de análise estática aplicado ao contexto do modelo.",
+          "source": "github.com/Krishita17/TokenTaint"
+        },
+        {
+          "title": "AgentWatt: proxy drop-in com custo por tool",
+          "body": "Proxy que se encaixa em harnesses de agentes e atribui custo por ferramenta chamada, com captura de trace, replay e análise do que foi gasto onde.",
+          "source": "github.com/ravjot-sudo/agentwatt"
+        },
+        {
+          "title": "De \"funciona\" pra \"auditável\"",
+          "body": "A safra de hoje empurra agentes de código pra maturidade: governança com ledger, injeção rastreada por token, custo medido por tool e cerimônia calibrada pela tarefa. O removedor de watermark no topo das estrelas lembra o outro lado: as mesmas técnicas que dão segurança ao pipeline dão evasão a quem quer burlar. A diferença vai estar em quem mede o que roda."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-24",
       "date": "2026-08-24",
       "hook": "IA de 24 de agosto: a semana do repricing",
