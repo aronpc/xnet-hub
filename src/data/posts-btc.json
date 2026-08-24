@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-24-00h31",
+      "date": "2026-08-24",
+      "time": "00h31",
+      "hook": "22 horas esperando o range escolher um lado. O BTC encostou no piso de 77 mil e parou lá, em US$ 77.141.",
+      "caption": "Vela tocou 77.022 e fechou colada no suporte, sem força pra baixo nem pra voltar.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-24-00h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-24-00h31",
+      "slides": [
+        {
+          "title": "O piso está sendo testado agora",
+          "body": "Vela tocou 77.022 e fechou colada no suporte, sem força pra baixo nem pra voltar."
+        },
+        {
+          "title": "US$ 77.141",
+          "body": "Δ1h −0,35% · Δ24h +0,21% · vol US$ 31,6bi, o dobro do usual",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Quase um dia inteiro preso entre 77,0k e 78,0k, agora na borda de baixo · Smart Money: funding +0,0100% e L/S 1,03, ninguém puxou pra nenhum lado",
+          "source": "https://www.coinglass.com/Funding"
+        },
+        {
+          "title": "Volume dobrado dentro de um mercado parado",
+          "body": "US$ 31,6bi girando num range de 1% há 22 horas. Essa combinação costuma terminar em movimento grande pra algum lado.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "A hora vai decidir a faixa",
+          "body": "Piso US$ 77.000 a −0,2% em teste · topo US$ 78.000 a +1,1%",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-23-23h30",
       "date": "2026-08-23",
       "time": "23h30",
