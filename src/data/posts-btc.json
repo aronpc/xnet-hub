@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-24-14h30",
+      "date": "2026-08-24",
+      "time": "14h30",
+      "hook": "Chegou a faltar 0,1% para os 80 mil e não deu. Na última hora o preço devolveu 1,4% e voltou para o meio da faixa do dia.",
+      "caption": "A máxima 24h em 79.989 ficou para trás; BTC negocia agora no meio da faixa de 76,7 a 80 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-08-24-14h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-24-14h30",
+      "slides": [
+        {
+          "title": "80 mil não passou de visita",
+          "body": "A máxima 24h em 79.989 ficou para trás; BTC negocia agora no meio da faixa de 76,7 a 80 mil"
+        },
+        {
+          "title": "US$ 78.605",
+          "body": "Δ1h −1,4% · Δ24h +1,8% · vol 24h US$ 49,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Cinco velas de ganho e depois a virada: a região de 79,5 mil ficou para trás e o mercado perdeu a direção · Smart Money: funding +0,01% e L/S 0,93 (52% short)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Faixa 77–80 mil no comando",
+          "body": "Acima de 79,5 mil, o topo de 80 mil volta ao debate; abaixo de 78 mil, o olho fica no fundo da faixa, em 77 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Hora de acompanhar",
+          "body": "Atualização de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-24-12h30",
       "date": "2026-08-24",
       "time": "12h30",
