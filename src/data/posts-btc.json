@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-24-02h30",
+      "date": "2026-08-24",
+      "time": "02h30",
+      "hook": "BTC US$ 77,1 mil · depois de quase um dia inteiro segurando, o mercado perdeu a linha dos 77 mil. E não fez força pra continuar",
+      "caption": "Dois fechamentos de 1h abaixo de 77 mil, mínimo 76.897, e o preço já voltou pra 77,1 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-24-02h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-24-02h30",
+      "slides": [
+        {
+          "title": "A linha cedeu. E ninguém assumiu",
+          "body": "Dois fechamentos de 1h abaixo de 77 mil, mínimo 76.897, e o preço já voltou pra 77,1 mil."
+        },
+        {
+          "title": "US$ 77.103",
+          "body": "Δ1h −0,13% · Δ24h +1,17% · volume 24h US$ 30,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Faixa um degrau abaixo e sem dono · funding +0,0100% e L/S 1,06: o dinheiro está neutro, ninguém puxa pra um lado",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "76.900 no radar",
+          "body": "Fechamento abaixo disso muda a conversa pra 76.400 · segurar e voltar a 77.500 recoloca o topo de 78.053 em jogo"
+        },
+        {
+          "title": "Degrau novo, jogo velho",
+          "body": "O mercado desceu um degrau e continuou parado. Quando ele decidir, o intraday conta primeiro."
+        }
+      ]
+    },
+    {
       "id": "2026-08-24-00h31",
       "date": "2026-08-24",
       "time": "00h31",
