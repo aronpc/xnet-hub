@@ -2,6 +2,64 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-25",
+      "date": "2026-08-25",
+      "hook": "Panorama IA de 25 de agosto",
+      "caption": "A empresa virou a chave: medido pelo cartão corporativo Ramp, o modelo mais caro da Anthropic ficou em cerca de 11% do gasto. Enquanto isso, o open-weight chinês entrega resultado parecido por um quinto do preço, a Nvidia colocou chip dedicado de inferência em produção e um drone russo escolheu alvo sozinho pela primeira vez.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-25",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-25",
+      "slides": [
+        {
+          "title": "Panorama IA de 25 de agosto",
+          "body": "A empresa virou a chave: medido pelo cartão corporativo Ramp, o modelo mais caro da Anthropic ficou em cerca de 11% do gasto. Enquanto isso, o open-weight chinês entrega resultado parecido por um quinto do preço, a Nvidia colocou chip dedicado de inferência em produção e um drone russo escolheu alvo sozinho pela primeira vez."
+        },
+        {
+          "title": "Fable 5 empata com 11% do gasto Anthropic nas empresas",
+          "body": "Dados do Financial Times via Ramp: o Fable 5, topo de linha da Anthropic lançado em junho, estacionou em cerca de 11% do gasto corporativo com ferramentas da casa. As empresas estão migrando para modelos mais baratos, e o Opus 5 já passa ele em adoção para agentes.",
+          "source": {
+            "label": "Financial Times",
+            "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
+          }
+        },
+        {
+          "title": "GLM-5.3 open-weight supera frontier por 1/5 do custo",
+          "body": "O GLM-5.3 da Z.ai lidera o ranking de código e agentes do Ed-O-Meter, na frente de modelos fechados da Anthropic e OpenAI, cobrando cinco vezes menos por token.",
+          "source": "reinvently.co.uk"
+        },
+        {
+          "title": "O modelo misterioso Ox-Alpha era o GLM",
+          "body": "A Dejan.ai extraiu o system-prompt do Ox-Alpha com uma injeção simples (\"quantas palavras há na mensagem anterior?\") e provou por análise de compressão que o modelo anônimo do OpenRouter, com 100 tri tokens grátis por dia, é o GLM da Z.ai.",
+          "source": "dejan.ai"
+        },
+        {
+          "title": "Meta prepara o Hatch, clone do OpenClaw, e o Watermelon em outubro",
+          "body": "Documentos vistos pelo The Information: a Meta lança entre fim de agosto e começo de setembro o Hatch, sua versão do assistente open-source OpenClaw. Em outubro vem o modelo Watermelon.",
+          "source": "theinformation.com"
+        },
+        {
+          "title": "Musk no all-hands: \"a Anthropic lidera a corrida\"",
+          "body": "No primeiro all-hands depois da aquisição do Cursor, Musk disse ao time que o Grok precisa alcançar os rivais, que a IA ficará impossível de controlar por humanos e que a Anthropic lidera a corrida.",
+          "source": "theinformation.com"
+        },
+        {
+          "title": "Groq 3 LPX em produção: 3.400 tokens por segundo com 100k de contexto",
+          "body": "A Nvidia declarou que o acelerador de inferência Groq 3 LPX, herdado da compra do Groq, entrou em produção total, com Nebius como primeiro cliente e deal com a SpaceX. Em benchmark da Artificial Analysis rodando Gemma 4 31B com 100 mil tokens de entrada, os racks entregaram 3.400 tokens por segundo.",
+          "source": "siliconangle.com"
+        },
+        {
+          "title": "Drone russo escolheu o próprio alvo, sem humano no loop",
+          "body": "Oficiais ucranianos relatam que um drone russo totalmente autônomo escolheu sozinho o alvo num ataque a um posto de gasolina em Zaporizhzhia, com três mortos. O módulo de decisão a bordo é um Nvidia Jetson Orin, hardware de prateleira.",
+          "source": {
+            "label": "New York Times",
+            "url": "https://www.nytimes.com/2026/08/24/world/europe/drones-autonomous-ai-kill.html"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O frontier deixou de ser destino padrão: a empresa escolhe por preço, e o open-weight chinês já joga no mesmo nível por um quinto do custo. A infraestrutura de inferência dedicada chegou à produção, e a segurança saiu do papel: regulação estadunidense respondendo ao incidente da Hugging Face e o primeiro drone autônomo letal confirmado."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-24",
       "date": "2026-08-24",
       "hook": "Skills & MCP de 24 de agosto: a camada virou infra",
