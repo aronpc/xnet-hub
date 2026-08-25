@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-25-11h30",
+      "date": "2026-08-25",
+      "time": "11h30",
+      "hook": "BTC em US$ 79.179 · a casa dos 78 mil aguentou o teste da manhã e o preço já devolveu metade da queda. Com volume dobrado, por enquanto é repique, não virada",
+      "caption": "Mínima em 78,6k e recuperação de +0,7%. O preço voltou para o meio do caminho do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-25-11h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-25-11h30",
+      "slides": [
+        {
+          "title": "A queda achou compradores",
+          "body": "Mínima em 78,6k e recuperação de +0,7%. O preço voltou para o meio do caminho do dia."
+        },
+        {
+          "title": "US$ 79.179",
+          "body": "Δ1h +0,68% · Δ24h −0,20% · vol US$ 51,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O repique parou no meio do range, sob a zona rejeitada de 79,3–79,4k · Fluxo: funding +0,01% neutro e 52% das contas vendidas",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "79,3–79,4 mil decide o dia",
+          "body": "Mínima 24h $78.000 (−1,5%) · topo $80.000 (+1,0%) · com volume 2× normal, extremos do dia pedem paciência",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Bitcoin de hora em hora, direto da fonte."
+        }
+      ]
+    },
+    {
       "id": "2026-08-25-09h31",
       "date": "2026-08-25",
       "time": "09h31",
