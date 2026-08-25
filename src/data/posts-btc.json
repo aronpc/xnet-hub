@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-25-06h30",
+      "date": "2026-08-25",
+      "time": "06h30",
+      "hook": "BTC em US$ 79.778 · o redondo de 80 mil não segurou: terceira vela seguida fechando embaixo, e o clima azedou de vez na madrugada",
+      "caption": "Três fechamentos de 1h seguidos abaixo dos 80 mil, sem repique com força. O sentimento mudou.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-25-06h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-25-06h30",
+      "slides": [
+        {
+          "title": "A defesa do redondo falhou",
+          "body": "Três fechamentos de 1h seguidos abaixo dos 80 mil, sem repique com força. O sentimento mudou."
+        },
+        {
+          "title": "US$ 79.778",
+          "body": "Δ1h −0,53% · Δ24h +3,08% · vol US$ 56,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O teto novo é o próprio redondo perdido · Fluxo: funding +0,0100% neutro e 53,3% das contas vendidas, agora no lucro",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "79,3k a 79,5k em teste",
+          "body": "É de onde o rali de ontem partiu · Perdida, o caminho de 79,0k abre · Recuperar 80,0k devolve o redondo ao debate",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Londres decide",
+          "body": "Queda com volume de madrugada pela metade (600 contra 1.407 BTC na média) tem pouco engenho. A abertura europeia mostra se a queda é de verdade."
+        }
+      ]
+    },
+    {
       "id": "2026-08-25-05h31",
       "date": "2026-08-25",
       "time": "05h31",
