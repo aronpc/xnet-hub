@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-25-16h30",
+      "date": "2026-08-25",
+      "time": "16h30",
+      "hook": "BTC em US$ 78.927 · terceira vez no dia que 79,5k devolve o preço, e a moeda volta a circular abaixo dos 79 mil. Oito horas dentro do mesmo canal, sem convicção para nenhum lado",
+      "caption": "Foram três tentativas de passar hoje, todas devolvidas. O preço recua, mas segue circulando na faixa do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-25-16h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-25-16h30",
+      "slides": [
+        {
+          "title": "79,5 mil não abre de jeito nenhum",
+          "body": "Foram três tentativas de passar hoje, todas devolvidas. O preço recua, mas segue circulando na faixa do dia."
+        },
+        {
+          "title": "US$ 78.927",
+          "body": "Δ1h −0,42% · Δ24h +0,11% · vol US$ 41,5bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O canal 78,1–81,3k completa a oitava hora seguida · Fluxo: funding +0,01% no neutro e 51,3% das contas vendidas",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Compressão pede paciência",
+          "body": "Faixa de baixo $78.100 (−1,0%) · topo do dia $79.500 (+0,7%) · vela atual com um terço do volume médio",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Bitcoin de hora em hora, direto da fonte."
+        }
+      ]
+    },
+    {
       "id": "2026-08-25-11h30",
       "date": "2026-08-25",
       "time": "11h30",
