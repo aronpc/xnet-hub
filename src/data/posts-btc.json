@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-25-02h31",
+      "date": "2026-08-25",
+      "time": "02h31",
+      "hook": "BTC volta a subir em US$ 80.640 · quatro horas seguidas acima dos 80 mil, e o topo do dia outra vez por perto",
+      "caption": "Depois de duas horas de recuo, o último fechamento voltou a 80,7 mil, a um passo do topo das últimas 24h.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-25-02h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-25-02h31",
+      "slides": [
+        {
+          "title": "A pausa durou pouco",
+          "body": "Depois de duas horas de recuo, o último fechamento voltou a 80,7 mil, a um passo do topo das últimas 24h."
+        },
+        {
+          "title": "US$ 80.640",
+          "body": "Δ1h +0,48% · Δ24h +4,72% · vol US$ 56,8bi, o dobro do normal",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Quatro fechamentos seguidos acima do redondo, agora encostando no teto de 81,3 mil · Smart Money: funding +0,0100% (neutro) e 53,5% das contas short (L/S 0,87)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O topo de 81,3 mil é o próximo teste",
+          "body": "Uma hora acima dele com volume aponta 82 mil · devolver 80 mil traz 79,3 mil a 79,5 mil de volta ao jogo"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Bitcoin de hora em hora, direto da fonte."
+        }
+      ]
+    },
+    {
       "id": "2026-08-25-01h30",
       "date": "2026-08-25",
       "time": "01h30",
