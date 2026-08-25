@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-25-05h31",
+      "date": "2026-08-25",
+      "time": "05h31",
+      "hook": "BTC em US$ 80.206 · seis horas de subida e, na primeira pressão, o redondo de 80 mil quase foi embora. Ficou. Agora é esperar o amanhecer",
+      "caption": "A mínima tocou 79,7 mil, o redondo segurou e o preço voltou para 80,2 mil na mão de nada. Vela da madrugada com volume bem abaixo da média.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-25-05h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-25-05h31",
+      "slides": [
+        {
+          "title": "O redondo resistiu, a alta perdeu o passo",
+          "body": "A mínima tocou 79,7 mil, o redondo segurou e o preço voltou para 80,2 mil na mão de nada. Vela da madrugada com volume bem abaixo da média."
+        },
+        {
+          "title": "US$ 80.206",
+          "body": "Δ1h −0,55% · Δ24h +4,25% · vol US$ 56,3bi, o dobro do habitual",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Pela primeira vez na noite, a faixa de 80,3 mil funcionou como teto · Smart Money: funding +0,0100% (neutro) e 53,4% das contas short (L/S 0,87)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Recuperar 80,7 mil muda a conversa",
+          "body": "Isso reabre o topo do dia em 81,3 mil · um fechamento abaixo de 80 mil devolve 79,3–79,5 mil ao debate"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Bitcoin de hora em hora, direto da fonte."
+        }
+      ]
+    },
+    {
       "id": "2026-08-25-02h31",
       "date": "2026-08-25",
       "time": "02h31",
