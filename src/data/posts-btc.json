@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-24-22h31",
+      "date": "2026-08-24",
+      "time": "22h31",
+      "hook": "Dez horas encolhido numa faixa de 300 dólares, e na última hora o BTC andou 1,4% e encostou na máxima do dia. Desta vez o movimento vem com volume: US$ 53 bilhões negociados em 24h, quase o dobro do normal.",
+      "caption": "O topo do dia (US$ 80 mil) está a 0,2% de distância, e a jornada inteira ficou entre 76,7 e 80 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-08-24-22h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-24-22h31",
+      "slides": [
+        {
+          "title": "Desta vez, com volume atrás",
+          "body": "O topo do dia (US$ 80 mil) está a 0,2% de distância, e a jornada inteira ficou entre 76,7 e 80 mil"
+        },
+        {
+          "title": "US$ 79.850",
+          "body": "Δ1h +1,39% · Δ24h +3,38% · vol 24h US$ 53bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "A espera de 10 horas cedeu com contratos abertos subindo (107,9k BTC), leitura de dinheiro novo · funding +0,0067% neutro · L/S 0,95",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Falta fechar a hora acima dos US$ 80 mil",
+          "body": "A faixa que cedeu vira referência de baixo: US$ 79,2k (−0,8%) · topo 24h no redondo: US$ 80,0k (+0,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Pulso de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-24-14h30",
       "date": "2026-08-24",
       "time": "14h30",
