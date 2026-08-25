@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-25",
+      "date": "2026-08-25",
+      "hook": "Skills e MCP de 25 de agosto",
+      "caption": "O ecossistema de skills ganhou censo com número: 3,8 milhões de skills em 9 meses, e a fatia fora do inglês já passa de 16%. Enquanto isso, a camada de governança do MCP se formou (gateway com política por tool, auditoria de skill antes de instalar) e o protocolo estendeu do agente-a-agente até o roteador da casa.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-25",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-25",
+      "slides": [
+        {
+          "title": "Skills e MCP de 25 de agosto",
+          "body": "O ecossistema de skills ganhou censo com número: 3,8 milhões de skills em 9 meses, e a fatia fora do inglês já passa de 16%. Enquanto isso, a camada de governança do MCP se formou (gateway com política por tool, auditoria de skill antes de instalar) e o protocolo estendeu do agente-a-agente até o roteador da casa."
+        },
+        {
+          "title": "Plicara: 3,8 milhões de skills, e 16,3% já não são em inglês",
+          "body": "Pesquisa do Plicara Labs sobre o dataset GitSkills (255.068 skills novas analisadas): a fatia escrita em idioma diferente do inglês foi de 13,0% para 16,3% em um trimestre. A spec SKILL.md da Anthropic, de outubro de 2025, já gerou 3,8 milhões de skills em 282.200 repositórios públicos.",
+          "source": "plicara.ai"
+        },
+        {
+          "title": "Claude Code v2.1.241 e Codex rust-v0.150: semana de estabilidade",
+          "body": "O CC v2.1.241 (23/08) traz só correções de confiabilidade, seguindo o Concise mode e o spellcheck das v2.1.237/238. O Codex emenda rust-v0.149.1 em 0.150.0-alpha.8 no dia seguinte.",
+          "source": "github.com/anthropics/claude-code/releases/tag/v2.1.241"
+        },
+        {
+          "title": "mcp-guardrail: gateway de segurança com política por tool e auditoria",
+          "body": "MCP server recém-publicado que funciona como gateway: impõe políticas de acesso por ferramenta, audita a atividade do agente e detecta segredos expostos no tráfego.",
+          "source": "github.com/KiaanKothari/mcp-guardrail"
+        },
+        {
+          "title": "skill-audit: audita SKILL.md antes de instalar",
+          "body": "Skill que audita outras skills (Claude Code, Codex, Cursor) sem nenhuma dependência: detecta prompt injection e problemas de qualidade no SKILL.md antes de ele entrar no harness.",
+          "source": "github.com/FrankFu916/skill-audit"
+        },
+        {
+          "title": "ax-platform-mcp: o Slack dos agentes long-running",
+          "body": "Remote MCP server criado ontem para agentes de longa duração se coordenarem: messaging, tasks e contexto compartilhado entre agentes, como uma rede de colaboração agent-native.",
+          "source": "github.com/pokemon225/ax-platform-mcp"
+        },
+        {
+          "title": "Marketplace oficial da Anthropic ganha CI com verificação de pin",
+          "body": "Commits de 21 a 24/08 no claude-plugins-community: novo plugin eli5 (explicação em HTML artifact) e CI com verificação determinística de pin estático para launchers MCP auto-executáveis, contra ataque de cadeia de suprimentos.",
+          "source": "github.com/anthropics/claude-plugins-community"
+        },
+        {
+          "title": "openwrt-mcp: MCP always-on dentro do roteador de casa",
+          "body": "MCP server hospedado no próprio roteador OpenWrt, always-on, com 6 ferramentas sobre o ubus e autorização por standing-policy. Em paralelo, um cliente YouTrack em Rust para coding agents.",
+          "source": "github.com/DawkliCrypto/openwrt-mcp"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Skill deixou de ser atalho de ferramenta para virar encodificação de processo, e agora o ecossistema responde com a camada que falta: governança. Gateway com política, auditoria pré-install e pin check no CI oficial na mesma semana."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-25",
       "date": "2026-08-25",
       "hook": "Projetos e repos de 25 de agosto",
