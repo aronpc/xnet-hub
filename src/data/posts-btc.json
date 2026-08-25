@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-25-19h31",
+      "date": "2026-08-25",
+      "time": "19h31",
+      "hook": "BTC em US$ 78.636 · depois de encostar na mínima de 24 horas, o preço deu o primeiro salto do dia para cima: 0,3% em uma hora, sem alarde. O curioso vem depois. O índice de sentimento segue em 74, ganância, enquanto o preço passou o dia inteiro caindo. Otimismo e gráfico apontando para lados diferentes.",
+      "caption": "Primeiro recuo para cima depois do teste da mínima de 24h. Movimento pequeno, volume discreto, mas quebra uma sequência de degraus para baixo que durou a tarde inteira.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-25-19h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-25-19h31",
+      "slides": [
+        {
+          "title": "Repique tímido, humor intacto",
+          "body": "Primeiro recuo para cima depois do teste da mínima de 24h. Movimento pequeno, volume discreto, mas quebra uma sequência de degraus para baixo que durou a tarde inteira."
+        },
+        {
+          "title": "US$ 78.636",
+          "body": "Δ1h +0,34% · Δ24h −0,19% · vol US$ 42,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Saiu da fila de degraus para baixo, ainda não virou alta: o preço segue no trecho de baixo do canal do dia ($77,9k a $81,3k). Sentimento em ganância 74 convivendo com preço no piso. Divergência dessas costuma comprar tempo antes do mercado escolher rumo.",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "Ninguém apostou ainda",
+          "body": "Funding a +0,009%, colado no zero. Long/Short em 1,01, meio a meio exato. Depois da queda de ontem, o dinheiro alavancado ficou na espera: nem comprador nem vendedor quer mostrar a cara primeiro.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Bitcoin de hora em hora, direto da fonte."
+        }
+      ]
+    },
+    {
       "id": "2026-08-25-18h30",
       "date": "2026-08-25",
       "time": "18h30",
