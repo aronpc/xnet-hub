@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-25-17h30",
+      "date": "2026-08-25",
+      "time": "17h30",
+      "hook": "BTC em US$ 78.794 · o salto da madrugada até 81,2 mil foi apagado por completo: preço encostado no menor valor das últimas 24 horas enquanto o termômetro de sentimento ainda marca ganância. Primeira leitura de baixa do dia, depois de horas e horas presas entre 78 e 81 mil",
+      "caption": "A escada de fechamentos para baixo durou o dia inteiro. Agora o preço roça o menor valor de ontem.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-25-17h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-25-17h30",
+      "slides": [
+        {
+          "title": "A madrugada foi apagada",
+          "body": "A escada de fechamentos para baixo durou o dia inteiro. Agora o preço roça o menor valor de ontem."
+        },
+        {
+          "title": "US$ 78.794",
+          "body": "Δ1h −0,2% · Δ24h +0,1% · vol US$ 41,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Escada de closes 1h descendente desde a manhã, preço na porta do mínimo 24h ($78.121) · Fluxo: funding +0,0095% neutro, L/S 1,01 com metade comprada e metade vendida, OI 107k sem alteração: alavancagem parada, sem lado dominante",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Tudo passa por 78,1 mil",
+          "body": "O chão de $78.100 (−0,8%) segue intocado; acima, o congestionamento de closes em $79.500 (+0,9%) é a primeira referência. O dia só muda de figura se um dos dois ceder",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Bitcoin de hora em hora, direto da fonte."
+        }
+      ]
+    },
+    {
       "id": "2026-08-25-16h30",
       "date": "2026-08-25",
       "time": "16h30",
