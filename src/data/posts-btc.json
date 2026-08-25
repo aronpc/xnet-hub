@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-25-18h30",
+      "date": "2026-08-25",
+      "time": "18h30",
+      "hook": "BTC em US$ 78.373 · o chão de 78 mil segurou o dia inteiro e agora começou a vergar: a mínima das últimas 24 horas ficou a menos de 500 dólares daqui. A descida é tranquila, com volume fraco, mas a direção já não é a mesma da manhã.",
+      "caption": "Depois de aguentar 78 mil o dia todo, o preço desceu ao trecho de baixo do intervalo do dia e roça a mínima de 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-25-18h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-25-18h30",
+      "slides": [
+        {
+          "title": "O chão vergou",
+          "body": "Depois de aguentar 78 mil o dia todo, o preço desceu ao trecho de baixo do intervalo do dia e roça a mínima de 24 horas."
+        },
+        {
+          "title": "US$ 78.373",
+          "body": "Δ1h −0,53% · Δ24h −0,67% · vol US$ 42,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Velas de 1h fechando em degraus desde o topo de $81,3k · Fluxo: funding +0,0090% no zero, L/S 1,02 meio a meio, OI de 106,8k BTC cedendo junto com o preço. Posicionamento sendo desfeito devagar, sem pressa de ninguém.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Mínima sob teste",
+          "body": "A mínima de 24h ($77.851, a ~0,5%) é a referência embaixo. Para o quadro mudar, 79,2 mil precisa voltar. Volume da última vela a 0,6× da média: pouca gente participando desta descida.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Bitcoin de hora em hora, direto da fonte."
+        }
+      ]
+    },
+    {
       "id": "2026-08-25-17h30",
       "date": "2026-08-25",
       "time": "17h30",
