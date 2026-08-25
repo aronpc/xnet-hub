@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-25",
+      "date": "2026-08-25",
+      "hook": "Projetos e repos de 25 de agosto",
+      "caption": "A pauta da semana em código aberto: agentes que não morrem no meio da tarefa, respostas com recibo visual (página exata do PDF, minuto exato do vídeo), um agente que se recusa a escrever código demais com 109 mil estrelas, e a porta dos fundos dos modelos frontier somando 49 mil.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-25",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-25",
+      "slides": [
+        {
+          "title": "Projetos e repos de 25 de agosto",
+          "body": "A pauta da semana em código aberto: agentes que não morrem no meio da tarefa, respostas com recibo visual (página exata do PDF, minuto exato do vídeo), um agente que se recusa a escrever código demais com 109 mil estrelas, e a porta dos fundos dos modelos frontier somando 49 mil."
+        },
+        {
+          "title": "StateM: checkpointing explícito para agentes de longa duração",
+          "body": "CLI runbook que dá controle stateful a execuções longas de agentes: o estado do agente é salvo em checkpoints explícitos e a sessão pode ser retomada ou resumida de onde parou.",
+          "source": "github.com/henryqin1997/statem"
+        },
+        {
+          "title": "RAG visual com DeepSeek V4 Flash cita página e timestamp",
+          "body": "Par de projetos chineses usando o DeepSeek V4-Flash Vision: num RAG de PDF, a resposta vem com o número da página e a imagem da página; no de vídeo, vem com minuto e segundo, e o trecho é recortado com keyframes.",
+          "source": "github.com/liangdabiao/deepseek-v4-flash-vision-video-rag"
+        },
+        {
+          "title": "Cline v4.1.15: toggle de MCP consertado e teto de 64 MiB no log",
+          "body": "Duas releases seguidas: a v4.1.15 corrige o toggle \"Use MCP servers\", que agora governa todas as ferramentas MCP sozinho (antes não fazia nada, regressão real de segurança), e a v4.1.14 renova o catálogo com Fable 5, Grok 4.6, Qwen3.8 e Gemma 4. No CLI, o event log do hub ganhou teto de 64 MiB, matando um bug de dezenas de GB em SQLite.",
+          "source": "github.com/cline/cline/releases/tag/v4.1.15"
+        },
+        {
+          "title": "OpenClaw beta.3 suporta o lineup GPT-5.6 completo",
+          "body": "A release beta adiciona o reasoning do GPT-5.6 Sol, Terra, Luna e Ultra no OpenClaw e no runtime Codex, relay CDP compatível com Puppeteer para sessões Chrome pareadas, e backup/restore verificado em SQLite.",
+          "source": "github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.3"
+        },
+        {
+          "title": "ponytail: o agente como o dev sênior mais preguiçoso da sala",
+          "body": "Projeto em trending com 109.899 estrelas cuja tese é que o melhor código é o que nunca é escrito: faz o agente rejeitar escopo antes de planejar e escrever menos. A descrição do repo é \"makes your AI agent think like the laziest senior dev\".",
+          "source": "github.com/DietrichGebert/ponytail"
+        },
+        {
+          "title": "ocr-it: OCR offline de região pinada, 121 pontos no HN",
+          "body": "Extensão Chrome criada em 21/08: pina uma região da tela uma vez e usa hotkey para paginar documentos que não deixam copiar. O OCR é 100% offline com Tesseract embutido, pronto para alimentar LLMs.",
+          "source": "github.com/thiagotigaz/ocr-it"
+        },
+        {
+          "title": "openhuman: cérebro local-first com memória de vida, 37k estrelas",
+          "body": "\"Personal AI super intelligence\" que constrói memória local-first da vida do usuário e orquestra uma frota de agentes por cima dela, com push ativo hoje.",
+          "source": "github.com/tinyhumansai/openhuman"
+        },
+        {
+          "title": "free-claude-code: 1,3 bilhão de tokens grátis e 49k estrelas",
+          "body": "Projeto criado em janeiro, em trending diário, que oferece Claude Code, Codex, Pi e OpenCode grátis do terminal, IDE e celular, com mais de 1,3 bilhão de tokens gratuitos anunciados.",
+          "source": "github.com/Alishahryar1/free-claude-code"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O centro de gravidade dos projetos migrou de features para operação: retomar sessão, caber no disco, respeitar o toggle, não escrever o que não precisa. E a citação verificável (página, keyframe, timestamp) aparece como padrão emergente de RAG."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-25",
       "date": "2026-08-25",
       "hook": "Panorama IA de 25 de agosto",
