@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-25-01h30",
+      "date": "2026-08-25",
+      "time": "01h30",
+      "hook": "BTC esfria em US$ 80.255 · depois do rali de 4%, mercado tira o pé e observa o topo de 81 mil",
+      "caption": "Duas velas de recuo desde $81,3k e o preço continua apoiado nos 80 mil. Digestão, por enquanto, e não virada.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-25-01h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-25-01h30",
+      "slides": [
+        {
+          "title": "O rali fez uma pausa",
+          "body": "Duas velas de recuo desde $81,3k e o preço continua apoiado nos 80 mil. Digestão, por enquanto, e não virada."
+        },
+        {
+          "title": "US$ 80.255",
+          "body": "Δ1h −0,44% · Δ24h +3,94% · vol US$ 56,7bi, o dobro do normal",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Hora sem definição após o rali · Smart Money: funding +0,0100% (neutro) e 54% das contas short (L/S 0,85)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "80 mil é a linha da hora",
+          "body": "Acima de $80,7k, volta a encarar o topo $81,3k · abaixo de $80,0k, correção para $79,3k a $79,5k"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Bitcoin de hora em hora, direto da fonte."
+        }
+      ]
+    },
+    {
       "id": "2026-08-24-23h30",
       "date": "2026-08-24",
       "time": "23h30",
