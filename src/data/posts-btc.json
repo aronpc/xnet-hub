@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-25-09h31",
+      "date": "2026-08-25",
+      "time": "09h31",
+      "hook": "BTC em US$ 78.785 · 79 mil foi embora de manhã cedo e o preço desceu até a região de 78,4 mil a 78,7 mil, exatamente o trecho de onde a subida de ontem começou. O teste que faltava",
+      "caption": "Closes de 1h em queda desde 79,9 mil. Chegou ao trecho que deu origem à alta de ontem, pela primeira vez desde então.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-25-09h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-25-09h31",
+      "slides": [
+        {
+          "title": "O rali voltou pra casa",
+          "body": "Closes de 1h em queda desde 79,9 mil. Chegou ao trecho que deu origem à alta de ontem, pela primeira vez desde então."
+        },
+        {
+          "title": "US$ 78.785",
+          "body": "Δ1h −0,57% · Δ24h +0,41% · vol US$ 54,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "79,9 mil → 78,9 mil → agora na base do rali · Fluxo: funding +0,01% neutro e 53% das contas vendidas",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A hora é da base do rali",
+          "body": "Piso $78.400 (−0,5%) · Teto $79.000 (+0,3%), o redondo perdido · Vela com metade do volume médio, queda sem pressa",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Bitcoin de hora em hora, direto da fonte."
+        }
+      ]
+    },
+    {
       "id": "2026-08-25-07h30",
       "date": "2026-08-25",
       "time": "07h30",
