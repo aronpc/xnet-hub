@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-25-07h30",
+      "date": "2026-08-25",
+      "time": "07h30",
+      "hook": "BTC em US$ 79.254 · foi na janela europeia que 79,5 mil cedeu. Agora o preço encosta em 79,0–79,3 mil, o último degrau antes de 78,4–78,7 mil, a região de onde a subida de ontem saiu",
+      "caption": "A pressão continuou depois que 79,5 mil virou teto. Falta saber se o piso da zona aguenta.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-25-07h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-25-07h30",
+      "slides": [
+        {
+          "title": "Um degrau abaixo",
+          "body": "A pressão continuou depois que 79,5 mil virou teto. Falta saber se o piso da zona aguenta."
+        },
+        {
+          "title": "US$ 79.254",
+          "body": "Δ1h −0,66% · Δ24h +1,81% · vol US$ 56,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Topos cada vez mais baixos desde 81,3 mil e 79,5 mil perdido de vez · Fluxo: funding +0,0100% neutro e 53,6% das contas vendidas, agora no lucro",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "79,0 mil decide a hora",
+          "body": "Suporte $79.000 (−0,3%) · Resistência $79.500 (+0,3%) · Volume a ⅓ da média tira força da queda",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Bitcoin de hora em hora, direto da fonte."
+        }
+      ]
+    },
+    {
       "id": "2026-08-25-06h30",
       "date": "2026-08-25",
       "time": "06h30",
