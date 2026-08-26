@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-26",
+      "date": "2026-08-26",
+      "hook": "Skills e MCP em 26 de agosto",
+      "caption": "A palavra do dia é contenção: skills que impedem o agente de complicar, guardrails híbridos e fixes do Claude Code nos bugs de MCP que afetam cron. Fora isso, LLM dentro do LSP e frontier numa GPU de 24GB. Nove achados.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-26",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-26",
+      "slides": [
+        {
+          "title": "Skills e MCP em 26 de agosto",
+          "body": "A palavra do dia é contenção: skills que impedem o agente de complicar, guardrails híbridos e fixes do Claude Code nos bugs de MCP que afetam cron. Fora isso, LLM dentro do LSP e frontier numa GPU de 24GB. Nove achados."
+        },
+        {
+          "title": "Dupla release corrige MCP em headless",
+          "body": "A v2.1.245 corrige crash no Linux com glibc 2.44. A v2.1.246, do dia 25, traz aba Auto mode em /permissions, warning pra allow rules Bash com wildcard antes do subcomando, e corrige: chamadas de MCP interrompidas que apareciam como concluídas sem output, args de MCP enviados como string quando o schema é vazio, e sessões em background falhando com EACCES.",
+          "source": {
+            "label": "GitHub releases",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.246"
+          }
+        },
+        {
+          "title": "Que linguagens as skills falam?",
+          "body": "O Plicara, que indexa 3,8 milhões de skills, mapeou as linguagens de autoria: Markdown no SKILL.md domina, e scripts auxiliares em Python e JavaScript crescem. A thread no Hacker News discute o que conta como código numa skill.",
+          "source": {
+            "label": "plicara.ai",
+            "url": "https://plicara.ai/research/agent-skill-languages/"
+          }
+        },
+        {
+          "title": "midwit: skill que cobra justificativa",
+          "body": "Skill de Claude Code que exige que cada peça de complexidade se justifique antes de entrar. O alvo é o midwit loop, o agente que adiciona abstrações que ninguém pediu.",
+          "source": {
+            "label": "github.com/coopersimson96",
+            "url": "https://github.com/coopersimson96/midwit"
+          }
+        },
+        {
+          "title": "ax-platform: Slack pros agentes de longa duração",
+          "body": "MCP server remoto de rede de colaboração agent-native: mensagens, canais e handoffs entre agentes que rodam por longos períodos, inclusive de usuários diferentes.",
+          "source": {
+            "label": "github.com/pokemon225",
+            "url": "https://github.com/pokemon225/ax-platform-mcp"
+          }
+        },
+        {
+          "title": "mattn põe LLM dentro do LSP",
+          "body": "O veterano do Go publicou um Language Server cujo backend é uma API compatível com OpenAI. O editor ganha autocomplete e diagnóstico dirigidos por modelo, sem client de MCP no caminho.",
+          "source": {
+            "label": "github.com/mattn",
+            "url": "https://github.com/mattn/llm-lsp"
+          }
+        },
+        {
+          "title": "AgentSeed: skill ensina, MCP executa",
+          "body": "Projeto empacota seis tools de verificação anti-alucinação num combo de Skill pra instruções e MCP server pra ferramentas, com o padrão híbrido como arquitetura explícita de produto.",
+          "source": {
+            "label": "github.com/Morningstar202604",
+            "url": "https://github.com/Morningstar202604/AgentSeed"
+          }
+        },
+        {
+          "title": "Primeira skill de comunicação com tração",
+          "body": "O open-steps publica skills no padrão SKILL.md que convertem relatórios de agente em linguagem direta pra stakeholder não técnico. É a primeira skill de comunicação a aparecer no GitHub trending.",
+          "source": {
+            "label": "github.com/kharmanskyi",
+            "url": "https://github.com/kharmanskyi/open-steps"
+          }
+        },
+        {
+          "title": "turing: 753B numa GPU de 24GB",
+          "body": "Runtime de serving de alto throughput que roda modelos de 70B a 753B numa RTX 4090 com 24GB, na onda de speculative decoding e offloading.",
+          "source": {
+            "label": "github.com/intutic",
+            "url": "https://github.com/intutic/turing"
+          }
+        },
+        {
+          "title": "codegate-leader: o porquê da decisão",
+          "body": "Workspace local-first de planejamento, handoff e evidência pros agentes de código, com rastreabilidade do que o agente decidiu e por quê.",
+          "source": {
+            "label": "github.com/Ssen-ai1",
+            "url": "https://github.com/Ssen-ai1/codegate-leader"
+          }
+        },
+        {
+          "title": "Qualidade virou contenção",
+          "body": "Skills que cobram justificativa antes de criar, guardrails híbridos, fixes silenciosos de MCP em headless. O esforço da comunidade se moveu: menos em fazer o agente produzir mais, mais em conter o que ele produz. E quem roda agente em cron, como a gente, sente essa virada primeiro."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-26",
       "date": "2026-08-26",
       "hook": "Projetos e repos em 26 de agosto",
