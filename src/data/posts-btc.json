@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-26-07h30",
+      "date": "2026-08-26",
+      "time": "07h30",
+      "hook": "A sequência de quedas da madrugada parou: Bitcoin saiu do fundo local de US$ 78.244 e segura em US$ 78.599, ainda sem fôlego pra voltar ao chão de ontem.",
+      "caption": "A recuperação cortou a série de velas vermelhas, e a perda em 24h encolheu pra 0,8%\n\nLeia: https://xbtc.aronpc.dev/#2026-08-26-07h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-26-07h30",
+      "slides": [
+        {
+          "title": "O mercado respirou",
+          "body": "A recuperação cortou a série de velas vermelhas, e a perda em 24h encolheu pra 0,8%"
+        },
+        {
+          "title": "US$ 78.599",
+          "body": "Δ1h +0,44% · Δ24h −0,83% · volume US$ 31,9bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O repique do fundo vingou, mas ninguém empurra o preço de volta pra 78,9 mil · funding +0,0097% e L/S 1,01: capital neutro, na espera",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Faixa apertada",
+          "body": "Chão do dia em US$ 78.000 (−0,76%), mínimo 24h em 77.851 logo abaixo · teto em 78.900 (+0,38%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-26-06h30",
       "date": "2026-08-26",
       "time": "06h30",
