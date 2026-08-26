@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-26",
+      "date": "2026-08-26",
+      "hook": "IA em 26 de agosto",
+      "caption": "O dia foi de grana e silício. A Anthropic leva um mercado de 30 trilhões de dólares pra Wall Street, a OpenAI publica os primeiros números do chip dela, e o ChatGPT corta o Reddit das citações quase da noite pro dia. Nove histórias, direto ao ponto.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-26",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-26",
+      "slides": [
+        {
+          "title": "IA em 26 de agosto",
+          "body": "O dia foi de grana e silício. A Anthropic leva um mercado de 30 trilhões de dólares pra Wall Street, a OpenAI publica os primeiros números do chip dela, e o ChatGPT corta o Reddit das citações quase da noite pro dia. Nove histórias, direto ao ponto."
+        },
+        {
+          "title": "Anthropic vê US$ 30 tri de receita no IPO",
+          "body": "No roadshow do IPO, com captação acima de 100 bilhões e valuation de até 2 trilhões sinalizados pelos banqueiros, a Anthropic vai apresentar um TAM de mais de 30 trilhões de dólares. O run rate anualizado em maio era de 47 bilhões.",
+          "source": {
+            "label": "WSJ — 25 ago",
+            "url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea"
+          }
+        },
+        {
+          "title": "Jalapeño: 1,5 a 1,9× mais trabalho por watt",
+          "body": "No Hot Chips, a OpenAI soltou os números do ASIC feito com a Broadcom em 16 meses: 1,5 a 1,9 vezes mais trabalho por watt que GB200 e GB300, e até 4,1× menos latência em cargas interativas. Os testes foram rodados pela própria OpenAI, o chip não treina modelos, e não houve comparação com Vera Rubin.",
+          "source": {
+            "label": "openai.com — 25 ago",
+            "url": "https://openai.com/index/jalapeno-first-results/"
+          }
+        },
+        {
+          "title": "Reddit perde 86% das citações do ChatGPT",
+          "body": "Dados do Promptwatch: o reddit.com caiu de 3,83% para 0,52% de todas as citações do ChatGPT Search entre 14 e 17 de agosto, depois de uma mudança não anunciada no dia 8. Quem ganhou foi documentação de vendor e páginas de marca. No Google AI Overviews a queda foi de 11%, gradual.",
+          "source": {
+            "label": "Promptwatch via aitoolsrecap",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-august-26-2026"
+          }
+        },
+        {
+          "title": "Claude chat e Cowork passam a dividir memória",
+          "body": "Desde 25 de agosto as duas memórias são uma só: o Cowork começa a tarefa com o que o Claude aprendeu nos chats, e as memórias agora se formam durante a conversa, não só na revisão de fim de sessão. Só vale com Cowork na nuvem, não dá pra manter memórias separadas, e o default é ligado para Free, Pro e Max.",
+          "source": {
+            "label": "ZDNet — 25 ago",
+            "url": "https://www.zdnet.com/article/anthropic-claude-and-cowork-share-memories-now-unless-you-opt-out/"
+          }
+        },
+        {
+          "title": "Qwen3.8-Flash-Next sai hoje: 125B com 6B ativos",
+          "body": "A própria Alibaba publicou na ModelScope a página do Qwen3.8-Flash-Next com lançamento marcado pra hoje: um MoE de 125 bilhões com 6 bilhões ativos, sucessor da linha Flash. O post no Hacker News passou de 300 pontos.",
+          "source": {
+            "label": "ModelScope — 25 ago",
+            "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next"
+          }
+        },
+        {
+          "title": "Qwen3.8-27B passa de 1 milhão de downloads",
+          "body": "A Alibaba contou que o Qwen3.8-27B, liberado sob Apache 2.0 e com foco em coding do mundo real, passou de 1 milhão de downloads poucos dias depois do release. Um dos crescimentos mais rápidos da empresa.",
+          "source": {
+            "label": "Techmeme river",
+            "url": "https://www.techmeme.com/river"
+          }
+        },
+        {
+          "title": "O capital de IA descobre o mundo físico",
+          "body": "A Skild AI lançou o S1, foundation model de robótica que aprende tarefas nunca vistas in-context, sem fine-tuning por tarefa. No mesmo dia a Generalist captou 200 milhões depois do GEN-1, e a XPeng Robotics levantou 900 milhões com valuation de 6,3 bilhões, enquanto a World Robot Conference rolava em Beijing.",
+          "source": {
+            "label": "Skild AI / Axios",
+            "url": "https://www.skild.ai/blogs/s1"
+          }
+        },
+        {
+          "title": "M6 e M5 Ultra trazem frontier pro desktop",
+          "body": "A Apple anunciou o M6 em 2nm de 12 núcleos e o M5 Ultra quad-die em 3nm, primeiro da casa montado assim. Mac mini e Studio entregam até 4,3× mais performance de IA, e a base de memória unificada subiu. O anúncio passou de mil pontos no Hacker News.",
+          "source": {
+            "label": "Apple Newsroom",
+            "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/"
+          }
+        },
+        {
+          "title": "Stanford: IA bate mais forte nos juniores",
+          "body": "Estudo de Stanford, com cobertura da Ars Technica, mostra que a IA está encolhendo mais as vagas de nível de entrada do que as demais faixas de experiência.",
+          "source": {
+            "label": "Ars Technica",
+            "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
+          }
+        },
+        {
+          "title": "A conta fecha nos dois extremos",
+          "body": "Lá em cima, o IPO da Anthropic aposta num mercado de 30 trilhões. Aqui embaixo, chips próprios, Macs com M6 e modelos abertos da Alibaba derrubam o custo por token. Quem paga a conta do meio é quem depende de API fechada com preço de IPO. E a porta de entrada do mercado de trabalho sente o aperto primeiro."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-25",
       "date": "2026-08-25",
       "hook": "Skills e MCP de 25 de agosto",
