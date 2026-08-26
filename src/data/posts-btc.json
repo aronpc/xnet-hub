@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-25-23h31",
+      "date": "2026-08-25",
+      "time": "23h31",
+      "hook": "BTC em US$ 79.220 · o preço passou a noite subindo devagar, seis velas de alta em sequência, e saiu de 78,2k até encostar na área de venda dos 79,4k a 79,5k. Segue dentro do canal do dia (77,9k a 81,0k) e com metade do volume habitual. Daqui a pouco se sabe se a noite foi recuperação de verdade ou só mais um trecho do canal.",
+      "caption": "Seis velas de alta em sequência devolveram o preço à zona de 79,4k a 79,5k, a mesma que travou a última tentativa. O volume rodou na metade do usual: sobe, mas sem força pra convencer.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-25-23h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-25-23h31",
+      "slides": [
+        {
+          "title": "Repique firme até a área de venda",
+          "body": "Seis velas de alta em sequência devolveram o preço à zona de 79,4k a 79,5k, a mesma que travou a última tentativa. O volume rodou na metade do usual: sobe, mas sem força pra convencer."
+        },
+        {
+          "title": "US$ 79.220",
+          "body": "Δ1h +0,65% · Δ24h −2,1% · vol US$ 38,9bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Subida consistente dentro do canal do dia ($77,9k a $81,0k), parada justo na zona que segurou a tentativa anterior. O sentimento caiu de 74 para 65 e perdeu o excesso de confiança de ontem. Rumo só quando uma das pontas do canal ceder.",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "Perto, mas sem aposta",
+          "body": "Funding em +0,0066%, quase zero. Long/Short em 1,01, meio a meio. O dinheiro alavancado acompanha a subida sem aumentar posição: nenhum dos lados juntou pólvora pra um movimento brusco, pra cima ou pra baixo.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Bitcoin de hora em hora, direto da fonte."
+        }
+      ]
+    },
+    {
       "id": "2026-08-25-19h31",
       "date": "2026-08-25",
       "time": "19h31",
