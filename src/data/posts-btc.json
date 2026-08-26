@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-26-06h30",
+      "date": "2026-08-26",
+      "time": "06h30",
+      "hook": "Dez horas preso entre 78,8 e 79,3 mil, e a saída foi por baixo. Bitcoin a US$ 78.445, quinto fechamento horário seguido no vermelho",
+      "caption": "Preço na metade de baixo do canal e o repique não vingou; a perda em 24h já chega a 1,7%\n\nLeia: https://xbtc.aronpc.dev/#2026-08-26-06h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-26-06h30",
+      "slides": [
+        {
+          "title": "A faixa cedeu",
+          "body": "Preço na metade de baixo do canal e o repique não vingou; a perda em 24h já chega a 1,7%"
+        },
+        {
+          "title": "US$ 78.445",
+          "body": "Δ1h −0,67% · Δ24h −1,71% · volume US$ 32,9bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Cinco velas horárias no vermelho derrubaram a faixa que durou 10 horas · funding +0,0081% e L/S 1,01: dinheiro grande neutro, sem extremo",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Onde a hora decide",
+          "body": "Referência de baixo em US$ 78.000 (−0,57%), mín 24h logo abaixo em 77.851 · o teto novo é 78.900 (+0,58%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-25-23h31",
       "date": "2026-08-25",
       "time": "23h31",
