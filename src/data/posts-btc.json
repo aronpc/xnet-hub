@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-26-10h31",
+      "date": "2026-08-26",
+      "time": "10h31",
+      "hook": "O chão de 78 mil finalmente está sendo posto à prova. Bitcoin caiu pra US$ 78.025 depois de quatro horas seguidas de queda, e o piso que segurou o dia inteiro agora está a um impulso de ceder.",
+      "caption": "A maior queda por hora do dia encostou o preço exatamente na linha que sustentava tudo desde a madrugada\n\nLeia: https://xbtc.aronpc.dev/#2026-08-26-10h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-26-10h31",
+      "slides": [
+        {
+          "title": "Chegou no chão",
+          "body": "A maior queda por hora do dia encostou o preço exatamente na linha que sustentava tudo desde a madrugada"
+        },
+        {
+          "title": "US$ 78.025",
+          "body": "Δ1h −0,75% · Δ24h −0,82% · volume US$ 30,9bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Quatro fechamentos de hora em queda e OI subindo com preço caindo: dinheiro novo apostando contra · funding +0,0074% e L/S 1,05, sem exagero dos dois lados",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A hora do teste",
+          "body": "Chão do dia em US$ 78.000 (−0,03%), sendo tocado agora · topo da compressão em 78.900 (+1,12%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-26-07h30",
       "date": "2026-08-26",
       "time": "07h30",
