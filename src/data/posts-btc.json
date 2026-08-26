@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-26-18h30",
+      "date": "2026-08-26",
+      "time": "18h30",
+      "hook": "Pela quarta vez no dia o preço encostou na região de 78,7 mil, e o volume chegou pela metade do habitual: 280 BTC por vela contra 588 de média. O corredor de 77,6 a 79,3 mil já soma 15 horas sem escolher direção, com o preço em US$ 78.725.",
+      "caption": "O dia virou: o Δ24h saiu do negativo ao longo da tarde e o preço voltou a encarar o topo, ainda que sem força\n\nLeia: https://xbtc.aronpc.dev/#2026-08-26-18h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-26-18h30",
+      "slides": [
+        {
+          "title": "Quarto round no teto",
+          "body": "O dia virou: o Δ24h saiu do negativo ao longo da tarde e o preço voltou a encarar o topo, ainda que sem força"
+        },
+        {
+          "title": "US$ 78.725",
+          "body": "Δ1h +0,44% · Δ24h +0,39% · volume US$ 27,7bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O preço passou por pouco da zona de 78,6 a 78,7 mil, recusada três vezes hoje · funding +0,008% e L/S 1,05: ninguém se adiantou a pagar por direção",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O que tira o preço do corredor",
+          "body": "Fechar a hora acima de US$ 78.700 com volume abre caminho a 79.200 · perder US$ 78.000 devolve a visita a 77.600",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-26-12h30",
       "date": "2026-08-26",
       "time": "12h30",
