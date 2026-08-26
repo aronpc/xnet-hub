@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-26-12h30",
+      "date": "2026-08-26",
+      "time": "12h30",
+      "hook": "A queda passou por 78 mil, tocou 77,6 mil e voltou. O fundo mais baixo do dia apareceu com o maior volume das últimas 24 horas e não segurou a queda: o preço fechou a hora de volta acima de 78 mil, em US$ 78.086.",
+      "caption": "O ponto mais baixo do dia veio com força e foi comprado na sequência, mas a recuperação ainda é curta\n\nLeia: https://xbtc.aronpc.dev/#2026-08-26-12h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-26-12h30",
+      "slides": [
+        {
+          "title": "O fundo reagiu",
+          "body": "O ponto mais baixo do dia veio com força e foi comprado na sequência, mas a recuperação ainda é curta"
+        },
+        {
+          "title": "US$ 78.086",
+          "body": "Δ1h −0,16% · Δ24h −1,43% · volume US$ 29,8bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A faixa de 77,6 a 79,5 mil segue de pé depois do susto · funding +0,0067% e L/S 1,05: capital posicionado dos dois lados, sem aposta desproporcional",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Repique sem convicção",
+          "body": "A vela de volta teve 453 BTC contra 1.051 BTC na queda: a recuperação veio com menos da metade do volume do tombo",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-26-10h31",
       "date": "2026-08-26",
       "time": "10h31",
