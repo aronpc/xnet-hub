@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-26",
+      "date": "2026-08-26",
+      "hook": "Projetos e repos em 26 de agosto",
+      "caption": "O tema do dia é contexto: compressão de docs pro agente, memória de tela sem screenshot e índice web só pra agentes. Fora isso, skills de companhia, agente 100% local e a Stability resolvendo a briga com a indústria criativa. Oito achados.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-26",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-26",
+      "slides": [
+        {
+          "title": "Projetos e repos em 26 de agosto",
+          "body": "O tema do dia é contexto: compressão de docs pro agente, memória de tela sem screenshot e índice web só pra agentes. Fora isso, skills de companhia, agente 100% local e a Stability resolvendo a briga com a indústria criativa. Oito achados."
+        },
+        {
+          "title": "GitHub Next comprime docs pela metade",
+          "body": "Protótipo do GitHub Next aceita artigos como entrada e reduz iterativamente a contagem de tokens mantendo o conhecimento utilizável. Na demo, um documento de 996 tokens foi pra 480, 52% a menos, sem perda substancial de utilidade pra modelos.",
+          "source": {
+            "label": "githubnext.com — 24 ago",
+            "url": "https://githubnext.com/posts/knowledge-compressor/"
+          }
+        },
+        {
+          "title": "ambient-context: memória de tela em texto",
+          "body": "App de menu bar que mantém registro escrito do que você trabalhou: em vez de gravar a tela, captura o texto dela em Markdown pra alimentar a memória de contexto de agentes. Fez 116 estrelas no primeiro dia.",
+          "source": {
+            "label": "github.com/dragthelake",
+            "url": "https://github.com/dragthelake/ambient-context"
+          }
+        },
+        {
+          "title": "wenai: a cauda longa quer companhia",
+          "body": "Skill de companion íntimo com memória pro OpenClaw. O repo nasceu no dia 25 e virou o repo de IA mais estrelado do dia no GitHub, com 107 estrelas nas primeiras horas.",
+          "source": {
+            "label": "github.com/Straniero44",
+            "url": "https://github.com/Straniero44/wenai"
+          }
+        },
+        {
+          "title": "Keenable indexa a web só pra agentes",
+          "body": "Startup acelerada pela Accel constrói um índice de busca dedicado a agentes de IA e diz que vários labs já são clientes. O TechCrunch cobriu o lançamento e o Show HN rendeu thread ativa.",
+          "source": {
+            "label": "TechCrunch — 25 ago",
+            "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
+          }
+        },
+        {
+          "title": "Cline junta tudo num hub Customize",
+          "body": "A v0.0.17 do desktop une Plugins, MCP, Skills, Rules, Hooks e Tools numa única tela com abas e contadores ao vivo. A página de Models foi redesenhada com OAuth por provider, e as sessões passam a ficar agrupadas por projeto.",
+          "source": {
+            "label": "cline releases",
+            "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.17"
+          }
+        },
+        {
+          "title": "Stability acha o modelo de negócio: licença",
+          "body": "A Stability captou 76 milhões de dólares com deals de IP com Universal, Warner e EA. A tese agora é treinar no catálogo do detentor, com licença embutida.",
+          "source": {
+            "label": "Variety",
+            "url": "https://variety.com/2026/biz/news/stability-ai-raises-76-million-funding-round-1236842351/"
+          }
+        },
+        {
+          "title": "Perplexity Portable: agente sem custo de token",
+          "body": "A Perplexity lançou com a Nvidia o Portable Computer, versão totalmente local do Perplexity Computer. Roda na máquina, sem conta de token.",
+          "source": {
+            "label": "VentureBeat",
+            "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs"
+          }
+        },
+        {
+          "title": "open-steps: agente explica em linguagem de gente",
+          "body": "Kit de skills que converte a saída de agentes de código em relatórios honestos pra quem não é técnico: o que foi feito, o que quebrou, o que falta.",
+          "source": {
+            "label": "github.com/kharmanskyi",
+            "url": "https://github.com/kharmanskyi/open-steps"
+          }
+        },
+        {
+          "title": "Contexto é o novo gargalo",
+          "body": "Compressão de documentos, memória de tela em texto e índice de busca dedicado: três frentes diferentes no mesmo problema, o custo de dar contexto pro agente. Em paralelo, o agente local sem custo de token e o licenciamento de IP mostram pra onde o dinheiro está indo."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-26",
       "date": "2026-08-26",
       "hook": "IA em 26 de agosto",
