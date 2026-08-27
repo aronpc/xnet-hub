@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-27-12h30",
+      "date": "2026-08-27",
+      "time": "12h30",
+      "hook": "O Bitcoin passou a manhã rondando os 80 mil e fechou o meio-dia do outro lado: primeira hora do dia acima do número redondo, a um passo da máxima de 24 horas. E a compra vem a dinheiro vivo, com pouca aposta embutida.",
+      "caption": "Preço encostado no topo das últimas 24 horas e quase nada de alavancagem embalando o movimento.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-27-12h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-27-12h30",
+      "slides": [
+        {
+          "title": "Primeira fechada acima dos 80 mil",
+          "body": "Preço encostado no topo das últimas 24 horas e quase nada de alavancagem embalando o movimento."
+        },
+        {
+          "title": "US$ 80.623",
+          "body": "Δ1h +1,0% · Δ24h +3,2% · volume US$ 31,8bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Três closes de 1h subindo, o último acima dos 80 mil · funding +0,006% e L/S 1,03: quem compra aqui usa caixa, quase ninguém está com posição travada",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Topo livre acima de 80.800",
+          "body": "Referência de baixo $80.000 (−0,8%) · topo imediato $81.000 (+0,5%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-27-11h31",
       "date": "2026-08-27",
       "time": "11h31",
