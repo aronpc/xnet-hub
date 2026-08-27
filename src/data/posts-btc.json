@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-27-15h30",
+      "date": "2026-08-27",
+      "time": "15h30",
+      "hook": "Cinco horas subindo escada, uma hora de elevador pra descer. O Bitcoin devolveu a alta da tarde e voltou pra dentro da faixa dos 79-80 mil, com um volume de verdade atrás do movimento.",
+      "caption": "Recuo de 1% tirou o preço de cima da máxima do dia e devolveu a vela pra baixo de 80,4 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-27-15h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-27-15h30",
+      "slides": [
+        {
+          "title": "O rali respirou",
+          "body": "Recuo de 1% tirou o preço de cima da máxima do dia e devolveu a vela pra baixo de 80,4 mil."
+        },
+        {
+          "title": "US$ 79.937",
+          "body": "Δ1h -1,0% · Δ24h +1,9% · vol $33,9bi (2x o normal)",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "MERCADO EM ESPERA",
+          "body": "Rali travou na máxima, recuo teve participação real (dobrou o volume) e alavancagem segue fria: funding zero + 51,9% em short. Ninguém convictionado pra nenhum lado.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "79.300 segura ou não",
+          "body": "Piso do dia em $79.300 (-0,8%) · teto em $80.850 (+1,1%). Segurou, o dia continua íntegro pra cima. Cedeu, a correção olha 78.9k."
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-27-12h30",
       "date": "2026-08-27",
       "time": "12h30",
