@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-27-11h31",
+      "date": "2026-08-27",
+      "time": "11h31",
+      "hook": "O piso cedeu de manhã e ninguém comprou a queda: três velas depois, o preço voltou pra porta dos US$ 80 mil, a 0,2% do redondo",
+      "caption": "Queda foi spot, sem gente apertada. A volta também tem comprador de verdade.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-27-11h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-27-11h31",
+      "slides": [
+        {
+          "title": "A queda da manhã não vingou",
+          "body": "Queda foi spot, sem gente apertada. A volta também tem comprador de verdade."
+        },
+        {
+          "title": "US$ 79.808",
+          "body": "Δ1h +0,97% · Δ24h +2,00% · volume US$ 30,4bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Três fechamentos de 1h subindo com volume crescente devolveram o preço ao terço superior da faixa · funding +0,007% e L/S 1,07: repique sem aposta apalavrada, movimento spot",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Encostou no teto do dia",
+          "body": "Piso da manhã US$ 79.300 ficou pra trás (recuperado, −0,6%) · o redondo US$ 80.000 está a +0,2%"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-27-10h53",
       "date": "2026-08-27",
       "time": "10h53",
