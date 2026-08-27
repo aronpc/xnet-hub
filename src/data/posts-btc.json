@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-27-06h31",
+      "date": "2026-08-27",
+      "time": "06h31",
+      "hook": "Às 5h40, os 80 mil dólares ainda eram conversa. Agora são três fechamentos de 1h seguidos acima do número redondo, volume em dobro e +2,5% no dia. Tá assentado em cima do que antes era teto.",
+      "caption": "Três velas de 1h fecharam acima do número redondo, com o volume do dia inteiro concentrado nessa altura\n\nLeia: https://xbtc.aronpc.dev/#2026-08-27-06h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-27-06h31",
+      "slides": [
+        {
+          "title": "Assentado acima dos 80 mil",
+          "body": "Três velas de 1h fecharam acima do número redondo, com o volume do dia inteiro concentrado nessa altura"
+        },
+        {
+          "title": "US$ 80.475",
+          "body": "Δ1h +0,88% · Δ24h +2,50% · volume US$ 29,7bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Três velas encostadas na máxima de 24h ($80.520) · funding +0,01% e L/S 1,06: a alavancada ficou de fora, quem comprou comprou à vista",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Encostado no teto do dia",
+          "body": "Piso $80.000 (−0,6%) · teto do dia $80.520 (+0,1%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-27-05h40",
       "date": "2026-08-27",
       "time": "05h40",
