@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-27-05h40",
+      "date": "2026-08-27",
+      "time": "05h40",
+      "hook": "Cinco horas parado entre 77,6 e 79,2 mil, e aí a hora das 5h veio diferente: 1.300 BTC numa vela só, mais que o dobro da média, e o teto de 79,2 mil finalmente cedeu. O preço agora encosta na máxima de 24 horas, a 79.772 dólares, olhando o número redondo de 80 mil.",
+      "caption": "Depois de cinco horas de compressão, a vela das 5h resolveu o corredor com o maior volume do dia\n\nLeia: https://xbtc.aronpc.dev/#2026-08-27-05h40",
+      "link": "https://xbtc.aronpc.dev/#2026-08-27-05h40",
+      "slides": [
+        {
+          "title": "O range quebrou",
+          "body": "Depois de cinco horas de compressão, a vela das 5h resolveu o corredor com o maior volume do dia"
+        },
+        {
+          "title": "US$ 79.772",
+          "body": "Δ1h +1,3% · Δ24h +1,1% · volume US$ 28,8bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Rompimento com pique de 1.300 BTC numa vela só, 2,3× a média · quem puxou foi o spot: o interesse aberto caiu de 106,6k para 105,1k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Sem aposta alavancada",
+          "body": "Funding em +0,01% e L/S 1,08: a turma alavancada não embarcou na subida, movimento veio de compra à vista · clima de ganância em 71, ainda longe do extremo",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-26-18h30",
       "date": "2026-08-26",
       "time": "18h30",
