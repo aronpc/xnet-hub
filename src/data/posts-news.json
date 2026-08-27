@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-27",
+      "date": "2026-08-27",
+      "hook": "Projetos em 27 de agosto",
+      "caption": "Dois movimentos grandes carimbaram o dia: a Amazon comprou a empresa por trás do DuckDB, e a OpenAI abriu um challenge com prêmio pra popularizar sites que falam com agentes. No meio disso, uma ferramentinha de 73 estrelas que aposenta skills velhas virou a mais útil da semana. Sete histórias.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-27",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-27",
+      "slides": [
+        {
+          "title": "Projetos em 27 de agosto",
+          "body": "Dois movimentos grandes carimbaram o dia: a Amazon comprou a empresa por trás do DuckDB, e a OpenAI abriu um challenge com prêmio pra popularizar sites que falam com agentes. No meio disso, uma ferramentinha de 73 estrelas que aposenta skills velhas virou a mais útil da semana. Sete histórias."
+        },
+        {
+          "title": "Amazon compra a DuckLabs, dona do DuckDB",
+          "body": "A Amazon concordou em adquirir a DuckLabs, de Amsterdã, mantenedora do DuckDB, por valor não revelado. O banco analítico local que virou padrão de facto em data tooling passa ao controle do maior cloud vendor do mundo.",
+          "source": {
+            "label": "GeekWire · 26 ago",
+            "url": "https://www.geekwire.com/2026/amazon-acquires-ducklabs-adding-the-team-behind-duckdb-amid-broad-shakeup-in-cloud-data/"
+          }
+        },
+        {
+          "title": "OpenExecutive: o CEO de IA open source",
+          "body": "Depois de um CEO demitir devs para dar lugar à IA, devs demitidos criaram o OpenExecutive: uma virtual executive team com persona executiva única sustentada por 8 agentes Claude especialistas, em FastAPI e Next.js. O repo explodiu ontem no HN com 198 pontos e já passa de 305 estrelas.",
+          "source": {
+            "label": "GitHub · 26 ago",
+            "url": "https://github.com/SenteLabsAI/OpenExecutive"
+          }
+        },
+        {
+          "title": "WebMCP Challenge: sites que expõem tools",
+          "body": "A OpenAI abriu um challenge de 10 dias, com inscrições até 3 de setembro, pra construir apps melhores quando pessoas e agentes usam juntos, sobre o WebMCP: um padrão experimental onde sites expõem tools estruturadas direto pros agentes. Os 10 melhores ganham 3 mil dólares e um ano de ChatGPT Pro, com prêmios extras de Shopify, Chrome, Netlify, Cloudflare, Vercel e Render.",
+          "source": {
+            "label": "OpenAI · 26 ago",
+            "url": "https://openai.com/webmcp-challenge/"
+          }
+        },
+        {
+          "title": "CDAF: sidecar de vídeo pra agentes",
+          "body": "Cached Descriptive Asset Files: um formato aberto de sidecar pra vídeo com descrições cacheadas. O agente lê o sidecar em vez de re-processar o mesmo asset a cada sessão. Fez 74 estrelas no primeiro dia.",
+          "source": {
+            "label": "GitHub · 26 ago",
+            "url": "https://github.com/UditAkhourii/cdaf"
+          }
+        },
+        {
+          "title": "open-skill-sunset: aposente skills velhas",
+          "body": "Ferramenta que audita instructions de agente genéricas ou stale e as aposenta com segurança. O repo fez 73 estrelas no primeiro dia.",
+          "source": {
+            "label": "GitHub · 26 ago",
+            "url": "https://github.com/ooocooc/open-skill-sunset"
+          }
+        },
+        {
+          "title": "Keenable indexa a web pros agentes",
+          "body": "A Keenable, que constrói índice de busca web específico pra agentes de IA, captou seed de 26 milhões de dólares da Accel. Vários AI labs já usam a API.",
+          "source": {
+            "label": "TechCrunch · 25 ago",
+            "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
+          }
+        },
+        {
+          "title": "Deep Cogito: 43 milhões em open-weight",
+          "body": "A Deep Cogito, que treina modelos open-weight e especializados sob demanda, levou 43 milhões de dólares em Série B, segundo o WSJ.",
+          "source": {
+            "label": "WSJ · 26 ago",
+            "url": "https://www.wsj.com/cio-journal/deep-cogito-aims-to-put-companies-in-control-of-their-own-ai-50ddf44b"
+          }
+        },
+        {
+          "title": "A infra dos agentes virou mercado",
+          "body": "Compra do DuckDB, índice de busca pra agentes, sidecar de vídeo, padrão web de tools e até ferramenta de aposentar skills: a camada de infraestrutura que os agentes consomem ganou produto, preço e comprador em uma semana. Quem constrói pra agentes não está mais construindo futuro, está construindo commodity."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-27",
       "date": "2026-08-27",
       "hook": "IA em 27 de agosto",
