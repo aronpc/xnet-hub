@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-27-10h53",
+      "date": "2026-08-27",
+      "time": "10h53",
+      "hook": "O chão de 79,3 mil cedeu com volume acima do normal e a manhã virou outra conversa. Quatro velas de 1h em queda, a armadilha dos 80 mil ficando cada vez mais pra trás, e o preço testando a prateleira das mínimas do dia.",
+      "caption": "A perda veio com volume 1,6× a média na vela, venda com participação de verdade\n\nLeia: https://xbtc.aronpc.dev/#2026-08-27-10h53",
+      "link": "https://xbtc.aronpc.dev/#2026-08-27-10h53",
+      "slides": [
+        {
+          "title": "O chão do range cedeu",
+          "body": "A perda veio com volume 1,6× a média na vela, venda com participação de verdade"
+        },
+        {
+          "title": "US$ 79.042",
+          "body": "Δ1h −0,63% · Δ24h +0,87% · volume US$ 29,8bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Quatro fechamentos de 1h caindo, o antigo chão virou teto a retomar · funding +0,008% e L/S 1,06: sem gente apertada dos dois lados",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Decisão na prateleira",
+          "body": "Faixa $78,9k–79,3k · uma hora fechada abaixo de 78,9k estica a queda até 78,5k; volta acima de 79,3k devolve o range do dia",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-27-07h30",
       "date": "2026-08-27",
       "time": "07h30",
