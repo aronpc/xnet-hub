@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-27-07h30",
+      "date": "2026-08-27",
+      "time": "07h30",
+      "hook": "Ameaçou romper 80 mil, desabou 1% na mesma hora e voltou pro meio do caminho. O rebote da madrugada durou o que durou: rejeição na máxima de 80,5 mil e o preço agora decide a hora em cima de 79,3 mil.",
+      "caption": "Movida de uma hora pra outra: rejeição na máxima de 24h e volta à zona onde o dia inteiro foi construído\n\nLeia: https://xbtc.aronpc.dev/#2026-08-27-07h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-27-07h30",
+      "slides": [
+        {
+          "title": "O teste dos 80 mil não vingou",
+          "body": "Movida de uma hora pra outra: rejeição na máxima de 24h e volta à zona onde o dia inteiro foi construído"
+        },
+        {
+          "title": "US$ 79.673",
+          "body": "Δ1h −1,00% · Δ24h +1,35% · volume US$ 30,2bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Bull trap em digestão: a tentativa acima de 80 mil foi embora numa vela · funding +0,01% e L/S 1,02, ninguém pânico, ninguém abarrotado",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Decidindo nos 79,3 mil",
+          "body": "Faixa 79,3k–80,0k · se 79,3k não segurar, a correção procura 78,8k–78,5k, onde o mercado passou a maior parte do dia",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-27-06h31",
       "date": "2026-08-27",
       "time": "06h31",
