@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-27-19h30",
+      "date": "2026-08-27",
+      "time": "19h30",
+      "hook": "Depois de um dia inteiro parado, o Bitcoin voltou a encostar no teto do dia. E tem um detalhe curioso: a maioria das posições apostando contra, justamente enquanto o preço sobe.",
+      "caption": "Preço a 0,7% da máxima de 24h e quem apostou contra agora paga o preço disso.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-27-19h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-27-19h30",
+      "slides": [
+        {
+          "title": "De volta ao teto",
+          "body": "Preço a 0,7% da máxima de 24h e quem apostou contra agora paga o preço disso."
+        },
+        {
+          "title": "US$ 80.253",
+          "body": "Δ1h +0,24% · Δ24h +1,84% · vol $34,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "CURTO PRESSIONADO",
+          "body": "Funding quase zero, alavancagem fria e 52% das contas apostando na queda com o preço subindo. Quem está contra precisa decidir rápido.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "80 mil segurando",
+          "body": "Se 80 mil ceder, a próxima referência é 79,5k. Uma fechada acima de 80,85k com volume abre terreno novo."
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-27-15h30",
       "date": "2026-08-27",
       "time": "15h30",
