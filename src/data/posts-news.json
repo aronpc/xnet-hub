@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-27",
+      "date": "2026-08-27",
+      "hook": "Skills e MCP em 27 de agosto",
+      "caption": "O Claude Code está vivendo uma semana esquisita: releases quase diários de um lado, e do outro o CEO da Shopify dizendo que considera banir a ferramenta. No meio, WebMCP dominando a pauta e skills de higiene e SEO explodindo no GitHub. Sete histórias.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-27",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-27",
+      "slides": [
+        {
+          "title": "Skills e MCP em 27 de agosto",
+          "body": "O Claude Code está vivendo uma semana esquisita: releases quase diários de um lado, e do outro o CEO da Shopify dizendo que considera banir a ferramenta. No meio, WebMCP dominando a pauta e skills de higiene e SEO explodindo no GitHub. Sete histórias."
+        },
+        {
+          "title": "WebMCP Challenge mobiliza a infra da web",
+          "body": "Challenge de 10 dias, de 25 de agosto a 3 de setembro, para apps melhores quando pessoas e agentes usam juntos, sobre o WebMCP: padrão experimental aberto onde sites expõem tools estruturadas diretamente aos agentes. Top 10 ganham 3 mil dólares e um ano de ChatGPT Pro, mais prêmios de Shopify, Chrome, Netlify, Cloudflare, Vercel e Render.",
+          "source": {
+            "label": "OpenAI · 26 ago",
+            "url": "https://openai.com/webmcp-challenge/"
+          }
+        },
+        {
+          "title": "Claude Code e Codex em cadência diária",
+          "body": "O Claude Code publicou a v2.1.247 ontem, na sequência das v2.1.245 e 246 do dia anterior. O Codex CLI soltou rust-v0.150.0 e .1, mais quatro alphas da v0.151. O Cline vai na v4.1.16. Os três principais harnesses lançam quase todo dia.",
+          "source": {
+            "label": "GitHub releases · 27 ago",
+            "url": "https://github.com/anthropics/claude-code/releases"
+          }
+        },
+        {
+          "title": "CEO da Shopify considera banir o Claude Code",
+          "body": "Tobi Lütke tweetou que considera banir o Claude Code na Shopify. A thread rendeu 8 pontos no Hacker News.",
+          "source": {
+            "label": "Twitter/X · 26 ago",
+            "url": "https://twitter.com/tobi/status/2092259436538495186"
+          }
+        },
+        {
+          "title": "\"Sinto falta do Claude Code antigo\"",
+          "body": "Post do Alex Kras argumentando que o Claude Code perdeu foco com o acúmulo de features. A tese dele: foco é a principal feature. Rendeu 36 pontos no HN.",
+          "source": {
+            "label": "alexkras.com · 26 ago",
+            "url": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/"
+          }
+        },
+        {
+          "title": "fire-your-seo-agency: SEO para a era dos chatbots",
+          "body": "Skill que audita e otimiza descoberta nos buscadores clássicos e nos novos motores de IA: AEO, GEO e LLMO, as siglas de answer, engine e LLM optimization. Fez 60 estrelas no primeiro dia.",
+          "source": {
+            "label": "GitHub · 26 ago",
+            "url": "https://github.com/leopard627/fire-your-seo-agency"
+          }
+        },
+        {
+          "title": "open-skill-sunset: aposentar o que envelheceu",
+          "body": "Ferramenta que audita instructions de agente stale ou genéricas e as retira com segurança. 73 estrelas no primeiro dia.",
+          "source": {
+            "label": "GitHub · 26 ago",
+            "url": "https://github.com/ooocooc/open-skill-sunset"
+          }
+        },
+        {
+          "title": "scholar-rag-mcp: base de papers com Qdrant",
+          "body": "MCP server para knowledge-base acadêmica: ingestão de PDF via MinerU e busca vetorial com Qdrant.",
+          "source": {
+            "label": "GitHub · 27 ago",
+            "url": "https://github.com/notwhiteblank/scholar-rag-mcp"
+          }
+        },
+        {
+          "title": "O harness virou o campo de batalha",
+          "body": "Releases diários, CEO considerando ban, usuário com saudade da versão enxuta: a disputa deixou de ser só entre modelos e desceu pro software que orquestra a sessão. Quem opera harness em produção sente nos crons antes de sentir no feed. E o ecossistema em volta, de SEO pra IA a higiene de skills, já fatura em cima disso."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-27",
       "date": "2026-08-27",
       "hook": "Projetos em 27 de agosto",
