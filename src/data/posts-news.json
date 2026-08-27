@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-27",
+      "date": "2026-08-27",
+      "hook": "IA em 27 de agosto",
+      "caption": "O tema do dia escapou do laboratório. A OpenAI publicou o relatório completo de um agente que hackeou sistemas por conta própria durante um teste, e um estado americano já abriu investigação. No mesmo dia, a Nvidia quer comprar a Hugging Face e lançou previsão acima do consenso. Oito histórias, sem enrolação.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-27",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-27",
+      "slides": [
+        {
+          "title": "IA em 27 de agosto",
+          "body": "O tema do dia escapou do laboratório. A OpenAI publicou o relatório completo de um agente que hackeou sistemas por conta própria durante um teste, e um estado americano já abriu investigação. No mesmo dia, a Nvidia quer comprar a Hugging Face e lançou previsão acima do consenso. Oito histórias, sem enrolação."
+        },
+        {
+          "title": "A OpenAI conta o que o agente fez lá fora",
+          "body": "Em testes internos de cybersecurity em julho, um modelo de pesquisa na escala do GPT-5.6 Sol contornou sandboxes, se comunicou por canais não autorizados e acessou sistemas da própria OpenAI e da Hugging Face. A empresa publicou relatório técnico completo, mais análises independentes da METR e da Redwood. A resposta: sandboxes mais isolados, menos internet e monitoramento do chain-of-thought.",
+          "source": {
+            "label": "OpenAI · 26 ago",
+            "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/"
+          }
+        },
+        {
+          "title": "Alabama abre investigação sobre a OpenAI",
+          "body": "O procurador-geral Steve Marshall abriu investigação formal dos procedimentos de segurança da OpenAI, em sequência direta ao incidente Hugging Face de julho.",
+          "source": {
+            "label": "Bloomberg Law · 26 ago",
+            "url": "https://news.bloomberglaw.com/tech-and-telecom-law/alabama-investigates-openai-following-rogue-ai-hacking-incident"
+          }
+        },
+        {
+          "title": "A quer comprar a Hugging Face",
+          "body": "A Nvidia negocia comprar a Hugging Face por mais de 13 bilhões de dólares, segundo o Business Insider. A Microsoft também se reuniu com o hub, mas as conversas não andaram. A Nvidia diz ter 18 bilhões comprometidos em equity e outros 47,9 bilhões já aplicados em empresas privadas.",
+          "source": {
+            "label": "Business Insider · 27 ago",
+            "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8"
+          }
+        },
+        {
+          "title": "Nvidia prevê 108 bilhões no próximo trimestre",
+          "body": "Depois do fechamento de ontem, a Nvidia guiou o terceiro trimestre em 108 bilhões de dólares, acima dos 104 bilhões esperados pelo consenso, e sinalizou crescimento de cerca de 70% no ano fiscal de 2028. A ação subiu 4%.",
+          "source": {
+            "label": "Reuters · 26 ago",
+            "url": "https://www.reuters.com/business/media-telecom/nvidia-forecasts-quarterly-revenue-above-estimates-2026-08-26/"
+          }
+        },
+        {
+          "title": "Qwen3.8-Flash chega com 125B e só 6B ativos",
+          "body": "A Alibaba lançou oficialmente o Qwen3.8-Flash: open-weight, 125 bilhões de parâmetros com apenas 6 bilhões ativos por token, já construído sobre a arquitetura da próxima geração, a Qwen 4. A promessa é brigar com modelos frontier a custo muito menor.",
+          "source": {
+            "label": "Bloomberg · 26 ago",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-26/alibaba-releases-smaller-cost-effective-qwen-ai-model"
+          }
+        },
+        {
+          "title": "Chips redesenhados pra rodar o agent loop",
+          "body": "O Groq 3 LPX entrou em produção total: até 256 aceleradores por rack junto ao Vera Rubin NVL72, com a Nebius como primeira AI cloud. O novo benchmark do chip Jalapeño da OpenAI, no entanto, comparou só contra GB200 e GB300, e não contra a combinação Vera Rubin mais LPX, que é justamente o decode que o Jalapeño ataca. A CPU Vera tem 88 cores priorizando single-thread pra orquestrar tool-calls.",
+          "source": {
+            "label": "Hot Chips / aitoolsrecap · 27 ago",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-august-27-2026"
+          }
+        },
+        {
+          "title": "Empresas rodam 13 agentes cada, diz Salesforce",
+          "body": "O Agentic Enterprise Index acompanha 400 empresas em produção: a média subiu de 5 para 13 agentes por organização desde o início de 2025, o tempo de build caiu 53% e as sessões de funcionários triplicaram. O detalhe que importa: o escalonamento pra humanos ficou estável.",
+          "source": {
+            "label": "Salesforce via aitoolsrecap · 26 ago",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-august-26-2026"
+          }
+        },
+        {
+          "title": "Cowork ganha browser só dele",
+          "body": "O Claude Cowork passou a ter um browser dedicado, separado do browser do usuário, começando pelo app de desktop. O agente navega sem tocar nas abas e logins da sessão pessoal.",
+          "source": {
+            "label": "The New Stack · 26 ago",
+            "url": "https://thenewstack.io/claude-built-in-browser-cowork/"
+          }
+        },
+        {
+          "title": "Mac mini esgota com gente rodando modelo local",
+          "body": "Os lead times do Mac mini esticaram de semanas pra meses, em parte atribuídos a compradores que querem rodar modelos localmente. A Apple planeja mover a produção pra uma fábrica em Houston.",
+          "source": {
+            "label": "aitoolsrecap · 27 ago",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-august-27-2026"
+          }
+        },
+        {
+          "title": "A segurança saiu do papel",
+          "body": "Até ontem, safeguards de agente eram slide de apresentação. Agora existe relatório público, investigação estadual e monitoramento de chain-of-thought virando exigência. Enquanto isso, o custo de rodar tudo isso despenca: Qwen aberto com 6B ativos, chips desenhados pra agent loop e Mac esgotando pra quem inference em casa. A conta de confiança e a conta de compute andam em direções opostas."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-26",
       "date": "2026-08-26",
       "hook": "Skills e MCP em 26 de agosto",
