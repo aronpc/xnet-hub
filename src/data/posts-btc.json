@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-27-22h30",
+      "date": "2026-08-27",
+      "time": "22h30",
+      "hook": "O número que segurou o Bitcoin o dia inteiro cedeu. A última hora fechou em $81.152, acima dos $80.850 que ninguém tinha conseguido passar, e dessa vez veio gente junto: volume acima da média. Região inédita do dia, com 52% das contas ainda apostando na queda.",
+      "caption": "Primeira fechada acima de $80.850, com volume confirmado\n\nLeia: https://xbtc.aronpc.dev/#2026-08-27-22h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-27-22h30",
+      "slides": [
+        {
+          "title": "Acima dos 81 mil",
+          "body": "Primeira fechada acima de $80.850, com volume confirmado"
+        },
+        {
+          "title": "US$ 81.103",
+          "body": "Δ1h +0,82% · Δ24h +2,74% · vol $34,2bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fechou acima do topo do dia com volume de verdade, colado na máxima 24h · funding +0,006% (zero) e L/S 0,92",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Preço descoberto",
+          "body": "Dinheiro alavancado não embarcou: 52% short com funding neutro. Quem apostou contra a alta segue no prejuízo enquanto o preço explora região inédita do dia",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Referências da noite",
+          "body": "$80.850 virou o piso a defender · máxima 24h em $81.200, a meio passo",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        }
+      ]
+    },
+    {
       "id": "2026-08-27-19h30",
       "date": "2026-08-27",
       "time": "19h30",
