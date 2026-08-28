@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-28-12h31",
+      "date": "2026-08-28",
+      "time": "12h31",
+      "hook": "Depois da mínima em 78.423, o BTC devolveu os 79k e operou a US$ 79.325 na hora do almoço. Só que a vela do salto veio com um terço menos volume que a média do dia. Festa com pouca gente.",
+      "caption": "Os 79k voltaram às mãos do preço, mas o volume ficou bem abaixo da média de 24h: movimento sem convicção\n\nLeia: https://xbtc.aronpc.dev/#2026-08-28-12h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-28-12h31",
+      "slides": [
+        {
+          "title": "O salto que quase ninguém comprou",
+          "body": "Os 79k voltaram às mãos do preço, mas o volume ficou bem abaixo da média de 24h: movimento sem convicção"
+        },
+        {
+          "title": "US$ 79.325",
+          "body": "Δ1h +0,8% · Δ24h −1,5% · vol US$ 34,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A queda da manhã perdeu força com o piso retomado, e o preço parou antes do degrau de 79,6k · Funding +0,0052% (quase zero) e L/S 1,04",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Gente saindo de posição, não entrando",
+          "body": "O interesse em contratos caiu (107,1k para 106,1k BTC) durante a subida: quem apostava contra precisou sair. Passar de 79,6k abre caminho a 79,9k; perder 79k outra vez devolve o fundo de 78,4k ao debate",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "79,6k com volume muda a conversa",
+          "body": "Sem comprador de verdade atrás, o degrau costuma rejeitar a primeira tentativa"
+        }
+      ]
+    },
+    {
       "id": "2026-08-28-11h31",
       "date": "2026-08-28",
       "time": "11h31",
