@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-28-15h30",
+      "date": "2026-08-28",
+      "time": "15h30",
+      "hook": "O repique durou uma hora. O BTC devolveu o que tinha recuperado e voltou a encostar na mínima do dia, agora com o dobro do volume normal nas velas de queda. Opera a US$ 77.598.",
+      "caption": "Preço de volta à região da mínima de 24h, com o volume do dia todo concentrado na queda\n\nLeia: https://xbtc.aronpc.dev/#2026-08-28-15h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-28-15h30",
+      "slides": [
+        {
+          "title": "Retomo? Nem deu tempo",
+          "body": "Preço de volta à região da mínima de 24h, com o volume do dia todo concentrado na queda"
+        },
+        {
+          "title": "US$ 77.598",
+          "body": "Δ1h −0,5% · Δ24h −2,9% · vol US$ 36 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Vendedores seguiram no controle depois da rejeição em 78k · Smart Money: funding +0,0098% neutro + L/S 1,13 (53% longs)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "O giro do dia está na queda",
+          "body": "US$ 36 bi negociados até aqui, quase todos com força nas velas de baixa. Pra esse quadro virar, precisa de absorção de verdade, não de um salto rápido",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "A hora passa por 77,0k",
+          "body": "Mínima de 24h em 76.888 logo abaixo · 78,3k (+0,9%) segue como região perdida"
+        }
+      ]
+    },
+    {
       "id": "2026-08-28-14h31",
       "date": "2026-08-28",
       "time": "14h31",
