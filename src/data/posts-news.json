@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-28",
+      "date": "2026-08-28",
+      "hook": "Skills e MCP — 28 de agosto",
+      "caption": "O Claude Code virou plataforma de verdade nesta semana: sandbox nativo no binário, configuração com gate de CI e o IDA ganhando servidor MCP oficial. Oito histórias do ecossistema de agentes.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-28",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-28",
+      "slides": [
+        {
+          "title": "Skills e MCP — 28 de agosto",
+          "body": "O Claude Code virou plataforma de verdade nesta semana: sandbox nativo no binário, configuração com gate de CI e o IDA ganhando servidor MCP oficial. Oito histórias do ecossistema de agentes."
+        },
+        {
+          "title": "--restricted: sandbox nativo",
+          "body": "A versão 2.1.248 adiciona o modo --restricted: remove as tools que executam comandos e o WebFetch, prende as tools de arquivo no working directory, recusa bypass de permissões e ignora settings de usuário e projeto. Veio junto com cacheTtl experimental no frontmatter de agentes e correção do prompt-cache miss horário em sessões longas.",
+          "source": "github.com/anthropics/claude-code/releases"
+        },
+        {
+          "title": "Hex-Rays adere ao MCP",
+          "body": "A Hex-Rays publicou repositório oficial com servidor MCP experimental para o IDA, o disassembler padrão da indústria de engenharia reversa.",
+          "source": "github.com/HexRaysSA/ida-mcp"
+        },
+        {
+          "title": "Concord: os clis conversam",
+          "body": "Servidor MCP que conecta Claude Code, Codex e Cursor na mesma máquina para trocarem contexto e tarefas entre si.",
+          "source": "github.com/Get-Concord-AI/concord-mcp"
+        },
+        {
+          "title": "Config de agente vira código",
+          "body": "O config-drift-checker roda em CI e detecta drift na configuração de coding agents: CLAUDE.md, skills e hooks versionados versus o que está ativo na máquina.",
+          "source": "github.com/jameskomo/config-drift-checker"
+        },
+        {
+          "title": "A skill que instala skills",
+          "body": "O Only-Skill-You-Need se posiciona como a primeira skill de um iniciante: bootstrapa Claude Code, Cursor e outros agentes, e roteia cada tarefa.",
+          "source": "github.com/Endokelp/Only-Skill-You-Need"
+        },
+        {
+          "title": "Google Testing on the Toilet, em skill",
+          "body": "Skill que traduz as práticas do programa de testes do Google para escrever e revisar testes via agente.",
+          "source": "github.com/shamashel/testing-on-the-toilet"
+        },
+        {
+          "title": "hand-raisers: pipeline em uma skill",
+          "body": "Skill que encontra quem pediu publicamente o que você vende esta semana, qualifica cada pedido e checa os concorrentes citados.",
+          "source": "github.com/ToolMonsters/hand-raisers"
+        },
+        {
+          "title": "scaling-guacamole: filtro com critério",
+          "body": "Coleção curada de Agent Skills para Claude Code, Cursor e Codex, com critério de qualidade declarado.",
+          "source": "github.com/naturelobstercare/scaling-guacamole"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O agente de código ganhou contenção nativa, config auditável em CI e intercom entre harnesses. A era de montar guardrail com script acabou: o que era improvisação virou plataforma."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-28",
       "date": "2026-08-28",
       "hook": "Projetos e repos — 28 de agosto",
