@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-28-06h31",
+      "date": "2026-08-28",
+      "time": "06h31",
+      "hook": "Nove velas de 1h em queda desde o topo de 80,6k. O piso de 79,6k cedeu de madrugada e o preço derivou até US$ 79.388, ainda com o clima em 73 de ganância. O dia contabiliza queda de 1,2%.",
+      "caption": "O degrau de 79,6k não segurou e o preço escorregou até perto do fundo do range amplo\n\nLeia: https://xbtc.aronpc.dev/#2026-08-28-06h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-28-06h31",
+      "slides": [
+        {
+          "title": "A noite apertou pra baixo",
+          "body": "O degrau de 79,6k não segurou e o preço escorregou até perto do fundo do range amplo"
+        },
+        {
+          "title": "US$ 79.388",
+          "body": "Δ1h −0,51% · Δ24h −1,19% · vol US$ 35,2bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Nove fechamentos de 1h em sequência descendente desde 80.576, com o preço caminhando pro fundo do canal · Funding +0,0100% (neutro) e L/S 0,94",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Queda sem convicção",
+          "body": "51,5% das contas estão short e o interesse em aberto recuou: movimento parece capitulação de longs, não aposta agressiva contra a alta"
+        },
+        {
+          "title": "Faixa 79k a 79,6k",
+          "body": "Abaixo de 79k, o fundo de 24h em 78,9k; acima de 79,6k, o teto dos fechos em 80,5k",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-27-23h30",
       "date": "2026-08-27",
       "time": "23h30",
