@@ -2,6 +2,69 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-28",
+      "date": "2026-08-28",
+      "hook": "Resumo IA de 28 de agosto",
+      "caption": "O dia em que a Z.ai soltou os pesos do GLM-5.3 depois de duas semanas de cofre, a Meta fechou o bolso com a Anthropic e a segunda-feira virou prazo de reajuste. Nove histórias que mudam como você escolhe modelo.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-28",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-28",
+      "slides": [
+        {
+          "title": "Resumo IA de 28 de agosto",
+          "body": "O dia em que a Z.ai soltou os pesos do GLM-5.3 depois de duas semanas de cofre, a Meta fechou o bolso com a Anthropic e a segunda-feira virou prazo de reajuste. Nove histórias que mudam como você escolhe modelo."
+        },
+        {
+          "title": "GLM-5.3 sai do cofre",
+          "body": "Depois de reter os pesos por duas semanas na revisão de risco mais dura que já aplicou, a Z.ai liberou o download do GLM-5.3. A razão citada: capacidade ofensiva de segurança da informação que amadureceu antes do previsto. Nos benchmarks da casa, Terminal-Bench 3.0 saltou de 4,6 para 28,3 e DeepSWE v1.1 de 46,2 para 66,9.",
+          "source": "aitoolsrecap.com"
+        },
+        {
+          "title": "Juiz derruba blacklist da Anthropic",
+          "body": "A justiça americana considerou ilegal a inclusão da Anthropic numa lista negra de empresas montada pelo governo. O caso atravessa a relação entre o poder executivo e os laboratórios de IA.",
+          "source": {
+            "label": "The New York Times — 27 ago",
+            "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html"
+          }
+        },
+        {
+          "title": "Meta e Anthropic: US$ 10 bi entre rivais",
+          "body": "A Meta caminha para gastar dez bilhões de dólares com modelos da Anthropic. Paga pelo que seus próprios modelos não alcançam, enquanto disputa os mesmos clientes.",
+          "source": {
+            "label": "The New York Times — 27 ago",
+            "url": "https://www.nytimes.com/2026/08/27/technology/meta-anthropic-frenemies.html"
+          }
+        },
+        {
+          "title": "Google emenda dois lançamentos",
+          "body": "O Gemini-3.5-Transcribe chega como modelo dedicado a transcrição dentro da família 3.5. No dia seguinte, o Gemini Omni 1.1 Flash abre cena estendida e keyframes para desenvolvedores.",
+          "source": "blog.google"
+        },
+        {
+          "title": "Anthropic propõe padrão de hardware",
+          "body": "Em preview de pesquisa, o Model Hardware Standard define uma especificação aberta para rodar modelos de fronteira, no rastro de chips desenhados para o loop de agentes.",
+          "source": "anthropic.com"
+        },
+        {
+          "title": "O plano da Meta de trocar gente por IA",
+          "body": "Reportagens do Financial Times e do IBT contam que o plano interno de substituir funcionários por IA desmoronou em meses. O retrabalho e a queda de qualidade superaram a economia projetada.",
+          "source": "ibtimes.com"
+        },
+        {
+          "title": "Segunda 31/08: reajuste e migração",
+          "body": "O Sonnet 5 sobe para 3 e 15 dólares por milhão de tokens, com tokenizer que adiciona de 10 a 35 por cento de tokens em código. No mesmo dia, GPT-5.4 sai do Codex e kimi-k2.5 entra em sunset.",
+          "source": "aitoolsrecap.com"
+        },
+        {
+          "title": "Quatro laboratórios, mesma jogada",
+          "body": "No mesmo intervalo, a Z.ai segurou pesos, a OpenAI limitou seu modelo cibernético, a Anthropic divulgou uma fronteira que não vai embarcar e a Alibaba lançou o Qwen 3.8-Max em licença própria.",
+          "source": "aitoolsrecap.com"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Pesos abertos deixaram de ser garantia de data marcada, e o custo por token sobe na segunda. Quem depender de um fornecedor só paga a conta: a semana pede auditoria de gastos e um hedge pronto antes de 31 de agosto."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-27",
       "date": "2026-08-27",
       "hook": "Skills e MCP em 27 de agosto",
