@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-28-10h30",
+      "date": "2026-08-28",
+      "time": "10h30",
+      "hook": "A recuperação da manhã durou pouco: o degrau de 79,6k voltou a ceder e o preço enconstou de novo no fundo do dia, a US$ 79.246. Seis velas de 1h descendo em degraus, sem pressa e sem pânico.",
+      "caption": "Queda lenta, velas de 1h fechando sempre um degrau abaixo da anterior, até encostar no fundo de 79k pela segunda vez hoje\n\nLeia: https://xbtc.aronpc.dev/#2026-08-28-10h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-28-10h30",
+      "slides": [
+        {
+          "title": "A escada pra baixo continua",
+          "body": "Queda lenta, velas de 1h fechando sempre um degrau abaixo da anterior, até encostar no fundo de 79k pela segunda vez hoje"
+        },
+        {
+          "title": "US$ 79.246",
+          "body": "Δ1h −0,4% · Δ24h 0,0% · vol US$ 33,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O degrau de 79,6k não foi reconquistado e o preço colou no fundo de 24h pra um segundo teste no mesmo dia · Funding +0,0065% (quase zero) e L/S 0,99",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Metade do mercado aposta contra, encostada no mesmo piso",
+          "body": "São 50,3% de posições vendidas com o preço exatamente sobre 79k: se o fundo aguentar de novo, sobra aperto pra quem apostou na queda"
+        },
+        {
+          "title": "79k testado duas vezes",
+          "body": "Fundo do dia raspado de manhã e de novo agora; acima, o degrau de 79,6k segue rejeitando fechamentos",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-28-08h30",
       "date": "2026-08-28",
       "time": "08h30",
