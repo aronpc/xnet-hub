@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-28",
+      "date": "2026-08-28",
+      "hook": "Projetos e repos — 28 de agosto",
+      "caption": "O dia do \"quanto custa meu agente\": um CLI que lê logs locais e calcula o gasto por modelo explodiu em estrelas, e uma leva de infra de observabilidade veio junto. Oito repos que valem seu clone.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-28",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-28",
+      "slides": [
+        {
+          "title": "Projetos e repos — 28 de agosto",
+          "body": "O dia do \"quanto custa meu agente\": um CLI que lê logs locais e calcula o gasto por modelo explodiu em estrelas, e uma leva de infra de observabilidade veio junto. Oito repos que valem seu clone."
+        },
+        {
+          "title": "tokentab: o contador de custo dos clis",
+          "body": "CLI que lê os session logs do Claude Code, Codex e Gemini CLI e calcula quanto cada um custou, por modelo e por provedor. Nenhuma API de billing: os logs locais bastam.",
+          "source": "github.com/damejan80/tokentab"
+        },
+        {
+          "title": "experiential: o OpenRouter aberto",
+          "body": "Router open source de LLMs em que os dados de uso alimentam a melhoria do próprio modelo. O flywheel uso-modela-o-router explícito no código, em contraponto ao OpenRouter da Stripe.",
+          "source": "github.com/experientiallabs/experiential"
+        },
+        {
+          "title": "opslane: observa o usuário e corrige o bug",
+          "body": "Assistente open source que monitora sessões reais de usuários, encontra os bugs por impacto real e os corrige. Inverte o loop de qualidade: em vez de testar antes, assiste a produção.",
+          "source": "github.com/opslane/opslane"
+        },
+        {
+          "title": "Notebooks sem framework",
+          "body": "Coleção gratuita de notebooks que implementam RAG, agentes e evals direto no Colab, sem framework nenhum no meio. Os primitivos na mão, na hora de aprender.",
+          "source": "github.com/calmrocks/ai-engineer-notebooks"
+        },
+        {
+          "title": "AIrecall: memória drop-in",
+          "body": "Camada de memória de longo prazo que se adiciona a agentes existentes sem reescrever nada: memória episódica e semântica, retrieval híbrido e auto-sumarização.",
+          "source": "github.com/brooxiacaigonv/AIrecall"
+        },
+        {
+          "title": "Telem: roteador com traces",
+          "body": "Proxy que roteia a busca web do seu agente entre provedores e deixa inspecionar o trace de cada consulta feita.",
+          "source": "telem.ai"
+        },
+        {
+          "title": "Arlo: atendimento na sua máquina",
+          "body": "Atendimento de cliente self-hosted que responde sobre documentos e banco próprios, com citação da fonte em cada resposta.",
+          "source": "github.com/Autobricks-AI/Arlo-AI-Desktop"
+        },
+        {
+          "title": "Handbook de inferência",
+          "body": "Manual aberto de inferência LLM em produção: serving, quantização, escalabilidade. Leitura de stack para quem baixou pesos e agora precisa rodar.",
+          "source": "github.com/h9-tec/LLM-Inference-Handbook"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A pergunta da semana migrou de \"qual modelo\" para \"quanto custa e quem observa\": custo via logs locais, memória que se encaixa sem rewrite e traces de busca. Observabilidade de agentes deixou de ser opcional."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-28",
       "date": "2026-08-28",
       "hook": "Resumo IA de 28 de agosto",
