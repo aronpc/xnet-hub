@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-28-08h30",
+      "date": "2026-08-28",
+      "time": "08h30",
+      "hook": "O nível de 79,6k que cedeu de madrugada voltou ao controle dos compradores. Três fechamentos de 1h em sequência subiram do fundo e o BTC opera a US$ 79.666, com o dia levemente positivo.",
+      "caption": "Repique desde o fundo de 79k devolveu o degrau perdido e devolveu o preço à metade de cima do canal\n\nLeia: https://xbtc.aronpc.dev/#2026-08-28-08h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-28-08h30",
+      "slides": [
+        {
+          "title": "A reação chegou por baixo",
+          "body": "Repique desde o fundo de 79k devolveu o degrau perdido e devolveu o preço à metade de cima do canal"
+        },
+        {
+          "title": "US$ 79.666",
+          "body": "Δ1h +0,4% · Δ24h +0,2% · vol US$ 34,5bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Três velas de 1h subindo do fundo, mas o preço segue preso no canal 79–80k, sem tração pra 80k nem pressão vendedora nova · Funding +0,0100% (neutro) e L/S 1,00",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Dinheiro parado, mercado sem lado",
+          "body": "Funding zerado e 49,9% contra 50,1% de posições: nenhum lado convencido, energia acumulada pronta a favor de quem romper o canal primeiro"
+        },
+        {
+          "title": "Canal 79k a 80k",
+          "body": "O degrau de 79,6k voltou a segurar; acima dele, as rejeições de 80k e o teto de 80,5k",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-28-06h31",
       "date": "2026-08-28",
       "time": "06h31",
