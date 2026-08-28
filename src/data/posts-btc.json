@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-27-23h30",
+      "date": "2026-08-27",
+      "time": "23h30",
+      "hook": "A fechada acima dos 81 mil durou menos de duas horas. O preço voltou pra US$ 80.009 e a leitura agora é outra: correção dentro do canal de 24h, com o dia ainda positivo. O climateiro segue em ganância.",
+      "caption": "O rompimento de ontem não vingou e o preço recolheu ao range de US$ 78,6k a US$ 81,5k\n\nLeia: https://xbtc.aronpc.dev/#2026-08-27-23h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-27-23h30",
+      "slides": [
+        {
+          "title": "De volta pro meio do canal",
+          "body": "O rompimento de ontem não vingou e o preço recolheu ao range de US$ 78,6k a US$ 81,5k"
+        },
+        {
+          "title": "US$ 80.009",
+          "body": "Δ1h −1,52% · Δ24h +1,60% · vol US$ 35,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Correção da máxima de US$ 81.479 até o meio do range de 24h, com o balanço do dia ainda positivo · Funding +0,0078% (zerado) e razão long/short 0,89",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Clima de desconfiança",
+          "body": "53% das contas posicionadas contra a alta, funding praticamente zerado: ninguém quer pagar caro pra estar fora nem dentro"
+        },
+        {
+          "title": "Faixa da madrugada",
+          "body": "US$ 79.000 a −1,3% (mín 24h em 78,6k) · US$ 81.500 a +1,9% (máx 24h em 81.479)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-27-22h30",
       "date": "2026-08-27",
       "time": "22h30",
