@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-28-13h30",
+      "date": "2026-08-28",
+      "time": "13h30",
+      "hook": "A escada da manhã virou elevador. Duas velas de 1h engoliram a faixa dos 79k e o BTC passou por baixo de 78,3k com volume acima da média. Agora opera a US$ 77.398, devolvendo 3,8% no dia.",
+      "caption": "A tarde deixou o preço dois degraus abaixo · US$ 77.398 · BAIXA\n\nLeia: https://xbtc.aronpc.dev/#2026-08-28-13h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-28-13h30",
+      "slides": [
+        {
+          "title": "A tarde deixou o preço dois degraus abaixo"
+        },
+        {
+          "title": "US$ 77.398",
+          "body": "Δ1h −2,4% · Δ24h −3,8% · vol US$ 30,3 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Quebra em cascata até o fundo do range, sem repique na última vela · Smart Money: funding +0,0073% neutro + L/S 1,05 equilibrado",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Sobrou a mínima de 24h",
+          "body": "76.888 é o fundo do dia e fica a 0,7%. Dali pra baixo o terreno é novo."
+        },
+        {
+          "title": "Queda a fluxo, sem alavancado esticado",
+          "body": "Funding neutro e ratio equilibrado: quem derrubou o preço não estava alavancado, e não há shorts lotados pra impulsionar repique."
+        }
+      ]
+    },
+    {
       "id": "2026-08-28-12h31",
       "date": "2026-08-28",
       "time": "12h31",
