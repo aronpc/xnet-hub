@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-28-11h31",
+      "date": "2026-08-28",
+      "time": "11h31",
+      "hook": "Segurou a manhã toda, mas não segurou: o 79k que tinha virado chão de novo virou teto, e o BTC anotou mínima nova do dia em 78.423. Agora opera a US$ 78.697, puxando a queda do dia pra −1,5%.",
+      "caption": "O segundo teste do dia não passou: mínimo novo de 24h em 78.423, com recuperação parcial desde então\n\nLeia: https://xbtc.aronpc.dev/#2026-08-28-11h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-28-11h31",
+      "slides": [
+        {
+          "title": "79k não foi de novo",
+          "body": "O segundo teste do dia não passou: mínimo novo de 24h em 78.423, com recuperação parcial desde então"
+        },
+        {
+          "title": "US$ 78.697",
+          "body": "Δ1h −0,7% · Δ24h −1,5% · vol US$ 34,5bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A drenagem lenta da manhã virou rompimento: o piso de 79k trocou de lado e agora rejeita o preço · Funding +0,0052% (quase zero) e L/S 1,03",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Ainda tem espaço pra esvaziar",
+          "body": "Índice de sentimento segue em zona de ganância; caindo pra neutro, sobe espaço de queda",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "78,4k no centro das atenções",
+          "body": "O fundo novo do dia; acima, 79k funciona como teto e 79,6k como próximo degrau",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-28-10h30",
       "date": "2026-08-28",
       "time": "10h30",
