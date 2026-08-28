@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-28-14h31",
+      "date": "2026-08-28",
+      "time": "14h31",
+      "hook": "Repique de +0,7% na hora tirou o BTC da beirada do fundo, mas a vela de volta rodou com menos da metade do volume de sempre. Ele segue preso abaixo dos 78,3k que eram chão. US$ 77.971 agora.",
+      "caption": "Preço longe do fundo de novo, sem convicção na vela de reação\n\nLeia: https://xbtc.aronpc.dev/#2026-08-28-14h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-28-14h31",
+      "slides": [
+        {
+          "title": "O repique veio meio vazio",
+          "body": "Preço longe do fundo de novo, sem convicção na vela de reação"
+        },
+        {
+          "title": "US$ 77.971",
+          "body": "Δ1h +0,7% · Δ24h −3,4% · vol US$ 36,7 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Pausa pra digerir o tombo, não virada · Smart Money: funding +0,0082% neutro + L/S 1,13 (53% longs)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Um teto a 0,4% e um chão a 1,4%",
+          "body": "A faixa apertou: 77,0k embaixo, 78,3k em cima, que era o suporte perdido. OI encolhendo (107,6k → 107,3k): sobrou menos gente no trade, não entrou dinheiro novo.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Segurar 77,9k mantém o reteste vivo",
+          "body": "Perder 77,0k coloca o fundo do dia (76.888) em jogo; fechar acima de 78,3k com volume devolve a leitura de alta"
+        }
+      ]
+    },
+    {
       "id": "2026-08-28-13h30",
       "date": "2026-08-28",
       "time": "13h30",
