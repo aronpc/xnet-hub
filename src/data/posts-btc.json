@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-29-16h31",
+      "date": "2026-08-29",
+      "time": "16h31",
+      "hook": "BTC em alta em US$ 78.241 · depois de ~28h travado, passou dos 78.150, que já tinham bloqueado o topo cinco vezes hoje, e tocou 78.330 com o menor volume dos últimos dias",
+      "caption": "A vela da passagem registrou 41% do volume usual de sábado. O teste de verdade fica pra abertura de segunda (31/08).\n\nLeia: https://xbtc.aronpc.dev/#2026-08-29-16h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-29-16h31",
+      "slides": [
+        {
+          "title": "O nível cedeu. Falta volume.",
+          "body": "A vela da passagem registrou 41% do volume usual de sábado. O teste de verdade fica pra abertura de segunda (31/08)."
+        },
+        {
+          "title": "US$ 78.241",
+          "body": "Δ1h +0,21% · Δ24h +0,73% · vol US$ 16,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Cinco fechamentos de alta em sequência passaram por cima dos 78.150 · funding +0,010% e L/S 1,21, leitura sem extremo nenhum: ninguém entra esticado nesse movimento",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A hora do teste",
+          "body": "Faixa estreita agora: 78.000 (−0,3%) e 78.500 (+0,3%) · interesse aberto estável em 107,9k BTC, o dinheiro alavancado acompanha sem aumentar aposta"
+        },
+        {
+          "title": "Sábado de fluxo raso",
+          "body": "US$ 16,7bi no dia é o menor volume recente. Segunda (31/08) deve trazer a resposta que o sábado não deu"
+        }
+      ]
+    },
+    {
       "id": "2026-08-28-15h30",
       "date": "2026-08-28",
       "time": "15h30",
