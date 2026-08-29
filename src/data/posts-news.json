@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-29",
+      "date": "2026-08-29",
+      "hook": "Radar skills & MCP · 29 de agosto",
+      "caption": "O ecossistema amadureceu de vez. O Claude Code fecha uma vulnerabilidade real de escape de sandbox e abre hooks de governança. Na cauda longa, guardrails, memória compartilhada e loops com portão de parada disputam as camadas que ainda não têm dono.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-29",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-29",
+      "slides": [
+        {
+          "title": "Radar skills & MCP · 29 de agosto",
+          "body": "O ecossistema amadureceu de vez. O Claude Code fecha uma vulnerabilidade real de escape de sandbox e abre hooks de governança. Na cauda longa, guardrails, memória compartilhada e loops com portão de parada disputam as camadas que ainda não têm dono."
+        },
+        {
+          "title": "v2.1.251: fix de symlink e hooks de troca de modelo",
+          "body": "A release de 28 de agosto corrige as file tools seguindo symlink trocado dentro do diretório de trabalho depois da checagem de permissão. O buraco permitia ler e escrever fora do local aprovado. Também chegam os hooks PreModelSwitch e PostModelSwitch, linha de cache no /cost e barra de limite de gasto no /usage.",
+          "source": "github.com/anthropics/claude-code/releases"
+        },
+        {
+          "title": "sepia: a skill de tirar o cheiro de IA da prosa, 443★ em 1 dia",
+          "body": "Skill pra Claude Code, Codex, Grok Build e Antigravity que repara a arquitetura narrativa de textos de ficção. Estreou com quatrocentas e quarenta e três estrelas no primeiro dia, a maior da categoria.",
+          "source": "github.com/Nanako0129/sepia"
+        },
+        {
+          "title": "Conduct: políticas para tool calls de LLM e MCP",
+          "body": "Camada open source e self-hostable que intercepta e valida chamadas de tools LLM e MCP contra políticas configuráveis. Apareceu no Show HN de sexta com boa recepção.",
+          "source": "github.com/sseshachala/conductai"
+        },
+        {
+          "title": "Rafter: memória, skills e agentes do time num MCP",
+          "body": "MCP server que expõe a memória, as skills e os agentes de um time pra todos os membros. Conhecimento de agente como recurso compartilhado, em vez de silo por sessão.",
+          "source": "heyrafter.xyz"
+        },
+        {
+          "title": "Forth MCP: seus MCPs locais pra qualquer cliente remoto",
+          "body": "Ponte que dá a qualquer cliente de IA remoto acesso aos MCP servers da sua máquina local. É o reverso dos gateways: em vez de subir o server, expõe o que já roda. Sem abrir porta.",
+          "source": "forthmcp.com"
+        },
+        {
+          "title": "dmx: loops com portão de parada via MCP",
+          "body": "MCP server que adiciona loops controlados a coding agents: iteração com portões de parada configuráveis, injetados como tool. Agente em loop infinito é a falha mais comum de autonomia, e o gate reutilizável chega como peça simples.",
+          "source": "dmx.deepmodel.ai"
+        },
+        {
+          "title": "Publicou um MCP server e 224 bots leram a tool list",
+          "body": "Um publisher instrumentou o próprio MCP server público: duzentos e vinte e quatro agentes baixaram a lista de tools. Só quatro chegaram a executar algo. Telemetria crua do tráfego agent-to-server.",
+          "source": "thefomite.com/report"
+        },
+        {
+          "title": "A2acast: agentes em máquinas diferentes colaborando",
+          "body": "Projeto open source pra agentes rodando em máquinas diferentes trabalharem juntos, com mensageria A2A entre agentes de CLIs diferentes.",
+          "source": "github.com/husker/a2acast"
+        },
+        {
+          "title": "Governança chegou na camada de agente",
+          "body": "O dia trouxe correção de vulnerabilidade, policy engine, gate de loop e telemetria de descoberta. Quatro sinais do mesmo movimento: o ecossistema skill e MCP passou a cobrar controle, e não só capacidade."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-29",
       "date": "2026-08-29",
       "hook": "Radar de projetos · 29 de agosto",
