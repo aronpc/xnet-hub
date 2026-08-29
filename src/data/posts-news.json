@@ -2,6 +2,66 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-29",
+      "date": "2026-08-29",
+      "hook": "Radar IA de 29 de agosto",
+      "caption": "A semana fecha com a conta chegando: pesquisa do NBER diz que 89% dos executivos não viram ganho de produtividade, e o ChatGPT começa a rodar anúncio. No meio disso, a OpenAI corta o Cursor e os harnesses viram sistema operacional de trabalho.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-29",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-29",
+      "slides": [
+        {
+          "title": "Radar IA de 29 de agosto",
+          "body": "A semana fecha com a conta chegando: pesquisa do NBER diz que 89% dos executivos não viram ganho de produtividade, e o ChatGPT começa a rodar anúncio. No meio disso, a OpenAI corta o Cursor e os harnesses viram sistema operacional de trabalho."
+        },
+        {
+          "title": "OpenAI corta o Cursor",
+          "body": "A OpenAI vai tirar seus modelos do Cursor a partir de 12 de novembro. O motivo veio sem rodeio: a empresa não confia que a SpaceX, que comprou o editor por 60 bilhões de dólares, vá respeitar os termos de uso. A Bloomberg confirmou o fim da parceria.",
+          "source": "openai.com"
+        },
+        {
+          "title": "Tencent Hy4: 770B abertos com 1M de contexto",
+          "body": "O Hy4 Preview chegou com 770 bilhões de parâmetros em pesos abertos e janela de 1 milhão de tokens. Segundo os testes internos da Tencent, ele vence por pouco o GLM-5.3 e o Kimi K3 em tarefas de engenharia. O código está no GitHub.",
+          "source": "github.com/Tencent-Hunyuan/Hy4-preview"
+        },
+        {
+          "title": "89% dos executivos: zero ganho com IA",
+          "body": "Pesquisa do NBER ouviu executivos: 89% não viram efeito nenhum em produtividade, e mais de 90% nenhum efeito no emprego. A telemetria da Linear mostra o outro lado: times com agentes de código passaram de 21 para 65 PRs por semana, mas o tempo total de desenvolvimento subiu junto.",
+          "source": "aitoolsrecap.com"
+        },
+        {
+          "title": "Terminal-Bench 4.0 e o apetite do Sonnet 5",
+          "body": "A nova versão do benchmark unifica o tempo limite em 8 horas, remove tarefas saturadas e calibra recursos por ruído de infraestrutura. O dado que salta: o run do Sonnet 5 queimou 21,6 bilhões de tokens, contra 6,5 bilhões do Opus 5, e ainda bateu em timeout e estouro de tokens.",
+          "source": "tbench.ai"
+        },
+        {
+          "title": "Codex ganha modo persistente",
+          "body": "A OpenAI testa no Codex um modo em que o agente segue trabalhando até alguém mandar dormir, e ainda cria as próximas tarefas por conta própria. No mesmo dia, o blog de devs publicou Codex as a Platform, abrindo o harness como plataforma de construção.",
+          "source": {
+            "label": "Wired, 28 ago",
+            "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/"
+          }
+        },
+        {
+          "title": "E-mail invisível manipula agentes em 10 de 10 tentativas",
+          "body": "A Forcepoint X-Labs mostrou injeção de prompt por HTML invisível, com fonte de tamanho zero e texto branco sobre branco: uma mensagem visível de 537 caracteres entregava 1.009 ao modelo. Nos dez testes, o resumo saiu manipulado. Um deles mudou o prazo de pagamento de uma fatura.",
+          "source": "aitoolsrecap.com"
+        },
+        {
+          "title": "Debian aprova uso responsável de IA generativa",
+          "body": "A resolução passou na votação do projeto e define como modelos de linguagem podem entrar nos fluxos de manutenção da distro. O resultado saiu na lista debian-vote, com a discussão de uso responsável andando junto da aprovação.",
+          "source": "lists.debian.org"
+        },
+        {
+          "title": "Uber: 9,4x mais requisições de agentes, mesma conta",
+          "body": "A própria Uber divulgou: o volume semanal de requisições a agentes de IA multiplicou por 9,4 desde fevereiro, mas o gasto total com IA fica estável desde abril. A empresa queimou o orçamento anual de IA já no primeiro trimestre.",
+          "source": "axios.com"
+        },
+        {
+          "title": "A conta chegou",
+          "body": "Três sinais apontando pro mesmo lugar: a pesquisa do NBER mostra que o ganho de produtividade não apareceu, os números da Uber mostram o custo por requisição despencando, e o ChatGPT abriu espaço para anúncio. Quem construía em cima da promessa de economia agora precisa mostrar número."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-28",
       "date": "2026-08-28",
       "hook": "Skills e MCP — 28 de agosto",
