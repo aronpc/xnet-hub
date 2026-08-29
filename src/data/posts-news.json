@@ -2,6 +2,57 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-29",
+      "date": "2026-08-29",
+      "hook": "Radar de projetos · 29 de agosto",
+      "caption": "Dia de camada de orquestração e segurança pra agentes: coordenação de sessões paralelas, supervisão por syscall e configuração declarativa de harness. Nove pautas, seis selecionadas, quase todas com repo aberto no GitHub.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-29",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-29",
+      "slides": [
+        {
+          "title": "Radar de projetos · 29 de agosto",
+          "body": "Dia de camada de orquestração e segurança pra agentes: coordenação de sessões paralelas, supervisão por syscall e configuração declarativa de harness. Nove pautas, seis selecionadas, quase todas com repo aberto no GitHub."
+        },
+        {
+          "title": "ChatGPT pensa, Codex trabalha: 408★ em 1 dia",
+          "body": "O repositório pluga o ChatGPT como planejador mantendo o harness do Codex como executor. A formulação é do próprio projeto: ChatGPT pensa, Codex trabalha. Estourou no trending do GitHub com quatrocentas e oito estrelas no primeiro dia.",
+          "source": "github.com/XiaoDuoYa/codex-with-chatgpt"
+        },
+        {
+          "title": "Grith: supervisão de agentes por syscall",
+          "body": "Proxy de segurança que supervisiona coding agents por chamadas de sistema no Linux. O que o sandbox de aplicação faz pra um processo, o Grith faz pro agente inteiro. E dá pra matar a ação antes do dano acontecer.",
+          "source": "github.com/grith-ai/grith"
+        },
+        {
+          "title": "Argus: agentes open source testando web apps",
+          "body": "Agentes que navegam e testam aplicações web sozinhos, como alternativa ao Playwright scriptado. O projeto apareceu no Show HN de vinte e oito de agosto.",
+          "source": "github.com/argus-testing/argus"
+        },
+        {
+          "title": "Twing: quem mexe em qual arquivo",
+          "body": "Camada de coordenação pra múltiplos agentes de código: orquestra quem mexe em qual arquivo entre sessões paralelas do Claude Code e do Codex, evitando colisão quando dois agentes trabalham no mesmo repositório.",
+          "source": "twing.dev"
+        },
+        {
+          "title": "weir: testar agentes sem gastar tokens",
+          "body": "Ferramenta open source pra testar AI agents sem chamada de modelo: fixtures e determinismo no lugar de requisições caras. Apareceu no Show HN de sexta.",
+          "source": "github.com/IdoGol24/weir"
+        },
+        {
+          "title": "agentctl: Terraform para agent harnesses",
+          "body": "Ferramenta que declara a configuração de harnesses como código versionável e reaplicável: skills, hooks e MCP servers tratados como infraestrutura declarativa, no estilo do Terraform.",
+          "source": "github.com/RomanVolkov/agentctl"
+        },
+        {
+          "title": "Também no radar",
+          "body": "OpenInstinct é o clone self-hostable do assistente que captou duzentos e cinquenta milhões de dólares, publicado em quarenta e oito horas. StemDeck separa stems de áudio rodando tudo na máquina do usuário. E o LoongSage, framework de RL agêntico do Baidu, ficou de fora da seleção de hoje."
+        },
+        {
+          "title": "A camada entre agente e máquina",
+          "body": "Os três lançamentos de hoje atacam dores reais de frota: coordenação de sessões paralelas, contenção antes do dano e configuração como código. Nenhum deles é sobre modelo. Todos são sobre operação."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-29",
       "date": "2026-08-29",
       "hook": "Radar IA de 29 de agosto",
