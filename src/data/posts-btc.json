@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-30-13h31",
+      "date": "2026-08-30",
+      "time": "13h31",
+      "hook": "BTC fecha acima de US$ 79.000 · o teto das últimas 24h cedeu com volume acima da média",
+      "caption": "Depois de horas batendo no mesmo teto, atravessou com gente junto. Agora é ver se o novo patamar aguenta peso.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-30-13h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-30-13h31",
+      "slides": [
+        {
+          "title": "Confirmou",
+          "body": "Depois de horas batendo no mesmo teto, atravessou com gente junto. Agora é ver se o novo patamar aguenta peso."
+        },
+        {
+          "title": "US$ 79.059",
+          "body": "Δ1h +0,35% · Δ24h +1,45% · vol $14,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Cinco horas seguidas de alta e o volume na virada veio 1,5x acima da média · funding +0,0061% e razão long/short 1,08",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Ganância no radar",
+          "body": "A força tem explicação: juros de posição baixos e ninguém apertado. O que pede atenção é o humor, que já entrou na zona de ganância (69).",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Segurando 79.000, o próximo número é 79.500 · Abaixo, volta pra faixa de 78.800",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-30-11h30",
       "date": "2026-08-30",
       "time": "11h30",
