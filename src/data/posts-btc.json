@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-30-19h30",
+      "date": "2026-08-30",
+      "time": "19h30",
+      "hook": "BTC em US$ 78,3 mil · a referência de 78,8 mil cedeu e o preço desceu até a beira do canal de seis horas",
+      "caption": "A área de 78,8 mil que segurava a tarde virou obstáculo. Dali pra cá foi ladeira até 78 mil, encostado na mínima do dia, e com um quarto do volume médio: desgaste, sem ataque.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-30-19h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-30-19h30",
+      "slides": [
+        {
+          "title": "O dia perdeu a base",
+          "body": "A área de 78,8 mil que segurava a tarde virou obstáculo. Dali pra cá foi ladeira até 78 mil, encostado na mínima do dia, e com um quarto do volume médio: desgaste, sem ataque."
+        },
+        {
+          "title": "US$ 78.337",
+          "body": "Δ1h −0,37% · Δ24h +0,26% · vol $16,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Sexta hora de vaivém entre 78,0 e 79,4 mil, agora no trecho de baixo · funding +0,0078% (quase zero) e long/short 1,05: ninguém comprado demais pra nenhum lado",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Colado na mínima de 24h",
+          "body": "O piso do canal fica em 78,0 mil e a mínima de 24h em 77.962, logo abaixo; na volta, a antiga base de 78,8 mil é a barreira seguinte.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Segurar 78 mil mantém o canal de pé; fechar acima de 78,8 mil reabre o caminho pra faixa de 79 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-30-14h30",
       "date": "2026-08-30",
       "time": "14h30",
