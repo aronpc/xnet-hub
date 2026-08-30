@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-08-30",
+      "date": "2026-08-30",
+      "hook": "Radar IA de 30 de agosto",
+      "caption": "Domingo, e a semana fecha apertada pra quem vive do Claude: o teto de uso cai um terço em setembro, a Anthropic foi processada pelas editoras com os fundadores no banco dos réus, e a China abriu dois modelos de fronteira. No meio disso, o Cursor virou vetor comprovado de ransomware.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-08-30",
+      "link": "https://xnews.aronpc.dev/#ia-2026-08-30",
+      "slides": [
+        {
+          "title": "Radar IA de 30 de agosto",
+          "body": "Domingo, e a semana fecha apertada pra quem vive do Claude: o teto de uso cai um terço em setembro, a Anthropic foi processada pelas editoras com os fundadores no banco dos réus, e a China abriu dois modelos de fronteira. No meio disso, o Cursor virou vetor comprovado de ransomware."
+        },
+        {
+          "title": "O boost vira corte: limites do Claude Code caem em setembro",
+          "body": "O aumento de 50% nos limites semanais, vigente desde maio e prorrogado três vezes, vira um reajuste permanente de 25% a partir de 14 de setembro. Quem não se planejar volta a dois terços do teto atual. Cai no mesmo dia em que o Sonnet 5 passa a custar 3 e 15 dólares por milhão de tokens.",
+          "source": {
+            "label": "Anthropic — Bluesky",
+            "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424"
+          }
+        },
+        {
+          "title": "Sony e Warner processam a Anthropic e os fundadores",
+          "body": "As duas editoras entraram com ação na Califórnia alegando campanha descarada de violação de copyright, com dezenas de milhares de composições reproduzidas pelo Claude. Dario Amodei e Benjamin Mann são réus pessoais, o que nunca tinha acontecido em ação de treinamento.",
+          "source": {
+            "label": "TechCrunch — 29 ago",
+            "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of/"
+          }
+        },
+        {
+          "title": "GLM-5.3 abre os pesos com licença inédita",
+          "body": "A Z.ai publicou os pesos na Hugging Face depois de duas semanas de hold de segurança. Trocou o MIT por uma licença própria: quem hospeda o modelo e fatura acima de 10 bilhões de dólares por ano passa por revisão de segurança da empresa. O modelo alega SOTA aberto em CyberGym, com 2.436 vulnerabilidades achadas em 269 projetos.",
+          "source": {
+            "label": "The New Stack — 28 ago",
+            "url": "https://thenewstack.io/zai-glm-weights-license/"
+          }
+        },
+        {
+          "title": "Tencent Hy4: 770B abertos com 1M de contexto",
+          "body": "A Tencent abriu o Hy4 Preview sob Apache 2.0: 770 bilhões de parâmetros e janela de 1 milhão de tokens. Nos benchmarks internos, a empresa diz que supera por pouco os modelos de fronteira dos EUA.",
+          "source": {
+            "label": "GitHub — Tencent-Hunyuan",
+            "url": "https://github.com/Tencent-Hunyuan/Hy4-preview"
+          }
+        },
+        {
+          "title": "Cursor: usado por ransomware e defendido pelos números",
+          "body": "A gangue russófona Aur0ra usou o assistente de código do grupo SpaceX para escrever malware e entrar em vítimas, segundo a Gambit Security. No mesmo fim de semana, o cofundador Michael Truell rebateu a saída da OpenAI: ela era só 5% do tráfego, e a Cognition fatura 900 milhões anualizados, três vezes mais que no ano passado.",
+          "source": {
+            "label": "Reuters — 27 ago",
+            "url": "https://www.reuters.com/world/russian-speaking-cybercriminals-used-spacexs-cursor-ai-tool-hack-companies-10695876/"
+          }
+        },
+        {
+          "title": "Instinct capta a 2,5 bi e ganha clone aberto em 48h",
+          "body": "O assistente de IA viral da vez levanta Série B co-liderada por Index e Benchmark, avaliado em 2,5 bilhões de dólares. Dois dias depois, o repo OpenInstinct da Merit-Systems já replicava a ideia em versão self-hostable.",
+          "source": {
+            "label": "WSJ — 27 ago",
+            "url": "https://www.wsj.com/tech/ai/the-latest-viral-ai-assistant-rocketing-across-silicon-valley-abb46276"
+          }
+        },
+        {
+          "title": "A conta e a cerca",
+          "body": "Dois movimentos em direções opostas: o custo de usar fronteira fechada sobe, com teto menor e reprice de modelo no mesmo dia, enquanto a fronteira aberta chinesa ganha dois pesos pesados com contexto de 1 milhão. O meio do caminho, assistentes virais, virou commodity em 48 horas."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-29",
       "date": "2026-08-29",
       "hook": "Radar skills & MCP · 29 de agosto",
