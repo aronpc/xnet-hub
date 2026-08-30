@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-30-11h30",
+      "date": "2026-08-30",
+      "time": "11h30",
+      "hook": "BTC em US$ 78.840 encostado no limite das últimas 24h · terceiro fechamento seguido no azul",
+      "caption": "Passou pela máxima do dia e parou a um passo do topo das últimas 24 horas. Da última vez que chegou assim, atravessou.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-30-11h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-30-11h30",
+      "slides": [
+        {
+          "title": "Chegou na borda",
+          "body": "Passou pela máxima do dia e parou a um passo do topo das últimas 24 horas. Da última vez que chegou assim, atravessou."
+        },
+        {
+          "title": "US$ 78.840",
+          "body": "Δ1h +0,18% · Δ24h +1,47% · vol $14,5bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Saiu do canal de 78,0 a 78,2k numa tacada só e não devolveu nada: três fechamentos de hora em sequência · funding +0,0075% e razão long/short 1,10",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Dinheiro novo, não atalho",
+          "body": "O estoque em jogo cresceu junto com o preço, sinal de quem entrou de verdade e não de posição apertada. E o custo de ficar no jogo segue no chão.",
+          "source": "https://www.coinglass.com/OpenInterest"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Acima de 78.967, o preço sai do canal das últimas 24h pela primeira vez · De 78.450 pra baixo, a leitura esfria",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-30-09h30",
       "date": "2026-08-30",
       "time": "09h30",
