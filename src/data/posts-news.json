@@ -2,6 +2,89 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-30",
+      "date": "2026-08-30",
+      "hook": "Skills e MCP de 30 de agosto",
+      "caption": "A casa dos skills e do MCP amadureceu de vez: o primeiro censo de campo do registro oficial achou instrução pra esconder coisa do usuário em produção, o Claude Code ganhou hooks de governança de modelo e um modo restrito, e a skill que aprende com o uso virou paper e produto na mesma semana.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-30",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-30",
+      "slides": [
+        {
+          "title": "Skills e MCP de 30 de agosto",
+          "body": "A casa dos skills e do MCP amadureceu de vez: o primeiro censo de campo do registro oficial achou instrução pra esconder coisa do usuário em produção, o Claude Code ganhou hooks de governança de modelo e um modo restrito, e a skill que aprende com o uso virou paper e produto na mesma semana."
+        },
+        {
+          "title": "Audit do registro MCP: 15.329 servers, 140 mil tools",
+          "body": "O Fetchgate abriu sessão MCP read-only em cada URL remoto do registro oficial: dos 25.289 listados, 8.235 responderam, com 140.284 tools. Mediana de 7 por server, máximo de 1.076. E 28,6% dos servers vivos pertencem a só 2 operadores.",
+          "source": {
+            "label": "Fetchgate — audit 2026",
+            "url": "https://fetchgate.dev/blog/mcp-registry-audit-2026"
+          }
+        },
+        {
+          "title": "Claude Code v2.1.251: hooks de troca de modelo",
+          "body": "A release de 28/08 adiciona hooks PreModelSwitch e PostModelSwitch, que bloqueiam, confirmam ou anotam troca de modelo. Traz também resume hooks com staleness e custo de re-cache estimado, e streaming das tool calls de subagentes em foreground.",
+          "source": {
+            "label": "GitHub — claude-code releases",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.251"
+          }
+        },
+        {
+          "title": "v2.1.248: --restricted endurece o sandbox",
+          "body": "O modo restrito remove tools que executam comandos e o WebFetch, prende as tools de arquivo no working dir, recusa bypassPermissions e ignora settings de user, project e local.",
+          "source": {
+            "label": "GitHub — claude-code releases",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.248"
+          }
+        },
+        {
+          "title": "Skillsets: biblioteca de skills com nota e drift à vista",
+          "body": "O SkillRepo lançou Skillsets: biblioteca compartilhada de skills para times, com nota automática por skill, sincronização no início de cada sessão do agente e drift de config visível.",
+          "source": {
+            "label": "skillrepo.dev",
+            "url": "https://skillrepo.dev/blog/introducing-skillsets"
+          }
+        },
+        {
+          "title": "Paper: compilar experiência de agente em skill que evolui",
+          "body": "O arXiv 2608.27454 formaliza transformar a experiência de execução de agentes em conhecimento persistente que evolui skills. A implementação de referência, o repo SkillForge, foi publicada no dia seguinte.",
+          "source": {
+            "label": "arXiv — 28 ago",
+            "url": "https://arxiv.org/abs/2608.27454"
+          }
+        },
+        {
+          "title": "A aritmética do teto do Claude Code",
+          "body": "O mesmo anúncio da Anthropic, agora com a conta feita: sair do boost de 50% para o aumento permanente de 25% é queda de um terço na capacidade. Quem passa de 67% da barra semanal vai bater no teto depois de 14 de setembro.",
+          "source": {
+            "label": "AIToolsRecap — 30 ago",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-august-30-2026/"
+          }
+        },
+        {
+          "title": "genart-skill: arte generativa direto do Claude Code",
+          "body": "Skill da Camille Roux, publicada em 28/08, para gerar arte generativa em canvas e plotter direto do terminal.",
+          "source": "github.com/camilleroux/genart-skill"
+        },
+        {
+          "title": "dwarf_fortress_mcp: control plane transacional e replayável",
+          "body": "O Dicklesworthstone publicou um MCP que deixa agentes operarem o Dwarf Fortress com transações semânticas, replay e rollback. O jogo é o laboratório.",
+          "source": "github.com/Dicklesworthstone/dwarf_fortress_mcp"
+        },
+        {
+          "title": "Autorização de agentes converge em três frentes",
+          "body": "Três movimentos chegando no mesmo requisito: protocolo de pagamentos de agentes do Google com x402, o conceito de identidade de agentes do NIST, e o AI AGENT Act no Senado. Cloudflare já shippa x402 com mais de 20 empresas.",
+          "source": {
+            "label": "AIToolsRecap — 30 ago",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-august-30-2026/"
+          }
+        },
+        {
+          "title": "Da ferramenta ao control plane",
+          "body": "O ecossistema saiu do MCP que só expõe função: agora tem censo que expõe veneno em descrição, hooks que governam qual modelo roda, sandbox restrito pra cron, e transação com rollback como padrão de server sério. A camada de ferramenta virou infraestrutura com governança."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-30",
       "date": "2026-08-30",
       "hook": "Repos e projetos de 30 de agosto",
