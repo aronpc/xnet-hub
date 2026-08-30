@@ -2,6 +2,77 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-30",
+      "date": "2026-08-30",
+      "hook": "Repos e projetos de 30 de agosto",
+      "caption": "Fim de semana forte em infra de agentes: a Nvidia abriu um framework de agentes orientado a objetos, um repo novo compila a experiência real do Claude Code em skills versionadas, e o padrão de browser logado como ferramenta MCP ganhou implementação open-source. A Cognition soltou os números da briga com a OpenAI.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-30",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-30",
+      "slides": [
+        {
+          "title": "Repos e projetos de 30 de agosto",
+          "body": "Fim de semana forte em infra de agentes: a Nvidia abriu um framework de agentes orientado a objetos, um repo novo compila a experiência real do Claude Code em skills versionadas, e o padrão de browser logado como ferramenta MCP ganhou implementação open-source. A Cognition soltou os números da briga com a OpenAI."
+        },
+        {
+          "title": "Nvidia NOOA: agentes orientados a objetos",
+          "body": "A Nvidia abriu o código do NOOA sob Apache 2.0. A proposta é colocar objetos como cidadãos de primeira classe no loop do agente, e as comparações com LangChain e AutoGen já circulam como o novo concorrente heavyweight da categoria.",
+          "source": "github.com/nvidia/nooa"
+        },
+        {
+          "title": "SkillForge: skills que evoluem da experiência medida",
+          "body": "Repo da srlabs implementa o paper WikiSkill: extrai lições das sessões reais do Claude Code e compila em skills versionadas. Compilar experiência de agente em conhecimento persistente, na prática.",
+          "source": "github.com/srlabs/skillforge"
+        },
+        {
+          "title": "useagent: coworker que você delega e volta buscar",
+          "body": "Repo useagenthq/useagent, 26 estrelas no primeiro dia: agente de trabalho open-source com handoff de tarefas no estilo entrego o trabalho, recebo o resultado.",
+          "source": "github.com/useagenthq/useagent"
+        },
+        {
+          "title": "StemDeck: separador de stems local e gratuito",
+          "body": "Hit do Hacker News de fim de semana, 209 pontos e repo com 3.210 estrelas: separação de stems para músicos rodando local, sem custo de API.",
+          "source": "github.com/stemdeckapp/stemdeck"
+        },
+        {
+          "title": "vLLM v0.28.0 define o que roda nos pesos novos",
+          "body": "Saiu a release do motor de inferência mais usado, com 90,4 mil estrelas e 103 pontos no HN no dia. O changelog define quando GLM-5.3 e Hy4 ficam confortáveis de servir.",
+          "source": {
+            "label": "GitHub — vllm-project",
+            "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0"
+          }
+        },
+        {
+          "title": "mcp-session-bridge: o server dirige seu browser logado",
+          "body": "Show HN do t3ratech: server MCP que assume a sessão autenticada do usuário e navega como ele. O inverso do headless tradicional, que precisa lidar com login e anti-bot.",
+          "source": "github.com/t3ratech/mcp-session-bridge"
+        },
+        {
+          "title": "OpenInstinct: clone do assistente viral em 48h",
+          "body": "O repo Merit-Systems/OpenInstinct replica o Instinct, assistente que captava 250 milhões avaliado em 2,5 bilhões, em versão self-hostable. Do anúncio da rodada ao clone aberto: dois dias.",
+          "source": "github.com/Merit-Systems/OpenInstinct"
+        },
+        {
+          "title": "Cognition: 900 milhões anualizados e burn de 800",
+          "body": "The Information: a receita anualizada triplicou no ano para cerca de 900 milhões de dólares, com cash burn perto de 800 milhões. Truell sustenta que a OpenAI era só 5% do tráfego do Cursor.",
+          "source": {
+            "label": "The Information — 29 ago",
+            "url": "https://www.theinformation.com/articles/inside-cognitions-booming-growth-high-cash-burn"
+          }
+        },
+        {
+          "title": "LLM Cliché Highlighter, do Simon Willison",
+          "body": "Ferramenta web que destaca clichês de texto de LLM em tempo real: delve, tapeçaria e afins. Feita por Simon Willison, 25 pontos no HN.",
+          "source": {
+            "label": "tools.simonwillison.net",
+            "url": "https://tools.simonwillison.net/llm-cliche-highlighter"
+          }
+        },
+        {
+          "title": "A camada que aprende",
+          "body": "O fio comum do fim de semana: agentes que acumulam experiência e viram conhecimento persistente, framework heavyweight opinando sobre arquitetura, e browser logado virando tool padrão. A infra de agentes saiu do wrapper e começou a ter memória, opinião e sessão."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-30",
       "date": "2026-08-30",
       "hook": "Radar IA de 30 de agosto",
