@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-30-14h30",
+      "date": "2026-08-30",
+      "time": "14h30",
+      "hook": "BTC volta pra US$ 78,9 mil · a passagem dos 79 mil durou menos de uma hora",
+      "caption": "Na hora passada o preço atravessou o teto, devolveu e voltou pra dentro da faixa de antes. Recuo de 0,5% do pico, nada de pânico.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-30-14h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-30-14h30",
+      "slides": [
+        {
+          "title": "Ficou pela metade",
+          "body": "Na hora passada o preço atravessou o teto, devolveu e voltou pra dentro da faixa de antes. Recuo de 0,5% do pico, nada de pânico."
+        },
+        {
+          "title": "US$ 78.918",
+          "body": "Δ1h −0,18% · Δ24h +1,18% · vol $15,5bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Chegou acima de 79 mil, não segurou o fechamento e caiu de volta pra área antiga · juros de posição em +0,0047%, quase zero, e comprados e vendidos em equilíbrio (1,08)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "79 mil na memória",
+          "body": "A faixa de 78.800 continua sendo o chão do dia: enquanto segurar, a máxima de 79.400 volta pro radar; se escapar, a área de 78.450 ressurge."
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Fechamento acima de 78.800 mantém a tentativa de reteste · abaixo, o movimento volta pra 78.450",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-30-13h31",
       "date": "2026-08-30",
       "time": "13h31",
