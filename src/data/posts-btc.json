@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-30-09h30",
+      "date": "2026-08-30",
+      "time": "09h30",
+      "hook": "BTC rompe US$ 78.330 depois de 10h parado · volume 2x a média na virada",
+      "caption": "Domingo que passou o dia andando de lado resolveu subir, e a última vela veio com gente.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-30-09h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-30-09h30",
+      "slides": [
+        {
+          "title": "Saiu da toca",
+          "body": "Domingo que passou o dia andando de lado resolveu subir, e a última vela veio com gente."
+        },
+        {
+          "title": "US$ 78.551",
+          "body": "Δ1h +0,46% · Δ24h +1,26% · vol $13,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Passou do teto de 78.330 com 488 BTC/h contra 232 de média · Funding +0,0100% e razão long/short 1,12",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Subida sem dívida",
+          "body": "Juros de posição no chão e estoque estável: quem comprou pagou vista, o que costuma dar mais fôlego. Falta pouco pra máx do dia, 78.726."
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Se 78.726 ceder, o redondo de 79.000 entra na conversa · Abaixo de 78.330, a virada perde a graça",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-29-16h31",
       "date": "2026-08-29",
       "time": "16h31",
