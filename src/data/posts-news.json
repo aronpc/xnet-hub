@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-08-31",
+      "date": "2026-08-31",
+      "hook": "Skills & MCP — 31 de agosto de 2026",
+      "caption": "A camada de confiança entrou na agenda: Auto Mode quebrado em público por prompt injection, attestation criptográfica pra tools MCP, e três frentes de regulação de autorização de agentes convergindo na mesma semana.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-08-31",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-08-31",
+      "slides": [
+        {
+          "title": "Skills & MCP — 31 de agosto de 2026",
+          "body": "A camada de confiança entrou na agenda: Auto Mode quebrado em público por prompt injection, attestation criptográfica pra tools MCP, e três frentes de regulação de autorização de agentes convergindo na mesma semana."
+        },
+        {
+          "title": "Auto Mode do Opus 5 quebra com 60 a 80% de sucesso",
+          "body": "O pesquisador wunderwuzzi mostrou que um pedido simples de \"resumir um site\" executa código no Opus 5 em Auto Mode. A taxa de sucesso do ataque ficou entre 60% e 80% — contra os 0,00% reportados pela avaliação da Trajectory Labs encomendada pela Anthropic.",
+          "source": {
+            "label": "embracethered — 26 ago",
+            "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/"
+          }
+        },
+        {
+          "title": "Issue #66504: a URL de sessão no commit sem opt-in",
+          "body": "A issue fechada com 94 reações e 22 comentários questionava a URL de sessão anexada a commits e PRs por default, sem pedir permissão. Voltou ao topo da HN neste fim de semana.",
+          "source": {
+            "label": "GitHub — claude-code#66504",
+            "url": "https://github.com/anthropics/claude-code/issues/66504"
+          }
+        },
+        {
+          "title": "Claudeforce: o CRM inteiro da Salesforce dentro do Claude",
+          "body": "Salesforce e Anthropic lançaram conjunto que traz dados e workflows do CRM para dentro do Claude, começando pela linha de orquestração de agentes.",
+          "source": {
+            "label": "VentureBeat — 26 ago",
+            "url": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youl"
+          }
+        },
+        {
+          "title": "GLM-5.3 solta pesos com licença que mira hyperscaler",
+          "body": "Os pesos estão no Hugging Face, mas sem MIT: providers com mais de US$ 10 bi de receita em 12 meses precisam de security review da Z.ai. Terceiros já hospedam, OpenRouter incluída.",
+          "source": {
+            "label": "The New Stack — 28 ago",
+            "url": "https://thenewstack.io/zai-glm-weights-license/"
+          }
+        },
+        {
+          "title": "Autorização verificável de agentes converge em três frentes",
+          "body": "Google publicou protocolo de pagamentos para agentes, o NIST trabalha conceitos de identidade e permissão, e o AI AGENT Act (S.5051) está no Senado. Os três exigem registro verificável de que o agente foi autorizado para aquela tarefa. A Cloudflare já shippou wallets programáveis com x402 em 20+ empresas.",
+          "source": {
+            "label": "AI Tools Recap — 30 ago",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-august-30-2026"
+          }
+        },
+        {
+          "title": "Toa: evidência criptográfica do que a tool MCP entregou",
+          "body": "Carmel Labs publicou schema aberto e libs de verificação (toa/0.1) para atestar o resultado entregue por uma tool MCP — com evidência assinada do que a tool fez.",
+          "source": {
+            "label": "GitHub — Carmel-Labs toa",
+            "url": "https://github.com/Carmel-Labs-Inc/toa"
+          }
+        },
+        {
+          "title": "exec-vps-mcp dá shell root de VPS pro agente",
+          "body": "MCP server minimalista publicado como tutorial: concede shell root irrestrito de um VPS a agentes de IA, sem camada de controle no meio.",
+          "source": {
+            "label": "GitHub — exec-vps-mcp",
+            "url": "https://github.com/yding-git/exec-vps-mcp"
+          }
+        },
+        {
+          "title": "36 skills de data engineering prontas pra coding agents",
+          "body": "Coleção nova cobre dbt, Airflow, Dagster, Prefect, Spark e Snowflake como skills prontas para agentes de código — sete estrelas no primeiro dia.",
+          "source": {
+            "label": "GitHub — awesome-data-engineering-skills",
+            "url": "https://github.com/Unknown-333/awesome-data-engineering-skills"
+          }
+        },
+        {
+          "title": "Hush: a skill que faz o Claude calar e executar",
+          "body": "Skill publicada no GitHub suprime a narração de passos do Claude em favor de execução direta. Quatro estrelas no primeiro dia.",
+          "source": {
+            "label": "GitHub — hush-for-claude",
+            "url": "https://github.com/domainasseth-hue/hush-for-claude"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Confiança virou produto: injection quebrou o Auto Mode em público, attestation de tools ganhou schema aberto, e a regulação de autorização de agentes convergiu de três lados. Quem opera agente em produção agora escolhe entre least-privilege desenhado — ou shell root."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-08-31",
       "date": "2026-08-31",
       "hook": "Projetos — 31 de agosto de 2026",
