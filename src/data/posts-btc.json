@@ -2,6 +2,44 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-31-02h31",
+      "date": "2026-08-31",
+      "time": "02h31",
+      "hook": "BTC a US$ 77.983 · a hora fechou acima de 78 mil pela primeira vez na queda que veio de 79,4 mil",
+      "caption": "Rodada de +0,63% numa hora devolveu o preço pra faixa que tinha perdido ontem à noite. A máxima parou em 78.157.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-31-02h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-31-02h31",
+      "slides": [
+        {
+          "title": "O teto cedido na madrugada",
+          "body": "Rodada de +0,63% numa hora devolveu o preço pra faixa que tinha perdido ontem à noite. A máxima parou em 78.157."
+        },
+        {
+          "title": "US$ 77.983",
+          "body": "Δ1h +0,63% · Δ24h −0,20% · vol $22,0bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Faixa do dia entre 77 e 79,4 mil segue de pé, preço no meio do corredor · Smart Money: funding +0,0100% + L/S 1,10",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Repique veio sem gás",
+          "body": "A vela que passou de 78 mil negociou 0,66× o fluxo normal. Contratos abertos em ~106 mil BTC, sem entrada de dinheiro novo: movimento a vapor, não de enxurrada. Funding no custo base e ninguém comprado demais.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "78.400 decide o que sobra da noite",
+          "body": "Mínima do dia 77 mil (−1,26%) já aguentou duas visitas hoje; teto local 78.400 (+0,53%) é a porta pro topo de 79,4 mil. Fechar acima dele engataria o terceiro degrau. Repique morrer aí devolve pro miolo de 77,4 mil.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-31-01h30",
       "date": "2026-08-31",
       "time": "01h30",
