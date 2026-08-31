@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-31-07h30",
+      "date": "2026-08-31",
+      "time": "07h30",
+      "hook": "BTC a US$ 78.406 · seis velas de recuperação seguidas, e na hora de encostar no topo do dia o volume simplesmente evaporou",
+      "caption": "O preço tentou deixar o fundo para trás e parou na porta de 78,8 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-08-31-07h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-31-07h30",
+      "slides": [
+        {
+          "title": "Recuperação sem combustível",
+          "body": "O preço tentou deixar o fundo para trás e parou na porta de 78,8 mil"
+        },
+        {
+          "title": "US$ 78.406",
+          "body": "Δ1h −0,37% · Δ24h +0,46% · Vol 24h US$ 25,9bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preso entre 78,0 e 78,8 mil, com a última vela negociando só 40% da média · Funding +0,01% e L/S 1,08: o dinheiro grande ficou de fora",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Espera, mesmo com otimismo",
+          "body": "Sentimento em zona positiva e ninguém assume direção: posições equilibradas e OI estável em 106,8k BTC"
+        },
+        {
+          "title": "Fluxo para escolher a borda",
+          "body": "Faixa do dia entre 77,0 e 79,4 mil. A vela que trouxer volume de volta aponta qual ponta cede"
+        }
+      ]
+    },
+    {
       "id": "2026-08-31-06h32",
       "date": "2026-08-31",
       "time": "06h32",
