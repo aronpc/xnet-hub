@@ -2,6 +2,44 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-31-06h32",
+      "date": "2026-08-31",
+      "time": "06h32",
+      "hook": "BTC a US$ 78.701 · quarto candle de 1h no verde seguido, e o preço chegou na porta do topo do dia",
+      "caption": "De madrugada o movimento era a vapor. Agora tem dinheiro rodando: $25,7 bi em 24h, contra $22 bi quatro horas atrás.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-31-06h32",
+      "link": "https://xbtc.aronpc.dev/#2026-08-31-06h32",
+      "slides": [
+        {
+          "title": "O repique voltou com fluxo de verdade",
+          "body": "De madrugada o movimento era a vapor. Agora tem dinheiro rodando: $25,7 bi em 24h, contra $22 bi quatro horas atrás."
+        },
+        {
+          "title": "US$ 78.701",
+          "body": "Δ1h +0,76% · Δ24h +0,87% · vol $25,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Quatro candles de 1h fechando no verde, um atrás do outro, com o preço já na banda 78,5 a 79,4 mil · Smart Money: funding +0,0100% + L/S 1,12",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Esquentando, ainda sem euforia",
+          "body": "O termômetro do mercado marca 62, ganância de boca fechada. Contratos em aberto somam 106,6 mil BTC e crescem junto com o preço. Com 52,8% das posições no lado comprador e funding parado no custo base, ninguém carregou excesso ainda.",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "79.4 mil é o teto que falta ceder",
+          "body": "A máxima do dia (+0,9%) segue de pé e é o que ainda separa o preço dos 80 mil. Lá embaixo, 78 mil (−0,9%) foi o degrau que segurou a subida.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-31-02h31",
       "date": "2026-08-31",
       "time": "02h31",
