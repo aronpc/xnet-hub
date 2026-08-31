@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-31-15h30",
+      "date": "2026-08-31",
+      "time": "15h30",
+      "hook": "BTC a US$ 78.894 · saiu do 77,0 mil, subiu quatro degraus seguidos e agora está colado na máxima das últimas 24 horas, dessa vez com o fluxo junto",
+      "caption": "Cada hora da tarde fechou um pouco mais alto que a anterior, e o topo de 79.087 ficou a um passo\n\nLeia: https://xbtc.aronpc.dev/#2026-08-31-15h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-31-15h30",
+      "slides": [
+        {
+          "title": "Degrau a degrau até o 79 mil",
+          "body": "Cada hora da tarde fechou um pouco mais alto que a anterior, e o topo de 79.087 ficou a um passo"
+        },
+        {
+          "title": "US$ 78.894",
+          "body": "Δ1h +0,51% · Δ24h −0,20% · Vol 24h US$ 31,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Quatro fechamentos de hora em degrau e preço na parte alta da faixa do dia · Smart money: funding +0,0075% e L/S 1,03 (50,7% longs), ninguém esticado",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Subida sem euforia",
+          "body": "Funding perto de zero e posições equilibradas: a alta acontece sem exagero de alavancagem em cima dela"
+        },
+        {
+          "title": "79.087 é a linha da vez",
+          "body": "Degrau da tarde em 78.600 (−0,4%) · máxima de 24 horas em 79.100 (+0,3%) · passar daí abre caminho até 79.800"
+        }
+      ]
+    },
+    {
       "id": "2026-08-31-12h31",
       "date": "2026-08-31",
       "time": "12h31",
