@@ -2,6 +2,43 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-30-20h30",
+      "date": "2026-08-30",
+      "time": "20h30",
+      "hook": "BTC em queda a US$ 77.845 · a faixa das 78 mil, que segurou o sábado inteiro, cedeu agora à noite",
+      "caption": "Seis horas de vaivém acabaram num fechamento abaixo da mínima do dia, e desta vez tinha gente vendendo junto.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-30-20h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-30-20h30",
+      "slides": [
+        {
+          "title": "O piso cedeu",
+          "body": "Seis horas de vaivém acabaram num fechamento abaixo da mínima do dia, e desta vez tinha gente vendendo junto."
+        },
+        {
+          "title": "US$ 77.845",
+          "body": "Δ1h −0,63% · Δ24h −0,52% · vol $17bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Primeiro fechamento de 1h sob 78 mil desde ontem · a quebra veio com 2,4× o volume usual (813 vs 337 BTC)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Queda sem pressa",
+          "body": "Taxa de posição no zero e livro equilibrado em 51,3% comprados: foi fluxo de venda, não aperto de ninguém",
+          "source": "https://www.coinglass.com/ti/FundingRate"
+        },
+        {
+          "title": "77,5 mil é a próxima parada conhecida",
+          "body": "Se a hora seguinte voltar acima de 78 mil, a queda perde a graça e o dia fica de novo sem direção"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-30-19h30",
       "date": "2026-08-30",
       "time": "19h30",
