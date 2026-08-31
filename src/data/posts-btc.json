@@ -2,6 +2,44 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-31-01h30",
+      "date": "2026-08-31",
+      "time": "01h30",
+      "hook": "BTC a US$ 77.498 · o 77.400 que a leitura anterior deixou de olho cedeu; o preço agora cola na mínima do dia",
+      "caption": "Closes de hora em queda desde o topo de 79,4 mil. O teste da mínima está em curso e ainda sem resposta dos compradores.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-31-01h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-31-01h30",
+      "slides": [
+        {
+          "title": "O fundo voltou ao debate",
+          "body": "Closes de hora em queda desde o topo de 79,4 mil. O teste da mínima está em curso e ainda sem resposta dos compradores."
+        },
+        {
+          "title": "US$ 77.498",
+          "body": "Δ1h −0,27% · Δ24h −0,81% · vol $21,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Sequência descendente desde 79,4 mil e preço no terço inferior do range · Smart Money: funding +0,0081% + L/S 1,09",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A queda veio com volume, a pressão ficou",
+          "body": "A vela das 19h negociou 1.800 BTC, seis vezes o fluxo normal, e direcionou a queda. O volume voltou ao normal, mas o preço segue colado na mínima. Quem está comprado paga para esperar.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "77 mil decide o próximo trecho",
+          "body": "Mínima do dia 77.000 (−0,7%) e teto local 78.000 (+0,6%) delimitam o movimento. Hora fechada acima do teto devolve o repique; a mínima cedendo leva a conversa para 76.200. E 62 em ganância deixa espaço para o humor esfriar sem exagero.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-31-00h30",
       "date": "2026-08-31",
       "time": "00h30",
