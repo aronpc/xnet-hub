@@ -2,6 +2,44 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-31-00h30",
+      "date": "2026-08-31",
+      "time": "00h30",
+      "hook": "BTC a US$ 77.705 · a queda da noite desceu até 77 mil, tocou e voltou dentro da própria vela",
+      "caption": "A vela foi até 77.000 e fechou em 77.706. A queda achou o piso do dia e parou ali.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-31-00h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-31-00h30",
+      "slides": [
+        {
+          "title": "A visita ao fundo durou pouco",
+          "body": "A vela foi até 77.000 e fechou em 77.706. A queda achou o piso do dia e parou ali."
+        },
+        {
+          "title": "US$ 77.705",
+          "body": "Δ1h +0,11% · Δ24h −0,56% · vol $21,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Vela varreu o fundo do dia e fechou de volta dentro da faixa; teto de 78.000 intocado · Smart Money: funding +0,0074% + L/S 1,09",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Absorção sem alarde",
+          "body": "Financiamento em +0,0074% e livro 52,1% comprado. Defender o fundo não exigiu aperto nenhum: foi compra comum.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "As 78 mil continuam no caminho",
+          "body": "Fundo do dia 77.000 (−0,91%) e teto 78.000 (+0,38%) prendem o preço. Hora fechada acima do teto muda o desenho; abaixo de 77.400, o fundo volta ao debate.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-30-23h53",
       "date": "2026-08-30",
       "time": "23h53",
