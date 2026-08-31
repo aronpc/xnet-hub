@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-08-31",
+      "date": "2026-08-31",
+      "hook": "Projetos — 31 de agosto de 2026",
+      "caption": "O DuckDB virou propriedade da Amazon, um patch de agente open-source acumulou 525 PRs, e memória de agente cabe agora em menos de 1,2 GB de VRAM. O que o ecossistema de projetos entregou esta semana.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-08-31",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-08-31",
+      "slides": [
+        {
+          "title": "Projetos — 31 de agosto de 2026",
+          "body": "O DuckDB virou propriedade da Amazon, um patch de agente open-source acumulou 525 PRs, e memória de agente cabe agora em menos de 1,2 GB de VRAM. O que o ecossistema de projetos entregou esta semana."
+        },
+        {
+          "title": "A Amazon comprou a DuckLabs, a casa do DuckDB",
+          "body": "A empresa de Amsterdã por trás do DuckDB foi adquirida por valor não divulgado. O banco open-source está embutido no stack de analytics de quase todo tooling de dados e IA que existe.",
+          "source": {
+            "label": "GeekWire — 26 ago",
+            "url": "https://www.geekwire.com/2026/amazon-acquires-ducklabs-adding-the-team-behind-duckdb-amid-broader-sh"
+          }
+        },
+        {
+          "title": "a16z earmarka US$ 1,1 bi pro mundo físico",
+          "body": "O fundo Machine Age é o maior já levantado para hardware e física aplicada à IA: robótica, energia e manufatura. A tese declarada é \"abrir o acelerador\" da camada física do buildout.",
+          "source": {
+            "label": "TechCrunch — 28 ago",
+            "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-bu"
+          }
+        },
+        {
+          "title": "Owner capta US$ 240 mi pra rodar sites de restaurante",
+          "body": "A startup de \"AI-native restaurant tech\" recebeu um dos maiores checks de 2026 para agentes que gerenciam a presença digital completa de restaurantes — site, marketing, tudo.",
+          "source": {
+            "label": "Restaurant Business — 29 ago",
+            "url": "https://www.restaurantbusinessonline.com/technology/owner-raises-240m-ai-native-restaurant-tech"
+          }
+        },
+        {
+          "title": "ECC v2.2.0: um instalador pra Claude Code, Codex e Kimi",
+          "body": "O sistema de otimização de harnesses mais instalado do GitHub, com 244 mil estrelas, lançou instalador único multi-harness, suporte ao Antigravity 2.0 e bridge experimental pra CLI Nasiko.",
+          "source": {
+            "label": "GitHub — ECC v2.2.0",
+            "url": "https://github.com/affaan-m/ECC/releases/tag/v2.2.0"
+          }
+        },
+        {
+          "title": "Patch do Hermes Agent empacota 525 PRs",
+          "body": "A NousResearch lançou a tag v2026.8.27 acumulando aproximadamente 525 pull requests merged desde a v0.20.5. O repo tem 238 mil estrelas.",
+          "source": {
+            "label": "GitHub — Hermes v2026.8.27",
+            "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.27"
+          }
+        },
+        {
+          "title": "Cline chega ao Windows — e para de mostrar custo",
+          "body": "O Desktop v0.0.20 traz instalador x64 assinado e auto-update no Windows. Junto, a v4.1.16 do plugin deixa de exibir estimativas de custo para providers cobrados por assinatura flat.",
+          "source": {
+            "label": "GitHub — Cline desktop-v0.0.20",
+            "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.20"
+          }
+        },
+        {
+          "title": "Qwen-code compila review de agente em script auditável",
+          "body": "Na v0.22.3, o review em fan-out do Step 3A passou a emitir um workflow script gerado, em vez de comportamento emergente. Ask_user_question agora respeita allow rules.",
+          "source": {
+            "label": "GitHub — qwen-code v0.22.3",
+            "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.22.3"
+          }
+        },
+        {
+          "title": "Hillock: memória de agente em menos de 1,2 GB de VRAM",
+          "body": "Show HN de engine de memória local-first que combina armazenamento simbólico com embeddings, e roda em GPU de consumidor. Nada de cluster de frontier.",
+          "source": {
+            "label": "GitHub — Hillock",
+            "url": "https://github.com/roandejager/Hillock"
+          }
+        },
+        {
+          "title": "Academa gera aula de STEM completa com LLM",
+          "body": "Show HN com 28 pontos: a plataforma gera lectures de longa duração com estrutura pedagógica — não slides, não clips curtos.",
+          "source": {
+            "label": "academa.ai",
+            "url": "https://academa.ai/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O ecossistema consolidou: projeto ubíquo comprado por hyperscaler, capital bilionário indo pro físico, e a camada de harness atingindo cadência industrial. O destaque prático ficou na memória local-leve e na determinização de workflows — as duas frentes que transformam agente de demo em infraestrutura."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-08-31",
       "date": "2026-08-31",
       "hook": "IA — 31 de agosto de 2026",
