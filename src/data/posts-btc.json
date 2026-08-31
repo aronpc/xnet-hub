@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-31-09h30",
+      "date": "2026-08-31",
+      "time": "09h30",
+      "hook": "BTC a US$ 78.122 · a subida da madrugada esbarrôu em 78,7 mil e desde lá foram três fechamentos de hora em queda; o preço agora ocupa a metade de baixo da faixa do dia",
+      "caption": "A recusa em 78,7 mil custou três velas vermelhas, e o preço volta a esbarrar nos 78,0 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-08-31-09h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-31-09h30",
+      "slides": [
+        {
+          "title": "Sem pressa, mas pra baixo",
+          "body": "A recusa em 78,7 mil custou três velas vermelhas, e o preço volta a esbarrar nos 78,0 mil"
+        },
+        {
+          "title": "US$ 78.122",
+          "body": "Δ1h −0,42% · Δ24h −0,61% · Vol 24h US$ 26,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Recusa no conjunto de 78,5 a 78,7 mil e três velas de 1h pra baixo · Smart money: funding +0,01% e L/S 1,05, ninguém esticado",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Deriva, não venda pesada",
+          "body": "Volume a 0,76× da média e posições em 51/49: mais deslize do que pressão. Embaixo ficam 77.500 (−0,8%) e o fundo do dia em 77.000; em cima, a zona da recusa em 78.400 (+0,4%)"
+        },
+        {
+          "title": "A faixa segue de pé",
+          "body": "Corredor de 77,0 a 79,4 mil intacto; a vela que trouxer fluxo de volta escolhe a ponta"
+        }
+      ]
+    },
+    {
       "id": "2026-08-31-07h30",
       "date": "2026-08-31",
       "time": "07h30",
