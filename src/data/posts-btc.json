@@ -2,6 +2,43 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-30-21h31",
+      "date": "2026-08-30",
+      "time": "21h31",
+      "hook": "BTC devolve parte da queda a US$ 77.875 · o tombo parou em cheio no 77 mil redondo e a volta já encosta no teto das 78 mil",
+      "caption": "O mínimo do dia parou em 77.000 exatos e não passou. Dali pra cá foram 1,2% de volta, até encostar por baixo na faixa que tinha sido perdida.\n\nLeia: https://xbtc.aronpc.dev/#2026-08-30-21h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-30-21h31",
+      "slides": [
+        {
+          "title": "O fundo redondo segurou",
+          "body": "O mínimo do dia parou em 77.000 exatos e não passou. Dali pra cá foram 1,2% de volta, até encostar por baixo na faixa que tinha sido perdida."
+        },
+        {
+          "title": "US$ 77.875",
+          "body": "Δ1h +0,04% · Δ24h −0,43% · vol $19,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Redondo testado uma vez e segurou, sem segundo teste por enquanto · Smart Money: funding +0,0070% + L/S 1,08",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Volta sem convicção",
+          "body": "Taxa de financiamento no zero, livro em 52% comprado, posição aberta em leve recuo: foi compra comum devolvendo o pedaço, sem aposta alavancada empurrando"
+        },
+        {
+          "title": "78 mil decide a noite",
+          "body": "Faixa perdida virou teto (+0,16%); o redondo testado fica 1,1% abaixo. Hora fechada acima recupera o que caiu; rejeição ali devolve o preço ao fundo",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-08-30-20h30",
       "date": "2026-08-30",
       "time": "20h30",
