@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-31-17h30",
+      "date": "2026-08-31",
+      "time": "17h30",
+      "hook": "BTC a US$ 78.953 · a máxima do dia acabou de recusar entrada pela segunda vez, e a vela mais recente veio com um quarto do volume habitual. Sem comprador lá em cima, por enquanto",
+      "caption": "O topo de 79.250 devolveu o preço duas vezes seguidas, e as últimas quatro velas pararam todas na mesma faixa\n\nLeia: https://xbtc.aronpc.dev/#2026-08-31-17h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-31-17h30",
+      "slides": [
+        {
+          "title": "Bateram na porta e ninguém abriu",
+          "body": "O topo de 79.250 devolveu o preço duas vezes seguidas, e as últimas quatro velas pararam todas na mesma faixa"
+        },
+        {
+          "title": "US$ 78.953",
+          "body": "Δ1h −0,17% · Δ24h +0,15% · Vol 24h US$ 32,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Tentativa de sair do canal às 16h30 não convenceu: preço ainda a 87% da altura do dia, mas a última vela teve só 180 BTC contra média de 693 · Smart money: funding +0,0080% e L/S 1,01 (50,1% longs)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Derivativo no banco de reservas",
+          "body": "Alavancagem equilibrada, funding quase zero, posições abertas estáveis em 107,3k BTC: nenhuma das pontas está cheia, a definição ficou com o mercado à vista"
+        },
+        {
+          "title": "79.250 pede volume",
+          "body": "Fechar acima com vela acima de 600 BTC espreme o topo e aponta 79.800 · mínima do movimento em 78.780 (−0,2%), que devolve o preço ao canal 78,0–78,6 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-31-15h30",
       "date": "2026-08-31",
       "time": "15h30",
