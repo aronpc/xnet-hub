@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-31-12h31",
+      "date": "2026-08-31",
+      "time": "12h31",
+      "hook": "BTC a US$ 78.464 · o dia inteiro em passos curtos, e do nada a melhor hora do dia: +0,64% com o dobro do volume habitual, o suficiente pra colocar o preço no andar de cima da faixa",
+      "caption": "A vela que passou de 78,4 mil veio com gente dentro, coisa que as tentativas anteriores não tinham\n\nLeia: https://xbtc.aronpc.dev/#2026-08-31-12h31",
+      "link": "https://xbtc.aronpc.dev/#2026-08-31-12h31",
+      "slides": [
+        {
+          "title": "A faixa finalmente se mexeu",
+          "body": "A vela que passou de 78,4 mil veio com gente dentro, coisa que as tentativas anteriores não tinham"
+        },
+        {
+          "title": "US$ 78.464",
+          "body": "Δ1h +0,64% · Δ24h −0,41% · Vol 24h US$ 30,0bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Melhor hora do dia e com volume de verdade, mas o corredor de 77,0 a 79,4 mil segue em pé · Smart money: funding +0,01% e L/S 1,07 (52% longs), ninguém esticado",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Falta carimbar 78,8 mil",
+          "body": "Piso novo em 78.000 (−0,6%), teto imediato em 78.800 (+0,4%) e o topo da faixa em 79.400 (+1,2%)"
+        },
+        {
+          "title": "Um bom começo, só isso",
+          "body": "O corredor de 77,0 a 79,4 mil continua sendo a quadra do jogo; movimento novo só quando o fluxo chega e fica"
+        }
+      ]
+    },
+    {
       "id": "2026-08-31-09h30",
       "date": "2026-08-31",
       "time": "09h30",
