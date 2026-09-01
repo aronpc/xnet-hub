@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-01",
+      "date": "2026-09-01",
+      "hook": "Projetos e repos — 1º de setembro de 2026",
+      "caption": "O dia em que \"artefato verificável\" virou o padrão dos repos: diagramas que se validam contra o código, slides que avisam quando driftam, PDFs classificados antes do OCR. E o GLM-5.3-flash entrou na linha oficial do maior framework Python de agentes. Nove histórias.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-01",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-01",
+      "slides": [
+        {
+          "title": "Projetos e repos — 1º de setembro de 2026",
+          "body": "O dia em que \"artefato verificável\" virou o padrão dos repos: diagramas que se validam contra o código, slides que avisam quando driftam, PDFs classificados antes do OCR. E o GLM-5.3-flash entrou na linha oficial do maior framework Python de agentes. Nove histórias."
+        },
+        {
+          "title": "OpenMAIC: sala de aula multi-agente, #1 do GitHub",
+          "body": "O OpenMAIC da Tsinghua é uma experiência de aprendizado com múltiplos agentes IA, aberta, criada em março deste ano. Hoje tem 27,6 mil estrelas e liderou o GitHub trending daily.",
+          "source": {
+            "label": "github.com/THU-MAIC/OpenMAIC",
+            "url": "https://github.com/THU-MAIC/OpenMAIC"
+          }
+        },
+        {
+          "title": "Almanac: a IA que conhece a empresa inteira",
+          "body": "Launch HN do Almanac, do lote S26 do YC: camada que indexa docs, repos e decisões internas pra responder como quem conhece a empresa. 51 pontos na thread, com discussão ativa.",
+          "source": {
+            "label": "usealmanac.com — 31 ago",
+            "url": "https://usealmanac.com/"
+          }
+        },
+        {
+          "title": "Codex v0.152.0: rate-limit virou vitrine",
+          "body": "A release de hoje do Codex traz busca no vim mode e banners de rate-limit com ação embutida: checar uso, gerenciar créditos. É a resposta de produto ao aperto de limites que a OpenAI aplicou na semana passada.",
+          "source": {
+            "label": "openai/codex — rust-v0.152.0",
+            "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.0"
+          }
+        },
+        {
+          "title": "Cline Desktop: sessão local vira sessão na nuvem",
+          "body": "A v0.0.21 traz beta de handoff: transfere a sessão local pro Cline Cloud preservando prompt, anexos e estado, com recuperação de transferência interrompida. O marketplace virou explorador com filtros.",
+          "source": {
+            "label": "cline/cline — desktop-v0.0.21",
+            "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.21"
+          }
+        },
+        {
+          "title": "Pydantic AI adota glm-5.3-flash na linha oficial",
+          "body": "A v2.37.0 do Pydantic AI adiciona o glm-5.3-flash como modelo suportado e refez a suíte de testes da Z.AI sobre cassetes, fixtures determinísticas que rodam sem rede.",
+          "source": {
+            "label": "pydantic/pydantic-ai — v2.37.0",
+            "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.37.0"
+          }
+        },
+        {
+          "title": "manaca-1b-base: LLM aberto pra português do Brasil",
+          "body": "O Instituto-IA-LNCC publicou o manaca-1b-base: modelo de linguagem aberto, reprodutível e específico pra PT-BR. Um bilhão de parâmetros, saído de instituto público de pesquisa.",
+          "source": {
+            "label": "Instituto-IA-LNCC — 31 ago",
+            "url": "https://github.com/Instituto-IA-LNCC/manaca-1b-base"
+          }
+        },
+        {
+          "title": "Archify cruza 39 mil estrelas validando diagramas",
+          "body": "A skill Archify segue no trending daily com 39,4 mil estrelas. O commit de 31/08 clarifica o \"visual-check\" como evidência automatizada de browser: o diagrama de arquitetura se valida contra o código.",
+          "source": {
+            "label": "tt-a1i/archify",
+            "url": "https://github.com/tt-a1i/archify"
+          }
+        },
+        {
+          "title": "pdf-inspector: Rust decide se o PDF precisa de OCR",
+          "body": "Lib da Firecrawl com 17,4 mil estrelas inspeciona e classifica PDFs, roteando OCR só quando necessário, antes de gastar processamento.",
+          "source": {
+            "label": "firecrawl/pdf-inspector",
+            "url": "https://github.com/firecrawl/pdf-inspector"
+          }
+        },
+        {
+          "title": "m4-prefill-engine: Metal mira o custo escondido",
+          "body": "Repo novo apresenta engine de inferência em Metal, hardware-saturado, pro prefill de LLMs no Apple M4: cerca de 3,7 vezes o baseline em teste inicial. Ainda pequeno, 13 estrelas.",
+          "source": {
+            "label": "mohamedhossammohamed/m4-prefill-engine",
+            "url": "https://github.com/mohamedhossammohamed/m4-prefill-engine"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Docs deixaram de ser arquivo morto: Archify valida diagramas contra o código e o SlideOps avisa quando o deck drifa do repo, tudo com o mesmo mecanismo de CI. No outro corredor, Codex e Cline fazem apostas opostas de cobrança. E o GLM-5.3-flash no Pydantic AI confirma que peso aberto chinês em produção ocidental já é o normal, não a exceção."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-01",
       "date": "2026-09-01",
       "hook": "IA — 1º de setembro de 2026",
