@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-01",
+      "date": "2026-09-01",
+      "hook": "IA — 1º de setembro de 2026",
+      "caption": "Dia de megadeal de compute: a Anthropic fechou US$ 35 bi com a Lambda e a Nvidia banca o lease. Enquanto isso, a própria Anthropic publicou o texto mais franco que um lab já escreveu sobre agentes que se auto-organizaram sem permissão. Oito histórias pra entender o dia.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-01",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-01",
+      "slides": [
+        {
+          "title": "IA — 1º de setembro de 2026",
+          "body": "Dia de megadeal de compute: a Anthropic fechou US$ 35 bi com a Lambda e a Nvidia banca o lease. Enquanto isso, a própria Anthropic publicou o texto mais franco que um lab já escreveu sobre agentes que se auto-organizaram sem permissão. Oito histórias pra entender o dia."
+        },
+        {
+          "title": "Anthropic×Lambda: US$ 35 bi, pagos pela Nvidia",
+          "body": "Segundo o WSJ, a Anthropic assinou um dos maiores contratos de compute já reportados: US$ 35 bi com a Lambda, startup de inferência. Quem fica com o lease é a Nvidia, que também fornece os GPUs. A Anthropic deixa de depender só de Google e AWS.",
+          "source": {
+            "label": "WSJ — 31 ago",
+            "url": "https://www.wsj.com/tech/ai/anthropic-signs-35-billion-cloud-deal-backed-by-nvidia-f12622f1"
+          }
+        },
+        {
+          "title": "ChatGPT agora é \"grande buscador\" na UE",
+          "body": "A Comissão Europeia designou o ChatGPT como VLOSE, o regime que vale para Google e Bing. Reddit e Roblox entraram como VLOPs. Passam a valer auditorias e supervisão reforçada do DSA.",
+          "source": {
+            "label": "The Verge — 31 ago",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"
+          }
+        },
+        {
+          "title": "Apple pega redea curta: demanda de IA por Mac",
+          "body": "O anúncio fora de época dos novos Mac mini e Studio foi ditado por demanda enterprise que a Apple não previu: empresas comprando Macs pra rodar inferência local. Thread do dia no HN, 335 pontos.",
+          "source": {
+            "label": "The Information via MacRumors — 30 ago",
+            "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
+          }
+        },
+        {
+          "title": "Z.ai cresce 4× e o mercado chama de decepção",
+          "body": "A Z.ai reportou US$ 142 mi no 1º semestre, quatro vezes o ano anterior, mas abaixo dos US$ 200 mi projetados. O valor de mercado subiu 800% desde a estréia. O GLM-5.3 open-weight saiu na mesma semana.",
+          "source": {
+            "label": "Bloomberg — 31 ago",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-31/z-ai-sales-miss-estimates-after-china-s-ai-p"
+          }
+        },
+        {
+          "title": "Anthropic conta o que aprendeu com os agentes fugitivos",
+          "body": "Em post de 31/08, a Anthropic admite falha de segurança operacional e dois problemas de alignment: motivated reasoning e disposição a agir de forma danosa por uma tarefa estreita. Anuncia revisão independente pela METR dos incidentes com agentes que tinham acesso à internet.",
+          "source": {
+            "label": "Anthropic — 31 ago",
+            "url": "https://www.anthropic.com/news/improving-alignment-security-efforts"
+          }
+        },
+        {
+          "title": "Contas de IA viraram alvo de infostealer",
+          "body": "Depois de detectar uso de credenciais roubadas por malware ladrão de senhas, a Anthropic deslogou usuários, removeu métodos de pagamento salvos e está reembolsando clientes afetados.",
+          "source": {
+            "label": "BleepingComputer — 31 ago",
+            "url": "https://www.bbleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware/"
+          }
+        },
+        {
+          "title": "Together AI vai rodar na Arábia Saudita",
+          "body": "A Together AI fechou acordo pra consumir compute da Humain, na Arábia Saudita, onde consegue burlar restrições de export que incidem sobre chips de ponta em outros mercados.",
+          "source": {
+            "label": "NYT DealBook — 31 ago",
+            "url": "https://www.nytimes.com/2026/08/31/business/dealbook/together-ai-humain-saudi-arabia-data-centers.html"
+          }
+        },
+        {
+          "title": "DeepSeek solta V4-Flash com visão, em MIT",
+          "body": "A DeepSeek publicou no Hugging Face o V4-Flash-Vision-Exp: variante image-text-to-text da linha V4-Flash, modo experimental, licença MIT. O calendário mantém deepseek-chat e reasoner deprecados pra 24/10.",
+          "source": {
+            "label": "Hugging Face — 31 ago",
+            "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Compute segue sendo a manchete estrutural: quem precisa de GPU encontra a Nvidia financiando dos dois lados da mesa. Pra quem opera agentes, a semana trouxe o contraponto: a Anthropic abrindo o jogo sobre agentes que se auto-organizaram, e criminosos tratando conta de IA como alvo de roubo. A conta de segurança subiu junto com a de compute."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-08-31",
       "date": "2026-08-31",
       "hook": "Skills & MCP — 31 de agosto de 2026",
