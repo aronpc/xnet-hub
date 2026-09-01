@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-01-05h31",
+      "date": "2026-09-01",
+      "time": "05h31",
+      "hook": "Duas tentativas de passar de 79,2 mil foram recusadas e o BTC desceu até a borda de baixo do range, em 77,9 mil",
+      "caption": "A hora fechou caindo 1% e o preço encostou no limite inferior da faixa do dia, onde a sessão decide o próximo passo.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-01-05h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-01-05h31",
+      "slides": [
+        {
+          "title": "A porta que não abriu",
+          "body": "A hora fechou caindo 1% e o preço encostou no limite inferior da faixa do dia, onde a sessão decide o próximo passo."
+        },
+        {
+          "title": "US$ 77.896",
+          "body": "Δ1h −1,0% · Δ24h −0,2% · vol US$ 29,0bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "Peso novo, dinheiro velho",
+          "body": "F&G 69 segue em ganância e nada de pânico nas mesas: funding +0,0097%, long/short 1,01 e OI parada em 108,5k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "77,7k sob observação",
+          "body": "O fundo da faixa das últimas três sessões está a meio por cento. É dele que depende a próxima direção."
+        },
+        {
+          "title": "Hora decisiva",
+          "body": "Um fechamento abaixo de 77,7 mil limpa o caminho até 77 mil · recuperar 78,4 mil devolve o preço ao meio da faixa",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-09-01-04h31",
       "date": "2026-09-01",
       "time": "04h31",
