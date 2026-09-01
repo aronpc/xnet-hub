@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-01-10h30",
+      "date": "2026-09-01",
+      "time": "10h30",
+      "hook": "O preço tocou 77,5 mil, o ponto mais baixo das últimas 24 horas, e a queda foi engolida em minutos; de volta a 77,8 mil",
+      "caption": "A espetada abaixo do menor preço do dia não teve sequência. O valor voltou à faixa, e as máximas de cada hora vêm descendo, apertando o espaço de movimento.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-01-10h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-01-10h30",
+      "slides": [
+        {
+          "title": "O mergulho que não vingou",
+          "body": "A espetada abaixo do menor preço do dia não teve sequência. O valor voltou à faixa, e as máximas de cada hora vêm descendo, apertando o espaço de movimento."
+        },
+        {
+          "title": "US$ 77.852",
+          "body": "Δ1h −0,2% · Δ24h −0,3% · vol US$ 29,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Funding em +0,005%, praticamente zero, e razão long/short em 1,14. Ninguém colocou dinheiro na queda nem contra ela; OI estável em 109,1k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Faixa apertando",
+          "body": "77,5 mil defendido duas vezes e o teto da hora cedendo: 78,2 → 78,0 mil. A saída desse funil deve definir o próximo movimento do dia"
+        },
+        {
+          "title": "Espera organizada",
+          "body": "Sentimento em 69, sem extremo, e preço quieto no terço de baixo da faixa"
+        }
+      ]
+    },
+    {
       "id": "2026-09-01-05h31",
       "date": "2026-09-01",
       "time": "05h31",
