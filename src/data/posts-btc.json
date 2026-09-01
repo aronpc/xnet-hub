@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-01-04h31",
+      "date": "2026-09-01",
+      "time": "04h31",
+      "hook": "O repique até 79 mil perdeu força e o BTC ficou pelo meio do caminho, em 78,7 mil",
+      "caption": "Preço parou no meio do range do dia, com vela corrente rodando um quarto do volume usual.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-01-04h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-01-04h31",
+      "slides": [
+        {
+          "title": "O mercado encostou e ficou quieto",
+          "body": "Preço parou no meio do range do dia, com vela corrente rodando um quarto do volume usual."
+        },
+        {
+          "title": "US$ 78.720",
+          "body": "Δ1h +0,67% · Δ24h +0,67% · vol US$ 29,0bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "Sem convicção",
+          "body": "F&G 69, ainda em ganância, e alavancagem equilibrada: funding +0,0100% e long/short 1,00 · OI estável em 108,5k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "78,4k a 79,2k segurando firme",
+          "body": "A sessão europeia costuma trazer o volume que falta. Até lá, clima de espera."
+        },
+        {
+          "title": "Compressão de madrugada",
+          "body": "Uma hora fechada acima de 79,2 mil anima o topo do dia (79,25k) · abaixo de 78,4k, a faixa cede",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-09-01-01h30",
       "date": "2026-09-01",
       "time": "01h30",
