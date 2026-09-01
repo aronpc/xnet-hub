@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-31-22h30",
+      "date": "2026-08-31",
+      "time": "22h30",
+      "hook": "BTC a US$ 78.444 · a tentativa de ida ao topo desta sexta não deu certo, o preço devolveu o degrau de 78.600 e desce devagar com um detalhe curioso: quem aposta contra também não está aparecendo",
+      "caption": "A devolução da noite acontece sem perseguidor: a alavancagem está em equilíbrio e a saída é toda no mercado à vista, feita aos poucos\n\nLeia: https://xbtc.aronpc.dev/#2026-08-31-22h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-31-22h30",
+      "slides": [
+        {
+          "title": "Caiu, mas ninguém foi atrás",
+          "body": "A devolução da noite acontece sem perseguidor: a alavancagem está em equilíbrio e a saída é toda no mercado à vista, feita aos poucos"
+        },
+        {
+          "title": "US$ 78.444",
+          "body": "Δ1h −0,53% · Δ24h +0,87% · Vol 24h US$ 29,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O piso de 78.600 virou teto e a drenagem segue lenta na direção de 78.000, com vela de 297 BTC (metade da média) · Smart Money: funding +0,0075% + L/S 1,00",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Empate perfeito na alavancagem",
+          "body": "Funding em +0,0075% (quase zero), long e short em 50,0% cada e interesse aberto plano em 108 mil BTC: ninguém posicionado de nenhum lado, o ajuste é todo no mercado à vista"
+        },
+        {
+          "title": "78.000 no radar",
+          "body": "É o número redondo logo abaixo (−0,6%); do outro lado, 78.600 funcionando como teto (+0,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-31-21h30",
       "date": "2026-08-31",
       "time": "21h30",
