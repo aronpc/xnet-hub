@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-01-01h30",
+      "date": "2026-09-01",
+      "time": "01h30",
+      "hook": "BTC volta à porta dos 79 mil depois de 4 velas de subida seguidas",
+      "caption": "Quatro fechamentos de hora em alta devolveram o preço ao ponto onde o dia começou.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-01-01h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-01-01h30",
+      "slides": [
+        {
+          "title": "O retorno à região de 79 mil",
+          "body": "Quatro fechamentos de hora em alta devolveram o preço ao ponto onde o dia começou."
+        },
+        {
+          "title": "US$ 78.801",
+          "body": "Δ1h +0,45% · Δ24h +1,67% · vol US$ 29,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Movimento veio do spot, com funding +0,0099% e long/short em 1,014 · OI estável em 108,2k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "77,5k a 79,25k segue de pé",
+          "body": "Volume ainda minguado (542 contra 621 BTC por vela) pede confirmação acima de 79 mil"
+        },
+        {
+          "title": "79 mil é o divisor",
+          "body": "Fechamento acima abre caminho ao topo da faixa em 79.250 · um recuo busca 78.500"
+        }
+      ]
+    },
+    {
       "id": "2026-08-31-22h30",
       "date": "2026-08-31",
       "time": "22h30",
