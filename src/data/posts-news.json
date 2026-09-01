@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-01",
+      "date": "2026-09-01",
+      "hook": "Skills e MCP — 1º de setembro de 2026",
+      "caption": "A semana girou em torno de confiança: o write-up que quebrou o Auto Mode do Claude Code dominou o Hacker News, e a resposta da Anthropic veio com contenção e auditoria. No campo de ideias, roteamento de skill antes do LLM e compressão de contexto. Sete histórias.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-01",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-01",
+      "slides": [
+        {
+          "title": "Skills e MCP — 1º de setembro de 2026",
+          "body": "A semana girou em torno de confiança: o write-up que quebrou o Auto Mode do Claude Code dominou o Hacker News, e a resposta da Anthropic veio com contenção e auditoria. No campo de ideias, roteamento de skill antes do LLM e compressão de contexto. Sete histórias."
+        },
+        {
+          "title": "Claude Code v2.1.252 estabiliza a base",
+          "body": "A release de hoje corrige comandos Bash falhando com \"task output swap refused\" em alguns Macs, \"always allow\" não salvando em projetos sem settings.local.json, e sessões Remote Control travando por minutos com conexão degradada.",
+          "source": {
+            "label": "anthropics/claude-code CHANGELOG",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "O write-up que quebrou o Auto Mode: 356 pontos",
+          "body": "O post do embracethered demonstrando quebra do Auto Mode por prompt injection foi o thread de segurança do fim de semana no HN. A Anthropic respondeu com o post de alignment e segurança de 31/08.",
+          "source": {
+            "label": "embracethered.com — 31 ago",
+            "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/"
+          }
+        },
+        {
+          "title": "skill-router: decide skill sem gastar token",
+          "body": "Repo novo do time VEDAXI implementa roteamento determinístico de skills antes do LLM rodar, private-by-default: nada de contexto vai para o provedor na hora de escolher qual skill invocar.",
+          "source": {
+            "label": "luxurylifestyleco/skill-router",
+            "url": "https://github.com/luxurylifestyleco/skill-router"
+          }
+        },
+        {
+          "title": "165 skills de ciência validadas, 60★ no dia 1",
+          "body": "O fork scientific-agent-skills do Tyche saiu ontem com biblioteca de skills para bioinformática e química, afirmando 190 mil cientistas usando e 165 skills prontas. Já é o número 3 do trending.",
+          "source": {
+            "label": "Tyche-MKR/scientific-agent-skills",
+            "url": "https://github.com/Tyche-MKR/scientific-agent-skills"
+          }
+        },
+        {
+          "title": "LoopArena: medir o modelo como controlador",
+          "body": "Repo novo do time DreamX com paper no arXiv: benchmarka modelos atuando como controladores de loop, com worker, reporter e estações de evidência, verificação e avaliação conectadas. 72 estrelas no dia 1.",
+          "source": {
+            "label": "AMAP-ML/LoopArena",
+            "url": "https://github.com/AMAP-ML/LoopArena"
+          }
+        },
+        {
+          "title": "SlideOps: slides que acusam o próprio drift",
+          "body": "Show HN com 21 pontos: transforma um repositório em deck de slides que sinalizam quando deixam de bater com o código, com o mesmo mecanismo de CI.",
+          "source": {
+            "label": "glukicov/slideops",
+            "url": "https://github.com/glukicov/slideops"
+          }
+        },
+        {
+          "title": "Headroom: 68 mil estrelas comprimindo o contexto",
+          "body": "O maior repo MCP-adjacente em atividade nas 48h comprime outputs de tools, logs, arquivos e chunks de RAG antes de chegarem ao modelo, prometendo cerca de 20% menos tokens.",
+          "source": {
+            "label": "headroomlabs-ai/headroom",
+            "url": "https://github.com/headroomlabs-ai/headroom"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A pergunta da semana não é se agente aguenta tarefa, é se aguenta adversário: injection no Auto Mode documentada, resposta com contenção e auditoria, e trust controls ganhando espaço. No plano econômico, quem resolve contexto caro sai na frente, seja roteando skill sem LLM, seja comprimindo tool output. Governança e conta de token no mesmo pacote."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-01",
       "date": "2026-09-01",
       "hook": "Projetos e repos — 1º de setembro de 2026",
