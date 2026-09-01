@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-01-15h30",
+      "date": "2026-09-01",
+      "time": "15h30",
+      "hook": "BTC perdeu a mínima do dia em US$ 76,8 mil · queda de quase 1% na última hora, a maior do dia",
+      "caption": "O 77,5 mil que segurava a tarde foi embora de uma vez. Última hora −0,9%, pior variação do dia até aqui\n\nLeia: https://xbtc.aronpc.dev/#2026-09-01-15h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-01-15h30",
+      "slides": [
+        {
+          "title": "O piso cedeu",
+          "body": "O 77,5 mil que segurava a tarde foi embora de uma vez. Última hora −0,9%, pior variação do dia até aqui"
+        },
+        {
+          "title": "US$ 76.818",
+          "body": "Δ1h −0,9% · Δ24h −2,5% · vol US$ 29,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Três horas seguidas de queda, de 78,2 mil até aqui. Nível que era o limite virou área de passagem. O clima esfriou de vez"
+        },
+        {
+          "title": "Ganância teimosa em 69",
+          "body": "Preço caindo 2,5% no dia e o termômetro ainda em zona de otimismo. Essa distância entre os dois costuma doer",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "76,8 mil é o número da hora",
+          "body": "Segurar aqui ainda salva a faixa do dia; passar direto abre espaço para a casa dos 75 mil"
+        }
+      ]
+    },
+    {
       "id": "2026-09-01-12h30",
       "date": "2026-09-01",
       "time": "12h30",
