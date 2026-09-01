@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-08-31-21h30",
+      "date": "2026-08-31",
+      "time": "21h30",
+      "hook": "BTC a US$ 78.866 · o clima do mercado esquentou antes do preço: o medo e ganância pulou de 62 pra 69 em uma hora, e o teto do dia vai receber a terceira visita da noite",
+      "caption": "Ganância crescendo mais rápido que o próprio BTC, que segue colado na parte alta do canal de 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-08-31-21h30",
+      "link": "https://xbtc.aronpc.dev/#2026-08-31-21h30",
+      "slides": [
+        {
+          "title": "O clima esquentou, o preço ainda não",
+          "body": "Ganância crescendo mais rápido que o próprio BTC, que segue colado na parte alta do canal de 24h"
+        },
+        {
+          "title": "US$ 78.866",
+          "body": "Δ1h +0,40% · Δ24h +1,26% · Vol 24h US$ 29,5bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Na banda alta do canal de 24h (77,4 a 79,2k), recomprando o topo depois do respiro em 78,58k · Smart Money: funding +0,0084% + L/S 0,99",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "69 e subindo",
+          "body": "Medo e ganância indo rumo à euforia (75+) com preço encostado no teto e vela com metade do volume usual: apetite sem convicção"
+        },
+        {
+          "title": "79.250 pela terceira vez",
+          "body": "Acima, com volume de volta à média de 600 BTC por vela, abre caminho pra 79.800 e 80.000 · referência embaixo em 78.600",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-08-31-17h30",
       "date": "2026-08-31",
       "time": "17h30",
