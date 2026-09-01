@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-01-12h30",
+      "date": "2026-09-01",
+      "time": "12h30",
+      "hook": "A tentativa de recuperação parou de novo em 78,2 mil e o preço volta para perto do fundo do dia. Enquanto isso, o sentimento do mercado segue em 69, zona de ganância, mesmo com o valor cedendo",
+      "caption": "Segunda recusada na mesma marca em duas horas. O movimento de volta não acha comprador, e a última vela negociou um terço do volume do pico do dia\n\nLeia: https://xbtc.aronpc.dev/#2026-09-01-12h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-01-12h30",
+      "slides": [
+        {
+          "title": "A porta que não abriu",
+          "body": "Segunda recusada na mesma marca em duas horas. O movimento de volta não acha comprador, e a última vela negociou um terço do volume do pico do dia"
+        },
+        {
+          "title": "US$ 77.815",
+          "body": "Δ1h −0,5% · Δ24h −0,8% · vol US$ 28,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Repique recusado em 78,2 mil, preço no fundo do range e volume morto: deriva sem gás. Funding +0,004% e long/short 1,17, ninguém apostou pesado em direção nenhuma",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "77,5 mil decide a tarde",
+          "body": "É a mínima do dia, a 0,4% daqui. Segurar ali com o clima esfriando abre caminho de volta aos 78 mil; ceder aponta 76,8 mil"
+        },
+        {
+          "title": "Otimismo cedo demais",
+          "body": "Sentimento em 69 com preço caindo é divergência rara. Sem participação no volume, é mais expectativa que convicção"
+        }
+      ]
+    },
+    {
       "id": "2026-09-01-10h30",
       "date": "2026-09-01",
       "time": "10h30",
