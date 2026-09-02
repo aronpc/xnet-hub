@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-02-05h31",
+      "date": "2026-09-02",
+      "time": "05h31",
+      "hook": "Onze horas com o BTC dentro da mesma faixa estreita e agora encostando na borda de baixo, em US$ 77,3 mil",
+      "caption": "Duas velas em queda levaram o preço à metade inferior da faixa. A madrugada decide se o piso segura\n\nLeia: https://xbtc.aronpc.dev/#2026-09-02-05h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-02-05h31",
+      "slides": [
+        {
+          "title": "O aperto chegou no limite",
+          "body": "Duas velas em queda levaram o preço à metade inferior da faixa. A madrugada decide se o piso segura"
+        },
+        {
+          "title": "US$ 77.287",
+          "body": "Δ1h −0,37% · Δ24h −0,75% · vol US$ 29,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Compressão de 11 horas com a borda de baixo em teste · Funding +0,0080% e 55,3% em compra, nada esticado",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Ninguém se comprometeu ainda",
+          "body": "Volume da última vela em 301 contra média de 551. Sem força atrás do movimento, escorregada não convence"
+        },
+        {
+          "title": "77 mil a 77,6 mil",
+          "body": "Recuperar o topo devolve a calma; fechar abaixo abre espaço até o mínimo do dia, 76,4 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        }
+      ]
+    },
+    {
       "id": "2026-09-01-15h30",
       "date": "2026-09-01",
       "time": "15h30",
