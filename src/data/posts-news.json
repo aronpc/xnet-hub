@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-02",
+      "date": "2026-09-02",
+      "hook": "IA — 2 de setembro de 2026",
+      "caption": "O dia em que a Anthropic reprecificou o topo de linha e botou watermark no texto gerado, as editoras processaram os fundadores pessoalmente, e o preço médio do token despencou pra menos de um dólar. Sete histórias que explicam por que setembro começa com conta nova.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-02",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-02",
+      "slides": [
+        {
+          "title": "IA — 2 de setembro de 2026",
+          "body": "O dia em que a Anthropic reprecificou o topo de linha e botou watermark no texto gerado, as editoras processaram os fundadores pessoalmente, e o preço médio do token despencou pra menos de um dólar. Sete histórias que explicam por que setembro começa com conta nova."
+        },
+        {
+          "title": "Fable 5.1 chega mais barato e com watermark",
+          "body": "Fable 5.1 está disponível pra todos e custa cerca de 25% menos que o Fable 5 em carga típica, até 45% menos em trabalho de agente. O corte vem do cache read, que caiu 75% e agora custa 25 centavos por milhão de tokens. É também o primeiro modelo da casa com watermark de saída textual, com API de detecção pra quem a lei da UE alcança.",
+          "source": {
+            "label": "Anthropic — 1 set",
+            "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+          }
+        },
+        {
+          "title": "Astra atinge o limiar Crítico em cyber",
+          "body": "A OpenAI publicou o Path to Astra detalhando salvaguardas do seu primeiro modelo no threshold Crítico de capacidade ofensiva em segurança. A versão pública chega em breve, mas os poderes avançados de cyber ficam restritos a parceiros selecionados. Segundo o The Information, o Astra usa recurrent depth, técnica que melhora custo mas esconde o raciocínio e dificulta auditoria.",
+          "source": {
+            "label": "OpenAI — 1 set",
+            "url": "https://openai.com/index/path-to-astra/"
+          }
+        },
+        {
+          "title": "Gemini 3.8 Flash sai amanhã, diz WSJ",
+          "body": "Fontes ouvidas pelo Wall Street Journal: o Gemini 3.8 Flash chega nesta quarta, dia 3, com ganho destacado em código. O Gemini 4 vai bem nos evals de pré-treino mas ainda tem que terminar o pós-treino. No mesmo dia, o September Android Drop trouxe o Guided vision no Gemini Live.",
+          "source": {
+            "label": "WSJ — 1 set",
+            "url": "https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052"
+          }
+        },
+        {
+          "title": "Cognition a US$ 47 bi em cinco meses",
+          "body": "A Cognition, dona do Devin, levanta cerca de US$ 1 bi a valuation de US$ 47 bi, contra US$ 26 bi em maio. Teria recebido quase US$ 10 bi em interesse, segundo a Bloomberg. O detalhe do dia anterior: US$ 900 milhões de receita anualizada com burn de US$ 800 milhões.",
+          "source": {
+            "label": "Bloomberg — 2 set",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value"
+          }
+        },
+        {
+          "title": "Token a 97 centavos o milhão",
+          "body": "O LLM Token Expenditure Index registrou custo médio de 97 centavos por milhão de tokens. Em 28 de maio o pico era US$ 2,07. Em três meses e poucos dias, o insumo básico da IA caiu pela metade.",
+          "source": {
+            "label": "CNBC — 1 set",
+            "url": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html"
+          }
+        },
+        {
+          "title": "EUA pedem G20 sem regra nova de IA",
+          "body": "Na reunião de tecnologia do G20, os Estados Unidos pediram aos membros que não escrevam regulação de IA inteiramente nova, com regras apenas para situações genuinamente novas criadas pela tecnologia, segundo a Reuters.",
+          "source": {
+            "label": "Reuters — 1 set",
+            "url": "https://www.reuters.com/legal/litigation/us-urges-hands-off-approach-ai-regulation-g20-tech-meeting-2026-09-01/"
+          }
+        },
+        {
+          "title": "Transformer pequeno bate LLM grande no ARC",
+          "body": "Um pesquisador treinou um transformer pequeno em 1h30 de GPU que supera muitos LLMs no ARC-1, benchmark de raciocínio abstrato. A receita foi treino estreito e focado, não escala. O post fez 595 pontos no Hacker News.",
+          "source": {
+            "label": "mvakde.github.io — 1 set",
+            "url": "https://mvakde.github.io/blog/44-on-arc-1/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O insumo caiu pra menos de um dólar e o modelo topo de linha ficou mais barato justamente no trabalho de agente, que é onde a conta dói. Em contrapartida, regulação começou a morder de verdade: watermark embutido, limiar de cyber com acesso restrito, e processo bilionário contra fundadores no polo passivo. Quem constrói com IA em setembro lê preço e risco no mesmo painel."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-01",
       "date": "2026-09-01",
       "hook": "Skills e MCP — 1º de setembro de 2026",
