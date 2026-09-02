@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-02-16h30",
+      "date": "2026-09-02",
+      "time": "16h30",
+      "hook": "Quinta vez seguida que a região de 77,3 a 77,4 mil devolve o preço. BTC a US$ 77,2 mil, com o mercado esperando o canal de 76,5 a 77,8 mil escolher um lado",
+      "caption": "O duplo toque em 77,8 mil não vingou e o preço voltou para dentro da faixa, onde passa o dia\n\nLeia: https://xbtc.aronpc.dev/#2026-09-02-16h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-02-16h30",
+      "slides": [
+        {
+          "title": "O teto que não abre",
+          "body": "O duplo toque em 77,8 mil não vingou e o preço voltou para dentro da faixa, onde passa o dia"
+        },
+        {
+          "title": "US$ 77.197",
+          "body": "Δ1h −0,29% · Δ24h −0,18% · vol US$ 27,5bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Canal de 76,5 a 77,8 mil de pé, dinheiro à vista no comando · Smart Money: funding +0,0029% e 54,9% de contas compradas",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Dois preços e um canal",
+          "body": "Piso do canal em 76.500, com o fundo de 24h em 76.264 logo abaixo. Densidade de ofertas em 77,7 a 77,8 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Onde o range decide",
+          "body": "Fechar acima de 77.800 com volume dá força ao terceiro empurrão. Cair de 77.000 traz o piso de volta ao debate"
+        }
+      ]
+    },
+    {
       "id": "2026-09-02-14h31",
       "date": "2026-09-02",
       "time": "14h31",
