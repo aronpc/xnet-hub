@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-02-09h30",
+      "date": "2026-09-02",
+      "time": "09h30",
+      "hook": "O piso em 76,2 mil aguentou o segundo teste e o preço agradeceu na mesma hora: BTC opera a US$ 76,9 mil, outra vez esbarrando nos 77 mil",
+      "caption": "Duas velas de alta em sequência tiraram o mercado do menor preço do dia e colocaram a faixa dos 77 mil de volta ao jogo\n\nLeia: https://xbtc.aronpc.dev/#2026-09-02-09h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-02-09h30",
+      "slides": [
+        {
+          "title": "O teste que segurou",
+          "body": "Duas velas de alta em sequência tiraram o mercado do menor preço do dia e colocaram a faixa dos 77 mil de volta ao jogo"
+        },
+        {
+          "title": "US$ 76.975",
+          "body": "Δ1h +0,73% · Δ24h −1,28% · vol US$ 30,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Repique chegou a 77 mil sem fechar acima · Smart Money: funding +0,0056% (neutro) + 57,2% das contas compradas",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "77 mil de novo em jogo",
+          "body": "Mínimo do dia 76.264, testado duas vezes (−0,9%) · topo da faixa 77.000 (+0,03%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Manhã de vaivém",
+          "body": "O preço passou as últimas horas indo e voltando entre 76,3 mil e 77 mil; o lado que ceder define o próximo trecho do dia",
+          "source": "https://www.coinglass.com/FearGreedIndex"
+        }
+      ]
+    },
+    {
       "id": "2026-09-02-06h30",
       "date": "2026-09-02",
       "time": "06h30",
