@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-02-11h30",
+      "date": "2026-09-02",
+      "time": "11h30",
+      "hook": "Sete horas espremido abaixo dos 77 mil e, quando a pressão soltou, o preço atravessou o nível na primeira tentativa: BTC a US$ 77,3 mil, pela primeira vez desde a madrugada",
+      "caption": "Primeiro fechamento de hora acima de 77.000 em todo o dia, e a vela seguinte já alcançou 77.490\n\nLeia: https://xbtc.aronpc.dev/#2026-09-02-11h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-02-11h30",
+      "slides": [
+        {
+          "title": "O nível cedeu",
+          "body": "Primeiro fechamento de hora acima de 77.000 em todo o dia, e a vela seguinte já alcançou 77.490"
+        },
+        {
+          "title": "US$ 77.271",
+          "body": "Δ1h +0,55% · Δ24h −1,23% · vol US$ 29,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Rompimento confirmado após a compressão da manhã, sem multidão comprada demais · Smart Money: funding +0,0050% (neutro) + 56,5% das contas compradas, esfriando",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Subiu sem lotar o vagão",
+          "body": "Funding neutro, compradores recuando pela terceira hora e OI menor: a alta vem de recompra de posições vendidas, não de aposta nova"
+        },
+        {
+          "title": "77.000 e 77.500 no radar",
+          "body": "O antigo teto da manhã vira referência de baixo (−0,35%); 77.500 (+0,30%) é a borda da congestão que parou a vela em 77.490"
+        }
+      ]
+    },
+    {
       "id": "2026-09-02-09h30",
       "date": "2026-09-02",
       "time": "09h30",
