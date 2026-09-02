@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-02",
+      "date": "2026-09-02",
+      "hook": "Projetos — 2 de setembro de 2026",
+      "caption": "O dia em que um MoE de 104GB rodou num Mac de 48GB, a Meta trocou de chat interno por causa dos próprios agentes, e uma startup de dados de treino virou unicornio em quatro meses. Sete histórias do mundo de quem constrói com IA.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-02",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-02",
+      "slides": [
+        {
+          "title": "Projetos — 2 de setembro de 2026",
+          "body": "O dia em que um MoE de 104GB rodou num Mac de 48GB, a Meta trocou de chat interno por causa dos próprios agentes, e uma startup de dados de treino virou unicornio em quatro meses. Sete histórias do mundo de quem constrói com IA."
+        },
+        {
+          "title": "MoE de 104GB num Mac de 48GB",
+          "body": "O slotstream faz streaming dos experts do modelo direto do SSD: um Qwen3.8-Flash-Next de 125 bilhões de parâmetros, 104GB em 4-bit, rodando a 12 tokens por segundo numa máquina com um quarto da RAM que o modelo pede. É MLX com Swift, compatível com Ollama.",
+          "source": {
+            "label": "GitHub — carloslfu/slotstream",
+            "url": "https://github.com/carloslfu/slotstream"
+          }
+        },
+        {
+          "title": "AfterQuery: unicornio em 4 meses",
+          "body": "A startup vende dados de treino de código e finanças para labs de IA e atingiu valuation de US$ 3,2 bi, contra US$ 300 milhões em abril. E é lucrativa, segundo a Forbes. É o unicornio mais rápido já saído do YC.",
+          "source": {
+            "label": "Forbes — 1 set",
+            "url": "http://www.forbes.com/sites/annatong/2026/09/01/afterquery-becomes-ycs-fastest-unicorn-at-32-billion/"
+          }
+        },
+        {
+          "title": "Meta troca Google Chat pelo Slack",
+          "body": "Memo de Alexandr Wang: a Meta migra a comunicação interna para o Slack porque é a plataforma mais forte hoje para agentes. A ferramenta interna de agent e DevOps da empresa já opera por lá.",
+          "source": {
+            "label": "Business Insider — 1 set",
+            "url": "https://www.businessinsider.com/meta-switching-from-google-chat-slack-for-ai-agents-2026-9"
+          }
+        },
+        {
+          "title": "Híbrido: nuvem e LLM local juntos",
+          "body": "O Hybrid Compute do app Mac da Perplexity divide a tarefa em tempo real: um roteador manda pro modelo frontier na nuvem o que pode sair da máquina, e mantém num LLM local o que é sensível. Disponível para todos os usuários.",
+          "source": {
+            "label": "Engadget — 1 set",
+            "url": "https://www.engadget.com/2248548/perplexitys-hybrid-compute-splits-sensitive-tasks-between-cloud-and-local-ai/"
+          }
+        },
+        {
+          "title": "Matt Pocock publica suas skills reais",
+          "body": "O mais ouvido em TypeScript publicou o conjunto de skills que usa no próprio diretório de agentes: AI Coding Agent Skills for Real Engineers. O repo tem 244 mil estrelas, e o set publicado agora é a referência mais visível de como escrever skill de verdade.",
+          "source": {
+            "label": "GitHub — mattpocock/skills",
+            "url": "https://github.com/mattpocock/skills"
+          }
+        },
+        {
+          "title": "Antivírus pra ferramenta de agente",
+          "body": "A Air Security saiu do stealth com US$ 50 milhões liderados por Sequoia e Greenoaks para proteger as extensões e tools que agentes de IA instalam. É o endpoint do agente: uma superfície que o antivírus corporativo não cobre.",
+          "source": {
+            "label": "Calcalist — 1 set",
+            "url": "https://www.calcalistech.com/ctechnews/article/r13apdnugg"
+          }
+        },
+        {
+          "title": "OpenClaw 2.0: agente pessoal cresce",
+          "body": "O maior update do agente open-source mais popular: instalação simplificada, app de browser reconstruído, e sessões compartilhadas na nuvem. As releases v2026.8.1 e 8.2 no GitHub confirmam o ritmo.",
+          "source": {
+            "label": "OpenClaw — 1 set",
+            "url": "https://openclaw.ai/blog/openclaw-2-accidentally/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Três fios amarram o dia: modelo local viável com truque de SSD, segurança tratando o agente como endpoint, e skill consolidada como unidade de conhecimento. Enquanto isso, o dinheiro do mercado seguiu pra dados de treino, não pra modelo. A camada que cerca o LLM está sendo construída agora, e é aí que aparecem os projetos."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-02",
       "date": "2026-09-02",
       "hook": "IA — 2 de setembro de 2026",
