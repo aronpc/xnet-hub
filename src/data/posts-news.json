@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-02",
+      "date": "2026-09-02",
+      "hook": "Skills e MCP — 2 de setembro de 2026",
+      "caption": "O dia em que a skill virou assunto mainstream: Matt Pocock e 244 mil estrelas, skill anti-ritual com 160, e SEO pra IA com 261. No campo do MCP, descoberta federada e túnel com autenticação fecharam lacunas que doíam. Sete histórias pra quem escreve skill e roda MCP.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-02",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-02",
+      "slides": [
+        {
+          "title": "Skills e MCP — 2 de setembro de 2026",
+          "body": "O dia em que a skill virou assunto mainstream: Matt Pocock e 244 mil estrelas, skill anti-ritual com 160, e SEO pra IA com 261. No campo do MCP, descoberta federada e túnel com autenticação fecharam lacunas que doíam. Sete histórias pra quem escreve skill e roda MCP."
+        },
+        {
+          "title": "Fable 5.1 vira default no CLI",
+          "body": "A v2.1.257 do Claude Code adiciona o claude-fable-5-1 como modelo Fable padrão, com 1 milhão de contexto e cache read a 25 centavos, além das settings timeFormat e timeZone pro relógio de fim de turno. Ganhou também regra de Containment Escape no auto mode pra credenciais de metadata de cloud. A 258 corrige o launch no macOS 12 e sessões remote que falhavam com erro de mensagem vazia.",
+          "source": {
+            "label": "GitHub — claude-code releases",
+            "url": "https://github.com/anthropics/claude-code/releases"
+          }
+        },
+        {
+          "title": "Skills de engenharia do Matt Pocock",
+          "body": "O set AI Coding Agent Skills for Real Engineers reúne as skills que o Pocock usa no próprio diretório de agentes, no dia a dia de engenharia de verdade. Repo com 244.156 estrelas, post no Hacker News com 16 pontos.",
+          "source": {
+            "label": "GitHub — mattpocock/skills",
+            "url": "https://github.com/mattpocock/skills"
+          }
+        },
+        {
+          "title": "SEO e GEO open-source pra Claude",
+          "body": "O open-seo-mcp-skills traz pesquisa de palavra-chave, tracking de rank, auditoria de site, backlinks e gap de concorrentes, tudo rodando sobre os dados reais do usuário. O módulo de GEO mede visibilidade em resposta de IA. 261 estrelas em 4 dias.",
+          "source": {
+            "label": "GitHub — Ryze-AI-Adgent",
+            "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills"
+          }
+        },
+        {
+          "title": "A skill que proíbe ritual",
+          "body": "A forward-implementation-first impede o agente de travar em bookkeeping que ele mesmo inventou: receipts, hashes, locks, certificações. O lema é ship first, then verify. 160 estrelas desde 29 de agosto.",
+          "source": {
+            "label": "GitHub — Vuk97",
+            "url": "https://github.com/Vuk97/forward-implementation-first"
+          }
+        },
+        {
+          "title": "Descoberta federada de MCP",
+          "body": "O ARD Index da Neuronto faz busca federada em todos os registros públicos de MCP e mantém um índice verificado de tools lido direto de cada servidor. 51 estrelas no repo.",
+          "source": {
+            "label": "GitHub — neuronto",
+            "url": "https://github.com/neuronto/agentic-resource-discovery"
+          }
+        },
+        {
+          "title": "Continual learning pra agente",
+          "body": "O reef, do Human-Agent-Society, é infraestrutura open-source pra agente melhorar a partir da própria experiência acumulada, compilando o que viveu em conhecimento persistente. 59 estrelas.",
+          "source": {
+            "label": "GitHub — Human-Agent-Society/reef",
+            "url": "https://github.com/Human-Agent-Society/reef"
+          }
+        },
+        {
+          "title": "Rate-limit com botão de ação",
+          "body": "A v0.152 do Codex CLI dá ao vim mode busca com barra e interrogação, matches destacados e navegação com n e N. E os banners de rate-limit passaram a oferecer ações: checar uso, gerenciar créditos, resetar limite, mudar de plano.",
+          "source": {
+            "label": "GitHub — openai/codex releases",
+            "url": "https://github.com/openai/codex/releases"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Skill saiu do nicho: autor central da comunidade publicou as dele, anti-ritual e SEO pra IA surgiram na mesma semana, e o CLI que roda tudo ganhou modelo mais barato e guardrail de credencial. No lado do MCP, descoberta federada e continual learning são as peças que faltavam pro ecossistema amadurecer. O conhecimento do agente virou infraestrutura, com ferramenta pra cada fase do ciclo."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-02",
       "date": "2026-09-02",
       "hook": "Projetos — 2 de setembro de 2026",
