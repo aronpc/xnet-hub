@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-02-14h31",
+      "date": "2026-09-02",
+      "time": "14h31",
+      "hook": "O teste no teto de ontem não deu em nada: BTC a US$ 77,0 mil depois de encostar em 77,8 mil e voltar. O mercado escolheu esperar, e o dia segue sem direção",
+      "caption": "A visita à máxima de 24 horas, 77.792, durou pouco. O preço desceu de volta ao meio da faixa sem susto nenhum, e o fundo do dia em 76.264 nem chegou a ser lembrado\n\nLeia: https://xbtc.aronpc.dev/#2026-09-02-14h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-02-14h31",
+      "slides": [
+        {
+          "title": "Bater no teto e recuar",
+          "body": "A visita à máxima de 24 horas, 77.792, durou pouco. O preço desceu de volta ao meio da faixa sem susto nenhum, e o fundo do dia em 76.264 nem chegou a ser lembrado"
+        },
+        {
+          "title": "US$ 77.044",
+          "body": "Δ1h −0,56% · Δ24h −0,59% · vol US$ 29,2bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A rejeição em 77,8 mil foi digestão, com o interesse aberto estável em ~107,7 mil BTC · Smart Money: funding +0,0025% e 55% das contas compradas",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Ninguém apareceu para vender",
+          "body": "A queda veio de quem embolsou lucro no topo, não de ataque comprimido: funding zerado, posições moderadas e nenhum sinal de pressão dos dois lados. Dia de mão no bolso"
+        },
+        {
+          "title": "Dois números decidem a digestão",
+          "body": "Recuperar 77.300 devolve o debate ao teto de 77,8 mil. Perder 76.500 devolve o dia à mínima de 76.264. Entre um e outro, mais do mesmo"
+        }
+      ]
+    },
+    {
       "id": "2026-09-02-13h34",
       "date": "2026-09-02",
       "time": "13h34",
