@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-02-12h30",
+      "date": "2026-09-02",
+      "time": "12h30",
+      "hook": "Fechou acima dos 77 mil no almoço e já voltou pra porta: BTC a US$ 77,0 mil, com o avanço da manhã devolvido quase inteiro",
+      "caption": "A tentativa de subir parou em 77.490 e três fechamentos de hora vieram escorregando de volta. A faixa 76,6 a 77,5 mil continua mandando no dia\n\nLeia: https://xbtc.aronpc.dev/#2026-09-02-12h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-02-12h30",
+      "slides": [
+        {
+          "title": "De volta à porta dos 77 mil",
+          "body": "A tentativa de subir parou em 77.490 e três fechamentos de hora vieram escorregando de volta. A faixa 76,6 a 77,5 mil continua mandando no dia"
+        },
+        {
+          "title": "US$ 77.035",
+          "body": "Δ1h −0,31% · Δ24h −1,03% · vol US$ 29,9bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A saída da faixa não teve seguidores e o preço voltou pra borda de 77.000 · Smart Money: funding +0,0045% (neutro) + 55,7% das contas compradas, esfriando pela 4ª hora",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Rejeição sem vontade dos dois lados",
+          "body": "Funding perto de zero, compradores murchando e volume da hora a 0,83 da média. Quem defende 77.000 e quem ataca 77.500 (pela terceira vez) parecem igualmente cansados"
+        },
+        {
+          "title": "O próximo fechamento resolve o empate",
+          "body": "Acima de 77.200, o avanço do almoço volta ao debate. Abaixo de 77.000, a faixa 76,6 a 77,5 mil reabre e o piso do dia, 76.264, entra na conversa"
+        }
+      ]
+    },
+    {
       "id": "2026-09-02-11h30",
       "date": "2026-09-02",
       "time": "11h30",
