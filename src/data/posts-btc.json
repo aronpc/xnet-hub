@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-02-13h34",
+      "date": "2026-09-02",
+      "time": "13h34",
+      "hook": "A indecisão do almoço durou pouco: BTC a US$ 77,5 mil, com a recuperação empurrada por dinheiro de verdade em vez de aposta alavancada",
+      "caption": "O piso de 77 mil foi testado de novo e resistiu. Daí pra cima foram três fechamentos de hora em sequência, o último já encostando na barreira das 77,8 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-09-02-13h34",
+      "link": "https://xbtc.aronpc.dev/#2026-09-02-13h34",
+      "slides": [
+        {
+          "title": "O rebote que veio do mercado à vista",
+          "body": "O piso de 77 mil foi testado de novo e resistiu. Daí pra cima foram três fechamentos de hora em sequência, o último já encostando na barreira das 77,8 mil"
+        },
+        {
+          "title": "US$ 77.477",
+          "body": "Δ1h +0,57% · Δ24h −0,15% · vol US$ 30,0bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "O roteiro da hora do almoço se cumpriu e a subida veio com volume de 1,4 vez a média · Smart Money: funding +0,0036% e 55,4% das contas compradas",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Recuperação com pés no chão",
+          "body": "Funding perto de zero e posição comprada modesta enquanto o preço avança: quem subiu o preço foi o mercado à vista, não a margem. Movimento desse tipo costuma durar mais"
+        },
+        {
+          "title": "77,8 mil é a última parada antes de 78",
+          "body": "A faixa 77,7 a 77,8 mil concentra as ordens e o teto de 24 horas. Fechamento acima dela abre caminho para 78,2 a 78,5 mil"
+        }
+      ]
+    },
+    {
       "id": "2026-09-02-12h30",
       "date": "2026-09-02",
       "time": "12h30",
