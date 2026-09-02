@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-02-06h30",
+      "date": "2026-09-02",
+      "time": "06h30",
+      "hook": "A pergunta que ficou ontem à noite foi respondida: os 77 mil cederam depois de onze horas, e o BTC opera a US$ 76,8 mil, no menor preço do dia",
+      "caption": "Duas velas em queda tiraram a região de cena e levaram o preço ao menor nível das últimas 24 horas\n\nLeia: https://xbtc.aronpc.dev/#2026-09-02-06h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-02-06h30",
+      "slides": [
+        {
+          "title": "Os 77 mil não seguraram",
+          "body": "Duas velas em queda tiraram a região de cena e levaram o preço ao menor nível das últimas 24 horas"
+        },
+        {
+          "title": "US$ 76.806",
+          "body": "Δ1h −0,62% · Δ24h −1,45% · vol US$ 29,2bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Perda dos 77 mil com duas quedas seguidas no gráfico de 1 hora · Funding +0,0077% e 55,8% das contas em compra na direção contrária",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Mínimo do dia em jogo",
+          "body": "76.420 é o menor preço em 24 horas (−0,5%) · Uma retomada passa antes por 77.400 (+0,8%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Humor atrasado",
+          "body": "Índice de sentimento em 63, ainda em ganância, enquanto o preço recua. O humor demora a acompanhar o movimento",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        }
+      ]
+    },
+    {
       "id": "2026-09-02-05h31",
       "date": "2026-09-02",
       "time": "05h31",
