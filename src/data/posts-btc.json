@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-03-10h31",
+      "date": "2026-09-03",
+      "time": "10h31",
+      "hook": "BTC a US$ 78,4 mil: o teto de 78,2 mil, que segurou cinco ataques em dois dias, foi rompido de verdade. O candle de 1h fechou em 78.652 e o preço segue acima, com volume em alta",
+      "caption": "Agora é hora fechada acima da região que devolvia o preço. Primeiro número à frente: 79 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-09-03-10h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-03-10h31",
+      "slides": [
+        {
+          "title": "A sexta tentativa passou do teto",
+          "body": "Agora é hora fechada acima da região que devolvia o preço. Primeiro número à frente: 79 mil"
+        },
+        {
+          "title": "US$ 78.481",
+          "body": "Δ1h +0,70% · Δ24h +2,1% · vol US$ 26,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Quebra veio com alavancagem baixa e volume de 24h subindo: dinheiro grande acompanhou o movimento em vez de forçá-lo · Smart Money: funding +0,007% e L/S 1,16",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Segurar o andar novo",
+          "body": "O teto antigo, 78,2 mil, virou chão. Uma visita de volta ali com volume calmo é o caminho normal depois de uma quebra. Fechar abaixo seria a versão feia da história"
+        },
+        {
+          "title": "79 mil no radar",
+          "body": "Acima de 78.783, topo de 24 horas, o redondo de 79 mil fica a um passo. Um recuo a 78,2 mil com pouco volume não assusta"
+        }
+      ]
+    },
+    {
       "id": "2026-09-03-04h31",
       "date": "2026-09-03",
       "time": "04h31",
