@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-03-16h31",
+      "date": "2026-09-03",
+      "time": "16h31",
+      "hook": "BTC a US$ 81,5 mil. O número que faltava caiu: a hora fechou acima de 81,4 mil e o preço encostou no topo do dia, 81.640. O detalhe curioso é que 55% das posições abertas estão do lado contrario do movimento",
+      "caption": "Quatro horas de consolidação terminaram em fechamentos de hora em sequência ascendente\n\nLeia: https://xbtc.aronpc.dev/#2026-09-03-16h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-03-16h31",
+      "slides": [
+        {
+          "title": "81 mil virou chão, sobrou o topo do dia",
+          "body": "Quatro horas de consolidação terminaram em fechamentos de hora em sequência ascendente"
+        },
+        {
+          "title": "US$ 81.512",
+          "body": "Δ1h +0,67% · Δ24h +5,65% · vol US$ 35,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "A maioria apostou contra e o preço foi pra cima mesmo assim; quem posicionado contra o movimento paga a conta se a passagem pelo topo se confirmar · Smart Money: funding +0,010% e L/S 0,80",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Convicção em volume",
+          "body": "As velas da subida rodaram 532 BTC contra uma média de 700: o preço subiu, mas com metade da força habitual"
+        },
+        {
+          "title": "Topo do dia é a linha da vez",
+          "body": "Uma hora fechada acima de 81.640 muda a conversa para 82 mil. Se o preço devolver 81 mil, a região de 80,4 mil volta ao papo"
+        }
+      ]
+    },
+    {
       "id": "2026-09-03-12h31",
       "date": "2026-09-03",
       "time": "12h31",
