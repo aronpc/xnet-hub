@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-03",
+      "date": "2026-09-03",
+      "hook": "IA — 3 de setembro de 2026",
+      "caption": "O ciclo de releases encurtou pra três semanas, a Microsoft passou a declarar \"agentes\" como segmento contábil, e alguém fabricou 215 mil páginas de SEO só pra ser citado por IA. Seis histórias de um dia em que a IA virou burocracia, contabilidade e alvo de fraude ao mesmo tempo.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-03",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-03",
+      "slides": [
+        {
+          "title": "IA — 3 de setembro de 2026",
+          "body": "O ciclo de releases encurtou pra três semanas, a Microsoft passou a declarar \"agentes\" como segmento contábil, e alguém fabricou 215 mil páginas de SEO só pra ser citado por IA. Seis histórias de um dia em que a IA virou burocracia, contabilidade e alvo de fraude ao mesmo tempo."
+        },
+        {
+          "title": "Gemini 3.8 Flash chega antes da hora, e com um irmão fechado",
+          "body": "O WSJ tinha apontado quarta-feira; o lançamento veio terça. O 3.8 Flash saiu 3 semanas depois do 3.7, a US$ 0,75 por milhão de tokens de entrada. Junto vem o 3.8 Flash Cyber, restrito ao programa de parceiros Fairwind: a primeira vez que um modelo Gemini trava capacidade de cyber atrás de gate.",
+          "source": {
+            "label": "Google — 2 set",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+          }
+        },
+        {
+          "title": "Muse Spark 1.3 tenta agentes que duram, em vez de agentes que acertam",
+          "body": "O modelo da Meta sustenta vários workflows num thread longo, monta o próprio contexto quando as fontes se contradizem, faz pergunta de esclarecimento e pede confirmação antes de qualquer ação de peso. Marca 62 no Artificial Analysis em preview limitado. Zuckerberg prometeu o modelo Watermelon e pesos abertos do Muse Spark \"em breve\".",
+          "source": {
+            "label": "Meta — 2 set",
+            "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3"
+          }
+        },
+        {
+          "title": "O governo Trump entrou no processo da OpenAI contra o NYT",
+          "body": "O Departamento de Justiça arquiva amicus brief afirmando que treinar LLM em material protegido é fair use. É o Executivo americano tomando partido explícito num litígio privado de fronteira, na direção oposta ao que pedem autores e editoras.",
+          "source": {
+            "label": "TechCrunch — 2 set",
+            "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/"
+          }
+        },
+        {
+          "title": "Comércio dos EUA: \"confiamos na Anthropic\"",
+          "body": "O secretário Howard Lutnick declarou que a empresa está \"back on the right side\" da administração. Fecha o arco que começou com o blacklisting revertido judicialmente em agosto.",
+          "source": {
+            "label": "Axios — 2 set",
+            "url": "https://www.axios.com/2026/09/02/lutnick-anthropic-trump"
+          }
+        },
+        {
+          "title": "\"Agents and Infra\": a contabilidade da Microsoft agora separa agentes",
+          "body": "A empresa cortou de 3 pra 2 segmentos de reporting, e um deles chama Agents and Infra. Pela primeira vez vai divulgar receita do Azure em dólares, quebrando estrutura vigente desde 2015.",
+          "source": {
+            "label": "CNBC — 2 set",
+            "url": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html"
+          }
+        },
+        {
+          "title": "215 mil páginas fabricadas pra enganar o Perplexity",
+          "body": "Investigação alemã mapeou três sites que produziram 215.128 páginas de \"melhor software pra X\", otimizadas de propósito pra serem citadas por motores de resposta. O Perplexity cita essas páginas. Não é teoria: é indústria organizada.",
+          "source": {
+            "label": "trellner — 2 set",
+            "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O ritmo virou três semanas entre Flash, o gate de cyber virou produto fechado, e agente virou segmento no balanço. Enquanto isso, a verdade nas fontes vira alvo: 215 mil páginas fabricadas citadas como se fossem conhecimento. Velocidade, cerca e fraude no mesmo pacote. Até amanhã."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-02",
       "date": "2026-09-02",
       "hook": "Skills e MCP — 2 de setembro de 2026",
