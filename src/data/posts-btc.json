@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-03-17h30",
+      "date": "2026-09-03",
+      "time": "17h30",
+      "hook": "BTC a US$ 81,5 mil. A hora fechou em 81.755, acima do topo do dia, com volume 50% acima do normal, e o reteste logo depois não afundou. O detalhe: mais da metade das posições abertas segue apostada contra o movimento",
+      "caption": "Fechamento de hora acima de 81.640 com volume 1,5× a média, e o reteste de 81,4 mil segurando firme\n\nLeia: https://xbtc.aronpc.dev/#2026-09-03-17h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-03-17h30",
+      "slides": [
+        {
+          "title": "O topo do dia caiu de vez",
+          "body": "Fechamento de hora acima de 81.640 com volume 1,5× a média, e o reteste de 81,4 mil segurando firme"
+        },
+        {
+          "title": "US$ 81.535",
+          "body": "Δ1h +0,03% · Δ24h +5,4% · vol US$ 36,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "A hora parada de +0,03% é o mercado digerindo os 5,4% do dia, não perdendo gás · Smart Money: funding +0,0097% e L/S 0,81",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "55% apostaram contra",
+          "body": "O interesse cresceu junto com o preço: OI em 111,9k BTC em alta, enquanto a maioria das posições seguia no lado errado do movimento"
+        },
+        {
+          "title": "82 mil no radar",
+          "body": "82 mil é a referência seguinte enquanto 81,4 mil segurar; devolver 81 mil traz os 80,4 mil de volta ao papo"
+        }
+      ]
+    },
+    {
       "id": "2026-09-03-16h31",
       "date": "2026-09-03",
       "time": "16h31",
