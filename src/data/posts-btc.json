@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-03-11h31",
+      "date": "2026-09-03",
+      "time": "11h31",
+      "hook": "BTC a US$ 79,5 mil. A passagem pelos 78 mil já virou distância: o topo do dia foi renovado em 79.732 e falta meio por cento para o número redondo de 80 mil. O volume da hora veio no dobro da média",
+      "caption": "A subida teve participação de verdade, com candles gordos e contratos abertos crescendo junto\n\nLeia: https://xbtc.aronpc.dev/#2026-09-03-11h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-03-11h31",
+      "slides": [
+        {
+          "title": "Falta meio por cento para 80 mil",
+          "body": "A subida teve participação de verdade, com candles gordos e contratos abertos crescendo junto"
+        },
+        {
+          "title": "US$ 79.574",
+          "body": "Δ1h +1,39% · Δ24h +3,09% · vol US$ 27bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Candle de 1.077 BTC contra uma média de 504, e contratos abertos subindo de 107 mil para 108,9 mil: gente entrando no movimento, não preço correndo no vazio · Smart Money: funding +0,007% e L/S 1,10",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O redondo de 80 mil é o próximo número",
+          "body": "O topo de 24 horas foi renovado em 79.794, logo abaixo dele. Uma visita de volta a 78,2 mil com calma é descanso natural depois de uma subida dessas"
+        },
+        {
+          "title": "Pausa ou continuação",
+          "body": "Hora fechada acima de 80 mil com mais de 500 BTC negociados estica a leitura para 81 ou 82 mil. O recuo só se desenha abaixo de 77,3 mil"
+        }
+      ]
+    },
+    {
       "id": "2026-09-03-10h31",
       "date": "2026-09-03",
       "time": "10h31",
