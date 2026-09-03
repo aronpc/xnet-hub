@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-03",
+      "date": "2026-09-03",
+      "hook": "Projetos — 3 de setembro de 2026",
+      "caption": "Um runtime que dá só uma tool pro modelo, um benchmark que prova que o harness pesa mais que o modelo, e um pipeline de auditoria que achou no curl 6 CVEs que os frontier models não viram. O dia foi de questionar o design default de agente.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-03",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-03",
+      "slides": [
+        {
+          "title": "Projetos — 3 de setembro de 2026",
+          "body": "Um runtime que dá só uma tool pro modelo, um benchmark que prova que o harness pesa mais que o modelo, e um pipeline de auditoria que achou no curl 6 CVEs que os frontier models não viram. O dia foi de questionar o design default de agente."
+        },
+        {
+          "title": "Kit: um coding agent com UMA tool só",
+          "body": "O Kit da Speakeasy dá ao modelo uma única capacidade: escrever e rodar programas. Terminal client, server ACP, endpoint A2A e orquestrador de subagentes cabem num binário estático. A filosofia é explícita: menos tools, mais program.",
+          "source": {
+            "label": "GitHub — 2 set",
+            "url": "https://github.com/speakeasy-api/kit"
+          }
+        },
+        {
+          "title": "Aura: agente Rust que conserta incidente de produção",
+          "body": "Agente open-source em Rust que investiga incidente, diagnostica e propõe ou aplica o fix, num fluxo contínuo de detecção a correção. Rust como aposta de footprint pra rodar perto do workload.",
+          "source": {
+            "label": "GitHub — 2 set",
+            "url": "https://github.com/mezmo/aura"
+          }
+        },
+        {
+          "title": "Mesmo modelo, 9 harnesses: custo varia 17x",
+          "body": "O FrontierHarness Eval rodou um modelo idêntico em 9 harnesses. Pass rate de 50% a 66,7%, custo mediano por tarefa de US$ 1,05 a US$ 18,34. O Claude Code pagou 5,3x mais que o Codex pelo mesmo score de 63,3%, levando 9h38 contra 6h44.",
+          "source": {
+            "label": "frontierharness.org — 2 set",
+            "url": "https://frontierharness.org"
+          }
+        },
+        {
+          "title": "I Have Been Clawed: o arquivo dos incidentes com agentes",
+          "body": "Índice comunitário de casos documentados em que agentes apagaram dado, vazaram segredo ou queimaram dinheiro. Cada entrada tem fonte linkada e a lição que ensinou.",
+          "source": {
+            "label": "ihavebeenclawed — 2 set",
+            "url": "https://ihavebeenclawed.com/"
+          }
+        },
+        {
+          "title": "Defender o agente virou categoria de US$ 100 mi",
+          "body": "A HiddenLayer, de Austin, captou US$ 100 mi pra proteger modelos, agentes e workflows. No mesmo dia a Huskeys levantou US$ 27 mi Série A pra bloquear ataques movidos por IA.",
+          "source": {
+            "label": "TechCrunch — 2 set",
+            "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
+          }
+        },
+        {
+          "title": "WebLLM: modelo rodando dentro do browser, sem servidor",
+          "body": "O projeto do mlc-ai roda LLM direto no browser via WebGPU, com 18,8 mil estrelas. A release v0.2.83 trouxe storage cross-origin e verificação de integridade de artefatos.",
+          "source": {
+            "label": "GitHub — 2 set",
+            "url": "https://github.com/mlc-ai/web-llm"
+          }
+        },
+        {
+          "title": "Pipeline especializado acha 6 CVEs no curl; frontier models, zero",
+          "body": "A Aisle reportou 6 CVEs no curl com pipeline próprio de auditoria, depois de os model cards da OpenAI e da Anthropic terem reportado nada. O post viralizou questionando a eficácia real de frontier model em código legacy.",
+          "source": {
+            "label": "Aisle — 2 set",
+            "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A semana questiona o design default: menos tools, harness medindo mais que modelo, pipeline batendo frontier na auditoria. O ganho não está mais em empilhar ferramenta, está em escolher onde o custo morre. Até amanhã."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-03",
       "date": "2026-09-03",
       "hook": "IA — 3 de setembro de 2026",
