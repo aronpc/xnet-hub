@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-03",
+      "date": "2026-09-03",
+      "hook": "Skills e MCP — 3 de setembro de 2026",
+      "caption": "A organização passou a injetar MCP server na máquina de todo mundo, o Codex adotou marketplace de plugins, e a Anthropic botou no ar a página que responde \"isto foi feito com Claude?\". O ecossistema amadureceu pra frota e provenância.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-03",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-03",
+      "slides": [
+        {
+          "title": "Skills e MCP — 3 de setembro de 2026",
+          "body": "A organização passou a injetar MCP server na máquina de todo mundo, o Codex adotou marketplace de plugins, e a Anthropic botou no ar a página que responde \"isto foi feito com Claude?\". O ecossistema amadureceu pra frota e provenância."
+        },
+        {
+          "title": "v2.1.259: managedMcpServers, MCP por política e não por máquina",
+          "body": "Novo setting gerenciado permite à organização fornecer MCP servers HTTP/SSE pra todos os usuários, no mesmo formato do .mcp.json. Junto: --permission-prompts none pra host headless (tudo que pedir prompt é negado), badge de MR do GitLab, e fix das sessões concorrentes que revertiam o ~/.claude.json.",
+          "source": {
+            "label": "GitHub — 2 set",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.259"
+          }
+        },
+        {
+          "title": "v0.153: o Codex adota marketplace de plugins remotos",
+          "body": "O CLI da OpenAI ganhou comando de plugin pra listar, instalar e remover de marketplaces remotos. Vim mode agora tem undo/redo preservando drafts, e o histórico mostra patch completo.",
+          "source": {
+            "label": "GitHub — 3 set",
+            "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.0"
+          }
+        },
+        {
+          "title": "claude.com/check-content: \"este arquivo foi feito com Claude?\"",
+          "body": "Página oficial que verifica se um conteúdo foi gerado com Claude. É a face pública do watermark introduzido no Fable 5.1 e no Mythos 5.1.",
+          "source": {
+            "label": "claude.com — 2 set",
+            "url": "https://claude.com/check-content"
+          }
+        },
+        {
+          "title": "oh-my-fable: guia de prompting empacotado como skills",
+          "body": "Repo empacota o guia de prompting do Fable 5.1 como skills de Claude Code em coreano, inglês e chinês. Um comando de setup, e as skills guiam o uso do modelo.",
+          "source": {
+            "label": "GitHub — 2 set",
+            "url": "https://github.com/Junhan2/oh-my-fable"
+          }
+        },
+        {
+          "title": "papergraph-mcp: paper de matemática como grafo de teoremas",
+          "body": "MCP server novo transforma papers de arXiv e LaTeX em grafo de dependência entre teoremas, navegável por agente.",
+          "source": {
+            "label": "GitHub — 2 set",
+            "url": "https://github.com/lotchuazzz-crypto/papergraph-mcp"
+          }
+        },
+        {
+          "title": "elbi: função Python vira MCP server",
+          "body": "Escreva uma função Python e o elbi já a serve pra agentes via MCP, sem boilerplate de server.",
+          "source": {
+            "label": "GitHub — 3 set",
+            "url": "https://github.com/Intelligible/elbi"
+          }
+        },
+        {
+          "title": "FactReach: busca em 23 canais como skill de agente",
+          "body": "Skill chinesa com busca em 23 canais: web, X, Xiaohongshu, Douyin, Weibo, Bilibili, Reddit, YouTube, GitHub, WeChat e outros, priorizando endpoints sem autenticação.",
+          "source": {
+            "label": "GitHub — 2 set",
+            "url": "https://github.com/simonlin1212/FactReach"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "MCP saiu da máquina individual pra política de organização, plugin virou campo de disputa entre harnesses, e provenança de conteúdo ganhou URL pública. O ecossistema parou de crescer pra fora e começou a se organizar. Até amanhã."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-03",
       "date": "2026-09-03",
       "hook": "Projetos — 3 de setembro de 2026",
