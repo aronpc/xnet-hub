@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-03-19h30",
+      "date": "2026-09-03",
+      "time": "19h30",
+      "hook": "BTC a US$ 81,1 mil. O rali de 5,4% do dia deu o primeiro espirro: o preço recuou do topo de 82,3 mil e voltou testar a faixa de 81 mil, exatamente o degrau de onde partiu a última subida. E segue com 55% das contas posicionadas contra o movimento",
+      "caption": "Recuo do topo de 82,3 mil devolve o preço ao degrau de 81 mil, a base do rompimento das últimas horas\n\nLeia: https://xbtc.aronpc.dev/#2026-09-03-19h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-03-19h30",
+      "slides": [
+        {
+          "title": "O rali tirou o pé do acelerador",
+          "body": "Recuo do topo de 82,3 mil devolve o preço ao degrau de 81 mil, a base do rompimento das últimas horas"
+        },
+        {
+          "title": "US$ 81.162",
+          "body": "Δ1h −0,5% · Δ24h +5,4% · vol US$ 38,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Depois de +5,4% em um dia, o mercado passou a digerir o movimento na faixa de 81 a 82 mil · Smart Money: funding +0,007% e L/S 0,80",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Recuo com mão na massa",
+          "body": "A volta ao degrau de 81 mil encontrou compradores esperando, com volume forte absorvendo a venda. Leitura de consolidação, não de corrida para a saída"
+        },
+        {
+          "title": "A faixa de 81 a 82 mil decide",
+          "body": "Segurar 81 mil mantém o topo de 82,3 mil como referência seguinte; devolver o degrau aproxima a conversa dos 80,5 mil"
+        }
+      ]
+    },
+    {
       "id": "2026-09-03-17h30",
       "date": "2026-09-03",
       "time": "17h30",
