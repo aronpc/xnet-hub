@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-03-12h31",
+      "date": "2026-09-03",
+      "time": "12h31",
+      "hook": "BTC a US$ 80,7 mil. Às 11h31 faltava meio por cento para os 80 mil; meia hora depois o número foi ultrapassado e o preço segue colado lá em cima. O volume desta hora está rodando a mais de 3 vezes a média",
+      "caption": "Terceiro fechamento de hora seguido acima da região dos 78 mil, agora já na casa dos 80\n\nLeia: https://xbtc.aronpc.dev/#2026-09-03-12h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-03-12h31",
+      "slides": [
+        {
+          "title": "80 mil deixou de ser notícia",
+          "body": "Terceiro fechamento de hora seguido acima da região dos 78 mil, agora já na casa dos 80"
+        },
+        {
+          "title": "US$ 80.713",
+          "body": "Δ1h +1,4% · Δ24h +4,8% · vol US$ 31,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Contratos abertos subindo de 108,9 mil para 110,1 mil BTC junto com o preço: posição nova entrando, não multidão apertada · Smart Money: funding +0,008% e L/S 0,98",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Segurar o novo patamar",
+          "body": "Uma volta calma até 80 mil seria descanso normal. O clima só muda se 79,7 mil não segurarem o preço"
+        },
+        {
+          "title": "81 mil é o próximo número da conversa",
+          "body": "O topo de 24 horas está em 80.967, a um passo do redondo seguinte"
+        }
+      ]
+    },
+    {
       "id": "2026-09-03-11h31",
       "date": "2026-09-03",
       "time": "11h31",
