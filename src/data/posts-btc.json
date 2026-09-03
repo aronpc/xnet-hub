@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-03-04h31",
+      "date": "2026-09-03",
+      "time": "04h31",
+      "hook": "BTC a US$ 77,9 mil: na sexta visita ao teto de 77,8 mil, o preço passou. Os fechamentos de hora em hora sobem em escada e agora encostam no topo de 24 horas, em 78,2 mil",
+      "caption": "Cinco vezes essa região devolveu o preço. Na sexta, cedeu. O topo de 24 horas, 78,2 mil, é o próximo número logo à frente\n\nLeia: https://xbtc.aronpc.dev/#2026-09-03-04h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-03-04h31",
+      "slides": [
+        {
+          "title": "O teto abriu na sexta tentativa",
+          "body": "Cinco vezes essa região devolveu o preço. Na sexta, cedeu. O topo de 24 horas, 78,2 mil, é o próximo número logo à frente"
+        },
+        {
+          "title": "US$ 77.929",
+          "body": "Δ1h +0,24% · Δ24h +0,47% · vol US$ 27,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fechamentos de 1h seguidos em alta com funding neutro: a subida vem de dinheiro à vista, não emprestado · Smart Money: funding +0,0063% e 54% de contas compradas",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Agora é segurar o andar de cima",
+          "body": "O antigo teto de 77,8 mil virou chão. Fechar a hora acima de 78,2 mil, o topo de 24 horas, é o que confirma a saída de verdade. O volume, aliás, segue abaixo da média, sem pressa"
+        },
+        {
+          "title": "Se o degrau aguentar",
+          "body": "Segurar 77.300 mantém a sequência de fechamentos em pé. Cair dele devolve o preço à faixa de ontem, com 76.800 como primeira parada da descida"
+        }
+      ]
+    },
+    {
       "id": "2026-09-02-16h30",
       "date": "2026-09-02",
       "time": "16h30",
