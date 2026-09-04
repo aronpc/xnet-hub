@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-04",
+      "date": "2026-09-04",
+      "hook": "IA — 4 de setembro de 2026",
+      "caption": "A OpenAI decretou a era da AGI, a Nvidia comprou a casa dos pesos abertos, e os três maiores chatbots do mundo caíram juntos pela primeira vez. Seis histórias de um dia que mexeu no mapa da IA.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-04",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-04",
+      "slides": [
+        {
+          "title": "IA — 4 de setembro de 2026",
+          "body": "A OpenAI decretou a era da AGI, a Nvidia comprou a casa dos pesos abertos, e os três maiores chatbots do mundo caíram juntos pela primeira vez. Seis histórias de um dia que mexeu no mapa da IA."
+        },
+        {
+          "title": "GPT-6 Astra chega declarando a era da AGI",
+          "body": "Saiu pro programa Daybreak como o melhor modelo de computer use do mundo: agendou DMV e buscou vagas mais rápido que a média dos humanos. Foi o maior treino da história da OpenAI, com mais de 100 mil GPUs no Stargate, no Texas. Custa 10 dólares por milhão de tokens de entrada e 50 de saída, exatamente o mesmo do Fable 5.1. No ARC-AGI-3 marcou 62,7% no harness padrão e 99,9% com um adapter de provedor novo.",
+          "source": {
+            "label": "OpenAI — 3 set",
+            "url": "https://openai.com/index/gpt-6-astra/"
+          }
+        },
+        {
+          "title": "Nvidia compra a Hugging Face por US$ 12,9 bilhões",
+          "body": "Segunda maior aquisição da história da empresa, atrás só dos 20 bilhões em ativos da Groq, em dezembro. O Register já mancheteia que a Hugging Face é importante demais pra cair nas mãos da Nvidia.",
+          "source": {
+            "label": "CNBC — 3 set",
+            "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"
+          }
+        },
+        {
+          "title": "ChatGPT, Claude, Grok e Codex caem juntos",
+          "body": "Uma pane simultânea e rara derrubou os três maiores chatbots e o Codex. A thread no Hacker News passou de 340 pontos e 530 comentários, e o GitHub oscilou 7% durante o incidente. Todos voltaram no mesmo dia.",
+          "source": {
+            "label": "9to5Google — 3 set",
+            "url": "https://9to5google.com/2026/09/03/chatgpt-claude-grok-outages/"
+          }
+        },
+        {
+          "title": "K2 Horizon: frota de 6 modelos abertos, de 0,9B a 375B",
+          "body": "O Institute of Foundation Models liberou seis modelos Apache 2.0 com o ciclo de treino inteiro aberto: checkpoints intermediários, receitas de construção de dados, código, configs, logs e pesos. Os de 0,9B, 3,7B e 7B batem SOTA nas suas classes, e o 36B-A4B estreia o mecanismo MoVA, de Mixture-of-Value-Attention.",
+          "source": {
+            "label": "IFM — 3 set",
+            "url": "https://ifm.ai/blog/k2/"
+          }
+        },
+        {
+          "title": "Qwen 3.8 27B a 1.500 tokens/s na Cerebras",
+          "body": "O Qwen3.8 27B ficou disponível na inference da Cerebras a 1.500 tokens por segundo. Foi uma das histórias mais votadas do dia no Hacker News, com 484 pontos.",
+          "source": {
+            "label": "Cerebras — 3 set",
+            "url": "https://inference-docs.cerebras.ai/models/overview"
+          }
+        },
+        {
+          "title": "MAI-Transcribe-2: transcrição a 10 centavos a hora",
+          "body": "Novo modelo de reconhecimento de fala da Microsoft AI que, segundo a empresa, bate o Gemini 3.5 Transcribe e o GPT-Transcribe custando 10 centavos de dólar por hora de áudio.",
+          "source": {
+            "label": "VentureBeat — 3 set",
+            "url": "https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed"
+          }
+        },
+        {
+          "title": "O topo do mercado e o piso da confiança",
+          "body": "O Astra abre a era da AGI no dia em que a Nvidia compra a casa dos pesos abertos, e uma pane conjunta mostra que o ecossistema inteiro ainda tropeça nas mesmas pedras. Por baixo, modelo aberto com ciclo completo e inferência a 1.500 tokens/s apertam o piso. A conclusão que fica: score diz tanto sobre o harness quanto sobre o modelo, e redundância sem failover testado é enfeite."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-03",
       "date": "2026-09-03",
       "hook": "Skills e MCP — 3 de setembro de 2026",
