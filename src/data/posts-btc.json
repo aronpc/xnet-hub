@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-04-09h30",
+      "date": "2026-09-04",
+      "time": "09h30",
+      "hook": "A tentativa de subir não durou nem uma hora. O BTC devolveu a alta da manhã em uma vela só, com volume acima do habitual, e voltou para os US$ 79,9 mil. O sentimento segue em ganância, o que costuma dar folga pra esfriar mais",
+      "caption": "Maior movimento de queda do dia, movido a volume, logo depois do preço tocar 81 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-09-04-09h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-04-09h30",
+      "slides": [
+        {
+          "title": "A subida da manhã foi embora rápida",
+          "body": "Maior movimento de queda do dia, movido a volume, logo depois do preço tocar 81 mil"
+        },
+        {
+          "title": "US$ 79,9 mil",
+          "body": "Δ1h −1,2% · Δ24h +2,2% · vol US$ 43bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço abaixo da média de 24h depois de perder a faixa onde passou 13 horas · Smart Money: funding +0,005% e L/S 0,87 (54% short)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "79 mil é a linha do momento",
+          "body": "O fundo de ontem, 78,4 mil, entra em cena se 79 mil não segurar; recuperar 80,5 mil devolveria o clima de força"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura horária atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-04-08h30",
       "date": "2026-09-04",
       "time": "08h30",
