@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-04",
+      "date": "2026-09-04",
+      "hook": "Skills e MCP — 4 de setembro de 2026",
+      "caption": "O Claude Code ganhou painel de diff e diagnóstico de cache miss, a Anthropic publicou blueprint de agente de comércio, e três projetos abertos transformaram em ferramenta o que time bom faz na mão: verificar, testar config e converter erro em regra. Sete histórias do ecossistema.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-04",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-04",
+      "slides": [
+        {
+          "title": "Skills e MCP — 4 de setembro de 2026",
+          "body": "O Claude Code ganhou painel de diff e diagnóstico de cache miss, a Anthropic publicou blueprint de agente de comércio, e três projetos abertos transformaram em ferramenta o que time bom faz na mão: verificar, testar config e converter erro em regra. Sete histórias do ecossistema."
+        },
+        {
+          "title": "v2.1.260: /diff ao lado da conversa e causa do cache miss",
+          "body": "Painel de diff que abre ao lado da conversa em fullscreen mostrando as mudanças não commitadas conforme o Claude edita. O /cost e o campo de prompt_cache da status line passam a dizer a causa provável do cache miss: tool defs ou system prompt mudaram, ou a sessão idle passou do TTL. E o /reload-plugins chegou às sessões headless.",
+          "source": {
+            "label": "GitHub — 3 set",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.260"
+          }
+        },
+        {
+          "title": "Blueprint oficial de agentes de comércio",
+          "body": "Claude for Commerce Agents: harnesses, padrões e guardrails pra colocar um agente de comércio no ar em dias. Vem com shopping agent e merchant agent de referência pra retail, travel, telecom e ticketing, plugin do Claude Code, deploy na API, Bedrock, Foundry e Vertex, e parceria com Accenture, Mastercard e Visa. O pagamento fica com o integrador.",
+          "source": {
+            "label": "Anthropic — 3 set",
+            "url": "https://claude.com/blog/claude-for-commerce-agents"
+          }
+        },
+        {
+          "title": "Genpark publica skills como se fossem endpoints",
+          "body": "A alphaparkinc soltou de uma vez quatro repos de skills operacionais: busca facetada de catálogo, ingestão e indexação de logs de agentes de alta cardinalidade, broker de compra one-click com settlement headless, e detector de turn-taking e interrupção pra voz duplex com LiveKit.",
+          "source": {
+            "label": "GitHub — 3 set",
+            "url": "https://github.com/alphaparkinc/genpark-high-cardinality-agent-log-ingestion-indexer-skill"
+          }
+        },
+        {
+          "title": "boost-skill: o /boost universal com segundo olho",
+          "body": "Skill que adiciona pipeline de raciocínio multi-agente com verificação independente a qualquer AI coding agent. Um /boost universal.",
+          "source": {
+            "label": "GitHub — 3 set",
+            "url": "https://github.com/ervareza/boost-skill"
+          }
+        },
+        {
+          "title": "agent-config-harness: CLAUDE.md com score e regressão",
+          "body": "Trata arquivos de instrução de agentes, tipo CLAUDE.md, AGENTS.md e skills, como código: pontuados e testados contra regressão, com harness de avaliação contínua.",
+          "source": {
+            "label": "GitHub — 3 set",
+            "url": "https://github.com/damson/agent-config-harness"
+          }
+        },
+        {
+          "title": "oops-i-did-it-again: a falha vira maquinaria",
+          "body": "PoC completo que transforma erro de agente em mecanismo: skill do Claude Code, guard hooks e replay harness capturam a falha e a convertem em regras e melhorias permanentes.",
+          "source": {
+            "label": "GitHub — 3 set",
+            "url": "https://github.com/Astezelex/oops-i-did-it-again-poc"
+          }
+        },
+        {
+          "title": "Antigravity: o TOS que pode suspender sua conta Google",
+          "body": "Os termos do Google Antigravity permitem suspender a conta Google do usuário por uso de terceiros no serviço. A denúncia é de Gergely Orosz, viralizou com 294 pontos no Hacker News.",
+          "source": {
+            "label": "X — 3 set",
+            "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398"
+          }
+        },
+        {
+          "title": "A disciplina virou produto, e o produto virou skill",
+          "body": "Verificar com independência, testar config como código, transformar erro em regra: o que era disciplina de time experiente virou skill e harness que qualquer agente instala. O Claude Code entra nessa onda com telemetria de cache e diff no fluxo, e o alerta do Antigravity lembra por que vale manter tudo desacoplado da identidade. A unidade de distribuição de comportamento parou de ser a doc interna."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-04",
       "date": "2026-09-04",
       "hook": "Projetos IA — 4 de setembro de 2026",
