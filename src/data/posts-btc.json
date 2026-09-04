@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-04-08h30",
+      "date": "2026-09-04",
+      "time": "08h30",
+      "hook": "Depois de 13 horas preso na mesma janela, o BTC subiu para os US$ 81,3 mil e a leitura horária virou para positiva, algo que ainda não tinha acontecido hoje. A maioria das apostas de curtíssimo prazo segue na direção contrária ao movimento",
+      "caption": "Primeira leitura positiva do dia, com volume acima do normal. Ressalva: o termômetro de sentimento segue em ganância alta\n\nLeia: https://xbtc.aronpc.dev/#2026-09-04-08h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-04-08h30",
+      "slides": [
+        {
+          "title": "O range se inclinou para cima",
+          "body": "Primeira leitura positiva do dia, com volume acima do normal. Ressalva: o termômetro de sentimento segue em ganância alta"
+        },
+        {
+          "title": "US$ 81,3 mil",
+          "body": "Δ1h +0,53% · Δ24h +4,4% · vol US$ 42,9bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Ganho de 4,4% em 24h com o preço encostado no teto da faixa de 13 horas · Smart Money: funding +0,006% e L/S 0,86 (54% short)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teto de 81,8 mil é a linha da manhã",
+          "body": "Um fechamento acima dele coloca 82,3 mil e 84 mil na conversa; devolver 80,7 mil traz a base de 80,0 mil de volta ao radar"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura horária atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-04-04h38",
       "date": "2026-09-04",
       "time": "04h38",
