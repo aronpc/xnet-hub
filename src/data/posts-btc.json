@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-04-04h38",
+      "date": "2026-09-04",
+      "time": "04h38",
+      "hook": "BTC a US$ 80,9 mil pela quarta hora seguida. Londres está abrindo agora e é ela que costuma decidir o que sai primeiro: a faixa que segura desde ontem, ou a paciência de quem acompanha. O preço passou a noite grudado no degrau de 80,8 mil sem cair dele",
+      "caption": "Quarta vela de compressão no piso elevado, com volume sumindo e a seção europeia começando\n\nLeia: https://xbtc.aronpc.dev/#2026-09-04-04h38",
+      "link": "https://xbtc.aronpc.dev/#2026-09-04-04h38",
+      "slides": [
+        {
+          "title": "Quatro horas comprimidas, Londres chegando",
+          "body": "Quarta vela de compressão no piso elevado, com volume sumindo e a seção europeia começando"
+        },
+        {
+          "title": "US$ 80,9 mil",
+          "body": "Δ1h +0,2% · Δ24h +3,8% · vol US$ 40,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Deriva descendente dentro da faixa, com o topo de 24h ainda a 1,8% · Smart Money: funding +0,0059% e L/S 0,81",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Sobrou só a herança de ontem",
+          "body": "O volume de 24h em US$ 40,3bi é duas vezes o normal, mas vem do impulso de quarta. A última vela teve movimento mínimo e quase ninguém negociando"
+        },
+        {
+          "title": "A faixa de 80,5 a 81,8 mil decide",
+          "body": "Sair por cima de 81,8 mil coloca o topo de 24h em 82,3 mil na mesa; devolver 80,5 mil traz o degrau de 79,5 mil de volta"
+        }
+      ]
+    },
+    {
       "id": "2026-09-03-22h30",
       "date": "2026-09-03",
       "time": "22h30",
