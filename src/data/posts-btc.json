@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-03-22h30",
+      "date": "2026-09-03",
+      "time": "22h30",
+      "hook": "BTC a US$ 80,9 mil. O sentimento chegou a 74 na escala de ganância, mas mais da metade das contas alavancadas apostou contra a alta. Preço parado entre 80,5 e 81,8 mil, esperando quem cede primeiro",
+      "caption": "Termômetro em 74, o mais alto do dia, enquanto 56% das contas seguem posicionadas contra o movimento\n\nLeia: https://xbtc.aronpc.dev/#2026-09-03-22h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-03-22h30",
+      "slides": [
+        {
+          "title": "O mercado não concorda com ele mesmo",
+          "body": "Termômetro em 74, o mais alto do dia, enquanto 56% das contas seguem posicionadas contra o movimento"
+        },
+        {
+          "title": "US$ 80.9k",
+          "body": "Δ1h −0,3% · Δ24h +4,5% · vol US$ 40,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Três horas digerindo o salto do dia dentro da mesma faixa, sem pressa de escolher lado · Smart Money: funding +0,0088% e L/S 0,78",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Quem apostou errado paga a conta",
+          "body": "Com 56% das contas contra um mercado que subiu 4,5% no dia, qualquer movimento mais forte obriga essa turma a recuar de posição"
+        },
+        {
+          "title": "A faixa de 80,5 a 81,8 mil decide",
+          "body": "Sair por cima de 81,8 mil coloca o topo de 24h em 82,3 mil na mira; devolver 80,5 mil traz o degrau de 79,5 mil de volta ao debate"
+        }
+      ]
+    },
+    {
       "id": "2026-09-03-19h30",
       "date": "2026-09-03",
       "time": "19h30",
