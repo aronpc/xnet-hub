@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-04",
+      "date": "2026-09-04",
+      "hook": "Projetos IA — 4 de setembro de 2026",
+      "caption": "Dezessete mil sessões de agentes mostrando quais ferramentas eles instalam, neocloud dobrando de valor em dois meses, e entrevistas com consumidores conduzidas por IA. Sete histórias de onde o dinheiro e a engenharia foram parar.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-04",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-04",
+      "slides": [
+        {
+          "title": "Projetos IA — 4 de setembro de 2026",
+          "body": "Dezessete mil sessões de agentes mostrando quais ferramentas eles instalam, neocloud dobrando de valor em dois meses, e entrevistas com consumidores conduzidas por IA. Sete histórias de onde o dinheiro e a engenharia foram parar."
+        },
+        {
+          "title": "Armature: 17 mil sessões medem o que agentes instalam",
+          "body": "O maior experimento já feito sobre escolha de ferramentas por agentes: 17 mil sessões, 1.163 variações de prompt, 75 repos em 10 linguagens e 3 agentes (Claude Code, Codex e Cursor) implementando de verdade. O Stripe vence 9 de 10. O Neon leva 66% contra a Supabase, e o S3 fica com 45% do storage. A LangChain foi citada 194 vezes e escolhida só 4. E o detalhe da página de pricing decide mais que a feature em si.",
+          "source": {
+            "label": "Armature — 3 set",
+            "url": "https://armature.tech/blog/which-tools-coding-agents-install"
+          }
+        },
+        {
+          "title": "niubigeo: visibilidade de marca em LLM, self-hosted",
+          "body": "Ferramenta open-source que gera relatório de visibilidade de marca e concorrentes em respostas de LLM: como e onde a marca aparece quando o modelo responde. Fechou 219 estrelas no primeiro dia.",
+          "source": {
+            "label": "GitHub — 3 set",
+            "url": "https://github.com/Albert-Weasker/niubigeo"
+          }
+        },
+        {
+          "title": "Resect AI sai do stealth com US$ 25 mi contra alucinações",
+          "body": "Startup com tecnologia open-source pra detectar alucinação de LLM antes de ela acontecer. Saiu do stealth com 25 milhões de dólares de investidores de private equity.",
+          "source": {
+            "label": "GeekWire — 3 set",
+            "url": "https://www.geekwire.com/2026/startup-takes-on-ai-hallucinations-with-25m-and-an-hq-rooted-in-a-small-town-south-of-seattle/"
+          }
+        },
+        {
+          "title": "Fluidstack: de US$ 7,5 bi pra US$ 18 bi em dois meses",
+          "body": "A neocloud que ajuda o Google a enfrentar a Nvidia fechou 1,5 bilhão a valuation acima de 18 bilhões, com rodada liderada pela Jane Street. Em julho valia 7,5 bilhões, o que dá mais que o dobro em menos de dois meses.",
+          "source": {
+            "label": "Forbes — 3 set",
+            "url": "http://www.forbes.com/sites/iainmartin/2026/09/03/a-tiny-startup-helping-google-take-on-nvidia-is-now-worth-18-billion/"
+          }
+        },
+        {
+          "title": "Wafer: US$ 40 mi pra agentes que tunam modelos abertos",
+          "body": "Series A de 40 milhões, valuation na casa dos 200 milhões, pra agentes que otimizam modelos open-source pro workload específico de cada negócio. Roda em chips não-Nvidia e já recebe ofertas de aquisição.",
+          "source": {
+            "label": "The Information — 3 set",
+            "url": "https://www.theinformation.com/articles/wafer-inference-provider-uses-non-nvidia-chips-lands-acquisition-offers-200-mill"
+          }
+        },
+        {
+          "title": "Conveo: US$ 50 mi pra entrevistas conduzidas por IA",
+          "body": "Conduz entrevistas com consumidores em 15 idiomas e analisa os transcripts pra tirar insights de mercado. Series A de 50 milhões liderada pela DST Global.",
+          "source": {
+            "label": "Axios — 2 set",
+            "url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/02/conveo-consumer-insights-dst"
+          }
+        },
+        {
+          "title": "Upwind: US$ 300 mi pra filtrar falsos alertas",
+          "body": "Plataforma que filtra alertas falsos em segurança de cloud apps captou cerca de 300 milhões a valuation de 3,8 bilhões. O round anterior a valia 1,5 bilhão.",
+          "source": {
+            "label": "Calcalist — 3 set",
+            "url": "https://www.calcalistech.com/ctechnews/article/0kbwgdw01"
+          }
+        },
+        {
+          "title": "O agente virou usuário, e o dinheiro foi pras camadas do meio",
+          "body": "O dia vai ficar marcado pelo número do Armature: quando quem escolhe a ferramenta é um agente lendo a página de pricing, a escrita vale mais que a feature. E o capital bilionário foi todo pras camadas entre modelo e hardware: neocloud, roteamento, tuning por workload, filtragem de ruído. A inference é pra onde o dinheiro correu."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-04",
       "date": "2026-09-04",
       "hook": "IA — 4 de setembro de 2026",
