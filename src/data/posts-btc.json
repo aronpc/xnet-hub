@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-04-10h30",
+      "date": "2026-09-04",
+      "time": "10h30",
+      "hook": "O preço desce e o ânimo sobe. Enquanto o BTC encosta nos 79 mil, o termômetro de sentimento foi até 74, quase no topo da escala. É a segunda hora fora da zona onde o preço passou ontem, e a queda chega rente a uma marca que ainda não recebeu teste de verdade",
+      "caption": "Segunda hora abaixo da zona de 80,3 a 80,6 mil, agora a menos de meio por cento do mínimo relevante\n\nLeia: https://xbtc.aronpc.dev/#2026-09-04-10h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-04-10h30",
+      "slides": [
+        {
+          "title": "Preço cai, otimismo sobe",
+          "body": "Segunda hora abaixo da zona de 80,3 a 80,6 mil, agora a menos de meio por cento do mínimo relevante"
+        },
+        {
+          "title": "US$ 79,3 mil",
+          "body": "Δ1h −0,8% · Δ24h +1,1% · vol US$ 46bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço 2% abaixo da média de 24h e nenhuma reação de compra por duas horas · Smart Money: funding +0,005% e L/S 0,93 (52% short)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "79 mil nunca esteve tão perto",
+          "body": "Falta 0,4% para o degrau de 79 mil; se ele abrir, o mínimo de 24h em 78,7 mil é o próximo número. A antiga base de 80,35 a 80,6 mil virou teto, a 1,5%"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-04-09h30",
       "date": "2026-09-04",
       "time": "09h30",
