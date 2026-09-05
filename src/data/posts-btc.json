@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-05-15h30",
+      "date": "2026-09-05",
+      "time": "15h30",
+      "hook": "Depois de um dia inteiro parado, a barra das 14h trouxe 2,4 vezes o volume típico da hora e levou o Bitcoin à casa dos 80 mil, máxima do dia. Pela primeira vez desde a abertura, a leitura de curto prazo deixa o neutro e aponta alta",
+      "caption": "Barra das 14h com 2,4× o volume médio; preço na máxima do dia e a 0,3% do topo de 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-09-05-15h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-05-15h30",
+      "slides": [
+        {
+          "title": "O dia parado acabou no meio da tarde",
+          "body": "Barra das 14h com 2,4× o volume médio; preço na máxima do dia e a 0,3% do topo de 24h"
+        },
+        {
+          "title": "US$ 80 mil",
+          "body": "Δ1h −0,02% · Δ24h +0,52% · vol US$ 19bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Máximas mais altas desde a madrugada, de 79,7 mil a 80,0 mil, e preço colado no topo da faixa; agora tem volume atrás do movimento · Smart Money: funding +0,003% (quase zero) e L/S 1,08 (52% long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "80,2 mil e 79,6 mil",
+          "body": "O topo das últimas 24h fica a 0,3% acima do preço; o degrau do dia, a 0,5% abaixo. O empurrão veio do mercado à vista, com funding zerado"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-05-13h31",
       "date": "2026-09-05",
       "time": "13h31",
