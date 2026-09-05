@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-05-13h31",
+      "date": "2026-09-05",
+      "time": "13h31",
+      "hook": "O BTC passou o dia inteiro preso entre 79,4 e 80 mil, e agora encostou no teto pela primeira vez: está a 0,2% do número redondo, com seis fechamentos seguidos subindo. Quatroze horas esperando uma decisão que pode sair na próxima hora",
+      "caption": "14ª hora dentro da faixa de 79,4 a 80 mil; preço no ponto mais alto do dia, a 0,2% de 80 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-09-05-13h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-05-13h31",
+      "slides": [
+        {
+          "title": "Encostou no teto depois de um dia inteiro preso",
+          "body": "14ª hora dentro da faixa de 79,4 a 80 mil; preço no ponto mais alto do dia, a 0,2% de 80 mil"
+        },
+        {
+          "title": "US$ 79,8 mil",
+          "body": "Δ1h +0,18% · Δ24h +0,39% · vol US$ 18,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço no topo da faixa com seis closes de 1h subindo, mas nenhum fechamento acima de 80 mil ainda · Smart Money: funding +0,0024% (zero) e L/S 1,04 (51% long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "80 mil sem resposta",
+          "body": "Falta 0,2% para o preço bater no teto do dia; se a região de 79,4 mil ceder, o fundo da faixa fica exposto e 79 mil entra no radar. Sentimento em 73, já perto do topo da escala"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-04-10h30",
       "date": "2026-09-04",
       "time": "10h30",
