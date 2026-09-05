@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-05",
+      "date": "2026-09-05",
+      "hook": "Skills e MCP de 5 de setembro de 2026",
+      "caption": "O Claude Code ganhou um médico de skills, o criador do llama.cpp falou sobre a compra pela Nvidia, e o ecossistema descobriu que skill também se mede, instala e repara. Sete histórias da camada de ferramentas de agentes.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-05",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-05",
+      "slides": [
+        {
+          "title": "Skills e MCP de 5 de setembro de 2026",
+          "body": "O Claude Code ganhou um médico de skills, o criador do llama.cpp falou sobre a compra pela Nvidia, e o ecossistema descobriu que skill também se mede, instala e repara. Sete histórias da camada de ferramentas de agentes."
+        },
+        {
+          "title": "/skill-doctor: skills não usadas e o custo delas em contexto",
+          "body": "A release v2.1.261 traz o /skill-doctor, que lista quais skills carregadas nunca são usadas e quanto custam de contexto. Também entram settings pra até 128K chars de output inline e dezenas de fixes, inclusive input dropando caracteres na digitação rápida.",
+          "source": {
+            "label": "CHANGELOG no GitHub",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "Gerganov fala sobre o futuro do llama.cpp após Nvidia comprar a HF",
+          "body": "O criador do llama.cpp e da ggml, cuja empresa foi comprada pela Hugging Face em fevereiro, quebrou o silêncio depois de a Nvidia comprar a HF. Ele lembrou que os projetos começaram sem nenhuma das duas e foram bem-sucedidos porque gente quer rodar modelo no próprio dispositivo.",
+          "source": {
+            "label": "Twitter/X · ggerganov",
+            "url": "https://twitter.com/ggerganov/status/2095897173376618881"
+          }
+        },
+        {
+          "title": "SkillDrop: instalador de skills pra Cursor, Claude Code e Codex",
+          "body": "App pra macOS Apple Silicon que importa skills de Agent Skills do GitHub em lote, pra várias ferramentas de uma vez. Descrição em japonês, 4 estrelas no primeiro dia.",
+          "source": {
+            "label": "github.com/Blackphi6/SkillDrop",
+            "url": "https://github.com/Blackphi6/SkillDrop"
+          }
+        },
+        {
+          "title": "skill-evaluation-graph: benchmark e reparo verificado de skills",
+          "body": "Framework evidence-driven pra avaliar, comparar e reparar Agent Skills com verificação, rodando os mesmos testes sobre Codex, Claude Code, Gemini CLI e Antigravity.",
+          "source": {
+            "label": "github.com/MaxLaurieHutchinson/skill-evaluation-graph",
+            "url": "https://github.com/MaxLaurieHutchinson/skill-evaluation-graph"
+          }
+        },
+        {
+          "title": "codegraph-explorer-skill: o codebase vira grafo consultável",
+          "body": "Skill do Claude Code que converte qualquer codebase num knowledge graph queryable, com um parse local único. O modelo consulta o grafo em vez de reler código-fonte pra raciocinar sobre arquitetura.",
+          "source": {
+            "label": "github.com/GoldDHacker/codegraph-explorer-skill",
+            "url": "https://github.com/GoldDHacker/codegraph-explorer-skill"
+          }
+        },
+        {
+          "title": "pvc-timestamp-hook: a skill que dá noção de tempo ao agente",
+          "body": "Skill minimalista que instala um hook UserPromptSubmit carimbando cada prompt com data, dia da semana e hora. O agente passa a saber quanto tempo passou entre mensagens. Apache 2.0.",
+          "source": {
+            "label": "github.com/pro-vibe-coding/pvc-timestamp-hook",
+            "url": "https://github.com/pro-vibe-coding/pvc-timestamp-hook"
+          }
+        },
+        {
+          "title": "\"Grep vence LSP?\": por que agentes ignoram ferramentas melhores",
+          "body": "Post que analisa por que coding agents preferem grep a LSP mesmo com ferramentas semânticas sendo tecnicamente superiores. Examina harness, latência e confiabilidade.",
+          "source": {
+            "label": "agentconnect.md",
+            "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/"
+          }
+        },
+        {
+          "title": "O ecossistema descobriu o custo de contexto",
+          "body": "O /skill-doctor oficializa a poda de skills mortas, e junto dele nascem instalador, framework de avaliação e skill de grafo de código. A skill deixou de ser prompt bem escrito e virou artefato com custo medido, ciclo de manutenção e reparo verificado. E grep continuar vencendo LSP resume o critério de design: confiabilidade antes de riqueza."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-05",
       "date": "2026-09-05",
       "hook": "Projetos IA de 5 de setembro de 2026",
