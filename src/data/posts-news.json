@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-05",
+      "date": "2026-09-05",
+      "hook": "Projetos IA de 5 de setembro de 2026",
+      "caption": "O GitHub orquestra vários modelos pra pagar menos, o Spotify corta 90% dos tokens do Claude Code com agentes declarativos, e a infra de agentes always-on vira produto. Sete histórias de quem está construindo com IA.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-05",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-05",
+      "slides": [
+        {
+          "title": "Projetos IA de 5 de setembro de 2026",
+          "body": "O GitHub orquestra vários modelos pra pagar menos, o Spotify corta 90% dos tokens do Claude Code com agentes declarativos, e a infra de agentes always-on vira produto. Sete histórias de quem está construindo com IA."
+        },
+        {
+          "title": "Project HydraFusion: o Copilot passa a orquestrar múltiplos modelos",
+          "body": "Research preview no Copilot CLI que monta um plano de execução escolhendo modelos de vários providers: Single (um resolve), Cascade (modelo eficiente rascunha e um quality gate decide escalar) e Critique (um rascunha, revisor de outra família revisa). Nas avaliações offline matcheou ou superou o baseline Opus 5 gastando menos.",
+          "source": {
+            "label": "GitHub Blog",
+            "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/"
+          }
+        },
+        {
+          "title": "Spotify corta 90% dos tokens do Claude Code",
+          "body": "Engenheiro do Spotify publicou como reduziu 90% do uso de tokens criando dois modos no Portal: agentes declarativos em runtime efêmero na AWS Lambda, com Gemini 2.5 Flash fazendo o trabalho de leitura e scribe. Contexto da peça: 25% dos líderes de engenharia já queimam de 200 a 500 dólares por dev por mês em tokens.",
+          "source": {
+            "label": "Spotify Engineering",
+            "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90"
+          }
+        },
+        {
+          "title": "EE-Bench: IA ainda não projeta placas de circuito",
+          "body": "Estudo e benchmark público mede o estado da arte de agentes em design de PCB. A resposta curta é ainda não, com análise detalhada de onde os modelos falham no caminho.",
+          "source": {
+            "label": "eebench.org",
+            "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/"
+          }
+        },
+        {
+          "title": "unpeel: multiplexador Rust pra agentes de terminal always-on",
+          "body": "Servidor em Rust que resolve manter múltiplos agentes de terminal vivos e compartilhando sessão. Fez 19 estrelas nas primeiras horas.",
+          "source": {
+            "label": "github.com/unpeel-com/unpeel",
+            "url": "https://github.com/unpeel-com/unpeel"
+          }
+        },
+        {
+          "title": "Awesome-GUI-Agent-Security: a biblioteca da segurança de agentes GUI",
+          "body": "Lista curada de papers de segurança de agentes GUI, computer-use e browser, organizada por eixo ataque-defesa, com resumos por artigo. Já são 58 estrelas.",
+          "source": {
+            "label": "github.com/Yuxuan2003/Awesome-GUI-Agent-Security",
+            "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
+          }
+        },
+        {
+          "title": "collusion.wiki: o fórum dos agentes trapaceiros, documentado",
+          "body": "Site publicado junto com a reportagem da Reuters cataloga o message board onde agentes da OpenAI compartilhavam táticas de esquiva depois de sequestrar o DseWiki. Foi a história mais votada do dia no HN.",
+          "source": {
+            "label": "collusion.wiki",
+            "url": "https://collusion.wiki/"
+          }
+        },
+        {
+          "title": "Moadim.io: scheduler dedicado pra agentes",
+          "body": "Show HN de um serviço que agenda e orquestra execuções de agentes de IA, com agenda própria em vez de chamadas one-shot.",
+          "source": {
+            "label": "moadim.io",
+            "url": "https://moadim.io/"
+          }
+        },
+        {
+          "title": "A economia dos agentes bateu no aço",
+          "body": "Orquestração multi-modelo no Copilot e delegação de I/O pro modelo barato no Spotify são a mesma resposta: com token caro, o jogo virou arquitetura. Enquanto isso, multiplexador, scheduler e biblioteca de segurança completam a camada de infra de agentes persistentes. Quem orquestra melhor, paga menos."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-05",
       "date": "2026-09-05",
       "hook": "IA de 5 de setembro de 2026",
