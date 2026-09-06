@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-06",
+      "date": "2026-09-06",
+      "hook": "Projetos IA — 06/09",
+      "caption": "Claude formaliza o Último Teorema de Fermat em Lean 4 e publica o repo; memória Git-native de agentes ganha spec do Google; e o skill-authoring chega à ferramenta visual.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-06",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-06",
+      "slides": [
+        {
+          "title": "Projetos IA — 06/09",
+          "body": "Claude formaliza o Último Teorema de Fermat em Lean 4 e publica o repo; memória Git-native de agentes ganha spec do Google; e o skill-authoring chega à ferramenta visual."
+        },
+        {
+          "title": "Fermat formalizado em Lean 4 — repo público",
+          "body": "O repo anthropics/fermats-last-theorem traz a formalização completa do Último Teorema de Fermat feita pelo Claude, com 144 estrelas no HN em menos de um dia. Kevin Buzzard, do projeto Xena que perseguia o mesmo objetivo, publicou \"Anthropic has beaten me to it\".",
+          "source": {
+            "label": "GitHub — 04/set",
+            "url": "https://github.com/anthropics/fermats-last-theorem"
+          }
+        },
+        {
+          "title": "OKF Agent Memory: memória Git-native",
+          "body": "O repo okf-memory/okf-agent-memory implementa a spec Open Knowledge Format v0.2 do Google Cloud como camada de memória de projeto: Markdown com YAML frontmatter em knowledge/, retrieval BM25 sub-300µs em Go, sem dependências, MCP-ready.",
+          "source": {
+            "label": "GitHub — 05/set",
+            "url": "https://github.com/okf-memory/okf-agent-memory"
+          }
+        },
+        {
+          "title": "Declick: spec MCP ou SQLite viram CLI",
+          "body": "Show HN do ucsandman/declick: gera uma CLI completa a partir de uma OpenAPI spec, de um MCP server já existente ou de um banco SQLite.",
+          "source": {
+            "label": "GitHub — 04/set",
+            "url": "https://github.com/ucsandman/declick"
+          }
+        },
+        {
+          "title": "agent-skiller: skills no construtor visual",
+          "body": "Repo lattebbrook/agent-skiller é um construtor open-source e visual de skills que um agente consegue seguir passo a passo, com steps encadeados.",
+          "source": {
+            "label": "GitHub — 05/set",
+            "url": "https://github.com/lattebbrook/agent-skiller"
+          }
+        },
+        {
+          "title": "llm-api-speedtest: medir gateway antes de reclamar",
+          "body": "Repo pcm469768-droid/llm-api-speedtest faz benchmark de APIs LLM, gateways OpenAI-compatíveis e proxies por velocidade de token, TTFB, latência e taxa de sucesso.",
+          "source": {
+            "label": "GitHub — 06/set",
+            "url": "https://github.com/pcm469768-droid/llm-api-speedtest"
+          }
+        },
+        {
+          "title": "shared-memory-vault: governança de memória multi-agente",
+          "body": "Repo songs-aaa/shared-memory-vault é um motor de governança de memória para múltiplos agentes compartilhando uma base de conhecimento na nuvem.",
+          "source": {
+            "label": "GitHub — 05/set",
+            "url": "https://github.com/songs-aaa/shared-memory-vault"
+          }
+        },
+        {
+          "title": "Interns must review: o design do agente passa por revisão",
+          "body": "Show HN do alpbahadur/interns-review-plugin: skill que submete as escolhas de design do próprio agente a uma revisão estruturada por pares simulada, antes de prosseguir.",
+          "source": {
+            "label": "GitHub — 05/set",
+            "url": "https://github.com/alpbahadur/interns-review-plugin"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A IA virou concorrente direta em matemática formal, a memória de agente virou categoria com spec aberta, e revisão de design passou a fazer parte do pipeline do agente."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-06",
       "date": "2026-09-06",
       "hook": "Panorama IA — 06/09",
