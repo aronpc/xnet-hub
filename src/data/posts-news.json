@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-06",
+      "date": "2026-09-06",
+      "hook": "Skills e MCP — 06/09",
+      "caption": "A pauta de hoje é consentimento e hardening nas CLIs de agente: Gemini passa a exigir aval antes de mutar ambiente, e um Tell HN acorda acesso remoto ativado em silêncio nas settings do Claude. Mais skills de economia de token e MCP chegando ao hardware.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-06",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-06",
+      "slides": [
+        {
+          "title": "Skills e MCP — 06/09",
+          "body": "A pauta de hoje é consentimento e hardening nas CLIs de agente: Gemini passa a exigir aval antes de mutar ambiente, e um Tell HN acorda acesso remoto ativado em silêncio nas settings do Claude. Mais skills de economia de token e MCP chegando ao hardware."
+        },
+        {
+          "title": "Codex: Astra vira default silencioso",
+          "body": "A versão 0.153.4 tornou o GPT-6-Astra o modelo default do Codex quando nenhum é configurado. A 0.153.3 o tinha adicionado ao seletor do Amazon Bedrock, nas rotas Mantle e Runtime global/US.",
+          "source": {
+            "label": "GitHub — 04/set",
+            "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.4"
+          }
+        },
+        {
+          "title": "Consentimento antes de mutar ambiente",
+          "body": "Nightly v0.60.0 traz duas correções de segurança: prompt de consentimento para mudanças de ambiente em extensions, com sanitização de variáveis que alteram runtime, e endurecimento das checagens de boundary de workspace e resolução de symlink.",
+          "source": {
+            "label": "GitHub — 05/set",
+            "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.60.0-nightly.20260905.g85aca163f"
+          }
+        },
+        {
+          "title": "Tell HN: confira suas settings do Claude",
+          "body": "Thread no HN alerta que settings do Claude (Code e Desktop) passaram a ter acesso remoto habilitado sem aviso explícito, pegando vários usuários de surpresa.",
+          "source": {
+            "label": "Hacker News — 04/set",
+            "url": "https://news.ycombinator.com/item?id=49565799"
+          }
+        },
+        {
+          "title": "Caveman mode: corte tokens de saída",
+          "body": "Skill do repo asauntung/claude-skill-cave reduz drasticamente os tokens de saída do Claude: respostas curtas, sem cerimônia, para o mesmo limite de uso render mais turnos.",
+          "source": {
+            "label": "GitHub — 05/set",
+            "url": "https://github.com/asauntung/claude-skill-cave"
+          }
+        },
+        {
+          "title": "bang-motion: motion graphics como skill",
+          "body": "Repo bangtutorial/bang-motion é um agent skill para motion graphics no browser: openers, promos, bumpers, kinetic typography e cinco estilos de explainer.",
+          "source": {
+            "label": "GitHub — 05/set",
+            "url": "https://github.com/bangtutorial/bang-motion"
+          }
+        },
+        {
+          "title": "youtube-mcp: 33 tools do ciclo completo",
+          "body": "Repo mohamdben-yahia/youtube-mcp é um MCP server para Claude, Cursor e agentes com 33 tools cobrindo o ciclo completo do YouTube: busca, transcrições, analytics, playlists.",
+          "source": {
+            "label": "GitHub — 05/set",
+            "url": "https://github.com/mohamdben-yahia/youtube-mcp"
+          }
+        },
+        {
+          "title": "Personal Context MCP: a sua vida como servidor",
+          "body": "Show HN (22 pontos) de um MCP server que expõe o contexto pessoal do usuário, arquivos, preferências e histórico, para os agentes consumirem de forma unificada.",
+          "source": {
+            "label": "lanes.sh — 04/set",
+            "url": "https://lanes.sh/showcase/personal-context-mcp"
+          }
+        },
+        {
+          "title": "ALIGN: imagem sem difusão nem autoregressão",
+          "body": "Repo wanshuiyin/ALIGN: geração de imagem por loop agêntico em que o coding agent desenha em p5.js, sem nenhum modelo de imagem difusivo ou autoregressivo.",
+          "source": {
+            "label": "GitHub — 05/set",
+            "url": "https://github.com/wanshuiyin/ALIGN-Agentic-Loop-Image-GeneratioN"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Consentimento explícito virou requisito de CLI de agente, e quem não fixa modelo roda no mais caro por padrão. No ecossistema, MCP desce até hardware e sobe até contexto pessoal."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-06",
       "date": "2026-09-06",
       "hook": "Projetos IA — 06/09",
