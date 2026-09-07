@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-06-22h30",
+      "date": "2026-09-06",
+      "time": "22h30",
+      "hook": "Outra aproximação do topo e outro recuo: a alta que levou o preço acima dos 80 mil no começo da noite perdeu força, e às 22h30 ele estava de volta a 79,9 mil, no meio da faixa do dia.",
+      "caption": "Um dia inteiro de sobe e desce para as 24 horas fecharem em zero\n\nLeia: https://xbtc.aronpc.dev/#2026-09-06-22h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-06-22h30",
+      "slides": [
+        {
+          "title": "O topo do dia segue invicto",
+          "body": "Um dia inteiro de sobe e desce para as 24 horas fecharem em zero"
+        },
+        {
+          "title": "US$ 79.926",
+          "body": "Δ1h -0,34% · Δ24h 0,0% · vol US$ 20,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A subida da noite foi devolvida e o preço voltou ao ponto de partida; a taxa de financiamento segue em torno de zero, sem convicção de nenhum lado · Smart Money: funding +0,0023% + L/S 1,05",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Tudo entre 79,2 e 80,5 mil",
+          "body": "O topo de 24h está a 0,8% do preço e a base a 0,9%; depois de um domingo inteiro nesse corredor, o mercado segue esperando uma definição",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-06-20h30",
       "date": "2026-09-06",
       "time": "20h30",
