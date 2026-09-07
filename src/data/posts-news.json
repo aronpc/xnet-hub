@@ -2,6 +2,64 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-07",
+      "date": "2026-09-07",
+      "hook": "Skills & MCP — 07/09",
+      "caption": "O assunto do dia no ecossistema virou um problema entediante e real: como gerenciar arquivos de skills entre projetos e ferramentas. Enquanto o HN discute isso, a skill do dev preguiçoso publicou benchmark medido.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-07",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-07",
+      "slides": [
+        {
+          "title": "Skills & MCP — 07/09",
+          "body": "O assunto do dia no ecossistema virou um problema entediante e real: como gerenciar arquivos de skills entre projetos e ferramentas. Enquanto o HN discute isso, a skill do dev preguiçoso publicou benchmark medido."
+        },
+        {
+          "title": "ponytail: menos código, com números",
+          "body": "A ruleset do dev sênior preguiçoso agora tem benchmark público: cerca de 54% menos código, até 94% em casos de over-build, 20% mais barato e 27% mais rápido. Medido em 12 tasks reais de Claude Code, Haiku 4.5, contra o mesmo agente sem a skill.",
+          "source": {
+            "label": "ponytail.dev — 07/set",
+            "url": "https://ponytail.dev/"
+          }
+        },
+        {
+          "title": "huashu-mac-use: 106★ para operar apps sem API",
+          "body": "Agent Skill de computer-use no macOS que opera apps nativos sem API: lê o que precisa, escreve sem atrapalhar e deixa evidência de cada passo. Roda em Claude Code, Codex, Kimi Code e Cursor.",
+          "source": "github.com/alchaincyf/huashu-mac-use"
+        },
+        {
+          "title": "MathKernel: ferramenta de matemática que é MCP server",
+          "body": "Kernel matemático multi-engine, ciente de evidência, que também funciona como servidor de contexto. A mesma ferramenta serve humano e agente.",
+          "source": "github.com/Staatsgeheim/MathKernel"
+        },
+        {
+          "title": "Routed: um acervo de skills para todos os clientes",
+          "body": "Roteia Agent Skills localmente entre ambientes de codificação: Claude Code, Codex, Cursor e outros, servidos do mesmo lugar.",
+          "source": "github.com/bshea-1/Routed"
+        },
+        {
+          "title": "Gemini CLI em ritmo nightly",
+          "body": "A Google publicou nightlies da série 0.60 em três dias seguidos, 05, 06 e 07 de setembro. A série traz o consentimento de ambiente da versão nova.",
+          "source": "github.com/google-gemini/gemini-cli/releases"
+        },
+        {
+          "title": "Claude Code 2.1.263 e Codex 0.153.4",
+          "body": "Claude Code saiu em 06/09, Codex em 04/09. Nenhuma feature-marco na janela, só o ritmo quase-diário de patch das duas ferramentas mais usadas.",
+          "source": "github.com/anthropics/claude-code/releases"
+        },
+        {
+          "title": "\"How do you manage skills files?\"",
+          "body": "Thread no HN sobre gerenciar arquivos de skills entre projetos e ambientes: versionamento, portabilidade, descarte. No mesmo dia, outro post discute a força contrária, os Software Deslopers que limpam o lixo que agente produz.",
+          "source": {
+            "label": "Hacker News — 06/set",
+            "url": "https://news.ycombinator.com/item?id=49589914"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Agent Skills saiu da fase de descoberta: agora o problema é manutenção. Versionar, portar entre clientes e descartar o que morreu virou pauta de fórum, e ferramenta de roteamento já apareceu."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-07",
       "date": "2026-09-07",
       "hook": "Radar de projetos — 07/09",
