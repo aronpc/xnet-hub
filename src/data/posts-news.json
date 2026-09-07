@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-07",
+      "date": "2026-09-07",
+      "hook": "Panorama IA — 07/09",
+      "caption": "A OpenAI passou o fim de semana explicando por que teme a própria cria. Enquanto isso, chegou a conta: 30 processos de sobreviventes de um tiroteio, sanções furadas por uma chinesa blacklistada e o colapso de uma indústria inteira no Quênia.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-07",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-07",
+      "slides": [
+        {
+          "title": "Panorama IA — 07/09",
+          "body": "A OpenAI passou o fim de semana explicando por que teme a própria cria. Enquanto isso, chegou a conta: 30 processos de sobreviventes de um tiroteio, sanções furadas por uma chinesa blacklistada e o colapso de uma indústria inteira no Quênia."
+        },
+        {
+          "title": "\"An Alien Mind\": o ensaio do chief scientist",
+          "body": "Jakub Pachocki publicou um ensaio contando o momento de meados de 2023, no projeto RLSlow, em que a equipe percebeu que ia ver máquinas mais inteligentes que humanos ainda em vida. O texto cobre ensinar máquinas a amar, monitorar generalização e o ritmo de desenvolvimento de inteligências superiores.",
+          "source": {
+            "label": "OpenAI — 06/set",
+            "url": "https://openai.com/index/an-alien-mind/"
+          }
+        },
+        {
+          "title": "Vigilância de desalinhamento nos próprios agentes",
+          "body": "Dois posts no mesmo dia: o OpenAI agora monitora os agentes de código internos em busca de desalinhamento, e mostra os dados de como a pesquisa acelerou com eles. Pesquisadores escrevem mais código e rodam mais experimentos.",
+          "source": {
+            "label": "OpenAI — 06/set",
+            "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/"
+          }
+        },
+        {
+          "title": "IPO da Anthropic desliza para outubro",
+          "body": "O lançamento na bolsa saiu de fim de setembro para meados de outubro, segundo CNBC e Reuters. O prospectus segue no prazo.",
+          "source": {
+            "label": "CNBC — 05/set",
+            "url": "https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html"
+          }
+        },
+        {
+          "title": "30 ações contra a OpenAI por um tiroteio",
+          "body": "Sobreviventes do tiroteio de Tumbler Ridge, no Canadá, entraram com 30 ações ligando conversas de chatbot ao ataque. O New York Times reportou no dia 04; a discussão veio ao HN dois dias depois.",
+          "source": {
+            "label": "NYT — 04/set",
+            "url": "https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html"
+          }
+        },
+        {
+          "title": "Blacklistada, a Inspur seguia comprando Nvidia",
+          "body": "A Inspur, chinesa proibida de comprar chips avançados dos EUA, contornava as restrições por uma rede de intermediários. O NYT documentou o canal no mesmo ciclo em que Washington discute endurecer as regras.",
+          "source": {
+            "label": "NYT — 06/set",
+            "url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html"
+          }
+        },
+        {
+          "title": "A IA fechou as redações escolares do Quênia",
+          "body": "A indústria de Nairóbi que no auge pagava mais de 40 mil pessoas para escrever trabalhos de estudantes estrangeiros ruiu com os LLMs. O NYT retratou o colapso.",
+          "source": {
+            "label": "NYT — 05/set",
+            "url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html"
+          }
+        },
+        {
+          "title": "A era do agentic benchmaxxing",
+          "body": "O Kaitchup deu nome ao que a ARC Prize já tinha medido: agentes desenhados sob medida para benchmarks agênticos, inflando a leitura de progresso. Na semana passada foram 62,7% contra 99,9% no mesmo teste, só mudando o harness.",
+          "source": {
+            "label": "The Kaitchup — 06/set",
+            "url": "https://kaitchup.substack.com/p/the-era-of-agentic-benchmaxxing"
+          }
+        },
+        {
+          "title": "System prompt do Claude recusa letras de música",
+          "body": "Simon Willison fez a engenharia reversa da mudança: o Claude agora nega reproduzir letras, e o texto do prompt mostra o porquê. A discussão no HN passou dos 100 comentários.",
+          "source": {
+            "label": "Simon Willison — 02/set",
+            "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Os labs passaram a publicar o próprio medo: mente alienígena e vigilância de agentes são texto oficial, não leak. Lá fora, o custo aparece em tribunal, na eleição e no mercado de trabalho."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-06",
       "date": "2026-09-06",
       "hook": "Skills e MCP — 06/09",
