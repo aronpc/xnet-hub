@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-07-04h30",
+      "date": "2026-09-07",
+      "time": "04h30",
+      "hook": "O domingo inteiro rodou entre 79 e 80 mil sem decidir nada. A madrugada foi menos educada: quatro fechamentos de hora em queda, preço encostado no mínimo do dia e um índice de sentimento que segue marcando ganância.",
+      "caption": "Queda pela quarta hora seguida, preço no mínimo de 24h e sentimento ainda otimista\n\nLeia: https://xbtc.aronpc.dev/#2026-09-07-04h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-07-04h30",
+      "slides": [
+        {
+          "title": "O dia deixou de ser indeciso",
+          "body": "Queda pela quarta hora seguida, preço no mínimo de 24h e sentimento ainda otimista"
+        },
+        {
+          "title": "US$ 79.443",
+          "body": "Δ1h −0,34% · Δ24h −0,50% · vol US$ 22,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Quatro fechamentos em sequência negativa e o preço raspando o limite inferior do dia; entre os alavancados, ninguém muito posicionado · Smart Money: funding +0,0037% + L/S 1,06",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "79,2 mil decide a madrugada",
+          "body": "Mínimo 24h 79,2k (−0,3%) · Máximo 24h 80,5k (+1,4%) · um retorno a 79,8k tira boa parte da pressão",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-06-22h30",
       "date": "2026-09-06",
       "time": "22h30",
