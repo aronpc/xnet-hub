@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-06-20h30",
+      "date": "2026-09-06",
+      "time": "20h30",
+      "hook": "BTC voltou aos 80 mil na noite deste domingo, um dia depois da tentativa que durou pouco. Desta vez chegou com quatro fechamentos de hora seguidos em alta e parou a 0,3% do teto do dia.",
+      "caption": "Preço colado no topo da faixa de 24h, com força consistente nos candles de hora\n\nLeia: https://xbtc.aronpc.dev/#2026-09-06-20h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-06-20h30",
+      "slides": [
+        {
+          "title": "De volta à porta dos 80 mil",
+          "body": "Preço colado no topo da faixa de 24h, com força consistente nos candles de hora"
+        },
+        {
+          "title": "US$ 80.147",
+          "body": "Δ1h +0,45% · Δ24h +0,43% · vol US$ 19,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Quatro fechamentos horários subindo até o topo da faixa; o dinheiro alavancado está em equilíbrio, sem aposta esticada de nenhum lado · Smart Money: funding neutro (perto de zero) + L/S 51/49",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Teto a 0,3% do preço",
+          "body": "Acima de 80,4 mil com volume, a próxima referência é 81 mil; um recuo abaixo de 79,8 mil devolve o preço à base da faixa, em 79,2 mil. Sentimento em 73, zona de ganância, é o ponto de atenção perto do topo"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-05-17h30",
       "date": "2026-09-05",
       "time": "17h30",
