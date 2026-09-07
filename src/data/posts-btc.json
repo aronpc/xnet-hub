@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-07-11h31",
+      "date": "2026-09-07",
+      "time": "11h31",
+      "hook": "De manhã cedo o Bitcoin perdeu a base de 79,2 mil que segurava desde a madrugada e agora encosta no fundo do range da semana, a 79,0 mil. O sentimento, curiosamente, continua marcando ganância. Volume em alta, preço em queda, ninguém assustado ainda.",
+      "caption": "Base do dia cedeu pela primeira vez e o preço testa o piso de 79 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-09-07-11h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-07-11h31",
+      "slides": [
+        {
+          "title": "A queda enfim encontrou volume",
+          "body": "Base do dia cedeu pela primeira vez e o preço testa o piso de 79 mil"
+        },
+        {
+          "title": "US$ 79.076",
+          "body": "Δ1h −0,67% · Δ24h −0,71% · vol US$ 23,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Três fechamentos de hora em queda e o preço no fundo do corredor da semana · Smart Money: funding +0,0041% + L/S 1,11",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "79 mil em teste",
+          "body": "Mínimo 24h 79,0k (−0,10%) · Rejeição recente em 79,6k (+0,66%) · o corredor da semana vai de 79,0k a 80,5k",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-07-04h30",
       "date": "2026-09-07",
       "time": "04h30",
