@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-07",
+      "date": "2026-09-07",
+      "hook": "Radar de projetos — 07/09",
+      "caption": "A janela no GitHub foi toda de infra para agentes: sistema operacional por domínio, kanban para frotas e passe de segurança para sub-agente. E o 3D aberto virou o playground das demos multimodais.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-07",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-07",
+      "slides": [
+        {
+          "title": "Radar de projetos — 07/09",
+          "body": "A janela no GitHub foi toda de infra para agentes: sistema operacional por domínio, kanban para frotas e passe de segurança para sub-agente. E o 3D aberto virou o playground das demos multimodais."
+        },
+        {
+          "title": "short-video-generator-AI: 975★ em dois dias",
+          "body": "Pipeline aberto que transforma vídeos longos do YouTube em shorts: detecta highlights, gera legenda, traduz e narra. Feito em Python 3.10, criado no dia 05.",
+          "source": "github.com/pierrenade/short-video-generator-AI"
+        },
+        {
+          "title": "Agente professor em vez de agente produtor",
+          "body": "O Manware's AI Learning Toolkit inverte o uso padrão: o agente não escreve código, conduz aprendizado ativo. Você responde, ele corrige o ritmo.",
+          "source": "github.com/i-am-manware/Manware-s-AI-Learning-Toolkit"
+        },
+        {
+          "title": "vistep: explicação visual que fala",
+          "body": "Gera explicações visuais de como as coisas funcionam, com modelos interativos e narração sincronizada, em inglês e chinês. Repo aberto e produto em vistep.ai.",
+          "source": "github.com/int64ago/vistep"
+        },
+        {
+          "title": "Sistema operacional de agentes para o Blender",
+          "body": "Skills, base de conhecimento bpy verificada e contrato de execução: cada tarefa devolve AGENT_OK ou AGENT_FAIL. Na demo, um cruzador de 110 mil toneladas modelado a partir de 4 fotos, em 33 minutos, sem toque humano.",
+          "source": "github.com/jangtrinh/design-os-3d-blender"
+        },
+        {
+          "title": "Kander: kanban para frota de agentes",
+          "body": "CLI em Go que orquestra Codex, Claude, Grok e Cursor num quadro kanban. Cada tarefa vira cartão com contrato e auto-revisão antes do start.",
+          "source": "github.com/dualface/kander"
+        },
+        {
+          "title": "Pigeon: passe assinado para sub-agente",
+          "body": "Resolve o buraco em que o sub-agente herda a API key do pai e pode deployar em produção ou ler o banco de pagamentos. O Pigeon Pass é uma credencial assinada que restringe o que o filho pode fazer.",
+          "source": "github.com/pigeonlabsHQ/pigeon"
+        },
+        {
+          "title": "discord-summary: resumo incremental local",
+          "body": "Resume canais do Discord rodando na sua máquina: tracking incremental, consolidação entre períodos e base de conhecimento em Markdown. Python e Vue 3.",
+          "source": "github.com/FlyCatdev/discord-summary"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O GitHub parou de entregar apps e passou a entregar peça de infraestrutura: orquestração, contrato de execução e credencial para sub-agente. O agente virou usuário de primeira classe das ferramentas."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-07",
       "date": "2026-09-07",
       "hook": "Panorama IA — 07/09",
