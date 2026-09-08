@@ -2,6 +2,68 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-08",
+      "date": "2026-09-08",
+      "hook": "Skills & MCP · 08/09",
+      "caption": "O formato agent-skills virou ativo portátil: roda em Claude Code, Codex, Cursor e Antigravity. O Trail of Bits entra com VMs de sandbox e um plugin promete cortar até 94% dos tokens do Claude Code.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-08",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-08",
+      "slides": [
+        {
+          "title": "Skills & MCP · 08/09",
+          "body": "O formato agent-skills virou ativo portátil: roda em Claude Code, Codex, Cursor e Antigravity. O Trail of Bits entra com VMs de sandbox e um plugin promete cortar até 94% dos tokens do Claude Code."
+        },
+        {
+          "title": "ripwire v0.5.0: o ripgrep do contexto de IA",
+          "body": "A redhat-et lançou a v0.5.0 com Elixir indexado via tree-sitter e o novo <recent>, que responde \"o que mudou\" no repo. Primeira release com contribuições externas, 6 nomes creditados, um dia depois da v0.4.0.",
+          "source": "github.com/redhat-et/ripwire"
+        },
+        {
+          "title": "shunt: plugin que corta 82% a 94% dos tokens",
+          "body": "Plugin do Claude Code desvia subtarefas para modelos menores e mais baratos, com economia medida entre 82% e 94% dos tokens em workflows dinâmicos.",
+          "source": "github.com/sorantis/portal-ai-plugins"
+        },
+        {
+          "title": "Coop: VMs descartáveis pro Claude Code e Codex",
+          "body": "O Trail of Bits publicou o coop: ambientes de VM isolados e descartáveis para execução de agentes de código, sandbox de nível hipervisor por baixo do agente.",
+          "source": "github.com/trailofbits/coop"
+        },
+        {
+          "title": "O system prompt do Fable 5.1, dissecado",
+          "body": "dbreunig analisou as mudanças do system prompt do Claude Fable 5.1, e o artifactbin cataloga as regras \"Never Do This\" do prompt. No mesmo dia, a vals.ai mostrou o modelo resolvendo a Cyphral Distich, criptograma aberto há 370 anos, dentro de um dia.",
+          "source": "dbreunig.com"
+        },
+        {
+          "title": "58 calculadoras imobiliárias coreanas viram skill",
+          "body": "O budongsan-skills empacota a lógica de cálculo de um site coreano de consultoria imobiliária, com taxas de transferência, aquisição e registro, em 58 skills para Codex e Claude Code.",
+          "source": "github.com/minsooparkk/budongsan-skills"
+        },
+        {
+          "title": "agentmeld: um acervo de contexto, todos os agentes",
+          "body": "Sincroniza instructions, rules, skills, agents, commands e config MCP entre todos os agentes de código instalados na máquina. A proposta do README: \"symlink-first, always-on\".",
+          "source": "github.com/moneytool/agentmeld"
+        },
+        {
+          "title": "Skills Claude/Cursor viram plugins Antigravity",
+          "body": "O antigravity-skill-porter converte e otimiza skills de Claude Code e Cursor em plugins nativos multi-agentes do Google Antigravity.",
+          "source": "github.com/Pranav-Nexus/antigravity-skill-porter"
+        },
+        {
+          "title": "Pesquisa científica também virou skill",
+          "body": "O rseng-agent-skills traz práticas de Research Software Engineering, como reprodutibilidade, dados e publicação, empacotadas como skills para agentes de código.",
+          "source": "github.com/fdiblen/rseng-agent-skills"
+        },
+        {
+          "title": "Claude Code v2.1.263, Codex 0.154, Gemini nightly",
+          "body": "Os três CLIs mais usados seguem em cadência diária ou quase: Claude Code 2.1.263 em 06/09, Codex rust-v0.154.0-alpha.6 em 07/09, e Gemini CLI em nightlies v0.60.0 todo dia.",
+          "source": "github.com/openai/codex/releases"
+        },
+        {
+          "title": "Skill virou ativo portátil",
+          "body": "O que era configuração de ferramenta hoje é patrimônio que atravessa ecossistemas. A semana trouxe o sandbox do Trail of Bits, o roteador de tokens e o prompt dissecado como doc de engenharia. Contexto virou commodity, e quem tem acervo próprio sai na frente."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-08",
       "date": "2026-09-08",
       "hook": "Projetos · 08/09",
