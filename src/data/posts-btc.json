@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-08-04h31",
+      "date": "2026-09-08",
+      "time": "04h31",
+      "hook": "O Bitcoin passou a noite colado em 78,4 mil depois de perder os 79 mil ontem. A primeira resposta veio de madrugada, com um pico de volume 3,3 vezes acima da média defendendo a região. Recuperação ainda tímida, mas o fundo novo apareceu e aguentou o teste.",
+      "caption": "O preço caiu abaixo de 79 mil, encostou no fundo novo e reagiu\n\nLeia: https://xbtc.aronpc.dev/#2026-09-08-04h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-08-04h31",
+      "slides": [
+        {
+          "title": "A defesa dos 78 mil",
+          "body": "O preço caiu abaixo de 79 mil, encostou no fundo novo e reagiu"
+        },
+        {
+          "title": "US$ 78.453",
+          "body": "Δ1h +0,1% · Δ24h −1,3% · vol 24h US$ 26,3 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Repique técnico em curso, ainda sem força pra reverter a correção de ontem · Smart money: funding +0,0085% + L/S 1,22 (55% longs)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "79 mil volta ao radar",
+          "body": "Mínima 24h 78.261 (−0,2%) · Máxima 24h 79.643 (+1,5%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-07-11h31",
       "date": "2026-09-07",
       "time": "11h31",
