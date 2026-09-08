@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-08-12h31",
+      "date": "2026-09-08",
+      "time": "12h31",
+      "hook": "Depois do susto da manhã, o Bitcoin passou a hora do almoço colado em 78,4 mil, dentro da mesma faixa dos últimos dias. Volume acima do normal, preço parado: alguém está se posicionando.",
+      "caption": "78,4 mil pelo segundo horário seguido, com movimento nas últimas 3h a 1,5 vez a média\n\nLeia: https://xbtc.aronpc.dev/#2026-09-08-12h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-08-12h31",
+      "slides": [
+        {
+          "title": "Preço quieto, volume subindo",
+          "body": "78,4 mil pelo segundo horário seguido, com movimento nas últimas 3h a 1,5 vez a média"
+        },
+        {
+          "title": "US$ 78.455",
+          "body": "Δ1h +0,2% · Δ24h −0,7% · vol 24h US$ 33,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Duas horas segurando o centro do canal de 78,0 a 79,0 mil · funding +0,0097% e 57% da positionalidade comprada",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Faixa de 1 mil decidiu o dia",
+          "body": "78,0 mil segurou duas vezes; 79,0 mil segue longe · máx 24h: 79.485"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-08-11h31",
       "date": "2026-09-08",
       "time": "11h31",
