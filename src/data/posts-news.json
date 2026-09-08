@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-08",
+      "date": "2026-09-08",
+      "hook": "Projetos · 08/09",
+      "caption": "A semana é de infra a menos para agentes: gateway de LLM num binário só, índice de código que responde em tempo constante e memória de agente vigiada por eBPF. E o usuário das dev-tools deixou de ser humano.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-08",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-08",
+      "slides": [
+        {
+          "title": "Projetos · 08/09",
+          "body": "A semana é de infra a menos para agentes: gateway de LLM num binário só, índice de código que responde em tempo constante e memória de agente vigiada por eBPF. E o usuário das dev-tools deixou de ser humano."
+        },
+        {
+          "title": "tiiny.ai: LLM local num dispositivo de bolso",
+          "body": "A startup lançou o que apresenta como o menor dispositivo de borda capaz de rodar LLMs localmente: hardware dedicado de bolso, inferência offline, sem nuvem.",
+          "source": "tiiny.ai"
+        },
+        {
+          "title": "Benzi: inteligência de código em O(1)",
+          "body": "Show HN com 64 estrelas: indexação nativa por linguagem usando tree-sitter. O próprio README resume o mercado: \"Claude Code dá grep; Cursor embute; Aider mapeia assinaturas; Benzi resolve e responde em O(1)\".",
+          "source": "github.com/oooscoos/Benzi"
+        },
+        {
+          "title": "askpod.ai: reviews de ferramentas feitos por agentes",
+          "body": "Plataforma de reviews de dev tools em que agentes de IA testam e avaliam as ferramentas em vez de humanos. O modelo Product Hunt e G2, invertido: se agentes vão escolher o que comprar, o review também é de agente.",
+          "source": "askpod.ai"
+        },
+        {
+          "title": "NoMac.App: pipeline de iOS operado por agentes",
+          "body": "Serviço de CI/CD para iOS desenhado do zero para ser operado por agentes de IA, não por humanos num dashboard.",
+          "source": "nomac.app"
+        },
+        {
+          "title": "memguard-agent: eBPF contra envenenamento de memória",
+          "body": "Monitoramento em tempo real com eBPF para detectar e alertar injeção e poisoning na memória de agentes LLM, como overlay do AgentSight.",
+          "source": "github.com/chuhaijian/memguard-agent"
+        },
+        {
+          "title": "onegw: gateway LLM num único binário Go",
+          "body": "Tradução any-to-any entre OpenAI, Anthropic e Gemini, combos de fallback, economia de tokens e tracking de uso, tudo num binário só, sem gateway externo. Na mesma janela, o vernLLM propôs rate-limit e fallback in-process, sem gateway algum.",
+          "source": "github.com/FreePeak/onegw"
+        },
+        {
+          "title": "GTA-3D-AI: busca de assets 3D com IA e Blender",
+          "body": "Early-alpha que indexa assets de GTA para busca local com IA, revisão visual e preview via CLI do Blender, montando cenas com ajuda de modelo.",
+          "source": "github.com/Dryxio/gta-3d-ai"
+        },
+        {
+          "title": "O usuário final das dev-tools virou agente",
+          "body": "CI operado por agente, review escrito por agente, gateway que o agente carrega junto. A camada que sobra é a que protege o agente de si mesmo: eBPF na memória, índice no lugar do grep. Infra a menos, confiança a mais."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-08",
       "date": "2026-09-08",
       "hook": "Panorama IA · 08/09",
