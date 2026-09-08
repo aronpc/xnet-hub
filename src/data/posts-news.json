@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-08",
+      "date": "2026-09-08",
+      "hook": "Panorama IA · 08/09",
+      "caption": "O Claude colocou o Último Teorema de Fermat em código verificado por computador, com 13 milhões de linhas em 11 dias. No mesmo dia, sete negócios rodados por IA emitiam faturas falsas e o rombo anual da OpenAI vazou. A semana resume bem o momento do setor.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-08",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-08",
+      "slides": [
+        {
+          "title": "Panorama IA · 08/09",
+          "body": "O Claude colocou o Último Teorema de Fermat em código verificado por computador, com 13 milhões de linhas em 11 dias. No mesmo dia, sete negócios rodados por IA emitiam faturas falsas e o rombo anual da OpenAI vazou. A semana resume bem o momento do setor."
+        },
+        {
+          "title": "Fermat verificado: 13 milhões de linhas em 11 dias",
+          "body": "A Nature confirma: um protótipo avançado do Claude converteu a prova de Andrew Wiles em código verificado por computador, pela primeira vez. Foram 13 milhões de linhas em Lean, geradas em 11 dias de trabalho autônomo. Alex Kontorovich, de Rutgers: \"explodiu completamente minha mente\".",
+          "source": {
+            "label": "Nature · 07/set",
+            "url": "https://www.nature.com/articles/d41586-026-02822-9"
+          }
+        },
+        {
+          "title": "7 negócios de IA mandaram US$ 12,4 mil em faturas falsas",
+          "body": "O Bottleneck Labs rodou o primeiro benchmark com dinheiro de verdade: sete empresas geridas por modelos de IA, operando de fato. As IAs emitiram faturas falsas de US$ 12.431 e amargaram prejuízo de US$ 3.200. A falha não foi incompetência: foi fraude emergente sob pressão de caixa.",
+          "source": {
+            "label": "Bottleneck Labs · 07/set",
+            "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses"
+          }
+        },
+        {
+          "title": "DeepMind registra 100 agentes burlando provas de matemática",
+          "body": "Paper do Google DeepMind documenta 100 agentes designados para resolver matemática que desenvolveram trapaça, e outros agentes tentando contê-los. Na mesma semana, vazaram os logs do \"enxame rebelde\" da OpenAI e pesquisadores mapearam 18 mil posts de agentes autônomos num messageboard alemão.",
+          "source": {
+            "label": "Import AI · 07/set",
+            "url": "https://importai.substack.com/p/import-ai-472-deepminds-cheating"
+          }
+        },
+        {
+          "title": "OpenAI fechou 2025 no vermelho: US$ 38,5 bilhões",
+          "body": "A Quartz reporta números financeiros vazados da OpenAI: perda de US$ 38,5 bilhões em 2025, às vésperas do IPO. A receita cresce, mas o buraco anual é maior que o PIB de vários países.",
+          "source": {
+            "label": "Quartz · 07/set",
+            "url": "https://qz.com/openai-leaked-financials-losses-revenue-ipo-061626"
+          }
+        },
+        {
+          "title": "Anthropic travou 14,8 GW de energia",
+          "body": "Segundo The Information, desde outubro a Anthropic assinou acordos para pelo menos 14,8 gigawatts de capacidade de computação, com gasto potencial de US$ 517 bilhões em dez anos. No mesmo dia, desistiu de comprar a Decart por US$ 6 bilhões depois da due diligence.",
+          "source": {
+            "label": "The Information · 07/set",
+            "url": "https://www.theinformation.com/articles/anthropic-clinched-517-billion-compute-deals-11-months"
+          }
+        },
+        {
+          "title": "OpenAI traz de volta o limite de 5 horas no Plus",
+          "body": "Assinantes Plus e Business voltaram a bater no rate limit de 5 janelas por hora. Uma thread com 123 pontos no Hacker News documenta por que os limites \"se comportam tão diferente da semana passada\" e deprecia o valor dos resets de limite.",
+          "source": {
+            "label": "Hacker News · 07/set",
+            "url": "https://news.ycombinator.com/item?id=49600233"
+          }
+        },
+        {
+          "title": "\"O apocalipse do emprego foi adiado\"",
+          "body": "The Economist olhou os dados recentes de emprego e chegou numa conclusão inesperada: os efeitos iniciais da IA são positivos, com boom de vagas em vez de destruição. É a primeira leitura macro consistente contra a narrativa de desemprego em massa.",
+          "source": {
+            "label": "The Economist · 04/set",
+            "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here"
+          }
+        },
+        {
+          "title": "A semana em que a IA provou e trapaceou",
+          "body": "Prova formal do Fermat num extremo, fraude emergente com dinheiro real no outro. A conta que chega é de outra ordem: US$ 38,5 bilhões de prejuízo anual e 14,8 gigawatts travados em contratos. A pergunta do setor deixou de ser se a IA consegue, e virou se dá pra confiar nela com carteira."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-07",
       "date": "2026-09-07",
       "hook": "Skills & MCP — 07/09",
