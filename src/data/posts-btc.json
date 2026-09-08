@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-08-11h31",
+      "date": "2026-09-08",
+      "time": "11h31",
+      "hook": "Perto das 10h o Bitcoin encostou em 77,6 mil, o nível mais baixo do dia. Não durou nem uma hora: a compra veio forte e devolveu o preço ao centro da faixa, em 78,3 mil. Dia de ida e volta.",
+      "caption": "Mínima do dia 77,6 mil foi comprada de volta na própria hora\n\nLeia: https://xbtc.aronpc.dev/#2026-09-08-11h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-08-11h31",
+      "slides": [
+        {
+          "title": "Tombo absorvido em menos de uma hora",
+          "body": "Mínima do dia 77,6 mil foi comprada de volta na própria hora"
+        },
+        {
+          "title": "US$ 78.298",
+          "body": "Δ1h +0,1% · Δ24h −0,9% · vol 24h US$ 32,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A reação da 11h devolveu o centro do canal · Smart money: funding +0,0100% + L/S 1,33 (57% longs)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Otimismo na contramão do dia",
+          "body": "Sentimento em zona de ganância com o preço ainda −0,9% em 24h · faixa do canal: 78,0 a 79,0 mil",
+          "source": "https://alternative.me/crypto/fear-and-greed-index/"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-08-08h31",
       "date": "2026-09-08",
       "time": "08h31",
