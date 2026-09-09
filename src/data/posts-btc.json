@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-09-11h31",
+      "date": "2026-09-09",
+      "time": "11h31",
+      "hook": "Quatro idas ao mesmo ponto, quatro voltas. O Bitcoin testou de novo a região de 79,7 mil nesta terça, pela quarta vez no dia, e mais uma vez faltou gás: a última hora girou a um terço do volume usual. O preço voltou para perto de 79,2 mil e o pregão ficou em espera.",
+      "caption": "A zona de 79,7 mil segue intocada; sem volume, o canal do dia continua mandando no preço\n\nLeia: https://xbtc.aronpc.dev/#2026-09-09-11h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-09-11h31",
+      "slides": [
+        {
+          "title": "Quatro tentativas, nenhuma passou",
+          "body": "A zona de 79,7 mil segue intocada; sem volume, o canal do dia continua mandando no preço"
+        },
+        {
+          "title": "US$ 79.193",
+          "body": "Δ1h −0,4% · Δ24h +0,55% · vol 24h US$ 32,8 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "4ª recusa no topo com volume a 0,35× a média de 24h; o recuo parou praticamente na linha dos 79,1 mil · funding +0,004% e L/S 1,18: ninguém reforçou aposta nesta tentativa",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Quinta visita ao teto?",
+          "body": "Linha de baixo em 79,1 mil (−0,07%) segurou o recuo · zona de 79,7 mil (+0,72%) segue sem ceder"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-09-09h32",
       "date": "2026-09-09",
       "time": "09h32",
