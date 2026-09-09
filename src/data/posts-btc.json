@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-09-12h31",
+      "date": "2026-09-09",
+      "time": "12h31",
+      "hook": "O piso cedeu. Depois de quatro tentativas frustradas em 79,7 mil, o dia resolveu por baixo: a linha de 78,9 mil não segurou e o preço desceu até roçar 78 mil, na mínima de 24h. Saiu caro, com volume acima da leitura anterior.",
+      "caption": "Queda de 1,15% na última hora devolveu o preço à mínima de 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-09-09-12h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-09-12h31",
+      "slides": [
+        {
+          "title": "O piso do dia cedeu",
+          "body": "Queda de 1,15% na última hora devolveu o preço à mínima de 24h"
+        },
+        {
+          "title": "US$ 78.283",
+          "body": "Δ1h −1,15% · Δ24h −0,23% · vol 24h US$ 33,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Perdeu 79.141 e 78.900 na mesma perna e desceu até o alvo de 78.271 · funding +0,004% e L/S 1,12: alavancagem esvaziando, ninguém segurando a queda",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "78 mil sob observação",
+          "body": "A mínima de 78.060 (−0,28%) está sendo testada agora · para reverter, seria preciso voltar e sustentar 78.900 (+0,79%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-09-11h31",
       "date": "2026-09-09",
       "time": "11h31",
