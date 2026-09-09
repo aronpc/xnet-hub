@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-09-09h32",
+      "date": "2026-09-09",
+      "time": "09h32",
+      "hook": "A queda da manhã durou pouco. Depois de perder 79,2 mil na primeira hora, o Bitcoin fechou duas horas seguidas acima do nível, com volume 26% acima da média. A 79,4 mil, encosta de novo na máxima de 24h do dia.",
+      "caption": "O que foi perdido na primeira hora voltou antes do meio-dia, com pregão movimentado\n\nLeia: https://xbtc.aronpc.dev/#2026-09-09-09h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-09-09h32",
+      "slides": [
+        {
+          "title": "Manhã em U",
+          "body": "O que foi perdido na primeira hora voltou antes do meio-dia, com pregão movimentado"
+        },
+        {
+          "title": "US$ 79.390",
+          "body": "Δ1h +0,55% · Δ24h +1,34% · vol 24h US$ 34,4 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Rompimento confirmado nos fechamentos das 08h e 09h, com volume 26% acima da média · funding +0,005% e L/S 1,24: alta sem aposta lotada",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Segunda visita a 79,7 mil",
+          "body": "A máxima de 24h (79.760, +0,47%) rejeitou o preço às 05h; embaixo, 79.200 (−0,24%) é a base da leitura de alta"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-09-07h31",
       "date": "2026-09-09",
       "time": "07h31",
