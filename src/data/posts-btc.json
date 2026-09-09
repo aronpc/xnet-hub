@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-09-07h31",
+      "date": "2026-09-09",
+      "time": "07h31",
+      "hook": "A manhã que era de alta acabou. Depois de bater duas vezes na região de 79,7 a 80 mil e voltar, o Bitcoin devolveu o trecho subido e deixou passar o nível de 79,2 mil que segurava desde o começo do dia. Agora encosta na linha dos 79 mil devagar, sem qualquer pressa e sem sinal de pânico por perto.",
+      "caption": "Rejeitado no topo duas vezes, o preço voltou ao ponto de partida da madrugada\n\nLeia: https://xbtc.aronpc.dev/#2026-09-09-07h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-09-07h31",
+      "slides": [
+        {
+          "title": "79,2 mil não aguentou",
+          "body": "Rejeitado no topo duas vezes, o preço voltou ao ponto de partida da madrugada"
+        },
+        {
+          "title": "US$ 79.083",
+          "body": "Δ1h −0,43% · Δ24h +0,32% · vol 24h US$ 33,7 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Nível da manhã cedido na primeira hora · funding +0,006% e L/S 1,22: quem comprava aliviou a mão, e short novo não entrou",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "79 mil na balança",
+          "body": "79,2 mil (+0,15%) é o primeiro degrau a recuperar; acima dele vem 79,76 mil (+0,86%). Se 79 mil (−0,10%) não segurar, a leitura desce a procura de 78,65 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-09-06h38",
       "date": "2026-09-09",
       "time": "06h38",
