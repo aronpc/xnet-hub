@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-09-02h32",
+      "date": "2026-09-09",
+      "time": "02h32",
+      "hook": "O dia inteiro de ontem rodou abaixo de 79 mil. Na madrugada de hoje o Bitcoin chegou lá e ficou, em 79,1 mil, e a leitura das 02h32 anotou alta pela primeira vez neste ciclo. Faltava pouco pro teto, e o preço foi até ele.",
+      "caption": "Pela primeira vez desde ontem, o preço encosta no topo do range de 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-09-09-02h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-09-02h32",
+      "slides": [
+        {
+          "title": "O teto da faixa, enfim testado",
+          "body": "Pela primeira vez desde ontem, o preço encosta no topo do range de 24h"
+        },
+        {
+          "title": "US$ 79.131",
+          "body": "Δ1h +0,3% · Δ24h +0,5% · vol 24h US$ 37,7 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Closes de 1h subindo em sequência, preço colado em 79,4 mil · Smart money: funding +0,008% e L/S 1,32 (57% long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "79,4 mil é a linha do dia",
+          "body": "Topo da faixa a +0,34% · fundo do canal a −0,61% (78,6 mil)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-08-12h31",
       "date": "2026-09-08",
       "time": "12h31",
