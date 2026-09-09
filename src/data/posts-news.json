@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-09",
+      "date": "2026-09-09",
+      "hook": "Projetos · 09/09",
+      "caption": "A NVIDIA fechou a compra da Hugging Face por US$ 12,93 bilhões, e a camada neutra onde o open-weights vive agora tem dono. Na sequência, uma semana de segurança de agentes: sandbox pra MCP server, transação ACID pra tool call e taint tracking em traces.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-09",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-09",
+      "slides": [
+        {
+          "title": "Projetos · 09/09",
+          "body": "A NVIDIA fechou a compra da Hugging Face por US$ 12,93 bilhões, e a camada neutra onde o open-weights vive agora tem dono. Na sequência, uma semana de segurança de agentes: sandbox pra MCP server, transação ACID pra tool call e taint tracking em traces."
+        },
+        {
+          "title": "NVIDIA compra a Hugging Face: US$ 12,93 bi",
+          "body": "O acordo leva a plataforma onde vivem mais de 3 milhões de modelos, 500 mil datasets, 1 milhão de apps e 18 milhões de devs. Jensen Huang prometeu que a plataforma segue aberta e que compute NVIDIA não será exigido pra build e deploy.",
+          "source": {
+            "label": "AI Tools Recap · 09/set",
+            "url": "https://aitoolsrecap.com/Blog/nvidia-acquires-hugging-face-2026"
+          }
+        },
+        {
+          "title": "Tencent Hy4: 770B sob Apache 2.0",
+          "body": "O Hy4 Preview é MoE de 770 bilhões de parâmetros totais e 49 bilhões ativos, com contexto de 1 milhão de tokens, sob Apache 2.0. É a primeira flagship open-weight do verão com licença permissiva padrão: Qwen 3.8-Max usa licença custom, Kimi K3 é MIT modificado, GLM-5.3 nem declara.",
+          "source": {
+            "label": "AI Tools Recap · 08/set",
+            "url": "https://aitoolsrecap.com/Blog/tencent-hy4-apache-open-weights-2026"
+          }
+        },
+        {
+          "title": "ToolHive: cada MCP server no seu container",
+          "body": "O ToolHive do Stacklok foi aberto: roda cada MCP server em container próprio com permission file mínimo e sem credenciais locais. Tem Registry que assina servers e verifica proveniência, Gateway que colapsa backends atrás de um endpoint com OIDC/OAuth e Portal desktop. Implementa a MCP Registry API oficial.",
+          "source": {
+            "label": "Help Net Security · 07/set",
+            "url": "https://www.helpnetsecurity.com/2026/09/07/toolhive-open-source-mcp-server-security/"
+          }
+        },
+        {
+          "title": "PCB Skill: da ideia ao hardware fabricável",
+          "body": "O repo daishuge/pcb-skill (84 estrelas em 48h) é uma agent skill que leva uma ideia de hardware até PCB fabricável: conceito, esquemático, sourcing de componentes e layout, com cadeia EDA de ponta a ponta.",
+          "source": {
+            "label": "GitHub · 08/set",
+            "url": "https://github.com/daishuge/pcb-skill"
+          }
+        },
+        {
+          "title": "llmash: drop-in do Ollama 2 a 4× mais rápido",
+          "body": "Show HN de 08/09 do llmash (omgitsbase/llmash), runtime local que se declara substituto direto do Ollama, 2 a 4 vezes mais rápido, mirando o gargalo de serving em hardware consumer.",
+          "source": {
+            "label": "GitHub · 08/set",
+            "url": "https://github.com/omgitsbase/llmash"
+          }
+        },
+        {
+          "title": "Girder: code graph como MCP server",
+          "body": "O Girder (dhishwasher/Girder) expõe um code graph pra agentes de código: nós de símbolos e arestas de dependência. O agente navega o repo por estrutura em vez de ficar greppando às cegas.",
+          "source": {
+            "label": "GitHub · 07/set",
+            "url": "https://github.com/dhishwasher/Girder"
+          }
+        },
+        {
+          "title": "SagaShield: tool call com rollback",
+          "body": "Show HN de 08/09 do SagaShield: camada que envolve ações de agentes em transações ACID com rollback e políticas de segurança. Cada tool call vira operação transacional, com semântica de banco de dados.",
+          "source": {
+            "label": "GitHub · 08/set",
+            "url": "https://github.com/sebastianmechno-sys/sagashield"
+          }
+        },
+        {
+          "title": "weird: taint tracking em traces de agente",
+          "body": "O projeto IdoGol24/weir faz taint tracking sobre traces de execução de agentes: rastreia como dados não confiáveis fluem até virar ação. Marca 0,48 de precisão no AgentDojo, benchmark de prompt injection.",
+          "source": {
+            "label": "GitHub · 08/set",
+            "url": "https://github.com/IdoGol24/weir"
+          }
+        },
+        {
+          "title": "Consolidação em cima, defesa embaixo",
+          "body": "No topo, US$ 12,93 bilhões fechando quem distribui modelos abertos. Na base, uma semana de ferramentas defendendo o agente de si mesmo: sandbox por server, transação com rollback e rastreio de dado contaminado. O ecossistema está tratando agente em produção como problema de infraestrutura, não de prompt."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-09",
       "date": "2026-09-09",
       "hook": "Panorama IA · 09/09",
