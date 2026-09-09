@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-09-14h30",
+      "date": "2026-09-09",
+      "time": "14h30",
+      "hook": "O Bitcoin passou a manhã travado e agora encostou no 78.900 com uma força que ainda não tinha mostrado hoje: três velas de 1h em alta e fundos do dia subindo em escada. Falta o fechamento que confirma a virada.",
+      "caption": "Três altas seguidas no gráfico de 1h, preço a 0,1% do teto do dia\n\nLeia: https://xbtc.aronpc.dev/#2026-09-09-14h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-09-14h30",
+      "slides": [
+        {
+          "title": "A recuperação bateu na porta do 78.900",
+          "body": "Três altas seguidas no gráfico de 1h, preço a 0,1% do teto do dia"
+        },
+        {
+          "title": "US$ 78.842",
+          "body": "Δ1h +0,36% · Δ24h +0,34% · vol 24h US$ 34,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fundos em escada (78.060 → 78.460 → 78.724) e três fechamentos de 1h subindo · funding +0,006% e L/S 1,23: posições voltando junto com o preço, sem exagero",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "78.900 decide a próxima hora",
+          "body": "Acima, 79.395 fica a +0,70% · abaixo, o degrau de 78.460 (−0,48%) segue absorvendo",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora no intraday"
+        }
+      ]
+    },
+    {
       "id": "2026-09-09-13h30",
       "date": "2026-09-09",
       "time": "13h30",
