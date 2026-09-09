@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-09-15h30",
+      "date": "2026-09-09",
+      "time": "15h30",
+      "hook": "O fechamento acima de 78.900 que se desenhava de manhã não veio. Pela terceira vez hoje a região recusou o preço, e o BTC volta a 78,6 mil. A recuperação perdeu o embalo, sem drama.",
+      "caption": "Três recusas no dia na casa dos 78.900; preço de volta ao meio da faixa\n\nLeia: https://xbtc.aronpc.dev/#2026-09-09-15h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-09-15h30",
+      "slides": [
+        {
+          "title": "A mesma região resistiu de novo",
+          "body": "Três recusas no dia na casa dos 78.900; preço de volta ao meio da faixa"
+        },
+        {
+          "title": "US$ 78.597",
+          "body": "Δ1h −0,31% · Δ24h −0,16% · vol 24h US$ 34,5 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A força da manhã não sobreviveu ao teto do dia e o preço volta a orbitar 78,5–78,9 mil · funding +0,007% e L/S 1,16: posições esfriaram junto, clima neutro",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "78.940 segue sendo a chave",
+          "body": "Acima, a próxima parada é 79.395 (+1,02%) · abaixo, 78.460 (−0,17%) é o chão imediato do dia",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-09-14h30",
       "date": "2026-09-09",
       "time": "14h30",
