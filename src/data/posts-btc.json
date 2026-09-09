@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-09-13h30",
+      "date": "2026-09-09",
+      "time": "13h30",
+      "hook": "O susto do meio-dia passou. A venda rápida levou o BTC até 78 mil, o fundo segurou na hora seguinte e o preço já volta a 78,5 mil. Clima de cautela, sem convicção para nenhum lado.",
+      "caption": "Venda forte no meio-dia, mínimo de 78.060 respeitado de novo\n\nLeia: https://xbtc.aronpc.dev/#2026-09-09-13h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-09-13h30",
+      "slides": [
+        {
+          "title": "A queda bateu no fundo e parou",
+          "body": "Venda forte no meio-dia, mínimo de 78.060 respeitado de novo"
+        },
+        {
+          "title": "US$ 78.562",
+          "body": "Δ1h +0,36% · Δ24h −0,08% · vol 24h US$ 34,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Fundo do dia respeitado duas vezes, mas a recuperação ainda não fecha acima de 78.900 · funding +0,005% e L/S 1,16: posições reconstruindo devagar",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Preso entre 78 mil e 78.900",
+          "body": "Mínima do dia em 78.060 (−0,64%) · teto imediato em 78.900 (+0,43%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-09-12h31",
       "date": "2026-09-09",
       "time": "12h31",
