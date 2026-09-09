@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-09",
+      "date": "2026-09-09",
+      "hook": "Skills & MCP · 09/09",
+      "caption": "A API do Claude agora aceita system message no meio da conversa e troca de tools sem recriar nada. O Claude Code ganhou hot-reload de plugins por pasta. E memória agent-native virou a categoria mais quente do ecossistema skills/MCP.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-09",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-09",
+      "slides": [
+        {
+          "title": "Skills & MCP · 09/09",
+          "body": "A API do Claude agora aceita system message no meio da conversa e troca de tools sem recriar nada. O Claude Code ganhou hot-reload de plugins por pasta. E memória agent-native virou a categoria mais quente do ecossistema skills/MCP."
+        },
+        {
+          "title": "System message no meio da conversa",
+          "body": "Documentação nova de 08/09 detalha system messages injetadas em curso de sessão e mudança de tool definition sem recriar a conversa: placement após tool results, mensagens turn-scoped e interação com prompt caching.",
+          "source": {
+            "label": "Claude docs · 08/set",
+            "url": "https://platform.claude.com/docs/en/build-with-claude/mid-conversation-system-messages"
+          }
+        },
+        {
+          "title": "--plugin-dir: plugin virou arquivo de pasta",
+          "body": "A v2.1.265 (08/09) deixa apontar --plugin-dir pra uma pasta inteira de plugins: cada subpasta com manifest carrega, e filho adicionado ou removido durante a execução é detectado sem restart. A v2.1.266, mesmo dia, corrigiu regressão de gateway do CLAUDE_CODE_USE_GATEWAY.",
+          "source": {
+            "label": "GitHub · 08/set",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.265"
+          }
+        },
+        {
+          "title": "Dos 182 MCP servers, só 65 sobem",
+          "body": "O MCP Rating tentou iniciar todos os MCP servers publicados num ambiente hostil por padrão: sem credenciais, 45 segundos de timeout. 65 de 182 responderam. O resto morreu por dependência de browser engine, pacote macOS-only em runner Linux ou tempo de instalação.",
+          "source": {
+            "label": "MCP Rating · 03/set",
+            "url": "https://mcprating.io/blog/i-tried-to-start-182-mcp-servers"
+          }
+        },
+        {
+          "title": "ai-memory-skillpack: memória com orçamento",
+          "body": "Skillpack (8 estrelas na janela) com skills de project-memory bounded pra Codex CLI e Claude Code: memória por projeto com orçamento e expiração definidos, portátil entre as duas CLIs dominantes.",
+          "source": {
+            "label": "GitHub · 08/set",
+            "url": "https://github.com/tudoumashu/ai-memory-skillpack"
+          }
+        },
+        {
+          "title": "agent-html: design system single-file",
+          "body": "Repo novo (16 estrelas) com design system HTML de arquivo único, zero dependência, inspirado em shadcn/ui e empacotado como agent skill. Cem por cento offline.",
+          "source": {
+            "label": "GitHub · 08/set",
+            "url": "https://github.com/QingYunA/agent-html"
+          }
+        },
+        {
+          "title": "awesome-remote-mcp-servers: 64★ em 48h",
+          "body": "A lista curada do punkpeye de MCP servers remotos, acessíveis por URL em vez de processo local, entrou em destaque na janela com 64 estrelas.",
+          "source": {
+            "label": "GitHub · 08/set",
+            "url": "https://github.com/punkpeye/awesome-remote-mcp-servers"
+          }
+        },
+        {
+          "title": "Fraise: banco de memória pra agentes",
+          "body": "Show HN de 08/09 do Fraise, memory database desenhado pra agentes de IA: consultas por relevância e histórico versionado.",
+          "source": {
+            "label": "getfraise.dev · 08/set",
+            "url": "https://docs.getfraise.dev"
+          }
+        },
+        {
+          "title": "A orquestração flexibilizou, a memória virou produto",
+          "body": "A plataforma do Claude passou a permitir ajustar instrução e ferramentas com a conversa em curso, e plugin virou pasta com hot-reload. Embaixo, memória agent-native acumulando players. O harness que era engessado virou material de composição, e o que sobrou de incerto é onde os limites vão parar."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-09",
       "date": "2026-09-09",
       "hook": "Projetos · 09/09",
