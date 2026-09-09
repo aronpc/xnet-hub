@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-09",
+      "date": "2026-09-09",
+      "hook": "Panorama IA · 09/09",
+      "caption": "A OpenAI diz que derrubou um Problema do Milênio com computador. No mesmo dia, o FBI acusou labs chineses de destilar modelos americanos em escala industrial e a Meta colocou um agente autônomo no bolso de bilhões de gente. Dia pesado.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-09",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-09",
+      "slides": [
+        {
+          "title": "Panorama IA · 09/09",
+          "body": "A OpenAI diz que derrubou um Problema do Milênio com computador. No mesmo dia, o FBI acusou labs chineses de destilar modelos americanos em escala industrial e a Meta colocou um agente autônomo no bolso de bilhões de gente. Dia pesado."
+        },
+        {
+          "title": "Navier-Stokes pode quebrar, diz a OpenAI",
+          "body": "Em 08/09 a OpenAI anunciou uma solução para as equações de Navier-Stokes, o modelo físico mais usado pra descrever fluidos: a demonstração mostra que elas podem quebrar, o chamado blow-up. É um dos sete Problemas do Milênio do Clay Institute. Segundo a Nature, é a primeira vez que um problema matemático aberto dessa tamanho cai por computador.",
+          "source": {
+            "label": "Nature · 08/set",
+            "url": "https://www.nature.com/articles/d41586-026-02842-5"
+          }
+        },
+        {
+          "title": "Pesquisador deixa a Anthropic com medo do que vem",
+          "body": "O WSJ conta (09/09) que um pesquisador que saiu da OpenAI pra Anthropic renunciou citando medo de IA fora de controle. O aviso vem de dentro do laboratório mais associado a safety, de alguém que trabalhou nos dois lados da corrida.",
+          "source": {
+            "label": "WSJ · 09/set",
+            "url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628"
+          }
+        },
+        {
+          "title": "NSA, CISA e FBI: China destila em escala industrial",
+          "body": "Aviso conjunto de 08/09 alega que DeepSeek, Moonshot, Alibaba, MiniMax, StepFun e Z.AI rotearam milhões de requests contra Claude, ChatGPT, Gemini e Grok desde o fim de 2024, com bilhões de tokens extraídos. Os órgãos chamam a destilação de núcleo da estratégia industrial chinesa, não acessório.",
+          "source": {
+            "label": "CSA · 08/set",
+            "url": "https://media.defense.gov/2026/Sep/08/2003992823/-1/-1/1/CSA_CHINA_BASED_AI_COMPANIES_MALICIOUS_DISTILLATION_AGAINST_US.PDF"
+          }
+        },
+        {
+          "title": "Meta Muse: agente pessoal pra todo mundo",
+          "body": "A Meta lançou o Muse em 08/09, agente pessoal que roda em segundo plano cuidando de e-mail, viagens e metas longas. Tem bug bounty de até US$ 300 mil, sendo US$ 130 mil pra prompt injection que afete usuário. O post de engenharia detalha a arquitetura: célula isolada, credenciais fora do harness e um Sentinel que o agente não consegue sobrescrever.",
+          "source": {
+            "label": "Meta · 08/set",
+            "url": "https://about.fb.com/news/2026/09/introducing-muse/"
+          }
+        },
+        {
+          "title": "Qwen3.8 27B: 4-bit segura, 1-bit vira chute",
+          "body": "Benchmark do Quesma (front page do HN, 224 pontos) testou as quantizações GGUF do Qwen3.8 27B. O Q4_K_M de 17 GB empata com o modelo completo de 55 GB no Terminal-Bench 2.1 e cabe numa RTX 4090 com 64k de contexto. Já o 1-bit de 6,2 GB despenca pra nível de chute no GPQA Diamond.",
+          "source": {
+            "label": "Quesma · 08/set",
+            "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/"
+          }
+        },
+        {
+          "title": "OpenAI: 3,1 dias de agente por dia de pesquisador",
+          "body": "Métrica interna de agosto, publicada pela própria OpenAI: cada dia útil de um pesquisador equivale a 3,1 dias de trabalho de agentes. Pesquisador define direção, agente executa o escopo delimitado. E a empresa diz com todas as letras que o número mede uso, não produtividade.",
+          "source": {
+            "label": "AI Tools Recap · 08/set",
+            "url": "https://aitoolsrecap.com/Blog/openai-agent-workdays-metric-2026"
+          }
+        },
+        {
+          "title": "DeepSeek v4.1 Flash entra em beta interno",
+          "body": "Notícia de 08/09 confirma o DeepSeek v4.1 Flash em beta interno de teste. O V4 Flash predecessor já tem tabela de custo/velocidade/caching em 14 provedores, e o Ollama lançou tarifas off-peak 50% mais baratas pra ele.",
+          "source": {
+            "label": "HN · 08/set",
+            "url": "https://news.ycombinator.com/item?id=49607094"
+          }
+        },
+        {
+          "title": "IA fazendo ciência virou titular",
+          "body": "Navier-Stokes por computador é um divisor, se confirmar. Mas o dia trouxe o contraponto: destilação tratada como ameaça de Estado, medo de insiders e um agente com acesso a inbox de bilhões. O campo provou que resolve problema aberto de matemática e, junto, criou os próximos problemas de segurança pra ele mesmo resolver."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-08",
       "date": "2026-09-08",
       "hook": "Skills & MCP · 08/09",
