@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-09-17h32",
+      "date": "2026-09-09",
+      "time": "17h32",
+      "hook": "Quatro velas de queda em sequência, a primeira do dia. O BTC encostou em 78,2 mil e agora testa o fundo do canal das últimas 24h. O engraçado: o sentimento segue em ganância enquanto o preço cede, combinação que costuma incomodar.",
+      "caption": "Pela primeira vez hoje o preço pressiona a mínima de 24h, com ganância no F&G\n\nLeia: https://xbtc.aronpc.dev/#2026-09-09-17h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-09-17h32",
+      "slides": [
+        {
+          "title": "A queda encostou no fundo do canal",
+          "body": "Pela primeira vez hoje o preço pressiona a mínima de 24h, com ganância no F&G"
+        },
+        {
+          "title": "US$ 78.234",
+          "body": "Δ1h −0,36% · Δ24h −0,47% · vol 24h US$ 34,3 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Máximas descendo desde as 10h e Δ24h virou negativo · funding +0,007% e L/S 1,15: alavancagem comprada sem exagero, nada típico de aperto",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Fundo do canal em teste",
+          "body": "Mínima de 24h em 78,0 mil (−0,30%) é o que segura a leitura · devolver 78,8 mil (+0,72%) invalidaria a pressão",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-09-15h30",
       "date": "2026-09-09",
       "time": "15h30",
