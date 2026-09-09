@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-09-06h38",
+      "date": "2026-09-09",
+      "time": "06h38",
+      "hook": "Três horas seguidas o preço encosta em 79,4 mil e três vezes volta. O Bitcoin segue em 79,1 mil, firme, esperando o volume chegar pra tentar de novo. Quem olha só o preço não vê o que mudou: a proporção de compradores alavancados caiu de 1,32 pra 1,30, e é isso que sustenta a leitura de alta às 06h38.",
+      "caption": "Terceira rejeição seguida no topo da faixa, sem volume pra atravessar\n\nLeia: https://xbtc.aronpc.dev/#2026-09-09-06h38",
+      "link": "https://xbtc.aronpc.dev/#2026-09-09-06h38",
+      "slides": [
+        {
+          "title": "79,4 mil resistiu de novo. O mercado insiste.",
+          "body": "Terceira rejeição seguida no topo da faixa, sem volume pra atravessar"
+        },
+        {
+          "title": "US$ 79.154",
+          "body": "Δ1h +0,03% · Δ24h +0,97% · vol 24h US$ 37,0 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Firme perto do topo, ganância em 66 ainda contida · funding +0,008% e L/S 1,30",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "79,4 mil pra cima, 78,9 mil pra baixo",
+          "body": "Teto a +0,31% e fundo do canal a −0,32% (78,65 mil)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-09-02h32",
       "date": "2026-09-09",
       "time": "02h32",
