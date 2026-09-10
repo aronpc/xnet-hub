@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-10",
+      "date": "2026-09-10",
+      "hook": "Projetos e repos de 10 de setembro",
+      "caption": "A pauta de hoje é contexto e contenção: segurança e dados para agentes viraram categoria com ticket enterprise. E no GitHub, uma enchente de ferramentas para trocar modelo a quente, rodar firmas de agentes e desenhar chips.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-10",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-10",
+      "slides": [
+        {
+          "title": "Projetos e repos de 10 de setembro",
+          "body": "A pauta de hoje é contexto e contenção: segurança e dados para agentes viraram categoria com ticket enterprise. E no GitHub, uma enchente de ferramentas para trocar modelo a quente, rodar firmas de agentes e desenhar chips."
+        },
+        {
+          "title": "Kepler Computing ataca o gargalo de memória",
+          "body": "Saiu do stealth com US$ 468 milhões para empilhar memória em 3D com material novo, aumentando densidade de HBM e SRAM sem depender de máquinas EUV da ASML.",
+          "source": {
+            "label": "Wired — 9 set",
+            "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/"
+          }
+        },
+        {
+          "title": "routeVSCODE: troca de modelo a quente no Copilot",
+          "body": "Proxy local que faz switch de modelo no meio da conversa do Copilot Chat, sem recarregar nada, roteando via 9Router.",
+          "source": {
+            "label": "GitHub — yudaprasetya007",
+            "url": "https://github.com/yudaprasetya007/routeVSCODE"
+          }
+        },
+        {
+          "title": "SureForge: metodologia empacotada como skill",
+          "body": "Agent Skill que impõe quatro regras: pesquisar antes de perguntar, planejar antes de construir, verificar antes de entregar e revisar de forma independente antes de concluir.",
+          "source": {
+            "label": "GitHub — Da7-Tech",
+            "url": "https://github.com/Da7-Tech/SureForge"
+          }
+        },
+        {
+          "title": "Cymphony: proteger o que o agente faz",
+          "body": "Startup sai do stealth com US$ 30 milhões para segurança enterprise no buraco que agentes autônomos abrem. Series A co-liderada por Sequoia e SMBC.",
+          "source": {
+            "label": "TechCrunch — 9 set",
+            "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security"
+          }
+        },
+        {
+          "title": "Euno levanta US$ 23M para dar contexto a agentes",
+          "body": "Plataforma que reconstrói fluxo, significado e saúde de dados entre ambientes para alimentar agentes com o contexto certo.",
+          "source": {
+            "label": "Axios Pro — 9 set",
+            "url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/09/context-platform-euno-enterprise"
+          }
+        },
+        {
+          "title": "OtoDock: uma empresa de agentes no seu servidor",
+          "body": "Sistema self-hosted que organiza Claude Code e Codex em departamentos simulados, como se fossem times de uma companhia.",
+          "source": {
+            "label": "GitHub — OtoDock",
+            "url": "https://github.com/OtoDock/oto-dock"
+          }
+        },
+        {
+          "title": "Booley: IDE open-source para desenhar chips",
+          "body": "IDE dirigida por agentes para design de chip, cobrindo o fluxo de EDA com agentes de IA.",
+          "source": {
+            "label": "GitHub — boldaxolotl",
+            "url": "https://github.com/boldaxolotl/booley"
+          }
+        },
+        {
+          "title": "llmash quer o lugar do Ollama",
+          "body": "Runtime local de LLM focado em velocidade pura de inferência. O autor promete os maiores tokens por segundo que você já viu.",
+          "source": {
+            "label": "GitHub — omgitsbase",
+            "url": "https://github.com/omgitsbase/llmash"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Contenção e contexto viraram produtos com Series A, a orquestração em firma ganhou versão open-source e o lock-in de modelo virou alvo de proxy de 326 estrelas. O agente autônomo deixou de ser demo e virou problema de infraestrutura, com orçamento enterprise atrás."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-10",
       "date": "2026-09-10",
       "hook": "Resumo de IA de 10 de setembro",
