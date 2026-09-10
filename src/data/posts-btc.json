@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-10-11h30",
+      "date": "2026-09-10",
+      "time": "11h30",
+      "hook": "O susto foi às 10h31: 1% de queda em uma hora, preço em 76,9 mil. Uma hora depois, o Bitcoin negocia a 77,3 mil e o mínimo das últimas 24 horas, 76,7 mil, segue intacto. A queda mais forte do dia encontrou quem comprasse.",
+      "caption": "Uma hora depois da maior queda do dia, BTC recupera para US$ 77,3 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-09-10-11h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-10-11h30",
+      "slides": [
+        {
+          "title": "O fundo das 10h31 segurou",
+          "body": "Uma hora depois da maior queda do dia, BTC recupera para US$ 77,3 mil"
+        },
+        {
+          "title": "US$ 77.267",
+          "body": "Δ1h +0,46% · Δ24h −2,43% · vol 24h US$ 34,5 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Repique de duas velas após o mínimo de 24h, com o dia ainda em −2,4% · funding +0,007% e 61% dos posicionamentos em alta",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Entre 76,7 e 77,9 mil",
+          "body": "Mínimo de 24h a −0,8% · a zona de 77,9 mil, +0,8%, é onde a queda perde força",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-10-10h31",
       "date": "2026-09-10",
       "time": "10h31",
