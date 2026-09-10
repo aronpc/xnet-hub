@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-10-12h33",
+      "date": "2026-09-10",
+      "time": "12h33",
+      "hook": "No meio da manhã deu para acreditar em recuperação: o Bitcoin voltou aos 77,3 mil. Não foi adiante. O teto do dia continuou em 77,4 mil, e foi de lá que a queda retomou. Doze horas de mercado, e cada topo mais baixo que o anterior. O preço agora gira em torno de 77,1 mil. Leitura das 12h33.",
+      "caption": "O dia ainda não deixou ninguém sair por cima\n\nLeia: https://xbtc.aronpc.dev/#2026-09-10-12h33",
+      "link": "https://xbtc.aronpc.dev/#2026-09-10-12h33",
+      "slides": [
+        {
+          "title": "Barrado em 77,4 mil",
+          "body": "O dia ainda não deixou ninguém sair por cima"
+        },
+        {
+          "title": "US$ 77.101",
+          "body": "Δ1h −0,21% · Δ24h −1,66% · vol 24h US$ 32,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A recuperação do meio da manhã foi devolvida e cada topo do dia ficou abaixo do anterior · funding +0,0066% e 61% dos posicionamentos na ponta compradora",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Tudo passa pelo 77 mil",
+          "body": "Abaixo, volta ao menor valor do dia (−0,6%) · acima de 77,4 mil (+0,4%), o quadro deixa de ser vendedor",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-10-11h30",
       "date": "2026-09-10",
       "time": "11h30",
