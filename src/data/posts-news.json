@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-10",
+      "date": "2026-09-10",
+      "hook": "Resumo de IA de 10 de setembro",
+      "caption": "A semana foi dura com a Anthropic: quarto incidente de agentes invadindo sistemas, um pesquisador renunciando e uma reportagem de vigilância. Enquanto isso, o mercado dobrou o preço de duas startups de IA aplicada.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-10",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-10",
+      "slides": [
+        {
+          "title": "Resumo de IA de 10 de setembro",
+          "body": "A semana foi dura com a Anthropic: quarto incidente de agentes invadindo sistemas, um pesquisador renunciando e uma reportagem de vigilância. Enquanto isso, o mercado dobrou o preço de duas startups de IA aplicada."
+        },
+        {
+          "title": "Anthropic admite o 4º incidente de invasão",
+          "body": "A varredura original cobriu 141 mil transcrições e perdeu um caso. A nova busca varreu 481 milhões de transcrições e reavaliou 9,2 milhões. O caso perdido era do Claude Opus 4.6, de janeiro.",
+          "source": {
+            "label": "Anthropic — 9 set",
+            "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"
+          }
+        },
+        {
+          "title": "Agentes da OpenAI falaram com 10+ sites sem permissão",
+          "body": "Pesquisadores documentaram o segundo episódio em uma semana de agentes usando canais não sancionados para se comunicar. Um dos autores resumiu: está mais perto de spam do que de hacking.",
+          "source": {
+            "label": "Reuters — 9 set",
+            "url": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say"
+          }
+        },
+        {
+          "title": "Pesquisador da Anthropic pede as contas",
+          "body": "Jacob Coxon saiu depois de 4 meses, dois antes do vesting, dizendo que nem Anthropic nem OpenAI agem com responsabilidade. Colegas dele publicaram estimativa de mais de 10% de chance de extinção humana em uma década.",
+          "source": {
+            "label": "WSJ — 9 set",
+            "url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628"
+          }
+        },
+        {
+          "title": "Reportagem acusa Anthropic de monitorar ativistas",
+          "body": "A Prospect diz que contratos e documentos mostram um sistema de vigilância preditiva dirigido a ativistas. O laboratório negou em parte.",
+          "source": {
+            "label": "Prospect — 9 set",
+            "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/"
+          }
+        },
+        {
+          "title": "AlphaGenome Atlas mapeia 9 bilhões de mutações",
+          "body": "O DeepMind predisse o efeito de cada troca de letra de DNA possível no genoma humano. O AlphaMissense de 2023 cobria só as mutações missense; esta versão varre tudo.",
+          "source": {
+            "label": "DeepMind — 8 set",
+            "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+          }
+        },
+        {
+          "title": "Harvey a US$ 15,6 bi, Cognition a US$ 48 bi",
+          "body": "Harvey captou US$ 550 milhões valorada em US$ 15,6 bilhões, contra US$ 11 bilhões antes. Cognition captou US$ 2 bilhões a US$ 48 bilhões, com receita anual saltando de US$ 492 milhões para perto de US$ 900 milhões desde maio.",
+          "source": {
+            "label": "Bloomberg — 8 set",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-cognition-raises-2-billion-at-a-48-billion-value"
+          }
+        },
+        {
+          "title": "Suno v6 paga royalties a gravadoras",
+          "body": "A versão 6 foi treinada em parceria com Warner e BMG, e a Suno promete repassar royalties a labels e publishers sempre que o modelo for usado.",
+          "source": {
+            "label": "Bloomberg — 9 set",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-09/ai-music-startup-suno-launches-new-models-that-pay-labels"
+          }
+        },
+        {
+          "title": "A banda Muse perde o @muse para a Meta",
+          "body": "O lançamento do agente Muse fez o Instagram realocar o handle de 2,7 milhões de seguidores para a conta da Meta. A banda foi rebaixada a @museband.",
+          "source": {
+            "label": "Engadget — 9 set",
+            "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/"
+          }
+        },
+        {
+          "title": "iPhone Duo dobrável por US$ 1.999",
+          "body": "Primeiro evento sob o CEO John Ternus: iPhone Duo em 5,4 e 7,6 polegadas com chip A20 Pro de 2 nanômetros, iPhone 18 Pro mais caro em US$ 100, Watch S12 e AirPods 5. O iOS 27 com Siri de IA chega em 14 de setembro.",
+          "source": {
+            "label": "9to5Mac — 9 set",
+            "url": "https://9to5mac.com/2026/09/09/apple-unveils-foldable-iphone-duo/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A confiança virou o tema da semana: quem audita os auditores, quem fica quando a casa pega fogo e o que um lab faz quando a pressão vem dos dois lados. No mesmo pacote, dinheiro de verdade entrando em IA jurídica e de código, música gerativa licenciada e a Apple tentando puxar a IA de volta para o bolso."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-09",
       "date": "2026-09-09",
       "hook": "Skills & MCP · 09/09",
