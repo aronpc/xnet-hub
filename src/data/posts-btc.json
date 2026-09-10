@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-10-09h30",
+      "date": "2026-09-10",
+      "time": "09h30",
+      "hook": "A queda do Bitcoin completou sete horas seguidas e, pela primeira vez no dia, veio com volume: a hora das 9h negociou uma vez e meia mais do que qualquer fechamento anterior. O preço foi até US$ 77.718, o menor valor do dia. E a reação, até agora, não apareceu.",
+      "caption": "Sétimo fechamento seguido em queda, e dessa vez o volume veio junto\n\nLeia: https://xbtc.aronpc.dev/#2026-09-10-09h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-10-09h30",
+      "slides": [
+        {
+          "title": "Queda ganha volume e encosta no menor valor do dia",
+          "body": "Sétimo fechamento seguido em queda, e dessa vez o volume veio junto"
+        },
+        {
+          "title": "US$ 77.718",
+          "body": "Δ1h −0,34% · Δ24h −2,13% · vol 24h US$ 31,8 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço colado no mínimo de 24h (US$ 77,4 mil) · funding +0,009% · 60% das contas ainda na ponta compradora",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "77,4 e 78,1 mil",
+          "body": "O primeiro é o mínimo de 24h, a −0,4% · o segundo, +0,5% acima, é onde essa sequência mostraria cansaço",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-10-07h37",
       "date": "2026-09-10",
       "time": "07h37",
