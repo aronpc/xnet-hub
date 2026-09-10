@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-09-20h32",
+      "date": "2026-09-09",
+      "time": "20h32",
+      "hook": "A tarde inteira de venda e o preço não passou de 78 mil. Tentou duas vezes, recuou. O BTC devolveu uma fatia mínima da queda e fechou a primeira alta por hora desde que a descida começou. Não virou recuperação, mas a descida também não passou daí.",
+      "caption": "Dois ataques ao mesmo ponto e nenhum passou; variação de 1h voltou ao positivo\n\nLeia: https://xbtc.aronpc.dev/#2026-09-09-20h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-09-20h32",
+      "slides": [
+        {
+          "title": "O piso do dia aguentou duas investidas",
+          "body": "Dois ataques ao mesmo ponto e nenhum passou; variação de 1h voltou ao positivo"
+        },
+        {
+          "title": "US$ 78.135",
+          "body": "Δ1h +0,27% · Δ24h −0,40% · vol 24h US$ 34,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preso entre a mínima do dia e 78,6 mil, depois de recuar do teto de 79,8 mil · funding +0,004% e L/S 1,24: lado comprado leve, sem exagero nenhum",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Sair por 78,6 mil",
+          "body": "O piso de 78,0 mil (−0,5%) foi segurado duas vezes · o teto de 79,8 mil fica a +2,1%",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-09-17h32",
       "date": "2026-09-09",
       "time": "17h32",
