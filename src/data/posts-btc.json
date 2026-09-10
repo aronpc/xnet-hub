@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-10-14h51",
+      "date": "2026-09-10",
+      "time": "14h51",
+      "hook": "O meio-dia deixou o recado: acima de 77,4 mil, a força vendedora esmorecia. À tarde, o recado virou realidade. O Bitcoin defendeu o mínimo do dia na casa dos 76,7 mil e emendou cinco leituras de alta em sequência, até encostar na zona de 78,1 mil, que ainda não foi testada hoje. Falta volume nessa subida, e é isso que a próxima hora vai medir. Leitura das 14h51.",
+      "caption": "Cinco leituras de alta em sequência levaram o preço até a oferta de 78,1 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-09-10-14h51",
+      "link": "https://xbtc.aronpc.dev/#2026-09-10-14h51",
+      "slides": [
+        {
+          "title": "De volta à porta dos 78 mil",
+          "body": "Cinco leituras de alta em sequência levaram o preço até a oferta de 78,1 mil"
+        },
+        {
+          "title": "US$ 77.356",
+          "body": "Δ1h +0,1% · Δ24h −1,72% · vol 24h US$ 32,7 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A recuperação dos 76,7 mil avança com volume abaixo da média (560 contra 649 BTC por vela) · funding +0,0063%, com seis em dez posições na ponta compradora",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A oferta de 78,1 mil espera",
+          "body": "Mínimo do dia em 76,7 mil (−0,8%) · acima da zona de 78,1 mil (+1,0%), o dia ganha outro desenho",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-10-12h33",
       "date": "2026-09-10",
       "time": "12h33",
