@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-10-04h33",
+      "date": "2026-09-10",
+      "time": "04h33",
+      "hook": "Três fechamentos seguidos no vermelho e o preço parou a poucos dólares de 78 mil. Não houve pânico, nem volume gigante; só uma pressão constante que empurrou o BTC de volta pra banda de baixo. O sentimento, curiosamente, segue em ganância.",
+      "caption": "Terceiro fechamento por hora em queda, com o preço colado na linha de 78,0 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-09-10-04h33",
+      "link": "https://xbtc.aronpc.dev/#2026-09-10-04h33",
+      "slides": [
+        {
+          "title": "A pressão voltou e o preço encostou em 78 mil",
+          "body": "Terceiro fechamento por hora em queda, com o preço colado na linha de 78,0 mil"
+        },
+        {
+          "title": "US$ 78.043",
+          "body": "Δ1h −0,18% · Δ24h −1,54% · vol 24h US$ 33,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O preço desceu de 78,5 mil a 78,0 mil em três velas · funding +0,01% (neutro) e 60% das contas posicionadas na ponta compradora",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Colado na linha de 78,0 mil",
+          "body": "A faixa de 77,8 mil fica logo abaixo (−0,4%) · o topo recente de 78,5 mil está a +0,6%",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-09-20h32",
       "date": "2026-09-09",
       "time": "20h32",
