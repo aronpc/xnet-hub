@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-10",
+      "date": "2026-09-10",
+      "hook": "Skills e MCP de 10 de setembro",
+      "caption": "O harness virou o campo de batalha: Claude Code ganhou teto de esforço por modelo e hot-reload de plugins, o Codex adotou worktrees nativos, e MCP OAuth entrou na mira dos fixes de segurança.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-10",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-10",
+      "slides": [
+        {
+          "title": "Skills e MCP de 10 de setembro",
+          "body": "O harness virou o campo de batalha: Claude Code ganhou teto de esforço por modelo e hot-reload de plugins, o Codex adotou worktrees nativos, e MCP OAuth entrou na mira dos fixes de segurança."
+        },
+        {
+          "title": "v2.1.267: teto de esforço por modelo",
+          "body": "Nova setting maxEffortLevel, no topo ou por modelo, que limita o effort level inclusive em Bedrock, Vertex e Foundry. O usuário pode escolher menos. Veio também o system-prompt-snapshot off para iterar em prompt sem reaproveitar o gravado.",
+          "source": {
+            "label": "GitHub — release 267",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.267"
+          }
+        },
+        {
+          "title": "Pasta de plugins com hot-reload",
+          "body": "O plugin-dir virou pasta: cada subpasta com manifest carrega como plugin e mudanças em runtime são detectadas na hora. A 2.1.266 corrige a regressão que forçava Cloud-gateway em setups de proxy com BASE_URL e AUTH_TOKEN.",
+          "source": {
+            "label": "GitHub — release 266",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.266"
+          }
+        },
+        {
+          "title": "Codex 0.154.0: worktree por sessão",
+          "body": "Flag worktree cria checkout isolado para cada sessão nova ou fork. Dá para responder perguntas do agente enquanto ele continua trabalhando. GPT-6-Astra entrou no picker e no Bedrock.",
+          "source": {
+            "label": "GitHub — openai/codex",
+            "url": "https://github.com/openai/codex/releases/tag/rust-v0.154.0"
+          }
+        },
+        {
+          "title": "Enxurrada de fixes SSRF no MCP OAuth",
+          "body": "A 0.59 corrige SSRF na descoberta de metadata OAuth do MCP. As nightlies 0.61 isolam o diretório de settings em sandbox, mitigam nomes curtos NTFS 8.3 e passam a exigir proveniência de envelope para outputs de tools não confiáveis.",
+          "source": {
+            "label": "GitHub — gemini-cli",
+            "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.61.0-nightly.20260909.ged2ac40df"
+          }
+        },
+        {
+          "title": "Guardrails server-wide no SDK da OpenAI",
+          "body": "openai-agents-python 0.22.1 adiciona guardrails que valem para todas as tools de um servidor MCP, mensagens customizáveis de bloqueio e resultados de imagem no web search.",
+          "source": {
+            "label": "GitHub — openai-agents",
+            "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.22.1"
+          }
+        },
+        {
+          "title": "O documento honesto da Anthropic",
+          "body": "Post técnico detalhando os 4 incidentes de acesso não autorizado em evals de cibersegurança, a varredura de 481 milhões de transcrições e o papel do METR.",
+          "source": {
+            "label": "Anthropic — 9 set",
+            "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"
+          }
+        },
+        {
+          "title": "Google canoniza o harness engineering",
+          "body": "Post no blog de developers do Google estruturando como avaliar, iterar e proteger agentes de código, tratando harness engineering como disciplina formal.",
+          "source": {
+            "label": "Google Developers — 9 set",
+            "url": "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/"
+          }
+        },
+        {
+          "title": "A cauda longa do MCP migra pro desktop",
+          "body": "Mushrooms é MCP pessoal para 2.500 apps. davinci-resolve-mcp integra o Studio de vídeo. computer-use-mcp em Rust controla desktop em Windows e macOS. E macula-mcp monta mesh P2P entre agentes.",
+          "source": {
+            "label": "GitHub — davinci-resolve-mcp",
+            "url": "https://github.com/samuelgursky/davinci-resolve-mcp"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O harness consolidou o posto de campo de batalha: esforço com teto, plugin com reload, worktree por sessão e guardrail por servidor. Em paralelo, o MCP ganhou modelo de ameaça próprio e a cauda longa foi controlar desktop. A diferença entre os CLIs agora está na ergonomia do ciclo de desenvolvimento, não no modelo."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-10",
       "date": "2026-09-10",
       "hook": "Projetos e repos de 10 de setembro",
