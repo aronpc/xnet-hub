@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-10-07h37",
+      "date": "2026-09-10",
+      "time": "07h37",
+      "hook": "Cinco horas segurando a faixa dos 78 mil e o preço não conseguiu mais: o primeiro fechamento da manhã veio abaixo da linha, em 77.956. Sem susto e sem volume fora do normal, só o deslize que se arrasta desde ontem.",
+      "caption": "Primeiro fechamento por hora abaixo de 78,0 mil, depois de cinco velas de defesa\n\nLeia: https://xbtc.aronpc.dev/#2026-09-10-07h37",
+      "link": "https://xbtc.aronpc.dev/#2026-09-10-07h37",
+      "slides": [
+        {
+          "title": "A faixa dos 78 mil cedeu de manhã",
+          "body": "Primeiro fechamento por hora abaixo de 78,0 mil, depois de cinco velas de defesa"
+        },
+        {
+          "title": "US$ 77.956",
+          "body": "Δ1h −0,28% · Δ24h −1,44% · vol 24h US$ 32,4 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O degrau de 78,0 a 78,2 mil resistiu cinco velas e acabou de ser perdido · funding +0,01% (neutro) e 60% das contas ainda na ponta compradora",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "77,8 mil é o número da vez",
+          "body": "A faixa mais baixa do dia está a −0,2%; fechar acima de 78,1 mil (+0,2%) devolve o preço ao degrau de 78,2 a 78,4 mil",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-10-04h33",
       "date": "2026-09-10",
       "time": "04h33",
