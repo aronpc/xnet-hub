@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-11-01h34",
+      "date": "2026-09-11",
+      "time": "01h34",
+      "hook": "A quinta-feira terminou com a mínima renovada em 76.464 e clima pesado. A madrugada mudou o tom. Três leituras horárias em alta levaram o Bitcoin de volta aos 77,1 mil, e a pressão vendedora que dominou a noite passou a perder força. O balanço de 24h ainda é negativo, de 1,55%, mas a fila de queda se dispersou.",
+      "caption": "Quase 700 dólares recuperados desde a mínima de 76.464, ainda dentro do canal do dia\n\nLeia: https://xbtc.aronpc.dev/#2026-09-11-01h34",
+      "link": "https://xbtc.aronpc.dev/#2026-09-11-01h34",
+      "slides": [
+        {
+          "title": "A madrugada interrompeu a queda",
+          "body": "Quase 700 dólares recuperados desde a mínima de 76.464, ainda dentro do canal do dia"
+        },
+        {
+          "title": "US$ 77.161",
+          "body": "Δ1h +0,49% · Δ24h −1,55% · vol 24h US$ 30,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço no meio do canal de 76,5 a 78,5 mil: a noite devolveu algum ânimo, mas o jogo ainda não virou · funding +0,009% e 62% do mercado posicionado para alta, sem exagero",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Quem decide é o canal de 76,5 a 78,5 mil",
+          "body": "Ultrapassar 77,5 mil aponta ao teto de 78,5 mil (+1,7%) · ceder 76,8 mil reabre o caminho até a base de 76,5 mil (−0,9%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-10-20h34",
       "date": "2026-09-10",
       "time": "20h34",
