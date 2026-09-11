@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-11-15h30",
+      "date": "2026-09-11",
+      "time": "15h30",
+      "hook": "Pela manhã o Bitcoin passou dos 78 mil e chegou a rondar 79,9 mil, puxado por um volume oito vezes acima do normal. Tudo isso já foi embora. O preço roda em 77,2 mil, quase exatamente o mesmo de ontem a esta hora. Na última hora, queda de 0,84%.",
+      "caption": "Leitura das 15h30: 77,2 mil, no meio do corredor de 76,0 a 79,9 mil que segura desde o começo do dia\n\nLeia: https://xbtc.aronpc.dev/#2026-09-11-15h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-11-15h30",
+      "slides": [
+        {
+          "title": "Toda a ida e volta do dia, e nada mudou",
+          "body": "Leitura das 15h30: 77,2 mil, no meio do corredor de 76,0 a 79,9 mil que segura desde o começo do dia"
+        },
+        {
+          "title": "US$ 77.175",
+          "body": "Δ1h -0,84% · Δ24h +0,16% · vol 24h US$ 34,8 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Pico da manhã barrado em 79,9 mil; o preço voltou ao centro do corredor de 76 a 80 mil · Smart Money: funding +0,0021% + L/S 1,48",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Os dois lados do corredor",
+          "body": "Acima de 78,0 mil (+1,1%), caminho aberto até o topo do dia em 79,9 mil · Abaixo de 76,9 mil (−0,4%), a mínima do dia é 76,0 mil",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-11-13h31",
       "date": "2026-09-11",
       "time": "13h31",
