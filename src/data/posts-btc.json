@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-10-20h34",
+      "date": "2026-09-10",
+      "time": "20h34",
+      "hook": "A tarde ainda animou: cinco leituras seguidas de alta levaram o preço à vizinhança dos 78 mil. Durou pouco. À noite o Bitcoin renovou a mínima do dia em 76.464, abaixo até do susto das 9h da manhã, e opera a 76,7 mil na leitura das 20h34. O detalhe curioso vem do sentimento: o índice de medo e ganância marca 69, ainda otimista, enquanto o gráfico desce.",
+      "caption": "Mínima do dia renovada em 76.464 e o preço de volta à casa dos 76,7 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-09-10-20h34",
+      "link": "https://xbtc.aronpc.dev/#2026-09-10-20h34",
+      "slides": [
+        {
+          "title": "A alta da tarde foi aluguel",
+          "body": "Mínima do dia renovada em 76.464 e o preço de volta à casa dos 76,7 mil"
+        },
+        {
+          "title": "US$ 76.726",
+          "body": "Δ1h −0,49% · Δ24h −1,87% · vol 24h US$ 30,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Topo das últimas 24h rejeitado em 78.564 e mínima renovada no fim do dia · funding +0,0041%, com 61% das contas ainda posicionadas na ponta compradora",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A mínima do dia à prova",
+          "body": "76.464 é o piso em teste (−0,3%) · recuperar 77.150 (+0,6%) diminui a pressão do momento",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-10-14h51",
       "date": "2026-09-10",
       "time": "14h51",
