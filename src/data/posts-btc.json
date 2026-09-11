@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-11-10h31",
+      "date": "2026-09-11",
+      "time": "10h31",
+      "hook": "O Bitcoin passou dos 78 mil pela primeira vez no dia e não ficou. A vela das 9h encostou em 78.149 e fechou de volta abaixo, e as duas horas seguintes foram perdendo altura devagar. O preço agora roda em 77,5 mil, colado no teto do dia, sem força para atravessar de vez.",
+      "caption": "Máxima do dia em 78.149 durou uma vela; preço segue a 0,8% do topo\n\nLeia: https://xbtc.aronpc.dev/#2026-09-11-10h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-11-10h31",
+      "slides": [
+        {
+          "title": "78 mil apareceu e não sustentou",
+          "body": "Máxima do dia em 78.149 durou uma vela; preço segue a 0,8% do topo"
+        },
+        {
+          "title": "US$ 77.528",
+          "body": "Δ1h +0,69% · Δ24h +0,80% · vol 24h US$ 29,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Toque em 78.149 devolvido e dois closes em queda desde lá; o dia inteiro transcorreu entre 76,0 e 78,1 mil · Funding +0,0055%, e 61% das contas posicionadas para alta",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A hora que passar de 78.150 muda o dia",
+          "body": "Acima disso, caminho livre até 79 mil · Abaixo de 77 mil, o preço volta ao baixo do range, em 76,5 · Mínima de 24h a 2,0%, máxima a 0,8%",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-11-09h30",
       "date": "2026-09-11",
       "time": "09h30",
