@@ -2,6 +2,69 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-11",
+      "date": "2026-09-11",
+      "hook": "A camada de qualidade amadurece",
+      "caption": "Edição de 11 de setembro de 2026. Release do Claude Code que o gateway precisava, auditoria estática dedicada a MCP server e grader de primitives. No lado de skills, visualização segue puxando a tração.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-11",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-11",
+      "slides": [
+        {
+          "title": "A camada de qualidade amadurece",
+          "body": "Edição de 11 de setembro de 2026. Release do Claude Code que o gateway precisava, auditoria estática dedicada a MCP server e grader de primitives. No lado de skills, visualização segue puxando a tração."
+        },
+        {
+          "title": "v2.1.268: preços reais no gateway",
+          "body": "A release traz pricing no gateway.yaml para o /cost refletir gasto real em endpoints próprios, além de gatewayInternalNetworks para login em bloco IPv4 público e flags novas de runner e plugins. Corrige o HTTP 400 que quebrava endpoints Anthropic-compatíveis desde a 2.1.265, o WebFetch travado e um busy loop que prendia um núcleo de CPU em sessão ociosa.",
+          "source": {
+            "label": "CHANGELOG, 11 set",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "Skill de cena 3D passa de 140 estrelas em 24h",
+          "body": "O 3dviz-pro-max transforma uma ideia em cena Three.js ou Blender explorável. Fechou o primeiro dia como a skill nova com mais tração da semana.",
+          "source": "github.com/viettranx/3dviz-pro-max"
+        },
+        {
+          "title": "SAST feito para MCP server",
+          "body": "O Viperstrike roda análise AST nos handlers de tools de um MCP server procurando padrões de vulnerabilidade, antes de o agente expor a ferramenta.",
+          "source": "github.com/5h4d0wn1k/viperstrike"
+        },
+        {
+          "title": "Segurar o agente um passo antes do Enter",
+          "body": "O Castra intercepta o momento de execução do agente e aplica o passo de verificação que ele costuma pular. Não troca modelo nem workflow.",
+          "source": "github.com/beyondworks/castra"
+        },
+        {
+          "title": "Ler paper sem queimar o contexto",
+          "body": "MCP server local para leitura de PDF, DOCX e PPTX em modo evidence-first: prioriza o que extrair antes de paginar o arquivo inteiro.",
+          "source": "github.com/liuyuze1012-code/paper-reader-mcp"
+        },
+        {
+          "title": "Nota de A a F para MCP servers",
+          "body": "CLI sem dependências que avalia e gradua os primitives de prompts e resources expostos por um server. Continuação natural do MCP Rating, que tinha achado só 65 de 182 servers saudáveis.",
+          "source": "github.com/shriramkv/mcp-prompts-resources"
+        },
+        {
+          "title": "291 cards de engenharia de LLM",
+          "body": "Base de conhecimento open source que vai de attention a produção, com trilha de 36 cards para onboarding. Formato pensado para consulta por agente e por humano.",
+          "source": "github.com/weicyang/llm-eng-cards"
+        },
+        {
+          "title": "Codex em ritmo de alpha diário",
+          "body": "A OpenAI publicou dois alphas do Codex no mesmo dia, 0.155.0-alpha.3 e 0.154.0-alpha.6.2, além do SDK Python no dia anterior. A cadência de um release a cada dois dias se mantém desde agosto.",
+          "source": {
+            "label": "GitHub releases",
+            "url": "https://github.com/openai/codex/releases"
+          }
+        },
+        {
+          "title": "A festa virou auditoria",
+          "body": "Skills explodindo em nichos novos, e em volta delas uma camada de controle se formando: SAST para server, grader de primitives, verificação antes da execução. O ecossistema MCP entrou na fase de crescer para dentro."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-11",
       "date": "2026-09-11",
       "hook": "Ver o que o agente pode tocar",
