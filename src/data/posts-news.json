@@ -2,6 +2,72 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-11",
+      "date": "2026-09-11",
+      "hook": "Ver o que o agente pode tocar",
+      "caption": "Edição de 11 de setembro de 2026. A pauta de projetos e repos ficou dominada por governança e observabilidade de agentes: mapear permissões, segurar a execução um passo antes e medir harness de código com número público.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-11",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-11",
+      "slides": [
+        {
+          "title": "Ver o que o agente pode tocar",
+          "body": "Edição de 11 de setembro de 2026. A pauta de projetos e repos ficou dominada por governança e observabilidade de agentes: mapear permissões, segurar a execução um passo antes e medir harness de código com número público."
+        },
+        {
+          "title": "Geiger: raio-X dos agentes locais",
+          "body": "Open-source que mapeia os agentes rodando na máquina, as permissões de cada um e as superfícies que podem tocar.",
+          "source": "github.com/Atomburstofficial/geiger"
+        },
+        {
+          "title": "Shopify compra a Tailwind Labs",
+          "body": "A aquisição foi anunciada dias depois de o Tailwind demitir 3 de 4 engenheiros, citando queda de tráfego de documentação causada por IA. O framework segue open source.",
+          "source": {
+            "label": "Analytics India Mag, 09 set",
+            "url": "https://analyticsindiamag.com/ai-news/tailwind-joins-shopify-will-remain-open-source"
+          }
+        },
+        {
+          "title": "Workstation Linux com 192 GB de VRAM",
+          "body": "A System76 lançou a Thelio Mira AI, voltada a inferência e fine-tuning local, com 192 GB de memória de GPU para rodar modelos de centenas de bilhões de parâmetros em casa.",
+          "source": "system76.com/workstations/thelio-mira-ai"
+        },
+        {
+          "title": "Code intelligence dedicada com número público",
+          "body": "A Benzi publicou uma página de benchmark comparável em que o pipeline com índice incremental supera o Claude Code em velocidade e custo por tarefa.",
+          "source": "benzi.fly.dev/benchmark"
+        },
+        {
+          "title": "Simulação para validar agentes de voz",
+          "body": "Infraestrutura open source para criar cenários de teste simulados: telefonia, latência, interrupções. Serve para validar o agente antes da primeira chamada real.",
+          "source": "github.com/egma-ai/egma"
+        },
+        {
+          "title": "Cartões de contexto cortam código inseguro em 72%",
+          "body": "A Reware Labs publica cartões injetados no prompt que derrubaram o código vulnerável em 72% nos testes internos. Baratos, auditáveis e independentes de modelo.",
+          "source": {
+            "label": "Reware Labs, 10 set",
+            "url": "https://www.rewarelabs.com/blog/introducing-security-cards/"
+          }
+        },
+        {
+          "title": "Claude Code, Codex e Gemini no mesmo time",
+          "body": "O Castforge distribui tarefas entre os três agentes por papel, com um revisando o que o outro escreveu.",
+          "source": "castforge.ai"
+        },
+        {
+          "title": "PAT vazado virou takeover no GitHub",
+          "body": "Write-up da Strix documenta como um token exposto no Harbor deu acesso admin ao GitHub da Baseten durante um piloto comercial de inferência.",
+          "source": {
+            "label": "Strix, 10 set",
+            "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover"
+          }
+        },
+        {
+          "title": "A camada de controle chegou",
+          "body": "A semana do agente autônomo ficou para trás. O que está saindo agora é ferramenta para enxergar permissões, simular antes de rodar e conter o estrago quando a integração vaza. Confiança virou produto."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-11",
       "date": "2026-09-11",
       "hook": "O gargalo virou manchete",
