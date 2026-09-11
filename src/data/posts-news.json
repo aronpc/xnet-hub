@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-11",
+      "date": "2026-09-11",
+      "hook": "O gargalo virou manchete",
+      "caption": "Edição de 11 de setembro de 2026. Plano topo de linha racionado, memória de alta banda encarecendo chips dos dois lados do Pacífico e o laboratório que puxou a corrida perguntando ao Congresso se pode desacelerar.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-11",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-11",
+      "slides": [
+        {
+          "title": "O gargalo virou manchete",
+          "body": "Edição de 11 de setembro de 2026. Plano topo de linha racionado, memória de alta banda encarecendo chips dos dois lados do Pacífico e o laboratório que puxou a corrida perguntando ao Congresso se pode desacelerar."
+        },
+        {
+          "title": "A OpenAI perguntou ao Congresso se pode desacelerar",
+          "body": "Sam Altman disse a funcionários que a empresa avalia frear o desenvolvimento de modelos de ponta, e espera que outros labs façam o mesmo. Segundo a Wired, a OpenAI chegou a pedir orientação a membros do Congresso: combinar um slowdown setorial seria legal sob a lei antitruste?",
+          "source": {
+            "label": "Bloomberg, 11 set",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff"
+          }
+        },
+        {
+          "title": "ChatGPT Pro esgotou a esteira",
+          "body": "A OpenAI pausou novas assinaturas do plano Pro, de 200 dólares por mês, e do plano 20x. Contas existentes, os demais planos e a API seguem normais. Motivo declarado: capacidade de inferência esgotada pela demanda do GPT-6 Astra.",
+          "source": {
+            "label": "X, 10 set",
+            "url": "https://x.com/thsottiaux/status/2098113585683808624"
+          }
+        },
+        {
+          "title": "O relatório de ameaças que a Anthropic publicou",
+          "body": "O Threat Intelligence Report de setembro detalha os casos disruptados no ano: cientistas usando Claude em pesquisa que poderia ajudar armas biológicas, além de campanhas de vigilância, cyber e influência.",
+          "source": {
+            "label": "Anthropic, 10 set",
+            "url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
+          }
+        },
+        {
+          "title": "DeepSeek V4.1-Flash muda de arquitetura",
+          "body": "Lançamento oficial confirmado pela Reuters: 552 bilhões de parâmetros de backbone e janela de 1 milhão de tokens, na arquitetura Causal Encoder-Decoder. É o menor modelo da nova família.",
+          "source": {
+            "label": "Reuters, 10 set",
+            "url": "https://www.reuters.com/world/asia-pacific/chinas-deepseek-launches-v41-flash-model-2026-09-10/"
+          }
+        },
+        {
+          "title": "Especialista em coding passa os generalistas",
+          "body": "O SWE-2, da Cognition, marcou 92,8 no Terminal-Bench 2.1, o benchmark de trabalho real em terminal. Fica à frente dos modelos de fronteira gerais.",
+          "source": {
+            "label": "Tokenstead",
+            "url": "https://tokenstead.ai/models/swe-2"
+          }
+        },
+        {
+          "title": "Visa, Mastercard e Ant criam padrão de pagamento para agentes",
+          "body": "As três companhias anunciaram um padrão comum para transações feitas por agentes de IA. A projeção citada é da McKinsey: 3 a 5 trilhões de dólares em comércio agêntico até 2030.",
+          "source": {
+            "label": "CNBC, 10 set",
+            "url": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html"
+          }
+        },
+        {
+          "title": "Só 4% das startups da YC têm app nativo",
+          "body": "Análise da Bloomberg sobre o batch de 2026 da Y Combinator: 4% têm aplicativo mobile nativo. Em 2013 eram 15%. Os fundadores priorizam IA e agentes.",
+          "source": {
+            "label": "Bloomberg, 10 set",
+            "url": "https://www.bloomberg.com/opinion/articles/2026-09-10/ai-is-killing-the-app-economy-and-building-its-successor"
+          }
+        },
+        {
+          "title": "Pesquisadores de segurança seguem saindo",
+          "body": "A NBC News documenta saídas de pesquisadores de segurança na Anthropic e no Google, citando ausência de freios reais. Na mesma onda, a Wired publica entrevista com Jacob Coxon pedindo coordenação internacional contra auto-melhoria recursiva.",
+          "source": {
+            "label": "NBC News, 10 set",
+            "url": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086"
+          }
+        },
+        {
+          "title": "Compute voltou a ser o limite",
+          "body": "Inferência racionada no plano topo, memória de alta banda encarecendo chips nos dois lados do Pacífico, e o laboratório líder pedindo permissão para desacelerar. A corrida de modelos esbarrou no mesmo gargalo de sempre: capacidade. Quem tiver infra sobrando dita o ritmo daqui pra frente."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-10",
       "date": "2026-09-10",
       "hook": "Skills e MCP de 10 de setembro",
