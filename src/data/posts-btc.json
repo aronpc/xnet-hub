@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-11-08h30",
+      "date": "2026-09-11",
+      "time": "08h30",
+      "hook": "A madrugada ainda tinha levado o Bitcoin a 77,3 mil. A manhã apagou quase tudo: cada topo horário saiu mais baixo que o anterior, e o preço voltou ao chão do dia, a 76,8 mil. O volume está pela metade do ritmo usual, o que ajuda a explicar um movimento tão manso. Em 24h, a perda é de 1,47%.",
+      "caption": "Preço encostou na banda de baixo do dia, com volume a 0,4 vez a média\n\nLeia: https://xbtc.aronpc.dev/#2026-09-11-08h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-11-08h30",
+      "slides": [
+        {
+          "title": "De volta ao chão do dia",
+          "body": "Preço encostou na banda de baixo do dia, com volume a 0,4 vez a média"
+        },
+        {
+          "title": "US$ 76.834",
+          "body": "Δ1h −0,23% · Δ24h −1,47% · vol 24h US$ 28,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Cada rebate sai mais barato desde 77,4 mil, e o ritmo fraco de negócios não sustenta virada · funding +0,002%, quase neutro, e 61% do dinheiro posicionado para alta",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "O dia se decide na linha de 76,5 mil",
+          "body": "76.500 é a mínima de 24h, a 0,4% do preço atual · 77.400 fecha a janela por cima, a 0,7%",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-11-01h34",
       "date": "2026-09-11",
       "time": "01h34",
