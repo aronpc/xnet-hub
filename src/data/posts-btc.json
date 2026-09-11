@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-11-09h30",
+      "date": "2026-09-11",
+      "time": "09h30",
+      "hook": "A vela das 9h derrubou o Bitcoin até 76,4 mil com um volume 2,7 vezes o normal da hora. A resposta veio rápido: antes de fechar a própria hora, o preço já tinha sido recomprado e voltava a 77 mil. Depois de uma manhã de queda lenta, a venda forte encontrou comprador.",
+      "caption": "Movimento com volume 2,7 vezes o normal foi absorvido, e o preço voltou ao meio da faixa do dia\n\nLeia: https://xbtc.aronpc.dev/#2026-09-11-09h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-11-09h30",
+      "slides": [
+        {
+          "title": "A queda das 9h durou menos que uma hora",
+          "body": "Movimento com volume 2,7 vezes o normal foi absorvido, e o preço voltou ao meio da faixa do dia"
+        },
+        {
+          "title": "US$ 76.994",
+          "body": "Δ1h +0,21% · Δ24h −1,0% · vol 24h US$ 28,5 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Queda brusca recomprada na mesma vela deixou o preço no meio da faixa, de 76,4 a 77,5 mil · Funding +0,003%, neutro, e 62% do dinheiro posicionado para alta",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A faixa de 76,4 a 77,5 mil continua decidindo o dia",
+          "body": "77.500 é a máxima de 24h, a 0,7% do preço · 76.400 é a mínima, a 0,8%",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-11-08h30",
       "date": "2026-09-11",
       "time": "08h30",
