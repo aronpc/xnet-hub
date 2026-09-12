@@ -2,6 +2,76 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-12",
+      "date": "2026-09-12",
+      "hook": "Projetos e repos, 12 de setembro",
+      "caption": "Semana de correção de hype: benchmark independente freando promessa de economia de tokens, um agente de codificação inteiro num único arquivo e uma enxurrada de rodadas em energia e chips. Sete paradas.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-12",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-12",
+      "slides": [
+        {
+          "title": "Projetos e repos, 12 de setembro",
+          "body": "Semana de correção de hype: benchmark independente freando promessa de economia de tokens, um agente de codificação inteiro num único arquivo e uma enxurrada de rodadas em energia e chips. Sete paradas."
+        },
+        {
+          "title": "YuE2 planeja a música antes de sintetizar",
+          "body": "O modelo aberto monta um plano simbólico da composição antes de gerar o áudio. Saiu com página de projeto, demo e discussão quente no Hacker News.",
+          "source": {
+            "label": "Página do projeto",
+            "url": "https://map-yue2.github.io/"
+          }
+        },
+        {
+          "title": "Fundadores acusam o Google de copiar sem crédito",
+          "body": "O post \"I expected better from Google\" alega que o projeto Artemis incorporou código do Minitap sem creditar os autores.",
+          "source": {
+            "label": "Minitap, 12 set",
+            "url": "https://www.minitap.ai/blog/i-expected-better-from-google"
+          }
+        },
+        {
+          "title": "RTK promete economizar token. O número diz que não",
+          "body": "A Quesma publicou benchmark próprio que contradiz as alegações de economia de custo do RTK em coding agents.",
+          "source": {
+            "label": "Quesma, 11 set",
+            "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/"
+          }
+        },
+        {
+          "title": "Arlequin AI: 28 milhões de euros em redes topológicas",
+          "body": "A startup parisiense captou Series A co-liderada por redalpine e OTB para escalar redes neurais topológicas proprietárias.",
+          "source": {
+            "label": "Tech.eu, 10 set",
+            "url": "https://tech.eu/2026/09/10/arlequin-ai-lands-eur28m-to-scale-topological-neural-network-technology/"
+          }
+        },
+        {
+          "title": "Testar modelo virou negócio de unicórnio na China",
+          "body": "A Alibaba liderou rodada de 300 milhões de dólares na UniPat AI, startup de avaliação e testes de modelos fundada por ex-Alibaba, a valuation de 2,5 bilhões.",
+          "source": {
+            "label": "Bloomberg, 10 set",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-10/alibaba-backs-ex-staffer-s-ai-testing-lab-at-2-5-billion-value"
+          }
+        },
+        {
+          "title": "Enflame estreia +188% em Xangai",
+          "body": "O IPO da fabricante chinesa de chips de IA, apoiada pelo Tencent, captou cerca de 910 milhões de dólares e as ações saltaram 188% no debut, a market cap de 26,3 bilhões.",
+          "source": {
+            "label": "SCMP, 10 set",
+            "url": "https://www.scmp.com/tech/tech-trends/article/3367124/enflame-shares-soar-188-shanghai-debut-nvidia-challenger-taps-investor-fever-ai"
+          }
+        },
+        {
+          "title": "autocode: o agente que se reescreve, num arquivo só",
+          "body": "Projeto open source de agente de codificação que muta o próprio código: 1 arquivo, 1 tool, só a stdlib da linguagem. Nasceu há dois dias.",
+          "source": "github.com/empero-org/autocode"
+        },
+        {
+          "title": "O dinheiro foi pra infra, a lição veio do benchmark",
+          "body": "As rodadas da semana foram quase todas em energia off-grid, interconexão óptica e chips. Já o sinal mais útil veio da Quesma derrubando promessa de economia com número independente. Entre o agente de 1 arquivo e as plataformas de toneladas de features, o espaço no meio ficou mais interessante pra quem constrói."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-12",
       "date": "2026-09-12",
       "hook": "Panorama IA, 12 de setembro",
