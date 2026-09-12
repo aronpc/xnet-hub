@@ -2,6 +2,82 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-12",
+      "date": "2026-09-12",
+      "hook": "Skills e MCP, 12 de setembro",
+      "caption": "A semana mais acionável do mês pra quem escreve skill e roda frota de agentes: eval passou a comando nativo do Claude Code, os limites mudam dia 14 e a camada de operação multi-host amadureceu. Dez paradas.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-12",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-12",
+      "slides": [
+        {
+          "title": "Skills e MCP, 12 de setembro",
+          "body": "A semana mais acionável do mês pra quem escreve skill e roda frota de agentes: eval passou a comando nativo do Claude Code, os limites mudam dia 14 e a camada de operação multi-host amadureceu. Dez paradas."
+        },
+        {
+          "title": "claude plugin eval: score reproduzível pra skill",
+          "body": "A versão 2.1.269 traz comando nativo que roda a suite de evals de um plugin contra o Claude Code, com relatório em JSON e HTML. Chega também o /output-style, pra listar e alternar estilos de saída.",
+          "source": {
+            "label": "Release notes",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.269"
+          }
+        },
+        {
+          "title": "Limites semanais assentam dia 14",
+          "body": "A partir de 14 de setembro os weekly limits ficam 25% acima do baseline de maio, o que ainda é 17% abaixo dos níveis atuais.",
+          "source": {
+            "label": "AITools Recap, 12 set",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-september-12-2026"
+          }
+        },
+        {
+          "title": "Gemini CLI fecha injeção via build file",
+          "body": "O nightly de 12 de setembro previne prompt injection indireta por modificação de build files e flags não confiáveis, e isola as fronteiras de filesystem no sandbox.",
+          "source": {
+            "label": "gemini-cli nightly",
+            "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.61.0-nightly.20260912.g9c1b0a610"
+          }
+        },
+        {
+          "title": "html-diagram: o diagrama que edita a si mesmo",
+          "body": "Skill do Claude Code que gera diagramas técnicos em HTML editável: o documento produzido funciona como editor de si mesmo.",
+          "source": "github.com/tonywjs/html-diagram"
+        },
+        {
+          "title": "openeval: SDK tipado de prompt and judge",
+          "body": "SDK, CLI e viewer de evidências pra avaliação de agentes, com prompts e juízes estruturados, agnóstico de runtime.",
+          "source": "github.com/Hona/openeval"
+        },
+        {
+          "title": "Exportar histórico de chat de 3 ferramentas",
+          "body": "Extrator open source de histórico de conversas do Claude Code, Cursor e Windsurf, num formato só.",
+          "source": "github.com/kruzovic7/ai-data-extractor"
+        },
+        {
+          "title": "ClaudeStatsBar mostra o custo do próximo turno",
+          "body": "Barra de status do Claude Code que informa o tamanho da sessão, tipo 486k de contexto, e estima o custo do próximo turno antes de você digitar.",
+          "source": "github.com/Field-Logic-Ltd/ClaudeStatsBar"
+        },
+        {
+          "title": "distill: trabalho aceito vira skill",
+          "body": "Ferramenta que transforma diffs e decisões aceitas em skills concisas, com workflow confirmado por humano e qualidade verificável.",
+          "source": "github.com/boaz-hwang/distill"
+        },
+        {
+          "title": "flotilla-mcp: SSH multi-server com circuit breaker",
+          "body": "Servidor MCP pra operar várias máquinas por SSH: execução rolling em fan-out, circuit breakers, diff entre hosts e políticas.",
+          "source": "github.com/paipaiio/flotilla-mcp"
+        },
+        {
+          "title": "Ridge: agente enxerga além do diretório de trabalho",
+          "body": "Bridge open source que dá acesso uniforme a filesystem local, máquinas remotas por SSH, containers Docker e buckets S3.",
+          "source": "github.com/vasinov/ridge-core"
+        },
+        {
+          "title": "Eval passou a engenharia, frota passou a produto",
+          "body": "Duas frentes amadureceram juntas. Avaliação saiu do improviso, com comando nativo no Claude Code e SDKs tipados de terceiros. A operação de máquinas e recursos pelo agente ganhou circuit breaker, versionamento com reversão e abstração uniforme. Quem escreve skill hoje já pode medir o que publica."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-12",
       "date": "2026-09-12",
       "hook": "Projetos e repos, 12 de setembro",
