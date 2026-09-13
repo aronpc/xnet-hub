@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-13",
+      "date": "2026-09-13",
+      "hook": "Projetos IA · 13 de setembro",
+      "caption": "Ferramentas de precisão para quem trabalha com agentes: compilador como fonte de verdade, mapa de arquitetura antes do diff, terminal repensado para sessões de agente e calibração de incerteza no hot path.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-13",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-13",
+      "slides": [
+        {
+          "title": "Projetos IA · 13 de setembro",
+          "body": "Ferramentas de precisão para quem trabalha com agentes: compilador como fonte de verdade, mapa de arquitetura antes do diff, terminal repensado para sessões de agente e calibração de incerteza no hot path."
+        },
+        {
+          "title": "Find Usages sem alucinação",
+          "body": "O Graphify C# usa o compilador Roslyn para responder onde um símbolo é usado, com exatidão semântica. É feito para coding agents, que são os que mais alucinam referência em código grande.",
+          "source": "github.com/zachsaw/graphify-csharp"
+        },
+        {
+          "title": "gpty: multiplexer em Godot e Rust",
+          "body": "Multiplexer de terminal com panes e mais, com a UI construída em Godot sobre um núcleo em Rust. Foi o Show HN mais votado da janela.",
+          "source": "github.com/godot-pty/gpty"
+        },
+        {
+          "title": "birdview: mapa antes do diff",
+          "body": "CLI que gera um mapa da arquitetura do repo antes de o agente tocar no código. O lema do projeto resume a intenção: pare de deixar a IA programar às cegas.",
+          "source": "github.com/Qiuner/birdview"
+        },
+        {
+          "title": "Baize: agent CLI chinês com skills",
+          "body": "Coding agent open-source multi-backend, que aceita DeepSeek, APIs compatíveis com OpenAI e Ollama local, com tool-calling, carregamento de skills, delegação para subagentes, compressão de contexto e sandbox de segurança.",
+          "source": "github.com/Xu123-Bob/Baize"
+        },
+        {
+          "title": "Enxame de agentes contra conjectura",
+          "body": "A provetogether ataca problemas abertos da matemática com swarms de agentes. A primeira parada é a conjectura de Berge-Fulkerson, com Show HN no dia 12.",
+          "source": "provetogether.ai"
+        },
+        {
+          "title": "Atropelados pelo foundation model",
+          "body": "Uma startup construiu um agente local-first no Android, e foi atropelada pelo lançamento do Muse, da Meta. O post-mortem está no ar, com datas e narrativa de dentro.",
+          "source": "creepy.im"
+        },
+        {
+          "title": "Saber quando o modelo não sabe",
+          "body": "A Spanda é uma biblioteca Rust que mede incerteza epistêmica de LLM em sub-microssegundo, sem custo perceptível de latência.",
+          "source": "github.com/Adarshent/Spnda"
+        },
+        {
+          "title": "hnslop: filtro de texto de LLM",
+          "body": "Extensão de navegador que marca e filtra texto gerado por IA na web, começando pelo Hacker News.",
+          "source": "hnslop.nilsherzig.com"
+        },
+        {
+          "title": "Precisão virou o produto",
+          "body": "A geração de wrappers cedeu lugar a ferramentas que atacam falha concreta do agente: referência alucinada, contexto ausente, terminal apertado, incerteza ignorada. E o filtro de slop mostra que o mercado já reage ao excesso de conteúdo sintético."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-13",
       "date": "2026-09-13",
       "hook": "Panorama IA · 13 de setembro",
