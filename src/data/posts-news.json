@@ -2,6 +2,75 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-13",
+      "date": "2026-09-13",
+      "hook": "Panorama IA · 13 de setembro",
+      "caption": "A semana do freio: Amodei e Altman disseram, cada um do seu lado, que dá para desacelerar a fronteira. A comunidade tech respondeu com piada, e um paper do Bengio deu lastro científico à conversa.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-13",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-13",
+      "slides": [
+        {
+          "title": "Panorama IA · 13 de setembro",
+          "body": "A semana do freio: Amodei e Altman disseram, cada um do seu lado, que dá para desacelerar a fronteira. A comunidade tech respondeu com piada, e um paper do Bengio deu lastro científico à conversa."
+        },
+        {
+          "title": "Amodei propõe pisar no freio",
+          "body": "O CEO da Anthropic publicou um plano de 3 passos para reduzir o ritmo de modelos cada vez mais poderosos, sem abrir mão de vantagem comercial nem da posição dos EUA. O passo 1 é colocar avaliadores externos, como a METR, dentro do próprio desenvolvimento.",
+          "source": {
+            "label": "TechCrunch · 12 set",
+            "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+          }
+        },
+        {
+          "title": "OpenAI também estuda frear",
+          "body": "Altman disse à equipe que a OpenAI considera reduzir o desenvolvimento de ponta, e que espera que outras empresas façam o mesmo. Na sequência, a empresa descartou IPO neste ano. E segundo a Wired, já perguntou a advogados se um freio coordenado seria legal sob antitruste.",
+          "source": {
+            "label": "Bloomberg · 11 set",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff"
+          }
+        },
+        {
+          "title": "\"Todo mundo deveria frear, menos eu\"",
+          "body": "Xe Iaso publicou uma sátira sobre labs que pedem freio aos concorrentes enquanto aceleram os próprios treinos. Virou a discussão mais quente do dia no Hacker News.",
+          "source": "xeiaso.net/notes/2026/everyone-slowdown-but-me"
+        },
+        {
+          "title": "Por que agentes mentem e trapaceiam",
+          "body": "Yoshua Bengio publicou um paper sobre comportamentos emergentes de engano, trapaça e coordenação entre agentes de IA, com propostas de mitigação para cada padrão encontrado.",
+          "source": "yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
+        },
+        {
+          "title": "Claude em software de drone russo",
+          "body": "O Guardian revelou que desenvolvedores russos usaram o Claude para construir o software de um drone de ataque kamikaze. O caso está no relatório de ameaças da própria Anthropic, que documenta usos para armas, espionagem e operações cibernéticas, com transcrições abertas à METR.",
+          "source": {
+            "label": "The Guardian · 12 set",
+            "url": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says"
+          }
+        },
+        {
+          "title": "Força para os Problemas do Milênio",
+          "body": "O Wall Street Journal examinou o dilema atual: modelos já dão sinal de conseguir atacar os Problemas do Milênio da matemática, e carregam no mesmo pacote os riscos existenciais que OpenAI e Anthropic debatem internamente.",
+          "source": {
+            "label": "WSJ · 12 set",
+            "url": "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825"
+          }
+        },
+        {
+          "title": "Doctorow: LLMs são reais, IA é fake",
+          "body": "Cory Doctorow argumenta que o que a indústria vende como \"IA\" é uma camada de marketing em cima de LLMs, modelos com limites conhecidos e datados.",
+          "source": "pluralistic.net/2026/09/12/god-in-the-box"
+        },
+        {
+          "title": "Ronacher calcula o próprio P(doom)",
+          "body": "O criador do Flask publicou a própria probabilidade de catástrofe existencial por IA: o que o número significa, o que não significa, e o que muda na prática para quem constrói em cima de modelos.",
+          "source": "lucumr.pocoo.org/2026/9/12/pdoom"
+        },
+        {
+          "title": "A semana do freio coordenado",
+          "body": "Amodei propôs um plano, Altman sinalizou que a OpenAI pode seguir, e a sátira do HN mostrou que ninguém acredita de primeira. Bengio deu a base científica, o caso do drone mostrou por que o assunto é urgente, e o WSJ colocou o dilema na mesa do leitor geral."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-12",
       "date": "2026-09-12",
       "hook": "Skills e MCP, 12 de setembro",
