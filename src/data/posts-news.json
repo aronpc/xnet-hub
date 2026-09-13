@@ -2,6 +2,72 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-13",
+      "date": "2026-09-13",
+      "hook": "Skills e MCP · 13 de setembro",
+      "caption": "O pack de skills virou produto de estreia recorde, o formato SKILL.md colonizou vídeo e docs da Apple, e a Anthropic documentou ataque de supply-chain em skills. Semana grande para o formato.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-13",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-13",
+      "slides": [
+        {
+          "title": "Skills e MCP · 13 de setembro",
+          "body": "O pack de skills virou produto de estreia recorde, o formato SKILL.md colonizou vídeo e docs da Apple, e a Anthropic documentou ataque de supply-chain em skills. Semana grande para o formato."
+        },
+        {
+          "title": "viserys: 28 skills, 626★ em 24h",
+          "body": "Pack autocontido que impõe ao agente um processo único, de DEFINE a SHIP: 28 arquivos SKILL.md, 4 personas revisoras, evals e scripts de validação.",
+          "source": "github.com/rizqinrr/viserys-agent"
+        },
+        {
+          "title": "Skills de produção de vídeo",
+          "body": "A reelbench-skills reúne anotações de aprendizado e tooling skills cobrindo o pipeline de produção de vídeo com IA.",
+          "source": "github.com/eternityspring/reelbench-skills"
+        },
+        {
+          "title": "Remix criativo de vídeo em estágios",
+          "body": "A qisi-video-remix decompõe um vídeo de referência em roteiro, storyboard e prompts segmentados, para regenerar o resultado de forma criativa.",
+          "source": "github.com/wyuzhi/qisi-video-remix"
+        },
+        {
+          "title": "youtube-scout: pergunta entra, workbook sai",
+          "body": "Skill do Claude Code que devolve um workbook ranqueado de vídeos sobre um tema, com views, engajamento e momentum, via YouTube Data API v3.",
+          "source": "github.com/AgriciDaniel/youtube-scout"
+        },
+        {
+          "title": "A literatura de evolução de harnesses",
+          "body": "Lista curada de papers sobre evolução do harness de agentes, organizada em foundation, benchmark, recipe e position.",
+          "source": "github.com/wannabeyourfriend/awesome-harness-evolution"
+        },
+        {
+          "title": "v2.1.270 corrige regressão de git",
+          "body": "A versão corrige o bug em que comandos git read-only no Bash voltavam a pedir permissão depois de sessão longa. A regressão tinha entrado na v2.1.269, a mesma que trouxe o plugin eval e o /output-style.",
+          "source": {
+            "label": "GitHub releases",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.270"
+          }
+        },
+        {
+          "title": "O boost de 50% acaba hoje",
+          "body": "Último dia do boost semanal, que termina às 23h59 no horário do Pacífico, depois de 4 extensões desde o prazo original de 13 de julho. O teto novo fica cerca de 17% menor.",
+          "source": {
+            "label": "AI Tools Recap · 13 set",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-september-13-2026"
+          }
+        },
+        {
+          "title": "Skills como vetor de ataque",
+          "body": "No relatório de inteligência de ameaças de setembro, a Anthropic documenta um caso em que um ator humano editou skills do Claude Code que controlavam workflows, investigado como episódio de misuse.",
+          "source": {
+            "label": "Anthropic · set 2026",
+            "url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
+          }
+        },
+        {
+          "title": "Skill virou produto e vetor",
+          "body": "Na mesma semana, o pack de skills bateu recorde de estreia e a Anthropic documentou ataque por skill editada. O formato ganhou mercado, audiência e, com isso, quem quer atacá-lo. Verificação de integridade entra na lista do que fazer em seguida."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-13",
       "date": "2026-09-13",
       "hook": "Projetos IA · 13 de setembro",
