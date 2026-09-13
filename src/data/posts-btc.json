@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-13-21h33",
+      "date": "2026-09-13",
+      "time": "21h33",
+      "hook": "O dia abriu com o Bitcoin defendendo os 76,5 mil e chega à noite espiando a máxima de 24 horas. A leitura das 21h33 marcou 77.392 dólares, a 0,1% do topo. A subida, porém, veio com um terço do volume médio, e isso segurou qualquer comemoração.",
+      "caption": "Leitura das 21h33: 77.392, com o topo das últimas 24 horas a apenas 58 dólares de distância\n\nLeia: https://xbtc.aronpc.dev/#2026-09-13-21h33",
+      "link": "https://xbtc.aronpc.dev/#2026-09-13-21h33",
+      "slides": [
+        {
+          "title": "A um passo da máxima de 24 horas",
+          "body": "Leitura das 21h33: 77.392, com o topo das últimas 24 horas a apenas 58 dólares de distância"
+        },
+        {
+          "title": "US$ 77.392",
+          "body": "Δ1h +0,12% · Δ24h +0,26% · vol 24h US$ 14,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Cada recuo da tarde parou mais alto que o anterior, e o preço terminou colado no topo; a leitura só vira convicção se o volume entrar junto · Smart Money: funding +0,009% + L/S 1,64",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A passagem dos 77,5 mil ainda pede volume",
+          "body": "Piso 77.100 (−0,38%) · Topo do dia 77.450 (+0,08%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-13-11h30",
       "date": "2026-09-13",
       "time": "11h30",
