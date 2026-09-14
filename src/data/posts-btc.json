@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-13-23h32",
+      "date": "2026-09-13",
+      "time": "23h32",
+      "hook": "A noite mudou de humor. O Bitcoin que às 22h33 recuava encerrou o dia encostado no teto das 24 horas: 77.665 dólares na leitura das 23h32, com 1,08% na última hora e o topo do dia a 2 dólares de distância. Desta vez a subida veio com volume 70% acima do costume, justamente o que faltou nas tentativas da tarde.",
+      "caption": "Leitura das 23h32: 77.665, a 2 dólares do topo das 24 horas\n\nLeia: https://xbtc.aronpc.dev/#2026-09-13-23h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-13-23h32",
+      "slides": [
+        {
+          "title": "A última hora do dia chegou ao teto, agora com volume",
+          "body": "Leitura das 23h32: 77.665, a 2 dólares do topo das 24 horas"
+        },
+        {
+          "title": "US$ 77.665",
+          "body": "Δ1h +1,08% · Δ24h +0,50% · vol $0,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Força compradora na última hora: volume 1,7x a média e preço colado no topo de 24h · Smart Money: funding +0,010% + L/S 1,62",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Fechar 1h acima de 77.667",
+          "body": "Suporte 77.100 (-0,73%) · Resistência 78.000 (+0,43%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-13-22h33",
       "date": "2026-09-13",
       "time": "22h33",
