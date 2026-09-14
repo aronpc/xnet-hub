@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-14-07h31",
+      "date": "2026-09-14",
+      "time": "07h31",
+      "hook": "A manhã mudou de cara. Depois de uma madrugada presa entre 77,5k e 77,9k, o Bitcoin subiu degrau por degrau e chegou aos US$ 77.930. A leitura das 07h31 aponta alta, com o preço na metade de cima do canal do dia.",
+      "caption": "Leitura das 07h31: fechamentos por hora subindo e preço na metade superior da faixa 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-09-14-07h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-14-07h31",
+      "slides": [
+        {
+          "title": "Lateral pela madrugada, alta ao amanhecer",
+          "body": "Leitura das 07h31: fechamentos por hora subindo e preço na metade superior da faixa 24h"
+        },
+        {
+          "title": "US$ 77.930",
+          "body": "Δ1h +0,27% · Δ24h +1,57% · vol $21,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fechamentos por hora em alta e clima menos defensivo · Smart Money: funding +0,0049% + L/S 1,51",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Teto do dia segue em 78.400",
+          "body": "Piso 77.600 (−0,4%) · Teto 78.400 (+0,6%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-14-06h31",
       "date": "2026-09-14",
       "time": "06h31",
