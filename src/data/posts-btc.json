@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-14-00h32",
+      "date": "2026-09-14",
+      "time": "00h32",
+      "hook": "A máxima de 24 horas tem número novo. Nesta madrugada o Bitcoin passou dos 77,7 mil e chegou a 77.870 na leitura das 00h32. O interesse aberto foi junto, para 106,5k BTC, o que sugere dinheiro novo em cena em vez de um repique passageiro.",
+      "caption": "Leitura das 00h32: 77.799, terceira hora seguida fechando em alta\n\nLeia: https://xbtc.aronpc.dev/#2026-09-14-00h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-14-00h32",
+      "slides": [
+        {
+          "title": "O teto de ontem virou chão: nova máxima de 24h em 77.870",
+          "body": "Leitura das 00h32: 77.799, terceira hora seguida fechando em alta"
+        },
+        {
+          "title": "US$ 77.799",
+          "body": "Δ1h +0,17% · Δ24h +0,73% · vol $19,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço acima do antigo topo das 24h, e a subida vem com a alavancagem ainda comedida · Smart Money: funding +0,01% + L/S 1,60",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Fechar a hora acima de 77.870 abre espaço para 78.500",
+          "body": "Suporte 77.100 (-0,90%) · Resistência 77.870 (+0,09%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-13-23h32",
       "date": "2026-09-13",
       "time": "23h32",
