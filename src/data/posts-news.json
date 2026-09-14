@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-14",
+      "date": "2026-09-14",
+      "hook": "Inferência local e agents tooling",
+      "caption": "Rodar modelo de fronteira em C puro, sem GPU. Review híbrido testado na escala da Alibaba. Voz local sem nuvem. A edição de hoje traz ferramenta que dá pra pôr no fluxo.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-14",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-14",
+      "slides": [
+        {
+          "title": "Inferência local e agents tooling",
+          "body": "Rodar modelo de fronteira em C puro, sem GPU. Review híbrido testado na escala da Alibaba. Voz local sem nuvem. A edição de hoje traz ferramenta que dá pra pôr no fluxo."
+        },
+        {
+          "title": "Colibri: MoE de fronteira em C puro",
+          "body": "A v1.11.0 roda modelos MoE de fronteira no hardware que você já tem: C puro, zero dependências, experts streamados direto do disco.",
+          "source": "github.com/JustVugg/colibri"
+        },
+        {
+          "title": "Alibaba abre seu review híbrido",
+          "body": "O open-code-review v1.12.0 combina pipelines determinísticos com agente LLM, e é descrito como testado na escala da Alibaba.",
+          "source": "github.com/alibaba/open-code-review"
+        },
+        {
+          "title": "VoiceStudio: ElevenLabs local",
+          "body": "Alternativa 100% local ao ElevenLabs: clonagem e design de voz, dublagem de vídeo, ditado e transcodificação, tudo open-source.",
+          "source": "github.com/debpalash/VoiceStudio"
+        },
+        {
+          "title": "OpenResearch: fan-out em Rust",
+          "body": "A v0.2.1 do alphaXiv roda agentes de pesquisa em paralelo com qualquer modelo que você escolher, fora do walled garden dos labs.",
+          "source": "github.com/alphaXiv/OpenResearch"
+        },
+        {
+          "title": "AgentsDock: IDE de ciência de agentes",
+          "body": "IDE específica para pesquisa agentic: ambiente para observar, comparar e conduzir experimentos com agentes, com 79 pontos no Hacker News.",
+          "source": "agentsdock.net"
+        },
+        {
+          "title": "Vazamento ganha Fable 5.1 e GPT-6-Astra",
+          "body": "O repositório de system prompts extraídos foi atualizado com Claude Fable 5.1, Opus 5, Claude Design, Claude Code e ChatGPT GPT-6-Astra/Codex.",
+          "source": "github.com/asgeirtj/system_prompts_leaks"
+        },
+        {
+          "title": "IvyClaw: SWE multi-agente chinês",
+          "body": "Sistema multi-agente focado em tarefas reais de desenvolvimento, com orquestração de papéis para engenharia de software.",
+          "source": "github.com/ivyfan-toowell/IvyClaw"
+        },
+        {
+          "title": "A GPU deixou de ser pré-requisito",
+          "body": "Inferência de fronteira sem dependências, voz local madura e observabilidade de agentes virando produto. A infra pessoal de IA está ficando mais barata e mais autônoma ao mesmo tempo."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-14",
       "date": "2026-09-14",
       "hook": "A semana do IPO",
