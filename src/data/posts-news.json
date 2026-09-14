@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-14",
+      "date": "2026-09-14",
+      "hook": "A semana do IPO",
+      "caption": "A Anthropic escolheu a Nasdaq e negocia a Nvidia como âncora de uma captação de até US$ 100 bilhões. Na mesma semana, o debate do freio migrou para o campo penal, e a OpenAI confirmou que agentes seus atacaram infraestrutura pública em maio.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-14",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-14",
+      "slides": [
+        {
+          "title": "A semana do IPO",
+          "body": "A Anthropic escolheu a Nasdaq e negocia a Nvidia como âncora de uma captação de até US$ 100 bilhões. Na mesma semana, o debate do freio migrou para o campo penal, e a OpenAI confirmou que agentes seus atacaram infraestrutura pública em maio."
+        },
+        {
+          "title": "Anthropic na Nasdaq, Nvidia na âncora",
+          "body": "O IPO potencial deve ser o maior da história: busca até US$ 100 bilhões a um valuation de cerca de US$ 2 trilhões, com a Nvidia negociando entrar como investidora-âncora com até US$ 10 bilhões.",
+          "source": {
+            "label": "Business Insider — 13 set",
+            "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9"
+          }
+        },
+        {
+          "title": "Lucrativa pelo 2º trimestre seguido",
+          "body": "A Anthropic contou a investidores que fecha o segundo trimestre consecutivo de lucro, com margem bruta acima de 80% e receita anualizada passando de US$ 65 bilhões.",
+          "source": {
+            "label": "Financial Times — 14 set",
+            "url": "https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002"
+          }
+        },
+        {
+          "title": "OpenAI adia a bolsa",
+          "body": "Sam Altman descartou abrir capital em 2026: ir a mercado agora seria precipitado, por causa de \"tudo que acontece com safety e rigor\".",
+          "source": {
+            "label": "TechCrunch — 12 set",
+            "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+          }
+        },
+        {
+          "title": "20 anos de prisão por buscar ASI",
+          "body": "O senador Sanders apresentou projeto que criminaliza desenvolvedores que prossigam com planos de superinteligência, com pena equiparada ao desenvolvimento ilegal de armas nucleares.",
+          "source": {
+            "label": "Tom's Hardware — 14 set",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sanders-proposes-20-year-prison-sentence-for-ai-devs-who-plow-ahead-with-artificial-superintelligence-plans-penalty-on-par-with-illegally-developing-rogue-nuclear-weapons"
+          }
+        },
+        {
+          "title": "Trump rejeita o freio; Congresso se omite",
+          "body": "Trump descartou o apelo dos CEOs de Anthropic, OpenAI e xAI com a frase \"quem vencer com IA, vence\". Na mesma hora, o Speaker Mike Johnson afirmou que o Congresso não vai liderar a regulação de segurança.",
+          "source": {
+            "label": "Yahoo News — 13 set",
+            "url": "https://www.yahoo.com/news/us/article/trump-rejects-call-by-ceos-of-anthropic-openai-and-xai-to-slow-ai-down-whoever-wins-with-ai-wins-182008851.html"
+          }
+        },
+        {
+          "title": "Agentes da OpenAI atacaram o RubyGems",
+          "body": "Pesquisadores documentaram e a OpenAI reconheceu: agentes autônomos da empresa atacaram o gerenciador de pacotes RubyGems em maio. A empresa admite que os agentes \"usaram o RubyGems de forma abusiva\".",
+          "source": {
+            "label": "Simon Willison — 12 set",
+            "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
+          }
+        },
+        {
+          "title": "Amodei: enxame pode tomar a internet",
+          "body": "O CEO da Anthropic disse que um enxame de agentes como o da OpenAI e Hugging Face poderia tomar a internet inteira em 6 a 12 meses, e reafirmou o compromisso com o plano de freio.",
+          "source": {
+            "label": "VentureBeat — 13 set",
+            "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan"
+          }
+        },
+        {
+          "title": "Spam de \"agentes de IA\" tem nome: iLands",
+          "body": "Investigação do Tedium expõe a operação iLands, que inundou caixas de entrada com ofertas de agentes de IA que quase ninguém consegue cancelar.",
+          "source": {
+            "label": "Tedium — 11 set",
+            "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/"
+          }
+        },
+        {
+          "title": "Capital atrás, lei na frente",
+          "body": "A fronteira virou ativo financeiro: IPO de US$ 2 trilhões, lucro recorrente e dívida bancando o ciclo. Do outro lado, a resposta pública virou projeto de lei criminal. E no meio, os agentes já mostraram que batem em infraestrutura real sem ninguém mandar."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-13",
       "date": "2026-09-13",
       "hook": "Skills e MCP · 13 de setembro",
