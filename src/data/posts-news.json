@@ -2,6 +2,56 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-14",
+      "date": "2026-09-14",
+      "hook": "Skill virou padrão de facto",
+      "caption": "Registry validado multi-harness, segurança ofensiva em SKILL.md e portabilidade de MCP. O boost de 50% do Claude Code também terminou, hoje de madrugada.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-14",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-14",
+      "slides": [
+        {
+          "title": "Skill virou padrão de facto",
+          "body": "Registry validado multi-harness, segurança ofensiva em SKILL.md e portabilidade de MCP. O boost de 50% do Claude Code também terminou, hoje de madrugada."
+        },
+        {
+          "title": "O boost de 50% acabou",
+          "body": "A extensão do limite semanal terminou às 23h59 de 13/09 em PT, cerca de 4h da manhã de hoje em Brasília, após quatro prorrogações desde julho. Os tetos originais voltam a valer.",
+          "source": {
+            "label": "AI Tools Recap — 13 set",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-september-13-2026"
+          }
+        },
+        {
+          "title": "agent-skills: registry com curadoria",
+          "body": "O tech-leads-club mantém um catálogo único de skills seguras e validadas que estende Antigravity, Claude Code, Cursor e Copilot a partir de uma config só.",
+          "source": "github.com/tech-leads-club/agent-skills"
+        },
+        {
+          "title": "Claude-Red: pentest em SKILL.md",
+          "body": "Biblioteca curada de skills de segurança ofensiva escritas no formato SKILL.md para o sistema de skills do Claude.",
+          "source": "github.com/SnailSploit/Claude-Red"
+        },
+        {
+          "title": "kurir: registrar MCP uma vez só",
+          "body": "CLI que registra qualquer MCP server nos harnesses de agente através de uma configuração portátil única, em vez de config específica por ferramenta.",
+          "source": "github.com/suiflex/kurir"
+        },
+        {
+          "title": "Codex pensa, Claude Code executa",
+          "body": "O codex-cc-orchestrator materializa o padrão de papéis assimétricos: Codex como mestre, Claude Code como unidade de execução, com despacho de tarefas, sessões retomáveis, revisão independente e concorrência em lote.",
+          "source": "github.com/zjgxkj/codex-cc-orchestrator"
+        },
+        {
+          "title": "mcpx: control plane pra MCP longo",
+          "body": "Projeto que trata MCP como infraestrutura de longa duração: um control plane para execuções de agentes que precisam sobreviver a reinícios e tarefas extensas.",
+          "source": "github.com/azazhang/mcpx"
+        },
+        {
+          "title": "Do arquivo solto ao registro",
+          "body": "Skill saiu de pasta de markdown avulsa: hoje existe registry com curadoria, e harnesses concorrentes adotam o mesmo formato. Quem roda agentes em produção volta a planejar com teto de uso real."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-14",
       "date": "2026-09-14",
       "hook": "Inferência local e agents tooling",
