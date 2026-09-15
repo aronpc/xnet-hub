@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-15",
+      "date": "2026-09-15",
+      "hook": "Projetos e repos · 15 de setembro de 2026",
+      "caption": "Auditoria forense de tool-calls, a Siri do macOS delegando pro Claude Code e a leva de agentes locais minimalistas. Sete repos que valem o clique.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-15",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-15",
+      "slides": [
+        {
+          "title": "Projetos e repos · 15 de setembro de 2026",
+          "body": "Auditoria forense de tool-calls, a Siri do macOS delegando pro Claude Code e a leva de agentes locais minimalistas. Sete repos que valem o clique."
+        },
+        {
+          "title": "ToolReplay: perícia nos tool-calls do agente",
+          "body": "O repo sela cada tool-call numa hash-chain, repete a execução de forma determinística e acusa quando o agente passou do escopo combinado.",
+          "source": "github.com/Matthew0822/ToolReplay"
+        },
+        {
+          "title": "A Siri do macOS 27 chamando o Claude Code",
+          "body": "PoC do Marcel Pociot registra um provider de App Intents no macOS 27 com o Claude Code por trás. Quarenta estrelas nas primeiras 24 horas.",
+          "source": "github.com/mpociot/claude-siri-ai"
+        },
+        {
+          "title": "Sunk Cost: quando o rig local se paga",
+          "body": "A calculadora estima o payback de um rig de LLM local por modelo e por perfil de uso, contra a conta de token na API.",
+          "source": "sunkcost.ai"
+        },
+        {
+          "title": "Um RPG de Pokémon inteiro feito por Codex",
+          "body": "Mapas, NPCs e saves ramificados gerados na hora pela IA, sem asset fixo. A aventura inteira é saída de agente.",
+          "source": "github.com/Shellishack/infinite-pokemon"
+        },
+        {
+          "title": "Caixa de som Xiaomi virando agente local",
+          "body": "O upgrade por software troca o assistente original dos alto-falantes da Xiaomi por DeepSeek ou Ollama, sem trocar nenhum hardware.",
+          "source": "github.com/FelixQiu1/XiaoAi-LLM-Router"
+        },
+        {
+          "title": "Workstation com GB300 e 748 GB já pode ser encomendada",
+          "body": "A HP ZGX Fury com superchip GB300 e memória unificada de 748 GB ficou orderable, com plano Red Hat AI Factory pra borda.",
+          "source": {
+            "label": "StorageReview, 14 set",
+            "url": "https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge"
+          }
+        },
+        {
+          "title": "O repo-protesto que estourou",
+          "body": "Uma linha de README: se você acha que IA é ruim, dê uma estrela. Somou 302 no primeiro dia, mais que qualquer repo de IA da janela.",
+          "source": "github.com/ai-sucks-butt/ai-sucks-butt"
+        },
+        {
+          "title": "Da fé pra auditoria",
+          "body": "Hash-chain de tool-call, payback calculado antes do rig, assistente delegando em agente. A frente dos agentes está aprendendo a provar o que fez. O resto vira estrela de protesto."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-15",
       "date": "2026-09-15",
       "hook": "IA · 15 de setembro de 2026",
