@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-15-05h33",
+      "date": "2026-09-15",
+      "time": "05h33",
+      "hook": "O 77,3 mil que o mercado vigiava desde a madrugada ficou para trás nas últimas horas. O preço desceu devagar e agora negocia colado no menor valor das últimas 24 horas, com o dia marcando queda de 1,1%.",
+      "caption": "Leitura das 05h33: 77,3 mil virou teto e o preço desceu até encostar no menor valor de 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-09-15-05h33",
+      "link": "https://xbtc.aronpc.dev/#2026-09-15-05h33",
+      "slides": [
+        {
+          "title": "A queda encontrou o mínimo do dia",
+          "body": "Leitura das 05h33: 77,3 mil virou teto e o preço desceu até encostar no menor valor de 24h"
+        },
+        {
+          "title": "US$ 76.855",
+          "body": "Δ1h −0,53% · Δ24h −1,14% · vol US$ 31,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O preço cai em todas as leituras desde as 2h · Smart Money: funding +0,0063% e L/S 1,43 (59% long)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "76,7 mil está a 0,2% dali",
+          "body": "É o menor preço de 24h, logo abaixo do atual · uma hora fechada acima de 77,3 mil devolve o fôlego",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-15-03h34",
       "date": "2026-09-15",
       "time": "03h34",
