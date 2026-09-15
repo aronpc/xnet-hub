@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-15-03h34",
+      "date": "2026-09-15",
+      "time": "03h34",
+      "hook": "Ontem à noite o Bitcoin ainda ensaiava uma reação perto de 78 mil. De madrugada, a região de 77,4 mil cedeu, o preço foi junto e agora roça o fundo das últimas 24 horas. Ninguém segurou a queda até aqui.",
+      "caption": "Madrugada de queda leve mas contínua; preço a 0,1% do menor valor do dia\n\nLeia: https://xbtc.aronpc.dev/#2026-09-15-03h34",
+      "link": "https://xbtc.aronpc.dev/#2026-09-15-03h34",
+      "slides": [
+        {
+          "title": "77,4 mil não segurou",
+          "body": "Madrugada de queda leve mas contínua; preço a 0,1% do menor valor do dia"
+        },
+        {
+          "title": "US$ 77.395",
+          "body": "Δ1h −0,06% · Δ24h −0,01% · vol US$ 31,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A sequência descendente que veio da véspera seguiu pela madrugada · Smart Money: funding +0,0067% + L/S 1,38",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "77,3 mil no foco",
+          "body": "Mínimo do dia a 0,1% do preço atual · para o quadro mudar, fechar acima de 77,8 mil (+0,5%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-14-23h32",
       "date": "2026-09-14",
       "time": "23h32",
