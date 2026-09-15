@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-14-23h32",
+      "date": "2026-09-14",
+      "time": "23h32",
+      "hook": "Foram oito velas de queda desde o meio da tarde. O Bitcoin saiu de 79,2 mil e agora negocia a 0,7% da marca mais baixa das últimas 24 horas, 77,4 mil. Nas últimas duas horas o preço parou de cair, mas ainda sem força para reagir.",
+      "caption": "Depois de oito quedas horárias seguidas, preço a 0,7% do mínimo de 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-09-14-23h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-14-23h32",
+      "slides": [
+        {
+          "title": "Encostado no menor preço do dia",
+          "body": "Depois de oito quedas horárias seguidas, preço a 0,7% do mínimo de 24h"
+        },
+        {
+          "title": "US$ 77.945",
+          "body": "Δ1h −0,01% · Δ24h +0,45% · vol US$ 31,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Oito fechamentos horários em queda desde as 15h · Smart Money: funding +0,0047% + L/S 1,25",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A marca de 77,4 mil",
+          "body": "Região de 77,4 mil (−0,7%) · acima dela, 78,2 mil (+0,3%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-14-21h30",
       "date": "2026-09-14",
       "time": "21h30",
