@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-15",
+      "date": "2026-09-15",
+      "hook": "IA · 15 de setembro de 2026",
+      "caption": "A semana do freio ganhou dentes: lei sancionada na Califórnia, mercado precificando o medo e agente-funcionário no topo do Hacker News. Oito histórias que importam hoje.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-15",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-15",
+      "slides": [
+        {
+          "title": "IA · 15 de setembro de 2026",
+          "body": "A semana do freio ganhou dentes: lei sancionada na Califórnia, mercado precificando o medo e agente-funcionário no topo do Hacker News. Oito histórias que importam hoje."
+        },
+        {
+          "title": "Pion, o funcionário que é um agente",
+          "body": "A Andon Labs lançou o Pion, um agente que vende, atende cliente e cuida do backoffice sozinho. O anúncio fez 319 pontos no Hacker News em um dia, o recorde da janela.",
+          "source": {
+            "label": "andonlabs.com",
+            "url": "https://andonlabs.com/blog/why-we-built-pion"
+          }
+        },
+        {
+          "title": "iOS 27 chega com Siri IA, sem botão de desligar",
+          "body": "A Apple liberou o iOS 27 com a Siri IA e o Liquid Glass. Usuários relatam no Tell HN que a Apple Intelligence não tem opção de desativar.",
+          "source": {
+            "label": "MacRumors, 14 set",
+            "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-27/"
+          }
+        },
+        {
+          "title": "O código do iOS 27 deixa trocar a Siri por Claude ou ChatGPT",
+          "body": "Uma análise do código indica que a nova Siri aceita outro modelo no lugar dela. Já existe prova de conceito rodando Claude Code por baixo do assistente.",
+          "source": {
+            "label": "MacRumors, 14 set",
+            "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
+          }
+        },
+        {
+          "title": "Anthropic lança Claude para assessores de investimento",
+          "body": "A ferramenta dedicada a assessores financeiros foi anunciada ontem. Primeiro passo da casa em finanças, segmento regulado e de ticket alto.",
+          "source": {
+            "label": "Reuters, 14 set",
+            "url": "https://www.reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14/"
+          }
+        },
+        {
+          "title": "Temporal levanta 550 milhões, avaliado em 12,55 bilhões",
+          "body": "A Série E vem com tese explícita de workloads de agentes de IA. Execução durável, com retry e replay, virou negócio de unicórnio.",
+          "source": {
+            "label": "temporal.io",
+            "url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai"
+          }
+        },
+        {
+          "title": "Bolsas de tech caem depois dos pedidos de freio",
+          "body": "Papéis de tecnologia recuaram na segunda depois que CEOs de IA pediram desaceleração da fronteira. A CNBC dedicou uma hora ao assunto.",
+          "source": {
+            "label": "CNBC, 14 set",
+            "url": "https://www.cnbc.com/video/2026/09/14/monday-september-14-2026-heres-how-the-club-is-reacting-to-ai-slowdown-concerns.html"
+          }
+        },
+        {
+          "title": "Qwen3-TTS e Qwen3-ASR lideram benchmarks de voz",
+          "body": "Os modelos abertos da linha Qwen ficaram no topo do CoVAL, com custo e latência baixos.",
+          "source": {
+            "label": "narilabs.com",
+            "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/"
+          }
+        },
+        {
+          "title": "Sakana apresenta alternativa ao backpropagation",
+          "body": "O paper propõe Predictive Coding com Lagrangiano aumentado, o PC-ALM, como substituto viável da retropropagação, com números competitivos.",
+          "source": {
+            "label": "pub.sakana.ai",
+            "url": "https://pub.sakana.ai/pc-alm/"
+          }
+        },
+        {
+          "title": "O freio saiu do discurso",
+          "body": "Lei sancionada, pedido de algema, bolsa caindo e agente-funcionário no topo do HN. A pergunta que fica: o enforcement chega antes de existir um botão de desligar?"
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-14",
       "date": "2026-09-14",
       "hook": "Skill virou padrão de facto",
