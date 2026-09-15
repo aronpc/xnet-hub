@@ -2,6 +2,67 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-15",
+      "date": "2026-09-15",
+      "hook": "Skills & MCP · 15 de setembro de 2026",
+      "caption": "Fast mode no Claude Code, memória persistente virando categoria de plugin e CI apontado como gargalo do agentic coding. Sete novidades do ecossistema.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-15",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-15",
+      "slides": [
+        {
+          "title": "Skills & MCP · 15 de setembro de 2026",
+          "body": "Fast mode no Claude Code, memória persistente virando categoria de plugin e CI apontado como gargalo do agentic coding. Sete novidades do ecossistema."
+        },
+        {
+          "title": "Claude Code ganha fast mode e uma leva de fixes de MCP",
+          "body": "A 2.1.271 corrige OAuth com redirect reutilizado, o loop de list_changed e a tool search por nome curto, sem o prefixo completo. A 272 do dia seguinte empacota mais correções.",
+          "source": {
+            "label": "CHANGELOG no GitHub",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "O setup do Spotify recriado, e medido",
+          "body": "O repo reproduz o roteamento de modelos do post do Spotify em Claude Code puro e mede o resultado em quatro tarefas reais.",
+          "source": "github.com/ToolMonsters/claude-code-routing"
+        },
+        {
+          "title": "Slowave: memória local que se adapta ao histórico",
+          "body": "Memória local pra coding agent que se molda ao que o agente já fez naquele projeto.",
+          "source": "github.com/slowave-ai/slowave"
+        },
+        {
+          "title": "deepmem lembra código e conversa",
+          "body": "Plugin pra coding agents que persiste o histórico de código e de chat entre sessões.",
+          "source": "github.com/deepmemteam/deepmem-claude-plugin"
+        },
+        {
+          "title": "Exportar e fazer merge de skills aprendidas",
+          "body": "CLI que inventaria, exporta e faz merge seguro de skills entre perfis do Hermes Agent.",
+          "source": "github.com/tonbistudio/hermes-my-skills"
+        },
+        {
+          "title": "Anthropic escala Test Impact Analysis no CI",
+          "body": "O post de engenharia conta como o coding agentic multiplicou a carga de CI deles e como passaram a ranquear testes por impacto pra segurar o tempo.",
+          "source": {
+            "label": "Anthropic, 14 set",
+            "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic"
+          }
+        },
+        {
+          "title": "Seis mil issues fechadas de uma vez",
+          "body": "Mantenedores do Claude Code fecharam automaticamente as issues marcadas como has repro, mais de seis mil, e a issue de anúncio virou debate.",
+          "source": {
+            "label": "issue #87647",
+            "url": "https://github.com/anthropics/claude-code/issues/87647"
+          }
+        },
+        {
+          "title": "O ecossistema saiu do prompt",
+          "body": "Fast mode muda o uso, memória vira plugin disputado e CI vira o gargalo declarado. Nesta semana, o que persiste entre sessões importou tanto quanto o modelo."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-15",
       "date": "2026-09-15",
       "hook": "Projetos e repos · 15 de setembro de 2026",
