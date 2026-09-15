@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-14-21h30",
+      "date": "2026-09-14",
+      "time": "21h30",
+      "hook": "A força da tarde durou pouco. O Bitcoin passou de 79,2 mil para US$ 78.001 em quatro fechamentos horários seguidos de queda. Às 21h30 está quase no mesmo patamar da abertura do dia, e o que sobra é um ganho de 1,9% nas últimas 24 horas.",
+      "caption": "Preço em 78.001, perto da abertura do dia; ganho de 24h fica em +1,9%\n\nLeia: https://xbtc.aronpc.dev/#2026-09-14-21h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-14-21h30",
+      "slides": [
+        {
+          "title": "A subida se desfez",
+          "body": "Preço em 78.001, perto da abertura do dia; ganho de 24h fica em +1,9%"
+        },
+        {
+          "title": "US$ 78.001",
+          "body": "Δ1h −0,53% · Δ24h +1,89% · vol $32,2bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Sequência de quedas desde a rejeição em 79,2 mil deixa o preço no meio do range de 76,6 a 79,6 mil · Smart Money: funding +0,0035% + L/S 1,16",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Olho na faixa de 77.600",
+          "body": "Região de 77.600 (−0,5%) · acima, 78.600 (+0,8%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-14-18h31",
       "date": "2026-09-14",
       "time": "18h31",
