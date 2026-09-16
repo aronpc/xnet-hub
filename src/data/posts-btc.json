@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-15-21h31",
+      "date": "2026-09-15",
+      "time": "21h31",
+      "hook": "O preço mal se mexeu nesta hora. Quem mudou de lado foi o humor: o índice de medo e ganância, que passou o dia inteiro em zona de ganância, caiu a 51 pontos e voltou ao neutro. O Bitcoin segue perto de 75,8 mil, digerindo a queda da tarde, com recuo de 2,9% no dia.",
+      "caption": "Preço quase parado perto de 75,8 mil; sentimento deixa a ganância e volta ao neutro\n\nLeia: https://xbtc.aronpc.dev/#2026-09-15-21h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-15-21h31",
+      "slides": [
+        {
+          "title": "A ganância foi embora",
+          "body": "Preço quase parado perto de 75,8 mil; sentimento deixa a ganância e volta ao neutro"
+        },
+        {
+          "title": "US$ 75.782",
+          "body": "Δ1h +0,06% · Δ24h −2,86% · vol 24h US$ 39,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Recuo de 2,9% no dia e repique tímido, preço ainda abaixo dos 76,2 mil · Smart money: funding +0,0035% · L/S 1,82 (64,5% comprado)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "75,0 mil embaixo, 76,2 mil em cima",
+          "body": "Fechar acima dos 76,2 mil devolve a discussão aos 77,0 mil; ceder os 75,0 mil encaminha a leitura aos 74,0 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-15-16h30",
       "date": "2026-09-15",
       "time": "16h30",
