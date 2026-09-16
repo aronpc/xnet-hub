@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-16",
+      "date": "2026-09-16",
+      "hook": "Panorama IA · 16 de setembro de 2026",
+      "caption": "Semana estranha: os grandes labs combinando segurança em grupo formal e Zuckerberg admitindo que segurou a Muse por meses. Na técnica, o dia foi de voz nativa e agentes que fazem pesquisa sozinhos.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-16",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-16",
+      "slides": [
+        {
+          "title": "Panorama IA · 16 de setembro de 2026",
+          "body": "Semana estranha: os grandes labs combinando segurança em grupo formal e Zuckerberg admitindo que segurou a Muse por meses. Na técnica, o dia foi de voz nativa e agentes que fazem pesquisa sozinhos."
+        },
+        {
+          "title": "Gemini 3.8 Live fala e pensa ao mesmo tempo",
+          "body": "O Google lançou ontem seus modelos de diálogo ao vivo mais avançados até agora. É speech-to-speech nativo: o modelo raciocina enquanto fala, chama ferramentas em background e cobre 97 idiomas. A variante Extended Thinking acrescenta raciocínio profundo em tempo real.",
+          "source": {
+            "label": "Google Blog — 15 set",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+          }
+        },
+        {
+          "title": "OpenAI negocia rodada privada a US$ 1,2 trilhão",
+          "body": "Segundo o Financial Times, a OpenAI teve conversas iniciais para captar a uma avaliação de US$ 1,2 trilhão antes do IPO planejado. Seria a primeira rodada privada da história a cruzar a casa do trilhão, em qualquer setor.",
+          "source": {
+            "label": "FT via Techmeme — 15 set",
+            "url": "https://www.ft.com/"
+          }
+        },
+        {
+          "title": "OpenAI, Anthropic e Google já cooperam em segurança",
+          "body": "A OpenAI confirmou à Bloomberg Law que trabalha com Anthropic e Google em segurança há semanas, e diz que não precisa de waiver antitruste para isso. The Information já havia revelado um working group abaixo do nível de CEO, desde julho, discutindo um organismo de padrões liderado pela indústria.",
+          "source": {
+            "label": "Bloomberg — 15 set",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-15/openai-says-it-s-working-with-anthropic-google-on-ai-safety"
+          }
+        },
+        {
+          "title": "Gasto com OpenAI volta à frente do Anthropic",
+          "body": "Nos dados oficiais do OpenRouter, a semana de 7 de setembro fechou com mais gasto em modelos OpenAI do que Anthropic. Não acontecia desde fevereiro de 2024.",
+          "source": {
+            "label": "OpenRouter via Techmeme — 15 set",
+            "url": "https://x.com/openrouter"
+          }
+        },
+        {
+          "title": "Google libera Claude Opus 5 para todos os engenheiros",
+          "body": "Dentro do Antigravity, o Google liberou Claude Opus 5 para todo o time de engenharia. A ressalva oficial: o Gemini permanece o modelo primário e fundacional para o desenvolvimento interno.",
+          "source": {
+            "label": "Business Insider — 15 set",
+            "url": "https://www.businessinsider.com/"
+          }
+        },
+        {
+          "title": "Já dá para comprar modelo aberto com safety removido",
+          "body": "Um serviço comercial passou a vender open-weights com o treinamento de segurança removido, hoje sobre o GLM-5.3 (MIT) da Z.ai. A técnica em si não é nova. O que mudou é ter preço, o que derruba o filtro de habilidade e intenção.",
+          "source": {
+            "label": "AI Tools Recap — 15 set",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-september-15-2026"
+          }
+        },
+        {
+          "title": "Agentes Claude conduzem pesquisa ponta a ponta",
+          "body": "A Anthropic documentou agentes Claude propondo hipóteses, rodando experimentos e iterando num projeto aberto de pesquisa em segurança de IA. Agentes paralelos coordenados, sem humano no loop curto.",
+          "source": {
+            "label": "Anthropic — 15 set",
+            "url": "https://www.anthropic.com/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Segurança deixou de ser posição individual: rivais coordenam em grupo formal e o FRONTIER Act quer avaliadores externos embutidos em lei. Na técnica, voz nativa speech-to-speech e agentes de pesquisa autônomos abrem a próxima fronteira. E o ciclo de capital segue absurdo, com rodada privada negociada a US$ 1,2 trilhão."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-15",
       "date": "2026-09-15",
       "hook": "Skills & MCP · 15 de setembro de 2026",
