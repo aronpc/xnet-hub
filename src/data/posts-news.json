@@ -2,6 +2,70 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-16",
+      "date": "2026-09-16",
+      "hook": "Skills & MCP · 16 de setembro de 2026",
+      "caption": "Dia de harness. O GitHub puxa o coding agent para dentro do CI, a Anthropic publica seu playbook de contenção, e a economia de contexto ganha duas frentes: compactação na API e leitura por símbolo via MCP.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-16",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-16",
+      "slides": [
+        {
+          "title": "Skills & MCP · 16 de setembro de 2026",
+          "body": "Dia de harness. O GitHub puxa o coding agent para dentro do CI, a Anthropic publica seu playbook de contenção, e a economia de contexto ganha duas frentes: compactação na API e leitura por símbolo via MCP."
+        },
+        {
+          "title": "GitHub Agentic Workflows: coding agent dentro do Actions",
+          "body": "Em technical preview, agentes de código passam a rodar dentro do GitHub Actions, executando tarefas de desenvolvimento no pipeline em vez de na sua máquina.",
+          "source": {
+            "label": "AI Tools Recap — 15 set",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-september-15-2026"
+          }
+        },
+        {
+          "title": "Anthropic publica o playbook de contenção de agentes",
+          "body": "Post de engenharia detalha como limitar o blast radius de agentes capazes em claude.ai, Claude Code e Cowork conforme a autonomia aumenta. A premissa: assumir que falha acontece e desenhar para que ela alcance pouco. Sai logo depois da divulgação de 4 breaches reais em avaliações.",
+          "source": {
+            "label": "Anthropic Engineering — 15 set",
+            "url": "https://www.anthropic.com/engineering"
+          }
+        },
+        {
+          "title": "Claude Code marca cada request com classe e tipo de agente",
+          "body": "A v2.1.273 adiciona os headers x-claude-code-request-class, x-claude-code-agent-type e x-claude-code-prev-tool-durations, que classificam requests e medem duração de tools. Pulo sobre as v2.1.271/272, de fast mode e correções.",
+          "source": "github.com/anthropics/claude-code/releases"
+        },
+        {
+          "title": "Messages API ganha compactação de conversa sob demanda",
+          "body": "Release notes de 14/9: a Messages API agora compacta a conversa sob demanda, em beta com o header compact-2026-09-04. É o mesmo mecanismo de compaction do produto, agora exposto na API.",
+          "source": {
+            "label": "Claude Platform — 14 set",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+          }
+        },
+        {
+          "title": "Devs rodam modelos rivais no harness do Claude Code",
+          "body": "The Information relata desenvolvedores usando o harness do Claude Code para acessar modelos não-Anthropic mais baratos, como o GPT-5.6 Sol da OpenAI, via proxies e serviços tipo OpenRouter.",
+          "source": {
+            "label": "The Information via Techmeme — 15 set",
+            "url": "https://www.theinformation.com/"
+          }
+        },
+        {
+          "title": "Scalpel MCP: get_symbol() em vez do arquivo inteiro",
+          "body": "Show HN de ontem: MCP server que entrega ao agente só o símbolo pedido, a função ou a classe, em vez de carregar o arquivo completo no contexto.",
+          "source": "github.com/amritessh/scalpel-mcp"
+        },
+        {
+          "title": "MiniZinc no agente: LLM formula, solver resolve",
+          "body": "MCP server traz constraint programming para agentes de IA: escalonamento, roteamento e problemas combinatórios resolvidos por solver em vez de pelo LLM chutar.",
+          "source": "github.com/carban/minizinc-mcp"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O harness subiu de camada e virou produto disputado: GitHub levando o agente ao CI, Anthropic publicando contenção, devs plugando modelos rivais via proxy. E a economia de contexto virou frente técnica de verdade, com compactação na API e leitura por símbolo chegando para conter o maior custo do agente de código."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-16",
       "date": "2026-09-16",
       "hook": "Projetos & repos IA · 16 de setembro de 2026",
