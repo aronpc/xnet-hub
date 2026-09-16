@@ -2,6 +2,70 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-16",
+      "date": "2026-09-16",
+      "hook": "Projetos & repos IA · 16 de setembro de 2026",
+      "caption": "Dia de funding quente em agentes, com a primeira aquisição de hardware da OpenAI no meio. Mas o que fica são duas lições de arquitetura: roteamento dinâmico de modelo e agente corporativo rodando em cima de um único Postgres.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-16",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-16",
+      "slides": [
+        {
+          "title": "Projetos & repos IA · 16 de setembro de 2026",
+          "body": "Dia de funding quente em agentes, com a primeira aquisição de hardware da OpenAI no meio. Mas o que fica são duas lições de arquitetura: roteamento dinâmico de modelo e agente corporativo rodando em cima de um único Postgres."
+        },
+        {
+          "title": "Factory vale US$ 5 bi com agentes que trocam de modelo",
+          "body": "Os \"Droids\" da Factory alternam entre modelos conforme a complexidade da tarefa. A rodada de US$ 200 milhões reportada pelo WSJ valoriza a empresa em US$ 5 bilhões, contra US$ 1,5 bi em abril.",
+          "source": {
+            "label": "WSJ via Techmeme — 15 set",
+            "url": "https://www.wsj.com/"
+          }
+        },
+        {
+          "title": "OpenAI compra startup de câmera por US$ 300 mi+",
+          "body": "A OpenAI adquiriu a Glass Imaging, que desenvolve tecnologia de câmera baseada em IA para smartphones. A transação valoriza a startup em mais de US$ 300 milhões; ela valia cerca de US$ 100 mi em 2025.",
+          "source": {
+            "label": "WSJ via Techmeme — 14 set",
+            "url": "https://www.wsj.com/"
+          }
+        },
+        {
+          "title": "OpenClaw 2.0 chega com browser UI e multi-agente",
+          "body": "A versão 2.0 do agente open-source mais usado do momento trouxe instalação repensada, interface no browser e colaboração multi-agente, com upgrades em memória, skills, automações e plugins.",
+          "source": "github.com/openclaw/openclaw"
+        },
+        {
+          "title": "CRM com agentes de IA no topo do GitHub trending",
+          "body": "O DeskcommCRM é um CRM self-hosted com agentes nativos integrados ao WhatsApp via WAHA, como alternativa open a Kommo, Octadesk e Intercom. Os agentes respondem chats, qualificam leads e movem o pipeline sozinhos.",
+          "source": "github.com/melgarafael/DeskcommCRM"
+        },
+        {
+          "title": "Auditoria e certificação de agentes vira empresa",
+          "body": "A Artificial Intelligence Underwriting Company levantou US$ 40 milhões em Série A (US$ 55 mi no total) para construir camada de auditoria e certificação para agentes. Funciona como um seguro de responsabilidade contratado antes de o agente agir.",
+          "source": {
+            "label": "TechCrunch — 15 set",
+            "url": "https://techcrunch.com/"
+          }
+        },
+        {
+          "title": "Avatares de baixa latência atraindo dinheiro da Nvidia",
+          "body": "A Nuance Labs, de Seattle, constrói avatares de IA para conversas cara a cara com latência baixa, e captou US$ 50 milhões em Série A liderada pela Lightspeed, com a Nvidia também investindo.",
+          "source": {
+            "label": "Business Insider — 14 set",
+            "url": "https://www.businessinsider.com/"
+          }
+        },
+        {
+          "title": "Agente de workplace que roda só em cima do Postgres",
+          "body": "Show HN de ontem: agente self-hosted que conecta drive, e-mail, wiki, CRMs e ticketing, com suporte MCP completo, execução de código em sandbox, memória persistente e skills do usuário. Tudo indexado em Postgres (ParadeDB + pgvector), deploy via docker compose, licença Apache 2.0.",
+          "source": "github.com/getomnico/omni"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O dinheiro em agentes segue quente, mas as duas lições de arquitetura do dia apontam para infra enxuta: roteamento dinâmico de modelo na Factory e um Postgres dando conta de busca e vetores no Omni. A plataforma de agente está ficando mais simples, não mais complexa."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-16",
       "date": "2026-09-16",
       "hook": "Panorama IA · 16 de setembro de 2026",
