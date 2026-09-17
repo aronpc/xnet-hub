@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-16-21h30",
+      "date": "2026-09-16",
+      "time": "21h30",
+      "hook": "Depois de um dia inteiro marcando passo entre 75 e 76,5 mil, o viés mudou para alta: três fechamentos por hora em subida e o preço a um passo do máximo das últimas 24 horas.",
+      "caption": "A recuperação que saiu do teste das 15h já deixou o saldo de 24h em +0,71%\n\nLeia: https://xbtc.aronpc.dev/#2026-09-16-21h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-16-21h30",
+      "slides": [
+        {
+          "title": "Alta, com o máximo de 24h logo ali",
+          "body": "A recuperação que saiu do teste das 15h já deixou o saldo de 24h em +0,71%"
+        },
+        {
+          "title": "US$ 76.348",
+          "body": "Δ1h +0,42% · Δ24h +0,71% · vol 24h US$ 31,0bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Terceiro fechamento por hora em subida, depois que o mínimo de 75.065 resistiu ao teste das 15h · Smart money: funding +0,010% e L/S 1,53 (60,4% comprados)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "76.561, por +0,3%",
+          "body": "Ainda não fechou acima dele hoje; atrás do preço ficam 76.200 (−0,2%) e o mínimo do dia, 75.065 (−1,7%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-16-17h30",
       "date": "2026-09-16",
       "time": "17h30",
