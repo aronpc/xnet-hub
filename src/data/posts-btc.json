@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-17-13h31",
+      "date": "2026-09-17",
+      "time": "13h31",
+      "hook": "O recuo do meio-dia durou pouco. Desde a madrugada, cada queda do dia parou um pouco mais alto que a anterior. Essa sequência de degraus levou o bitcoin aos 76,6 mil, e o topo das últimas 24 horas, em 77,2 mil, ficou a 0,7%.",
+      "caption": "Última hora em alta de 0,35%, preço no trecho mais alto do intervalo diário\n\nLeia: https://xbtc.aronpc.dev/#2026-09-17-13h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-17-13h31",
+      "slides": [
+        {
+          "title": "Recuo raso, volta por cima",
+          "body": "Última hora em alta de 0,35%, preço no trecho mais alto do intervalo diário"
+        },
+        {
+          "title": "US$ 76.641",
+          "body": "Δ1h +0,35% · Δ24h +1,15% · vol 24h US$ 30,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço no trecho de cima do intervalo de 24h (75,0 a 77,2 mil), com quedas cada vez mais rasas desde a madrugada · Smart money: funding +0,010% e 59% das contas em posição de compra",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Um intervalo curto: de 76.400 a 77.200",
+          "body": "Abaixo de 76.400 (−0,3%), a referência desce para 76.000 · acima de 77.200 (+0,7%), entra em cena o número 78.000",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-17-12h31",
       "date": "2026-09-17",
       "time": "12h31",
