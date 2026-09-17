@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-17",
+      "date": "2026-09-17",
+      "hook": "Projetos e repos · 17 de setembro de 2026",
+      "caption": "A safra do dia é quase toda sobre o mesmo ponto: agente que escreve código precisa de contrato, dado e memória de verdade. Vai do framework de specs ao merge gate que mede a dívida estrutural que a IA adiciona.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-17",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-17",
+      "slides": [
+        {
+          "title": "Projetos e repos · 17 de setembro de 2026",
+          "body": "A safra do dia é quase toda sobre o mesmo ponto: agente que escreve código precisa de contrato, dado e memória de verdade. Vai do framework de specs ao merge gate que mede a dívida estrutural que a IA adiciona."
+        },
+        {
+          "title": "OpenSpec: specs no lugar de prompts soltos",
+          "body": "Framework leve e configurável para dirigir desenvolvimento com IA por especificações em vez de prompt avulso. O contrato spec vira implementação.",
+          "source": {
+            "label": "openspec.dev · 16 set",
+            "url": "https://openspec.dev/"
+          }
+        },
+        {
+          "title": "Pizza Bot: uma caixa de entrada pros agentes",
+          "body": "App que centraliza num inbox os agentes de IA que trabalham em segundo plano. Você delega, eles reportam por lá.",
+          "source": {
+            "label": "github.com/pizza-bot-app · 15 set",
+            "url": "https://github.com/pizza-bot-app/pizza-bot"
+          }
+        },
+        {
+          "title": "Datamimic: dado de teste que o agente não inventa",
+          "body": "A rapiddweller, empresa alemã de dados, liberou uma ferramenta que gera e provisiona dados de teste consistentes para coding agents, para eles não fabularem fixtures.",
+          "source": {
+            "label": "github.com/rapiddweller · 16 set",
+            "url": "https://github.com/rapiddweller/datamimic"
+          }
+        },
+        {
+          "title": "ImpactGate: merge gate da dívida que a IA cria",
+          "body": "Gate de merge que pontua o 'structural decay', duplicação e acoplamento, que código gerado por IA introduz no codebase.",
+          "source": {
+            "label": "github.com/officefloor · 16 set",
+            "url": "https://github.com/officefloor/ImpactGate"
+          }
+        },
+        {
+          "title": "AIBuildAI: agente que treina o próprio modelo",
+          "body": "Repositório novo com um agente recursive self-improving que roda pipelines de pós-treinamento de LLM de forma autônoma.",
+          "source": {
+            "label": "github.com/aibuildai-inc · 16 set",
+            "url": "https://github.com/aibuildai-inc/aibuildai-llm-posttrain-agent"
+          }
+        },
+        {
+          "title": "friday: memória persistente pros coding agents",
+          "body": "Camada de memória open-source para Cursor, Claude Code e Copilot, para o agente não esquecer tudo entre sessões.",
+          "source": {
+            "label": "github.com/friday-memory · 16 set",
+            "url": "https://github.com/friday-memory/friday"
+          }
+        },
+        {
+          "title": "Swift-Qwen3.8-27B: menos raciocínio, mesma mira",
+          "body": "Fine-tune do Qwen3.8-27B que corta 58% dos tokens de raciocínio mantendo a acurácia do modo xhigh. Na prática, quase o dobro de velocidade.",
+          "source": {
+            "label": "huggingface.co/ukisai · 16 set",
+            "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b"
+          }
+        },
+        {
+          "title": "How Stale Is Your AI",
+          "body": "Site simples que mostra, para 20 modelos, a idade do release e o training cutoff: quantos meses de mundo cada modelo desconhece.",
+          "source": {
+            "label": "stale.jock.pl · 16 set",
+            "url": "https://stale.jock.pl/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O código feito por IA está ganhando as fases que o software sempre teve: especificação antes, gate de qualidade depois, memória no meio. E a eficiência de modelo migrou de quantizar pesos pra podar o próprio raciocínio. Quem paga token de reasoning sente a diferença no bolso."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-17",
       "date": "2026-09-17",
       "hook": "Panorama IA · 17 de setembro de 2026",
