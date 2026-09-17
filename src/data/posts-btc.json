@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-17-09h30",
+      "date": "2026-09-17",
+      "time": "09h30",
+      "hook": "Depois de quase um dia inteiro girando na casa dos 76 mil, o bitcoin passou dos 77 mil nesta manhã. O preço encosta agora na região mais alta das últimas 24 horas, e o sentimento segue neutro, sem euforia.",
+      "caption": "A vela das 9h fechou em 77.021, com volume 10% acima da média\n\nLeia: https://xbtc.aronpc.dev/#2026-09-17-09h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-17-09h30",
+      "slides": [
+        {
+          "title": "77 mil deixou de segurar o preço",
+          "body": "A vela das 9h fechou em 77.021, com volume 10% acima da média"
+        },
+        {
+          "title": "US$ 76.923",
+          "body": "Δ1h +0,88% · Δ24h +1,41% · vol 24h US$ 29,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço a 0,4% da máxima de 24h e fechamento colado nela · Smart money: funding +0,008% e L/S 1,47 (59% compradas)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "77.200 é o número da hora",
+          "body": "76.400 (−0,7%) · 77.200 (+0,4%, máxima de 24h) · acima dela, a próxima parada é 78.000",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-17-07h34",
       "date": "2026-09-17",
       "time": "07h34",
