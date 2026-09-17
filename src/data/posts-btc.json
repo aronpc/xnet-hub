@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-17-01h30",
+      "date": "2026-09-17",
+      "time": "01h30",
+      "hook": "O empurrão da virada esbarrou no teto de 76,8 mil e não passou: uma hora depois, o preço está de volta ao meio do corredor dos últimos dias, sem direção.",
+      "caption": "Preço de volta ao meio do intervalo de 75 a 76,8 mil, com saldo de 24h ainda no positivo (+0,37%)\n\nLeia: https://xbtc.aronpc.dev/#2026-09-17-01h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-17-01h30",
+      "slides": [
+        {
+          "title": "A subida parou no teto",
+          "body": "Preço de volta ao meio do intervalo de 75 a 76,8 mil, com saldo de 24h ainda no positivo (+0,37%)"
+        },
+        {
+          "title": "US$ 76.127",
+          "body": "Δ1h −0,40% · Δ24h +0,37% · vol 24h US$ 30,9bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A zona de 76,4 a 76,8 mil rejeitou o avanço e devolveu o preço ao meio do intervalo · Smart money: funding +0,005% e 60,2% de contas compradas (L/S 1,51)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "76 mil é a linha da próxima hora",
+          "body": "Abaixo de 76.000 (−0,2%), a referência vira 75.600 · acima de 76.450 (+0,4%), o topo de 76.800 volta ao radar",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-17-00h30",
       "date": "2026-09-17",
       "time": "00h30",
