@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-17-00h30",
+      "date": "2026-09-17",
+      "time": "00h30",
+      "hook": "A rejeição do fim da noite durou pouco: o recuo foi absorvido e o dia novo abre com quatro velas de 1h em alta, no andar de cima da faixa dos últimos dias.",
+      "caption": "Saldo de 24h já em +0,79%, com o preço encostando na parte alta da faixa de 75 a 76,8 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-09-17-00h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-17-00h30",
+      "slides": [
+        {
+          "title": "O recuo da noite não vingou",
+          "body": "Saldo de 24h já em +0,79%, com o preço encostando na parte alta da faixa de 75 a 76,8 mil"
+        },
+        {
+          "title": "US$ 76.432",
+          "body": "Δ1h +0,41% · Δ24h +0,79% · vol 24h US$ 31,0bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Quatro fechamentos seguidos no gráfico de 1h e preço no quartil superior do range de 24h · Smart money: funding +0,007% e L/S 1,52 (60,3% comprados, aliviando de 1,58)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A decisão entre 76 e 76,8 mil",
+          "body": "Ultrapassar 76.800 (+0,5%, o máximo de 24h) coloca 77.500 na conversa; perder 76.000 (−0,6%) devolve o meio da faixa",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-16-23h30",
       "date": "2026-09-16",
       "time": "23h30",
