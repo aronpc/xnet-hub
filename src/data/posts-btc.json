@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-17-07h34",
+      "date": "2026-09-17",
+      "time": "07h34",
+      "hook": "O avanço da madrugada parou em 76.774 e o preço desceu de volta à base da faixa do dia. O mercado segue sem convicção entre 76,2 e 76,8 mil.",
+      "caption": "Duas velas de 1h em queda após a recusa no topo trouxeram o preço de volta à parte baixa da faixa\n\nLeia: https://xbtc.aronpc.dev/#2026-09-17-07h34",
+      "link": "https://xbtc.aronpc.dev/#2026-09-17-07h34",
+      "slides": [
+        {
+          "title": "O teto de 76,8 mil ainda manda no dia",
+          "body": "Duas velas de 1h em queda após a recusa no topo trouxeram o preço de volta à parte baixa da faixa"
+        },
+        {
+          "title": "US$ 76.269",
+          "body": "Δ1h −0,45% · Δ24h +0,49% · vol 24h US$ 29,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A queda é de curto prazo dentro de um dia ainda positivo no 24h · Smart money: funding +0,006% e L/S 1,47 (60% compradas)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "76.200 é o número da próxima hora",
+          "body": "Abaixo dele, a parada seguinte é 76.000 · Suporte 76.100 (−0,2%) · Resistência 76.800 (+0,7%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-17-02h30",
       "date": "2026-09-17",
       "time": "02h30",
