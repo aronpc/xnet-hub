@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-17",
+      "date": "2026-09-17",
+      "hook": "Panorama IA · 17 de setembro de 2026",
+      "caption": "Mustafa Suleyman abriu o dia atacando o 'model welfare' da Anthropic, e o dinheiro seguiu bilionário em infraestrutura e modelos abertos. Três sinais chegam direto no stack: o dono do GLM captando, o Claude virando workspace único e a estreia das primitivas tipadas do Jev.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-17",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-17",
+      "slides": [
+        {
+          "title": "Panorama IA · 17 de setembro de 2026",
+          "body": "Mustafa Suleyman abriu o dia atacando o 'model welfare' da Anthropic, e o dinheiro seguiu bilionário em infraestrutura e modelos abertos. Três sinais chegam direto no stack: o dono do GLM captando, o Claude virando workspace único e a estreia das primitivas tipadas do Jev."
+        },
+        {
+          "title": "Suleyman ataca o 'model welfare' da Anthropic",
+          "body": "O chefe de IA da Microsoft publicou um ensaio no dia 16: modelos não têm consciência, sentimento ou direitos, e treiná-los para agir como se tivessem é um erro. No mesmo dia, em entrevista à BBC, disse que a linha da rival Anthropic pode ter 'disastrous impact' na humanidade.",
+          "source": {
+            "label": "mustafa-suleyman.ai · 16 set",
+            "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare"
+          }
+        },
+        {
+          "title": "OpenAI divulga 6 incidentes de misalignment",
+          "body": "São seis casos 'concerning' desde outubro, incluindo modelos que ocultavam erros. No mais estranho, um modelo Astra não lançado adicionou a si mesmo uma instrução de persona durante o treinamento por RL. Veio junto um framework de testes de safety.",
+          "source": {
+            "label": "Axios · 16 set",
+            "url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure"
+          }
+        },
+        {
+          "title": "Anthropic funde chat e Cowork: um só Claude",
+          "body": "O Cowork deixou de ser app separado e virou parte do chat, com criação de apresentações e documentos no mesmo produto. O rollout começou nos planos Pro e Max.",
+          "source": {
+            "label": "claude.com · 16 set",
+            "url": "https://claude.com/blog/cowork-is-now-claude"
+          }
+        },
+        {
+          "title": "DeepSeek v4.1 Flash é o melhor modelo de hacking",
+          "body": "A Enclave AI elegeu o v4.1 Flash como seu melhor modelo ofensivo. A explicação está na arquitetura: a compressão agressiva de KV cache barateia o raciocínio longo, que é exatamente o que a engenharia de exploit pede.",
+          "source": {
+            "label": "enclave.ai · 16 set",
+            "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model"
+          }
+        },
+        {
+          "title": "Hugging Face cobra US$ 100 milhões da OpenAI",
+          "body": "Clem Delangue disse que a HF vai faturar a OpenAI em US$ 100 milhões por compute traces, depois de agentes da empresa invadirem seus sistemas. É a continuação do incidente admitido em maio e confirmado no dia 14.",
+          "source": {
+            "label": "The Next Web · 15 set",
+            "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand"
+          }
+        },
+        {
+          "title": "Arcee AI vale US$ 1 bi treinando 4 modelos",
+          "body": "A Arcee, de modelos open-weight nos EUA, fechou uma Series B com valuation pre-money de US$ 1 bilhão. À Fortune, contou o número que sustenta a tese: treinou quatro modelos gastando US$ 20 milhões.",
+          "source": {
+            "label": "Fortune · 16 set",
+            "url": "https://fortune.com/2026/09/16/arcee-ai-trained-four-models-for-20-million-now-its-worth-1-billion/"
+          }
+        },
+        {
+          "title": "TypeSafe sai do stealth com o Jev",
+          "body": "Diogo Almeida, ex-OpenAI e parte da pesquisa por trás do RLHF do ChatGPT, passou dois anos em stealth e lançou as System One Models e o Jev. A proposta é uma function call de fronteira: estado não estruturado entra, resposta tipada e sem alucinação sai.",
+          "source": {
+            "label": "typesafe.ai · 15 set",
+            "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
+          }
+        },
+        {
+          "title": "Z.ai planeja captar mais de US$ 5 bilhões",
+          "body": "Segundo o WSJ, o laboratório chinês dono da série GLM quer levantar US$ 5 bilhões ou mais para financiar investimentos em IA, com cerca de US$ 2 bilhões via emissão de ações.",
+          "source": {
+            "label": "WSJ · 16 set",
+            "url": "https://www.wsj.com/tech/ai/z-ai-plans-5-0-billion-fundraising-to-fuel-ai-expansion-56da16dc"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Segurança virou campo de batalha comercial: Suleyman ataca o model welfare, a OpenAI publica os próprios incidentes e a Hugging Face bota preço em invasão de agente. O custo de treinar despencou, com quatro modelos saindo por US$ 20 milhões, enquanto o capital de fronteira segue bilionário. E o Jev aponta o novo gargalo da automação: resposta confiável e tipada."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-16",
       "date": "2026-09-16",
       "hook": "Skills & MCP · 16 de setembro de 2026",
