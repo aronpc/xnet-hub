@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-17-12h31",
+      "date": "2026-09-17",
+      "time": "12h31",
+      "hook": "O topo disse não de novo. Uma hora depois de encostar nos 76,9 mil, ponto mais alto do dia, o bitcoin escorregou de volta ao miolo da faixa de 75 a 77,5 mil. A manhã fez três tentativas de subida e nenhuma passou. O dia segue empacado no meio do caminho.",
+      "caption": "O avanço da manhã não chegou a lugar nenhum\n\nLeia: https://xbtc.aronpc.dev/#2026-09-17-12h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-17-12h31",
+      "slides": [
+        {
+          "title": "Terceira tentativa, mesma resposta",
+          "body": "O avanço da manhã não chegou a lugar nenhum"
+        },
+        {
+          "title": "US$ 76.376",
+          "body": "Δ1h −0,66% · Δ24h +1,04% · vol 24h US$ 30,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A sequência de altas da manhã parou nos 76,9 mil; o preço fechou a hora no centro do intervalo de 75,0 a 77,5 mil · Smart money: funding +0,008% e 59% das contas em posição de compra",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A tarde tem dois números: 76.000 e 76.700",
+          "body": "Abaixo de 76.000 (−0,5%), a próxima parada é 75.500 · acima de 76.700 (+0,4%), reaparece a zona de 77.200",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-17-11h32",
       "date": "2026-09-17",
       "time": "11h32",
