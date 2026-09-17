@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-17",
+      "date": "2026-09-17",
+      "hook": "Skills e MCP · 17 de setembro de 2026",
+      "caption": "O MCP seguiu consolidado como infraestrutura: Symfony lançou bridge oficial para PHP e gateway self-hosted ganhou opção com OAuth renovado. No Claude Code, duas releases empacaram observabilidade e robustez de MCP.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-17",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-17",
+      "slides": [
+        {
+          "title": "Skills e MCP · 17 de setembro de 2026",
+          "body": "O MCP seguiu consolidado como infraestrutura: Symfony lançou bridge oficial para PHP e gateway self-hosted ganhou opção com OAuth renovado. No Claude Code, duas releases empacaram observabilidade e robustez de MCP."
+        },
+        {
+          "title": "Claude Code v2.1.273 e v2.1.274",
+          "body": "A .273 trouxe headers para LLM gateways, aviso quando um MCP server cai no meio da sessão, fork de sessão remote-control e o conserto de um rm perigoso escondido em subshell. A .274 acrescentou aviso visível de memória crítica e a CLAUDE_CODE_MCP_STARTUP_WAIT_MS.",
+          "source": {
+            "label": "CHANGELOG · 17 set",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "HarnessTax: o imposto do harness",
+          "body": "Estudo publicado no dia 16 mede o imposto de harness: a diferença de desempenho do mesmo modelo em harnesses diferentes de coding agent.",
+          "source": {
+            "label": "harnesstax.github.io · 16 set",
+            "url": "https://harnesstax.github.io/"
+          }
+        },
+        {
+          "title": "Symfony lança bridge MCP oficial",
+          "body": "O projeto symfony/ai-mcp-tool traz o Model Context Protocol como AI tool bridge nativo para aplicações Symfony.",
+          "source": {
+            "label": "github.com/symfony · 16 set",
+            "url": "https://github.com/symfony/ai-mcp-tool"
+          }
+        },
+        {
+          "title": "seanswarm: conclusão exige evidência",
+          "body": "Workflow de skills multi-agente para Claude Code, Codex e Cursor com 'evidence-governed research': cada conclusão vem com evidência anexada.",
+          "source": {
+            "label": "github.com/ccai40359-wq · 16 set",
+            "url": "https://github.com/ccai40359-wq/seanswarm"
+          }
+        },
+        {
+          "title": "no-honest-caveat: termina, não confessa",
+          "body": "Skill minimalista que faz o agente terminar o trabalho em vez de parar no meio pra fazer confissões sobre limitações.",
+          "source": {
+            "label": "github.com/valentinozigna · 16 set",
+            "url": "https://github.com/valentinozegna/no-honest-caveat"
+          }
+        },
+        {
+          "title": "junctio: gateway MCP com OAuth que não apodrece",
+          "body": "Gateway agregador self-hosted: um container, um endpoint por cliente, e o OAuth dos upstreams renovado sozinho.",
+          "source": {
+            "label": "github.com/k2so-dev · 16 set",
+            "url": "https://github.com/k2so-dev/junctio"
+          }
+        },
+        {
+          "title": "jev-mcp: primitivas tipadas do Jev via MCP",
+          "body": "Server comunitário que expõe as primitivas do Jev, como classify, score, check e match tipadas com confiança, pra qualquer agente. Nasceu junto com as System One Models da TypeSafe.",
+          "source": {
+            "label": "github.com/blakestone-x · 16 set",
+            "url": "https://github.com/blakestone-x/jev-mcp"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O MCP passou de novidade pra infraestrutura: framework PHP com bridge oficial e gateway self-hosted resolvendo OAuth. O Claude Code passou a tratar server caído como evento avisável, com reconexão. E a safra de skills do dia é de governança: evidência por conclusão e agente que termina o trabalho em vez de confessar."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-17",
       "date": "2026-09-17",
       "hook": "Projetos e repos · 17 de setembro de 2026",
