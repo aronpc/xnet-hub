@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-17-10h31",
+      "date": "2026-09-17",
+      "time": "10h31",
+      "hook": "A passagem por 77 mil durou pouco mais de uma hora. O bitcoin devolveu o ganho da manhã e voltou ao terreno dos 76 mil, onde gira desde ontem. Clima de cautela, sem pressa em nenhum sentido.",
+      "caption": "A alta da manhã perdeu força e o preço reentrou na faixa do dia\n\nLeia: https://xbtc.aronpc.dev/#2026-09-17-10h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-17-10h31",
+      "slides": [
+        {
+          "title": "A ida aos 77 mil não passou de uma visita",
+          "body": "A alta da manhã perdeu força e o preço reentrou na faixa do dia"
+        },
+        {
+          "title": "US$ 76.495",
+          "body": "Δ1h −0,56% · Δ24h +1,02% · vol 24h US$ 29,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O dia inteiro entre 76,3 e 77,2 mil, sem convicção em nenhum lado · Smart money: funding +0,007% e 59% de posições compradas",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "77.200 segue intocado no dia",
+          "body": "76.300 (−0,25%) é o piso do movimento · acima de 77.200, o próximo patamar fica em 78.000",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-17-09h30",
       "date": "2026-09-17",
       "time": "09h30",
