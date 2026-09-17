@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-17-19h31",
+      "date": "2026-09-17",
+      "time": "19h31",
+      "hook": "Os 76,5 mil seguraram o bitcoin do amanhecer até quase a noite. O preço passou por baixo, e a tarde foi fechando cada hora um pouco mais baixo, até parar no trecho de baixo da faixa do dia.",
+      "caption": "Preço no terço de baixo do intervalo de 24h, após sequência descendente desde as 13h\n\nLeia: https://xbtc.aronpc.dev/#2026-09-17-19h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-17-19h31",
+      "slides": [
+        {
+          "title": "Os 76,5 mil não seguraram mais",
+          "body": "Preço no terço de baixo do intervalo de 24h, após sequência descendente desde as 13h"
+        },
+        {
+          "title": "US$ 76.211",
+          "body": "Δ1h −0,37% · Δ24h +0,72% · vol 24h US$ 24,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Closes de 1h em queda desde as 13h (76.753 → 76.312) · Smart money: funding +0,01% e L/S 1,43 (59% em compra)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "76.200 decide a próxima hora",
+          "body": "Suporte 76.000 (−0,3%) · Resistência 76.500 (+0,4%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-17-13h31",
       "date": "2026-09-17",
       "time": "13h31",
