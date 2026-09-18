@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-18-00h31",
+      "date": "2026-09-18",
+      "time": "00h31",
+      "hook": "A pergunta no fim da noite era se a subida tinha fôlego. A madrugada respondeu: o preço passou dos 77 mil com negociação 31% acima da média da vela e agora opera a 0,3% da máxima das últimas 24 horas.",
+      "caption": "A faixa de 76,4 a 77,2 mil que prendeu o preço o dia inteiro ficou para trás\n\nLeia: https://xbtc.aronpc.dev/#2026-09-18-00h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-18-00h31",
+      "slides": [
+        {
+          "title": "77,4 mil, encostando na máxima de 24h",
+          "body": "A faixa de 76,4 a 77,2 mil que prendeu o preço o dia inteiro ficou para trás"
+        },
+        {
+          "title": "US$ 77.403",
+          "body": "Δ1h +0,56% · Δ24h +1,25% · vol 24h US$ 24,2bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço na região mais alta da jornada, com negociação acima da média. Smart money: funding +0,007%, 58% das contas posicionadas em compra",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "77.600, a máxima de 24h",
+          "body": "Acima dela, a região de 78.500 entra no mapa · abaixo, 77.000 (−0,5%) é a primeira referência · F&G em 56"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-17-23h37",
       "date": "2026-09-17",
       "time": "23h37",
