@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-17-23h37",
+      "date": "2026-09-17",
+      "time": "23h37",
+      "hook": "A meia-noite se aproximando e o bitcoin resolveu subir: foram três fechamentos de 1h em alta, um atrás do outro, e o preço terminou a noite encostado no teto do dia.",
+      "caption": "De 76,5 mil às 22h30 para 76,9 mil agora, a 0,3% do topo do dia\n\nLeia: https://xbtc.aronpc.dev/#2026-09-17-23h37",
+      "link": "https://xbtc.aronpc.dev/#2026-09-17-23h37",
+      "slides": [
+        {
+          "title": "Três altas seguidas, teto do dia à vista",
+          "body": "De 76,5 mil às 22h30 para 76,9 mil agora, a 0,3% do topo do dia"
+        },
+        {
+          "title": "US$ 76.974",
+          "body": "Δ1h +0,58% · Δ24h +0,99% · vol 24h US$ 23,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Três fechamentos de 1h subindo, preço na zona mais alta da faixa de 24h · Smart money: funding +0,007%, 59% das contas em compra",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Falta volume por trás da subida",
+          "body": "Faixa do dia: 76.400 (−0,75%) a 77.200 (+0,29%) · candle das 23h negociou 27,6k BTC/h, abaixo da média de 34,2k"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-17-22h30",
       "date": "2026-09-17",
       "time": "22h30",
