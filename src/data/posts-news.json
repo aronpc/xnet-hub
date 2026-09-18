@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-18",
+      "date": "2026-09-18",
+      "hook": "Skills e MCP · 18 de setembro de 2026",
+      "caption": "Semana-mestre do ciclo de vida da skill: distribuição versionada, compilação em máquina de estados e ranking por contexto de sessão. E um fix do Claude Code que salvou quem roda atrás de proxy.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-18",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-18",
+      "slides": [
+        {
+          "title": "Skills e MCP · 18 de setembro de 2026",
+          "body": "Semana-mestre do ciclo de vida da skill: distribuição versionada, compilação em máquina de estados e ranking por contexto de sessão. E um fix do Claude Code que salvou quem roda atrás de proxy."
+        },
+        {
+          "title": "v2.1.276 corrige a quebra atrás de proxy",
+          "body": "A 2.1.275 passou a nomear a conta conectada no gateway sign-in, com confirmação antes do fluxo de credencial. A 2.1.276 corrigiu a regressão em que toda request falhava com erro 400 \"Input tag advisor_20260301\" quando o ANTHROPIC_BASE_URL aponta para gateway.",
+          "source": {
+            "label": "CHANGELOG · 17 set",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "skillbox: biblioteca de skills versionada, o npm do formato",
+          "body": "Projeto do kitze com versionamento, escopo por cliente MCP e recomendações opcionais via Jev. Fez 110 estrelas em 24 horas.",
+          "source": {
+            "label": "GitHub · 17 set",
+            "url": "https://github.com/kitze/skillbox"
+          }
+        },
+        {
+          "title": "HEXIS compila SKILL.md em máquina de estados",
+          "body": "Skills viram state machines com guards de transição: ordem de execução determinística, e o LLM só raciocina nos pontos de decisão.",
+          "source": {
+            "label": "GitHub · 17 set",
+            "url": "https://github.com/Worldbuilder013/HEXIS"
+          }
+        },
+        {
+          "title": "procedural-film: skill gera filme vertical de 30s",
+          "body": "Skill de agente que produz curta vertical de 30 segundos desenhado e trilhado em JavaScript, com filme de referência incluído.",
+          "source": {
+            "label": "GitHub · 17 set",
+            "url": "https://github.com/kuhnhomeuk-cell/procedural-film"
+          }
+        },
+        {
+          "title": "MCPJam: testes e evals para MCP servers",
+          "body": "Show HN da primeira plataforma de testing e evaluations dedicada a MCP servers: suítes de teste e avaliação de respostas de tools.",
+          "source": {
+            "label": "mcpjam.com · 17 set",
+            "url": "https://www.mcpjam.com"
+          }
+        },
+        {
+          "title": "skillranker: ranqueia skills pelo contexto da sessão",
+          "body": "CLI em Rust usa o Jev para escolher quais skills do inventário se aplicam ao próximo passo, com o contexto vivo da sessão. Assinatura de Dicklesworthstone, criador do secure-mcp.",
+          "source": {
+            "label": "GitHub · 17 set",
+            "url": "https://github.com/Dicklesworthstone/skillranker"
+          }
+        },
+        {
+          "title": "agent-skiller: builder visual de skills passo a passo",
+          "body": "Editor open-source para montar visualmente skills que o agente segue passo a passo, sem escrever SKILL.md na mão.",
+          "source": {
+            "label": "GitHub · 17 set",
+            "url": "https://github.com/lattebbrook/agent-skiller"
+          }
+        },
+        {
+          "title": "Claude Code from Source: o fonte do CC como site",
+          "body": "Site documenta o funcionamento interno do Claude Code a partir do código empacotado: arquitetura, fluxos e internals.",
+          "source": {
+            "label": "claude-code-from-source.com · 18 set",
+            "url": "https://claude-code-from-source.com/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A skill ganhou ciclo de vida completo: biblioteca versionada, compilação em máquina de estados, ranking por contexto e editor visual. O MCP entrou na fase de QA, com plataforma dedicada a teste de server. E quem roda Claude Code atrás de gateway precisa estar na 2.1.276."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-18",
       "date": "2026-09-18",
       "hook": "Projetos e repos · 18 de setembro de 2026",
