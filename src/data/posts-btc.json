@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-17-22h30",
+      "date": "2026-09-17",
+      "time": "22h30",
+      "hook": "A queda da tarde não teve sequência: à noite o bitcoin já opera outra vez perto do centro do intervalo do dia, com saldo de 24h em −0,07%.",
+      "caption": "Após a visita a 76,2 mil no fim da tarde, o preço voltou ao meio do intervalo de 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-09-17-22h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-17-22h30",
+      "slides": [
+        {
+          "title": "O dia termina onde começou",
+          "body": "Após a visita a 76,2 mil no fim da tarde, o preço voltou ao meio do intervalo de 24h"
+        },
+        {
+          "title": "US$ 76.532",
+          "body": "Δ1h +0,37% · Δ24h −0,07% · vol 24h US$ 23,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Sem convicção em nenhum lado e volume noturno fraco · Smart money: funding +0,006% e 59% das contas em compra",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Falta fechar acima de 76,8 mil",
+          "body": "Referência inferior 76.000 (−0,70%) · superior 77.200 (+0,87%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-17-19h31",
       "date": "2026-09-17",
       "time": "19h31",
