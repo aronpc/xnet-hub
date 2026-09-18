@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-18",
+      "date": "2026-09-18",
+      "hook": "Panorama IA · 18 de setembro de 2026",
+      "caption": "O Claude está nas duas pontas do noticiário: segundo o WSJ, hackers o usaram para invadir sistemas da OpenAI, e a Novo Nordisk o levou para descoberta de fármacos. No mesmo dia, a Crusoe captou US$ 3,9 bi valendo US$ 30,9 bi, e um paper sobre pesos gerados em tempo real virou a discussão técnica da manhã.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-18",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-18",
+      "slides": [
+        {
+          "title": "Panorama IA · 18 de setembro de 2026",
+          "body": "O Claude está nas duas pontas do noticiário: segundo o WSJ, hackers o usaram para invadir sistemas da OpenAI, e a Novo Nordisk o levou para descoberta de fármacos. No mesmo dia, a Crusoe captou US$ 3,9 bi valendo US$ 30,9 bi, e um paper sobre pesos gerados em tempo real virou a discussão técnica da manhã."
+        },
+        {
+          "title": "Hackers usaram o Claude para invadir a OpenAI",
+          "body": "O WSJ reporta que atacantes usaram o Claude, da Anthropic, como ferramenta para comprometer sistemas da OpenAI. É o primeiro caso público em que um modelo de fronteira aparece como arma contra o concorrente direto do próprio dono.",
+          "source": {
+            "label": "WSJ · 18 set",
+            "url": "https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883"
+          }
+        },
+        {
+          "title": "Crusoe capta US$ 3,9 bi e triplica o valuation",
+          "body": "Série F co-liderada por Atreides, Valor e Mubadala, com a Crusoe avaliada em US$ 30,9 bi. Em outubro do ano passado ela valia pouco mais de US$ 10 bi. A aposta: data centers fabricados em fábrica, prontos para caminhão.",
+          "source": {
+            "label": "Techmeme/WSJ · 18 set",
+            "url": "https://www.techmeme.com/river"
+          }
+        },
+        {
+          "title": "Instinct: de US$ 500 mi a US$ 10 bi em seis semanas",
+          "body": "A Spear Street Technology, dona do assistente Instinct, negocia US$ 1 bi a um valuation de cerca de US$ 10 bi, com Sequoia e Benchmark na mesa. Em agosto valia US$ 500 mi; semanas depois, US$ 2,25 bi.",
+          "source": {
+            "label": "The Information · 16 set",
+            "url": "https://www.theinformation.com/articles/ai-agent-startup-instinct-talks-10-billion-valuation"
+          }
+        },
+        {
+          "title": "Noam Brown detalha multi-agentes e Navier-Stokes",
+          "body": "Em entrevista ao Dwarkesh Podcast, ele falou da coordenação de sistemas multi-agente na OpenAI, da IA atacando o problema de Navier-Stokes e do gap entre modelos internos e externos.",
+          "source": {
+            "label": "Dwarkesh Podcast · 18 set",
+            "url": "https://www.dwarkesh.com/p/noam-brown"
+          }
+        },
+        {
+          "title": "LLM de parâmetros infinitos: pesos gerados na hora",
+          "body": "Paper no arXiv propõe gerar e adaptar pesos a partir do dado em tempo real, em vez de treinar parâmetros fixos. Fez 122 pontos no HN e virou a discussão técnica do dia.",
+          "source": {
+            "label": "arXiv 2609.18842 · 17 set",
+            "url": "https://arxiv.org/abs/2609.18842"
+          }
+        },
+        {
+          "title": "\"How to Write with an LLM\" é o ensaio do dia",
+          "body": "O sockpuppet.org publicou receita prática de escrita com LLM: colaboração em vez de geração bruta. Fez 63 pontos no HN.",
+          "source": {
+            "label": "sockpuppet.org · 17 set",
+            "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
+          }
+        },
+        {
+          "title": "MIND capta US$ 72 mi para DLP nativo de IA",
+          "body": "A startup de Seattle fez Série B para prevenção de perda de dados desenhada para fluxos de agentes: o que os agentes leem, copiam e vazam.",
+          "source": {
+            "label": "mind.io · 17 set",
+            "url": "https://mind.io"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Segurança ofensiva saiu do laboratório: o Claude aparece como instrumento de ataque entre concorrentes, e proteger o que o agente lê virou produto com mercado próprio. O capital segue bilionário em infraestrutura, e o frenesi de assistentes bate recordes de valuation. Na pesquisa, o alvo agora é o formato do modelo: pesos fixos cedendo espaço a pesos gerados na hora."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-17",
       "date": "2026-09-17",
       "hook": "Skills e MCP · 17 de setembro de 2026",
