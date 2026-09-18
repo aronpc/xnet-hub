@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-18-06h31",
+      "date": "2026-09-18",
+      "time": "06h31",
+      "hook": "Pela primeira vez no dia o Bitcoin passou dos 78 mil dólares: 78.140, a máxima de hoje. E o movimento veio com companhia, o total de contratos em aberto chegou a 107,6 mil BTC, dinheiro novo entrando junto com o preço.",
+      "caption": "O preço nunca esteve tão alto hoje, e o total de contratos em aberto subiu junto, em 107,6 mil BTC\n\nLeia: https://xbtc.aronpc.dev/#2026-09-18-06h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-18-06h31",
+      "slides": [
+        {
+          "title": "78,1 mil: máxima do dia, dessa vez com dinheiro novo",
+          "body": "O preço nunca esteve tão alto hoje, e o total de contratos em aberto subiu junto, em 107,6 mil BTC"
+        },
+        {
+          "title": "US$ 78.140",
+          "body": "Δ1h +0,30% · Δ24h +2,00% · vol 24h US$ 1,1bi",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "ALTA",
+          "body": "Máxima do dia com contratos em aberto subindo junto, 107,6 mil BTC · funding +0,007%, 57,6% das contas em compra",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "78.500, o próximo teto",
+          "body": "Fechar a hora acima dele seria novo topo do dia, com 79.000 no mapa · 78.000 (−0,2%) é a referência que segura; perdida, o reteste fica em 77.800"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-18-05h31",
       "date": "2026-09-18",
       "time": "05h31",
