@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-18-05h31",
+      "date": "2026-09-18",
+      "time": "05h31",
+      "hook": "O movimento que atravessou a madrugada não parou: sete horas seguidas de valorização, negócios um terço acima da média e o preço colado nos 78 mil, região mais alta do dia.",
+      "caption": "O preço saiu de 76,7 mil às 23h de ontem e chegou a 77,9 mil sem uma hora de recuo\n\nLeia: https://xbtc.aronpc.dev/#2026-09-18-05h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-18-05h31",
+      "slides": [
+        {
+          "title": "78 mil, depois de 7 horas seguidas de alta",
+          "body": "O preço saiu de 76,7 mil às 23h de ontem e chegou a 77,9 mil sem uma hora de recuo"
+        },
+        {
+          "title": "US$ 77.905",
+          "body": "Δ1h +0,23% · Δ24h +1,97% · vol 24h US$ 28,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Sétima valorização horária seguida, com volume 33% acima da média · Smart money: funding +0,007% e 57% das contas em compra",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "78.100, o próximo degrau",
+          "body": "Acima dele, 78.500 e 79.000 entram no mapa · abaixo, 77.400 (−0,65%) é o primeiro apoio"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-18-00h31",
       "date": "2026-09-18",
       "time": "00h31",
