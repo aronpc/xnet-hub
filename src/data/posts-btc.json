@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-18-11h33",
+      "date": "2026-09-18",
+      "time": "11h33",
+      "hook": "Numa hora só o Bitcoin ganhou 3,2%, chegou a 80.658 e parou a 0,4% do topo das últimas 24 horas (80.990). A vela dessa hora negociou quatro vezes o volume habitual e o total de 24 horas subiu a 35,8 bilhões de dólares.",
+      "caption": "Dos 78 aos 80 mil em 60 minutos, com volume junto\n\nLeia: https://xbtc.aronpc.dev/#2026-09-18-11h33",
+      "link": "https://xbtc.aronpc.dev/#2026-09-18-11h33",
+      "slides": [
+        {
+          "title": "80,6 mil: o salto de uma hora",
+          "body": "Dos 78 aos 80 mil em 60 minutos, com volume junto"
+        },
+        {
+          "title": "US$ 80.658",
+          "body": "Δ1h +3,19% · Δ24h +4,86% · vol 24h US$ 35,8bi",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "ALTA",
+          "body": "Ultrapassou 78,5 mil com volume 4× e ainda sem aposta exagerada: funding +0,007%, L/S 1,12, 52,8% das contas na alta",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "81 mil é a próxima porta",
+          "body": "A máxima de 24 horas, 80.990, ficou a 0,4% · 79.500 (−1,4%) é o degrau que segura; se ceder, 78.500 volta ao mapa"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-18-06h31",
       "date": "2026-09-18",
       "time": "06h31",
