@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-18",
+      "date": "2026-09-18",
+      "hook": "Projetos e repos · 18 de setembro de 2026",
+      "caption": "O Jev virou plataforma em 48 horas: já são 8 projetos públicos em volta do runtime tipado, com um trader da Monad passando de 500 estrelas no topo. No mesmo dia, portabilidade de sessão entre agentes estreou no HN, e um humanizador open-source fez 432 estrelas em dois dias.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-18",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-18",
+      "slides": [
+        {
+          "title": "Projetos e repos · 18 de setembro de 2026",
+          "body": "O Jev virou plataforma em 48 horas: já são 8 projetos públicos em volta do runtime tipado, com um trader da Monad passando de 500 estrelas no topo. No mesmo dia, portabilidade de sessão entre agentes estreou no HN, e um humanizador open-source fez 432 estrelas em dois dias."
+        },
+        {
+          "title": "Skillsync: sessões de chat que trocam de agente",
+          "body": "Lançamento de YC W26 exporta e importa o histórico de conversa entre agentes diferentes. O transcript deixa de ser refém do harness onde nasceu.",
+          "source": {
+            "label": "HN · 17 set",
+            "url": "https://news.ycombinator.com/item?id=49743049"
+          }
+        },
+        {
+          "title": "O Jev já tem ecossistema, 48h depois do lançamento",
+          "body": "Oito projetos públicos em menos de dois dias: jev-trader, agente que decide trade por bloco da Monad, com 569 estrelas; dois jev-review de code review contínuo, com 182 e 88 estrelas; mais awesome-jev, connectors MCP e skills de uso.",
+          "source": {
+            "label": "GitHub · 17 set",
+            "url": "https://github.com/jarrodwatts/jev-trader"
+          }
+        },
+        {
+          "title": "text-humanizer: 432 estrelas para rehumanizar texto",
+          "body": "Repositório open-source converte texto gerado por IA em versão humanizada. Fez 432 estrelas em dois dias, com a tensão ética declarada no próprio README.",
+          "source": {
+            "label": "GitHub · 16 set",
+            "url": "https://github.com/korcarc/text-humanizer"
+          }
+        },
+        {
+          "title": "Agente de IA ganha acesso ao WhatsApp via MCP",
+          "body": "Show HN de um MCP server que dá ao agente acesso a mensagens, contatos e envio no WhatsApp.",
+          "source": {
+            "label": "HN · 16 set",
+            "url": "https://news.ycombinator.com/item?id=49728159"
+          }
+        },
+        {
+          "title": "556 modelos de LLM como personagens de pixel",
+          "body": "Site chinês open-source visualiza 556 modelos num mapa vivo: quem é mais inteligente, mais barato, quem lançou agora, com timeline completa e rankings em várias dimensões.",
+          "source": {
+            "label": "GitHub · 17 set",
+            "url": "https://github.com/liyupi/ai-model-world"
+          }
+        },
+        {
+          "title": "Die With Me: sala de espera dos rate limits",
+          "body": "A brincadeira do \"museum of slow\" agora tem sala para usuários de Claude e Codex esperando o reset de cota, com os limites exibidos como away message.",
+          "source": {
+            "label": "diewithme.co · 17 set",
+            "url": "https://diewithme.co/join"
+          }
+        },
+        {
+          "title": "POV-AI-Storytelling: narrativa visual em 1ª pessoa",
+          "body": "Framework prático para criar histórias visuais de IA em primeira pessoa, com pipeline de consistência de personagem.",
+          "source": {
+            "label": "GitHub · 17 set",
+            "url": "https://github.com/5263jh/POV-AI-Storytelling"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A conversa entre agentes virou ativo portátil, e o Jev mostrou que um runtime tipado atrai ecossistema em horas, não meses. Texto que não soa de máquina e narrativa visual consistente viraram projetos com tração imediata. Até o rate limit ganhou lugar de encontro."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-18",
       "date": "2026-09-18",
       "hook": "Panorama IA · 18 de setembro de 2026",
