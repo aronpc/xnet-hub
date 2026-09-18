@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-18-13h33",
+      "date": "2026-09-18",
+      "time": "13h33",
+      "hook": "Passadas três horas do salto para os 80 mil, o Bitcoin segue por lá e encostou na máxima de 24 horas: 81,2 mil. O volume do dia subiu a 40,2 bilhões de dólares e o clima anda longe de euforia.",
+      "caption": "Preço colado no teto do dia, sem pressa\n\nLeia: https://xbtc.aronpc.dev/#2026-09-18-13h33",
+      "link": "https://xbtc.aronpc.dev/#2026-09-18-13h33",
+      "slides": [
+        {
+          "title": "A alta que se sustenta",
+          "body": "Preço colado no teto do dia, sem pressa"
+        },
+        {
+          "title": "US$ 80.992",
+          "body": "Δ1h +0,13% · Δ24h +5,68% · vol 24h US$ 40,2bi",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "ALTA",
+          "body": "Seis velas de alta seguidas com o preço colado na máxima do dia · funding +0,0065% e L/S 0,97, mesa equilibrada · sentimento em 56, pouca ganância para uma subida de 5,7% em 24 horas",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "O teto do dia a 0,2%",
+          "body": "Acima de 81,2 mil, o dia fica sem teto e 82 mil é a referência seguinte · 80,1 mil (−1,3%) segura a região; se ceder, 79,2 mil entra no mapa"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-18-11h33",
       "date": "2026-09-18",
       "time": "11h33",
