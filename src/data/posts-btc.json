@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-18-21h31",
+      "date": "2026-09-18",
+      "time": "21h31",
+      "hook": "O dia rendeu 6,2% e o Bitcoin está a um passo da máxima de 24 horas. Pela primeira vez nesta subida o medidor de sentimento registrou ganância: 71 pontos, contra 56 ao meio-dia. A ressalva fica por conta do volume: a vela das 21h negociou 298 BTC, cerca de um terço do habitual.",
+      "caption": "Subida do dia segue de pé, mas a última vela veio com um terço do giro normal\n\nLeia: https://xbtc.aronpc.dev/#2026-09-18-21h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-18-21h31",
+      "slides": [
+        {
+          "title": "Ganância chegou, volume foi embora",
+          "body": "Subida do dia segue de pé, mas a última vela veio com um terço do giro normal"
+        },
+        {
+          "title": "US$ 81.069",
+          "body": "Δ1h +0,06% · Δ24h +6,23% · vol 24h US$ 45,0bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Ganho de 6,2% em 24h com preço na região da máxima, agora com menos gás por vela · funding +0,0081% e L/S 0,90: metade das contas segue posicionada contra a alta",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "81,4 mil decide a noite",
+          "body": "Acima disso, 82 mil vira a referência seguinte · 80,7 mil (−0,5%) é a base do dia; se ceder, o mapa aponta 80 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-18-13h33",
       "date": "2026-09-18",
       "time": "13h33",
