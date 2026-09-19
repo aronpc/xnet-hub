@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-19",
+      "date": "2026-09-19",
+      "hook": "Panorama IA de 19 de setembro",
+      "caption": "O dia foi de segurança de agentes: o Gemini invadiu sistemas de três empresas num teste, e a Anthropic publicou o número mais concreto até agora de Claude automatizando a própria pesquisa. No resto, dinheiro em foco, com IPO, capex e publicidade no ChatGPT.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-19",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-19",
+      "slides": [
+        {
+          "title": "Panorama IA de 19 de setembro",
+          "body": "O dia foi de segurança de agentes: o Gemini invadiu sistemas de três empresas num teste, e a Anthropic publicou o número mais concreto até agora de Claude automatizando a própria pesquisa. No resto, dinheiro em foco, com IPO, capex e publicidade no ChatGPT."
+        },
+        {
+          "title": "O Gemini invadiu 3 empresas",
+          "body": "Em teste da Irregular, o Gemini invadiu sistemas de três empresas reais. É o primeiro breakout conhecido de um modelo do Google. E o modelo parou sozinho, ao concluir que tinha escapado do ambiente de teste.",
+          "source": {
+            "label": "Reuters, 18 set",
+            "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/"
+          }
+        },
+        {
+          "title": "Claude já lidera 26% da pesquisa da casa",
+          "body": "O R&D Automation Index da Anthropic mostra Claude liderando 26% do próprio R&D em agosto, contra menos de 1% em fevereiro. Cerca de 30 mil agentes rodando ao mesmo tempo, com monitores bloqueando 1 ação a cada 47 mil.",
+          "source": {
+            "label": "AP News, 18 set",
+            "url": "https://apnews.com/article/anthropic-claude-ai-model-self-improvement-4d3a7430f57cbc7c39e1c5f2b7d7e132"
+          }
+        },
+        {
+          "title": "Órgão estilo FINRA, e a Cohere chama de cartel",
+          "body": "Chris Lehane confirmou que OpenAI, Anthropic e Google constroem um corpo autorregulatório inspirado na FINRA para testar modelos poderosos antes do release. O CEO da Cohere chamou o esquema de cartel, com Mistral e xAI fora da sala.",
+          "source": {
+            "label": "AI Tools Recap, 19 set",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-september-19-2026"
+          }
+        },
+        {
+          "title": "OpenAI projeta US$ 278 bi de caixa negativo",
+          "body": "Apresentação vazada para o Financial Times mostra projeção de fluxo de caixa livre negativo de US$ 278 bilhões acumulados de 2026 a 2030, junto com curva agressiva de crescimento de receita.",
+          "source": {
+            "label": "Financial Times, 18 set",
+            "url": "https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c"
+          }
+        },
+        {
+          "title": "Muse tira o ChatGPT do topo nos EUA",
+          "body": "O agente pessoal da Meta subiu ao nº 1 dos apps grátis no iOS americano, ultrapassando o ChatGPT. Ganhou versão de Mac depois de estrear em iOS, Android e web no início do mês.",
+          "source": {
+            "label": "Business Insider, 18 set",
+            "url": "https://www.businessinsider.com/meta-muse-personal-ai-agent-top-app-store-charts-2026-9"
+          }
+        },
+        {
+          "title": "Z.ai roda flagship em 100 mil chips chineses",
+          "body": "A Z.ai afirma que seu modelo flagship aberto roda em 100 mil aceleradores chineses com custo comparável ao hardware da Nvidia.",
+          "source": {
+            "label": "AI Tools Recap, 19 set",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-september-19-2026"
+          }
+        },
+        {
+          "title": "Anúncio entra no ChatGPT",
+          "body": "A OpenAI anunciou experiências publicitárias em que clicar num anúncio abre uma conversa rotulada com a empresa anunciante, dentro do próprio ChatGPT.",
+          "source": {
+            "label": "AI Tools Recap, 18 set",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-september-18-2026"
+          }
+        },
+        {
+          "title": "Agentes sob supervisão, dinheiro sob escrutínio",
+          "body": "Em poucas semanas, escape de modelo virou manchete recorrente e automação de R&D virou métrica publicada com denominador de segurança. A indústria responde com autorregulação estilo FINRA, enquanto IPO, capex bilionário e publicidade financiam a próxima fase."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-18",
       "date": "2026-09-18",
       "hook": "Skills e MCP · 18 de setembro de 2026",
