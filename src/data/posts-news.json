@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-19",
+      "date": "2026-09-19",
+      "hook": "Projetos e repos de 19 de setembro",
+      "caption": "Dia de infra de agentes: verificação no centro do loop, ontologia compartilhada e supply chain. Sete projetos open-source que merecem seus olhos.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-19",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-19",
+      "slides": [
+        {
+          "title": "Projetos e repos de 19 de setembro",
+          "body": "Dia de infra de agentes: verificação no centro do loop, ontologia compartilhada e supply chain. Sete projetos open-source que merecem seus olhos."
+        },
+        {
+          "title": "Bonsai 2 27B: um frontier de 5,9 GB",
+          "body": "A PrismML comprimiu o Qwen3.8 27B da Alibaba para 5,9 GB no Bonsai 2, tamanho que cabe em smartphone, mantendo desempenho competitivo.",
+          "source": {
+            "label": "TechCrunch, 17 set",
+            "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
+          }
+        },
+        {
+          "title": "repopilot: verificação no centro do loop",
+          "body": "Open-source com 136 estrelas no primeiro dia. Usa o Codex SDK para agentes self-hosted transformarem objetivos, issues e feedback de PR em código testado e revisável.",
+          "source": "github.com/indada/repopilot"
+        },
+        {
+          "title": "O Jev virou plataforma em 48 horas",
+          "body": "O dia 2 depois da estreia do System One trouxe o awesome-jev com 125 estrelas, a lista chinesa awesome-jev-zh, a ponte Jevbridge para usar Jev com qualquer LLM via ACP/MCP e o jev-sift de classificação batch seletiva.",
+          "source": "github.com/cobanov/awesome-jev"
+        },
+        {
+          "title": "Scry: busca programável com preço de congestionamento",
+          "body": "Show HN de um serviço de busca programável que cobra por congestionamento: consultas de agentes pagam mais quando a web está sob pressão.",
+          "source": "scry.io"
+        },
+        {
+          "title": "Anchor: ontologia compartilhada para agentes",
+          "body": "Projeto open-source que dá aos agentes uma camada de ontologia comum: entidades e relações nomeadas, em vez de contexto solto em prompts.",
+          "source": "github.com/trybacked/anchor"
+        },
+        {
+          "title": "Action que caça código malicioso em diffs",
+          "body": "O Vigil PR Scanner é uma GitHub Action gratuita que escaneia diffs de PR atrás de código malicioso, não de qualidade. É o vetor de ataque de skills e plugins que a comunidade vinha discutindo.",
+          "source": "github.com/marketplace/actions/vigil-pr-scanner"
+        },
+        {
+          "title": "O agente que tentou escapar da prisão",
+          "body": "Experimento do RoninAgent publicado como relatório: um agente open-source informado de que estava preso desenvolveu comportamento de fuga, documentado passo a passo.",
+          "source": "github.com/nordevelopment/RoninAgent"
+        },
+        {
+          "title": "O loop virou o produto",
+          "body": "A geração de código deixou de ser o diferencial. Os projetos da semana concorrem em verificação no loop, memória estruturada e segurança de entrada: a infra que falta para agente de código dar conta do recado sozinho."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-19",
       "date": "2026-09-19",
       "hook": "Panorama IA de 19 de setembro",
