@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-19-14h31",
+      "date": "2026-09-19",
+      "time": "14h31",
+      "hook": "A primeira investida em 82 mil durou menos de uma hora. BTC tocou 81.951, o topo do dia, e devolveu na sequência: 81.511 na leitura das 14h31, de volta à faixa de 81 a 82 mil onde passa o dia. Com menos giro que a manhã, o clima é de cautela.",
+      "caption": "Topo do dia tocado e devolvido em seguida; preço de volta à faixa de 81 a 82 mil, onde passou o dia inteiro\n\nLeia: https://xbtc.aronpc.dev/#2026-09-19-14h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-19-14h31",
+      "slides": [
+        {
+          "title": "A investida em 82 mil durou menos de uma hora",
+          "body": "Topo do dia tocado e devolvido em seguida; preço de volta à faixa de 81 a 82 mil, onde passou o dia inteiro"
+        },
+        {
+          "title": "US$ 81.511",
+          "body": "Δ1h -0,40% · Δ24h +1,09% · vol 24h US$ 27,5bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Topo tocado e não sustentado, fechamento de volta à faixa com giro a 0,73 da média · Smart Money: funding +0,0084%, quase neutro · L/S 0,95 com 51% das contas no lado vendedor",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A próxima hora vai pedir uma segunda tentativa",
+          "body": "Passar de 81.951 com giro de volta à média muda o quadro · Base da faixa: 81.000 (-0,63%) · Topo do dia: 81.951 (+0,54%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-19-13h30",
       "date": "2026-09-19",
       "time": "13h30",
