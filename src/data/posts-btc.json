@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-19-05h32",
+      "date": "2026-09-19",
+      "time": "05h32",
+      "hook": "A madrugada inteira na mesma faixa e a vela das 5h resolveu sair: fechou em 81.301, acima da compressão. O curioso é quem está do outro lado: 51,6% das contas posicionadas contra, num dia que já rende +4,35%.",
+      "caption": "Vela de 05h fechou acima da compressão da madrugada, com mais da metade das contas do lado oposto\n\nLeia: https://xbtc.aronpc.dev/#2026-09-19-05h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-19-05h32",
+      "slides": [
+        {
+          "title": "Alta com a maioria na contramão",
+          "body": "Vela de 05h fechou acima da compressão da madrugada, com mais da metade das contas do lado oposto"
+        },
+        {
+          "title": "US$ 81.269",
+          "body": "Δ1h +0,24% · Δ24h +4,35% · vol 24h US$ 40,9bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Consolidação em alta (81,0 a 81,4k) após +4,35% em 24h · Smart Money: funding +0,01% (neutro) e L/S 0,94, com 51,6% das contas short",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "81,4 mil abre o caminho",
+          "body": "Acima disso, o topo do dia (81.741) entra em cena · Suporte 81.000 (−0,33%) · Resistência 81.741 (+0,58%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-18-22h31",
       "date": "2026-09-18",
       "time": "22h31",
