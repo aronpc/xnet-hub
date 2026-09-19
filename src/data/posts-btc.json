@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-18-22h31",
+      "date": "2026-09-18",
+      "time": "22h31",
+      "hook": "O topo do dia foi testado às 21h e não cedeu. O preço encostou em 81.741 e voltou na mesma hora, com a vela da tentativa negociando 754 BTC, metade do giro que essa região costuma pedir. Já são onze velas seguidas entre 81,0 e 81,7 mil. O dia ainda entrega 6,2%, mas a ponta segue sem convicção.",
+      "caption": "Tentativa das 21h parou na máxima de 24 horas e voltou, com metade do volume do costume\n\nLeia: https://xbtc.aronpc.dev/#2026-09-18-22h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-18-22h31",
+      "slides": [
+        {
+          "title": "O topo não cedeu",
+          "body": "Tentativa das 21h parou na máxima de 24 horas e voltou, com metade do volume do costume"
+        },
+        {
+          "title": "US$ 81.271",
+          "body": "Δ1h +0,25% · Δ24h +6,20% · vol 24h US$ 45,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Onze velas na mesma faixa e quebra sem giro viram varredura falsa · Smart Money: funding +0,009% e L/S 0,92, com 52% das contas na contramão da alta",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "81,7 mil é o número agora",
+          "body": "Fechamento acima com 1.000 BTC por vela muda o mapa para 82 mil · 81,0 mil é a linha de baixo: ceder devolve 80,7 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-18-21h31",
       "date": "2026-09-18",
       "time": "21h31",
