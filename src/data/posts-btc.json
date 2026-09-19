@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-19-13h30",
+      "date": "2026-09-19",
+      "time": "13h30",
+      "hook": "81.951 é o novo teto das últimas 24 horas, e o preço segue na porta na leitura das 13h30: 81.836. Desde o fim da manhã os fechamentos de hora em hora só sobem, agora com giro menor que o da madrugada. A linha redonda de 82 mil ficou a 0,2%.",
+      "caption": "Fechamentos de 1h só sobem desde o fim da manhã, e com menos giro que a virada da madrugada\n\nLeia: https://xbtc.aronpc.dev/#2026-09-19-13h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-19-13h30",
+      "slides": [
+        {
+          "title": "Teto renovado a 0,2% de 82 mil",
+          "body": "Fechamentos de 1h só sobem desde o fim da manhã, e com menos giro que a virada da madrugada"
+        },
+        {
+          "title": "US$ 81.836",
+          "body": "Δ1h +0,34% · Δ24h +1,01% · vol 24h US$ 28,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Teto de 24h renovado com 4 fechamentos seguidos de alta e a maior parte das contas ainda posicionada contra · Smart Money: funding +0,01% · L/S 0,95 (49% em compra)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "82 mil define a próxima hora",
+          "body": "Fechamento acima com giro coloca 82.800 na conversa · perder 81.300 devolve o campo a 80.500 · zona inferior 80.500 (−1,6%) · topo 82.000 (+0,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-19-05h32",
       "date": "2026-09-19",
       "time": "05h32",
