@@ -2,6 +2,64 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-19",
+      "date": "2026-09-19",
+      "hook": "Skills e MCP de 19 de setembro",
+      "caption": "Dia de higiene do ecossistema: o AGENTS.md unificando configuração entre harnesses e um estudo que põe número no problema de disparo das skills.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-19",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-19",
+      "slides": [
+        {
+          "title": "Skills e MCP de 19 de setembro",
+          "body": "Dia de higiene do ecossistema: o AGENTS.md unificando configuração entre harnesses e um estudo que põe número no problema de disparo das skills."
+        },
+        {
+          "title": "AGENTS.md chega ao Claude Code",
+          "body": "A versão 2.1.277 lê AGENTS.md quando o projeto não tem CLAUDE.md, no padrão contribuído pela OpenAI à agência de padrões de agentes. A 2.1.278 muda o auto mode para o classificador server-side, sem cobrar o overhead.",
+          "source": {
+            "label": "CHANGELOG oficial",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "69% das skills públicas não disparam direito",
+          "body": "O Skillcrossroads analisou 216 skills públicas do Claude Code e concluiu que 69% não disparam de forma confiável: descriptions mal escritas e gatilhos que o modelo não reconhece.",
+          "source": "skillcrossroads.com"
+        },
+        {
+          "title": "GitLab 19.4 oficializa MCP e governança",
+          "body": "A release traz MCP server tools nativos e controles de governança para agentes de IA atuando em repositórios e pipelines.",
+          "source": {
+            "label": "GitLab 19.4",
+            "url": "https://docs.gitlab.com/releases/19/gitlab-19-4-released/"
+          }
+        },
+        {
+          "title": "Trailers de produto com a cara real do produto",
+          "body": "A guizang-product-video-skill produz vídeos promocionais de atualização de software reutilizando componentes e design language reais, com storyboard, trilha original e render. Para Claude Code e Codex.",
+          "source": "github.com/op7418/guizang-product-video-skill"
+        },
+        {
+          "title": "clarify-intent: menos entrevista, mais resolução",
+          "body": "Skill que define a política de esclarecimento do agente: perguntas mínimas, sem interrogatório de requisitos. Decide quando perguntar e quando simplesmente fazer.",
+          "source": "github.com/Hugo-DDT/clarify-intent"
+        },
+        {
+          "title": "lorenzini valida o veredito do reviewer",
+          "body": "Skill do Claude Code que espera o veredito de um PR reviewer externo e decide se ele realmente significa pass, evitando merge automático em falso positivo.",
+          "source": "github.com/Nanako0129/lorenzini"
+        },
+        {
+          "title": "jev-seo: Semrush grátis, em Rust",
+          "body": "CLI e MCP server em Rust, 100% grátis, para SEO e GEO agent-first via DuckDuckGo. Posicionado como substituto de Semrush e OpenSEO para agentes.",
+          "source": "github.com/AkashPriyadarshii/jev-seo"
+        },
+        {
+          "title": "O ecossistema cresceu, agora vem a higiene",
+          "body": "Skills e MCP servers aparecem todo dia, e a diferença vai morar no disparo confiável, na configuração unificada e em gates que validam outros agentes. O AGENTS.md e o lint de descriptions apontam para a mesma direção."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-19",
       "date": "2026-09-19",
       "hook": "Projetos e repos de 19 de setembro",
