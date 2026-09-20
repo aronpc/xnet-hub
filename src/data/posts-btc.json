@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-20-13h31",
+      "date": "2026-09-20",
+      "time": "13h31",
+      "hook": "Ao meio-dia, a passagem por 80.600 ainda era um movimento manso: 309 BTC negociados na hora, contra 472 de média. Às 13h31 o quadro era outro. O degrau seguinte, 81.200, saiu do caminho na hora mais negociada do dia (620 BTC) e o BTC fechou em 81.209, no terço de cima do canal de 24h e a 0,8% da máxima. No acumulado do dia ainda pesa o pico de ontem: queda de 0,74%.",
+      "caption": "BTC em 81.209, no terço de cima do canal de 24h e a 0,8% da máxima\n\nLeia: https://xbtc.aronpc.dev/#2026-09-20-13h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-20-13h31",
+      "slides": [
+        {
+          "title": "81.200 saiu do caminho na hora mais negociada do dia",
+          "body": "BTC em 81.209, no terço de cima do canal de 24h e a 0,8% da máxima"
+        },
+        {
+          "title": "US$ 81.209",
+          "body": "Δ1h +0,56% · Δ24h −0,74% · vol 24h US$ 23,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Sequência de quatro velas de 1h até 81.128, ponto mais alto do dia · Smart money: funding +0,0067%, esfriando enquanto o preço sobe · L/S 0,99 (50% short)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A máxima de 24h é o próximo teste",
+          "body": "Suporte 80.900 (−0,4%, base do movimento) · Resistência 81.850 (+0,8%, máxima 24h)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-20-12h31",
       "date": "2026-09-20",
       "time": "12h31",
