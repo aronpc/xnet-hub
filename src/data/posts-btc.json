@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-20-18h30",
+      "date": "2026-09-20",
+      "time": "18h30",
+      "hook": "O meio-dia tinha empurrado o BTC acima de 81.200. A tarde cobrou de volta: cinco horas seguidas de recuo desde o topo de 81.497, e a linha de 81.000, que sustentou a subida, voltou a apertar o preço por cima. Agora são 80.837. O sentimento, esse, nem percebeu: segue em 71 de ganância.",
+      "caption": "Cinco horas de recuo do topo de 81.497 até 80.837, com sentimento ainda em ganância\n\nLeia: https://xbtc.aronpc.dev/#2026-09-20-18h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-20-18h30",
+      "slides": [
+        {
+          "title": "A tarde devolveu a alta do meio-dia",
+          "body": "Cinco horas de recuo do topo de 81.497 até 80.837, com sentimento ainda em ganância"
+        },
+        {
+          "title": "US$ 80.837",
+          "body": "Δ1h −0,41% · Δ24h −0,23% · vol 24h US$ 23,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O preço perdeu a faixa de 81.000 e desceu cinco horas seguidas · Smart money: funding +0,004%, quase zero, e L/S 0,97, alavancagem equilibrada sem convicção para nenhum lado",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A próxima hora passa por 80.500",
+          "body": "Suporte 80.265 (−0,71%, fundo do dia) · Resistência 81.000 (+0,20%, faixa perdida)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-20-13h31",
       "date": "2026-09-20",
       "time": "13h31",
