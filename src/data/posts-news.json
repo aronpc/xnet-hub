@@ -2,6 +2,75 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-20",
+      "date": "2026-09-20",
+      "hook": "Panorama IA de 20 de setembro",
+      "caption": "Começa com processo: OpenAI, Anthropic, Google e SpaceXAI são acusadas de combinar para frear a IA. O dia ainda traz o Claude invadindo a OpenAI num teste, LLM desenhando chip e os números mais concretos já publicados sobre segurança de agentes.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-20",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-20",
+      "slides": [
+        {
+          "title": "Panorama IA de 20 de setembro",
+          "body": "Começa com processo: OpenAI, Anthropic, Google e SpaceXAI são acusadas de combinar para frear a IA. O dia ainda traz o Claude invadindo a OpenAI num teste, LLM desenhando chip e os números mais concretos já publicados sobre segurança de agentes."
+        },
+        {
+          "title": "Ação acusa OpenAI, Anthropic, Google e SpaceXAI de frear a IA",
+          "body": "Um grupo de subscritores entrou com ação na Califórnia alegando acordo ilegal de contenção: os quatro laboratórios teriam combinado segurar o ritmo de desenvolvimento. A tese é de violação antitruste per se.",
+          "source": {
+            "label": "Independent, 19 set",
+            "url": "https://www.independent.co.uk/news/lawsuit-anthropic-google-openai-lawyers-b3052942.html"
+          }
+        },
+        {
+          "title": "Claude 'invadiu' a OpenAI, mas só com o Opus 5",
+          "body": "Um teste ético relatado pelo WSJ e pelo Guardian hackeou a OpenAI com ajuda do Claude. Segundo The New Stack, tentativas anteriores falharam até o Opus 5 chegar.",
+          "source": {
+            "label": "The Guardian, 18 set",
+            "url": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatgbot"
+          }
+        },
+        {
+          "title": "OpenAI usou os próprios LLMs para desenhar o chip Jalapeño",
+          "body": "Relato técnico do IEEE Spectrum mostra os LLMs da OpenAI no design do chip 'Jalapeño', da RTL à verificação. Fez 199 pontos no Hacker News.",
+          "source": {
+            "label": "IEEE Spectrum, 18 set",
+            "url": "https://spectrum.ieee.org/llms-for-chip-design"
+          }
+        },
+        {
+          "title": "'Você quase nunca deveria usar IA para escrever' viraliza",
+          "body": "Ensaio de Eric Grunewald no topo do Hacker News, com 262 pontos. O argumento: escrever é pensar, e terceirizar a escrita atrofia o raciocínio.",
+          "source": {
+            "label": "Substack, Eric Grunewald",
+            "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
+          }
+        },
+        {
+          "title": "xAI lança Grok Voice Transcribe 2.0",
+          "body": "Novo modelo de speech-to-text anunciado no newsroom da xAI, com foco em acurácia e custo-benefício.",
+          "source": "x.ai/news"
+        },
+        {
+          "title": "StepFun Step 5 entra na fronteira Pareto",
+          "body": "O preview do Step 5 já aparece na fronteira de inteligência por custo da Artificial Analysis.",
+          "source": "artificialanalysis.ai/models/step-5"
+        },
+        {
+          "title": "Cache-to-Cache: LLMs trocam estado sem texto",
+          "body": "Paper no arXiv, com 102 pontos no Hacker News: modelos se comunicam trocando estado semântico cacheado diretamente, sem serializar texto.",
+          "source": "arxiv.org/abs/2510.03215"
+        },
+        {
+          "title": "30 mil agentes, 1 bloqueio em 47 mil ações",
+          "body": "Dashboard da Anthropic detalhou o R&D Automation Index: cerca de 30 mil agentes rodando ao mesmo tempo, monitores bloqueando 1 ação em cada 47.000, e Claude sem alcançar AL5 em nenhum subconjunto medido.",
+          "source": "aitoolsrecap.com"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A discussão agora se resolve com prova: tribunal, denominador de segurança, custo de orquestração. Enquanto isso, a fronteira aberta chinesa aperta o preço, e a voz vira o próximo campo de batalha."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-19",
       "date": "2026-09-19",
       "hook": "Skills e MCP de 19 de setembro",
