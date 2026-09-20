@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-20-00h31",
+      "date": "2026-09-20",
+      "time": "00h31",
+      "hook": "A virada do dia levou o preço de 80.962 para 80.358 em cerca de uma hora, e a vela de queda negociou 2,6 vezes o volume médio. As faixas de 80.900 e 80.400 que seguraram o dia inteiro foram passadas para baixo. Às 00h31, o BTC estava a poucos dólares do menor preço das últimas 24h.",
+      "caption": "Candle de queda a 2,6× o volume médio passou por 80.900 e 80.400 e parou rente à mínima de 24h (80.126)\n\nLeia: https://xbtc.aronpc.dev/#2026-09-20-00h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-20-00h31",
+      "slides": [
+        {
+          "title": "A queda chegou com volume",
+          "body": "Candle de queda a 2,6× o volume médio passou por 80.900 e 80.400 e parou rente à mínima de 24h (80.126)"
+        },
+        {
+          "title": "US$ 80.358",
+          "body": "Δ1h -0,75% · Δ24h -0,94% · vol 24h US$ 24,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Fechamentos de 1h em degraus de queda, com volume bem acima da média · Smart Money: funding +0,01% · L/S 0,89, com 52,9% das contas no lado vendedor",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A madrugada agora é a faixa 80.100 a 81.000",
+          "body": "Suporte 80.100 (-0,3%) · Resistência 81.000 (+0,8%) · acima, a máxima de 24h é 81.951; abaixo de 80.100, a próxima referência é 79.400",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-19-23h30",
       "date": "2026-09-19",
       "time": "23h30",
