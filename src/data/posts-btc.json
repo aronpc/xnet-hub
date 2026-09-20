@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-20-19h30",
+      "date": "2026-09-20",
+      "time": "19h30",
+      "hook": "Há uma hora o BTC tinha caído para 80.837, abaixo da linha de 81.000. A queda durou pouco: o preço voltou acima dela na hora seguinte e agora negocia a 81.108, de novo na metade de cima do corredor das últimas 24 horas.",
+      "caption": "Uma hora depois de cair para 80.837, o preço já opera acima de 81.000, a 81.108\n\nLeia: https://xbtc.aronpc.dev/#2026-09-20-19h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-20-19h30",
+      "slides": [
+        {
+          "title": "A visita abaixo de 81.000 durou uma vela",
+          "body": "Uma hora depois de cair para 80.837, o preço já opera acima de 81.000, a 81.108"
+        },
+        {
+          "title": "US$ 81.108",
+          "body": "Δ1h +0,34% · Δ24h +0,07% · vol 24h US$ 23,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A linha de 81.000, perdida às 18h, foi recomprada na hora seguinte e o preço voltou ao meio do corredor · Smart money: funding +0,004%, quase zero, e long/short 0,96, alavancagem equilibrada sem aposta concentrada",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O dia se decide entre 81.000 e 81.500",
+          "body": "Suporte 81.000 (−0,13%, recém-recuperado) · Resistência 81.500 (+0,48%, topo do dia)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-20-18h30",
       "date": "2026-09-20",
       "time": "18h30",
