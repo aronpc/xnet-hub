@@ -2,6 +2,53 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-20",
+      "date": "2026-09-20",
+      "hook": "Projetos IA de 20 de setembro",
+      "caption": "O dia é de computer use: versão open source com o CUA-S1 e versão local com o jev-use. E o ecossistema Jev acaba de virar categoria própria no GitHub.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-20",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-20",
+      "slides": [
+        {
+          "title": "Projetos IA de 20 de setembro",
+          "body": "O dia é de computer use: versão open source com o CUA-S1 e versão local com o jev-use. E o ecossistema Jev acaba de virar categoria própria no GitHub."
+        },
+        {
+          "title": "CUA-S1: o primeiro 'System One Model' de computer use",
+          "body": "A trycua publicou o CUA-S1, modelo open source que aplica a arquitetura System One ao controle de computador. Show HN com 68 pontos.",
+          "source": "github.com/trycua/cua"
+        },
+        {
+          "title": "Jev, dia 3: lista curada passa 220 estrelas",
+          "body": "O awesome-jev-tools, com 221 estrelas em 24h, cataloga as ferramentas do ecossistema. O jev-align, com 152, usa Jev + GEPA para construir classificadores calibrados a partir de feedback humano.",
+          "source": "github.com/v-modal/awesome-jev-tools"
+        },
+        {
+          "title": "jev-use: fale, e o seu Mac obedece",
+          "body": "Harness open source, 34 estrelas no primeiro dia, que dá ao Jev o controle do macOS lendo a tela pelas APIs de acessibilidade. Sem API de nuvem e sem sandbox remoto.",
+          "source": "github.com/savka777/jev-use"
+        },
+        {
+          "title": "Guia de entrevistas de AI engineering por empresa",
+          "body": "Repositório com perguntas e respostas de entrevistas organizadas por empresa, de Google a OpenAI e Meta. Fez 72 estrelas em menos de 48h.",
+          "source": "github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise"
+        },
+        {
+          "title": "opencloak: remove PII dos prompts antes de saírem da máquina",
+          "body": "Ferramenta open source, 17 estrelas, que detecta e troca detalhes pessoais dos prompts no próprio dispositivo, antes do envio ao provedor. Nenhuma nuvem no caminho.",
+          "source": "github.com/arikchakma/opencloak"
+        },
+        {
+          "title": "ENZO: plataforma de IA completa, local e open source",
+          "body": "Show HN de uma plataforma de IA completa rodando 100% local: chat, agentes e ferramentas num pacote único.",
+          "source": "github.com/theguysudo/ENZO"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Computer use deixou de ser exclusividade de demo de laboratório: já tem versão open source, versão local e ponte com o MCP. O ecossistema Jev vira infraestrutura, e privacidade de prompt virou produto."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-20",
       "date": "2026-09-20",
       "hook": "Panorama IA de 20 de setembro",
