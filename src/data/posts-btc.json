@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-19-23h30",
+      "date": "2026-09-19",
+      "time": "23h30",
+      "hook": "BTC chegou a 81.839 no começo da tarde e dali só desceu. Foram quatro fechamentos horários seguidos em queda, e a leitura das 23h30 pegou o preço em 80.962, encostado na mínima de 24h. O dia que começou pra cima termina lá embaixo.",
+      "caption": "Máxima de 81.839 no começo da tarde e recuo pelo resto do dia, até o fechamento da 23h colar no menor preço das últimas 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-09-19-23h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-19-23h30",
+      "slides": [
+        {
+          "title": "Subiu de tarde, terminou na mínima",
+          "body": "Máxima de 81.839 no começo da tarde e recuo pelo resto do dia, até o fechamento da 23h colar no menor preço das últimas 24h"
+        },
+        {
+          "title": "US$ 80.962",
+          "body": "Δ1h -0,20% · Δ24h -0,45% · vol 24h US$ 22,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Quatro fechamentos horários seguidos em queda, com o preço pressionando 80.900 · Smart Money: funding +0,0100% · L/S 0,93, com 51,7% das contas no lado vendedor",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A noite corre por conta de 80.900",
+          "body": "Suporte $80.900 (-0,08%) · Resistência $82.000 (+1,28%) · abaixo vêm 80.400 e 80.000; acima de 81.150, alívio",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-19-14h31",
       "date": "2026-09-19",
       "time": "14h31",
