@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-20",
+      "date": "2026-09-20",
+      "hook": "Skills & MCP de 20 de setembro",
+      "caption": "O formato SKILL.md cruzou o vale da morte: nasceu skill para core de arcade e para mod de Minecraft. No terreno útil, compressão de resposta, busca indexada de arquivos e um dispatcher com 27 papéis.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-20",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-20",
+      "slides": [
+        {
+          "title": "Skills & MCP de 20 de setembro",
+          "body": "O formato SKILL.md cruzou o vale da morte: nasceu skill para core de arcade e para mod de Minecraft. No terreno útil, compressão de resposta, busca indexada de arquivos e um dispatcher com 27 papéis."
+        },
+        {
+          "title": "post-production-skill: pós-produção e VFX no Seedance 2.5",
+          "body": "Skill dedicada ao modelo de vídeo Seedance 2.5, com prompts para efeitos visuais cinematográficos, transições criativas, UI 3D e composição.",
+          "source": "github.com/huangbai-AI/post-production-skill"
+        },
+        {
+          "title": "A trindade de compressão: eli5, simples e estruturado",
+          "body": "Pacote com três skills, 58 estrelas em 24h, para explicar e resumir a saída de IA em níveis: ELI5 direto, resumo simples e resumo estruturado.",
+          "source": "github.com/isas1/skills"
+        },
+        {
+          "title": "everything-search-skill: busca indexada para agentes",
+          "body": "Skill com 45 estrelas que dá a Cursor, Codex e PI-Desktop uma busca de arquivos ultrarrápida com índice local, estilo Everything.",
+          "source": "github.com/Mayuqi-crypto/everything-search-skill"
+        },
+        {
+          "title": "agent-dispatcher: 27 papéis especialistas no Claude Code",
+          "body": "Camada de roteamento capability-aware, com 21 estrelas, que escolhe entre 27 subagentes especialistas com skills compostas e roteamento de ferramentas e MCP.",
+          "source": "github.com/nahid-sparktales/agent-dispatcher"
+        },
+        {
+          "title": "Jev encontra o MCP: typesafe-mcp e o navegador dirigido",
+          "body": "O typesafe-mcp, com 22 estrelas, traz as primitivas tipadas do Jev para o protocolo MCP. O jev-ultrafast-mcp entrega um servidor onde um modelo de decisão dirige a página para o seu agente.",
+          "source": "github.com/PyModel/typesafe-mcp"
+        },
+        {
+          "title": "mac-shortcuts-mcp: o agente lê o dia a dia do seu Mac",
+          "body": "Servidor MCP que expõe Calendar, Reminders, Notes, Contacts, Clipboard, localização e tempo a qualquer agente, via Shortcuts do macOS.",
+          "source": "github.com/Dominic-DK/mac-shortcuts-mcp"
+        },
+        {
+          "title": "Skills para arcade MiSTer, Minecraft e 'pensar comigo'",
+          "body": "Em 24h nasceram skills para buildar cores de arcade no MiSTer, ensinar agentes a criar mods de Minecraft Bedrock e destorcar ideias malformadas com perguntas guiadas.",
+          "source": "github.com/ppriest/MiSTer-CoreSkill"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Skills saíram do truque de prompt e viraram plataforma: comprimem saída, indexam arquivos, roteiam papéis e se conectam ao MCP. A cauda longa chegando é o sinal de que o formato vingou."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-20",
       "date": "2026-09-20",
       "hook": "Projetos IA de 20 de setembro",
