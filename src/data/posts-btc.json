@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-20-12h31",
+      "date": "2026-09-20",
+      "time": "12h31",
+      "hook": "O preço passou a manhã esbarrando em 80.600: onze leituras seguidas sem conseguir atravessar. Perto do meio-dia, o teto cedeu. Quatro fechamentos horários seguidos levaram o BTC a 80.756 na leitura das 12h31, e a vela da passagem veio com menos movimento que a média (309 contra 472 BTC por hora), uma subida discreta. No acumulado do dia, a queda segue em 1,06%.",
+      "caption": "Quatro fechamentos horários para cima atravessaram 80.600 e levaram o preço a 80.756, com menos volume que a média\n\nLeia: https://xbtc.aronpc.dev/#2026-09-20-12h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-20-12h31",
+      "slides": [
+        {
+          "title": "O teto segurou onze horas e cedeu no meio-dia",
+          "body": "Quatro fechamentos horários para cima atravessaram 80.600 e levaram o preço a 80.756, com menos volume que a média"
+        },
+        {
+          "title": "US$ 80.756",
+          "body": "Δ1h +0,32% · Δ24h -1,06% · vol 24h US$ 23,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Quatro fechamentos horários em sequência, atravessando o antigo teto de 80.600 · Smart Money: funding +0,0072% · L/S 0,98, com 49% das contas no lado comprador",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A hora do reteste em 80.600",
+          "body": "Faixa antiga de 80.600 (-0,2%) segurando por baixo · próxima barreira 81.200 (+0,6%) · acima dela, a máxima de 24h em 81.950",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-20-00h31",
       "date": "2026-09-20",
       "time": "00h31",
