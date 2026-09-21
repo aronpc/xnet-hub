@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-21-02h30",
+      "date": "2026-09-21",
+      "time": "02h30",
+      "hook": "O nível perdido no fim de domingo voltou a funcionar na madrugada: BTC a US$ 81.594, com 1,35% no dia.",
+      "caption": "Três fechamentos seguidos acima da linha que ontem era problema.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-21-02h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-21-02h30",
+      "slides": [
+        {
+          "title": "81.500 agora segura por cima",
+          "body": "Três fechamentos seguidos acima da linha que ontem era problema."
+        },
+        {
+          "title": "US$ 81.594",
+          "body": "Δ1h +0,27% · Δ24h +1,35% · vol US$ 24,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fechamentos 81.425 → 81.400 → 81.706 seguram a linha nova · funding +0,010% e L/S 0,93 (52% dos traders contra a alta)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Segurar 81.500 aponta pra 82.100",
+          "body": "Faixa em foco: de 81.500 (−0,12%) a 82.100 (+0,62%, máxima do dia)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada a cada hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-20-23h30",
       "date": "2026-09-20",
       "time": "23h30",
