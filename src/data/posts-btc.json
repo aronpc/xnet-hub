@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-20-23h30",
+      "date": "2026-09-20",
+      "time": "23h30",
+      "hook": "O impulso das 21h não segurou: na vela das 22h, 81.500 cedeu, o preço tocou 81.000 e voltou. O domingo encerra em US$ 81.454, no meio da faixa em que o dia inteiro se desenrolou.",
+      "caption": "Leitura das 23h30: o rompimento das 21h foi desfeito e o preço voltou ao miolo da faixa do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-20-23h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-20-23h30",
+      "slides": [
+        {
+          "title": "Domingo termina empatado",
+          "body": "Leitura das 23h30: o rompimento das 21h foi desfeito e o preço voltou ao miolo da faixa do dia."
+        },
+        {
+          "title": "US$ 81.454",
+          "body": "Δ1h −0,13% · Δ24h +0,61% · vol US$ 26,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O nível rompido às 21h virou teto e a faixa 81.0 a 82.1 segue de pé · Smart Money: funding +0,008%, L/S 0,93 (52% do mercado contra a subida)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A definição ficou pra segunda",
+          "body": "Acima de 81.500 (+0,06%), o topo do dia 82.100 volta ao debate · abaixo de 81.000 (−0,56%), a faixa desce ao mínimo 80.265 · S 81.000 · R 81.500"
+        },
+        {
+          "title": "Semana nova, leitura nova",
+          "body": "O intraday é reescrito a cada 60 minutos"
+        }
+      ]
+    },
+    {
       "id": "2026-09-20-21h30",
       "date": "2026-09-20",
       "time": "21h30",
