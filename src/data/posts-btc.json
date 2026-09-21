@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-21-12h30",
+      "date": "2026-09-21",
+      "time": "12h30",
+      "hook": "O teste dos 86 mil aconteceu: o preço tocou US$ 86.345, nova máxima de 24 horas, e voltou na mesma hora. Primeira recusa do dia.",
+      "caption": "Preço de volta a US$ 85.828, recuo tranquilo depois do esbarrão no teto do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-21-12h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-21-12h30",
+      "slides": [
+        {
+          "title": "86 mil ainda é fronteira",
+          "body": "Preço de volta a US$ 85.828, recuo tranquilo depois do esbarrão no teto do dia."
+        },
+        {
+          "title": "US$ 85.828",
+          "body": "Δ1h +0,14% · Δ24h +6,36% · vol US$ 52,5bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Máxima do dia renovada em 86.345 antes da recusa · funding +0,007% (neutro) · razão L/S 0,90, com 52,6% das contas short",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Um segundo round na faixa",
+          "body": "Consolidação entre 85.300 e 86.300 abre novo teste · Suporte 84.900 (−1,1%) · Resistência 86.300 (+0,6%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova daqui a uma hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-21-11h30",
       "date": "2026-09-21",
       "time": "11h30",
