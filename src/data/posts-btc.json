@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-21-06h30",
+      "date": "2026-09-21",
+      "time": "06h30",
+      "hook": "Hora de fôlego: o Bitcoin passou por 83 mil e 84 mil em sessenta minutos e negocia a US$ 84.453, com 5,10% no dia.",
+      "caption": "É a terceira hora seguida de aceleração. O topo do dia subiu para 84.600, com US$ 33,7bi negociados nas últimas 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-21-06h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-21-06h30",
+      "slides": [
+        {
+          "title": "O dia ganhou velocidade",
+          "body": "É a terceira hora seguida de aceleração. O topo do dia subiu para 84.600, com US$ 33,7bi negociados nas últimas 24 horas."
+        },
+        {
+          "title": "US$ 84.453",
+          "body": "Δ1h +2,26% · Δ24h +5,10% · vol US$ 33,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Ganho de +2,26% na hora, com 52,9% das contas ainda posicionadas contra a alta · funding +0,010% · L/S 0,89",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Próxima parada: 85 mil",
+          "body": "Suporte 83.500 (−1,13%) · Resistência 85.000 (+0,65%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-21-05h30",
       "date": "2026-09-21",
       "time": "05h30",
