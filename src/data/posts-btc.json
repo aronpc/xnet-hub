@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-20-21h30",
+      "date": "2026-09-20",
+      "time": "21h30",
+      "hook": "O BTC passou o dia inteiro entre 80.300 e 81.300, sem convicção pra nenhum lado. Perto das 21h30 o quadro mudou: o preço atravessou 81.500, tocou 81.833 e fechou a hora no ponto mais alto do dia.",
+      "caption": "Leitura das 21h30 com o preço no topo do dia: US$ 81.737.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-20-21h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-20-21h30",
+      "slides": [
+        {
+          "title": "A noite resolveu o dia pra cima",
+          "body": "Leitura das 21h30 com o preço no topo do dia: US$ 81.737."
+        },
+        {
+          "title": "US$ 81.737",
+          "body": "Δ1h +0,70% · Δ24h +0,58% · vol US$ 24,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "A hora mais forte do dia veio com volume maior (US$ 24,6bi contra 23,9bi) · funding +0,006%, L/S 0,96: 51% do mercado posicionado contra a subida",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "82.000 é o próximo número redondo",
+          "body": "Acima, 82.500 entra na conversa; de volta abaixo de 81.500, a alta fica sob suspeita · Suporte 81.500 (-0,29%) · Resistência 82.000 (+0,32%)"
+        },
+        {
+          "title": "De hora em hora",
+          "body": "O intraday é reescrito a cada 60 minutos"
+        }
+      ]
+    },
+    {
       "id": "2026-09-20-19h30",
       "date": "2026-09-20",
       "time": "19h30",
