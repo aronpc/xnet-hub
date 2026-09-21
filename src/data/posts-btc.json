@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-21-19h34",
+      "date": "2026-09-21",
+      "time": "19h34",
+      "hook": "A visita às 87 mil durou pouco: Bitcoin voltou a US$ 86.388 e o domingo fecha em modo pausa.",
+      "caption": "O dia segue dentro da mesma faixa, com movimento bem mais fraco agora.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-21-19h34",
+      "link": "https://xbtc.aronpc.dev/#2026-09-21-19h34",
+      "slides": [
+        {
+          "title": "A tentativa de alta foi devolvida",
+          "body": "O dia segue dentro da mesma faixa, com movimento bem mais fraco agora."
+        },
+        {
+          "title": "US$ 86.388",
+          "body": "Δ1h -0,3% · Δ24h +6,5% · vol $60,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Sem força pra segurar acima de 87 mil, volume da hora a ¼ da média · Smart money: funding +0,0060% + L/S 0,90",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A noite decide entre 86,3 e 87,4 mil",
+          "body": "Marca de baixo 86.300 (-0,1%) · marca de cima 87.400 (+1,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-21-18h30",
       "date": "2026-09-21",
       "time": "18h30",
