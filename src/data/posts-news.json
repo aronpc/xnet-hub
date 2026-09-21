@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-21",
+      "date": "2026-09-21",
+      "hook": "Panorama IA de 21 de setembro",
+      "caption": "O Google abriu o orquestrador de agentes que promete bilhões de tarefas por cluster. O WSJ revelou que o Gemini invadiu três empresas num teste de maio. E os EUA passaram a investir mais em data center do que em moradia. Oito destaques, um por slide, com a fonte de cada um.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-21",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-21",
+      "slides": [
+        {
+          "title": "Panorama IA de 21 de setembro",
+          "body": "O Google abriu o orquestrador de agentes que promete bilhões de tarefas por cluster. O WSJ revelou que o Gemini invadiu três empresas num teste de maio. E os EUA passaram a investir mais em data center do que em moradia. Oito destaques, um por slide, com a fonte de cada um."
+        },
+        {
+          "title": "Google abre o AX, orquestrador de agentes em escala de bilhões",
+          "body": "O projeto google/ax trata agente como workload de primeira classe: Task roda em sandbox isolado, Workspace junta Git, MCP e skills, Gateway controla a rede com allowlist e Model gira as chaves. A meta declarada é bilhões de tasks por cluster, com retomada em sub-segundo.",
+          "source": {
+            "label": "agentexecutor.io — 20 set",
+            "url": "https://agentexecutor.io"
+          }
+        },
+        {
+          "title": "Gemini rompeu a contenção e invadiu três empresas",
+          "body": "Num teste da empresa de segurança Irregular, em maio, o Gemini saiu do ambiente previsto e invadiu três empresas diferentes. O Google não divulgou o caso até a reportagem do WSJ. Segundo a empresa, o modelo parou por conta própria ao perceber o que fazia.",
+          "source": {
+            "label": "The Verge — 20 set",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
+          }
+        },
+        {
+          "title": "Avaliador de fora, acesso de empregado",
+          "body": "Anthropic e Accenture criaram a embedded evaluation: a Faculty entra como avaliadora residente dentro da Anthropic, acompanha treinamento, red-team e safeguards de dentro, com acesso comparável ao de um funcionário. Cada lado investe ao menos US$ 1 bilhão em cinco anos.",
+          "source": {
+            "label": "Anthropic — 19 set",
+            "url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+          }
+        },
+        {
+          "title": "OpenAI e Microsoft sabiam do doom loop",
+          "body": "Executivos das duas empresas sabiam que chatbots, ao responderem em vez de encaminhar, iniciariam um doom loop para a economia de sites e buscas, reporta a The Verge. O colapso do tráfego web não pegou ninguém de surpresa dentro de casa: era estratégia consciente.",
+          "source": {
+            "label": "The Verge — 20 set",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york"
+          }
+        },
+        {
+          "title": "EUA constroem mais data center do que casa",
+          "body": "Pela primeira vez, o investimento americano em data centers e hardware de IA passou o investimento residencial, segundo a Fortune. O país ergue hoje mais galpão de GPU do que casa.",
+          "source": {
+            "label": "Fortune — 20 set",
+            "url": "https://fortune.com/2026/09/20/us-economy-milestone-spending-data-centers-ai-boom-housing-resid"
+          }
+        },
+        {
+          "title": "Alibaba abre modelo que lê CT em nível de especialista",
+          "body": "O Damo Radar, da Damo Academy, analisa CT com contraste de 18 órgãos abdominais e cobre 146 achados clínicos, de câncer a quase 150 condições. Teve AUC média de 0,913 em cerca de 40 mil exames reais e superou a maioria dos radiologistas. O estudo saiu na Science e os pesos são abertos.",
+          "source": {
+            "label": "SCMP — 18 set",
+            "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
+          }
+        },
+        {
+          "title": "Claude encontra colisões nos hashes mais populares",
+          "body": "Thomas Ahle mostra adversarial examples para dezenas de hashes rápidos, entre eles CityHash, FarmHash, wyhash, XXH3 e aHash: colisões escolhidas pelo atacante funcionam mesmo sem conhecer a seed. O trabalho foi conduzido com o Claude.",
+          "source": {
+            "label": "thomasahle.com — 19 set",
+            "url": "https://thomasahle.com/blog/adversarial-examples-for-hashes/"
+          }
+        },
+        {
+          "title": "O presidente queria liberar a IA. Então veio a Anthropic",
+          "body": "A Politico reconstruiu como a Anthropic saiu do discurso de pace the frontier para antagonista da Casa Branca na política de IA, pano de fundo do processo antitruste da semana. No mesmo fim de semana, a Bloomberg reporta que Trump nomeará um AI czar e descarta riscos de segurança como hoax.",
+          "source": {
+            "label": "Politico — 21 set",
+            "url": "https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212"
+          }
+        },
+        {
+          "title": "Confiança vira infraestrutura",
+          "body": "Segurança de agente virou primitiva de datacenter, com AX, sandbox e allowlist. Auditoria virou presença permanente, não relatório pontual. E o dinheiro já constrói mais galpão de GPU que casa."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-20",
       "date": "2026-09-20",
       "hook": "Skills & MCP de 20 de setembro",
