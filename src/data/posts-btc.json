@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-21-09h30",
+      "date": "2026-09-21",
+      "time": "09h30",
+      "hook": "Terceira vez na manhã que o Bitcoin encosta na máxima de 24 horas: US$ 85.048, alta de 5,88% no dia. E a maioria das contas segue na contramão do movimento.",
+      "caption": "Desta vez o teste veio com volume 30% acima da média das velas anteriores.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-21-09h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-21-09h30",
+      "slides": [
+        {
+          "title": "Insistência no topo",
+          "body": "Desta vez o teste veio com volume 30% acima da média das velas anteriores."
+        },
+        {
+          "title": "US$ 85.048",
+          "body": "Δ1h +0,32% · Δ24h +5,88% · vol US$ 1,8bi (Binance)",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Quinta vela de hora seguida no azul · funding +0,01% (neutro) · razão long/short das contas em 0,92",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Foco em 85,5 mil",
+          "body": "Faixa do movimento: 84.100 (−1,1%) a 85.500 (+0,5%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Próxima leitura em 60 minutos."
+        }
+      ]
+    },
+    {
       "id": "2026-09-21-06h30",
       "date": "2026-09-21",
       "time": "06h30",
