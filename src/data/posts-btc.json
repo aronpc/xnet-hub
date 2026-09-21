@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-21-18h30",
+      "date": "2026-09-21",
+      "time": "18h30",
+      "hook": "O domingo de força do Bitcoin perdeu um pouco da velocidade: US$ 86.613, um passinho pra trás na última hora. No dia, ainda são 7,1% de alta.",
+      "caption": "Quem comprou cedo embolsou parte do lucro e o preço voltou a circular dentro da faixa do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-21-18h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-21-18h30",
+      "slides": [
+        {
+          "title": "Uma hora de respiro depois do empurrão",
+          "body": "Quem comprou cedo embolsou parte do lucro e o preço voltou a circular dentro da faixa do dia."
+        },
+        {
+          "title": "US$ 86.613",
+          "body": "Δ1h -0,8% · Δ24h +7,1% · vol $59,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Impulso do dia segue inteiro, agora em marcha lenta · Smart money: funding +0,0054%, 48% das contas compradas",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A noite entre 86 e 87,4 mil",
+          "body": "Marca de baixo 86.000 (-0,7%) · marca de cima 87.400 (+0,9%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-21-17h32",
       "date": "2026-09-21",
       "time": "17h32",
