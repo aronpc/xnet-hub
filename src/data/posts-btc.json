@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-21-11h30",
+      "date": "2026-09-21",
+      "time": "11h30",
+      "hook": "A manhã de testes virou rompimento: o Bitcoin fez nova máxima de 24 horas em US$ 85.845 e negocia a US$ 85.710.",
+      "caption": "Dinheiro real atrás do movimento: o volume 24h saltou de US$ 33,7bi para US$ 49,2bi ao longo da manhã.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-21-11h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-21-11h30",
+      "slides": [
+        {
+          "title": "O volume chegou junto",
+          "body": "Dinheiro real atrás do movimento: o volume 24h saltou de US$ 33,7bi para US$ 49,2bi ao longo da manhã."
+        },
+        {
+          "title": "US$ 85.710",
+          "body": "Δ1h +0,86% · Δ24h +6,47% · vol US$ 49,2bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Seis leituras de hora seguida em alta · funding +0,01% (neutro) · razão L/S 0,90, com 52,5% das contas do lado de fora da alta",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "86 mil no radar",
+          "body": "Suporte 85.000 (−0,8%) · Resistência 86.000 (+0,3%) · acima de 85.845, patamar seguinte 86.500",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova daqui a uma hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-21-09h30",
       "date": "2026-09-21",
       "time": "09h30",
