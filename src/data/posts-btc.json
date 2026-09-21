@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-21-05h30",
+      "date": "2026-09-21",
+      "time": "05h30",
+      "hook": "O teto do dia ficou para trás de madrugada: BTC marcou máxima nova de 82.712 e negocia a US$ 82.588, com 2,76% no dia.",
+      "caption": "Foi o movimento mais forte das últimas 24 horas, com o preço entrando em região que o dia ainda não tinha visitado.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-21-05h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-21-05h30",
+      "slides": [
+        {
+          "title": "82.100 agora é chão",
+          "body": "Foi o movimento mais forte das últimas 24 horas, com o preço entrando em região que o dia ainda não tinha visitado."
+        },
+        {
+          "title": "US$ 82.588",
+          "body": "Δ1h +1,16% · Δ24h +2,76% · vol US$ 25,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Impulso de +1,16% na maior vela 1h do dia, com 53,6% das posições na contramão · funding +0,010% · L/S 0,87",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "83.000 é o redondo seguinte",
+          "body": "Suporte 82.100 (−0,59%) · Resistência 83.000 (+0,50%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-21-02h30",
       "date": "2026-09-21",
       "time": "02h30",
