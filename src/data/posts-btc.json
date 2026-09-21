@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-21-17h32",
+      "date": "2026-09-21",
+      "time": "17h32",
+      "hook": "O nível que segurou o meio-dia cedeu na tarde de domingo: BTC a US$ 87.291, maior preço das últimas 24 horas, com alta de 7,6% no dia.",
+      "caption": "O teto do meio-dia virou chão. Agora o preço testa terreno novo, acima dos 86 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-21-17h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-21-17h32",
+      "slides": [
+        {
+          "title": "86 ficou para trás",
+          "body": "O teto do meio-dia virou chão. Agora o preço testa terreno novo, acima dos 86 mil."
+        },
+        {
+          "title": "US$ 87.291",
+          "body": "Δ1h +1,16% · Δ24h +7,57% · vol $56,9bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Novo topo de 24h em 87.396 · Smart money: funding +0,0046% e 53% das contas na contramão do movimento",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Segurar a casa nova",
+          "body": "Suporte 86.500 (-0,9%) · Resistência 87.500 (+0,2%) · acima disso, 88.000",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Domingo de volume fraco",
+          "body": "A vela da hora fechou a 0,66× do volume médio: a subida veio com pouco volume atrás."
+        }
+      ]
+    },
+    {
       "id": "2026-09-21-12h30",
       "date": "2026-09-21",
       "time": "12h30",
