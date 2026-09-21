@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-21",
+      "date": "2026-09-21",
+      "hook": "Projetos e repos de 21 de setembro",
+      "caption": "A Z.ai abriu seu harness de coding agent e levou 3,2 mil estrelas no primeiro dia. O Jev virou camada de decisão adotada por plataforma, e review cega entre modelos chegou como gate de merge barato. Sete destaques, cada um com o repo.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-21",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-21",
+      "slides": [
+        {
+          "title": "Projetos e repos de 21 de setembro",
+          "body": "A Z.ai abriu seu harness de coding agent e levou 3,2 mil estrelas no primeiro dia. O Jev virou camada de decisão adotada por plataforma, e review cega entre modelos chegou como gate de merge barato. Sete destaques, cada um com o repo."
+        },
+        {
+          "title": "Z.ai abre o ZCode, harness de coding agent",
+          "body": "A zai-org publicou o ZCode, seu harness de coding agent: 3.185 estrelas em cerca de 24 horas, o repo de IA mais estrelado do período. É a mesma Z.ai que roda modelo flagship open-weight em 100 mil aceleradores e prepara uma rodada acima de US$ 5 bilhões.",
+          "source": "github.com/zai-org/ZCode"
+        },
+        {
+          "title": "Jev, dia 4: do hype ao ferramental",
+          "body": "O ecossistema virou infraestrutura. O jevals roda evals e guardrails num request só, o jevgrep faz busca semântica de comportamento entre repos, o JevLoop roda loop de agente sem chamada de LLM e o Jev-Mem traz memória tipada. A Forbes titulou que o Jev corta custos de decisão em 100 vezes, e que Vercel e Cloudflare correram para adotar.",
+          "source": "github.com/openlayer-ai/jevals"
+        },
+        {
+          "title": "O agente em Common Lisp que se reescreve",
+          "body": "Show HN do Autolith, agente construído em Common Lisp cujo traço central é reescrever o próprio código. O self-modifying agent levado a sério, com demo em autolith.rocks.",
+          "source": "autolith.rocks"
+        },
+        {
+          "title": "Codex dirige o Blender em pipeline de vídeo",
+          "body": "Duas workflows documentadas como pipelines executáveis: uma replica vídeo de referência, a outra anima white-model até a geração final com vídeo IA. O agente opera o Blender, a ferramenta 3D profissional, em vez de gerar vídeo do zero.",
+          "source": "github.com/modengsir/blender-video-workflows"
+        },
+        {
+          "title": "Helm: um dispatcher acima dos coding agents",
+          "body": "CLI que encaminha cada task de código para o agente mais adequado instalado na máquina, seja Claude Code, Codex, Cursor, Gemini CLI, Aider ou OpenCode.",
+          "source": "github.com/Jimuelle07/Helm"
+        },
+        {
+          "title": "Review cega entre Codex, Gemini, Grok e Claude",
+          "body": "Skills para review multi-modelo às cegas: cada modelo revisa o mesmo pacote sem ver as respostas dos outros, e o veredito sai sem contaminação.",
+          "source": "github.com/cochinescu/decent-skills"
+        },
+        {
+          "title": "LocalAI, exo, GPUStack ou vLLM?",
+          "body": "O comparativo do nexlab coloca os quatro orquestradores de inferência self-hosted lado a lado: recursos, escalabilidade e casos de uso em 2026.",
+          "source": {
+            "label": "nexlab.net — 20 set",
+            "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/"
+          }
+        },
+        {
+          "title": "A camada acima dos agentes",
+          "body": "Duas camadas novas se consolidaram em volta dos coding agents: roteamento acima deles, com Helm e ZCode, e decisão abaixo, com o Jev e evals acoplados ao request. No meio, review cega multi-modelo vira padrão de gate de merge."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-21",
       "date": "2026-09-21",
       "hook": "Panorama IA de 21 de setembro",
