@@ -2,6 +2,72 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-21",
+      "date": "2026-09-21",
+      "hook": "Skills e MCP de 21 de setembro",
+      "caption": "O MCP sofreu a crítica arquitetural mais compartilhada da semana. O Claude Code confirmou corte de 17% nos limites semanais. E a comunidade respondeu com skill como canon de versão e orquestração com board durável. Oito destaques, um por slide.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-21",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-21",
+      "slides": [
+        {
+          "title": "Skills e MCP de 21 de setembro",
+          "body": "O MCP sofreu a crítica arquitetural mais compartilhada da semana. O Claude Code confirmou corte de 17% nos limites semanais. E a comunidade respondeu com skill como canon de versão e orquestração com board durável. Oito destaques, um por slide."
+        },
+        {
+          "title": "Uma frase vira 10 minutos de documentário",
+          "body": "A investigation-video-skill, do trustfuture, produz longas de investigação sem aparecer: TTS com timestamp por palavra, cobertura de material, colagem em Remotion, ducking de áudio e copy para 8 plataformas.",
+          "source": "github.com/trustfuture/investigation-video-skill"
+        },
+        {
+          "title": "Ponte MCP ↔ OpenAPI 3.1",
+          "body": "Gateway de alta performance que expõe MCP servers como APIs OpenAPI 3.1.0, e o caminho contrário também, desenhado para o ecossistema Open WebUI.",
+          "source": "github.com/TiancongLx/open-mcp-gateway"
+        },
+        {
+          "title": "Why MCP Was Always a Bad Idea viraliza",
+          "body": "Ensaio de Maharshi Patel: o MCP foi desenhado para os modelos fracos de 2024. Hoje LLMs chamam APIs desconhecidas direto via código, e o complexo industrial MCP existiria para remendar o context bloat que os próprios servidores criam.",
+          "source": {
+            "label": "maharship.com — 20 set",
+            "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/"
+          }
+        },
+        {
+          "title": "Limites semanais assentam 17% abaixo do pico",
+          "body": "A BleepingComputer documenta o corte corrente: os limites semanais do Claude Code caem cerca de 17% em relação a maio e se fixam 25% acima do baseline pré-maio. O número de 25% que circulava em posts de usuários não aparece na documentação oficial.",
+          "source": {
+            "label": "BleepingComputer — 20 set",
+            "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/"
+          }
+        },
+        {
+          "title": "Prompts aren't Real: parem de trocar prompts",
+          "body": "Ensaio-palestra de Dan McKinley, do evaluation.club: a obsessão por engenharia de prompt trata sistemas sem intenção como se tivessem. O caminho é avaliação e otimização interligadas, com mais IA monitorando IA.",
+          "source": "evaluation.club"
+        },
+        {
+          "title": "Chief of Staff: board durável entre sessões",
+          "body": "Padrão documentado pela asyncdot: uma sessão coordena e verifica enquanto outras executam, e o estado vive num board externo que sobrevive a compaction e morte de sessão. Todo report de agente é tratado como evidência: re-executa antes de acreditar.",
+          "source": {
+            "label": "asyncdot.com — 19 set",
+            "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/"
+          }
+        },
+        {
+          "title": "A skill autoritativa de React 19+",
+          "body": "Skill que cobre o React moderno, de Actions e use a Compiler e View Transitions, com orientação canônica para coding agents pararem de gerar React 17 em 2026.",
+          "source": "github.com/adhhamdev/modern-react-guidance"
+        },
+        {
+          "title": "Decks cinematográficos dirigidos por scroll",
+          "body": "A Scrolline Deck gera apresentações HTML em scrollytelling com 12 técnicas de cena. O deck vira peça web navegável, dirigida pelo scroll.",
+          "source": "github.com/gongnyang/awesome-html-scrolline-deck"
+        },
+        {
+          "title": "Confiar menos, verificar mais",
+          "body": "MCP sob ataque arquitetural na mesma semana em que o corte de limites bate em quem roda agente em cron. A resposta da comunidade segue um padrão: skill como canon de versão e orquestração com board durável que re-executa antes de acreditar."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-21",
       "date": "2026-09-21",
       "hook": "Projetos e repos de 21 de setembro",
