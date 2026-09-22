@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-21-23h33",
+      "date": "2026-09-21",
+      "time": "23h33",
+      "hook": "A noite terminou quase onde tinha começado: BTC a US$ 85.676, sem mexer na última hora. O domingo fecha empatado e entrega a decisão pra segunda-feira.",
+      "caption": "Depois de tocar 87,4 mil e devolver o caminho, o preço passou a última hora parado, colado na marca de 85,3 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-21-23h33",
+      "link": "https://xbtc.aronpc.dev/#2026-09-21-23h33",
+      "slides": [
+        {
+          "title": "A noite congelou nos 85,6 mil",
+          "body": "Depois de tocar 87,4 mil e devolver o caminho, o preço passou a última hora parado, colado na marca de 85,3 mil."
+        },
+        {
+          "title": "US$ 85.676",
+          "body": "Δ1h +0,02% · Δ24h +5,3% · vol $60,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A queda da noite parou em cima da marca de 85,3 mil · Smart money: funding +0,0087%, L/S 0,85 (só 46% das contas compradas)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A resposta chega com a segunda",
+          "body": "Limite de baixo 85.300 (-0,4%) · limite de cima 86.500 (+1,0%) · volume da hora a 0,46× da média: ninguém quis definir nada no fim de domingo",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-21-22h34",
       "date": "2026-09-21",
       "time": "22h34",
