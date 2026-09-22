@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-22-15h30",
+      "date": "2026-09-22",
+      "time": "15h30",
+      "hook": "BTC a US$ 86.290: o termômetro de sentimento está em 78, zona de ganância extrema, e o preço não conseguiu se firmar acima dos 86,4 mil. Otimismo nas alturas, preço no meio da faixa do dia.",
+      "caption": "A ida acima de 86,4 mil no começo da tarde caiu de volta; o dia segue confinado entre 85,5 e 86,7 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-22-15h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-22-15h30",
+      "slides": [
+        {
+          "title": "Humor lá em cima, preço no meio",
+          "body": "A ida acima de 86,4 mil no começo da tarde caiu de volta; o dia segue confinado entre 85,5 e 86,7 mil."
+        },
+        {
+          "title": "US$ 86.290",
+          "body": "Δ1h −0,3% · Δ24h +0,4% · vol $1,9bi na Binance",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A subida da hora do almoço desfez em torno de uma hora e o preço voltou ao centro da faixa · Smart money: funding −0,001% + L/S 0,91 (52% short)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Ganância extrema (78), preço no meio",
+          "body": "Limites do dia em 86.700 (+0,5%) e 85.500 (−0,9%); abrindo o topo, 87.400 é a referência seguinte, na direção contrária aparece 85.100",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova às 16h30."
+        }
+      ]
+    },
+    {
       "id": "2026-09-22-14h31",
       "date": "2026-09-22",
       "time": "14h31",
