@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-22",
+      "date": "2026-09-22",
+      "hook": "Projetos e Repos IA de 22 de setembro",
+      "caption": "Coordenação e memória de agentes dominaram a rodada: um protocolo que detecta conflito de intenção antes do merge, o ai-memory do Akita para handoff entre vendors, e a confissão da Z.ai de que o ZCode enviava seu repo inteiro para servidores. Sete destaques, um por slide, com a fonte de cada um.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-22",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-22",
+      "slides": [
+        {
+          "title": "Projetos e Repos IA de 22 de setembro",
+          "body": "Coordenação e memória de agentes dominaram a rodada: um protocolo que detecta conflito de intenção antes do merge, o ai-memory do Akita para handoff entre vendors, e a confissão da Z.ai de que o ZCode enviava seu repo inteiro para servidores. Sete destaques, um por slide, com a fonte de cada um."
+        },
+        {
+          "title": "Foremerge detecta conflito de intenção entre agentes paralelos",
+          "body": "Protocolo open-source que intercepta coding agents rodando em paralelo e aponta conflitos de intenção antes de virarem conflito de merge. O lema resume: catch intent conflicts before code conflicts.",
+          "source": {
+            "label": "github.com/naw103/foremerge — 21 set",
+            "url": "https://github.com/naw103/foremerge"
+          }
+        },
+        {
+          "title": "ai-memory, do Akita: memória de longo prazo para CLIs de agente",
+          "body": "Solução open-source para memória de longo prazo em coding CLIs e handoff de sessão entre vendors diferentes de agente. Trending do GitHub no dia, com quase 7,8 mil estrelas.",
+          "source": {
+            "label": "github.com/akitaonrails/ai-memory — 22 set",
+            "url": "https://github.com/akitaonrails/ai-memory"
+          }
+        },
+        {
+          "title": "Mini-AGI treina aprendizado contínuo em 8 GB de VRAM",
+          "body": "Modelo com continual learning dinâmico treinado do zero com batch-1 num laptop de 8 GB de VRAM, sem replay de dataset completo. Show HN com 256 pontos e 318 estrelas em três dias.",
+          "source": {
+            "label": "github.com/volotat/mini-AGI — 21 set",
+            "url": "https://github.com/volotat/mini-AGI/"
+          }
+        },
+        {
+          "title": "Z.ai admite que o ZCode enviava seu repo inteiro para servidores",
+          "body": "A Reuters confirma: usuários descobriram snapshots completos do workspace sendo enviados a servidores. Um dev achou 700 MB, incluindo um projeto comercial com branches e arquivos deletados. Os recursos foram desligados, o fix saiu no 3.14.0 e o harness virou Apache-2.0.",
+          "source": {
+            "label": "Reuters — 21 set",
+            "url": "https://www.reuters.com/legal/litigation/chinas-zai-disables-ai-coding-assistant-features-after-security-issue"
+          }
+        },
+        {
+          "title": "Laya nasce como alternativa local e open ao Jev",
+          "body": "Em menos de uma semana após o Jev estourar, já surgiram o laya-vs-jev com comparação jogando T-Rex, o laya-go com server Go e CLI/MCP, e o laya-browser-agent, todos com modelos de decisão System-1 rodando local.",
+          "source": {
+            "label": "github.com/virajbhartiya/laya-vs-jev — 21 set",
+            "url": "https://github.com/virajbhartiya/laya-vs-jev"
+          }
+        },
+        {
+          "title": "Jev, dia 5: register, visualizador e até uma left-pad",
+          "body": "O ecossistema seguiu: typesafe_register com registro otimizado, o jeview para visualizar todas as calls localmente, e o jev-leftpad reeditando a piada de 2016 com TypeSafe AI.",
+          "source": {
+            "label": "github.com/f/jev-leftpad — 21 set",
+            "url": "https://github.com/f/jev-leftpad"
+          }
+        },
+        {
+          "title": "WeChatBridge: o histórico do WeChat vira contexto do agente",
+          "body": "App nativo macOS que encaminha conversas do WeChat para agentes de IA e Obsidian com um clique.",
+          "source": {
+            "label": "github.com/freestylefly/WeChatBridge — 21 set",
+            "url": "https://github.com/freestylefly/WeChatBridge"
+          }
+        },
+        {
+          "title": "A camada entre os agentes",
+          "body": "Conflito de intenção, memória entre vendors, decisão local barata e contexto de mensageria: tudo que apareceu nesta rodada mora no espaço entre os agentes, não dentro deles. E o caso ZCode lembra que essa camada nova precisa de auditoria de exfiltração desde o dia um."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-22",
       "date": "2026-09-22",
       "hook": "Panorama IA de 22 de setembro",
