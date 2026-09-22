@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-22",
+      "date": "2026-09-22",
+      "hook": "Skills e MCP de 22 de setembro",
+      "caption": "A camada de ferramentas amadureceu de vez: a spec do MCP matou o handshake e virou stateless, a Cloudflare levou Python com MCP nativo ao GA, e o ecossistema de skills ganhou simulador de triggers, ranking automático e empacotamento Nix. Sete destaques, um por slide, com a fonte de cada um.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-22",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-22",
+      "slides": [
+        {
+          "title": "Skills e MCP de 22 de setembro",
+          "body": "A camada de ferramentas amadureceu de vez: a spec do MCP matou o handshake e virou stateless, a Cloudflare levou Python com MCP nativo ao GA, e o ecossistema de skills ganhou simulador de triggers, ranking automático e empacotamento Nix. Sete destaques, um por slide, com a fonte de cada um."
+        },
+        {
+          "title": "MCP stateless: a spec que matou o handshake",
+          "body": "A revisão 2026-07-28 do Model Context Protocol remove o handshake initialize e o header Mcp-Session-Id, tornando os servidores stateless por padrão. Análise publicada hoje destrincha a mudança.",
+          "source": {
+            "label": "faun.dev — 22 set",
+            "url": "https://faun.dev"
+          }
+        },
+        {
+          "title": "Cloudflare Python Workers chega ao GA com MCP nativo",
+          "body": "FastAPI, Django e Flask rodam nativos no runtime de borda, e as libs de OpenAI, LangChain e MCP funcionam sem cola JavaScript. Nova implementação TCP via Hyperdrive para Postgres e MySQL.",
+          "source": {
+            "label": "blog.cloudflare.com — 21 set",
+            "url": "https://blog.cloudflare.com/"
+          }
+        },
+        {
+          "title": "SkillSeam simula qual skill rouba qual tarefa",
+          "body": "Ferramenta que simula como o agente seleciona skills e mostra quais disputam as mesmas tarefas. Detecta sobreposição e conflito de triggers antes do usuário descobrir.",
+          "source": {
+            "label": "github.com/Snow7-G/SkillSeam — 22 set",
+            "url": "https://github.com/Snow7-G/SkillSeam"
+          }
+        },
+        {
+          "title": "Trilogia de descoberta de skills ganha leaderboard automático",
+          "body": "O trio do linny006 atualizou hoje: skills-tracker rastreia todo novo repo de skills em tempo real, trending-claude-skills atualiza o ranking a cada 15 minutos e awesome-agent-skills cura com ratings de qualidade.",
+          "source": {
+            "label": "github.com/linny006/trending-claude-skills — 22 set",
+            "url": "https://github.com/linny006/trending-claude-skills"
+          }
+        },
+        {
+          "title": "rigup.nix empacota skills com o ambiente que precisam",
+          "body": "O projeto empacota skills, instruções e tools parametrizáveis juntos em Nix, deixando o ambiente do agente reprodutível de máquina para máquina.",
+          "source": {
+            "label": "github.com/YPares/rigup.nix — 22 set",
+            "url": "https://github.com/YPares/rigup.nix"
+          }
+        },
+        {
+          "title": "university-skill: aula em vez de resposta",
+          "body": "Skill lançada em 21/09 que transforma qualquer tópico em aula universitária estruturada, com currículo progressivo: aula de verdade em vez de resposta pontual.",
+          "source": {
+            "label": "github.com/walkinglabs/university-skill — 21 set",
+            "url": "https://github.com/walkinglabs/university-skill"
+          }
+        },
+        {
+          "title": "Anthropic lança e desmonta Claude for Financial Advisors numa semana",
+          "body": "Os commits do repo oficial anthropics/financial-services mostram o lançamento em 14/09, o rollback do marketplace 28 minutos depois e, em 21/09, o delete completo do diretório do produto.",
+          "source": {
+            "label": "github.com/anthropics/financial-services — 21 set",
+            "url": "https://github.com/anthropics/financial-services/commits/main"
+          }
+        },
+        {
+          "title": "Skills viram engenharia, não atalho",
+          "body": "Spec stateless no protocolo, simulador de triggers, ranking por tração, pacote Nix e authoring pedagógico: o ecossistema de skills troca listinha de prompts por infraestrutura de verdade. Quem mantém skills e servidores MCP próprios tem fila de migração."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-22",
       "date": "2026-09-22",
       "hook": "Projetos e Repos IA de 22 de setembro",
