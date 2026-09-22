@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-21-22h34",
+      "date": "2026-09-21",
+      "time": "22h34",
+      "hook": "A noite mudou de lado: o preço perdeu 86,3 mil e desceu a US$ 85.661, devolvendo parte do rali do dia. Nas 24 horas, ainda sobram +5,0%.",
+      "caption": "Chegou a 87,3 mil no fim da tarde, desceu quase 2% e voltou ao terreno da manhã.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-21-22h34",
+      "link": "https://xbtc.aronpc.dev/#2026-09-21-22h34",
+      "slides": [
+        {
+          "title": "De volta aos 85 mil",
+          "body": "Chegou a 87,3 mil no fim da tarde, desceu quase 2% e voltou ao terreno da manhã."
+        },
+        {
+          "title": "US$ 85.661",
+          "body": "Δ1h -0,9% · Δ24h +5,0% · vol $60,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Degraus pra baixo (86,4 → 85,4 mil) com volume a 0,5× da média: pouca convicção na queda · Smart money: funding +0,0090%, 46,5% de contas compradas · F&G 78, ganância extrema mesmo na correção",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "85,4 mil é o número da noite",
+          "body": "Limite de baixo 85.400 (-0,3%) · limite de cima 86.300 (+0,7%) · volume de domingo fraco: a definição real fica pra segunda",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-21-19h34",
       "date": "2026-09-21",
       "time": "19h34",
