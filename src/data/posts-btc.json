@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-22-11h32",
+      "date": "2026-09-22",
+      "time": "11h32",
+      "hook": "BTC a US$ 85.969: a recuperação da manhã esbarrou três vezes no mesmo ponto e voltou. O dia inteiro é um vai-e-vem entre 85,5 e 86,4 mil.",
+      "caption": "As tentativas de passar dos 86,4 mil foram todas devolvidas; preço no meio-baixo da faixa de 24h.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-22-11h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-22-11h32",
+      "slides": [
+        {
+          "title": "O teto do dia não abre",
+          "body": "As tentativas de passar dos 86,4 mil foram todas devolvidas; preço no meio-baixo da faixa de 24h."
+        },
+        {
+          "title": "US$ 85.969",
+          "body": "Δ1h +0,30% · Δ24h +0,40% · vol $48,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Rejeições em 86.370 a 86.470 nas últimas velas e Δ24h a +0,40%: mercado sem direção · Smart money: funding +0,003% + L/S 0,94 (51% short)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "86,4 mil decide a direção",
+          "body": "Acima de 86.450 com volume: 86.900 e 87.396 (máx 24h) · Abaixo de 85.550: 85.300 e 85.114 (mín 24h) · F&G 78: ganância extrema com preço parado",
+          "source": "https://www.coinglass.com/BitCoinFutures"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Nova leitura a caminho."
+        }
+      ]
+    },
+    {
       "id": "2026-09-22-06h33",
       "date": "2026-09-22",
       "time": "06h33",
