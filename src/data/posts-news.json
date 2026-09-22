@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-22",
+      "date": "2026-09-22",
+      "hook": "Panorama IA de 22 de setembro",
+      "caption": "A fronteira aberta chinesa dominou o fim de semana: Xiaomi empatou com o Grok 4.7, a Alibaba anunciou um modelo de até 10 trilhões de parâmetros e a DeepSeek dobrou a aposta em chips Huawei. Enquanto isso, Harvey e Ramp trocaram modelos fechados por bases abertas por pura economia. Nove destaques, um por slide, com a fonte de cada um.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-22",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-22",
+      "slides": [
+        {
+          "title": "Panorama IA de 22 de setembro",
+          "body": "A fronteira aberta chinesa dominou o fim de semana: Xiaomi empatou com o Grok 4.7, a Alibaba anunciou um modelo de até 10 trilhões de parâmetros e a DeepSeek dobrou a aposta em chips Huawei. Enquanto isso, Harvey e Ramp trocaram modelos fechados por bases abertas por pura economia. Nove destaques, um por slide, com a fonte de cada um."
+        },
+        {
+          "title": "Grok 4.7 chega cobrando metade do preço da fronteira",
+          "body": "A xAI lançou o Grok 4.7 em 21/09 a 2 dólares por milhão de tokens de entrada e 6 por milhão de saída. Marca 71% no DeepSWE e 46,3% no CursorBench, mas fica em 19,6% no benchmark legal Harvey e fraqueja em tarefas de longo horizonte.",
+          "source": {
+            "label": "x.ai — 21 set",
+            "url": "https://x.ai/news/grok-4-7"
+          }
+        },
+        {
+          "title": "Xiaomi empata com o Grok no índice da Artificial Analysis",
+          "body": "O MiMo-V2.6-Pro empatou com o Grok 4.7 e superou o GLM-5.3 no Intelligence Index, virando o melhor modelo open-weights do benchmark.",
+          "source": {
+            "label": "VentureBeat — 21 set",
+            "url": "https://venturebeat.com/technology/better-than-deepseek-xiaomis-mimo-v2-6-pro-debuts-as-the-top-open-weights-m"
+          }
+        },
+        {
+          "title": "Step 5 abre os pesos em 15 de outubro",
+          "body": "O modelo da StepFun tem 600 bilhões de parâmetros em MoE esparso, 27 bilhões ativos por token e contexto de 1 milhão. Pontua 44 no Intelligence Index a um sétimo do preço do GPT-5.6 Sol, com API já ativa e pesos abertos prometidos para 15/10.",
+          "source": {
+            "label": "Artificial Analysis via aitoolsrecap — 20 set",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-september-22-2026"
+          }
+        },
+        {
+          "title": "Alibaba anuncia modelo de 5 a 10 trilhões de parâmetros",
+          "body": "O CEO Eddie Wu disse à Reuters que a Alibaba vai treinar um modelo de 5 a 10 trilhões de parâmetros. No mesmo dia, o T-Head apresentou o acelerador Zhenwu V900, com três vezes o desempenho do antecessor e escala para clusters de 20 gigawatts.",
+          "source": {
+            "label": "Reuters — 22 set",
+            "url": "https://www.reuters.com/business/retail-consumer/alibaba-plans-ai-model-with-5-trillion-10-trillion-parameters"
+          }
+        },
+        {
+          "title": "DeepSeek dobra a aposta em chips Huawei",
+          "body": "The Information reporta que o CEO Liang Wenfeng chamou o treinamento em chips Huawei de uma das maiores apostas da DeepSeek, com a Huawei pronta para entregar volumes maiores contornando os controles de exportação americanos.",
+          "source": {
+            "label": "The Information — 21 set",
+            "url": "https://www.theinformation.com/articles/deepseek-bets-big-huawei-chips-bypass-u-s-export-controls"
+          }
+        },
+        {
+          "title": "Harvey, Abridge e Ramp abandonam os modelos fechados",
+          "body": "A Bloomberg reporta que a Harvey, avaliada em 15,6 bilhões de dólares, migrou para modelo próprio pós-treinado sobre o Kimi K3 da Moonshot depois que o uso de tokens multiplicou por 20 e as margens despencaram. Abridge, Decagon e Ramp seguem o mesmo caminho, com Sequoia e General Catalyst apoiando.",
+          "source": {
+            "label": "Bloomberg — 21 set",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-21/startups-like-harvey-embrace-open-models-to-cut-reliance-on"
+          }
+        },
+        {
+          "title": "IPO da Anthropic desliza para novembro mirando 2 trilhões",
+          "body": "O IPO saiu de outubro para novembro para incluir o terceiro trimestre. A receita anualizada passa de 100 bilhões de dólares em 2026, alta de 50% sobre os 65 bilhões divulgados em julho. Banqueiros discutem valuation de cerca de 2 trilhões e captação de até 100 bilhões.",
+          "source": {
+            "label": "Reuters/NYT via aitoolsrecap — 21 set",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-september-22-2026"
+          }
+        },
+        {
+          "title": "0-day no Muse expõe o token de autenticação no macOS",
+          "body": "Um pesquisador demonstrou que qualquer aplicativo ou comando de terminal consegue ler o token que autentica o usuário no app Muse para macOS. O assistente extraordinariamente privilegiado da Meta entrega sessão aberta a quem pedir.",
+          "source": {
+            "label": "Ars Technica — 21 set",
+            "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-da"
+          }
+        },
+        {
+          "title": "GPT-6 Astra decifra transmissão alemã de 1918",
+          "body": "Um pesquisador usou o GPT-6 Astra para decifrar uma transmissão militar alemã da Primeira Guerra, uma das 50 cifras famosas não resolvidas listadas pelo projeto.",
+          "source": {
+            "label": "Prinz AI — 21 set",
+            "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
+          }
+        },
+        {
+          "title": "Custo por tarefa, não por token",
+          "body": "A fronteira aberta ficou chinesa e disputada: Xiaomi, StepFun, Alibaba e DeepSeek-Huawei empurram o preço pra baixo com chip próprio. As empresas de IA corporativa já trocaram de lado por economia unitária. E o mercado prepara a maior IPO da história pra ancorar tudo isso."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-21",
       "date": "2026-09-21",
       "hook": "Skills e MCP de 21 de setembro",
