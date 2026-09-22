@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-22-06h33",
+      "date": "2026-09-22",
+      "time": "06h33",
+      "hook": "BTC a US$ 85.927: a venda que tomou a madrugada parou aos 85,3 mil, e a manhã trouxe o preço de volta à porta dos 86 mil.",
+      "caption": "Quatro horas depois da última leitura, o preço trocou 85,1 por 85,9 mil e ocupa o meio do corredor de 24h, entre 84,1 e 87,4 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-22-06h33",
+      "link": "https://xbtc.aronpc.dev/#2026-09-22-06h33",
+      "slides": [
+        {
+          "title": "A manhã comprou a queda da madrugada",
+          "body": "Quatro horas depois da última leitura, o preço trocou 85,1 por 85,9 mil e ocupa o meio do corredor de 24h, entre 84,1 e 87,4 mil."
+        },
+        {
+          "title": "US$ 85.927",
+          "body": "Δ1h +0,61% · Δ24h +1,6% · vol $57,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "A alta das 5h tomou de volta a zona de 85,6 a 85,7 mil, perdida ontem à noite · Smart money: funding +0,010% e L/S 0,95, com 49% em alta",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "87,4 mil é o teto das últimas 24h",
+          "body": "Passar dele deixa 87,9 mil como próximo patamar · Um recuo a 84,1 mil (−2,1%) aponta 83,6 mil na sequência",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova toda hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-22-02h32",
       "date": "2026-09-22",
       "time": "02h32",
