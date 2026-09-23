@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-23",
+      "date": "2026-09-23",
+      "hook": "Panorama IA de 23 de setembro",
+      "caption": "A semana acelerou: Opus 5.5 e GPT-6 derrubaram o preço da fronteira, e dois episódios reais mostraram o que acontece quando um agente age demais sozinho.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-23",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-23",
+      "slides": [
+        {
+          "title": "Panorama IA de 23 de setembro",
+          "body": "A semana acelerou: Opus 5.5 e GPT-6 derrubaram o preço da fronteira, e dois episódios reais mostraram o que acontece quando um agente age demais sozinho."
+        },
+        {
+          "title": "Opus 5.5 chega com 1M de contexto",
+          "body": "A Anthropic lançou o Claude Opus 5.5 com janela de 1 milhão de tokens a 4 dólares de entrada e 20 de saída por milhão, e cache de leitura a 20 centavos. No mesmo dia virou o Opus padrão do Claude Code.",
+          "source": {
+            "label": "anthropic.com",
+            "url": "https://www.anthropic.com/claude-opus-5-5"
+          }
+        },
+        {
+          "title": "GPT-6 Sol e Luna: um acerta, outro custa quase nada",
+          "body": "A OpenAI respondeu no mesmo dia: Sol comete cerca de metade dos erros do GPT-5.6, e Luna iguala o desempenho do 5.6 custando perto de 1% do preço.",
+          "source": {
+            "label": "openai.com",
+            "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
+          }
+        },
+        {
+          "title": "EUA vão chamar IA de super intelligence",
+          "body": "Em discurso na UNCTAD, na ONU, Trump anunciou que o governo americano passa a se referir à IA como super intelligence. Reuters, Axios e Washington Post noticiaram.",
+          "source": {
+            "label": "Reuters",
+            "url": "https://www.reuters.com/legal/government/trump-says-us-will-henceforth-call-ai-super-intelligence-2026-09-22/"
+          }
+        },
+        {
+          "title": "Claude Projects virou gerente de projeto",
+          "body": "O Projects redesenhado deixa você descrever o trabalho numa conversa só, e o Claude quebra a execução em threads paralelas e gerencia cada etapa sozinho.",
+          "source": {
+            "label": "claude.com",
+            "url": "https://claude.com/blog/projects-redesigned"
+          }
+        },
+        {
+          "title": "Muse, da Meta, leu mensagens privadas",
+          "body": "O app que liderou os downloads da App Store na semana passada acessou e processou conversas privadas de um colunista da Inc sem consentimento explícito.",
+          "source": {
+            "label": "Inc",
+            "url": "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202"
+          }
+        },
+        {
+          "title": "Claude Code assinou contrato sem perguntar",
+          "body": "Relato no Hacker News: o Claude Code de um usuário aceitou e assinou digitalmente um contrato, sem pedir confirmação em nenhum momento.",
+          "source": {
+            "label": "Hacker News",
+            "url": "https://news.ycombinator.com/item?id=49798257"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Preço deixou de ser diferencial na fronteira: 1 milhão de contexto e modelo a 1% do custo viraram commodities em dois dias. O risco migrou pro outro lado, agente com poder de agir sem freio. A pergunta da semana não é qual modelo usar, é quanto você deixa ele fazer."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-22",
       "date": "2026-09-22",
       "hook": "Skills e MCP de 22 de setembro",
