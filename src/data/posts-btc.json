@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-23-02h33",
+      "date": "2026-09-23",
+      "time": "02h33",
+      "hook": "BTC a US$ 86.766. A visita a 87,3 mil durou menos de uma hora: tocou 87.279, desceu e voltou pra faixa de sempre.",
+      "caption": "Na virada da 01h passou 86.850, foi até 87.279 e desfez tudo na hora seguinte.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-23-02h33",
+      "link": "https://xbtc.aronpc.dev/#2026-09-23-02h33",
+      "slides": [
+        {
+          "title": "87,3 mil não deixou",
+          "body": "Na virada da 01h passou 86.850, foi até 87.279 e desfez tudo na hora seguinte."
+        },
+        {
+          "title": "US$ 86.766",
+          "body": "Δ1h -0,44% · Δ24h +1,92% · vol US$ 42,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Foi ao topo e voltou na mesma hora, sem convicção · Smart money: funding +0,0023% e L/S 0,89 (53% short)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "87.279 decide o rumo",
+          "body": "Acima, 88 mil vira assunto; abaixo de 86.700, o debate desce a 86.100",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova às 03h32."
+        }
+      ]
+    },
+    {
       "id": "2026-09-23-01h32",
       "date": "2026-09-23",
       "time": "01h32",
