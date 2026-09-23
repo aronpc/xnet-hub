@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-23-11h31",
+      "date": "2026-09-23",
+      "time": "11h31",
+      "hook": "BTC a US$ 84.093. A queda da madrugada empurrava devagar, quase sem força; a das 11h foi outra coisa: atravessou 85,2 mil negociando quase quatro vezes o volume habitual da hora e cravou mínimo de 24h.",
+      "caption": "A vela das 11h negociou 3.235 BTC, contra média de 871 na hora.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-23-11h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-23-11h31",
+      "slides": [
+        {
+          "title": "A queda ganhou volume de verdade",
+          "body": "A vela das 11h negociou 3.235 BTC, contra média de 871 na hora."
+        },
+        {
+          "title": "US$ 84.093",
+          "body": "Δ1h -1,7% · Δ24h -2,1% · vol US$ 42,5 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Rompimento de 85.267 com volume 3,7× a média da hora e mínimo de 24h renovado em 83.864 · Smart Money: funding +0,0100% + L/S 0,98 (equilibrado)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A hora entre 83,9 e 85,0 mil",
+          "body": "Fechamento abaixo de 83.864 (-0,3%) estende a correção; reação até 85.000 (+1,1%) devolve o nível perdido.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Próxima leitura às 12h30",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-23-08h30",
       "date": "2026-09-23",
       "time": "08h30",
