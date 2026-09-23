@@ -2,6 +2,72 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-23",
+      "date": "2026-09-23",
+      "hook": "Skills e MCP de 23 de setembro",
+      "caption": "O Claude Code fechou um buraco real de segurança, o MCP ganhou gateway zero-trust e também uma cisão aberta. E a onda Jev chegou ao benchmark.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-23",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-23",
+      "slides": [
+        {
+          "title": "Skills e MCP de 23 de setembro",
+          "body": "O Claude Code fechou um buraco real de segurança, o MCP ganhou gateway zero-trust e também uma cisão aberta. E a onda Jev chegou ao benchmark."
+        },
+        {
+          "title": "v2.1.280 fecha buraco de symlink",
+          "body": "A release de 22/09 corrige a escrita via caminho symlinked que escapava das regras de aprovação, traz o Opus 5.5 como padrão e um env novo pra subir o teto de 2.048 chars nas descrições de servidores MCP.",
+          "source": {
+            "label": "CHANGELOG",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "MCPBastion: zero-trust entre agente e MCP",
+          "body": "Gateway de segurança com capacidades com escopo, redação de dados sensíveis e limites de rate e custo entre o agente e os servidores MCP.",
+          "source": "github.com/Matthew0822/MCPBastion"
+        },
+        {
+          "title": "omcp: hard fork comunitário do MCP",
+          "body": "Show HN de um fork community-driven do MCP, com o lema Build without permission, proposto depois das fricções com a governança da spec.",
+          "source": "github.com/enclawed/omcp"
+        },
+        {
+          "title": "JevBench mede modelos de decisão tipados",
+          "body": "Suíte reprodutível do benchmarkheaven.com pra avaliar typed decision models: Jev, Laya e afins.",
+          "source": {
+            "label": "benchmarkheaven.com",
+            "url": "https://benchmarkheaven.com/jev-models"
+          }
+        },
+        {
+          "title": "Skill mantém o prompt cache de 1h quente",
+          "body": "Skill do Claude Code que deixa tarefas em background mantendo o cache de prompt aquecido enquanto você está fora.",
+          "source": "github.com/santiquiroz/claude-prompt-cache-keepalive"
+        },
+        {
+          "title": "Um prompt mapeia codebase em Mermaid",
+          "body": "Skill de agente que gera mapa de arquitetura com diagramas Mermaid de qualquer repositório a partir de um prompt.",
+          "source": "github.com/wenshuocui50-droid/repo-cartographer"
+        },
+        {
+          "title": "Produção em linguagem natural sem risco",
+          "body": "Dois gates que deixam o coding agent consultar logs de produção e inspecionar banco via linguagem natural, com read-only e escopo.",
+          "source": "github.com/wangke-112/agent-safe-tools"
+        },
+        {
+          "title": "Responder feedback autoriza captura da conversa",
+          "body": "Discussão na HN mostra que responder ao pedido de feedback do Claude CLI autoriza a captura e o envio da conversa inteira.",
+          "source": {
+            "label": "Hacker News",
+            "url": "https://news.ycombinator.com/item?id=49787069"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O MCP cresceu e começou a enfrentar o que todo protocolo grande enfrenta: gateway de segurança, disputa de governança e benchmark. Confiança deixou de ser presumida; virou gate, redação e limite de custo entre agente e servidor."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-23",
       "date": "2026-09-23",
       "hook": "Projetos e repos de 23 de setembro",
