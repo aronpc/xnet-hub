@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-23-03h32",
+      "date": "2026-09-23",
+      "time": "03h32",
+      "hook": "BTC a US$ 86.416. A descida que começou na recusa de 87,3 mil não freou no meio do caminho: encostou na banda de 86,1 mil, o andar de baixo da noite.",
+      "caption": "Segunda hora seguida de queda, com o preço no limite inferior da faixa de 86,1k a 86,8k.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-23-03h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-23-03h32",
+      "slides": [
+        {
+          "title": "A noite desceu um andar",
+          "body": "Segunda hora seguida de queda, com o preço no limite inferior da faixa de 86,1k a 86,8k."
+        },
+        {
+          "title": "US$ 86.416",
+          "body": "Δ1h -0,40% · Δ24h +1,22% · vol US$ 41,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Faixa de 86,1k a 86,8k segue intacta · Smart Money: funding -0,0001% (virou negativo) + L/S 0,89 (53% short)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "86,1 mil em primeiro plano",
+          "body": "Segura, e a faixa devolve 86,8 mil; cede, e o próximo ponto é o mínimo 24h, 85,2 mil.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Próxima leitura às 04h32",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-23-02h33",
       "date": "2026-09-23",
       "time": "02h33",
