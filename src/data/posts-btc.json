@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-22-21h33",
+      "date": "2026-09-22",
+      "time": "21h33",
+      "hook": "BTC a US$ 86.470. Faz dez horas que o preço circula entre 85,1 e 86,7 mil, e agora encostou na borda de cima, a 0,3% da máxima do dia. Enquanto isso, mais da metade das contas de derivativos segue posicionada na queda.",
+      "caption": "O otimismo esfriou de 78 para 71 no índice de sentimento e o preço nem piscou: os fechamentos de cada hora vêm em alta lenta.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-22-21h33",
+      "link": "https://xbtc.aronpc.dev/#2026-09-22-21h33",
+      "slides": [
+        {
+          "title": "Dez horas no mesmo corredor, e agora o teste da borda de cima",
+          "body": "O otimismo esfriou de 78 para 71 no índice de sentimento e o preço nem piscou: os fechamentos de cada hora vêm em alta lenta."
+        },
+        {
+          "title": "US$ 86.470",
+          "body": "Δ1h +0,31% · Δ24h +0,09% · vol US$ 43,4 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Décima hora entre 85,1 e 86,7 mil, agora colado no topo com fechamentos subindo · Smart money: funding +0,0018% e L/S 0,90 (52,5% short)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "86,7 mil na frente, 86,1 mil atrás",
+          "body": "A máxima do dia está a +0,3%, em 86.700; ceder 86.100 (−0,4%) devolve o preço ao meio do corredor, onde 85.600 e 85.100 são as referências",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova às 22h33."
+        }
+      ]
+    },
+    {
       "id": "2026-09-22-15h30",
       "date": "2026-09-22",
       "time": "15h30",
