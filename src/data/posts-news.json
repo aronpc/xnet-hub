@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-23",
+      "date": "2026-09-23",
+      "hook": "Projetos e repos de 23 de setembro",
+      "caption": "Edição dominada por controle: sandbox pra coding agent, clone privacy-first do Muse e monitor de gasto. E a onda Jev ganhou catálogo canônico.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-23",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-23",
+      "slides": [
+        {
+          "title": "Projetos e repos de 23 de setembro",
+          "body": "Edição dominada por controle: sandbox pra coding agent, clone privacy-first do Muse e monitor de gasto. E a onda Jev ganhou catálogo canônico."
+        },
+        {
+          "title": "awesome-jev: 805 exemplos organizados por decisão",
+          "body": "O índice do Jev, o System One Model da TypeSafe, cataloga 805 exemplos verificados organizados pela decisão que cada um toma.",
+          "source": "github.com/kydlikebtc/awesome-jev"
+        },
+        {
+          "title": "Base de conhecimento pessoal com API MCP",
+          "body": "Novo repo de base de conhecimento pessoal ou de time que expõe tudo via chamadas de API MCP.",
+          "source": "github.com/rgem227/knoweldge-base"
+        },
+        {
+          "title": "AstrLink unifica assinaturas e APIs de IA",
+          "body": "Gateway local que junta assinaturas como Claude e Codex com provedores de API, com roteamento inteligente e processamento on-device.",
+          "source": "github.com/Calcium-Ion/AstrLink"
+        },
+        {
+          "title": "cc-usage mostra quota e gasto do Claude e Codex",
+          "body": "App desktop multiplataforma que unifica a visualização de quota, tokens, custos e histórico de requests do Claude e do Codex.",
+          "source": "github.com/haishishushu/cc-usage"
+        },
+        {
+          "title": "Brig: sandbox MicroVM pra coding agents",
+          "body": "Show HN de sandbox leve baseado em MicroVMs pra isolar a execução de coding agents no desktop, em Mac e Linux.",
+          "source": {
+            "label": "Hacker News",
+            "url": "https://news.ycombinator.com/item?id=49802729"
+          }
+        },
+        {
+          "title": "OpenMuse: clone open do Muse da Meta",
+          "body": "Versão open do agente pessoal da Meta, com app de celular, gatekeeper Sentinel e cofre de credenciais. Nasceu 48 horas após a polêmica de privacidade do Muse original.",
+          "source": "github.com/OpenMuseAgent/OpenMuse"
+        },
+        {
+          "title": "Edição do CapCut gerada por IA",
+          "body": "Pipeline que transforma storyboard de IA em rascunho editável no CapCut (Jianying), preservando o áudio original e os nomes de mídia.",
+          "source": "github.com/zhihe4869/jianying-automation"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A onda de agents no desktop puxou tudo nesta edição: sandbox, gatekeeper, cofre de credenciais e até controle de gasto. Quem roda agente autônomo na própria máquina virou o público-alvo número 1 dos repos da semana."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-23",
       "date": "2026-09-23",
       "hook": "Panorama IA de 23 de setembro",
