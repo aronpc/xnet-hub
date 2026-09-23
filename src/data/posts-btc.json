@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-23-06h30",
+      "date": "2026-09-23",
+      "time": "06h30",
+      "hook": "BTC a US$ 85.949. O piso de 86 mil segurou a noite inteira e cedeu de madrugada: dois fechamentos seguidos abaixo, volume fraco, e a inclinação agora aponta 85,5 mil.",
+      "caption": "A recusa em 87,2 mil virou queda lenta, mas o mapa de 85,5k a 87,3k segue de pé.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-23-06h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-23-06h30",
+      "slides": [
+        {
+          "title": "O piso de 86 mil cedeu",
+          "body": "A recusa em 87,2 mil virou queda lenta, mas o mapa de 85,5k a 87,3k segue de pé."
+        },
+        {
+          "title": "US$ 85.949",
+          "body": "Δ1h -0,3% · Δ24h +0,1% · vol US$ 41,0 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Piso 86.000 perdido com dois fechamentos de 1h abaixo · Smart Money: funding +0,0038% + L/S 0,89 (53% short)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Próximo degrau: 85,5 mil",
+          "body": "Ceder 85,900 estica a queda até 85,500 (mín 24h); segurar 86,200 abre o caminho de volta a 86,500.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Próxima leitura às 07h30",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-23-03h32",
       "date": "2026-09-23",
       "time": "03h32",
