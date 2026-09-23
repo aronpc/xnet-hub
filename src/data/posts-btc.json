@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-22-22h32",
+      "date": "2026-09-22",
+      "time": "22h32",
+      "hook": "BTC a US$ 86.614. Terceira hora seguida fechando em alta e preço a 0,3% da máxima do dia: a leitura das 22h32 deixou a neutralidade e passou a alta.",
+      "caption": "Um dia inteiro sem direção e, na reta final, os fechamentos de hora começaram a subir em sequência.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-22-22h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-22-22h32",
+      "slides": [
+        {
+          "title": "Três horas seguidas de alta, pressionando a máxima do dia",
+          "body": "Um dia inteiro sem direção e, na reta final, os fechamentos de hora começaram a subir em sequência."
+        },
+        {
+          "title": "US$ 86.614",
+          "body": "Δ1h +0,17% · Δ24h +1,08% · vol US$ 42,5 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Terceira subida seguida no fechamento de hora, preço junto à máxima de 24h · Smart money: funding +0,0039% e L/S 0,90 (52,6% short)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A máxima do dia está logo ali, a +0,3%",
+          "body": "86.850 é o topo das últimas 24 horas; devolver 86.200 (−0,5%) traz 85.600 e 85.100 de volta à conversa",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova às 23h32."
+        }
+      ]
+    },
+    {
       "id": "2026-09-22-21h33",
       "date": "2026-09-22",
       "time": "21h33",
