@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-23-01h32",
+      "date": "2026-09-23",
+      "time": "01h32",
+      "hook": "BTC a US$ 87.150. A máxima das últimas 24 horas resistiu a noite inteira e acabou cedendo: o preço passou de 86.850 e negocia no ponto mais alto do dia.",
+      "caption": "Depois de horas rente a 86,8 mil, o preço passou e anotou topo novo nas últimas 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-23-01h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-23-01h32",
+      "slides": [
+        {
+          "title": "O teto da noite cedeu",
+          "body": "Depois de horas rente a 86,8 mil, o preço passou e anotou topo novo nas últimas 24 horas."
+        },
+        {
+          "title": "US$ 87.150",
+          "body": "Δ1h +0,57% · Δ24h +1,88% · vol US$ 41,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Máxima de 24h superada e fechamentos de hora em subida · Smart money: funding +0,0043% e L/S 0,89 (53% short)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "87.246 é a nova referência",
+          "body": "Segurar acima abre caminho a 88.000; um recuo abaixo de 86.700 devolve 86.100 à conversa",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova às 02h32."
+        }
+      ]
+    },
+    {
       "id": "2026-09-22-22h32",
       "date": "2026-09-22",
       "time": "22h32",
