@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-24-06h30",
+      "date": "2026-09-24",
+      "time": "06h30",
+      "hook": "BTC a US$ 83.344, caindo 3,2% no dia. A banda de 83,5 mil não resistiu: o preço escorregou na madrugada e agora encosta no piso de 83,1 mil, o mais baixo da faixa de 24h.",
+      "caption": "A mínima do dia desceu para 83,1 mil e as subidas seguem sem passar de 84,5 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-24-06h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-24-06h30",
+      "slides": [
+        {
+          "title": "83,5 mil cedeu",
+          "body": "A mínima do dia desceu para 83,1 mil e as subidas seguem sem passar de 84,5 mil."
+        },
+        {
+          "title": "US$ 83.344",
+          "body": "Δ1h -0,75% · Δ24h -3,15% · volume de $1,8bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço colado no piso do dia e sem reação de compra por perto · Smart money: funding 0,00% e L/S 1,22 · F&G 71, zona de ganância",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "O piso de 83,1 mil em teste",
+          "body": "Suporte 83.100 (-0,29%) · Resistência 86.000 (+3,19%) · abaixo do piso, a referência seguinte é 82.700; acima de 86.000, 86.600 a 87.100",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Próxima leitura às 07h30",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-24-05h30",
       "date": "2026-09-24",
       "time": "05h30",
