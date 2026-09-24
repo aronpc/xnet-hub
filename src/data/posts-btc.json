@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-24-02h30",
+      "date": "2026-09-24",
+      "time": "02h30",
+      "hook": "BTC a US$ 84.158, com queda de 3% nas últimas 24h. A pressão da madrugada perdeu força e o preço emendou três leituras de alta desde a mínima. Devagar e com pouco volume; nenhuma chegou perto de encarar os 84,5 mil.",
+      "caption": "A subida desde 83,9 mil existe, mas sem convicção; a faixa de 84,5 mil devolve cada avanço.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-24-02h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-24-02h30",
+      "slides": [
+        {
+          "title": "A queda fez uma pausa",
+          "body": "A subida desde 83,9 mil existe, mas sem convicção; a faixa de 84,5 mil devolve cada avanço."
+        },
+        {
+          "title": "US$ 84.158",
+          "body": "Δ1h +0,30% · Δ24h -2,99% · volume de $42,5bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Três closes de alta saindo de 83,9 mil, presos abaixo da faixa de 84,5 a 84,6 mil e com volume fraco · Smart money: funding +0,0050% e L/S 1,19, nada esticado",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "O teto de 84,6 mil decide",
+          "body": "Suporte 83.500 (-0,78%) · Resistência 84.600 (+0,53%) · acima do teto, espaço até 85,6 mil; de volta a 83,9 mil, o foco recai na mínima",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Próxima leitura às 03h30",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-24-01h30",
       "date": "2026-09-24",
       "time": "01h30",
