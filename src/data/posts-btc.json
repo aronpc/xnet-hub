@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-24-15h30",
+      "date": "2026-09-24",
+      "time": "15h30",
+      "hook": "O bitcoin segue a US$ 84.421, a 0,6% do máximo do dia. A taxa de funding virou negativa: agora é quem está do outro lado que paga pela espera. O viés do dia voltou à alta.",
+      "caption": "Terceira visita à zona alta do dia, e agora a conta da espera cai sobre os pessimistas.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-24-15h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-24-15h30",
+      "slides": [
+        {
+          "title": "A espera de quem duvidou ficou mais cara",
+          "body": "Terceira visita à zona alta do dia, e agora a conta da espera cai sobre os pessimistas."
+        },
+        {
+          "title": "US$ 84.421",
+          "body": "Δ1h +0,21% · Δ24h +0,30% · volume de US$ 38,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Mínimos em elevação desde 83,3 mil e preço a 0,6% de 84,9 mil · Smart money: funding -0,0002% e L/S 1,22",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A sequência passa por 85,0 ou por 84,1 mil",
+          "body": "Ultrapassar 84.950, o máximo do dia, aponta 86,0 mil · perder 84.100 devolve o preço aos 83,7 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Próxima leitura às 16h30",
+          "body": "O intraday atualiza de hora em hora · leitura técnica, não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-09-24-14h31",
       "date": "2026-09-24",
       "time": "14h31",
