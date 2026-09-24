@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-24-19h32",
+      "date": "2026-09-24",
+      "time": "19h32",
+      "hook": "Depois de duas recusas na zona alta, desta vez o preço passou e ficou: quatro fechamentos de uma hora em sequência ascendente levaram o bitcoin a US$ 84.612, a 0,4% do máximo das últimas 24 horas. Sentimento ainda em zona de ganância: perto do topo, a leitura pede confirmação.",
+      "caption": "Duas vezes o nível devolveu o preço. Na terceira investida, o ganho ficou.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-24-19h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-24-19h32",
+      "slides": [
+        {
+          "title": "84,5 mil cedeu, e o preço segurou do outro lado",
+          "body": "Duas vezes o nível devolveu o preço. Na terceira investida, o ganho ficou."
+        },
+        {
+          "title": "US$ 84.612",
+          "body": "Δ1h +0,23% · Δ24h +0,26% · volume de US$ 38,0 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Passou o degrau de 84,5 mil e manteve quatro fechamentos de 1h em alta · Smart money: funding neutro (0,0000%) e L/S 1,23",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A conversa agora passa por 84.940",
+          "body": "Ultrapassar 84.940 com volume aponta 85.500 e o patamar de 86,0 mil · perder 84.100 devolve o preço ao canal de 84,0 a 84,5 mil · F&G em 71, zona de ganância",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Próxima leitura às 20h32",
+          "body": "O intraday atualiza de hora em hora · leitura técnica, não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-09-24-15h30",
       "date": "2026-09-24",
       "time": "15h30",
