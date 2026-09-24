@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-24-12h32",
+      "date": "2026-09-24",
+      "time": "12h32",
+      "hook": "Bitcoin testou o topo da faixa e recuou; agora opera a US$ 84.096",
+      "caption": "A subida até 84,9 mil durou pouco: o preço escorregou 0,8% na última hora e o balanço do dia voltou ao negativo, -0,4% em 24 horas. Ida e volta completa desde a madrugada.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-24-12h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-24-12h32",
+      "slides": [
+        {
+          "title": "O impulso da manhã esbarrou no teto e o mercado ficou sem direção",
+          "body": "A subida até 84,9 mil durou pouco: o preço escorregou 0,8% na última hora e o balanço do dia voltou ao negativo, -0,4% em 24 horas. Ida e volta completa desde a madrugada."
+        },
+        {
+          "title": "US$ 84.096",
+          "body": "Δ1h -0,76% · Δ24h -0,41% · volume de US$ 40,5 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Rejeição no topo deixa o preço de volta no meio da faixa, entre 82,9 e 84,9 mil · Smart money: funding +0,0015% e L/S 1,26, neutro e sem multidão esticada"
+        },
+        {
+          "title": "84,5 mil para cima, 83,3 mil para baixo",
+          "body": "Acima de 84,5 mil, o topo de 84,9 mil entra em jogo · abaixo de 83,3 mil, a pressão segue até 82,9 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Próxima leitura às 13h30",
+          "body": "O intraday atualiza de hora em hora · leitura técnica, não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-09-24-11h31",
       "date": "2026-09-24",
       "time": "11h31",
