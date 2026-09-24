@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-24",
+      "date": "2026-09-24",
+      "hook": "Skills e MCP de 24 de setembro",
+      "caption": "A semana é de método em skill-authoring: adjudicar rulesets conflitantes, medir o rewrite depois de aplicá-lo e conhecer as costuras do Claude Code antes de estendê-lo.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-24",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-24",
+      "slides": [
+        {
+          "title": "Skills e MCP de 24 de setembro",
+          "body": "A semana é de método em skill-authoring: adjudicar rulesets conflitantes, medir o rewrite depois de aplicá-lo e conhecer as costuras do Claude Code antes de estendê-lo."
+        },
+        {
+          "title": "Claude Code só lia o AGENTS.md com telemetria ligada",
+          "body": "Análise independente mostrou que o Claude Code ignorava o AGENTS.md quando a telemetria estava desativada, o que atinge em cheio quem desliga telemetry por política de privacidade. A correção chegou depois do post.",
+          "source": {
+            "label": "blog.szypowi.cz",
+            "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/"
+          }
+        },
+        {
+          "title": "Claude Code v2.1.281: o release do gateway corporativo",
+          "body": "Um dia após a v2.1.280, o novo release adiciona assume_role em upstreams Bedrock via STS (inclusive cross-account), guardrail aplicado a cada request que passa pelo upstream e policy blocks desktop com blockReadsOutsideWorkingDirectories e disableBypassPermissionsMode.",
+          "source": {
+            "label": "CHANGELOG no GitHub",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "3dicon: um prompt vira ícone 3D animado com alpha real",
+          "body": "Skill do Claude Code que gera ícones 3D animados em loop a partir de um prompt, com transparência de verdade.",
+          "source": {
+            "label": "github.com/samyost1/3dicon",
+            "url": "https://github.com/samyost1/3dicon"
+          }
+        },
+        {
+          "title": "Skill que limpa cheiro de IA de texto chinês e adjudica 3 rulesets",
+          "body": "A qu-ai-wei mescla as regras de três fontes, valida em corpus e adjudica explicitamente os 7 pontos em que elas se contradizem.",
+          "source": {
+            "label": "github.com/baibanbao/qu-ai-wei",
+            "url": "https://github.com/baibanbao/qu-ai-wei"
+          }
+        },
+        {
+          "title": "quiron: humanizer que mede o rewrite depois de aplicá-lo",
+          "body": "Skill de humanização para Claude Code, Codex e Cursor que remove AI slop e sinais de escrita de IA. Depois re-mede o texto e quantifica o quanto o rewrite removeu.",
+          "source": {
+            "label": "github.com/ilien-dev/quiron",
+            "url": "https://github.com/ilien-dev/quiron"
+          }
+        },
+        {
+          "title": "As costuras portantes do Claude Code, mapeadas",
+          "body": "Ensaio técnico mapeando as costuras estruturais do Claude Code: os pontos onde o sistema depende de detalhes frágeis de integração.",
+          "source": {
+            "label": "madradavid.com",
+            "url": "https://madradavid.com/claudes-load-bearing-seams/"
+          }
+        },
+        {
+          "title": "Animação 2D desenhada à mão, escrita como código",
+          "body": "A claude-animation-skill produz animação 2D desenhada à mão a partir de código: detail bible, rig detalhado de formiga, canetas brush e aquarela, e um loop de recreação frame a frame.",
+          "source": {
+            "label": "github.com/buildwithhanif/claude-animation-skill",
+            "url": "https://github.com/buildwithhanif/claude-animation-skill"
+          }
+        },
+        {
+          "title": "Gateway multi-modelo virou skill consumível",
+          "body": "A genpark-onlyrouter encapsula o dispatch OnlyRouter como ferramenta do agente: adapter OpenAI/Anthropic, failover entre modelos e token metering.",
+          "source": {
+            "label": "github.com/alphaparkinc",
+            "url": "https://github.com/alphaparkinc/genpark-onlyrouter-ai-model-gateway-skill"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Escrever skill ganhou método nesta semana: mesclar rulesets conflitantes com a adjudicação documentada, medir o resultado depois do rewrite e mapear as costuras do runtime antes de estendê-lo. Prompt empacotado sem verificação ficou uma geração atrás."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-24",
       "date": "2026-09-24",
       "hook": "Projetos e repos de 24 de setembro",
