@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-24-14h31",
+      "date": "2026-09-24",
+      "time": "14h31",
+      "hook": "Mais uma tentativa de passar de 84,9 mil, mais um empurrão de volta: o bitcoin opera a US$ 84.248, na zona central do dia, com viés lateral.",
+      "caption": "O preço encostou na região alta no início da tarde e escorregou em seguida. É a segunda devolução do dia nesse ponto.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-24-14h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-24-14h31",
+      "slides": [
+        {
+          "title": "O teto de 84,9 mil continua no lugar",
+          "body": "O preço encostou na região alta no início da tarde e escorregou em seguida. É a segunda devolução do dia nesse ponto."
+        },
+        {
+          "title": "US$ 84.248",
+          "body": "Δ1h -0,50% · Δ24h +0,25% · volume de US$ 38,7 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O empurrão acima de 84,5 mil não pegou e o preço voltou ao centro do corredor de 83,7 a 84,9 mil · Smart money: funding +0,0004% e L/S 1,23, sem convicção"
+        },
+        {
+          "title": "O próximo passo depende de 84,5 ou 84,0 mil",
+          "body": "Acima de 84,5 mil, o topo de 84,9 mil volta ao foco · abaixo de 84,0 mil, o foco cai para a base de 83,7 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Próxima leitura às 15h30",
+          "body": "O intraday atualiza de hora em hora · leitura técnica, não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-09-24-13h33",
       "date": "2026-09-24",
       "time": "13h33",
