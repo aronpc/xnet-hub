@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-24-08h31",
+      "date": "2026-09-24",
+      "time": "08h31",
+      "hook": "A sequência de cinco quedas seguidas no bitcoin acabou: o preço segurou a região de 83 mil e subiu para 83,5 mil. O volume da hora, porém, ficou em um terço do habitual, e é isso que tira força da recuperação.",
+      "caption": "Depois de encostar no menor preço das últimas 24h, o BTC estabilizou acima de 83 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-24-08h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-24-08h31",
+      "slides": [
+        {
+          "title": "As quedas pararam, o volume não apareceu",
+          "body": "Depois de encostar no menor preço das últimas 24h, o BTC estabilizou acima de 83 mil."
+        },
+        {
+          "title": "US$ 83.513",
+          "body": "Δ1h +0,36% · Δ24h -2,31% · volume de US$ 44,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço de volta ao meio da faixa do dia, entre 83.000 e 84.500 · Smart money: funding +0,0002% (neutro) e L/S 1,26",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Sem volume, o preço segue preso na faixa",
+          "body": "Piso do dia 82.900 (-0,7%) · Teto 84.500 (+1,2%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Próxima leitura em 1 hora",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-24-07h30",
       "date": "2026-09-24",
       "time": "07h30",
