@@ -35,6 +35,39 @@
       ]
     },
     {
+      "id": "2026-09-24-17h31",
+      "date": "2026-09-24",
+      "time": "17h31",
+      "hook": "Na terceira tentativa de passar dos 84,5 mil, o ganho parecia ter ficado. Durou um fechamento: uma hora depois, o bitcoin devolveu o avanço e opera a US$ 84.230. Três idas à região alta em 24 horas, nenhuma vingou até agora. O mercado segue sem convicção.",
+      "caption": "Subiu, fechou acima por uma hora e voltou. O vaivém do dia continua.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-24-17h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-24-17h31",
+      "slides": [
+        {
+          "title": "A passagem pelos 84,5 mil não vingou",
+          "body": "Subiu, fechou acima por uma hora e voltou. O vaivém do dia continua."
+        },
+        {
+          "title": "US$ 84.230",
+          "body": "Δ1h -0,45% · Δ24h -0,13% · volume de US$ 38,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Mais uma devolução na zona alta na sessão, com a parte de baixa do dia subindo desde 83,3 mil e nada confirmado acima de 84,9 mil · Smart money: funding +0,0002% e L/S 1,23",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O dia vira em 84.940 ou em 83.670",
+          "body": "Acima de 84.940, espaço até 86,0 mil · abaixo de 83.670, a discussão volta a 83,3 mil · faixa do dia: de 82,9 a 84,9 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Próxima leitura às 18h31",
+          "body": "O intraday atualiza de hora em hora · leitura técnica, não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-09-24-15h30",
       "date": "2026-09-24",
       "time": "15h30",
