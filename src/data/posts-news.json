@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-24",
+      "date": "2026-09-24",
+      "hook": "Projetos e repos de 24 de setembro",
+      "caption": "O dia foi de harness e cockpit: o design da orquestração provou valer tanto quanto o modelo, dois painéis desktop para coding agents estouraram no mesmo dia e o PHP ganhou seu runtime de agente idiomático.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-24",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-24",
+      "slides": [
+        {
+          "title": "Projetos e repos de 24 de setembro",
+          "body": "O dia foi de harness e cockpit: o design da orquestração provou valer tanto quanto o modelo, dois painéis desktop para coding agents estouraram no mesmo dia e o PHP ganhou seu runtime de agente idiomático."
+        },
+        {
+          "title": "Tools assíncronas cortam 40% do custo do agente",
+          "body": "O Unreal Agent é um harness open-source que gerencia tool calls de forma totalmente assíncrona: o modelo não gasta tokens esperando polling, e o usuário pode intervir a qualquer momento. Com GPT-6 Astra xhigh, fez 57,9% no Terminal-Bench 4.0 gastando US$ 1.428; o Codex entrega o mesmo score por US$ 2.350.",
+          "source": {
+            "label": "unreallabs.ai",
+            "url": "https://unreallabs.ai/blog/unreal-agent/"
+          }
+        },
+        {
+          "title": "CodexDesk: companion desktop passa de 220 estrelas em 48h",
+          "body": "App desktop para acompanhar workflows de Codex e outros coding agents, criado em 22/9. Nasceu junto do ClaudePanel, com crescimento parecido: dois cockpits de agente estourando no mesmo dia.",
+          "source": {
+            "label": "github.com/BinaryDeliverer/CodexDesk",
+            "url": "https://github.com/BinaryDeliverer/CodexDesk"
+          }
+        },
+        {
+          "title": "magpie: cada agente no modelo que você quiser, pela menu bar",
+          "body": "Novo app do yetone, autor do ai-code-translator: um seletor de menu bar que faz o Codex rodar na DeepSeek e o Claude Code na Kimi.",
+          "source": {
+            "label": "github.com/yetone/magpie",
+            "url": "https://github.com/yetone/magpie"
+          }
+        },
+        {
+          "title": "Rete decide, RAG explica",
+          "body": "A arquitetura AI·rete·RAG inverte a divisão do trabalho: o Rete rule engine toma as decisões determinísticas e o RAG gera a explicação auditável do porquê.",
+          "source": {
+            "label": "ai-rete-rag.com",
+            "url": "https://ai-rete-rag.com/"
+          }
+        },
+        {
+          "title": "Drop: sandbox rootless com gVisor",
+          "body": "Sandbox Linux rootless com suporte a gVisor para isolar cargas de agentes.",
+          "source": {
+            "label": "droprun.sh",
+            "url": "https://droprun.sh/"
+          }
+        },
+        {
+          "title": "phpclaw: PHP ganha runtime de agente idiomático",
+          "body": "Engine de agentes para PHP com tools, memória, guards e loop ReAct prontos, funcionando com Laravel, Symfony e WordPress.",
+          "source": {
+            "label": "github.com/phpclaw-php/phpclaw-monorepo",
+            "url": "https://github.com/phpclaw-php/phpclaw-monorepo"
+          }
+        },
+        {
+          "title": "Quadro SQLite compartilhado entre agentes",
+          "body": "O agent-message-board é um message board em SQLite que múltiplos agentes de código leem e escrevem, com web UI read-only para humanos acompanharem.",
+          "source": {
+            "label": "github.com/fstandhartinger/agent-message-board",
+            "url": "https://github.com/fstandhartinger/agent-message-board"
+          }
+        },
+        {
+          "title": "Jev/Laya passa do hype pra infra: stuntd, snap e go-jev",
+          "body": "Três repos em 48h: stuntd, proxy local que aprende as decisões tipadas do seu app e responde com um head Laya; snap, decisões tipadas em uma forward pass, local e determinístico; e go-jev, SDK Go comunitário do mattn.",
+          "source": {
+            "label": "github.com/mattn/go-jev",
+            "url": "https://github.com/mattn/go-jev"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O design de harness virou alvo de otimização mensurável: mesmo score no benchmark, 40% menos custo. A categoria cockpit de agente se formou em 48 horas, com dois apps estourando no mesmo dia. E quando o PHP ganha runtime idiomático de agente e coordenação entre agentes vira um quadro SQLite, a infra de agentes deixou de ser nicho."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-24",
       "date": "2026-09-24",
       "hook": "Panorama IA de 24 de setembro",
