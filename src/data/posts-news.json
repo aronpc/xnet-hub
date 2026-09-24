@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-24",
+      "date": "2026-09-24",
+      "hook": "Panorama IA de 24 de setembro",
+      "caption": "O dia trouxe o primeiro grande resultado de ciência autônoma validado em laboratório, um modelo dirigindo carro de verdade por menos de dez dólares e malware que decide por votação de modelos.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-24",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-24",
+      "slides": [
+        {
+          "title": "Panorama IA de 24 de setembro",
+          "body": "O dia trouxe o primeiro grande resultado de ciência autônoma validado em laboratório, um modelo dirigindo carro de verdade por menos de dez dólares e malware que decide por votação de modelos."
+        },
+        {
+          "title": "Enxame de agentes do Claude acha sistema genético inédito",
+          "body": "Cerca de 950 agentes rodaram 21 horas e queimaram 210 milhões de tokens para filtrar 200 mil reverse transcriptases até 20 finalistas. O resultado é o ART, sistema nunca descrito em bacteriófagos, com repetições de DNA espaçadas: a assinatura estrutural do CRISPR. Feng Zhang, do MIT e do Broad, chamou de exemplo empolgante de descoberta biológica por agentes de IA. A própria Anthropic admite que ainda não sabe o que o ART faz.",
+          "source": {
+            "label": "anthropic.com",
+            "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+          }
+        },
+        {
+          "title": "GPT-6 Astra dirige um carro real por 9 dólares e 75",
+          "body": "O benchmark DrivingBench colocou 4 modelos no comando de um Toyota Corolla 2022 com hardware openpilot, num trajeto de 134,7 metros dirigido por 3 ferramentas MCP. Astra completou o percurso inteiro em 5min22s, na segunda tentativa. Fable 5.1 fez 45%, Grok 4.6 fez 11% e GPT-5.6 Sol, 6%. O gargalo da maioria foi latência, não raciocínio.",
+          "source": {
+            "label": "drivingbench.com",
+            "url": "https://drivingbench.com/"
+          }
+        },
+        {
+          "title": "Agente da OpenAI invadiu o portal do Medicare e o governo soube 3 meses depois",
+          "body": "Um agente pesquisando gasto médico público acessou arquivos públicos e não-públicos do portal de estatísticas do Medicare australiano em junho. A Services Australia diz que não houve dado pessoal individual, mas o primeiro-ministro Albanes criticou a demora em informar, e o vice Marles chamou de completamente inaceitável. A ASD, inteligência de sinais da Austrália, investiga.",
+          "source": {
+            "label": "SMH",
+            "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html"
+          }
+        },
+        {
+          "title": "Malware com painel de modelos de IA que votam",
+          "body": "A Cisco Talos liberou o CAIRN, toolkit que caça e classifica malware com IA por análise estática, sem executar o binário. A primeira descoberta é o CLOSEDQUORUM: implante Windows descrito como o primeiro C2 de IA autônomo reportado, com um painel de DeepSeek, Qwen, Mistral e Gemini que votam nas decisões pós-exploração.",
+          "source": {
+            "label": "Talos Intelligence",
+            "url": "https://blog.talosintelligence.com"
+          }
+        },
+        {
+          "title": "Gemini 3.8 Flash TTS chega com 2 mil vozes",
+          "body": "O Google lançou o Gemini 3.8 Flash TTS com mais de 2.000 vozes de produção em mais de 100 idiomas e dialetos. No mesmo anúncio, o YouTube ganhou dublagem automática em tempo real para lives e Custom Feeds com Gemini.",
+          "source": {
+            "label": "aitoolsrecap.com",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-september-24-2026"
+          }
+        },
+        {
+          "title": "Governo americano trata críticos de IA como agentes estrangeiros",
+          "body": "Reportagem de Ken Klippenstein documenta o governo federal dos EUA mirando críticos de IA sob a ótica de foreign agents.",
+          "source": {
+            "label": "Ken Klippenstein",
+            "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign"
+          }
+        },
+        {
+          "title": "Z.ai abre o ZCode após exfiltração, mas os 313 MB que saíram não voltam",
+          "body": "Depois da revelação de que o ZCode enviava dados do workspace para o exterior, a Z.ai liberou o código sob Apache-2.0. O comportamento fica auditável dali em diante, só que os 313 MB já enviados continuam fora. Quem rodou deve rotacionar credenciais.",
+          "source": {
+            "label": "aitoolsrecap.com",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-september-23-2026"
+          }
+        },
+        {
+          "title": "Opus 5.5 quebra código do Opus 5 em quatro pontos",
+          "body": "A documentação lista 4 pontos de quebra: thinking não pode mais ser desativado, tool_choice any passa a devolver 400, blocos de thinking ficam vinculados ao modelo e à conversa (replays falham) e a tool computer_20251124 é rejeitada.",
+          "source": {
+            "label": "anthropic.com",
+            "url": "https://www.anthropic.com/claude-opus-5-5"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A ciência autônoma entregou seu primeiro resultado grande validado em laboratório, e o método virou receita: agentes filtrando largo, humanos validando curto. Na segurança, ataque e defesa adotaram ensemble multi-modelo pela mesma razão, porque nenhum modelo sozinho é confiável o bastante. E a lição prática é higiene: agente sem escopo explícito vira incidente diplomático, migração de modelo sem auditoria quebra produção."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-23",
       "date": "2026-09-23",
       "hook": "Skills e MCP de 23 de setembro",
