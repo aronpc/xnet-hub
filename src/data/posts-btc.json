@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-24-01h30",
+      "date": "2026-09-24",
+      "time": "01h30",
+      "hook": "BTC a US$ 83.907, encostado na mínima de 24h depois de cair 3,7% no dia. Os repiques até 84,5 mil encontram venda; a reação ainda não apareceu.",
+      "caption": "84 mil ficou para trás na noite passada e, enquanto o preço procura chão, o medo não chegou.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-24-01h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-24-01h30",
+      "slides": [
+        {
+          "title": "Queda com sentimento ainda em ganância",
+          "body": "84 mil ficou para trás na noite passada e, enquanto o preço procura chão, o medo não chegou."
+        },
+        {
+          "title": "US$ 83.907",
+          "body": "Δ1h -0,14% · Δ24h -3,69% · volume de $42,9bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço colado na mínima de 24h, repiques vendidos entre 84,3 e 84,5 mil · Smart money: funding +0,0051% e L/S 1,17, quase neutro",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "83.500 decide a próxima perna",
+          "body": "Suporte 83.500 (-0,49%) · Resistência 84.500 (+0,71%) · abaixo do primeiro, 82.500 entra no radar; acima do segundo, 85.600",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Próxima leitura às 02h30",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-23-13h30",
       "date": "2026-09-23",
       "time": "13h30",
