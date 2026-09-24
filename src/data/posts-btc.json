@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-24-11h31",
+      "date": "2026-09-24",
+      "time": "11h31",
+      "hook": "O dia amanheceu com queda de 3%; agora o BTC encosta na máxima de 24 horas",
+      "caption": "Três fechamentos de 1h seguidos em alta, o último de +1,14%, trouxeram o preço de volta ao ponto mais alto das últimas 24 horas, 84,9 mil. O dia virou de -3% para +0,85%, e o posicionamento segue calmo: funding quase zero, sem multidão compradora esticada.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-24-11h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-24-11h31",
+      "slides": [
+        {
+          "title": "Bitcoin devolveu as perdas da madrugada e chegou ao teto da faixa",
+          "body": "Três fechamentos de 1h seguidos em alta, o último de +1,14%, trouxeram o preço de volta ao ponto mais alto das últimas 24 horas, 84,9 mil. O dia virou de -3% para +0,85%, e o posicionamento segue calmo: funding quase zero, sem multidão compradora esticada."
+        },
+        {
+          "title": "US$ 84.736",
+          "body": "Δ1h +1,14% · Δ24h +0,85% · volume de US$ 36,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço colado na máxima de 24h (84.942), com três fechamentos de 1h em alta · Smart money: funding +0,0019% e L/S 1,27, força sem excesso"
+        },
+        {
+          "title": "Falta pouco para 85 mil",
+          "body": "Piso 84.000 (-0,87%) · Teto 85.000 (+0,31%) · acima do teto, a próxima referência é 86 mil; abaixo do piso, 83,3 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Próxima leitura às 12h30",
+          "body": "O intraday atualiza de hora em hora · leitura técnica, não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-09-24-08h31",
       "date": "2026-09-24",
       "time": "08h31",
