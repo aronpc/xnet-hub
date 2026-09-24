@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-24-13h33",
+      "date": "2026-09-24",
+      "time": "13h33",
+      "hook": "O bitcoin apagou o recuo do almoço e opera a US$ 84.670, a 0,3% do teto do dia. O termômetro de sentimento subiu para 71, já na zona de ganância.",
+      "caption": "O preço voltou à região que derrubou a alta do meio-dia. A diferença agora é o clima: mais confiança no mercado, ainda sem exagero.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-24-13h33",
+      "link": "https://xbtc.aronpc.dev/#2026-09-24-13h33",
+      "slides": [
+        {
+          "title": "O topo de 84,9 mil ganhou companhia",
+          "body": "O preço voltou à região que derrubou a alta do meio-dia. A diferença agora é o clima: mais confiança no mercado, ainda sem exagero."
+        },
+        {
+          "title": "US$ 84.670",
+          "body": "Δ1h +0,68% · Δ24h +0,50% · volume de US$ 39,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fundos em elevação desde 83,3 mil e preço colado no topo de 84,9 mil · Posicionamento leve: funding +0,0013% e razão long/short de 1,27"
+        },
+        {
+          "title": "A tarde decide entre 84,2 e 85,0 mil",
+          "body": "Passar de 85,0 mil abre caminho para 86,5 mil · recuar abaixo de 84,2 mil devolve o preço à base de 83,7 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Próxima leitura às 14h30",
+          "body": "O intraday atualiza de hora em hora · leitura técnica, não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-09-24-12h32",
       "date": "2026-09-24",
       "time": "12h32",
