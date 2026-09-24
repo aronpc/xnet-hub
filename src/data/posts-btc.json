@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-24-05h30",
+      "date": "2026-09-24",
+      "time": "05h30",
+      "hook": "BTC a US$ 83.976, caindo 2,3% no dia. O repique da madrugada não durou: o preço devolveu os ganhos e voltou a encostar na banda de 83,5 mil, a mais baixa das últimas 24h.",
+      "caption": "Três leituras de alta e pronto: sem volume, o movimento não passou de 84,5 mil e o preço voltou ao ponto de partida.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-24-05h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-24-05h30",
+      "slides": [
+        {
+          "title": "A trégua durou pouco",
+          "body": "Três leituras de alta e pronto: sem volume, o movimento não passou de 84,5 mil e o preço voltou ao ponto de partida."
+        },
+        {
+          "title": "US$ 83.976",
+          "body": "Δ1h -0,51% · Δ24h -2,31% · volume de $1,7bi em 24h",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O repique não passou de 84,5 mil e devolveu tudo; preço colado no limite inferior da faixa diária · Smart money: funding 0,00% e L/S 1,18, alavancagem leve no lado comprador",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "83.500 sob observação",
+          "body": "Suporte 83.500 (-0,57%) · Resistência 86.000 (+2,41%) · acima de 86.000, as referências sobem para 86.600 a 87.100; 83.100 é o degrau seguinte para baixo",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Próxima leitura às 06h30",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-24-02h30",
       "date": "2026-09-24",
       "time": "02h30",
