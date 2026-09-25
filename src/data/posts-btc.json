@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-25-05h33",
+      "date": "2026-09-25",
+      "time": "05h33",
+      "hook": "Em duas horas, o bitcoin apagou a queda que a madrugada construiu: são US$ 84.402, a menos de 1% da máxima de 24 horas, 84.942. O porém é o volume: 543 BTC na última hora, contra uma média de 753.",
+      "caption": "Terceira leitura do dia com viés diferente: lateral à meia-noite, baixa às 4h30, alta agora.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-25-05h33",
+      "link": "https://xbtc.aronpc.dev/#2026-09-25-05h33",
+      "slides": [
+        {
+          "title": "De volta à porta dos 85 mil",
+          "body": "Terceira leitura do dia com viés diferente: lateral à meia-noite, baixa às 4h30, alta agora."
+        },
+        {
+          "title": "US$ 84.402",
+          "body": "Δ1h +0,40% · Δ24h +0,59% · volume de US$ 37,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Closes de 1h em subida e preço a 74% da faixa do dia · Smart money: funding +0,0028% e L/S 1,23 (55% long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Primeiro toque nos 85 mil com volume fraco",
+          "body": "Acima de 85.000, referência de 86.200 · abaixo de 84.000, reteste de 83.000 (mín 24h: 82.875)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Próxima leitura às 06h30",
+          "body": "O intraday atualiza de hora em hora · leitura técnica, não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-09-25-04h30",
       "date": "2026-09-25",
       "time": "04h30",
