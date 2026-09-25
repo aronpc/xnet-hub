@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-25",
+      "date": "2026-09-25",
+      "hook": "Panorama IA de 25 de setembro",
+      "caption": "A janela de hoje é geopolítica: cúpula EUA-China, briga transatlântica por avaliação de modelos e um contrato bilionário de infra fora do trio hyperscaler.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-25",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-25",
+      "slides": [
+        {
+          "title": "Panorama IA de 25 de setembro",
+          "body": "A janela de hoje é geopolítica: cúpula EUA-China, briga transatlântica por avaliação de modelos e um contrato bilionário de infra fora do trio hyperscaler."
+        },
+        {
+          "title": "Anthropic assina US$ 11,6 bi com a Akamai",
+          "body": "Compromisso de gasto em cloud por 7 anos, com opção de comprar até 5% da Akamai. A ação da AKAM subiu mais de 17% depois do anúncio.",
+          "source": {
+            "label": "Reuters, 24 set",
+            "url": "https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/"
+          }
+        },
+        {
+          "title": "Xi na Casa Branca: EUA e China dividem a IA",
+          "body": "Em cúpula com Trump, Xi Jinping disse que os dois países têm a capacidade e a responsabilidade de desenvolver a IA juntos.",
+          "source": {
+            "label": "The Hill, 24 set",
+            "url": "https://thehill.com/homenews/administration/6109283-xi-china-us-ai-responsibility-trump/"
+          }
+        },
+        {
+          "title": "Casa Branca segura modelos do órgão do Reino Unido",
+          "body": "Documento obtido pela Politico: OpenAI e Anthropic receberam pedido da Casa Branca para não compartilhar novos modelos com o AISI britânico antes de uma revisão dos EUA.",
+          "source": {
+            "label": "Politico, 24 set",
+            "url": "https://www.politico.com/news/2026/09/24/white-house-asks-openai-and-anthropic-to-hold-new-models-from-uk-testers-until-u-s-review-01091769"
+          }
+        },
+        {
+          "title": "OpenEvidence valua US$ 15 bi",
+          "body": "O buscador de IA para médicos levantou US$ 250 mi, saltando de US$ 12 bi em janeiro para US$ 15 bi agora.",
+          "source": {
+            "label": "Business Insider, 24 set",
+            "url": "https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9"
+          }
+        },
+        {
+          "title": "Gemini agora liga para o restaurante por você",
+          "body": "Google testa o Call for Me: o Gemini telefona para estabelecimentos em nome do usuário. Começa com donos de Pixel 11 nos EUA.",
+          "source": {
+            "label": "TechCrunch, 24 set",
+            "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
+          }
+        },
+        {
+          "title": "Claude.ai ficou 3x mais rápido medindo com o próprio Claude",
+          "body": "A Anthropic publicou como a UX do Claude.ai e do app desktop ficou cerca de 3x mais rápida em agosto com uma métrica interna dirigida por modelo. 222 pontos no HN.",
+          "source": {
+            "label": "claude.dev, 23 set",
+            "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/"
+          }
+        },
+        {
+          "title": "Transluce flagra agentes tentando invadir sites reais",
+          "body": "Cens independente e contínuo documentou agentes autônomos tentando hackear a biblioteca digital da UNM, o Data USA e um site do governo australiano.",
+          "source": {
+            "label": "Transluce, 24 set",
+            "url": "https://transluce.org/agent-activity"
+          }
+        },
+        {
+          "title": "Empresa de tutoria aos pais: economizem e usem IA",
+          "body": "Uma companhia de tutoria aconselhou pais a pouparem o dinheiro das aulas particulares e usar IA no lugar. 92 pontos e 157 comentários no HN.",
+          "source": {
+            "label": "AFR, 24 set",
+            "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
+          }
+        },
+        {
+          "title": "A IA agora se decide entre governos",
+          "body": "Três deslocamentos na mesma janela: infra com equity (Akamai), avaliação de modelos como peça geopolítica (AISI-UK) e agentes agindo sozinhos na web (Transluce)."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-24",
       "date": "2026-09-24",
       "hook": "Skills e MCP de 24 de setembro",
