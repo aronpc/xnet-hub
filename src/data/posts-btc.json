@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-25-12h32",
+      "date": "2026-09-25",
+      "time": "12h32",
+      "hook": "Viés baixa na leitura das 12h32: a queda que começou às 8h33 já tira 1,3% do preço, em topos cada vez mais baixos, até os 83,7 mil de agora. E o volume da última vela veio 19% abaixo da média. Pressão vendedora, mas sem pressa nenhuma.",
+      "caption": "Leitura das 12h32 (UTC-3)\n\nLeia: https://xbtc.aronpc.dev/#2026-09-25-12h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-25-12h32",
+      "slides": [
+        {
+          "title": "O viés virou para baixo; a queda não tem pressa",
+          "body": "Leitura das 12h32 (UTC-3)"
+        },
+        {
+          "title": "US$ 83.758",
+          "body": "Δ1h +0,10% · Δ24h -0,39% · vol $37,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Topos descendentes e perda de 84,2k levaram ao teste do mínimo 24h (83.183) · Smart Money: funding -0,0011% + L/S 1,32",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O dia se decide entre 83,2 e 84,2 mil",
+          "body": "Base do dia 83.200 (-0,7%) · Teto imediato 84.200 (+0,5%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-25-11h31",
       "date": "2026-09-25",
       "time": "11h31",
