@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-25-09h31",
+      "date": "2026-09-25",
+      "time": "09h31",
+      "hook": "A subida da manhã encontrou oferta firme: a vela das 8h negociou 2,4 vezes o volume típico e devolveu o preço ao meio da faixa do dia. O humor do derivado também mudou: o funding, positivo desde ontem, virou negativo.",
+      "caption": "Leitura das 9h31 (UTC-3)\n\nLeia: https://xbtc.aronpc.dev/#2026-09-25-09h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-25-09h31",
+      "slides": [
+        {
+          "title": "A manhã de alta parou na venda",
+          "body": "Leitura das 9h31 (UTC-3)"
+        },
+        {
+          "title": "US$ 84.384",
+          "body": "Δ1h -0,56% · Δ24h +1,07% · vol $37,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço no meio do canal (53%) depois de recuar do topo 84,7k · Smart Money: funding -0,0013% + L/S 1,20 (54%L)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O topo da manhã, 84.714, é a linha da próxima hora",
+          "body": "Resistência 85.000 (+0,73%) · Suporte 84.000 (-0,46%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-25-05h33",
       "date": "2026-09-25",
       "time": "05h33",
