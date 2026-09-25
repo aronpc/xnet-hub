@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-25",
+      "date": "2026-09-25",
+      "hook": "Projetos e repos de 25 de setembro",
+      "caption": "A janela de trending é creator-economy: pipeline de vídeo vertical, clipping local e até um escritório pixel-art habitado por agentes de IA.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-25",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-25",
+      "slides": [
+        {
+          "title": "Projetos e repos de 25 de setembro",
+          "body": "A janela de trending é creator-economy: pipeline de vídeo vertical, clipping local e até um escritório pixel-art habitado por agentes de IA."
+        },
+        {
+          "title": "short-video-generator-AI: pipeline de shorts com LLM + Whisper",
+          "body": "Pipeline open-source que gera shorts verticais sozinho: LLM para roteirização, Whisper para transcrição e detecção automática de trechos de destaque.",
+          "source": "github.com/yukitorido/short-video-generator-AI"
+        },
+        {
+          "title": "ClaudePanel: painel desktop para o Claude",
+          "body": "Toolkit que gerencia o Claude e outros assistentes de IA numa única janela, direto no desktop.",
+          "source": "github.com/BinaryDeliverer/ClaudePanel"
+        },
+        {
+          "title": "bridgeclip: corte de vídeo com IA rodando na sua máquina",
+          "body": "App desktop open-source da BridgeMind para clipping automático de vídeos com IA, sem sair da sua máquina.",
+          "source": "github.com/bridge-mind/bridgeclip"
+        },
+        {
+          "title": "jevry: navegador-agente desktop, MIT e com citações",
+          "body": "Do autor do golive-skill, um navegador-agente que executa tarefas em sites e faz pesquisa com citações das fontes.",
+          "source": "github.com/michaelswissa/jevry"
+        },
+        {
+          "title": "Relate: chief of staff que lembra suas conversas",
+          "body": "Assistente self-hosted que lembra o que a outra pessoa disse e o que você prometeu nos seus chats. Memória relacional pessoal, sem SaaS no meio.",
+          "source": "github.com/georgeding/Relate"
+        },
+        {
+          "title": "pixel-office: seu time de agentes num escritório pixel-art",
+          "body": "App Windows que mostra uma equipe de agentes de IA trabalhando junta num escritório em pixel-art, criando PowerPoint, Word e Excel.",
+          "source": "github.com/ezmoney4scout/pixel-office"
+        },
+        {
+          "title": "NetworkChuck ensina a montar depto de TI com IA",
+          "body": "Guia companion do vídeo do NetworkChuck: instalar o Paperclip, contratar agentes e dar trabalho real pra eles, passo a passo.",
+          "source": "github.com/theNetworkChuck/paperclip-guide"
+        },
+        {
+          "title": "O vídeo é o novo campo de batalha dos agentes",
+          "body": "Quatro dos sete destaques são pipeline de vídeo ou clipping, e todos rodam local. O outro eixo é abstração: escritório pixel-art e chief of staff deixam o multi-agente e a memória visíveis."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-25",
       "date": "2026-09-25",
       "hook": "Panorama IA de 25 de setembro",
