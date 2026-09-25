@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-25-04h30",
+      "date": "2026-09-25",
+      "time": "04h30",
+      "hook": "São sete velas de uma hora em queda desde 84,6 mil, e o bitcoin acabou encostado na parte de baixo do canal do dia: US$ 84.068, a 0,1% da linha dos 84 mil. Na virada do dia o quadro ainda era de equilíbrio; agora a leitura aponta pressão vendedora leve.",
+      "caption": "Primeira leitura do dia com viés vendedor: preço no terço inferior do canal de 82,9 a 84,9 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-09-25-04h30",
+      "link": "https://xbtc.aronpc.dev/#2026-09-25-04h30",
+      "slides": [
+        {
+          "title": "A pressão virou para baixo",
+          "body": "Primeira leitura do dia com viés vendedor: preço no terço inferior do canal de 82,9 a 84,9 mil"
+        },
+        {
+          "title": "US$ 84.068",
+          "body": "Δ1h −0,04% · Δ24h −0,50% · volume de US$ 37,0 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Sétimo close de 1h seguido em queda, preço na parte de baixo do canal do dia · Smart money: funding +0,004% e L/S 1,23 (55% long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A linha dos 84 mil decide a hora",
+          "body": "Rompendo 84.000 para baixo, a referência seguinte é 83.300 (mínimo 24h em 82.875) · de volta acima de 84.500, o quadro de queda se desfaz",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Próxima leitura às 05h30",
+          "body": "O intraday atualiza de hora em hora · leitura técnica, não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-09-25-00h30",
       "date": "2026-09-25",
       "time": "00h30",
