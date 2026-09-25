@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-25",
+      "date": "2026-09-25",
+      "hook": "Skills e MCP de 25 de setembro",
+      "caption": "Skills viram categoria de produto: a maior da janela fecha o loop de construir e publicar, e o Claude Code responde à crise de telemetria dentro do próprio doctor.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-25",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-25",
+      "slides": [
+        {
+          "title": "Skills e MCP de 25 de setembro",
+          "body": "Skills viram categoria de produto: a maior da janela fecha o loop de construir e publicar, e o Claude Code responde à crise de telemetria dentro do próprio doctor."
+        },
+        {
+          "title": "golive-skill: a skill que publica o que o agente construiu",
+          "body": "Skill open-source que leva ao ar o produto construído pelo agente: hosting, banco, domínio, email e pagamentos, tudo nas suas próprias contas.",
+          "source": "github.com/mikehasa/golive-skill"
+        },
+        {
+          "title": "v2.1.282: telemetria exposta no doctor",
+          "body": "A release de 24/09 adiciona notice de startup e entradas em /status e claude doctor listando variáveis de telemetria ignoradas ou desligadas nos settings do projeto.",
+          "source": {
+            "label": "GitHub Releases, 24 set",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.282"
+          }
+        },
+        {
+          "title": "zh-tech-writing: guia editorial de referência como skill",
+          "body": "Agent Skill para escrever documentação técnica em chinês seguindo o guia de estilo de Ruan Yifeng: frases curtas, tom plano, sem cheiro de IA.",
+          "source": "github.com/leter/zh-tech-writing"
+        },
+        {
+          "title": "REx-skill: engenharia reversa em loop de agente",
+          "body": "Skill de engenharia reversa agêntica pra achar vulnerabilidades em binários: o agente itera no alvo em vez de você abrir uma sessão manual de IDA.",
+          "source": "github.com/tihanyin/REx-skill"
+        },
+        {
+          "title": "easyplot: figuras no padrão de publicação em R e Python",
+          "body": "Agent Skill de análise de dados científicos que gera figuras prontas pra publicação: o pesquisador descreve o dado e recebe o gráfico do paper.",
+          "source": "github.com/Rimagination/easyplot"
+        },
+        {
+          "title": "openchatx-mcp: ChatGPT vira runtime de agente local",
+          "body": "Transforma o app do ChatGPT em runtime de agente local: opera o computador, usa ferramentas locais e descobre servidores MCP sozinho.",
+          "source": "github.com/XiaoPuOuO/openchatx-mcp"
+        },
+        {
+          "title": "MCPaint: pintando no Mario Paint do SNES",
+          "body": "Servidor MCP que pinta quadros e toca música no Mario Paint do Super Nintendo rodando headless.",
+          "source": "github.com/TheLiux/MCPaint"
+        },
+        {
+          "title": "Skill deixa de ser truque e vira produto",
+          "body": "golive-skill com quase 900 estrelas em dois dias mostra o tamanho: skills agora entregam resultado do código ao ar. E o guia editorial como skill aponta o próximo passo, referência de estilo executável."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-25",
       "date": "2026-09-25",
       "hook": "Projetos e repos de 25 de setembro",
