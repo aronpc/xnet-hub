@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-26",
+      "date": "2026-09-26",
+      "hook": "Skills e MCP de hoje",
+      "caption": "Skills saem da curadoria manual: dá para treinar, portar entre harnesses e medir em tokens. E o benchmark de referência agora é público. Oito histórias.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-26",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-26",
+      "slides": [
+        {
+          "title": "Skills e MCP de hoje",
+          "body": "Skills saem da curadoria manual: dá para treinar, portar entre harnesses e medir em tokens. E o benchmark de referência agora é público. Oito histórias."
+        },
+        {
+          "title": "As 68 skills do runtime do Muse, públicas",
+          "body": "O repositório MuseAI-Skills publica as 68 skills do runtime do muse.ai, com guias de workflow e connector manifests.",
+          "source": "github.com/win4r/MuseAI-Skills"
+        },
+        {
+          "title": "Microsoft SkillOpt: treine a skill, não os pesos",
+          "body": "Projeto da Microsoft aplica um loop de treinamento a skills em linguagem natural, com ganhos relatados em modelos-alvo GPT e Qwen.",
+          "source": "microsoft.github.io/SkillOpt"
+        },
+        {
+          "title": "Onda de skills de motion graphics",
+          "body": "Pelo menos cinco repos novos em 48h: vídeo promo de produto, vídeo 1080p beat-synced, music video aquarela. Todos sobre HyperFrames, HTML mais GSAP renderizado.",
+          "source": "github.com/tugrawork-creator/saas-motion-kit"
+        },
+        {
+          "title": "Quicksilver: o caro decide, o barato julga",
+          "body": "Skill do Claude Code que entrega ao Jev as decisões repetitivas de julgamento que hoje queimam tokens do Claude.",
+          "source": "github.com/UditAkhourii/quicksilver"
+        },
+        {
+          "title": "Claude Code ganha header de prompt-id",
+          "body": "A release de 25/09 adiciona o header x-claude-code-prompt-id, permitindo que LLM gateways agrupem requisições por prompt.",
+          "source": "github.com/anthropics/claude-code/releases/tag/v2.1.283"
+        },
+        {
+          "title": "Skills que atravessam harnesses",
+          "body": "Pack comunitário de cinco skills production-ready portáveis entre Genspark Claw, OpenClaw e Hermes, publicado hoje.",
+          "source": "github.com/breakstageaxe61/genspark-claw"
+        },
+        {
+          "title": "ReelQL: vídeo entra, JSON tipado sai",
+          "body": "Skill do Claude mais API que converte qualquer vídeo em dados estruturados tipados.",
+          "source": "github.com/tomascupr/reelql"
+        },
+        {
+          "title": "Stop hook que guarda o idioma da resposta",
+          "body": "Hook para o Claude Code detecta quando a resposta escorrega para o inglês e força a reescrita em japonês.",
+          "source": "github.com/minorun365/claude-code-japanese-guard"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Skill virou coisa que se treina, se porta entre harnesses e se mede em tokens. As três fronteiras que eram conversa agora têm código público. E o benchmark deixou de ser palpite: as 68 skills do Muse estão aí para comparar."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-26",
       "date": "2026-09-26",
       "hook": "Projetos e repos de hoje",
