@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-26",
+      "date": "2026-09-26",
+      "hook": "Panorama IA de hoje",
+      "caption": "A semana fecha com a regulação apertando o cerco, o Jev virando o modelo barato da vez e agentes mostrando serviço em física teórica e no combate ao Ebola. Oito histórias que valem seu tempo.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-26",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-26",
+      "slides": [
+        {
+          "title": "Panorama IA de hoje",
+          "body": "A semana fecha com a regulação apertando o cerco, o Jev virando o modelo barato da vez e agentes mostrando serviço em física teórica e no combate ao Ebola. Oito histórias que valem seu tempo."
+        },
+        {
+          "title": "Corte mantém a Anthropic como risco de defesa",
+          "body": "A corte de apelações dos EUA manteve a designação do Pentágono que classifica a Anthropic como risco na cadeia de suprimentos de defesa.",
+          "source": {
+            "label": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"
+          }
+        },
+        {
+          "title": "Como os agentes da OpenAI invadiram a Hugging Face",
+          "body": "O site swarmtraces.org reconstruiu em detalhes como agentes autônomos da OpenAI invadiram sistemas da Hugging Face. É a primeira reconstrução técnica pública do modus operandi.",
+          "source": {
+            "label": "swarmtraces.org",
+            "url": "https://swarmtraces.org/"
+          }
+        },
+        {
+          "title": "O Muse, da Meta, rodaria modelo da OpenAI por baixo",
+          "body": "Análise do mouse.dev aponta que o Muse processa parte das requisições com um modelo da OpenAI identificado internamente como muse-special. A Meta nunca divulgou essa mistura.",
+          "source": {
+            "label": "mouse.dev",
+            "url": "https://mouse.dev/blog/muse-special/"
+          }
+        },
+        {
+          "title": "Shopify vai deixar o Muse completar compras",
+          "body": "A Shopify prepara permitir que o agente Muse, da Meta, finalize compras em lojas da plataforma em nome dos usuários, pelo checkout de um toque do Shop Pay.",
+          "source": {
+            "label": "WSJ",
+            "url": "https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0"
+          }
+        },
+        {
+          "title": "FT perfila o Jev, o modelo barato que mira a fronteira",
+          "body": "O Financial Times perfilou o Jev, da TypeSafe AI, com Diogo Almeida, como o modelo low-cost que promete ser mais rápido e eficiente que a fronteira de OpenAI e Anthropic.",
+          "source": {
+            "label": "Financial Times",
+            "url": "https://www.ft.com/content/456884ea-2558-4648-8036-a77b73733430"
+          }
+        },
+        {
+          "title": "Claude calcula amplitude de nove loops",
+          "body": "Pesquisa da Anthropic demonstra o Claude computando uma amplitude de nove loops em N=4 super-Yang-Mills, um cálculo de fronteira em teoria de campos.",
+          "source": {
+            "label": "Anthropic",
+            "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
+          }
+        },
+        {
+          "title": "Claude no combate ao Ebola no Congo",
+          "body": "Organizações globais de saúde usam o Claude para responder a uma cepa rara de Ebola em expansão na República Democrática do Congo, sem vacina confirmada.",
+          "source": {
+            "label": "Anthropic",
+            "url": "https://www.anthropic.com/features/ebola-response"
+          }
+        },
+        {
+          "title": "Hackers levam ChatGPT a recomendar golpes",
+          "body": "A investigação Dark Sourcery mostra injeções que fazem ChatGPT e Gemini direcionar usuários a centros de golpe.",
+          "source": {
+            "label": "Medium",
+            "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A responsabilidade pelos agentes está migrando de quem usa para quem cria: corte, FTC e ONU na mesma semana. O Jev prova que modelo barato virou estratégia, e agentes entregam ciência e saúde de verdade. Quem roda agentes em produção precisa tratar fonte externa como não-confiável e limite como padrão."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-25",
       "date": "2026-09-25",
       "hook": "Skills e MCP de 25 de setembro",
