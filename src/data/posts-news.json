@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-26",
+      "date": "2026-09-26",
+      "hook": "Projetos e repos de hoje",
+      "caption": "O Jev virou substrato de tudo: memória de projeto, GUI e até trading. O padrão fazenda de agentes se consolida e uma IDE de spec rouba a cena. Sete projetos que importam.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-26",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-26",
+      "slides": [
+        {
+          "title": "Projetos e repos de hoje",
+          "body": "O Jev virou substrato de tudo: memória de projeto, GUI e até trading. O padrão fazenda de agentes se consolida e uma IDE de spec rouba a cena. Sete projetos que importam."
+        },
+        {
+          "title": "Whiteboard: IDE para desenhar antes de codar",
+          "body": "Startup do batch W26 do YC abriu o Whiteboard, IDE open-source para desenhar software antes de codar.",
+          "source": "github.com/devdotfast/whiteboard"
+        },
+        {
+          "title": "Guia de arquitetura de sistemas com IA",
+          "body": "Repositório didático do amitshekhariitbhu sobre desenhar sistemas com LLMs, RAG e agentes passo a passo.",
+          "source": "github.com/amitshekhariitbhu/ai-system-design"
+        },
+        {
+          "title": "TAI-DR, o manifesto contra texto com cheiro de IA",
+          "body": "Projeto editorial que recusa texto com cara de IA virou um dos maiores debates da HN. O lema: se você não se deu ao trabalho de ler, por que eu leria? Não é anti-IA, é a favor de se importar.",
+          "source": "tai-dr.com"
+        },
+        {
+          "title": "Jevmem: memória de projeto para o Claude Code",
+          "body": "Ferramenta que dá ao Claude Code memória persistente de projeto construída sobre o Jev, o modelo barato.",
+          "source": "github.com/Avinash-jetwani/jevmem"
+        },
+        {
+          "title": "Beebots: agentes de trading com cérebro Jev",
+          "body": "Três agentes de trading que operam na OKX com toda a decisão tomada pelo Jev. Paper trading por padrão.",
+          "source": "github.com/imikerussell/beebots"
+        },
+        {
+          "title": "Clodfarm: plante uma missão, colha agentes",
+          "body": "Repositório onde se planta uma missão e uma fazenda de agentes Claude Code divide em subtarefas e executa.",
+          "source": "github.com/matank001/clodfarm"
+        },
+        {
+          "title": "Hacker Atlas: mapa do que a HN comenta",
+          "body": "Show HN que agrega e visualiza os temas recorrentes das discussões da Hacker News.",
+          "source": "hackeratlas.com"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O Jev virou substrato: memória, GUI e trading com o modelo barato decidindo. O padrão fazenda de agentes deixou de ser experimento. E o momento de spec, que os agents pulam, virou território de produto."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-26",
       "date": "2026-09-26",
       "hook": "Panorama IA de hoje",
