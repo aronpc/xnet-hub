@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-27",
+      "date": "2026-09-27",
+      "hook": "Skills e MCP de hoje",
+      "caption": "O ecossistema amadureceu nas dores de quem roda agentes em produção: secops de MCP, higiene de prompt legado, SRE de swarm. E a onda motion domina as skills virais. Oito destaques.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-27",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-27",
+      "slides": [
+        {
+          "title": "Skills e MCP de hoje",
+          "body": "O ecossistema amadureceu nas dores de quem roda agentes em produção: secops de MCP, higiene de prompt legado, SRE de swarm. E a onda motion domina as skills virais. Oito destaques."
+        },
+        {
+          "title": "onetake: filmes que nunca cortam",
+          "body": "Skill que gera motion films em que cada beat nasce do anterior: câmera única e contínua, sem cortar pro próximo slide.",
+          "source": {
+            "label": "github.com/feitangyuan/onetake",
+            "url": "https://github.com/feitangyuan/onetake"
+          }
+        },
+        {
+          "title": "Auditoria de segurança pra MCP",
+          "body": "CLI que escaneia configs de agentes e servidores MCP atrás de tool poisoning, rug pulls e outros ataques de cadeia de suprimento de ferramentas.",
+          "source": {
+            "label": "github.com/graygnatconsole/mcp-audit-tool",
+            "url": "https://github.com/graygnatconsole/mcp-audit-tool"
+          }
+        },
+        {
+          "title": "A onda motion ganhou números",
+          "body": "O lemo-opuscar traz 39 estilos de filme como prompts reutilizáveis, cada um com curta feito inteiro em código pelo Opus 5.5. O no-slop-motion mira films de launch dirigidos, e não gerados por IA.",
+          "source": {
+            "label": "github.com/lemomo-ai/lemo-opuscar",
+            "url": "https://github.com/lemomo-ai/lemo-opuscar"
+          }
+        },
+        {
+          "title": "v2.1.283: prompt-audit e lock de modelos",
+          "body": "Os destaques menos cobertos da versão: o comando doctor com prompt-audit audita CLAUDE.md e skills por padrões escritos pra modelos antigos; settings gerenciadas com availableModelsMatch exato e deniedModels; e correções de MCP.",
+          "source": {
+            "label": "CHANGELOG claude-code",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "Skill de logo com 1.400+ referências",
+          "body": "Skill completa de design de logotipos: princípios, processo, craft de SVG, ferramentas de teste e biblioteca de referência com mais de 1.400 logos.",
+          "source": {
+            "label": "github.com/kaankiziltug/logo-design-skill",
+            "url": "https://github.com/kaankiziltug/logo-design-skill"
+          }
+        },
+        {
+          "title": "copycat: URL entra, clone sai",
+          "body": "Skill do Claude Code que captura a página via Playwright em 3 viewports, mapeia folds e seções, e clona o site pixel-perfect.",
+          "source": {
+            "label": "github.com/minosdevs/copycat-skill",
+            "url": "https://github.com/minosdevs/copycat-skill"
+          }
+        },
+        {
+          "title": "Code review movido a Jev",
+          "body": "Reviewer de código que usa o Jev nas decisões de triagem: prioriza e filtra diffs antes do modelo caro revisar.",
+          "source": {
+            "label": "github.com/egma-ai/jev-code-reviewer",
+            "url": "https://github.com/egma-ai/jev-code-reviewer"
+          }
+        },
+        {
+          "title": "SRE pra swarm de agentes, em skills",
+          "body": "Pacote da Alpha-Park com detector de deadlock via Wait-For-Graph, checkpoint e rollback transacional de estado de swarm, deduplicador de contexto de longo horizonte e mapper de coordenadas pra computer-use.",
+          "source": {
+            "label": "github.com/Alpha-Park/genpark-swarm-deadlock-detector-skill",
+            "url": "https://github.com/Alpha-Park/genpark-swarm-deadlock-detector-skill"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O ecossistema respondeu às dores reais de produção: auditoria de MCP, higiene de prompt legado, confiabilidade de swarm. O hype ficou na onda motion, com três repos acima de 50 estrelas em 48h. Pra quem mantém frota de agentes, o caminho é rodar o prompt-audit e scanear as configs de MCP."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-27",
       "date": "2026-09-27",
       "hook": "Projetos e repos de hoje",
