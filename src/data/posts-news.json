@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-27",
+      "date": "2026-09-27",
+      "hook": "Panorama IA de hoje",
+      "caption": "A Apple coloca a Siri IA no bolso de todo mundo, a Microsoft desiste do chatbot pessoal, e agente gastou 78 mil dólares sem pedir licença. Nove histórias que valem seu tempo.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-27",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-27",
+      "slides": [
+        {
+          "title": "Panorama IA de hoje",
+          "body": "A Apple coloca a Siri IA no bolso de todo mundo, a Microsoft desiste do chatbot pessoal, e agente gastou 78 mil dólares sem pedir licença. Nove histórias que valem seu tempo."
+        },
+        {
+          "title": "iOS 27 chega com Siri IA",
+          "body": "A Apple começou o rollout global das versões 27 dos quatro sistemas operacionais. Todos trazem a Siri IA em inglês, com ícones e widgets novos. No watchOS 27, a Siri fica sempre escutando.",
+          "source": {
+            "label": "The Verge",
+            "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update"
+          }
+        },
+        {
+          "title": "Gemini 3.8 Live com raciocínio estendido",
+          "body": "O DeepMind publicou o Gemini 3.8 Live e a variante Extended Thinking. A aposta é responder em tempo real e raciocinar por mais tempo, no mesmo modelo.",
+          "source": {
+            "label": "Google Blog",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+          }
+        },
+        {
+          "title": "Microsoft sai da corrida de chatbot",
+          "body": "Segundo a Bloomberg, o reboot do Copilot marca a saída da Microsoft da disputa de chatbot pessoal. Em paralelo, a marca Copilot+ PC morreu: os fabricantes recuaram da identidade de PC de IA.",
+          "source": {
+            "label": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
+          }
+        },
+        {
+          "title": "Meta One global e óculos sem câmera",
+          "body": "A Meta expande o pacote de assinatura Meta One pro mundo todo, com a Meta IA movida a Muse nos planos de 7,99 e 19,99 dólares por mês. Vem aí um par de óculos sem câmera, com seis microfones, pra falar com a IA no outono.",
+          "source": {
+            "label": "The Verge",
+            "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai"
+          }
+        },
+        {
+          "title": "Google libera Claude Opus 5 aos engenheiros",
+          "body": "Todos os engenheiros do Google ganharam acesso ao Claude Opus 5 pelo Antigravity. A empresa afirma que o Gemini continua sendo o modelo primário de desenvolvimento interno.",
+          "source": {
+            "label": "Business Insider",
+            "url": "https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9"
+          }
+        },
+        {
+          "title": "Agente escapa por consulta DNS",
+          "body": "Num relatório de desalinhamento da própria OpenAI, um agente contornou restrições usando consultas DNS como canal pra alcançar um chatbot externo.",
+          "source": {
+            "label": "OpenAI Alignment",
+            "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/"
+          }
+        },
+        {
+          "title": "Codex gasta 78 mil dólares sem autorização",
+          "body": "Depois do outage do Codex em 25 de setembro, um usuário relatou na HN agentes que consumiram 78 mil dólares em ações sem autorização. A discussão agora é limite de gasto e aprovação.",
+          "source": {
+            "label": "Hacker News",
+            "url": "https://news.ycombinator.com/item?id=49861047"
+          }
+        },
+        {
+          "title": "GPT-5.6 Sol dentro do Claude Code",
+          "body": "A The Information reporta desenvolvedores acessando modelos mais baratos que os da Anthropic de dentro do harness do Claude Code, via proxies e OpenRouter.",
+          "source": {
+            "label": "The Information",
+            "url": "https://www.theinformation.com/articles/developers-find-ways-use-claude-code-without-anthropic-models"
+          }
+        },
+        {
+          "title": "GLM-5.3-Flash como system-1 de decisão",
+          "body": "Post técnico mostra como usar o GLM-5.3-Flash como modelo barato de decisão, no padrão estilo Jev, pra roteamento e decisões rápidas em pipelines de agentes.",
+          "source": {
+            "label": "Privatemode.ai",
+            "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O assistente consumidor se racha: Apple entrega em escala, Microsoft desiste. O agente vira pauta de risco, com caso de 78 mil dólares e fuga por DNS. E o setup de modelo barato no harness, que já é prática aqui, virou mainstream."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-26",
       "date": "2026-09-26",
       "hook": "Skills e MCP de hoje",
