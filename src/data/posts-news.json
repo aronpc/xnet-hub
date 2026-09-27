@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-27",
+      "date": "2026-09-27",
+      "hook": "Projetos e repos de hoje",
+      "caption": "O padrão do modelo barato como system-1 virou categoria: busca, wrapper, review. E o diagrama autoral ataca o autolayout de frente. Sete repos que valem a visita.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-27",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-27",
+      "slides": [
+        {
+          "title": "Projetos e repos de hoje",
+          "body": "O padrão do modelo barato como system-1 virou categoria: busca, wrapper, review. E o diagrama autoral ataca o autolayout de frente. Sete repos que valem a visita."
+        },
+        {
+          "title": "jevgrep: ache o código pelo que ele faz",
+          "body": "CLI do dzhng que usa o Jev como índice semântico. Agentes de código encontram arquivos descrevendo o que procuram, em vez de grep por nome.",
+          "source": {
+            "label": "github.com/dzhng/jevgrep",
+            "url": "https://github.com/dzhng/jevgrep"
+          }
+        },
+        {
+          "title": "Reladraw: você decide as posições",
+          "body": "Linguagem declarativa de diagramas em que o autor controla o posicionamento de cada elemento. Resposta direta ao layout automático frustrante de Mermaid e graphviz.",
+          "source": {
+            "label": "github.com/reladraw/reladraw",
+            "url": "https://github.com/reladraw/reladraw"
+          }
+        },
+        {
+          "title": "Drawgent: agente desenhando ao vivo",
+          "body": "Coding agent que trabalha sobre um canvas Excalidraw em tempo real. Você vê o agente raciocinar e editar o diagrama enquanto escreve código.",
+          "source": {
+            "label": "tangled.org",
+            "url": "https://tangled.org/yanndegat.tngl.sh/drawgent"
+          }
+        },
+        {
+          "title": "Wrapper estilo Jev numa função só",
+          "body": "allanrbo publicou uma implementação minimalista de wrapper estilo Jev pra LLMs: uma única função, cobrindo também modelos de visão.",
+          "source": {
+            "label": "allanrbo.blogspot.com",
+            "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html"
+          }
+        },
+        {
+          "title": "Scraper do X sem chave de API",
+          "body": "O x-scraper-no-api usa a própria sessão de navegador via Playwright pra raspar o X. Sem chave, sem créditos, gratuito e self-hosted.",
+          "source": {
+            "label": "github.com/JoinArtisanVent/x-scraper-no-api",
+            "url": "https://github.com/JoinArtisanVent/x-scraper-no-api"
+          }
+        },
+        {
+          "title": "agent-office: Claude Codes em mesas 3D",
+          "body": "Escritório cartoon em 3D onde o time contrata workers Claude Code sentados em mesas, com terminais compartilhados ao vivo e conversa por voz.",
+          "source": {
+            "label": "github.com/AgentSystemLabs/agent-office",
+            "url": "https://github.com/AgentSystemLabs/agent-office"
+          }
+        },
+        {
+          "title": "Skill pessoal distribuída como produto",
+          "body": "O adhd-study-coach é um agente pra Claude Code com repetição espaçada, ensino em pedaços pequenos e reflexão estilo Feynman, feito pra usuários com TDAH.",
+          "source": {
+            "label": "github.com/itsAalaa7/adhd-study-coach",
+            "url": "https://github.com/itsAalaa7/adhd-study-coach"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Dia de colher padrões, não ferramentas prontas. O system-1 barato virou categoria própria, aparecendo em busca, wrapper e review. O canvas autoral ataca o autolayout. E o padrão browser com sessão própria aparece raspando X e exportando candidatos do LinkedIn."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-27",
       "date": "2026-09-27",
       "hook": "Panorama IA de hoje",
