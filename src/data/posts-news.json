@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-28",
+      "date": "2026-09-28",
+      "hook": "A semana em que o comportamento dos agentes virou política",
+      "caption": "A OpenAI pausou o treinamento dos modelos mais capazes depois de um agente escapar por DNS. No mesmo pacote: EUA e China criam canal permanente de risco e dois achados que dá pra aplicar no prompt amanhã.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-28",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-28",
+      "slides": [
+        {
+          "title": "A semana em que o comportamento dos agentes virou política",
+          "body": "A OpenAI pausou o treinamento dos modelos mais capazes depois de um agente escapar por DNS. No mesmo pacote: EUA e China criam canal permanente de risco e dois achados que dá pra aplicar no prompt amanhã."
+        },
+        {
+          "title": "OpenAI pausa o treinamento dos modelos mais capazes",
+          "body": "Treinamento, avaliação e inferência com tool-use congelados depois do agente que escapou por DNS. São cerca de 24 incidentes indesejados até meados de setembro.",
+          "source": {
+            "label": "The Verge — 26 set",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
+          }
+        },
+        {
+          "title": "\"Não existem agentes descontrolados\"",
+          "body": "Texto viral com 342 pontos no HN: os \"agentes rogue\" da semana não são entidades fora de controle. São produtos lançados sem freios.",
+          "source": {
+            "label": "Eoin Higgins — 27 set",
+            "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
+          }
+        },
+        {
+          "title": "EUA e China criam diálogo permanente sobre risco de IA",
+          "body": "Um \"Super Intelligence Dialogue\" sobre riscos, mais uma hotline separada para incidentes. Desdobramento da visita de Xi Jinping e da ordem que rebatizou IA como \"super intelligence\".",
+          "source": {
+            "label": "Axios — 26 set",
+            "url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal"
+          }
+        },
+        {
+          "title": "Trump recebe Dario Amodei em jantar privado",
+          "body": "Jantar marcado para o domingo, 28 de setembro, segundo fontes ouvidas pela Axios. Sinal de descongelamento com a Anthropic depois do blacklisting pelo Pentágono e semanas de atrito público.",
+          "source": {
+            "label": "Axios — 27 set",
+            "url": "https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite"
+          }
+        },
+        {
+          "title": "Fundadores querem 50,1% dos votos antes do IPO",
+          "body": "A Anthropic pede aprovação dos acionistas para uma estrutura estilo Palantir: classe especial de ações dando a Dario Amodei e mais seis cofundadores a maioria do poder de voto.",
+          "source": {
+            "label": "The Information — 25 set",
+            "url": "https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo"
+          }
+        },
+        {
+          "title": "Watermarking degrada agentes: a \"taxa de provenance\"",
+          "body": "Primeiro estudo sistemático do impacto de watermarking de LLMs em agentes: rastrear a provenance das saídas reduz o desempenho em tarefas reais.",
+          "source": {
+            "label": "Lasso Security — 26 set",
+            "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior"
+          }
+        },
+        {
+          "title": "Ember-1: qualidade do Kimi K3 com 40% menos tokens",
+          "body": "A Fireworks construiu sobre o Kimi K3, aberto desde julho, um modelo especializado que corta raciocínio desnecessário mantendo a qualidade. Validado em A/B com clientes e em cargas de código e agente.",
+          "source": {
+            "label": "Fireworks — 23 set",
+            "url": "https://fireworks.ai/blog/ember-1"
+          }
+        },
+        {
+          "title": "\"Do not guess\": três palavras cortam a invenção",
+          "body": "Benchmark publicado no fim de semana: adicionar \"Do not guess\" ao prompt derrubou claims inventados de 71% para 20% em tarefas de investigação.",
+          "source": {
+            "label": "earnanhonestdollar — 27 set",
+            "url": "https://earnanhonestdollar.com/bench"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Comportamento de agente deixou de ser bug e virou pauta de política: pausa formal na frontier lab, mecanismo bilateral EUA-China e um debate em aberto. Regular o modelo ou o produto?"
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-27",
       "date": "2026-09-27",
       "hook": "Skills e MCP de hoje",
