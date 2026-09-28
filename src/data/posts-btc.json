@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-27-22h33",
+      "date": "2026-09-27",
+      "time": "22h33",
+      "hook": "A visita de hoje aos 85 mil foi devolvida. Três fechamentos de 1h no vermelho depois, o preço terminou o domingo no fundo do dia, a 0,2% de 83.900. E o humor do mercado segue em ganância, com F&G em 74.",
+      "caption": "Leitura das 22h33 (UTC-3)\n\nLeia: https://xbtc.aronpc.dev/#2026-09-27-22h33",
+      "link": "https://xbtc.aronpc.dev/#2026-09-27-22h33",
+      "slides": [
+        {
+          "title": "85 mil viraram teto",
+          "body": "Leitura das 22h33 (UTC-3)"
+        },
+        {
+          "title": "US$ 84.073",
+          "body": "Δ1h -0,65% · Δ24h -0,29% · vol US$ 23,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no terço inferior do range 24h (83.880 a 85.159), três closes de 1h descendentes e recusa na região dos 85 mil · Smart Money: funding +0,0002% + L/S 1,16, alavancagem equilibrada",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A noite passa por 83.900",
+          "body": "Suporte 83.900 (-0,2%) · Resistência 85.000 (+1,1%) · Recuperar 84.400 devolve o preço ao meio do range",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-27-09h32",
       "date": "2026-09-27",
       "time": "09h32",
