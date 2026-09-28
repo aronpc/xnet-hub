@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-28-04h31",
+      "date": "2026-09-28",
+      "time": "04h31",
+      "hook": "Novo fechamento mínimo: 82.988, colado na referência de 82,7 mil. O repique da madrugada durou menos que um bocejo e os fechamentos descem degrau após degrau. O funding negativo é o único sinal apontando na outra direção.",
+      "caption": "Leitura das 04h31 (UTC-3)\n\nLeia: https://xbtc.aronpc.dev/#2026-09-28-04h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-28-04h31",
+      "slides": [
+        {
+          "title": "Mais um degrau para baixo",
+          "body": "Leitura das 04h31 (UTC-3)"
+        },
+        {
+          "title": "US$ 82.988",
+          "body": "Δ1h -0,09% · Δ24h -2,14% · vol US$ 29,3 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Repique das 03h não se sustentou e a sequência de fechamentos continua em queda · Smart Money: funding -0,0024% + L/S 1,28 (56% long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A compressão decide",
+          "body": "Suporte 82.700 (-0,3%) · Resistência 83.400 (+0,5%). Abaixo de 82,7 mil: 82.200 e 82.000; acima de 83,4 mil: zona 84.000 a 84.200",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-28-00h35",
       "date": "2026-09-28",
       "time": "00h35",
