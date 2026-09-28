@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-28-12h31",
+      "date": "2026-09-28",
+      "time": "12h31",
+      "hook": "O preço testou os 83,5 mil pela manhã e não ficou: recuou nas duas horas seguintes até os 83,0 mil, quase o ponto de partida do movimento. O corredor de 82,5 a 85 mil que marca o dia segue intacto.",
+      "caption": "Leitura das 12h31 (UTC-3)\n\nLeia: https://xbtc.aronpc.dev/#2026-09-28-12h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-28-12h31",
+      "slides": [
+        {
+          "title": "O avanço da manhã foi embora",
+          "body": "Leitura das 12h31 (UTC-3)"
+        },
+        {
+          "title": "US$ 83.041",
+          "body": "Δ1h -0,33% · Δ24h -1,81% · vol US$ 37,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O topo da manhã, em 83,7 mil, está 0,8% acima do preço atual; nenhum extremo do dia foi rompido · Smart Money: funding +0,006% + L/S 1,34 (57% long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Perto da borda de baixo do corredor",
+          "body": "Acima de 83.600 (+0,7%), o próximo patamar é 84.200 · abaixo de 82.900, reteste de 82.500, mínima das últimas 24h",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-28-10h31",
       "date": "2026-09-28",
       "time": "10h31",
