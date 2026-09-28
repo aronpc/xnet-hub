@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-28",
+      "date": "2026-09-28",
+      "hook": "Interface pra frota de agentes virou gênero",
+      "caption": "Numa janela de 48 horas: arena ao vivo, escritório 3D, sistema operacional de negócios e tamagotchi produtivo. Sete repos que mapeiam a nova fronteira.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-28",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-28",
+      "slides": [
+        {
+          "title": "Interface pra frota de agentes virou gênero",
+          "body": "Numa janela de 48 horas: arena ao vivo, escritório 3D, sistema operacional de negócios e tamagotchi produtivo. Sete repos que mapeiam a nova fronteira."
+        },
+        {
+          "title": "TinyAIArena: assista agentes batalharem ao vivo",
+          "body": "Arena onde agentes de IA batalham entre si em tempo real, e o espectador assiste a cada decisão sendo tomada.",
+          "source": "tinyaiarena.com"
+        },
+        {
+          "title": "ufo-core: sistema operacional de agentes pra negócios",
+          "body": "Camada de orquestração de agentes voltada pra operações empresariais. O espaço que Salesforce e ServiceNow disputam por baixo.",
+          "source": "github.com/ufo-ai/ufo-core"
+        },
+        {
+          "title": "Hermes Virtual Office: o time de agentes num escritório 3D",
+          "body": "Mesas, reuniões com atas geradas automaticamente e espiar a tela do agente ao vivo.",
+          "source": "github.com/JuniorXcoder/hermes-virtual-office"
+        },
+        {
+          "title": "Imp: DSPy portado na íntegra pro BEAM",
+          "body": "O framework declarativo de pipelines LLM saiu do Python e foi pro runtime de telecom, com supervision trees e OTP nativos.",
+          "source": "github.com/deepfates/imp"
+        },
+        {
+          "title": "seiso: convenção Markdown pra docs escritas por IA",
+          "body": "Convenção e linter para documentação de projeto escrita por agente e lida por humanos E agentes. Normaliza o que um README gerado por IA deve conter.",
+          "source": "github.com/scarletkc/seiso"
+        },
+        {
+          "title": "AstraBox: alternativa open-source aos Managed Agents",
+          "body": "Clone open-source do produto de agentes gerenciados da Anthropic, rodando na própria infra. Surgiu menos de uma semana depois do anúncio.",
+          "source": "github.com/Colton-z/AstraBox"
+        },
+        {
+          "title": "Claude rodando num Nokia 6300 de 2007",
+          "body": "App Java ME com TLS 1.0, CA privada e cliente HTTP do J2ME pra atingir a API, em 340 KB de heap.",
+          "source": "github.com/emir/claude-s40"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A interface de agentes saiu do terminal: arena, escritório 3D, OS de negócios e tamagotchi. Supervisão de frota ganhando rosto, e o OSS replicando produto de frontier lab em dias."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-28",
       "date": "2026-09-28",
       "hook": "A semana em que o comportamento dos agentes virou política",
