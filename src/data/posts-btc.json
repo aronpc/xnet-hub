@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-28-07h31",
+      "date": "2026-09-28",
+      "time": "07h31",
+      "hook": "Novo piso para as últimas 24 horas logo cedo: 82,6 mil, às 6h. O volume foi o detalhe da manhã, com as quedas rodando três a quatro vezes o fluxo típico da hora. E o indicador de sentimento segue em 74, zona de ganância, como se a queda de 2,5% no dia nem tivesse acontecido.",
+      "caption": "Leitura das 07h31 (UTC-3)\n\nLeia: https://xbtc.aronpc.dev/#2026-09-28-07h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-28-07h31",
+      "slides": [
+        {
+          "title": "Piso novo, otimismo velho",
+          "body": "Leitura das 07h31 (UTC-3)"
+        },
+        {
+          "title": "US$ 82.777",
+          "body": "Δ1h +0,03% · Δ24h -2,51% · vol US$ 31,5 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Mínimo de 24h renovado às 06h e máximas descendo de 83,3 para 83,0 e 82,9 mil · Smart Money: funding +0,0020% + L/S 1,30 (57% long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Apertado entre 82,6 e 83,0 mil",
+          "body": "Suporte 82.600 (-0,2%) · Resistência 83.000 (+0,3%) · abaixo do piso, a referência seguinte é o redondo 82.000",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-28-04h31",
       "date": "2026-09-28",
       "time": "04h31",
