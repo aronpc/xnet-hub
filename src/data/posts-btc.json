@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-27-23h31",
+      "date": "2026-09-27",
+      "time": "23h31",
+      "hook": "A faixa de 83,9 mil cedeu na última hora do domingo. Quatro velas de 1h em queda, com volume acima da média (575 contra 465 BTC), deixaram o preço na mínima do dia. E o detalhe: funding levemente negativo, posições estáveis. Quem apertou a saída vendeu na vista, sem alavancagem.",
+      "caption": "Leitura das 23h31 (UTC-3)\n\nLeia: https://xbtc.aronpc.dev/#2026-09-27-23h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-27-23h31",
+      "slides": [
+        {
+          "title": "Mínima do dia, venda na vista",
+          "body": "Leitura das 23h31 (UTC-3)"
+        },
+        {
+          "title": "US$ 83.589",
+          "body": "Δ1h -0,58% · Δ24h -1,09% · vol US$ 25,0 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Quatro velas de 1h em queda com volume acima da média, preço colado na mínima de 24h · Smart Money: funding -0,002% (shorts pagam) + L/S 1,17, com 54% em longo e OI estável em 95k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "83,5 mil é a linha da vez",
+          "body": "Faixa agora: 83.480 (-0,1%) a 84.140 (+0,7%). Repique sem força até 84,1 mil dura pouco; acima de 84,5 mil a pressão alivia",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-27-22h33",
       "date": "2026-09-27",
       "time": "22h33",
