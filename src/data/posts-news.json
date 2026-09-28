@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-28",
+      "date": "2026-09-28",
+      "hook": "Skill deixou de ser coisa de dev",
+      "caption": "Designer, enxadrista e ecossistema inteiro publicando skills, enquanto a camada MCP ganha tooling próprio. As sete estreias que mapeiam a semana.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-28",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-28",
+      "slides": [
+        {
+          "title": "Skill deixou de ser coisa de dev",
+          "body": "Designer, enxadrista e ecossistema inteiro publicando skills, enquanto a camada MCP ganha tooling próprio. As sete estreias que mapeiam a semana."
+        },
+        {
+          "title": "blueprint-animation: o redesign explicado em animação",
+          "body": "Skill que desenha o redesign de UX como animação estilo blueprint. Cada mudança entre o \"antes\" e o \"depois\" explicada passo a passo.",
+          "source": "github.com/moguzbulbul/blueprint-animation"
+        },
+        {
+          "title": "chess-postmortem: a autópsia das suas partidas",
+          "body": "Skill que analisa suas partidas de xadrez e produz post-mortem: lances decisivos, alternativas, padrões de erro.",
+          "source": "github.com/brumar/chess-postmortem-skills"
+        },
+        {
+          "title": "A onda de vídeo ganha awesome-list: 180 repos",
+          "body": "Índice open-source de skills e toolkits de vídeo para Claude Code, Codex e outros agentes. Cataloga a onda motion que explodiu nos últimos dias.",
+          "source": "github.com/zhuyansen/awesome-claude-video-skills"
+        },
+        {
+          "title": "Designers publicando skills com guias 3D",
+          "body": "Coleção de agent skills para trabalho de design, incluindo guias de construção 3D. É o repo de skill mais estrelado da janela depois do blueprint-animation.",
+          "source": "github.com/SkylarKitchen/skills"
+        },
+        {
+          "title": "GenPark: frota de MCP nativos e índice com 718 skills",
+          "body": "Bateria de MCP servers num fim de semana: agente multimodal mobile-first, router estado-ação tipado, grafo de memória episódica. Mais o índice catalogando 718 skills.",
+          "source": "github.com/alphaparkinc/awesome-ai-agent-skills"
+        },
+        {
+          "title": "arena-skill: 100 variações brigando, a melhor fica",
+          "body": "Skill que gera 100 variações do mesmo agente ou tarefa e as faz lutar até a morte. Best-of-N empacotado como skill instalável.",
+          "source": "github.com/Jakeschincariol/arena-skill"
+        },
+        {
+          "title": "mcpkit: o que quebra seu MCP server em 9+ clientes",
+          "body": "Ferramenta que diagnostica incompatibilidades de um MCP server entre Claude, ChatGPT, Cursor, VS Code, Codex e mais. Matriz de compatibilidade de clientes como produto.",
+          "source": "github.com/VrajVed/mcpkit"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Autoria de skill se expandiu pra quem não programa, o ecossistema GenPark colou skill e MCP numa camada só, e a camada de protocolo já tem ferramenta própria de compatibilidade."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-28",
       "date": "2026-09-28",
       "hook": "Interface pra frota de agentes virou gênero",
