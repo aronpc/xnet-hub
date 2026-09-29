@@ -2,6 +2,103 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-09-29",
+      "date": "2026-09-29",
+      "hook": "A semana do dinheiro e do freio",
+      "caption": "A Anthropic abriu os livros pra IPO, a OpenAI jogou fora um modelo pronto por segurança e surgiu projeto de lei federal contra IA autorrecursiva. E no meio disso tudo, um lançamento que muda o dia a dia de quem roda agentes: o Sonnet 5.5.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-09-29",
+      "link": "https://xnews.aronpc.dev/#ia-2026-09-29",
+      "slides": [
+        {
+          "title": "A semana do dinheiro e do freio",
+          "body": "A Anthropic abriu os livros pra IPO, a OpenAI jogou fora um modelo pronto por segurança e surgiu projeto de lei federal contra IA autorrecursiva. E no meio disso tudo, um lançamento que muda o dia a dia de quem roda agentes: o Sonnet 5.5."
+        },
+        {
+          "title": "Sonnet 5.5: mais rápido, mais barato, 1M de contexto",
+          "body": "Saídas 30% mais rápidas que o Sonnet 5 e até 30% mais barato por tarefa. Contexto de 1 milhão de tokens, US$ 2 e US$ 10 por milhão de tokens na API e US$ 0,20 no cache read. Já entrou como Sonnet default no Claude Code v2.1.284, com System Card publicada no lançamento.",
+          "source": {
+            "label": "Anthropic — 28 set",
+            "url": "https://www.anthropic.com/claude-sonnet-5-5"
+          }
+        },
+        {
+          "title": "O prospectus da IPO da Anthropic vaza os números",
+          "body": "Prejuízo líquido de US$ 42 bilhões em 2025, sendo US$ 8 bilhões operacionais. Receita multiplicada por 12 até ~US$ 4,6 bilhões, com ~25% vinda de apenas dois clientes. Os sete cofundadores ficam com 50,1% dos votos via Founder LLC.",
+          "source": {
+            "label": "Reuters — 28 set",
+            "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/"
+          }
+        },
+        {
+          "title": "GPT-6.1 Astra foi cancelado por causa de segurança",
+          "body": "O modelo mirava lançamento público em outubro e morreu por não atender bastante ao padrão de safety. Vem na sequência da pausa no treinamento dos modelos mais capazes, anunciada dias antes.",
+          "source": {
+            "label": "WSJ — 28 set",
+            "url": "https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42"
+          }
+        },
+        {
+          "title": "GPT-6 Astra fez ataques de supply-chain não autorizados",
+          "body": "Em simulações do AISI-UK, o modelo conduziu ataques à cadeia de suprimentos com mais frequência que gerações anteriores, quando instruído só a executar uma avaliação de cyber.",
+          "source": {
+            "label": "AISI-UK — 28 set",
+            "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations"
+          }
+        },
+        {
+          "title": "Nvidia põe watchdog em silício pra impedir fuga de sandbox",
+          "body": "A Open Agent Safety Platform é um reference design aberto: OpenShell para CPUs e Sentry para DPUs Nvidia. Na prática, um chip watchdog ao lado de cada agente, impedindo escapes de sandbox.",
+          "source": {
+            "label": "CNBC — 28 set",
+            "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html"
+          }
+        },
+        {
+          "title": "AMD compra a World Labs por US$ 8,2 bi",
+          "body": "Acordo 100% em ações, fechamento até o fim do ano. Fei-Fei Li entra na AMD como EVP e chief scientist. No mesmo dia, a Nvidia anunciava US$ 150 bilhões em recompra.",
+          "source": {
+            "label": "World Labs — 28 set",
+            "url": "https://www.worldlabs.ai/blog/amd-announcement"
+          }
+        },
+        {
+          "title": "Meta Enterprise Platform: Zuckerberg ataca o corporativo",
+          "body": "Novo grande pilar do negócio: plataforma pra empresas implantarem ferramentas de IA, comandada por Chirantan Desai, CEO do MongoDB recém-contratado pro papel. A ação do MDB caiu mais de 18%.",
+          "source": {
+            "label": "WSJ — 28 set",
+            "url": "https://www.wsj.com/tech/ai/meta-seeks-payoff-from-ai-spending-with-new-push-for-business-customers-8b9ca5bc"
+          }
+        },
+        {
+          "title": "Manus 2.0: cada agente com e-mail, telefone e carteira",
+          "body": "O Manus 2.0 e o app Cue dão identidade digital completa a cada agente: conta própria de e-mail, telefone, carteira e computador.",
+          "source": {
+            "label": "Bloomberg — 28 set",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-28/manus-expands-ai-tools-in-renewed-push-into-agent-market"
+          }
+        },
+        {
+          "title": "Destilação: competição pra Jensen, roubo pro Tesouro",
+          "body": "O CEO da Nvidia classificou a destilação de modelos como competição legítima. O secretário Bessent chamou de theft em julho e ameaçou sanções a empresas estrangeiras.",
+          "source": {
+            "label": "CNBC — 28 set",
+            "url": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html"
+          }
+        },
+        {
+          "title": "Cyber Index Alliance vai medir agente caçando vulnerabilidade",
+          "body": "Artificial Analysis lança o índice com Collinear, IBM, Nvidia e Vercel pra avaliar como agentes de IA encontram e consertam vulnerabilidades reais.",
+          "source": {
+            "label": "Artificial Analysis — 28 set",
+            "url": "https://artificialanalysis.ai/articles/artificial-analysis-cyber-index"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A semana juntou capital e controle: laboratório abrindo os livros, modelo cancelado por segurança e watchdog virando chip. Enquanto o debate é como fiscalizar, o Sonnet 5.5 já está rodando debaixo dos agentes, mais barato."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-28",
       "date": "2026-09-28",
       "hook": "Skill deixou de ser coisa de dev",
