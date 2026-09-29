@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-09-29",
+      "date": "2026-09-29",
+      "hook": "A turma toda quer resolver a mesma dor",
+      "caption": "As ferramentas da semana apontam quase todas pro mesmo lugar: controlar agente de código sem estragar a sessão. Aprovação centralizada, processo órfão, contexto curado. E dois cases de pipeline de áudio e vídeo que casam com quem já produz mídia automatizada.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-09-29",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-09-29",
+      "slides": [
+        {
+          "title": "A turma toda quer resolver a mesma dor",
+          "body": "As ferramentas da semana apontam quase todas pro mesmo lugar: controlar agente de código sem estragar a sessão. Aprovação centralizada, processo órfão, contexto curado. E dois cases de pipeline de áudio e vídeo que casam com quem já produz mídia automatizada."
+        },
+        {
+          "title": "hn.watch: todo post do Hacker News vira vídeo",
+          "body": "Show HN que gera vídeos automáticos de todos os posts do Hacker News.",
+          "source": "hn.watch"
+        },
+        {
+          "title": "emdash-build: descreva o site, o agente constrói",
+          "body": "Site builder conversacional pro EmDash CMS: você descreve o site e um agente constrói ao vivo num sandbox Cloudflare.",
+          "source": "github.com/emdash-cms/emdash-build"
+        },
+        {
+          "title": "OpenAPPA: guardrails determinísticos que não quebram o agente",
+          "body": "Guardrails open-source determinísticos, sem LLM no caminho crítico, projetados pra não degradar a atuação do agente.",
+          "source": "openappa.com"
+        },
+        {
+          "title": "agentbox: workspace no navegador pra Claude Code e Codex",
+          "body": "Sessões Docker com terminal, arquivos, Git e UI no navegador pros CLIs de agente. Multi-sessão isolada sem depender de serviço fechado.",
+          "source": "github.com/devilcoolyue/agentbox"
+        },
+        {
+          "title": "uber-cli: agente chama corrida com escada de confirmação",
+          "body": "CLI e MCP agent-first pra Uber: tarifas ao vivo, corridas com confirm ladder, em que o agente sobe degraus de aprovação antes de agir, além de recibos e mapa em braille.",
+          "source": "github.com/crafter-station/uber-cli"
+        },
+        {
+          "title": "countersign: painel do macOS pra cada sessão de agente",
+          "body": "App nativo que centraliza num único painel os pedidos de permissão de Claude Code, Codex, Cursor e Antigravity.",
+          "source": "github.com/Gord1y/countersign"
+        },
+        {
+          "title": "drexgrep: pergunte ao repo, receba os arquivos e linhas certos",
+          "body": "Harness de busca de contexto: uma pergunta sobre o repositório retorna os arquivos e linhas que o coding agent deveria ver antes de responder.",
+          "source": "github.com/nace-ai/drexgrep"
+        },
+        {
+          "title": "corral: mate todo comando que seu agente deixar vivo",
+          "body": "Utilitário que rastreia e encerra processos órfãos criados por agentes de código durante a sessão.",
+          "source": "github.com/Cardinal44/corral"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O controle de agentes deixou de ser configuração dispersa e virou camada própria: painel de aprovação no SO, guardrail determinístico, limpeza de processo órfão e contexto curado. Quem roda frota grande convive com cada uma dessas dores todo dia."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-09-29",
       "date": "2026-09-29",
       "hook": "A semana do dinheiro e do freio",
