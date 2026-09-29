@@ -2,6 +2,67 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-09-29",
+      "date": "2026-09-29",
+      "hook": "Skill deixa de ser palavra do Claude",
+      "caption": "O Claude Code endureceu o controle: custo em dólar no rodapé e um botão formal de pedir socorro. Enquanto isso, o Google adota o conceito de skill e os MCPs da semana abraçam o mundo fora do dev: Word, SAP, mesa de mixagem e até avatar de VTuber.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-09-29",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-09-29",
+      "slides": [
+        {
+          "title": "Skill deixa de ser palavra do Claude",
+          "body": "O Claude Code endureceu o controle: custo em dólar no rodapé e um botão formal de pedir socorro. Enquanto isso, o Google adota o conceito de skill e os MCPs da semana abraçam o mundo fora do dev: Word, SAP, mesa de mixagem e até avatar de VTuber."
+        },
+        {
+          "title": "v2.1.284: Sonnet 5.5 default e dinheiro vivo no rodapé",
+          "body": "O /usage e a status line passam a mostrar o spend em dólares, como $271,40 de $500,00 gastos no mês. O auto mode ganhou Yes, but ask again next time pra leituras fora do diretório de trabalho, e o slider de /effort ganhou keybindings.",
+          "source": {
+            "label": "GitHub Releases — 28 set",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.284"
+          }
+        },
+        {
+          "title": "Advisor tool: o agente ganha botão de pedir socorro",
+          "body": "Nova documentação oficial descreve o advisor tool, mecanismo pro agente escalar decisões difíceis em vez de decidir sozinho.",
+          "source": {
+            "label": "Docs Claude Code — 28 set",
+            "url": "https://code.claude.com/docs/en/advisor"
+          }
+        },
+        {
+          "title": "Google migra os Gems do Gemini pra skills",
+          "body": "A partir de 17 de novembro, os Gems, versões customizadas do Gemini, serão migrados pra skills, conceito que o Google introduziu com o Gemini Spark.",
+          "source": {
+            "label": "9to5Google — 27 set",
+            "url": "https://9to5google.com/2026/09/27/gemini-gems-skills/"
+          }
+        },
+        {
+          "title": "titration: o agente prova que o prompt funciona",
+          "body": "Servidor MCP auto-hospedado em que o agente de código itera num prompt até funcionar de fato, com verificação cruzada antes de declarar vitória.",
+          "source": "github.com/kaithoughtarchitect/titration"
+        },
+        {
+          "title": "claude-skills-obsidian: suas skills navegáveis fora do CLI",
+          "body": "Plugin do Obsidian pra navegar as skills e slash commands do Claude Code e inspecionar os detalhes de cada uma.",
+          "source": "github.com/m4rri3nne/claude-skills-obsidian"
+        },
+        {
+          "title": "warudo-agent-bridge: agente pilotando avatar de VTuber",
+          "body": "Servidor MCP e CLI que deixam qualquer cliente MCP ver e dirigir uma cena do WARUDO em execução: cena, física e avatar.",
+          "source": "github.com/StudioRaming/warudo-agent-bridge"
+        },
+        {
+          "title": "studio-one-mcp: a mesa de mixagem virou tool call",
+          "body": "MCP pro PreSonus Studio One: ler arquivos .song e pilotar a sessão em execução, incluindo mixer, transporte e faixas.",
+          "source": "github.com/NeanderthalMan/studio-one-mcp"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O harness virou painel de controle: custo visível em dólar, escalonamento formal de decisão e inventário de skills com interface própria. E a palavra skill agora é de todo mundo, Google incluso."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-09-29",
       "date": "2026-09-29",
       "hook": "A turma toda quer resolver a mesma dor",
