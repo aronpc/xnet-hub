@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-29-15h32",
+      "date": "2026-09-29",
+      "time": "15h32",
+      "hook": "Depois da pressão do meio-dia, o Bitcoin voltou aos US$ 83.570. O piso de 83 mil foi testado três vezes em três horas e não cedeu.",
+      "caption": "Três toques no mesmo ponto, nenhum passou. O repique veio, mas em volume fraco, 0,4× a média da hora.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-29-15h32",
+      "link": "https://xbtc.aronpc.dev/#2026-09-29-15h32",
+      "slides": [
+        {
+          "title": "A queda esbarrou no 83 mil",
+          "body": "Três toques no mesmo ponto, nenhum passou. O repique veio, mas em volume fraco, 0,4× a média da hora."
+        },
+        {
+          "title": "US$ 83.570",
+          "body": "Δ1h +0,51% · Δ24h −0,37% · vol US$ 1,1 bi",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Os 83 mil seguraram pela terceira vez seguida e o preço subiu a 83,5 mil; falta romper 83,7 mil para mudar a leitura · Smart money: funding +0,0024% e L/S 1,43 (59% long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Preso entre 83 e 84 mil",
+          "body": "Base $83.000 (−0,6%) · Topo imediato $84.000 (+0,6%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-09-29-12h33",
       "date": "2026-09-29",
       "time": "12h33",
