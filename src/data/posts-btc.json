@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-30-09h33",
+      "date": "2026-09-30",
+      "time": "09h33",
+      "hook": "O Bitcoin passou a manhã subindo de degrau em degrau. Às 4h rondava 83,3 mil; às 9h passou por 84 mil e o candle fechou em 84.390, o maior fechamento das últimas 24 horas. Entre ele e o topo de ontem, 84.563, ficam 173 dólares.",
+      "caption": "Fechamentos de 1h subindo desde as 6h: 83,6 mil, 83,9, 84,4.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-30-09h33",
+      "link": "https://xbtc.aronpc.dev/#2026-09-30-09h33",
+      "slides": [
+        {
+          "title": "O degrau dos 84 mil",
+          "body": "Fechamentos de 1h subindo desde as 6h: 83,6 mil, 83,9, 84,4."
+        },
+        {
+          "title": "US$ 84.390",
+          "body": "Δ1h +0,7% · Δ24h +0,15% · vol $27,9bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "A hora das 9h passou por 84.000 e fechou na máxima do dia, com volume de só 1,07x a média · Smart Money: funding +0,0075% na terceira alta seguida + L/S 1,34",
+          "source": "https://www.coinglass.cc/FundingRate"
+        },
+        {
+          "title": "173 dólares separam o preço do topo de ontem",
+          "body": "Suporte 84.000 (−0,5%) · Resistência 84.563 (+0,2%)",
+          "source": "https://www.coinglass.cc/Bitcoin"
+        },
+        {
+          "title": "O dia em degraus",
+          "body": "De 82,9 mil de madrugada a 84,4 mil agora, sem devolver os degraus."
+        }
+      ]
+    },
+    {
       "id": "2026-09-30-06h30",
       "date": "2026-09-30",
       "time": "06h30",
