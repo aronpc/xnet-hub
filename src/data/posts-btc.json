@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-30-05h31",
+      "date": "2026-09-30",
+      "time": "05h31",
+      "hook": "De madrugada o assunto ainda era segurar 83.2 mil. Às 4h o piso do dia cedeu por instantes, 82.956, e a recompra veio em menos de uma hora. Só que a volta não durou: o preço desceu de novo e agora encosta na mesma região pela segunda vez, com quem apostou na queda pagando para manter a posição.",
+      "caption": "O piso de 83 mil cedeu às 4h e foi recomprado na hora. Agora o preço volta a encostar nele.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-30-05h31",
+      "link": "https://xbtc.aronpc.dev/#2026-09-30-05h31",
+      "slides": [
+        {
+          "title": "82.956 apareceu e o dia desceu um degrau",
+          "body": "O piso de 83 mil cedeu às 4h e foi recomprado na hora. Agora o preço volta a encostar nele."
+        },
+        {
+          "title": "US$ 83.047",
+          "body": "Δ1h −0,3% · Δ24h −1,2% · vol US$ 27,8 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Varrida recomprada, mas sem força para sair de cima do piso · funding −0,0010% (quem está vendido paga) · L/S 1,42",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "83.300 ainda é a linha da hora",
+          "body": "Fechar acima encaminha 83.500 (+0,5%); nova cedência de 83.000 aponta 82.900 (−0,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura das 05h31 (BRT), atualizada de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-09-30-04h33",
       "date": "2026-09-30",
       "time": "04h33",
