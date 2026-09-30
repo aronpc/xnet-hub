@@ -35,6 +35,38 @@
       ]
     },
     {
+      "id": "2026-09-30-12h33",
+      "date": "2026-09-30",
+      "time": "12h33",
+      "hook": "A queda da manhã encontrou um freio. O Bitcoin voltou aos 84 mil e ficou por ali: repique sem convicção, volume abaixo da média. O mercado espera o fechamento da próxima hora para escolher direção.",
+      "caption": "Depois da queda da manhã, o preço parou no meio do caminho e agora espera o fechamento das 13h.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-30-12h33",
+      "link": "https://xbtc.aronpc.dev/#2026-09-30-12h33",
+      "slides": [
+        {
+          "title": "O fundo segurou, a retomada não veio",
+          "body": "Depois da queda da manhã, o preço parou no meio do caminho e agora espera o fechamento das 13h."
+        },
+        {
+          "title": "US$ 84.080",
+          "body": "Δ1h +0,4% · Δ24h +1,2% · vol $34,2bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Queda mais a dinheiro do que a alavancado, preço no centro do range · Smart Money: funding +0,0063% + L/S 1,31",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O fechamento das 13h decide",
+          "body": "Acima de 84,5k com volume, o teto de 85,6k volta ao debate · Suporte 84.000 (−0,1%) · Resistência 84.500 (+0,5%)"
+        },
+        {
+          "title": "De hora em hora",
+          "body": "A leitura completa atualiza a cada 60 minutos."
+        }
+      ]
+    },
+    {
       "id": "2026-09-30-10h35",
       "date": "2026-09-30",
       "time": "10h35",
