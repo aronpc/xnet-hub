@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-09-30-14h34",
+      "date": "2026-09-30",
+      "time": "14h34",
+      "hook": "A alta da manhã durou pouco. Perto das 13h30 o Bitcoin começou a cair e, em uma hora, devolveu a casa dos 85 mil: 2% para baixo, de volta a 83,7 mil, outra vez na região dos 83 mil que seguraram a madrugada.",
+      "caption": "O ganho do dia inteiro foi devolvido em cerca de uma hora, com volume acima do normal.\n\nLeia: https://xbtc.aronpc.dev/#2026-09-30-14h34",
+      "link": "https://xbtc.aronpc.dev/#2026-09-30-14h34",
+      "slides": [
+        {
+          "title": "A manhã foi apagada",
+          "body": "O ganho do dia inteiro foi devolvido em cerca de uma hora, com volume acima do normal."
+        },
+        {
+          "title": "US$ 83.693",
+          "body": "Δ1h −2,0% · Δ24h −0,3% · vol $34,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A perda de 84,5 mil virou uma queda de 2% em uma hora · Smart money: funding esfriou a +0,007% e o interesse aberto caiu a 92,8k BTC · F&G em 71, ainda marcando ganância",
+          "source": "https://www.coinglass.cc/FundingRate"
+        },
+        {
+          "title": "Tudo passa por 83 mil agora",
+          "body": "Se o nível ceder, a mínima do dia, 82,9 mil, vira referência, com 82,5 mil logo atrás. Para reverter o quadro, é preciso fechar acima de 84.563 com volume. Suporte 83.000 (−0,8%) · Resistência 84.563 (+1,0%)",
+          "source": "https://www.coinglass.cc/Bitcoin"
+        },
+        {
+          "title": "De hora em hora",
+          "body": "A leitura completa atualiza a cada 60 minutos."
+        }
+      ]
+    },
+    {
       "id": "2026-09-30-10h35",
       "date": "2026-09-30",
       "time": "10h35",
