@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-01-13h33",
+      "date": "2026-10-01",
+      "time": "13h33",
+      "hook": "BTC em alta em US$ 84.316 · a última hora renovou a máxima de 24 horas (84.744), mas o fechamento acima da região ainda não veio",
+      "caption": "O preço passou por 84.744 na hora das 13h; nenhum fechamento acima disso por enquanto.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-01-13h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-01-13h33",
+      "slides": [
+        {
+          "title": "Tocou a máxima, não fechou",
+          "body": "O preço passou por 84.744 na hora das 13h; nenhum fechamento acima disso por enquanto."
+        },
+        {
+          "title": "US$ 84.316",
+          "body": "Δ1h +0,54% · Δ24h +0,10% · vol US$ 31,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fechamentos por hora em sequência de alta e toque na máxima de 24h · Funding +0,007% e L/S 1,26, recuando de 1,34",
+          "source": "https://www.coinglass.com/"
+        },
+        {
+          "title": "Fechamento acima de 84,7 mil",
+          "body": "Continuação rumo a 85,8 mil se a 1h fechar acima · abaixo de 84,0, devolve a região de 83,6 · Suporte 83.200 (-1,3%) · Resistência 84.700 (+0,5%)",
+          "source": "https://www.binance.com/"
+        },
+        {
+          "title": "Leitura a cada hora",
+          "body": "O quadro completo atualiza de hora em hora, com o gráfico do dia e o posicionamento do mercado."
+        }
+      ]
+    },
+    {
       "id": "2026-10-01-12h33",
       "date": "2026-10-01",
       "time": "12h33",
