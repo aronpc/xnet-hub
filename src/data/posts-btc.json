@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-01-11h32",
+      "date": "2026-10-01",
+      "time": "11h32",
+      "hook": "A queda da manhã não durou: o Bitcoin voltou aos US$ 84.096 e tenta pela terceira vez no dia passar dos 84,5 mil, região que vem segurando o preço desde ontem.",
+      "caption": "Fechamentos por hora em alta devolveram o preço ao topo do canal de 24h, entre 83,2 e 84,5 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-01-11h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-01-11h32",
+      "slides": [
+        {
+          "title": "Terceira visita ao teto",
+          "body": "Fechamentos por hora em alta devolveram o preço ao topo do canal de 24h, entre 83,2 e 84,5 mil."
+        },
+        {
+          "title": "US$ 84.096",
+          "body": "Δ1h +0,73% · Δ24h +0,49% · vol US$ 30,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Sequência de fechamentos por hora em alta, preço pressionando o topo do range de 24h · Funding +0,007% e L/S 1,34: o capital alavancado acompanha sem exagero",
+          "source": "https://www.coinglass.cc/FundingRate"
+        },
+        {
+          "title": "84.500, pela terceira vez",
+          "body": "Passagem com volume abre caminho a 85.800 · nova rejeição devolve ao meio do canal (83.800) · abaixo de 83.200 o repique perde força · Suporte 83.200 (−1,1%) · Resistência 84.500 (+0,5%)",
+          "source": "https://www.coinglass.cc/Bitcoin"
+        },
+        {
+          "title": "De hora em hora",
+          "body": "A leitura completa atualiza a cada 60 minutos."
+        }
+      ]
+    },
+    {
       "id": "2026-10-01-10h32",
       "date": "2026-10-01",
       "time": "10h32",
