@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-01-10h32",
+      "date": "2026-10-01",
+      "time": "10h32",
+      "hook": "A leitura das 10h32 trocou o neutro das primeiras horas por baixa: quatro fechamentos de hora em queda, o dia acumula −2,2% e o preço segue colado na linha de baixo do canal de 83,2 a 84,6 mil.",
+      "caption": "Preço caindo com sentimento ainda em 74, zona de ganância. Sobrou desalavancagem pela frente.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-01-10h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-01-10h32",
+      "slides": [
+        {
+          "title": "O dia virou, a ganância não",
+          "body": "Preço caindo com sentimento ainda em 74, zona de ganância. Sobrou desalavancagem pela frente."
+        },
+        {
+          "title": "US$ 83.488",
+          "body": "Δ1h −0,47% · Δ24h −2,23% · vol US$ 32,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço a 21% da altura do canal de 24h, com série de quatro closes descendentes · Funding +0,0051% e 58% de posicionamento comprado, na contramão do movimento",
+          "source": "https://www.coinglass.cc/FundingRate"
+        },
+        {
+          "title": "Tudo passa por 83.200",
+          "body": "Abaixo, o cenário aponta 82.500 (−1,2%) · Recuperar 84.000 devolve o topo do canal (84.645) · Suporte 83.200 (−0,36%) · Resistência 84.000 (+0,61%)",
+          "source": "https://www.coinglass.cc/Bitcoin"
+        },
+        {
+          "title": "De hora em hora",
+          "body": "A leitura completa atualiza a cada 60 minutos."
+        }
+      ]
+    },
+    {
       "id": "2026-10-01-04h34",
       "date": "2026-10-01",
       "time": "04h34",
