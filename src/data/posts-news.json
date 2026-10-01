@@ -2,6 +2,64 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-01",
+      "date": "2026-10-01",
+      "hook": "A infraestrutura dos agentes engordou",
+      "caption": "Inferência local que se auto-otimiza, execução durável pra job longo e um harness feito pra auto-melhoria recursiva. A camada debaixo dos agentes foi quem cresceu esta semana. E um agente de hardware ainda captou a primeira Série B de peso.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-01",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-01",
+      "slides": [
+        {
+          "title": "A infraestrutura dos agentes engordou",
+          "body": "Inferência local que se auto-otimiza, execução durável pra job longo e um harness feito pra auto-melhoria recursiva. A camada debaixo dos agentes foi quem cresceu esta semana. E um agente de hardware ainda captou a primeira Série B de peso."
+        },
+        {
+          "title": "Magnitude: a engine que se auto-otimiza",
+          "body": "Engine open-source do YC S25 que roda modelos abertos tão rápido quanto o hardware permite, se ajustando para cargas de agentes. A CLI 0.2.x sai em releases diárias.",
+          "source": "github.com/magnitudedev/magnitude"
+        },
+        {
+          "title": "dioramas: sites 3D cinematográficos com assets de IA",
+          "body": "Framework gratuito e aberto para websites 3D cinematográficos e interativos, com assets gerados por IA como o Nano Banana 2.",
+          "source": "github.com/blendi-remade/dioramas"
+        },
+        {
+          "title": "Comma: o agente pessoal que não vive em sessão",
+          "body": "Agente pessoal descrito como sessionless e relentless: ele não mora em sessões de chat, fica ali o tempo todo.",
+          "source": "github.com/AFK-surf/Comma"
+        },
+        {
+          "title": "Raven: um harness de harnesses pra RSI",
+          "body": "Projeto aberto do EverMind-AI que se descreve como harness of harnesses, construído para auto-melhoria recursiva.",
+          "source": "github.com/EverMind-AI/Raven"
+        },
+        {
+          "title": "website-playbook: o ativo é o método, não o site",
+          "body": "Manual de método reutilizável para construir sites com IA: da elicitação de requisitos e código de referência até aceitação e manutenção.",
+          "source": "github.com/7-an/website-playbook"
+        },
+        {
+          "title": "Flow captura US$ 50 mi pra agentes projetarem hardware",
+          "body": "A Flow, plataforma de desenvolvimento de hardware conduzida por agentes de IA, fez Série B de US$ 50 milhões liderada por Valor e Atreides, com Sequoia, a valuation de US$ 750 milhões.",
+          "source": {
+            "label": "TechCrunch — 30 set",
+            "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
+          }
+        },
+        {
+          "title": "Restate: workflows que sobrevivem a crash",
+          "body": "A Restate, de Berlim, captou US$ 20 milhões em Série A liderada pela Singular. O engine de execução durável torna workflows resilientes a quedas.",
+          "source": {
+            "label": "TechCrunch — 30 set",
+            "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Enquanto o mundo discute agentes sempre ligados, quem constrói está resolvendo o que roda embaixo: inferência local, execução que sobrevive a crash e método que se replica. E o agente deu o salto para o mundo físico."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-01",
       "date": "2026-10-01",
       "hook": "O dia do agente sempre ligado",
