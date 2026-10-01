@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-01",
+      "date": "2026-10-01",
+      "hook": "O dia do agente sempre ligado",
+      "caption": "A OpenAI lançou um agente de trabalho que nunca desliga e o Google respondeu com um modelo que emite 1 milhão de tokens de uma vez. No mesmo dia, a FTC abriu investigação contra os grandes laboratórios. Foi um dia cheio em IA, e não parou por aí.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-01",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-01",
+      "slides": [
+        {
+          "title": "O dia do agente sempre ligado",
+          "body": "A OpenAI lançou um agente de trabalho que nunca desliga e o Google respondeu com um modelo que emite 1 milhão de tokens de uma vez. No mesmo dia, a FTC abriu investigação contra os grandes laboratórios. Foi um dia cheio em IA, e não parou por aí."
+        },
+        {
+          "title": "Gemini 4 Argon: 1 milhão de tokens de saída",
+          "body": "O novo modelo do Google amplia o teto de saída de 64 mil para 1 milhão de tokens. Preço de lançamento de US$ 2 por milhão na entrada e US$ 10 na saída, subindo depois para US$ 4 e US$ 20. Na Artificial Analysis, o Argon empata com o GPT-6 Astra no índice de inteligência e alucina 15%, contra 51% do rival.",
+          "source": {
+            "label": "Google — 30 set",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+          }
+        },
+        {
+          "title": "Dots: o agente da OpenAI que trabalha sem parar",
+          "body": "No DevDay, a OpenAI lançou o Dots: agentes de trabalho sempre ligados, cada um com computador próprio, rodando como chat dentro do ChatGPT. O hands-on da Platformer descreve um produto altamente capaz e intuitivo, com conversas de aparência natural.",
+          "source": {
+            "label": "Platformer — 30 set",
+            "url": "https://www.platformer.news/openai-dots-agents-devday-2026/"
+          }
+        },
+        {
+          "title": "OpenAI atribui destilação em massa à Moonshot",
+          "body": "A OpenAI afirma ter desbaratado uma campanha coordenada de destilação de seus modelos, iniciada no começo de julho. Segundo a Bloomberg, pessoas ligadas à Moonshot AI, dona do Kimi, tiveram papel significativo na operação.",
+          "source": {
+            "label": "OpenAI — 30 set",
+            "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/"
+          }
+        },
+        {
+          "title": "Anthropic mapeia capacidades ofensivas do GLM-5.3",
+          "body": "Pesquisa da Anthropic documenta a difusão de capacidades cibernéticas avançadas no GLM-5.3, da Zhipu, e em modelos abertos chineses. É um laboratório ocidental registrando em fonte primária a curva de capacidade ofensiva de modelos que circulam sem restrição.",
+          "source": {
+            "label": "Anthropic — 29 set",
+            "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
+          }
+        },
+        {
+          "title": "DeepSeek e Huawei montam a pilha sem NVIDIA",
+          "body": "A DeepSeek fechou parceria com a Huawei para desenvolver ferramentas de programação dos chips Ascend, incluindo o TileLang, alternativa aberta ao CUDA.",
+          "source": {
+            "label": "Reuters — 30 set",
+            "url": "https://www.reuters.com/world/asia-pacific/deepseek-partners-with-huawei-develop-chip-programming-tools-reducing-reliance-2026-09-30/"
+          }
+        },
+        {
+          "title": "Reddit mata RSS e API pública por causa de bots",
+          "body": "O Reddit encerra os feeds RSS em 13 de novembro e a API pública em março. A justificativa é o abuso por bots de IA.",
+          "source": {
+            "label": "TechCrunch — 30 set",
+            "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
+          }
+        },
+        {
+          "title": "ElevenLabs chega a US$ 22 bilhões",
+          "body": "Funcionários e investidores venderam US$ 300 milhões em ações num tender liderado por Wellington e T. Rowe Price, avaliando a ElevenLabs em US$ 22 bilhões.",
+          "source": {
+            "label": "Financial Times — 30 set",
+            "url": "https://www.ft.com/content/08a71b38-d98c-472a-9576-e40ae2cfdf19"
+          }
+        },
+        {
+          "title": "Dentro do Google, dúvidas sobre o Argon no código real",
+          "body": "Fontes internas contam à Bloomberg que parte dos funcionários vê o Gemini 4 indo bem em benchmarks mas sofrendo em tarefas reais de programação. O Google discorda dessa leitura.",
+          "source": {
+            "label": "Bloomberg — 30 set",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-30/google-grapples-with-employee-skepticism-about-new-gemini-model"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Os dois maiores laboratórios lançaram, no mesmo dia, agentes sempre ligados. Investigação, enforcement e dúvida interna chegaram junto. A economia de saída longa abriu com o Argon; o código real ainda vai dizer se ela fecha."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-09-29",
       "date": "2026-09-29",
       "hook": "Skill deixa de ser palavra do Claude",
