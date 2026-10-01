@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-01-14h33",
+      "date": "2026-10-01",
+      "time": "14h33",
+      "hook": "O impasse da leitura das 13h acabou: o preço passou de 84,7 mil e negocia a 84,9 mil, colado na máxima do dia, com seis fechamentos por hora seguidos em alta.",
+      "caption": "Leitura das 14h33: US$ 84.875, a 0,2% da máxima de 24 horas (85.030).\n\nLeia: https://xbtc.aronpc.dev/#2026-10-01-14h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-01-14h33",
+      "slides": [
+        {
+          "title": "Seis horas subindo sem pausa",
+          "body": "Leitura das 14h33: US$ 84.875, a 0,2% da máxima de 24 horas (85.030)."
+        },
+        {
+          "title": "US$ 84.875",
+          "body": "Δ1h +0,66% · Δ24h +0,93% · 6 fechamentos por hora em alta",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Sequência de 6 altas por hora com preço colado na máxima de 24h · Funding +0,009% · long/short em 1,18",
+          "source": "https://www.coinglass.com/"
+        },
+        {
+          "title": "A máxima do dia é o próximo degrau",
+          "body": "Superar 85.030 aponta 85.500 · Suporte 84.000 (−1%) · Resistência 85.500 (+0,7%)",
+          "source": "https://www.binance.com/"
+        },
+        {
+          "title": "Leitura a cada hora",
+          "body": "O quadro completo atualiza de hora em hora, com o gráfico do dia e o posicionamento do mercado."
+        }
+      ]
+    },
+    {
       "id": "2026-10-01-13h33",
       "date": "2026-10-01",
       "time": "13h33",
