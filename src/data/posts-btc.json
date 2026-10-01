@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-01-16h30",
+      "date": "2026-10-01",
+      "time": "16h30",
+      "hook": "O preço passou de 85 mil e voltou logo: 85.274 no máximo do dia, recusa na sequência, retorno a 84,6 mil dentro do canal. Depois de seis altas por hora seguidas, o movimento perdeu o gás.",
+      "caption": "Leitura das 16h30: US$ 84.586, de volta ao canal de 84,0 a 85,3 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-01-16h30",
+      "link": "https://xbtc.aronpc.dev/#2026-10-01-16h30",
+      "slides": [
+        {
+          "title": "A investida em 85 mil durou pouco",
+          "body": "Leitura das 16h30: US$ 84.586, de volta ao canal de 84,0 a 85,3 mil."
+        },
+        {
+          "title": "US$ 84.586",
+          "body": "Δ1h −0,28% · Δ24h +0,96% · volume de 24h em $33,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A recusa em 85.274 tira o viés de ALTA e devolve o LATERAL · funding +0,008% · L/S 1,05 (51% longs)",
+          "source": "https://www.coinglass.com/"
+        },
+        {
+          "title": "84 mil decide o que vem",
+          "body": "Segurar 84.000 preserva o canal de 84,0 a 85,3 mil · ceder abre 83.900/83.200 · 84.000 a −0,7% · 85.300 a +0,8%",
+          "source": "https://www.binance.com/"
+        },
+        {
+          "title": "O dia em um gráfico",
+          "body": "O quadro completo atualiza de hora em hora, com o gráfico do dia e o posicionamento do mercado."
+        }
+      ]
+    },
+    {
       "id": "2026-10-01-14h33",
       "date": "2026-10-01",
       "time": "14h33",
