@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-01-12h33",
+      "date": "2026-10-01",
+      "time": "12h33",
+      "hook": "A vela do meio-dia saiu com o triplo do volume das anteriores e quem mandava nela era quem vendia. O Bitcoin recuou para 83,8 mil, de novo no meio da faixa do dia.",
+      "caption": "A tentativa de passagem acima de 84,5 mil foi absorvida; o fechamento das 12h puxou o preço de volta ao centro do intervalo de 24h.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-01-12h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-01-12h33",
+      "slides": [
+        {
+          "title": "A recusa veio com volume",
+          "body": "A tentativa de passagem acima de 84,5 mil foi absorvida; o fechamento das 12h puxou o preço de volta ao centro do intervalo de 24h."
+        },
+        {
+          "title": "US$ 83.863",
+          "body": "Δ1h −0,28% · Δ24h +0,26% · vol US$ 31,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Pressão vendedora na região alta devolveu o preço ao meio da faixa · Funding +0,0072% e L/S 1,29: posicionamento morno, sem aposta forte de nenhum lado",
+          "source": "https://www.coinglass.cc/FundingRate"
+        },
+        {
+          "title": "83.600 decide a tarde",
+          "body": "Abaixo, caminho aberto a 83.200 · Acima de 84.100, o topo da faixa (84.700) volta ao debate · Suporte 83.200 (−0,8%) · Resistência 84.700 (+1,0%)",
+          "source": "https://www.coinglass.cc/Bitcoin"
+        },
+        {
+          "title": "Leitura a cada hora",
+          "body": "O acompanhamento completo atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-10-01-11h32",
       "date": "2026-10-01",
       "time": "11h32",
