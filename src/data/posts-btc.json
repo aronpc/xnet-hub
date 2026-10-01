@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-01-01h31",
+      "date": "2026-10-01",
+      "time": "01h31",
+      "hook": "Ontem à tarde, uma queda de 2% tirou em uma hora o ganho do dia inteiro. Depois disso a noite foi calma, com o preço circulando perto de 84 mil, e a leitura das 01h31 volta a apontar alta pela primeira vez desde aquela queda.",
+      "caption": "Primeiro viés de alta desde a queda da tarde de ontem.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-01-01h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-01-01h31",
+      "slides": [
+        {
+          "title": "Noite de recuperação discreta",
+          "body": "Primeiro viés de alta desde a queda da tarde de ontem."
+        },
+        {
+          "title": "US$ 83.795",
+          "body": "Δ1h +0,39% · Δ24h +0,56% · vol US$ 35,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço na metade de baixo da faixa de 83.000 a 85.600, com repique em andamento · Smart money: funding +0,004% e razão long/short em 1,40",
+          "source": "https://www.coinglass.cc/FundingRate"
+        },
+        {
+          "title": "Tudo entre 83 mil e 85,6 mil",
+          "body": "Fechar acima de 85.600 coloca 86.600 na mesa · Perder 83.000 mira 82 mil · Suporte 83.000 (−0,95%) · Resistência 85.600 (+2,15%)",
+          "source": "https://www.coinglass.cc/Bitcoin"
+        },
+        {
+          "title": "De hora em hora",
+          "body": "A leitura completa atualiza a cada 60 minutos."
+        }
+      ]
+    },
+    {
       "id": "2026-09-30-14h34",
       "date": "2026-09-30",
       "time": "14h34",
