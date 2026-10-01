@@ -2,6 +2,76 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-01",
+      "date": "2026-10-01",
+      "hook": "A skill que virou fenômeno de consumo",
+      "caption": "Uma skill que deixa o Claude moddar jogos fechou o dia com 927 estrelas. O formato skills mais MCP mostrou que vai muito além do trabalho, e a Anthropic seguiu afiando o Claude Code no ritmo de um release por dia.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-01",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-01",
+      "slides": [
+        {
+          "title": "A skill que virou fenômeno de consumo",
+          "body": "Uma skill que deixa o Claude moddar jogos fechou o dia com 927 estrelas. O formato skills mais MCP mostrou que vai muito além do trabalho, e a Anthropic seguiu afiando o Claude Code no ritmo de um release por dia."
+        },
+        {
+          "title": "universal-modder: o Claude que modda jogos",
+          "body": "Skills, tools e MCP (fal) que deixam o Claude Code modar quase qualquer jogo de PC que você possua.",
+          "source": "github.com/rehan-remade/universal-modder"
+        },
+        {
+          "title": "DoorDash lança agente no iMessage e MCP server",
+          "body": "A DoorDash abriu waitlist nos EUA para um agente de pedido por texto integrado ao Apple Messages e lançou um MCP server para empresas autorizarem bots a pedirem em volume.",
+          "source": {
+            "label": "Bloomberg — 30 set",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-30/doordash-unveils-text-to-order-ai-agent-that-works-with-apple-s-imessage"
+          }
+        },
+        {
+          "title": "yomiyasu: tirar o cheiro de IA do japonês",
+          "body": "Agent Skill que reescreve japonês gerado por IA em japonês natural para humanos.",
+          "source": "github.com/nanaism/yomiyasu"
+        },
+        {
+          "title": "Claude Code ganha contador de permissões e mouse",
+          "body": "A v2.1.285 trouxe a env CLAUDE_CODE_DISABLE_WEB_FETCH e o comando claude --desktop. A v2.1.286 adiciona o contador \"2 de 5\" quando prompts de permissão se empilham e suporte a mouse nas listas fullscreen.",
+          "source": "github.com/anthropics/claude-code/releases"
+        },
+        {
+          "title": "Skill da API atualiza: Opus 5.5 default e guias de avaliação",
+          "body": "A claude-api skill das skills oficiais da Anthropic passou a usar Opus 5.5 como default, adicionou Sonnet 5.5 e guias de build-eval e hillclimb.",
+          "source": "github.com/anthropics/skills"
+        },
+        {
+          "title": "Suíte de skills para operar conta no Xiaohongshu",
+          "body": "Pacote instalável com skills de posicionamento, seleção de pautas, reescrita humanizada, planejamento de posts e review de agenda.",
+          "source": "github.com/wenziai/wenzi-xhs-agent-skills"
+        },
+        {
+          "title": "jev-judge-mcp: o gate que audita antes de agir",
+          "body": "MCP server que verifica e screena ações antes de o agente executar. A v0.7.0 passou a gradear runs confinadas dentro do isolation adapter.",
+          "source": "github.com/PyModel/jev-judge-mcp"
+        },
+        {
+          "title": "skillscout: telemetria das skills que seus agentes carregam",
+          "body": "Ferramenta do flaviocopes que lista quais skills cada agente carrega, quem pode usar cada uma e com que frequência você as usa.",
+          "source": "github.com/flaviocopes/skillscout"
+        },
+        {
+          "title": "A skill que compila tools na hora, em sandbox",
+          "body": "A genpark just-in-time MCP tool compiler sintetiza e compila a tool necessária sob demanda, inspirada no Manus Generalist Sandbox.",
+          "source": "github.com/Alpha-Park/genpark-just-in-time-mcp-tool-compiler-skill"
+        },
+        {
+          "title": "Cowork perde o modo local-only em 6 de outubro",
+          "body": "Nota de suporte confirma que o Claude Cowork remove o modo local-only para usuários Pro e Max a partir de 6 de outubro.",
+          "source": "support.claude.com"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A skill saiu do utilitário: virou hype de consumo, suíte de growth e canal enterprise. Enquanto isso, o MCP ganhou governança e telemetria, e o Claude Code seguiu afiando o dia a dia, um release por dia."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-01",
       "date": "2026-10-01",
       "hook": "A infraestrutura dos agentes engordou",
