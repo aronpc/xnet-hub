@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-02",
+      "date": "2026-10-02",
+      "hook": "A semana em que skills virou padrão da indústria",
+      "caption": "O Google aposentou os Gems e adotou o vocabulário skills. A Vercel publicou o primeiro retrato do ecossistema em produção. E o Claude Code abriu o core pra plugins que modificam comportamento profundo. Sete histórias de skills e MCP.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-02",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-02",
+      "slides": [
+        {
+          "title": "A semana em que skills virou padrão da indústria",
+          "body": "O Google aposentou os Gems e adotou o vocabulário skills. A Vercel publicou o primeiro retrato do ecossistema em produção. E o Claude Code abriu o core pra plugins que modificam comportamento profundo. Sete histórias de skills e MCP."
+        },
+        {
+          "title": "Mods: plugins passam a mexer no core do Claude Code",
+          "body": "A Anthropic lançou oficialmente os Mods, plugins que agora podem modificar comportamento profundo do harness, não só adicionar comandos. A documentação nova está no code.claude.com e a comunidade já portou projetos inteiros um a um usando a mods API.",
+          "source": {
+            "label": "Anthropic — 1 out",
+            "url": "https://claude.com/blog/claude-code-mods"
+          }
+        },
+        {
+          "title": "Skills do claude.ai passam a rodar no terminal",
+          "body": "O changelog do Claude Code adiciona sincronização das skills e plugins habilitados na conta claude.ai pra sessões de terminal, com opt-out via syncClaudeAiSkills e syncClaudeAiPlugins. Veio também o claude --desktop, que abre o app desktop no diretório atual.",
+          "source": {
+            "label": "GitHub Releases — 1 out",
+            "url": "https://github.com/anthropics/claude-code/releases"
+          }
+        },
+        {
+          "title": "Gems morrem, Skills viram recurso oficial do Gemini",
+          "body": "O Google confirmou no Workspace Updates que as Skills substituem os Gems, que serão descontinuados, e publicou guia sobre skills pra tarefas repetitivas no Gemini.",
+          "source": {
+            "label": "Google Workspace — 30 set",
+            "url": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html"
+          }
+        },
+        {
+          "title": "Vercel publica o State of Agent Skills",
+          "body": "O relatório mapeia o estado do ecossistema de agent skills: adoção real, padrões de autoria e lacunas.",
+          "source": {
+            "label": "Vercel — 30 set",
+            "url": "https://vercel.com/blog/state-of-agent-skills"
+          }
+        },
+        {
+          "title": "TanStack Intent 0.5: skills que dá pra manter",
+          "body": "A versão 0.5 do Intent foca em manutenção: versionamento e evolução de skills sem quebrar os agentes que as consomem.",
+          "source": {
+            "label": "TanStack — 1 out",
+            "url": "https://tanstack.com/blog/intent-0-5-skills-you-can-maintain"
+          }
+        },
+        {
+          "title": "Larceny: um time de agentes rodando no GitHub",
+          "body": "O plugin open-source roda uma equipe de agentes do Claude Code direto no GitHub, com delegação multi-agente sobre issues e PRs.",
+          "source": {
+            "label": "GitHub — 1 out",
+            "url": "https://github.com/nestedmind/larceny"
+          }
+        },
+        {
+          "title": "gridpath: MCP que edita Excel com diff visível",
+          "body": "O MCP server open-source edita planilhas Excel com recálculo em tempo real e diffs do que o agente mudou em cada célula.",
+          "source": {
+            "label": "GitHub — 1 out",
+            "url": "https://github.com/pixelsmasher13/gridpath"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Skills deixou de ser termo do Claude Code e virou vocabulário oficial de Google, Vercel e TanStack. O core do agente abriu pra extensão de terceiros com os Mods. E a dor migrou: criar skill é fácil, manter sem quebrar agente é o problema, e já tem biblioteca atacando isso."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-02",
       "date": "2026-10-02",
       "hook": "A semana do agente que decide sozinho",
