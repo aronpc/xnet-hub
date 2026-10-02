@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-02-11h35",
+      "date": "2026-10-02",
+      "time": "11h35",
+      "hook": "O preço bateu duas vezes na região dos 87 mil e nas duas foi recebido com venda. Às 11h35 desta sexta veio o desfecho: queda de 1,1% em uma hora, a maior do dia, com volume 1,3× a média. O bitcoin opera a 85,8 mil dólares e a leitura do dia virou de cabeça para baixo.",
+      "caption": "Dupla rejeição no topo da manhã e a primeira quebra do dia: a faixa de 86,4 mil cedeu com volume acima do normal.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-02-11h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-02-11h35",
+      "slides": [
+        {
+          "title": "BTC US$ 85.814 · o dia virou",
+          "body": "Dupla rejeição no topo da manhã e a primeira quebra do dia: a faixa de 86,4 mil cedeu com volume acima do normal."
+        },
+        {
+          "title": "US$ 85.814",
+          "body": "Δ1h -1,1% · Δ24h +1,9% · volume global de $42,4bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A faixa de 86,4 mil cedeu com volume 1,3× a média e os contratos abertos encolheram, de 99,2k para 98,1k BTC · funding +0,004% · 53,5% das contas posicionadas para a queda (L/S 0,87)",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Tudo passa pelos 85,4 mil",
+          "body": "Suporte em 85.400 (-0,5%) · resistência em 86.400 (+0,7%). Abaixo do primeiro, as referências descem para 85.000 e 84.600; de volta ao segundo, a faixa de 86,4 a 87,2 mil volta à mesa.",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "O intraday segue ao vivo",
+          "body": "Leitura nova a cada hora, com preço, volume e o humor do mercado direto da atualização mais recente."
+        }
+      ]
+    },
+    {
       "id": "2026-10-02-09h31",
       "date": "2026-10-02",
       "time": "09h31",
