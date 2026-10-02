@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-02",
+      "date": "2026-10-02",
+      "hook": "A semana do agente que decide sozinho",
+      "caption": "A AWS fechou o trio de decision models da semana com uma opção grátis de 2 bilhões de parâmetros. Coding agent ganhou projeto aberto de memória entre sessões, e o capital seguiu fluindo pra infraestrutura de agentes. São sete histórias, do peso aberto da AWS ao agente que atende ligação.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-02",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-02",
+      "slides": [
+        {
+          "title": "A semana do agente que decide sozinho",
+          "body": "A AWS fechou o trio de decision models da semana com uma opção grátis de 2 bilhões de parâmetros. Coding agent ganhou projeto aberto de memória entre sessões, e o capital seguiu fluindo pra infraestrutura de agentes. São sete histórias, do peso aberto da AWS ao agente que atende ligação."
+        },
+        {
+          "title": "AWS solta o Strands Decider 2B, de graça",
+          "body": "O Strands Labs, projeto experimental da AWS, lançou um concorrente open-source do Jev, com fine-tuning de base Qwen da Alibaba. São 2 bilhões de parâmetros tomando decisões em frações de segundo, sem custo algum.",
+          "source": {
+            "label": "VentureBeat — 1 out",
+            "url": "https://venturebeat.com/technology/amazon-unveils-a-free-fast-open-source-jev-killer-strands-decider-2b-makes-decisions-in-fractions-of-a-second"
+          }
+        },
+        {
+          "title": "Baseten vira porta de modelos abertos no Codex",
+          "body": "A parceria com a OpenAI deixa clientes enterprise usarem commitments que já têm pra consumir modelos abertos servidos pela Baseten dentro do Codex ou via Responses API.",
+          "source": {
+            "label": "Baseten — 29 set",
+            "url": "https://www.baseten.co/blog/baseten-openai-partnership/"
+          }
+        },
+        {
+          "title": "Graphene: análise de dados sem pandas improvisado",
+          "body": "O toolkit open-source dá ao coding agent capacidades estruturadas de análise de dados, em vez de deixar o modelo improvisar pandas a cada tarefa.",
+          "source": {
+            "label": "GitHub — 1 out",
+            "url": "https://github.com/graphene-data/graphene"
+          }
+        },
+        {
+          "title": "Doxx.net levanta US$ 38 mi pra mensageria de agentes",
+          "body": "A startup de Miami fez Série A liderada pela a16z para calling, messaging e transferência de arquivos P2P sem servidor, atendendo humanos e agentes de IA no mesmo canal.",
+          "source": {
+            "label": "Axios — 1 out",
+            "url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/01/doxxnet-a16z-lyon-networking"
+          }
+        },
+        {
+          "title": "Groundtrack: coding agent que aprende entre sessões",
+          "body": "O projeto open-source dá continual learning a coding agents: o aprendizado acumula de uma sessão pra outra, em vez de resetar a cada execução.",
+          "source": {
+            "label": "Groundtrack — 30 set",
+            "url": "https://groundtrack.dev/"
+          }
+        },
+        {
+          "title": "Call4me: o agente que atende suas ligações",
+          "body": "O Show HN da vez é um agente de IA que atende e conduz chamadas telefônicas por você.",
+          "source": {
+            "label": "call4.me — 1 out",
+            "url": "https://call4.me/"
+          }
+        },
+        {
+          "title": "reportr: análise de dados além do chat com o banco",
+          "body": "O projeto propõe exploração de dados agêntica estruturada, saindo do padrão de conversar com o banco de dados pra investigação guiada com evidências.",
+          "source": {
+            "label": "reportr — 30 set",
+            "url": "https://reportr.com/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Decisão rápida deixou de ser privilégio de API paga: o Strands Decider 2B roda grátis até em CPU. Coding agent com memória entre sessões virou projeto aberto, atacando o gargalo mais citado da categoria. E a tese de canal próprio pra agentes já tem US$ 38 mi da a16z atrás."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-02",
       "date": "2026-10-02",
       "hook": "A semana de US$ 1,4 tri em IA",
