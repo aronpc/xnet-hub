@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-02-03h30",
+      "date": "2026-10-02",
+      "time": "03h30",
+      "hook": "A alta até 86,9 mil perdeu força e o bitcoin voltou aos 86 mil na leitura das 03h30 desta sexta. A queda de 0,4% na última hora veio com pouca pressão de venda e volume abaixo do normal. Em 24 horas, o ganho segue em +2%.",
+      "caption": "US$ 86.002 às 03h30, de volta à faixa que segura o preço desde ontem.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-02-03h30",
+      "link": "https://xbtc.aronpc.dev/#2026-10-02-03h30",
+      "slides": [
+        {
+          "title": "Pausa para respirar depois da alta",
+          "body": "US$ 86.002 às 03h30, de volta à faixa que segura o preço desde ontem."
+        },
+        {
+          "title": "US$ 86.002",
+          "body": "Δ1h -0,44% · Δ24h +2,05% · volume global de $39,1bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Hora de apenas 0,26% de oscilação e contratos abertos caindo 1% (99,3k BTC): mercado digerindo a subida, sem pressa para nenhum lado · funding +0,01% · L/S 0,90",
+          "source": "https://www.coinglass.com/"
+        },
+        {
+          "title": "A faixa de 86 a 86,7 mil decide o rumo",
+          "body": "Abaixo de 86.000, o foco vai para 85.500 a 85.400 · acima de 86.700, a máxima de 86.913 volta ao radar",
+          "source": "https://www.binance.com/"
+        },
+        {
+          "title": "Uma leitura por hora",
+          "body": "Preço, volume e posicionamento do mercado, sempre da última atualização do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-10-02-02h30",
       "date": "2026-10-02",
       "time": "02h30",
