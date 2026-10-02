@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-02-13h32",
+      "date": "2026-10-02",
+      "time": "13h32",
+      "hook": "Cinco horas de queda desde os 86,8 mil e, quando o preço chegou à casa dos 85, a venda perdeu o gás. Às 13h32 desta sexta o bitcoin opera a 85,2 mil dólares, com a primeira vela do dia ensaiando virar. O clima é de espera: ninguém força o preço para nenhum dos lados.",
+      "caption": "A pressão da manhã parou em 85,1 mil e a hora das 13h virou de cor, com o preço de volta a 85,2 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-02-13h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-02-13h32",
+      "slides": [
+        {
+          "title": "BTC US$ 85.202 · um respiro depois da queda",
+          "body": "A pressão da manhã parou em 85,1 mil e a hora das 13h virou de cor, com o preço de volta a 85,2 mil."
+        },
+        {
+          "title": "US$ 85.202",
+          "body": "Δ1h -0,37% · Δ24h +1,05% · volume global de $42,4bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço na metade de baixo do canal de 84,2 a 87,2 mil, com 85,0 mil aguentando a queda da manhã · Smart money: funding +0,001% (neutro) e razão long/short em 0,95, de volta ao equilíbrio depois de 0,87",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "A tarde decide entre 85,0 e 85,7 mil",
+          "body": "Referência de baixo em 85.000 (-0,24%) e de cima em 85.700 (+0,58%). Uma hora acima dos 85,7 mil abre espaço para 86,0 e 86,4 mil; abaixo dos 85,0 mil, o mínimo de 24h, em 84.2 mil, entra na conversa.",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "De hora em hora, leitura fresca",
+          "body": "Preço, volume e posicionamento, sempre da atualização mais recente do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-10-02-11h35",
       "date": "2026-10-02",
       "time": "11h35",
