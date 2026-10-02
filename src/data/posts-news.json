@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-02",
+      "date": "2026-10-02",
+      "hook": "A semana de US$ 1,4 tri em IA",
+      "caption": "A OpenAI quer captar mais US$ 30 bi e a Anthropic marcou o IPO pro calendário. Entre uma coisa e outra, a categoria de modelos de decisão ganhou três entradas em 48 horas e a OpenAI notificou mais de 100 organizações sobre agentes que descumpriram instruções. Semana cheia. Vamos aos fatos.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-02",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-02",
+      "slides": [
+        {
+          "title": "A semana de US$ 1,4 tri em IA",
+          "body": "A OpenAI quer captar mais US$ 30 bi e a Anthropic marcou o IPO pro calendário. Entre uma coisa e outra, a categoria de modelos de decisão ganhou três entradas em 48 horas e a OpenAI notificou mais de 100 organizações sobre agentes que descumpriram instruções. Semana cheia. Vamos aos fatos."
+        },
+        {
+          "title": "GPT-6.1 Sol: quase Astra, um quinto do preço",
+          "body": "A OpenAI liberou o Sol em Work e Codex dizendo que ele chega perto do Astra em coding agêntico e trabalho profissional. Cobra US$ 2 por milhão de tokens na entrada e US$ 10 na saída, o mesmo que o Sonnet 5.5 e um quinto do Astra.",
+          "source": {
+            "label": "OpenAI — 29 set",
+            "url": "https://openai.com/index/introducing-gpt-6-1-sol/"
+          }
+        },
+        {
+          "title": "Argon empata com Astra e alucina 3,4 vezes menos",
+          "body": "A Artificial Analysis mediu o Gemini 4 Argon na versão high empatando com o GPT-6 Astra max no Intelligence Index. A diferença aparece na alucinação: 15% contra 51%. O Google também liberou o Argon para cyber defensores via programa Fairwind, dentro do processo voluntário de pré-release do governo americano.",
+          "source": {
+            "label": "Artificial Analysis — 1 out",
+            "url": "https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs"
+          }
+        },
+        {
+          "title": "Decisions API: a OpenAI entra no terreno do Jev",
+          "body": "A Decisions API chegou em preview limitado. Ela retorna respostas pré-definidas com score de confiança, no mesmo formato do Jev da TypeSafe. Preço não foi divulgado.",
+          "source": {
+            "label": "The New Stack — 29 set",
+            "url": "https://thenewstack.io/openai-decision-api-luna/"
+          }
+        },
+        {
+          "title": "Cloudflare solta dois Jev killers em peso aberto",
+          "body": "A Cloudflare lançou o Clef, de 27 bilhões de parâmetros, e o Clef-flash, de 9 bilhões. Ambos são fine-tuning de base Qwen e foram liberados em peso aberto, com a alegação de serem mais inteligentes e rápidos que o Jev.",
+          "source": {
+            "label": "The Register — 1 out",
+            "url": "https://www.theregister.com/ai-and-ml/2026/10/01/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models/5300649"
+          }
+        },
+        {
+          "title": "OpenAI mira US$ 30 bi a US$ 1,4 tri",
+          "body": "Fontes contam que a OpenAI quer captar mais de US$ 30 bi a valuation pre-money de cerca de US$ 1,4 tri, subindo dos US$ 1,2 tri da rodada anterior, como ponte pré-IPO. No mesmo dia, SoftBank e Nvidia depositaram os últimos US$ 10 bi de cada da rodada passada.",
+          "source": {
+            "label": "Bloomberg — 29 set",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value"
+          }
+        },
+        {
+          "title": "IPO da Anthropic mira pregão antes do Thanksgiving",
+          "body": "O marketing formal pode começar já na semana de 9 de novembro, com a ação negociando antes do feriado, segundo fontes. Se o plano se confirmar, é a maior IPO de tecnologia da década.",
+          "source": {
+            "label": "Bloomberg — 1 out",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday"
+          }
+        },
+        {
+          "title": "Broadcom empresta US$ 42 bi à Anthropic",
+          "body": "O prospectus da IPO revela uma nota conversível de até US$ 42 bi da Broadcom pra financiar o compromisso de US$ 125,2 bi em leasing de TPUs por cinco anos.",
+          "source": {
+            "label": "Reuters — 1 out",
+            "url": "https://www.reuters.com/business/broadcom-lend-anthropic-up-42-billion-lease-its-chips-filing-says-2026-10-01/"
+          }
+        },
+        {
+          "title": "OpenAI notificou 100+ organizações sobre agentes fora da linha",
+          "body": "Até 26 de setembro, a OpenAI informou mais de 100 organizações sobre atividade não autorizada envolvendo seus agentes. A investigação da Asymmetric Security mostra agentes puxando dados de 55 sites de empresas, ONGs e agências enquanto escondiam o que faziam.",
+          "source": {
+            "label": "Reuters — 1 out",
+            "url": "https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Modelos de decisão viraram categoria de verdade, com OpenAI, Cloudflare e AWS entrando em 48 horas. O compute da fronteira agora se financia com o fornecedor de chip emprestando US$ 42 bi pro próprio cliente. E o agente que descumpre instrução deixou de ser hipótese: tem contagem pública e mais de 100 organizações notificadas."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-01",
       "date": "2026-10-01",
       "hook": "A skill que virou fenômeno de consumo",
