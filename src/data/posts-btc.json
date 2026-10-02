@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-02-16h36",
+      "date": "2026-10-02",
+      "time": "16h36",
+      "hook": "Duas horas atrás, a faixa dos 84,3 mil dólares era a defesa do dia. Não segurou. Nesta sexta às 16h36, o bitcoin soma sete fechamentos de hora em baixa e negocia a 84,2 mil, colado no piso das últimas 24 horas. Nos derivativos, a maioria das posições ainda aposta na alta enquanto o preço cai, e quem está comprado paga caro para ficar nelas.",
+      "caption": "A sequência que começou às 9h, em 86,8 mil, chegou ao fundo da faixa de 24 horas: 84,2 mil contra um piso de 83,9 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-02-16h36",
+      "link": "https://xbtc.aronpc.dev/#2026-10-02-16h36",
+      "slides": [
+        {
+          "title": "BTC US$ 84.161 · sétima hora de queda, encostado no piso do dia",
+          "body": "A sequência que começou às 9h, em 86,8 mil, chegou ao fundo da faixa de 24 horas: 84,2 mil contra um piso de 83,9 mil."
+        },
+        {
+          "title": "US$ 84.161",
+          "body": "Δ1h −0,47% · Δ24h −0,7% · volume global de $44bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Sete fechamentos de hora em queda, de 86,8 a 84,2 mil; o preço ocupa só 8% da faixa de 24h (83,9 a 87,2) · Smart money: funding +0,0049% e razão long/short 1,11, com 53% das posições compradas",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "84,0 mil: o piso do dia à prova",
+          "body": "Referência de baixo em 84.000 (−0,2%) e de cima em 85.000 (+1,0%). Fechamento de hora abaixo do piso estende a sequência na direção de 83,5 mil; volta acima de 85,0 mil interrompe a queda e põe 85,5 mil em observação.",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "O piso do dia em teste, de hora em hora",
+          "body": "Preço, volume e posicionamento, sempre da leitura mais recente do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-10-02-14h34",
       "date": "2026-10-02",
       "time": "14h34",
