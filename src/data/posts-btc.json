@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-02-02h30",
+      "date": "2026-10-02",
+      "time": "02h30",
+      "hook": "Movimento forte na madrugada: o bitcoin tocou 86,9 mil, o topo das últimas 24 horas, numa vela três vezes maior que o normal. Recuou pouco e segue a 86,4 mil, +2,49% em 24h.",
+      "caption": "US$ 86.379 às 02h30, a pouca distância da máxima de 24h (86.913).\n\nLeia: https://xbtc.aronpc.dev/#2026-10-02-02h30",
+      "link": "https://xbtc.aronpc.dev/#2026-10-02-02h30",
+      "slides": [
+        {
+          "title": "Tocou o topo do dia",
+          "body": "US$ 86.379 às 02h30, a pouca distância da máxima de 24h (86.913)."
+        },
+        {
+          "title": "US$ 86.379",
+          "body": "Δ2h +1,14% · Δ24h +2,49% · volume de 24h em $1,7bi na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Subida com dinheiro novo: OI 100,2k BTC, +3% no dia, e a maioria dos posicionados no lado contrário · funding +0,01% · L/S 0,93",
+          "source": "https://www.coinglass.com/"
+        },
+        {
+          "title": "O dia se decide entre 86.000 e 86.900",
+          "body": "Acima de 86.900, máxima do dia, espaço para 87.500 a 88.000 · abaixo de 86.000, reteste de 85.500 · leitura vale enquanto 85.400 segurar",
+          "source": "https://www.binance.com/"
+        },
+        {
+          "title": "A cada hora, uma leitura nova",
+          "body": "Preço, volume e posicionamento do mercado, sempre da última atualização do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-10-02-00h35",
       "date": "2026-10-02",
       "time": "00h35",
