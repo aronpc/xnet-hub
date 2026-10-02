@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-02-09h31",
+      "date": "2026-10-02",
+      "time": "09h31",
+      "hook": "O teto de 86,9 mil dólares cedeu na leitura das 09h31 desta sexta: o bitcoin negociou até 87,2 mil, a máxima de 24 horas, e mantém 86,8 mil, no maior fechamento por hora do dia. O ganho em 24 horas chega a 3,5%.",
+      "caption": "A passagem pelos 86,9 mil veio com volume 1,4× acima da média da hora, e o recuo depois foi pequeno.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-02-09h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-02-09h31",
+      "slides": [
+        {
+          "title": "US$ 86.795 às 09h31, logo abaixo do topo novo de 24h (87.220)",
+          "body": "A passagem pelos 86,9 mil veio com volume 1,4× acima da média da hora, e o recuo depois foi pequeno."
+        },
+        {
+          "title": "US$ 86.795",
+          "body": "Δ1h +0,44% · Δ24h +3,48% · volume global de $40,4bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fechamentos por hora em escada desde as 03h, e a última veio a +0,44% com volume 1,4× acima da média. Contratos abertos estáveis em 99,2k BTC · funding +0,006% · L/S 0,90",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "87.220 decide a próxima hora",
+          "body": "Teto em 87.220 (+0,5%) · piso em 86.000 (−0,9%) · perder 86.400 aponta o recuo, e abaixo de 86.000 o foco vai para 85.800",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura fresca a cada meia hora",
+          "body": "Preço, volume e posicionamento do mercado, direto da última atualização do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-10-02-05h30",
       "date": "2026-10-02",
       "time": "05h30",
