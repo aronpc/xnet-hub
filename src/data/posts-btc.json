@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-02-05h30",
+      "date": "2026-10-02",
+      "time": "05h30",
+      "hook": "O bitcoin retomou a subida na leitura das 05h30 desta sexta: +0,5% na última hora, a 86,4 mil dólares. Os contratos abertos voltaram a crescer junto com o preço, o que sugere dinheiro novo entrando, e não apenas posições sendo encerradas. No dia, o ganho já chega a 3,6%.",
+      "caption": "US$ 86.367 às 05h30, encostando na parte de cima da faixa que segura o preço desde ontem.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-02-05h30",
+      "link": "https://xbtc.aronpc.dev/#2026-10-02-05h30",
+      "slides": [
+        {
+          "title": "A subida ganhou reforço",
+          "body": "US$ 86.367 às 05h30, encostando na parte de cima da faixa que segura o preço desde ontem."
+        },
+        {
+          "title": "US$ 86.367",
+          "body": "Δ1h +0,51% · Δ24h +3,63% · volume global de $39,3bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Alta de 0,51% na última hora com contratos abertos virando pra cima (99,3k → 100,0k BTC): posição nova entrando junto com o preço, e não encerramento · funding +0,01% · L/S 0,93",
+          "source": "https://www.coinglass.com/"
+        },
+        {
+          "title": "Olho nos 86,7 mil",
+          "body": "Suporte 86.100 (-0,3%) · Resistência 86.700 (+0,4%), com a máxima de 86.913 logo acima",
+          "source": "https://www.binance.com/"
+        },
+        {
+          "title": "O intraday atualiza a cada meia hora",
+          "body": "Preço, volume e posicionamento do mercado, sempre da leitura mais recente."
+        }
+      ]
+    },
+    {
       "id": "2026-10-02-03h30",
       "date": "2026-10-02",
       "time": "03h30",
