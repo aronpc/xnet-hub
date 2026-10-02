@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-02-14h34",
+      "date": "2026-10-02",
+      "time": "14h34",
+      "hook": "O respiro da hora do almoço durou pouco. Às 14h34 desta sexta o bitcoin opera a 84,7 mil dólares, na quinta hora seguida de recuo, e a região dos 84,3 mil está recebendo o maior volume da tarde: 2,8 vezes a média da hora. Enquanto o preço desce, o medo e ganância segue em 72, ainda em ganância.",
+      "caption": "De 87,2 mil no começo da tarde para 84,7 mil agora, com a aproximação dos 84,3 mil carregada de negócios.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-02-14h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-02-14h34",
+      "slides": [
+        {
+          "title": "BTC US$ 84.691 · cinco horas de recuo, sem freio à vista",
+          "body": "De 87,2 mil no começo da tarde para 84,7 mil agora, com a aproximação dos 84,3 mil carregada de negócios."
+        },
+        {
+          "title": "US$ 84.691",
+          "body": "Δ1h -0,60% · Δ24h -0,16% · volume global de $43,1bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Cinco velas de hora em queda, de 87,2 a 84,7 mil, com negócios a 2,8 vezes a média na chegada à faixa de 84,3 mil · Smart money: funding +0,002% e razão long/short em 1,02, metade das posições em cada lado",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "84,3 mil decide a próxima hora",
+          "body": "Referência de baixo em 84.300 (-0,5%) e de cima em 85.500 (+1,0%). Um fechamento de hora abaixo da primeira estica o recuo rumo a 83,5 mil; recuperar a segunda devolve o dia ao canal de 84,3 a 86,5 mil.",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "O dia ainda está longe do fim",
+          "body": "Preço, volume e posicionamento, sempre da leitura mais recente do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-10-02-13h32",
       "date": "2026-10-02",
       "time": "13h32",
