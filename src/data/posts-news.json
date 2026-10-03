@@ -2,6 +2,68 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-03",
+      "date": "2026-10-03",
+      "hook": "Projetos de hoje: IA rodando perto de casa",
+      "caption": "Três de outubro. Inferência local sem CUDA amadurece, sandbox de agente ganha auditoria e alguém resolveu gravar o computador inteiro pra dar memória à IA.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-03",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-03",
+      "slides": [
+        {
+          "title": "Projetos de hoje: IA rodando perto de casa",
+          "body": "Três de outubro. Inferência local sem CUDA amadurece, sandbox de agente ganha auditoria e alguém resolveu gravar o computador inteiro pra dar memória à IA."
+        },
+        {
+          "title": "Opus 5.5 pintando num canvas físico simulado",
+          "body": "O Stillwet dá ao Claude Opus 5.5 um canvas de pintura física simulada. Foi o Show HN mais votado da janela.",
+          "source": "stillwet.art"
+        },
+        {
+          "title": "Janus: GGUF via Vulkan num binário Go",
+          "body": "Roda modelos GGUF usando Vulkan em AMD, Intel e Nvidia, entregue como um único binário em Go.",
+          "source": "github.com/Vibra-Ingenn/Janus"
+        },
+        {
+          "title": "500 tokens/s de Qwen3.8-27B na RTX 5090",
+          "body": "Engine que se apresenta como a mais rápida para o Qwen3.8-27B na RTX 5090, chegando a 500 tokens por segundo.",
+          "source": "github.com/perkel666/MegaCapybara"
+        },
+        {
+          "title": "Suas assinaturas de IA como uma API só",
+          "body": "Um único binário em Rust expõe assinaturas Claude, ChatGPT e Gemini numa API unificada.",
+          "source": "github.com/IuCC123/CLIProxyAPI-Rust"
+        },
+        {
+          "title": "Breadcrumb grava o Mac inteiro pra IA",
+          "body": "App registra tudo que acontece no Mac e faz o papel de context manager para ferramentas de IA.",
+          "source": "innerloop.works/breadcrumb"
+        },
+        {
+          "title": "Engrams: um Devin open source",
+          "body": "Agente de engenharia autônomo em código aberto, posicionado como substituto do Devin.",
+          "source": "github.com/cortexapps/engrams"
+        },
+        {
+          "title": "O agente Muse da Meta como endpoint OpenAI",
+          "body": "Bridge transforma o Muse num modelo OpenAI-compatível dentro de stack auto-hospedada.",
+          "source": "github.com/pooops15/muse-bridge"
+        },
+        {
+          "title": "OpenRod: sandbox de agente com egress e auditoria",
+          "body": "Sandboxes de um clique para agentes de IA, com política de saída de rede, MCPs, skills e trilha de auditoria embutidas.",
+          "source": "github.com/OpenRod/OpenRod"
+        },
+        {
+          "title": "Agente que se recupera de falha em runtime",
+          "body": "O Sentry traz método para agentes de LLM se recuperarem de falhas durante a execução, em vez de travar ou alucinar.",
+          "source": "github.com/nuglifeleoji/Sentry"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Inferência local sem CUDA ganha degrau novo toda semana e segurança de agente virou pacote instalável. A próxima fronteira é o agente que se recupera sozinho quando quebra."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-03",
       "date": "2026-10-03",
       "hook": "IA de hoje: agentes sob cerco",
