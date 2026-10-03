@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-03",
+      "date": "2026-10-03",
+      "hook": "Skills e MCP de hoje",
+      "caption": "Três de outubro. Mods do Claude Code viram plataforma com tutorial oficial, skills ganham portão de evidência e MCP segue como canal default de distribuição.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-03",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-03",
+      "slides": [
+        {
+          "title": "Skills e MCP de hoje",
+          "body": "Três de outubro. Mods do Claude Code viram plataforma com tutorial oficial, skills ganham portão de evidência e MCP segue como canal default de distribuição."
+        },
+        {
+          "title": "Tutorial oficial de mods, por Addy Osmani",
+          "body": "O blog do claude.dev publicou 'Getting started with Claude Code mods'. Um mod é um arquivo JS/TS que roda dentro da sessão, observa e reescreve comportamento, desenha UI própria e recarrega em quente.",
+          "source": {
+            "label": "claude.dev — 1º out",
+            "url": "https://claude.dev/blog/getting-started-with-claude-code-mods/"
+          }
+        },
+        {
+          "title": "Mod que explica cada passo do agente",
+          "body": "O whats-agent-doing narra o que o Claude Code está fazendo em cada etapa da sessão.",
+          "source": "github.com/tzafrir/whats-agent-doing"
+        },
+        {
+          "title": "Um mod, vários harnesses",
+          "body": "Mod do Claude Code que delega trabalho a múltiplos harnesses de agente na mesma sessão.",
+          "source": "github.com/franciscocarloserra/claude-code-multiharness-delegation"
+        },
+        {
+          "title": "Ponte Claude Code ↔ Codex CLI",
+          "body": "Servidor MCP bidirecional entre Claude Code e Codex CLI: cada um usa ferramentas e contexto do outro.",
+          "source": "github.com/naldomadeira/agents-bridge-mcp"
+        },
+        {
+          "title": "Portus: gateway Rust pra API, IA e MCP",
+          "body": "Gateway em Rust que unifica roteamento de APIs, tráfego de IA e servidores MCP num ponto só.",
+          "source": "portus-gateway.dev"
+        },
+        {
+          "title": "Gravar e editar vídeo via tool call",
+          "body": "Servidor MCP pro Screen Studio deixa o agente gravar vídeos e editar projetos do software.",
+          "source": "github.com/tolimarchuk/screenstudio-mcp"
+        },
+        {
+          "title": "23 grandes mentes viram skills",
+          "body": "O think-like codifica métodos de trabalho de 23 figuras, como Feynman e Dijkstra, em skills pro Claude Code.",
+          "source": "github.com/nuttakulsv/think-like"
+        },
+        {
+          "title": "EROL: skill só entra com evidência",
+          "body": "A Extensible Reasoning and Orchestration Layer combina memória de projeto com carregamento de skill condicionado a evidências, em vez de encher o contexto.",
+          "source": "github.com/erolemir/EROL"
+        },
+        {
+          "title": "De ticket no Linear a PR mergeado",
+          "body": "Setup Claude Code + Maestri com skills cobre o ciclo completo: ticket do Linear, implementação e PR mesclado.",
+          "source": "github.com/joaocarvoli/maestri-flow"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Mods viraram plataforma documentada, MCP segue como canal default de distribuição e skills ganharam portão de evidência. O que era gambiarra está virando plataforma."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-03",
       "date": "2026-10-03",
       "hook": "Projetos de hoje: IA rodando perto de casa",
