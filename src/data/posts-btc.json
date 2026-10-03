@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-03-09h31",
+      "date": "2026-10-03",
+      "time": "09h31",
+      "hook": "Ontem o bitcoin caiu até 84,2 mil e fechou o dia em sequência de perdas. Hoje amanheceu outra coisa: oito horas seguidas presas entre 84,6 e 84,9 mil, com o preço ainda na parte de baixo da janela de 24 horas. O índice de sentimento, porém, marca 67, em ganância. O otimismo segue na frente do preço.",
+      "caption": "Oito velas de 1h entre 84,6 e 84,9 mil; na janela de 24h, o preço ainda carrega queda de 2,3%.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-03-09h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-03-09h31",
+      "slides": [
+        {
+          "title": "BTC US$ 84.846 · recuperação tímida, ânimo na frente",
+          "body": "Oito velas de 1h entre 84,6 e 84,9 mil; na janela de 24h, o preço ainda carrega queda de 2,3%."
+        },
+        {
+          "title": "US$ 84.846",
+          "body": "Δ1h +0,25% · Δ24h −2,29% · volume global de $31,8bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no base do range de 24h (83.888 a 87.150) com F&G em 67: sentimento de ganância defasado em relação ao preço. Smart money: funding +0,001% e razão long/short 1,22, com 55% das posições compradas",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "A saída da faixa de 84,6 a 84,9 mil",
+          "body": "Acima de 84.900, caminho a 87.200 (zona de oferta); abaixo de 84.600, reteste do mínimo 83.900. Referências de 24h: 83.900 (−1,11%) e 87.200 (+2,77%).",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "A faixa que aperta, de hora em hora",
+          "body": "Preço, volume e posicionamento da leitura mais recente do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-10-02-16h36",
       "date": "2026-10-02",
       "time": "16h36",
