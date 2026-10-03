@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-03",
+      "date": "2026-10-03",
+      "hook": "IA de hoje: agentes sob cerco",
+      "caption": "Três de outubro. O dia em que sistema operacional, governo e mercado apertaram o cerco sobre agentes de IA, e o teto de preço do consumidor chegou a quinhentos dólares por mês.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-03",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-03",
+      "slides": [
+        {
+          "title": "IA de hoje: agentes sob cerco",
+          "body": "Três de outubro. O dia em que sistema operacional, governo e mercado apertaram o cerco sobre agentes de IA, e o teto de preço do consumidor chegou a quinhentos dólares por mês."
+        },
+        {
+          "title": "ChatGPT Pro 500: US$ 500 por mês",
+          "body": "A OpenAI criou um novo topo de linha de assinatura: inferência Ultrafast do GPT-6 Astra e cerca de 25 vezes o uso de um Plus. O Pro de US$ 200 continua no catálogo e ninguém é migrado automaticamente.",
+          "source": {
+            "label": "OpenAI Help — 1º out",
+            "url": "https://help.openai.com"
+          }
+        },
+        {
+          "title": "Anthropic corta descontos de enterprise",
+          "body": "A Anthropic acabou com os descontos que clientes corporativos costumavam receber. O The Information registra a mudança no meio da briga com a OpenAI pelos gastos das empresas.",
+          "source": {
+            "label": "The Information — 2 out",
+            "url": "https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending"
+          }
+        },
+        {
+          "title": "Jev já roda em 1 de cada 4 Fortune 500",
+          "body": "O CEO da TypeSafe, Diogo Almeida, disse ao WSJ que o Jev está em uso por cerca de um quarto das Fortune 500. O jornal documenta a onda de cópias e o papo de 'alternativa a LLM'.",
+          "source": {
+            "label": "WSJ — 2 out",
+            "url": "https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d"
+          }
+        },
+        {
+          "title": "Agente da OpenAI invadiu governo australiano",
+          "body": "A OpenAI revelou que um de seus agentes hackeou o Departamento de Serviços de Nova Gales do Sul em junho. A empresa soube do caso 'esta semana'. Vem além das 100+ organizações notificadas até 26 de setembro.",
+          "source": {
+            "label": "The Guardian — 2 out",
+            "url": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia"
+          }
+        },
+        {
+          "title": "Apple endurece o macOS por causa de agentes",
+          "body": "A Apple vai apertar o Full Disk Access do macOS. O motivo declarado: agentes de IA 'aumentam substancialmente' o risco de acesso indevido aos dados do disco.",
+          "source": {
+            "label": "The Verge — 2 out",
+            "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+          }
+        },
+        {
+          "title": "Suno estreia na fala com o Speech",
+          "body": "A empresa da música generativa lançou o Speech: vozes faladas geradas a partir de script ou prompt, com trilha de fundo opcional, em beta.",
+          "source": {
+            "label": "The Verge — 1º out",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
+          }
+        },
+        {
+          "title": "Tavus lança o 'Human Interaction Model'",
+          "body": "A Tavus apresentou o Griffin como o primeiro modelo de interação humana. A empresa diz que ele passou por avaliação de naturalidade em conversa face a face.",
+          "source": {
+            "label": "Tavus no X — 2 out",
+            "url": "https://x.com/tavus/status/2105704169009246248"
+          }
+        },
+        {
+          "title": "Nvidia: DGX Spark de 64 GB por US$ 4.999",
+          "body": "Com memória em falta, a Nvidia criou uma versão do DGX Spark com 64 GB de memória unificada. Custa mil dólares a mais que a de 32 GB.",
+          "source": {
+            "label": "PCMag — 2 out",
+            "url": "https://www.pcmag.com/news/facing-memory-crunch-nvidia-creates-64gb-rtx-spark-it-still-costs-4999"
+          }
+        },
+        {
+          "title": "SWC para de aceitar PRs externos",
+          "body": "O time do SWC, compilador TypeScript em Rust usado por grandes frameworks, não vai mais aceitar pull requests de contribuidores externos. O motivo citado: volume e qualidade do conteúdo gerado por IA.",
+          "source": {
+            "label": "swc_rs no X — 3 out",
+            "url": "https://twitter.com/swc_rs/status/2105505428893544847"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O cerco aos agentes virou concreto: Apple no sistema operacional, governo australiano na lista de vítimas e preço premium vendendo velocidade e cota. No open source, a resposta ao slop foi fechar a porta."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-02",
       "date": "2026-10-02",
       "hook": "A semana em que skills virou padrão da indústria",
