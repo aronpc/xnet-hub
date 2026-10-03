@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-03-14h33",
+      "date": "2026-10-03",
+      "time": "14h33",
+      "hook": "De manhã o bitcoin ainda carregava queda de 2,3% na janela de 24 horas, preso na base do range. À tarde o teto dessa mesma janela desceu para 85 mil e o preço foi subir encostar nele: 84.855, a borda de cima de um dia que agora cabe em pouco mais de mil dólares. Volume de 20 bilhões em 24h, movimento curto. O teste dos 85 mil ficou a 0,17% de distância.",
+      "caption": "Janela de 24h comprimida entre 83,9 e 85,0 mil; o preço passeia na borda de cima.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-03-14h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-03-14h33",
+      "slides": [
+        {
+          "title": "BTC US$ 84.855 · colado no teto do dia",
+          "body": "Janela de 24h comprimida entre 83,9 e 85,0 mil; o preço passeia na borda de cima."
+        },
+        {
+          "title": "US$ 84.855",
+          "body": "Δ1h −0,04% · Δ24h +0,23% · volume de $20,0bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço na parte alta da janela de 24h (83.888 a 84.962), com as últimas 8 velas presas entre 84,6 e 85,0 mil · smart money: funding +0,006%, razão long/short 1,22 com 55% de posições compradas e interesse aberto de 97,2k BTC",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "O teste dos 85 mil",
+          "body": "Acima de 85.000, zona de oferta em 85.400; abaixo de 84.600, reteste de 83.900. Referências de 24h: 83.900 (−1,13%) e 85.000 (+0,17%).",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "A hora do teste",
+          "body": "Cada hora fechada vira uma leitura nova de preço, volume e posicionamento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-03-09h31",
       "date": "2026-10-03",
       "time": "09h31",
