@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-04-05h30",
+      "date": "2026-10-04",
+      "time": "05h30",
+      "hook": "A madrugada resolveu o assunto que ontem ficou em aberto: o bitcoin cruzou os 85 mil e seguiu em frente. A leitura das 05h30 mostra 85.177 dólares, a 0,03% da próxima marca do dia. O movimento é calmo, subida de 0,71% em 24 horas, com volume de 14,5 bilhões, mais discreto que o de ontem. Sem pressa, mas em terreno novo.",
+      "caption": "A marca de ontem ficou atrás; o próximo número a encarar é 85.200.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-04-05h30",
+      "link": "https://xbtc.aronpc.dev/#2026-10-04-05h30",
+      "slides": [
+        {
+          "title": "BTC US$ 85.177 · do outro lado dos 85 mil",
+          "body": "A marca de ontem ficou atrás; o próximo número a encarar é 85.200."
+        },
+        {
+          "title": "US$ 85.177",
+          "body": "Δ1h +0,25% · Δ24h +0,71% · vol $14,5bi em 24h · F&G 65 (ganância)",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço na região mais alta do dia (84.558 a 85.196), com as últimas 8 velas entre 84,7 e 85,2 mil · smart money: funding +0,003%, long/short 1,23 com 55% de posições compradas, OI 98,3k BTC",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Segurar a casa dos 85 mil",
+          "body": "Acima de 85.200, zona de oferta em 85.600; abaixo de 84.700, reteste de 84.600. Referências do dia: 84.600 (−0,68%) e 85.200 (+0,03%).",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "O que a manhã fizer com esse nível",
+          "body": "A cada hora fechada, preço e posicionamento ganham uma leitura nova."
+        }
+      ]
+    },
+    {
       "id": "2026-10-03-14h33",
       "date": "2026-10-03",
       "time": "14h33",
