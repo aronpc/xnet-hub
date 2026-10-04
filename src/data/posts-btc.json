@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-04-19h31",
+      "date": "2026-10-04",
+      "time": "19h31",
+      "hook": "Depois de bater a tarde toda nos 86 mil, o bitcoin passou: negocia a 86.327, a 0,43% do teto do range de 24 horas. São 1,84% no dia, com 16,6 bilhões negociados.",
+      "caption": "A resistência de 86.100, que segurou o dia até o fim da tarde, ficou para trás.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-04-19h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-04-19h31",
+      "slides": [
+        {
+          "title": "BTC US$ 86.327 · a última porta cedeu",
+          "body": "A resistência de 86.100, que segurou o dia até o fim da tarde, ficou para trás."
+        },
+        {
+          "title": "US$ 86.327",
+          "body": "Δ1h +0,60% · Δ24h +1,84% · vol $16,6bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço na parte mais alta do range de 24h (84.708 a 86.686), última hora +0,60% · smart money: funding +0,006%, long/short 1,09 (52% longs), OI 96,4k BTC",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "O próximo número é 86.700",
+          "body": "Teto do range de 24h e do micro-range das últimas 8 velas; acima, zona de oferta em 87.100 · Suporte 84.700 (−1,88%) · Resistência 86.700 (+0,43%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "De hora em hora, uma nova foto",
+          "body": "Preço e posicionamento dos contratos na leitura mais recente das :31."
+        }
+      ]
+    },
+    {
       "id": "2026-10-04-18h32",
       "date": "2026-10-04",
       "time": "18h32",
