@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-04",
+      "date": "2026-10-04",
+      "hook": "A semana em que a segurança rachou de vez",
+      "caption": "Edição de 4 de outubro: a OpenAI demite gente de safety, o Google aperta o tier gratuito do Gemini e a Casa Branca cria uma força-tarefa com nome de filme. Sete histórias para entender o momento.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-04",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-04",
+      "slides": [
+        {
+          "title": "A semana em que a segurança rachou de vez",
+          "body": "Edição de 4 de outubro: a OpenAI demite gente de safety, o Google aperta o tier gratuito do Gemini e a Casa Branca cria uma força-tarefa com nome de filme. Sete histórias para entender o momento."
+        },
+        {
+          "title": "Demitidos por vazamento, líder de safety renuncia",
+          "body": "A OpenAI demitiu três funcionários que teriam compartilhado informações confidenciais com um grupo externo de segurança de IA, segundo o WSJ. Logo depois, David Robinson, ex-líder do Safety Systems, renunciou com um ensaio no The Atlantic dizendo que o Vale do Silício não tem cultura centrada em segurança.",
+          "source": {
+            "label": "The Atlantic — 3 out",
+            "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/"
+          }
+        },
+        {
+          "title": "Acabou o Gemini grátis decente",
+          "body": "A partir de 9 de outubro, quem não paga fica restrito ao 3.5 Flash-Lite. O acesso gratuito a Flash e Pro acaba, e assinantes Plus também ganham limites. As discussões no HN e no Reddit já apontam migração para concorrentes.",
+          "source": {
+            "label": "Suporte Google",
+            "url": "https://support.google.com/gemini/answer/17004136"
+          }
+        },
+        {
+          "title": "Nasce a Super Intelligence Force",
+          "body": "O AI czar Jay Clayton vai presidir a força-tarefa de IA da Casa Branca, batizada oficialmente de Super Intelligence Force, com a missão de redigir um relatório sobre os riscos da tecnologia depois das preocupações públicas e da indústria. A informação é do WSJ.",
+          "source": {
+            "label": "WSJ — 2 out",
+            "url": "https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef"
+          }
+        },
+        {
+          "title": "Lobby no Vaticano pela consciência da IA",
+          "body": "O Telegraph revela que a Anthropic pressionou o Vaticano com o argumento de que a IA pode ser um ser consciente. A revelação amplia a série do NYT sobre o programa da empresa de levar a questão da consciência do Claude a líderes religiosos e estudiosos.",
+          "source": {
+            "label": "Telegraph — 2 out",
+            "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/"
+          }
+        },
+        {
+          "title": "Anthropic muda de jogo na Austrália",
+          "body": "Em submissão à reforma de copyright australiano, a Anthropic defende um regime de aprovação condicional: Big Techs poderiam treinar em obras protegidas mediante condições, em vez do opt-out que a empresa defendia antes, relata o Guardian.",
+          "source": {
+            "label": "Guardian — 2 out",
+            "url": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc"
+          }
+        },
+        {
+          "title": "Google congela programa por spam de IA",
+          "body": "O Google suspendeu as submissões de falhas de produto no OSS VRP a partir de 1º de outubro, declarando um influxo de relatórios inválidos gerados por IA. A trilha de vulnerabilidades de segurança segue parcialmente aberta.",
+          "source": {
+            "label": "Tom's Hardware — 3 out",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1"
+          }
+        },
+        {
+          "title": "Anthropic publica o guia do Opus 5.5",
+          "body": "O post Getting the most out of Opus 5.5, no blog claude.dev, detalha técnicas de prompting e fluxo de trabalho para o modelo nos produtos Claude e Claude Code. Virou um dos assuntos mais comentados do HN.",
+          "source": {
+            "label": "claude.dev — 3 out",
+            "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/"
+          }
+        },
+        {
+          "title": "A segurança migrou pra fora dos labs",
+          "body": "A OpenAI demite gente de safety e a Meta dispensa o time da Virtue AI quatro meses depois de contratar. A resposta veio de fora: Casa Branca com força-tarefa, Vaticano no debate de consciência, inquéritos em curso. E do lado do bolso, o Google cravou o novo normal: grátis agora é Flash-Lite."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-03",
       "date": "2026-10-03",
       "hook": "Skills e MCP de hoje",
