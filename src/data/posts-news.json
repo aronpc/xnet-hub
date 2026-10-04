@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-04",
+      "date": "2026-10-04",
+      "hook": "A camada de skills aprendeu a se auditar",
+      "caption": "Edição de 4 de outubro: skills que clonam aplicativos, diagramas que viram painéis vivos, cinema desenhado por código e uma onda nova de verificação por evidência, higiene de sessão e telemetria de custo. Sete lançamentos que mostram pra onde o ecossistema foi.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-04",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-04",
+      "slides": [
+        {
+          "title": "A camada de skills aprendeu a se auditar",
+          "body": "Edição de 4 de outubro: skills que clonam aplicativos, diagramas que viram painéis vivos, cinema desenhado por código e uma onda nova de verificação por evidência, higiene de sessão e telemetria de custo. Sete lançamentos que mostram pra onde o ecossistema foi."
+        },
+        {
+          "title": "replica-skill: 11 skills que clonam qualquer app",
+          "body": "Suíte de 11 skills gratuitas para Claude que clonam aplicativos: engenharia reversa do app alvo, reconstrução da funcionalidade e caça aos bugs da réplica. Explodiu para 164 estrelas no GitHub em cerca de um dia.",
+          "source": {
+            "label": "github.com/Jakeschincariol/replica-skill",
+            "url": "https://github.com/Jakeschincariol/replica-skill"
+          }
+        },
+        {
+          "title": "live-panel-skill: JSON vira painel animado",
+          "body": "Skill do Claude gera diagramas de arquitetura animados orientados a configuração: um único arquivo JSON descreve o sistema e a skill produz um painel sempre rodando no estilo terminal. Fez 144 estrelas no primeiro dia.",
+          "source": {
+            "label": "github.com/ythx-101/live-panel-skill",
+            "url": "https://github.com/ythx-101/live-panel-skill"
+          }
+        },
+        {
+          "title": "Poema vira curta a tinta, frase vira documentário 3D",
+          "body": "Duas skills do autor bangbuilds: code-poem-film transforma um poema em animação 2D estilo tinta, com desenho frame a frame em código, narração sincronizada e trilha gerada com numpy. code-doc-film transforma uma frase em curta documentário 3D com three.js e terreno real.",
+          "source": {
+            "label": "github.com/bangbuilds/code-poem-film",
+            "url": "https://github.com/bangbuilds/code-poem-film"
+          }
+        },
+        {
+          "title": "prove-it-better: nada shipa sem prova",
+          "body": "Skill do Claude Code que submete melhorias a julgamento cego em duas ordens e gates objetivos antes de declarar vitória. A melhoria só conta se sobreviver à avaliação às cegas.",
+          "source": {
+            "label": "github.com/IncomeStreamSurfer/prove-it-better",
+            "url": "https://github.com/IncomeStreamSurfer/prove-it-better"
+          }
+        },
+        {
+          "title": "claude-routine-cleanup: faxina de sessão",
+          "body": "Skill open-source de limpeza de rotina de sessões do Claude Code, apresentada em Show HN: organiza e descarta o estado acumulado entre execuções recorrentes.",
+          "source": {
+            "label": "github.com/naw103/claude-routine-cleanup",
+            "url": "https://github.com/naw103/claude-routine-cleanup"
+          }
+        },
+        {
+          "title": "OptimAIzr: raio-X do seu uso do Claude Code",
+          "body": "Ferramenta open-source examina o histórico de uso do Claude Code do usuário e propõe otimizações, de padrões de prompt a desperdício de contexto e custo.",
+          "source": {
+            "label": "github.com/blendbunjaku/optimaizr",
+            "url": "https://github.com/blendbunjaku/optimaizr"
+          }
+        },
+        {
+          "title": "x-search-tool: busca no X por MCP assíncrono",
+          "body": "Servidor MCP assíncrono para busca no X com volume e histórico, acompanhado de um plugin para o agente Antigravity do Google.",
+          "source": {
+            "label": "github.com/AndrewMason7/x-search-tool",
+            "url": "https://github.com/AndrewMason7/x-search-tool"
+          }
+        },
+        {
+          "title": "Skills passaram de atalhos a controles",
+          "body": "O ecossistema amadureceu a ponto de se auditar: prova antes do ship, higiene de sessão e telemetria de custo chegando como skills, junto de suítes que clonam apps e desenham cinema em código. A skill deixou de ser só atalho de prompt."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-04",
       "date": "2026-10-04",
       "hook": "Agentes em produção exigem prova",
