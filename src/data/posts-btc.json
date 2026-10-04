@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-04-07h30",
+      "date": "2026-10-04",
+      "time": "07h30",
+      "hook": "O bitcoin chegou a 85.428, o maior valor das últimas 24 horas, numa sequência de seis fechamentos de hora em alta. No dia avança 0,91%, um ritmo lento que ainda não parou para respirar.",
+      "caption": "A manhã passou por 85.200 e 85.300; a máxima agora é 85.428.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-04-07h30",
+      "link": "https://xbtc.aronpc.dev/#2026-10-04-07h30",
+      "slides": [
+        {
+          "title": "BTC US$ 85.360 · seis degraus na mesma direção",
+          "body": "A manhã passou por 85.200 e 85.300; a máxima agora é 85.428."
+        },
+        {
+          "title": "US$ 85.360",
+          "body": "Δ1h +0,13% · Δ24h +0,91% · vol $14,9bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Seis closes de hora em sequência, de 84.912 a 85.360, com o preço no limite superior do range de 24h (84.558 a 85.428) · smart money: funding +0,004%, long/short 1,22 (55% longs), OI 98,7k BTC",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "A hora decide entre 85.430 e 85.000",
+          "body": "Acima da máxima 85.430, caminho a 85.800 e 86.000; abaixo de 85.000, reteste de 84.700. Referências: 85.000 (−0,43%) e 85.500 (+0,16%).",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "O próximo fechamento é logo mais",
+          "body": "Leitura nova a cada hora que fecha, com preço e posicionamento do mercado."
+        }
+      ]
+    },
+    {
       "id": "2026-10-04-05h30",
       "date": "2026-10-04",
       "time": "05h30",
