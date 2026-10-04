@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-04-18h32",
+      "date": "2026-10-04",
+      "time": "18h32",
+      "hook": "A tarde fez o que a manhã não conseguiu: o bitcoin subiu até 86.066, o maior preço das últimas 24 horas, antes de recuar para 85.813. São 1,32% em 24 horas, com volume de 15,2 bilhões.",
+      "caption": "A máxima do dia agora é 86.066, e o preço ficou a 0,33% dela.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-04-18h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-04-18h32",
+      "slides": [
+        {
+          "title": "BTC US$ 85.813 · segundo empurrão do dia",
+          "body": "A máxima do dia agora é 86.066, e o preço ficou a 0,33% dela."
+        },
+        {
+          "title": "US$ 85.813",
+          "body": "Δ1h +0,42% · Δ24h +1,32% · vol $15,2bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço colado no topo do range de 24h (84.694 a 86.066), com as últimas 8 velas entre 85.100 e 86.100 · smart money: funding +0,005%, long/short 1,12 (53% longs), OI 97,6k BTC",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "86.100 é a última porta do range",
+          "body": "Acima dela, zona de oferta em 86.500; abaixo de 85.100, caminho de volta a 84.700 · Suporte 84.700 (−1,30%) · Resistência 86.100 (+0,33%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Cada hora fechada ganha leitura nova",
+          "body": "Preço, volume e posicionamento, sem esperar o dia virar."
+        }
+      ]
+    },
+    {
       "id": "2026-10-04-07h30",
       "date": "2026-10-04",
       "time": "07h30",
