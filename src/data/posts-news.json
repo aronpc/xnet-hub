@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-04",
+      "date": "2026-10-04",
+      "hook": "Agentes em produção exigem prova",
+      "caption": "Edição de 4 de outubro: um package manager inteiro escrito por agente, a maior aquisição de infra de agentes do ano e três ferramentas novas de observabilidade, auditoria e gate de aceite. Sete projetos que respondem à mesma pergunta: como confiar no que o agente fez.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-04",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-04",
+      "slides": [
+        {
+          "title": "Agentes em produção exigem prova",
+          "body": "Edição de 4 de outubro: um package manager inteiro escrito por agente, a maior aquisição de infra de agentes do ano e três ferramentas novas de observabilidade, auditoria e gate de aceite. Sete projetos que respondem à mesma pergunta: como confiar no que o agente fez."
+        },
+        {
+          "title": "jpm: package manager em Rust escrito por agente",
+          "body": "O jpm se apresenta como gerenciador de pacotes JavaScript rápido, pequeno e seguro por padrão, e, segundo o próprio projeto, toda linha de código saiu do Claude Code. Instala via curl com builds glibc e musl, e a comunidade já publicou taps para Homebrew e Scoop.",
+          "source": {
+            "label": "getjpm.sh",
+            "url": "https://getjpm.sh/"
+          }
+        },
+        {
+          "title": "Supabase capta US$ 150M e compra a Turso",
+          "body": "O Supabase captou 150 milhões de dólares em rodada liderada pelo soberano de Singapura GIC e anunciou a aquisição da Turso, cujo banco é otimizado para cargas de agentes de IA, com acesso a dados por agentes.",
+          "source": {
+            "label": "SiliconANGLE — 2 out",
+            "url": "https://siliconangle.com/2026/10/02/database-startup-supabase-raises-150m-acquires-turso/"
+          }
+        },
+        {
+          "title": "AgentSight: eBPF para ver o que o agente faz",
+          "body": "O AgentSight, da organização eunomia-bpf, faz profiling e monitoramento de agentes de IA no sistema inteiro: rastreia o que os agentes executam e acessam no nível do kernel, sem instrumentar cada agente.",
+          "source": {
+            "label": "github.com/eunomia-bpf/agentsight",
+            "url": "https://github.com/eunomia-bpf/agentsight"
+          }
+        },
+        {
+          "title": "agent-blackbox: caixa-preta para o Claude Code",
+          "body": "Ferramenta open-source registra tudo o que uma sessão do Claude Code fez em formato à prova de adulteração, um gravador de voo para auditoria posterior das ações do agente.",
+          "source": {
+            "label": "github.com/developerfred/agent-blackbox",
+            "url": "https://github.com/developerfred/agent-blackbox"
+          }
+        },
+        {
+          "title": "SuperLocalMemory 4.0: memória com governança",
+          "body": "A versão 4.0 do SuperLocalMemory chega se descrevendo como sistema operacional de memória governada para agentes: memória local com políticas explícitas sobre o que é retido e o que é esquecido. Paper no arXiv e Show HN em 4 de outubro.",
+          "source": {
+            "label": "arxiv.org/abs/2608.08253",
+            "url": "https://arxiv.org/abs/2608.08253"
+          }
+        },
+        {
+          "title": "FailGate: bug só fecha com teste passando",
+          "body": "O projeto propõe uma camada de aceite para correções: cada bug sela um teste falhante no momento da abertura, e esse teste passa a graduar todo PR que afirma corrigi-lo.",
+          "source": {
+            "label": "github.com/san086041-glitch/FailGate",
+            "url": "https://github.com/san086041-glitch/FailGate"
+          }
+        },
+        {
+          "title": "Droid controla Mac com o Computer Use do Codex",
+          "body": "Projeto que junta as peças: permite que o Factory Droid controle um Mac usando a ferramenta Computer Use do app Codex, com instalação num comando e sem sandbox próprio para configurar.",
+          "source": {
+            "label": "github.com/nikships/droid-codex-computer-use",
+            "url": "https://github.com/nikships/droid-codex-computer-use"
+          }
+        },
+        {
+          "title": "A confiança virou produto",
+          "body": "A pauta de projetos deixou de ser mais um framework de agente. Agora é eBPF enxergando o agente no kernel, gravação de voo à prova de adulteração e bug que só fecha com teste selado. Prova, não promessa."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-04",
       "date": "2026-10-04",
       "hook": "A semana em que a segurança rachou de vez",
