@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-05-04h32",
+      "date": "2026-10-05",
+      "time": "04h32",
+      "hook": "Quatro fechamentos de hora seguidos no verde e o bitcoin volta a 86.254, na metade de cima da faixa do dia. O viés, lateral desde a virada, pendeu de novo pra alta. Faltam 0,9% pra encostar no teto de 87.000.",
+      "caption": "O fundo fica para trás: de 85.461 às 02h34 para 86.254 agora, com o range de 24h entre 85.033 e 86.999.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-05-04h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-05-04h32",
+      "slides": [
+        {
+          "title": "BTC US$ 86.254 · a madrugada refez o caminho",
+          "body": "O fundo fica para trás: de 85.461 às 02h34 para 86.254 agora, com o range de 24h entre 85.033 e 86.999."
+        },
+        {
+          "title": "US$ 86.254",
+          "body": "Δ1h +0,45% · Δ24h +1,55% · vol $23,8bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Vela por vela, do 85,5k ao 86,3k nas últimas quatro horas, sem fechar abaixo de 85.400 · smart money: funding +0,004%, long/short 1,01 (50% longs), OI 98,0k BTC",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "87.000 é o teste que falta",
+          "body": "Topo do canal a +0,87% do preço · base 85.400 a −0,99% · mínimo do dia 85.033",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura a cada fechamento de hora, enquanto a faixa decide pra onde ir."
+        }
+      ]
+    },
+    {
       "id": "2026-10-05-02h34",
       "date": "2026-10-05",
       "time": "02h34",
