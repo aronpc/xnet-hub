@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-05",
+      "date": "2026-10-05",
+      "hook": "O fim de semana de operar a frota",
+      "caption": "Edição de 5 de outubro. O movimento do fim de semana foi pra camada de cima do agente individual: workspace que gerencia todas as sessões de coding agent, histórico de conversa virando ativo de dados e boilerplate verificado pronto pro agente consumir. Seis projetos, um fio.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-05",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-05",
+      "slides": [
+        {
+          "title": "O fim de semana de operar a frota",
+          "body": "Edição de 5 de outubro. O movimento do fim de semana foi pra camada de cima do agente individual: workspace que gerencia todas as sessões de coding agent, histórico de conversa virando ativo de dados e boilerplate verificado pronto pro agente consumir. Seis projetos, um fio."
+        },
+        {
+          "title": "Busca semântica em toda foto e frame de vídeo do Mac",
+          "body": "Ferramenta local indexa as fotos e todos os frames dos vídeos do macOS para busca por sentido, sem nada sair da máquina. Foi o maior hit de fim de semana no Hacker News, com 144 pontos e 66 comentários em 24 horas.",
+          "source": {
+            "label": "github.com/allenv0/SCM",
+            "url": "https://github.com/allenv0/SCM"
+          }
+        },
+        {
+          "title": "Todos os coding agents num workspace só",
+          "body": "O Offrun orquestra sessões de Claude Code, Codex e afins numa única interface, com fila de execução e visão unificada do que está rodando.",
+          "source": {
+            "label": "offrun.dev",
+            "url": "https://offrun.dev/"
+          }
+        },
+        {
+          "title": "Exporte o histórico dos seus coding agents",
+          "body": "Extrator open-source converte o histórico de chat de Claude Code, Codex e outros assistentes em formato tratável. Nasceu há dois dias e já passa de cem estrelas.",
+          "source": {
+            "label": "github.com/isoshimodo/ai-data-extractor",
+            "url": "https://github.com/isoshimodo/ai-data-extractor"
+          }
+        },
+        {
+          "title": "Fine-tuning de modelo pelo terminal, sem saber nada",
+          "body": "Agente de console que conduz um fine-tuning completo com pouca ou nenhuma experiência prévia. É o brew install mental aplicado a treinar modelo próprio.",
+          "source": {
+            "label": "github.com/empero-org/homebrew-ai",
+            "url": "https://github.com/empero-org/homebrew-ai"
+          }
+        },
+        {
+          "title": "Aponte pra um site ou vídeo, receba a matéria pronta",
+          "body": "A ferramenta recebe um site, um footage ou um tema e devolve um pacote de conteúdo finalizado pelo agente, sem sessão de chat no meio do caminho.",
+          "source": {
+            "label": "github.com/AmirSbss/spotlight",
+            "url": "https://github.com/AmirSbss/spotlight"
+          }
+        },
+        {
+          "title": "Stack full-stack TypeScript verificada, feita pra agente",
+          "body": "Compositor que monta um projeto TypeScript completo já validado, desenhado para coding agents consumirem direto, sem adivinhar convenção.",
+          "source": {
+            "label": "github.com/VinkyDev/vibestart",
+            "url": "https://github.com/VinkyDev/vibestart"
+          }
+        },
+        {
+          "title": "Do agente sozinho para a frota de sessões",
+          "body": "SCM indexa a vida local com privacidade, Offrun põe todos os agentes na mesma fila, o histórico vira ativo exportável e o scaffold vem verificado de fábrica. E o filão de busca local privacy-first segue como a aposta mais quente do fim de semana."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-05",
       "date": "2026-10-05",
       "hook": "A IA foi parar na polícia e no tribunal",
