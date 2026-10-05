@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-05-01h30",
+      "date": "2026-10-05",
+      "time": "01h30",
+      "hook": "A alta da tarde não atravessou a madrugada: numa hora, o bitcoin desceu 0,75%, para 85.785, e voltou ao meio do range de 24 horas. O viés, que era de alta desde a manhã de domingo, agora é lateral.",
+      "caption": "Entre as 20h de ontem e a meia-noite, o preço não saiu da faixa dos 86 mil; a primeira hora de segunda o devolveu aos 85.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-05-01h30",
+      "link": "https://xbtc.aronpc.dev/#2026-10-05-01h30",
+      "slides": [
+        {
+          "title": "BTC US$ 85.785 · o impulso esfriou",
+          "body": "Entre as 20h de ontem e a meia-noite, o preço não saiu da faixa dos 86 mil; a primeira hora de segunda o devolveu aos 85."
+        },
+        {
+          "title": "US$ 85.785",
+          "body": "Δ1h -0,75% · Δ24h +1,16% · vol $21,1bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço no meio do range de 24h (84.812 a 86.999), com as últimas 8 velas entre 85.700 e 87.000 · smart money: funding +0,007%, long/short 0,91 (48% longs), OI 98,4k BTC",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "85.700 é o chão da madrugada",
+          "body": "Base do canal das últimas 8 velas, a 0,1% do preço · Suporte 84.800 (−1,15%) · Resistência 87.000 (+1,42%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "A madrugada também tem leitura",
+          "body": "Preço e posicionamento dos contratos a cada hora fechada, sem esperar o dia clarear."
+        }
+      ]
+    },
+    {
       "id": "2026-10-04-19h31",
       "date": "2026-10-04",
       "time": "19h31",
