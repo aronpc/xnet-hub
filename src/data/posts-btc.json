@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-05-02h34",
+      "date": "2026-10-05",
+      "time": "02h34",
+      "hook": "A base de 85.700, que equilibrava a madrugada, não segurou: o preço desceu a 85.461 e agora cola na faixa inferior do canal de 8 velas, em 85.400. Nos derivados o clima ainda é de ganância (F&G 70). O preço, ao contrário, ocupa a parte de baixo do range do dia.",
+      "caption": "Do topo de 86.999 até a base do canal, dois degraus na madrugada. O range de 24h segue entre 84.877 e 86.999.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-05-02h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-05-02h34",
+      "slides": [
+        {
+          "title": "BTC US$ 85.461 · o ânimo não acompanha",
+          "body": "Do topo de 86.999 até a base do canal, dois degraus na madrugada. O range de 24h segue entre 84.877 e 86.999."
+        },
+        {
+          "title": "US$ 85.461",
+          "body": "Δ1h -0,38% · Δ24h +0,72% · vol $22,0bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço no terço inferior do range de 24h, com o canal de 8 velas redefinido para 85.400 a 87.000 · smart money: funding +0,007%, long/short 0,94 (48% longs), OI 98,6k BTC",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "85.400, a linha da vez",
+          "body": "Base do canal a 0,1% do preço · mínimo do dia 84.900 (−0,66%) · topo 87.000 (+1,80%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Cada hora fechada, uma leitura",
+          "body": "Preço, volume e posicionamento dos contratos a cada fechamento de vela, a qualquer hora."
+        }
+      ]
+    },
+    {
       "id": "2026-10-05-01h30",
       "date": "2026-10-05",
       "time": "01h30",
