@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-05-13h54",
+      "date": "2026-10-05",
+      "time": "13h54",
+      "hook": "O bitcoin chegou a 86,4 mil duas vezes nesta segunda e as duas voltou. À tarde, 85.276: o preço desceu de volta à linha de 85 mil, que segura o dia desde a madrugada. Nos derivados, sem convicção: funding levemente negativo e compradores e vendedores empatados.",
+      "caption": "Da leitura das 4h32 (86.254) até agora, o preço caiu 1,1% com três fechamentos de hora seguidos em queda, de volta à base do canal.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-05-13h54",
+      "link": "https://xbtc.aronpc.dev/#2026-10-05-13h54",
+      "slides": [
+        {
+          "title": "BTC US$ 85.276 · recusado em cima, apertado embaixo",
+          "body": "Da leitura das 4h32 (86.254) até agora, o preço caiu 1,1% com três fechamentos de hora seguidos em queda, de volta à base do canal."
+        },
+        {
+          "title": "US$ 85.276",
+          "body": "Δ1h -0,4% · Δ24h -0,1% · vol $32,6bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Três fechamentos de hora em queda comprimem o preço contra 85 mil, sem força pra atravessar · smart money: funding -0,0014% e long/short 1,047, ninguém esticado",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "85 mil de um lado, 86,2 mil do outro",
+          "body": "Abaixo de 85 mil, a referência é 84,2 mil · de volta a 86,2 mil, o topo do dia fica em 86,5/87 mil · as duas recusas de hoje foram em 86,4/86,5 mil",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "De 85 mil a 87 mil o dia inteiro. Quando o preço sair daí, a leitura chega aqui na hora."
+        }
+      ]
+    },
+    {
       "id": "2026-10-05-04h32",
       "date": "2026-10-05",
       "time": "04h32",
