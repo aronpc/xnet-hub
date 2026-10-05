@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-05",
+      "date": "2026-10-05",
+      "hook": "A skill virou fábrica de produto",
+      "caption": "Edição de 5 de outubro. O fim de semana do GitHub de skills teve um fio: livro vira experiência web narrada, livro vira curso, curso vira vídeo editável. E dois alertas de infra no meio, com fix de segurança nos mods do Claude Code e 140 mudanças silenciosas em servidores MCP.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-05",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-05",
+      "slides": [
+        {
+          "title": "A skill virou fábrica de produto",
+          "body": "Edição de 5 de outubro. O fim de semana do GitHub de skills teve um fio: livro vira experiência web narrada, livro vira curso, curso vira vídeo editável. E dois alertas de infra no meio, com fix de segurança nos mods do Claude Code e 140 mudanças silenciosas em servidores MCP."
+        },
+        {
+          "title": "Mods não passam mais por cima das deny rules",
+          "body": "A versão 2.1.289, saída em 3 de outubro com 27 mudanças no CLI, fecha um buraco real: regras de deny e ask do Bash eram puladas no sandbox auto-allow quando um mod aprovava comando composto aninhado. Deny rule do Read agora vale também via symlink.",
+          "source": {
+            "label": "GitHub · release v2.1.289",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.289"
+          }
+        },
+        {
+          "title": "140 mudanças silenciosas em 66 releases de MCP",
+          "body": "O projeto rugsnare comparou todos os pares de release dos servidores MCP de referência e documentou 140 mudanças de comportamento que não apareceram em changelog nenhum.",
+          "source": {
+            "label": "github.com/Paraphern/rugsnare",
+            "url": "https://github.com/Paraphern/rugsnare"
+          }
+        },
+        {
+          "title": "Livro vira experiência web animada e narrada",
+          "body": "A skill Papermorph converte livros em experiências web interativas, com animação e narração. Fez 126 estrelas em dois dias.",
+          "source": {
+            "label": "github.com/DozenTwelve/Papermorph",
+            "url": "https://github.com/DozenTwelve/Papermorph"
+          }
+        },
+        {
+          "title": "A geração de imagem do Codex, exposta pra qualquer agente",
+          "body": "Pacote com servidor MCP, CLI e skill que dá a qualquer agente acesso à geração de imagem embutida do Codex, com presets de capa de vídeo, pôster e Xiaohongshu.",
+          "source": {
+            "label": "github.com/joeseesun/qiaomu-codex-imagegen",
+            "url": "https://github.com/joeseesun/qiaomu-codex-imagegen"
+          }
+        },
+        {
+          "title": "Sessão longa entrega o bastão sozinha",
+          "body": "Mod do Claude Code que resume o estado da sessão numa estrutura e abre uma sessão limpa já com o briefing pronto.",
+          "source": {
+            "label": "github.com/alexknowshtml/claude-auto-handoff",
+            "url": "https://github.com/alexknowshtml/claude-auto-handoff"
+          }
+        },
+        {
+          "title": "Livro vira curso interativo completo",
+          "body": "A skill recebe EPUB, PDF, HTML, DOCX ou Markdown e devolve um curso interativo montado, pronto pra usar.",
+          "source": {
+            "label": "github.com/sebastianhaba/book-to-course-skill",
+            "url": "https://github.com/sebastianhaba/book-to-course-skill"
+          }
+        },
+        {
+          "title": "Vídeo de curso coerente e editável por segmento",
+          "body": "Skill genérica para gerar vídeos de curso com narrativa consistente entre segmentos, em que dá pra regenerar um trecho sem quebrar o resto do vídeo.",
+          "source": {
+            "label": "github.com/speechlab0210/tutorial-video-skill",
+            "url": "https://github.com/speechlab0210/tutorial-video-skill"
+          }
+        },
+        {
+          "title": "Skill começa em livro e termina em vídeo",
+          "body": "O fim de semana consolidou a skill como fábrica de produto: a mesma fonte longa vira web animada, curso e vídeo. Na infra, dois avisos: mod aprovado não abre mais shell negado, e servidor MCP atualiza sem avisar."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-05",
       "date": "2026-10-05",
       "hook": "O fim de semana de operar a frota",
