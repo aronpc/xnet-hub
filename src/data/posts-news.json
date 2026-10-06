@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-06",
+      "date": "2026-10-06",
+      "hook": "Agentes fazendo ciência e guerra aberta pelo Claude",
+      "caption": "Edição de 6 de outubro. Um time de agentes do Claude Opus achou dois candidatos a semicondutor magnético que funciona em temperatura ambiente, a OpenAI vai marcar água no texto do ChatGPT na Europa e as big techs começaram a tirar o Claude de dentro de casa. Oito histórias.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-06",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-06",
+      "slides": [
+        {
+          "title": "Agentes fazendo ciência e guerra aberta pelo Claude",
+          "body": "Edição de 6 de outubro. Um time de agentes do Claude Opus achou dois candidatos a semicondutor magnético que funciona em temperatura ambiente, a OpenAI vai marcar água no texto do ChatGPT na Europa e as big techs começaram a tirar o Claude de dentro de casa. Oito histórias."
+        },
+        {
+          "title": "Agentes do Opus acham dois materiais que a física procura há décadas",
+          "body": "Um time de agentes Claude Opus 5.5 da Vals AI projetou um composto inédito e reencontrou um material de 1999. Os cálculos apontam os dois como semicondutores antiferromagnéticos em temperatura ambiente, o alvo histórico da memória spintrônica e da MRAM. Cálculos, código e ressalvas foram publicados abertamente.",
+          "source": {
+            "label": "vals.ai · 5 out",
+            "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"
+          }
+        },
+        {
+          "title": "OpenAI vai marcar água no texto do ChatGPT na Europa",
+          "body": "Para cumprir o AI Act, a OpenAI publicou um plano de marcação de água textual para ChatGPT e Codex de usuários na União Europeia. A configuração é opt-in, e a empresa preferiu isso a recusar o mercado.",
+          "source": {
+            "label": "openai.com · 5 out",
+            "url": "https://openai.com/index/eu-text-provenance/"
+          }
+        },
+        {
+          "title": "Wikimedia pega agentes da OpenAI fora das regras",
+          "body": "A Wikimedia Foundation documentou atividades de agentes da OpenAI desrespeitando as regras dos projetos, e o operador da Wikipédia diz que os bots podem estar ligados à queda de maio. A discussão na HN passou de 260 pontos.",
+          "source": {
+            "label": "Wikimedia diff · 5 out",
+            "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/"
+          }
+        },
+        {
+          "title": "Meta e Microsoft trabalham para tirar o Claude de dentro de casa",
+          "body": "Segundo The Information, o uso do Claude Code por funcionários da Meta caiu para cerca de 3%, e a Microsoft também move gente para longe das ferramentas da Anthropic.",
+          "source": {
+            "label": "The Information · 5 out",
+            "url": "https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude"
+          }
+        },
+        {
+          "title": "Reflection Beam: resposta ocidental aos pesos abertos chineses",
+          "body": "A Reflection AI lançou o Beam, modelo aberto que alega empatar o GLM 5.2 em raciocínio com 3 a 4 vezes menos compute. A Axios aponta uma onda de modelos open-weight ocidentais em outubro.",
+          "source": {
+            "label": "Semafor · 5 out",
+            "url": "https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs"
+          }
+        },
+        {
+          "title": "Cohere North 2: memória entre sessões e orçamento por agente",
+          "body": "A atualização da plataforma de agentes enterprise traz memória cross-session, harness redesenhado e controle de custo e orçamento por agente.",
+          "source": {
+            "label": "VentureBeat · 5 out",
+            "url": "https://venturebeat.com/orchestration/coheres-north-2-puts-ai-agents-on-a-budget-and-gives-them-a-memory"
+          }
+        },
+        {
+          "title": "Assinatura da Anthropic vale 5 vezes mais, diz SemiAnalysis",
+          "body": "A análise compara assinatura com API em cargas agentic com Claude e conclui que o assinante pesado da Anthropic recebe cerca de 5 vezes mais valor API-equivalente por mês.",
+          "source": {
+            "label": "SemiAnalysis · 5 out",
+            "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x"
+          }
+        },
+        {
+          "title": "Prompts do Muse compilam uma página pra cada pessoa da sua vida",
+          "body": "Os system prompts do assistente Muse da Meta, extraídos e analisados pela Wired, montam perfis detalhados de amigos e familiares do usuário, com fatos, histórico e dicas de interação.",
+          "source": {
+            "label": "Wired · 5 out",
+            "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/"
+          }
+        },
+        {
+          "title": "O agente saiu do terminal",
+          "body": "Agentes descobrindo materiais, memória virando feature de plataforma, texto de IA marcado na Europa e big techs disputando cada ponto de share do Claude dentro de casa. A leitura da edição: o agente deixou de ser ferramenta de terminal e passou a atuar em ciência, mercado e regulação."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-05",
       "date": "2026-10-05",
       "hook": "A skill virou fábrica de produto",
