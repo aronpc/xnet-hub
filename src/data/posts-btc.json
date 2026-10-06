@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-06-03h33",
+      "date": "2026-10-06",
+      "time": "03h33",
+      "hook": "O bitcoin passou a madrugada caindo devagar: três fechamentos de hora em sequência deixaram o preço em 85.241, colado na linha de 85 mil que segura o dia desde ontem. O termômetro de humor segue em ganância (73). O mercado ainda aposta alto num preço que só desce.",
+      "caption": "Depois de um dia preso entre 85 e 87 mil, a leitura das 3h33 passa a ser de baixa enquanto 85,6 mil não voltar.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-06-03h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-06-03h33",
+      "slides": [
+        {
+          "title": "BTC US$ 85.241 · o viés virou para baixo na madrugada",
+          "body": "Depois de um dia preso entre 85 e 87 mil, a leitura das 3h33 passa a ser de baixa enquanto 85,6 mil não voltar."
+        },
+        {
+          "title": "US$ 85.241",
+          "body": "Δ1h -0,5% · Δ24h -0,7% · vol $27,6bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no terço inferior do canal do dia, cedendo com volume fraco (0,6× a média) · smart money: funding +0,001% e long/short 1,08, posições equilibradas",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "85 mil sob teste, 85,6 mil vira o jogo",
+          "body": "Abaixo de 85 mil, a referência passa a ser 84,5 mil · de volta a 85,65 mil, a queda perde força e o range da noite retorna",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Desde a virada do dia o preço está encostado em 85 mil. Na hora em que essa linha ceder ou o preço rebater, a leitura chega aqui."
+        }
+      ]
+    },
+    {
       "id": "2026-10-05-13h54",
       "date": "2026-10-05",
       "time": "13h54",
