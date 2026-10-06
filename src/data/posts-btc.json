@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-06-05h33",
+      "date": "2026-10-06",
+      "time": "05h33",
+      "hook": "Há duas horas o preço encostava em 85 mil e a leitura era de queda. A madrugada respondeu: em vez de ceder, o bitcoin devolveu o caminho e voltou a 85,8 mil, de novo no meio do corredor entre 85 e 87 mil. O dia volta a ser de espera.",
+      "caption": "Depois de encostar em 85 mil, o preço retomou o centro da faixa do dia. A leitura das 5h33 volta a ser de espera entre 84,9 e 86,8 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-06-05h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-06-05h33",
+      "slides": [
+        {
+          "title": "BTC US$ 85.843 · a madrugada devolveu a queda",
+          "body": "Depois de encostar em 85 mil, o preço retomou o centro da faixa do dia. A leitura das 5h33 volta a ser de espera entre 84,9 e 86,8 mil."
+        },
+        {
+          "title": "US$ 85.843",
+          "body": "Δ1h +0,6% · Δ24h -0,6% · vol $27,2bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço de volta ao centro do canal do dia, sem convicção para nenhum dos lados · smart money: funding -0,003% e long/short 1,12 (53% long)",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "86 mil decide o próximo passo",
+          "body": "Acima de 86 mil com volume, mira 86,8 mil (máx do dia) · abaixo de 85,5 mil, a referência desce para 84,4 mil",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O preço voltou ao centro da faixa e o dia virou uma espera por 86 mil. Quando o corredor ceder para qualquer um dos lados, a leitura chega aqui."
+        }
+      ]
+    },
+    {
       "id": "2026-10-06-03h33",
       "date": "2026-10-06",
       "time": "03h33",
