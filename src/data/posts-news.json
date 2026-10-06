@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-06",
+      "date": "2026-10-06",
+      "hook": "A semana da infra de agentes",
+      "caption": "Edição de 6 de outubro. Memória self-hosted, fila de commits para vários agentes na mesma árvore, um jeito de cortar 98% do contexto gasto com output de tool e até um computador de 3.499 dólares feito para deixar o agente ligado 24 horas. Oito projetos.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-06",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-06",
+      "slides": [
+        {
+          "title": "A semana da infra de agentes",
+          "body": "Edição de 6 de outubro. Memória self-hosted, fila de commits para vários agentes na mesma árvore, um jeito de cortar 98% do contexto gasto com output de tool e até um computador de 3.499 dólares feito para deixar o agente ligado 24 horas. Oito projetos."
+        },
+        {
+          "title": "Ghost: computador de US$ 3.499 só para agentes",
+          "body": "Startup fundada por um adolescente de 19 anos saiu do stealth com 11 milhões de dólares para fabricar um computador dedicado a rodar agentes pessoais 24 horas por dia, com GPU RTX Pro 4000 SFF Blackwell.",
+          "source": {
+            "label": "TechCrunch · 5 out",
+            "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/"
+          }
+        },
+        {
+          "title": "Era: empresas inteiras simuladas para treinar agentes",
+          "body": "O projeto monta companhias simuladas completas, com pessoas, sistemas, e-mail e ferramentas, para os seus agentes operarem dentro. É sandbox organizacional, não só de código.",
+          "source": {
+            "label": "Era · Show HN",
+            "url": "https://console.era.eon.io/"
+          }
+        },
+        {
+          "title": "dudulove-memory: identidade de agente na sua própria infra",
+          "body": "Projeto open-source oferece memória persistente de identidade para agentes, com continuidade entre modelos, interfaces e sessões, rodando na infraestrutura de quem usa.",
+          "source": {
+            "label": "GitHub · VITASID57/dudulove-memory",
+            "url": "https://github.com/VITASID57/dudulove-memory"
+          }
+        },
+        {
+          "title": "lithos-metal: kernels de inferência LLM para Apple Silicon",
+          "body": "O projeto da lithos-ai publica kernels de inferência de alta performance e serving para Apple Silicon.",
+          "source": {
+            "label": "GitHub · lithos-ai/lithos-metal",
+            "url": "https://github.com/lithos-ai/lithos-metal"
+          }
+        },
+        {
+          "title": "self-bench: coding agents avaliados em software de verdade",
+          "body": "Framework do mupt-ai para avaliar coding agents em tarefas de software do mundo real colhidas de Show HN, em vez de puzzles sintéticos.",
+          "source": {
+            "label": "GitHub · mupt-ai/self-bench",
+            "url": "https://github.com/mupt-ai/self-bench"
+          }
+        },
+        {
+          "title": "Orcah Studio: busca conversacional dentro dos seus vídeos",
+          "body": "Agente de vídeo que roda local e permite buscar e conversar sobre o conteúdo dos vídeos do usuário, sem subir nada para nuvem.",
+          "source": {
+            "label": "Show HN · Orcah",
+            "url": "https://news.ycombinator.com/item?id=49970078"
+          }
+        },
+        {
+          "title": "wombat-gate: fila de commits para muitos agentes numa árvore só",
+          "body": "Um por vez pela toca. O projeto serializa os commits git de múltiplos agentes que compartilham a mesma working tree, com locking cooperativo no ponto exato do atrito.",
+          "source": {
+            "label": "GitHub · liyifreddy/wombat-gate",
+            "url": "https://github.com/liyifreddy/wombat-gate"
+          }
+        },
+        {
+          "title": "context-mode: sandbox do output de tools corta 98% do contexto",
+          "body": "Otimização de janela de contexto para coding agents: isola o output de tools com redução de cerca de 98%, persiste entre sessões e resume sob demanda.",
+          "source": {
+            "label": "GitHub · zademy/context-mode",
+            "url": "https://github.com/zademy/context-mode"
+          }
+        },
+        {
+          "title": "Infra de agentes virou produto por conta própria",
+          "body": "Memória self-hosted, coordenação git multi-agente e economia de contexto dominam os lançamentos da janela. O agente sempre ligado ganhou até computador dedicado. Os problemas que ontem eram remendo caseiro de quem roda agentes em produção viraram projeto aberto com estrelas."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-06",
       "date": "2026-10-06",
       "hook": "Agentes fazendo ciência e guerra aberta pelo Claude",
