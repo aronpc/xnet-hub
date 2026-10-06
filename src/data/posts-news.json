@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-06",
+      "date": "2026-10-06",
+      "hook": "Claude Code vira API observável e governança vira skill",
+      "caption": "Edição de 6 de outubro. O Claude Code passou a expor as tool calls do servidor e o id do subagente nos hooks, o DeepSeek Harness ganhou kit oficial de skills e a onda da semana é governança: credencial sem vazamento, detecção de autoria de IA e playbook de liderança de enxame. Oito histórias.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-06",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-06",
+      "slides": [
+        {
+          "title": "Claude Code vira API observável e governança vira skill",
+          "body": "Edição de 6 de outubro. O Claude Code passou a expor as tool calls do servidor e o id do subagente nos hooks, o DeepSeek Harness ganhou kit oficial de skills e a onda da semana é governança: credencial sem vazamento, detecção de autoria de IA e playbook de liderança de enxame. Oito histórias."
+        },
+        {
+          "title": "Mods enxergam as tool calls do servidor; hooks distinguem subagentes",
+          "body": "A versão 2.1.290 adiciona serverToolUses ao hook turn.step dos mods, ou seja, as tool calls que a API roda por conta própria. Também entram agentId no evento tool.check para separar subagente de sessão principal, ceiling de aprovação organizacional e temas para plugins. A 2.1.291 corrige regressões de sessão cloud e perda das últimas mensagens.",
+          "source": {
+            "label": "GitHub · releases",
+            "url": "https://github.com/anthropics/claude-code/releases"
+          }
+        },
+        {
+          "title": "DeepSeek Harness ganha kit oficial de plugins e skills",
+          "body": "O repositório oficial do kit de desenvolvimento para o DSH já passa de 20 estrelas em 48 horas, com contratos de runtime documentados. No mesmo período surgiram plugins como o dsh-thinking-breaker, que corta loops de raciocínio descontrolado.",
+          "source": {
+            "label": "GitHub · realchendahuang/dsh-skill",
+            "url": "https://github.com/realchendahuang/dsh-skill"
+          }
+        },
+        {
+          "title": "Flash-Agents: o DSH exposto como MCP server para o Claude",
+          "body": "O projeto transforma o DeepSeek Harness num MCP server que o Claude Code consome. Os agentes do DeepSeek viram tools do Claude.",
+          "source": {
+            "label": "GitHub · tomw1808/flash-agents",
+            "url": "https://github.com/tomw1808/flash-agents"
+          }
+        },
+        {
+          "title": "absent-author: skill que aponta texto escrito por IA",
+          "body": "Repositório com lista de evidências e agent skills para detectar texto de IA. O lema resume: a escrita pode ser automatizada, a autoria, não. Cerca de 25 estrelas em 48 horas, o maior da janela.",
+          "source": {
+            "label": "GitHub · THUROI0787/absent-author",
+            "url": "https://github.com/THUROI0787/absent-author"
+          }
+        },
+        {
+          "title": "credential-paster: chave de API colada sem passar pelo agente",
+          "body": "Skill com CLI para colar chaves de API em arquivos de config sem expor o segredo ao agente, ao histórico do shell ou ao transcript da sessão.",
+          "source": {
+            "label": "GitHub · timarnoldev/credential-paster",
+            "url": "https://github.com/timarnoldev/credential-paster"
+          }
+        },
+        {
+          "title": "Telemetria de MCP servers vira produto",
+          "body": "Post técnico narra a construção de analytics para MCP servers em estilo 8-bit: quais tools são chamadas, latência e adoção.",
+          "source": {
+            "label": "lucasheriques.github.io",
+            "url": "https://lucasheriques.github.io/mcp-analytics/"
+          }
+        },
+        {
+          "title": "agent-team-lead: playbook de PM para liderar coding agents",
+          "body": "Skill para Claude Code com playbook de PM agnóstico de domínio para workspaces com worktrees: divisão de tarefas, gates e revisão.",
+          "source": {
+            "label": "GitHub · kubilaygulacdi/agent-team-lead",
+            "url": "https://github.com/kubilaygulacdi/agent-team-lead"
+          }
+        },
+        {
+          "title": "Plano revisado por subagente adversário antes de implementar",
+          "body": "A skill plan-harden-loop submete todo plano a revisão adversarial por subagente antes da execução, catalogando as falhas encontradas na fase mais barata de corrigir.",
+          "source": {
+            "label": "GitHub · Joshua-Scarle",
+            "url": "https://github.com/Joshua-Scarle/Claude-code-plan-harden-loop-skill"
+          }
+        },
+        {
+          "title": "Governança saiu do documento e virou skill",
+          "body": "Hook expõe o que o servidor roda, credencial chega ao arquivo sem passar pelo modelo, autoria de IA ganha detector e liderança de enxame tem playbook instalável. O Claude Code virou plataforma observável e o ecossistema respondeu transformando governança em artefato portátil."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-06",
       "date": "2026-10-06",
       "hook": "A semana da infra de agentes",
