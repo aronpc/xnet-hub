@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-06-13h31",
+      "date": "2026-10-06",
+      "time": "13h31",
+      "hook": "O roteiro do dia: mínima de 85,2 mil na madrugada, passagem pelos 86 mil de manhã cedo, topo em 86,2 mil ao meio-dia. E agora, 85,7 mil. A alta que parecia engrenar ficou pelo caminho, e o posicionamento inverteu: a maioria das contas, compradora pela manhã, hoje aposta na queda.",
+      "caption": "Barrado no topo, o preço atravessou os 86 mil de volta e apagou o ganho da manhã. A leitura das 13h31 é de espera, com a faixa do dia entre 85,1 e 86,7 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-06-13h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-06-13h31",
+      "slides": [
+        {
+          "title": "BTC US$ 85.735 · a alta da manhã não passou do meio-dia",
+          "body": "Barrado no topo, o preço atravessou os 86 mil de volta e apagou o ganho da manhã. A leitura das 13h31 é de espera, com a faixa do dia entre 85,1 e 86,7 mil."
+        },
+        {
+          "title": "US$ 85.735",
+          "body": "Δ1h -0,5% · Δ24h +0,6% · vol $26,8bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Tentativa de alta barrada ao meio-dia, preço de volta ao meio da faixa (85,1k a 86,7k) · smart money: funding +0,001% e long/short 0,92, com 52% das contas short coladas no suporte",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "As duas pontas da faixa estão a menos de 1%",
+          "body": "Acima de 86.000 (+0,3%), reteste do topo de 24h (86.700). Abaixo de 85.100 (-0,7%), a faixa se rompe e o próximo número é 84.000",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O preço correu o dia inteiro e continua dentro da mesma faixa. Na hora em que uma das pontas ceder, a leitura chega aqui, de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-10-06-07h32",
       "date": "2026-10-06",
       "time": "07h32",
