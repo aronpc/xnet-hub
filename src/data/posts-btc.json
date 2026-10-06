@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-06-07h32",
+      "date": "2026-10-06",
+      "time": "07h32",
+      "hook": "O post das 5h33 dizia que 86 mil decidia o dia. Decidiu: o preço atravessou o nível e negocia a 86,1 mil, a 0,8% do teto das últimas 24 horas. O sentimento acompanhou e subiu pra zona de ganância, em 73.",
+      "caption": "O preço cruzou os 86 mil e a leitura virou pra alta pela primeira vez no dia. O máximo de 24h, 86,8 mil, agora está a menos de 1%.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-06-07h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-06-07h32",
+      "slides": [
+        {
+          "title": "BTC US$ 86.101 · acima dos 86 mil, de frente pro teto de 24h",
+          "body": "O preço cruzou os 86 mil e a leitura virou pra alta pela primeira vez no dia. O máximo de 24h, 86,8 mil, agora está a menos de 1%."
+        },
+        {
+          "title": "US$ 86.101",
+          "body": "Δ1h +0,3% · Δ24h +0,1% · vol $27,3bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Subiu e segurou acima de 86 mil, sem pressa · smart money: funding -0,003%, com quem está vendido pagando pra sustentar a posição, e long/short 1,07 (52% long)",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "O dia agora se decide entre 86.500 e 86.800",
+          "body": "Passar de 86.500 com volume encosta no máximo de 24h (86.800) · recuar sob 86.000 devolve o piso de 84.900 (-1,4%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Depois de uma madrugada de ida e volta, o preço chegou exatamente onde o dia decidia. A leitura técnica segue atualizando de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-10-06-05h33",
       "date": "2026-10-06",
       "time": "05h33",
