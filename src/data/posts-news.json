@@ -2,6 +2,59 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-07",
+      "date": "2026-10-07",
+      "hook": "O agente ganhou computador, e-mail e telefone",
+      "caption": "Edição de 7 de outubro. O repo mais estrelado das últimas 48 horas monta um time de bots em que cada um tem máquina, inbox e número próprios, o red team agentic captou US$ 40 milhões e o gerador de vídeo Kling escolheu bancos para o IPO. Seis histórias.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-07",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-07",
+      "slides": [
+        {
+          "title": "O agente ganhou computador, e-mail e telefone",
+          "body": "Edição de 7 de outubro. O repo mais estrelado das últimas 48 horas monta um time de bots em que cada um tem máquina, inbox e número próprios, o red team agentic captou US$ 40 milhões e o gerador de vídeo Kling escolheu bancos para o IPO. Seis histórias."
+        },
+        {
+          "title": "bops: cada bot com máquina, e-mail e telefone",
+          "body": "Lançado no dia 6, o repo virou o mais estrelado das últimas 48 horas no GitHub. É uma equipe de agentes que roda operações completas de negócio, cada bot com computador, caixa de entrada e número de telefone dedicados.",
+          "source": "github.com/nickvasilescu/bops"
+        },
+        {
+          "title": "Hadrian captura US$ 40M para pentestar com agentes",
+          "body": "A Hadrian, de Amsterdã, vende segurança ofensiva contínua feita por agentes de IA. A rodada de US$ 40 milhões, co-liderada pela Forgepoint, paga a escala do serviço.",
+          "source": {
+            "label": "tech.eu · 6 out",
+            "url": "https://tech.eu/2026/10/06/hadrian-raises-40m-to-tackle-ai-driven-cyber-threats/"
+          }
+        },
+        {
+          "title": "Kling escolhe bancos para IPO acima de US$ 1 bi",
+          "body": "O gerador de vídeo do grupo Kuaishou definiu os bancos que vão liderar um IPO em Hong Kong buscando mais de US$ 1 bilhão, com estreia prevista para 2027.",
+          "source": {
+            "label": "Bloomberg · 6 out",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-06/china-ai-video-startup-kling-picks-banks-for-1-billion-plus-ipo"
+          }
+        },
+        {
+          "title": "Claude Code e Codex no mesmo meeting room",
+          "body": "O projeto orquestra sessões em que Claude Code e Codex CLI planejam, constroem e revisam código em conjunto, com o usuário aprovando cada passo. O autor chama de sua empresa de IA no Mac.",
+          "source": "github.com/sojei1989/ai-meeting-room"
+        },
+        {
+          "title": "Agente no iPhone operado por mouse e teclado físicos",
+          "body": "O phone-agent junta um app iOS a um firmware de ESP32-S3: o agente controla o celular por mouse e teclado Bluetooth de verdade, com GPIO48 para RGB.",
+          "source": "github.com/boboabw/phone-agent"
+        },
+        {
+          "title": "Tallyo: faturamento open source com IA embutida",
+          "body": "Sistema de invoicing para freelancer e pequeno negócio em Next.js 16, MongoDB e Better Auth, com IA cuidando das rotinas financeiras.",
+          "source": "github.com/AkaAbdullah/Tallyo"
+        },
+        {
+          "title": "O agente com infra própria vira padrão",
+          "body": "Bot com telefone, comitê local com humano aprovando e pentest como serviço. A leitura da edição: o agente saiu do processo em nuvem e ganhou corpo, chip e verba de segurança."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-07",
       "date": "2026-10-07",
       "hook": "A fronteira ficou barata e o agente virou alvo",
