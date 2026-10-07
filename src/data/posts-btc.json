@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-07-11h31",
+      "date": "2026-10-07",
+      "time": "11h31",
+      "hook": "O índice de medo e ganância marcou 71 hoje, zona de ganância. O preço foi para o outro lado: mínimo novo do dia, abaixo de 83 mil, com recuo de 3,5% nas últimas 24 horas.",
+      "caption": "Leitura das 11h31, horário de Brasília.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-07-11h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-07-11h31",
+      "slides": [
+        {
+          "title": "BTC US$ 83.041 · clima de otimismo convive com um dia de queda",
+          "body": "Leitura das 11h31, horário de Brasília."
+        },
+        {
+          "title": "US$ 83.041",
+          "body": "Δ1h -0,3% · Δ24h -3,5% · volume 24h: US$ 38,1 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Nove fechamentos de 1h descendentes, um atrás do outro · a pressão não acelera (última vela com 0,6x o volume típico), mas o repique também não aparece · funding neutro",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "As referências do dia desceram junto",
+          "body": "Mínimo 24h em 82.787, a 0,3% do preço · referência de recuperação em 83,5 mil, a 0,6% · uma hora abaixo de 82,8 mil e o foco muda para 82,3 mil",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora. A próxima fica de olho em 82,8 mil."
+        }
+      ]
+    },
+    {
       "id": "2026-10-07-10h31",
       "date": "2026-10-07",
       "time": "10h31",
