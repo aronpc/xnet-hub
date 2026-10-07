@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-07-10h31",
+      "date": "2026-10-07",
+      "time": "10h31",
+      "hook": "A noite de ontem tirou o preço da faixa dos 85 mil. A manhã podia ter devolvido alguma coisa, e não devolveu: seis fechamentos de 1h em queda seguidos e um mínimo novo nas últimas 24 horas, em 83,3 mil.",
+      "caption": "O preço passou a manhã colado no mínimo. Leitura das 10h31, horário de Brasília.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-07-10h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-07-10h31",
+      "slides": [
+        {
+          "title": "BTC US$ 83.315 · queda de 3,1% no dia e nenhum rebote até agora",
+          "body": "O preço passou a manhã colado no mínimo. Leitura das 10h31, horário de Brasília."
+        },
+        {
+          "title": "US$ 83.315",
+          "body": "Δ1h -0,2% · Δ24h -3,1% · volume 24h: US$ 36,7 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Seis fechamentos de 1h em queda, um após o outro · funding neutro, e 60% das contas ainda posicionadas para a alta",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "O dia agora referencia 84 mil",
+          "body": "Mínimo das últimas 24h: 83.261, colado no preço. Primeira barreira: 84 mil, a 0,8%. Enquanto o preço ficar no meio disso, a estrutura segue vendedora.",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora. A próxima fica de olho em 84 mil."
+        }
+      ]
+    },
+    {
       "id": "2026-10-06-23h34",
       "date": "2026-10-06",
       "time": "23h34",
