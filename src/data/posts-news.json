@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-07",
+      "date": "2026-10-07",
+      "hook": "A fronteira ficou barata e o agente virou alvo",
+      "caption": "Edição de 7 de outubro. A Mistral pôs um modelo de 1 trilhão de parâmetros na fronteira cobrando bem menos que o Gemini e o GPT, a Anthropic abriu seus modelos de segurança em três níveis e o assistente hackeado da Asos derrubou a ação da empresa. Sete histórias.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-07",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-07",
+      "slides": [
+        {
+          "title": "A fronteira ficou barata e o agente virou alvo",
+          "body": "Edição de 7 de outubro. A Mistral pôs um modelo de 1 trilhão de parâmetros na fronteira cobrando bem menos que o Gemini e o GPT, a Anthropic abriu seus modelos de segurança em três níveis e o assistente hackeado da Asos derrubou a ação da empresa. Sete histórias."
+        },
+        {
+          "title": "Mistral Large 4: 1 trilhão de parâmetros a US$ 1,36",
+          "body": "O preview do Large 4 tem 1,05 trilhão de parâmetros, com 49 bilhões ativos por token, contexto de 1 milhão e mais de 160 idiomas. Foi treinado do zero em 3.800 GPUs Grace Blackwell em datacenters próprios na Europa. Cobra US$ 1,36 por milhão de tokens de entrada e US$ 4,18 de saída, contra US$ 2 e US$ 10 do Gemini 4 Argon e do GPT-6.1 Sol. No Cybench, 93%.",
+          "source": {
+            "label": "mistral.ai · 6 out",
+            "url": "https://mistral.ai/news/mistral-large-4/"
+          }
+        },
+        {
+          "title": "Anthropic abre três níveis de acesso ofensivo",
+          "body": "O Cyber Verification Program incorporou o Project Glasswing e passou a oferecer três tiers dos modelos mais capazes para trabalho ofensivo de segurança. Entre abril e outubro a empresa diz ter verificado 5.500 vulnerabilidades, e parceiros do Glasswing encontraram mais de 129 mil.",
+          "source": {
+            "label": "anthropic.com · 6 out",
+            "url": "https://www.anthropic.com/news/cyber-verification-program"
+          }
+        },
+        {
+          "title": "Um ano de Claude Team de graça para startup nova",
+          "body": "No SF Tech Week, a Anthropic ampliou o Claude for Startups: um ano do plano Team sem custo, com até 5 assentos premium, acesso ao Claude Marketplace, office hours com o Applied AI e US$ 45 mil em créditos e descontos no Startup Stack. Entra quem foi fundado nos últimos 5 anos ou financiado nos últimos 2.",
+          "source": {
+            "label": "CNBC · 6 out",
+            "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html"
+          }
+        },
+        {
+          "title": "O robots.txt dos agentes de compra",
+          "body": "Meta, Walmart, Shopify, Stripe, Instinct e Sierra publicaram o Personal Agent Protocol, para padronizar como um negócio recebe e atende os bots de compra dos usuários: identidade, permissões e checkout.",
+          "source": {
+            "label": "CNBC · 6 out",
+            "url": "https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html"
+          }
+        },
+        {
+          "title": "740M de parâmetros para buscar em código, vídeo e áudio",
+          "body": "O Google DeepMind lançou o EmbeddingGemma 2, com 740 milhões de parâmetros, que mapeia código, imagens, vídeo e áudio num único espaço de embedding.",
+          "source": {
+            "label": "blog.google · 6 out",
+            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/"
+          }
+        },
+        {
+          "title": "GLM 5.3 no Bedrock, e o ataque prometido não veio",
+          "body": "O GLM 5.3 foi adicionado ao Amazon Bedrock. No mesmo dia, uma análise do Interconnects mostra que o release aberto ainda não gerou ataques relevantes, apesar dos avisos da Anthropic sobre capacidade cyber de nível Mythos.",
+          "source": {
+            "label": "interconnects.ai · 6 out",
+            "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken"
+          }
+        },
+        {
+          "title": "Assistente hackeado derruba ação da Asos em 10%",
+          "body": "Usuários do app da Asos receberam notificações com a frase we have fully compromised the Snoo, o assistente agentic da varejista. A ação caiu mais de 10% naquele dia, segundo o Financial Times.",
+          "source": {
+            "label": "FT · 6 out",
+            "url": "https://www.ft.com/content/eab7052d-6640-4928-a128-8df73455ba0a"
+          }
+        },
+        {
+          "title": "Preço na fronteira, regra no ecossistema",
+          "body": "Fronteira a US$ 1,36 por milhão de tokens, acesso ofensivo com tier e auditoria, protocolo para bot comprar em loja e o primeiro incidente de agente que derrubou ação. A leitura da edição: enquanto o modelo virou commodity de preço, o agente ganhou mercado, regra e risco próprios."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-06",
       "date": "2026-10-06",
       "hook": "Claude Code vira API observável e governança vira skill",
