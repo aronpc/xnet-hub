@@ -2,6 +2,70 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-07",
+      "date": "2026-10-07",
+      "hook": "Claude Code vira plataforma de mods",
+      "caption": "Edição de 7 de outubro. O Claude Code ganhou autocomplete e cache de prompt para plugins, uma fazenda de skills enterprise publicou quinze repos de uma vez e MCP novo passou a vender segurança embutida. Sete histórias.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-07",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-07",
+      "slides": [
+        {
+          "title": "Claude Code vira plataforma de mods",
+          "body": "Edição de 7 de outubro. O Claude Code ganhou autocomplete e cache de prompt para plugins, uma fazenda de skills enterprise publicou quinze repos de uma vez e MCP novo passou a vender segurança embutida. Sete histórias."
+        },
+        {
+          "title": "Autocomplete, cache e effort na v2.1.292",
+          "body": "A release de 6 de outubro traz o parâmetro effort no Agent tool, para escolher o nível de esforço do subagente, a flag --marketplace no plugin install, o evento prompt.autocomplete para mods e caching de prompt no $.model.complete.",
+          "source": {
+            "label": "github.com/anthropics/claude-code · 6 out",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.292"
+          }
+        },
+        {
+          "title": "motionmaxxing: retoque de vídeo de IA até virar filme",
+          "body": "A skill se define como looksmaxxing para motion graphics: ela re-trabalha vídeos gerados por IA até o ponto de parecerem produção cinematográfica.",
+          "source": "github.com/Tejashmakwana/motionmaxxing"
+        },
+        {
+          "title": "Fazenda de skills enterprise solta 15 repos em 48h",
+          "body": "A conta Alpha-Park publicou de uma vez uma família inteira de agent skills para ops: renovação preditiva de estoque, árbitro de reembolso por price-drop, reagendamento FedEx, UPS e DHL, auditor de contratos multimodal e extração de action items integrada ao WeChat Work.",
+          "source": "github.com/Alpha-Park"
+        },
+        {
+          "title": "O cliente real do Claude Code é o modelo",
+          "body": "Análise que chegou ao topo do Hacker News destrincha as mensagens sugeridas do Claude Code: o recurso existe para baratear o loop do modelo, gastando menos tokens do usuário decidindo o próximo passo, e não para ajudar quem digita.",
+          "source": {
+            "label": "zohaib.cc · 6 out",
+            "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature"
+          }
+        },
+        {
+          "title": "MCP de Telegram que filtra o que o agente manda",
+          "body": "Destaque do MCP Market do dia: servidor que liga agentes locais ao Telegram via stdio, com limpeza da saída e allowlist de conversas embutidas.",
+          "source": {
+            "label": "mcpmarket.com · 6 out",
+            "url": "https://mcpmarket.com/daily/top-mcp-server-list-october-6-2026"
+          }
+        },
+        {
+          "title": "Defesa em profundidade para quem expõe MCP",
+          "body": "Threat research da Aviatrix mapeia os riscos reais de deployments MCP e recomenda segmentação de rede para prender a conectividade dos agentes aos endpoints aprovados.",
+          "source": {
+            "label": "aviatrix.ai · 6 out",
+            "url": "https://aviatrix.ai/threat-research-center/mcp-servers-security-analysis-2026-jungle-15465/"
+          }
+        },
+        {
+          "title": "Skills de utilidade doméstica e de gosto de UI",
+          "body": "A storage-rescue libera storage no Mac com offload verificado para disco externo; a broom-design agrega as skills de design mais populares para coding agents.",
+          "source": "github.com/Da7-Tech/storage-rescue"
+        },
+        {
+          "title": "A skill deixou de ser artefato de artesão",
+          "body": "Plataforma com autocomplete e cache para mods, quinze skills saindo da esteira, segurança vendida como padrão e o modelo tratado como cliente. A leitura da edição: o que era script virou produto, e produto virou commodity."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-07",
       "date": "2026-10-07",
       "hook": "O agente ganhou computador, e-mail e telefone",
