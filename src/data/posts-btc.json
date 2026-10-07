@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-06-23h34",
+      "date": "2026-10-06",
+      "time": "23h34",
+      "hook": "O dia inteiro entre 85 e 87 mil, e na noite o preço atravessou tudo isso: 83,8 mil, o mais baixo das últimas 24 horas. O movimento veio com volume três vezes acima do normal da hora.",
+      "caption": "Queda de 1,7% na última hora, até a mínima do dia. O termômetro de humor ainda marcava ganância (71) quando o preço caiu.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-06-23h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-06-23h34",
+      "slides": [
+        {
+          "title": "BTC US$ 83.815 · a noite derrubou o que o dia segurou",
+          "body": "Queda de 1,7% na última hora, até a mínima do dia. O termômetro de humor ainda marcava ganância (71) quando o preço caiu."
+        },
+        {
+          "title": "US$ 83.815",
+          "body": "Δ1h -1,7% · Δ24h -2,1% · volume da hora: $0,15 bi, o triplo da média",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Volume triplo, preço no menor nível de 24h e humor ainda em ganância (71): sobra espaço para o clima esfriar mais · funding -0,003% · 53% das contas apostavam na alta",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "83,6 mil decide a próxima hora",
+          "body": "Uma hora fechada abaixo disso abre caminho a 83,0 mil. Retomar 84,4 mil, o nível perdido à noite, e a recuperação ganha fôlego até 85,3 mil",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O dia mudou de cara em uma noite só. A leitura de hora em hora chega aqui, na primeira hora em que 83,6 mil disser a direção."
+        }
+      ]
+    },
+    {
       "id": "2026-10-06-13h31",
       "date": "2026-10-06",
       "time": "13h31",
