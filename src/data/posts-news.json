@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-08",
+      "date": "2026-10-08",
+      "hook": "A guerra de centavos chegou de vez",
+      "caption": "Edição de 8 de outubro. A Anthropic derrubou o preço do Haiku em até 90%, a OpenAI respondeu colocando o GPT-6 no ChatGPT de todo mundo, e o gasto das empresas em API empatou entre as duas casas. Sete histórias.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-08",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-08",
+      "slides": [
+        {
+          "title": "A guerra de centavos chegou de vez",
+          "body": "Edição de 8 de outubro. A Anthropic derrubou o preço do Haiku em até 90%, a OpenAI respondeu colocando o GPT-6 no ChatGPT de todo mundo, e o gasto das empresas em API empatou entre as duas casas. Sete histórias."
+        },
+        {
+          "title": "Haiku 5.5: o modelo pequeno a centavos",
+          "body": "US$ 0,10 de entrada e US$ 0,50 de saída por milhão de tokens até 100K de contexto, contra US$ 1 e US$ 5 do Haiku 4.5. São 1 milhão de tokens de contexto e, pela primeira vez na linha, effort ajustável. No GDPval-AA v2.1 cravou 1620 pontos, contra 735 do Haiku 4.5 e 1437 do GPT-6 Luna. Vem junto: cache read do Sonnet 5.5 pela metade (US$ 0,20 para US$ 0,10) e crédito mensal de API para assinantes Max e Team.",
+          "source": {
+            "label": "anthropic.com · 7 out",
+            "url": "https://www.anthropic.com/claude-haiku-5-5"
+          }
+        },
+        {
+          "title": "GPT-6 para todo mundo, com interface que vira app",
+          "body": "A OpenAI rolou o GPT-6 no ChatGPT com o Intelligent UI: as respostas chegam com gráficos, botões e formulários em vez de texto puro. Sol alimenta o Chat nos planos pagos, Luna no Free e Go. A história fez 567 pontos no Hacker News em poucas horas.",
+          "source": {
+            "label": "openai.com · 7 out",
+            "url": "https://openai.com/index/gpt-6-for-everyone/"
+          }
+        },
+        {
+          "title": "Gasto em API: OpenAI empata com Anthropic",
+          "body": "Dados do OpenRouter publicados no WSJ mostram o gasto das empresas dividido quase igual entre modelos OpenAI e Anthropic em setembro. Em janeiro, a Anthropic tinha 75% de share. Em paralelo, a The Information revela que a Nvidia preparava uma oferta de última hora pela startup, que preferiu não esperar.",
+          "source": {
+            "label": "WSJ · 8 out",
+            "url": "https://www.wsj.com/tech/ai/the-ai-price-war-is-heating-upand-openai-is-gaining-ground-on-anthropic-48b8525b"
+          }
+        },
+        {
+          "title": "Labs testam se a IA quebra criptografia",
+          "body": "Scott Aaronson relata, com fontes, que labs de IA começaram a testar internamente se seus modelos conseguem quebrar protocolos criptográficos importantes. Vitalik Buterin endossou o alerta e o chamado ao bunker mode da indústria blockchain, com segurança de carteiras podendo cair em meses.",
+          "source": {
+            "label": "scottaaronson.blog · 8 out",
+            "url": "https://scottaaronson.blog/?p=10169"
+          }
+        },
+        {
+          "title": "China: 24 GW de compute rodando e 50 GW em obra",
+          "body": "Levantamento da SemiAnalysis aponta 24 GW operacionais na China e mais 50 GW planejados ou em construção, contra 56 GW operacionais nos Estados Unidos.",
+          "source": {
+            "label": "FT · 8 out",
+            "url": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8f"
+          }
+        },
+        {
+          "title": "Musk vai usar Claude no Grok Bot",
+          "body": "Musk afirmou que o Grok Bot usará o melhor modelo para cada tarefa, incluindo Claude Opus 5.5, MidJourney, Suno e outras APIs líderes, abrindo mão do backend próprio da xAI em parte do produto.",
+          "source": {
+            "label": "The Information · 8 out",
+            "url": "https://www.theinformation.com/briefings/musk-says-spacex-will-sometimes-use-rival-models-power-grok-bot"
+          }
+        },
+        {
+          "title": "Ecosia demite a Mistral e adota pesos abertos",
+          "body": "O buscador alemão usado por serviços de governo trocou a Mistral por modelos open-source, incluindo chineses, citando qualidade decepcionante da fornecedora francesa.",
+          "source": {
+            "label": "Politico · 8 out",
+            "url": "https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/"
+          }
+        },
+        {
+          "title": "Centavos no modelo, bilhões na infraestrutura",
+          "body": "Haiku a US$ 0,10, GPT-6 para todo mundo, share empatado, criptografia no radar dos labs e pesos abertos vencendo na Europa. A leitura da edição: o preço do modelo virou arma de mercado. Quem pode disputar centavos é quem já garantiu chip, energia e dívida."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-07",
       "date": "2026-10-07",
       "hook": "Claude Code vira plataforma de mods",
