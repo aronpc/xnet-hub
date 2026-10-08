@@ -2,6 +2,73 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-08",
+      "date": "2026-10-08",
+      "hook": "Agentes verticais e a nova corrida do compute",
+      "caption": "Edição de 8 de outubro. Um unicórnio open-source de assistentes, agentes financeiros com 150 clientes pagantes, jogos criados por prompt e um Dev Box da Microsoft de US$ 5.999. Sete histórias.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-08",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-08",
+      "slides": [
+        {
+          "title": "Agentes verticais e a nova corrida do compute",
+          "body": "Edição de 8 de outubro. Um unicórnio open-source de assistentes, agentes financeiros com 150 clientes pagantes, jogos criados por prompt e um Dev Box da Microsoft de US$ 5.999. Sete histórias."
+        },
+        {
+          "title": "Nous Research vale US$ 1,2 bi com o agente Hermes",
+          "body": "A casa do agente open-source Hermes, com mais de 22 milhões de downloads desde fevereiro, levou US$ 90 milhões para levar o assistente ao enterprise.",
+          "source": {
+            "label": "WSJ · 7 out",
+            "url": "https://www.wsj.com/pro/venture-capital/nous-research-scores-90-million-to-bring-open-source-ai-assistant-to-enterprises-516f9208"
+          }
+        },
+        {
+          "title": "Turba Labs: dobrar o compute sem novo datacenter",
+          "body": "A startup sai do stealth com quase US$ 52 milhões para otimizar infraestrutura de IA usando digital twins de data centers.",
+          "source": {
+            "label": "WSJ · 8 out",
+            "url": "https://www.wsj.com/pro/venture-capital/this-startup-wants-to-double-the-worlds-computewithout-building-a-single-data-center-f0bf8140"
+          }
+        },
+        {
+          "title": "Stuut: US$ 52,5M para agentes no order-to-cash",
+          "body": "A Stuut automatiza o ciclo order-to-cash corporativo com agentes de IA e fechou Série B de US$ 52,5 milhões liderada pela Insight, US$ 93 milhões no total, com mais de 150 clientes na carteira.",
+          "source": {
+            "label": "SiliconANGLE · 7 out",
+            "url": "https://siliconangle.com/2026/10/07/stuut-cashes-in-on-agentic-order-to-cash-automation-with-52-5m-in-funding/"
+          }
+        },
+        {
+          "title": "Dev Box da Microsoft roda modelos de 120B+ local",
+          "body": "O Surface RTX Spark Dev Box, com 128 GB de memória unificada, sai em novembro por US$ 5.999. O Surface Laptop Ultra chega dia 16 a partir de US$ 2.599.",
+          "source": {
+            "label": "The Verge · 7 out",
+            "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder"
+          }
+        },
+        {
+          "title": "Google Playground: jogos por prompt, sem código",
+          "body": "Plataforma web no-code para criar jogos com prompts de IA, aberta nos Estados Unidos para maiores de 18, movida por Gemini, Nano Banana e Lyria.",
+          "source": {
+            "label": "The Verge · 7 out",
+            "url": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai"
+          }
+        },
+        {
+          "title": "Agent.reviews: ferramentas avaliadas por agentes",
+          "body": "Show HN de um catálogo onde agentes de IA avaliam ferramentas: reviews escritas por IA sobre ferramentas para IA, com 52 pontos na estreia.",
+          "source": "agent.reviews"
+        },
+        {
+          "title": "omo-dori-mode: coding agents comandados pelo chat",
+          "body": "Modo experimental sempre ligado que lança, acompanha e encerra sessões de coding agents a partir de um mensageiro. Foram 54 estrelas no GitHub em 48 horas.",
+          "source": "github.com/sisyphuslabs/omo-dori-mode-experimental"
+        },
+        {
+          "title": "O dinheiro seguiu o agente",
+          "body": "Unicórnio open-source, agentware financeiro com cliente pagante, eficiência de datacenter como produto e orquestração via mensageiro. A leitura da edição: o capital parou de financiar demo e passou a financiar agente com receita. O gargalo migrou do modelo para a infra."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-08",
       "date": "2026-10-08",
       "hook": "A guerra de centavos chegou de vez",
