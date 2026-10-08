@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-08-15h34",
+      "date": "2026-10-08",
+      "time": "15h34",
+      "hook": "BTC US$ 81.339 · depois de um dia no vermelho, uma hora bastou pra devolver quase 1% do preço",
+      "caption": "Leitura das 15h34, horário de Brasília.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-08-15h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-08-15h34",
+      "slides": [
+        {
+          "title": "BTC US$ 81.339 · a tarde começou a devolver a queda",
+          "body": "Leitura das 15h34, horário de Brasília."
+        },
+        {
+          "title": "US$ 81.339",
+          "body": "Δ1h +0,86% · Δ24h -2,35% · volume 24h: US$ 40,7 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A hora forte das 15h tirou o preço da baixa do almoço e a leitura voltou pro neutro · Smart Money: funding +0,0026% e L/S 1,86",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O dia ainda está no vermelho",
+          "body": "A recuperação cobre pouco mais de um terço da queda de 24h · extremos: 80.394, a 1,2% abaixo · 83.606, a 2,8% acima",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora. A próxima conta é se a força da tarde segura até o fim do dia."
+        }
+      ]
+    },
+    {
       "id": "2026-10-08-13h33",
       "date": "2026-10-08",
       "time": "13h33",
