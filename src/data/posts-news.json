@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-08",
+      "date": "2026-10-08",
+      "hook": "Skills viram loja de aplicativos",
+      "caption": "Edição de 8 de outubro. O Claude Code adotou o Haiku 5.5 de fábrica, a Make abriu marketplace de skills, e a semana trouxe board de fundadores simulado, podcast vira artigo e computer use em segundo plano. Oito histórias.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-08",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-08",
+      "slides": [
+        {
+          "title": "Skills viram loja de aplicativos",
+          "body": "Edição de 8 de outubro. O Claude Code adotou o Haiku 5.5 de fábrica, a Make abriu marketplace de skills, e a semana trouxe board de fundadores simulado, podcast vira artigo e computer use em segundo plano. Oito histórias."
+        },
+        {
+          "title": "Haiku 5.5 vira default no Claude Code",
+          "body": "A versão 2.1.293 traz o claude-haiku-5-5 como Haiku default, com 1 milhão de contexto e US$ 0,10/0,50 por Mtok, agentType no payload do subagentStatusLine, isDeferred no registro de tools para mods e a correção do memory leak de conexão MCP HTTP que retinha cada request. A 2.1.294 endurece hooks escritos como instrução, e o sync de skills do claude.ai passa a checar a cada 40 minutos.",
+          "source": "github.com/anthropics/claude-code"
+        },
+        {
+          "title": "Make lança loja de skills com MCP próprio",
+          "body": "A Make abriu skills.make.com com skills que deixam assistentes, Claude incluído, montarem cenários de automação via MCP server oficial da empresa.",
+          "source": "skills.make.com"
+        },
+        {
+          "title": "58 skills prontas para Claude, Codex e Cursor",
+          "body": "Repositório-índice com 58 skills gratuitas prontas para rodar, cobrindo web, slides, vídeos, dados e automação, para os três agentes principais do mercado.",
+          "source": "github.com/mailes/awesome-agent-skills"
+        },
+        {
+          "title": "Um conselho de fundadores simulado em skill",
+          "body": "Onze skills gratuitas que testam um negócio antes do lançamento, simulando um board treinado em Hormozi, Thiel e Jobs. São 85 estrelas em 48 horas.",
+          "source": "github.com/Jakeschincariol/founder-skill"
+        },
+        {
+          "title": "Podcast vira artigo, com anti-slop embutido",
+          "body": "Skill que transforma transcrições de podcasts multi-pessoa em texto pronto: troca de eixo, calibração de nomes, corte de um terço e autocorreção de cheiro de IA. Foram 95 estrelas em 48 horas.",
+          "source": "github.com/orange2ai/podcast-to-article"
+        },
+        {
+          "title": "Computer use em segundo plano, como MCP",
+          "body": "Servidor MCP que dá a qualquer agente uso de computador rodando em background, sem tomar a máquina do usuário na frente.",
+          "source": "github.com/IAmJSD/OpenComputerUse"
+        },
+        {
+          "title": "Conversas e skills portáveis entre quatro agentes",
+          "body": "Migra conversas e armazena skills de forma portável entre WorkBuddy, DSH, CodeBuddy e Claude Code: tentativa de padrão de bagagem entre clientes.",
+          "source": "github.com/FriedOnion2/agent-relay-portable"
+        },
+        {
+          "title": "URL do produto vira filme de lançamento",
+          "body": "Skill que gera vídeo 16:9 a partir da URL do produto: capturas reais de UI, voiceover numa tomada, motion beat-locked, em inglês e coreano.",
+          "source": "github.com/chacha95/demo-video-creator"
+        },
+        {
+          "title": "A skill deixou de ser arquivo",
+          "body": "Marketplace da Make, curadoria tipo npm, boards de decisão e anti-slop embutido. A leitura da edição: skill virou canal de distribuição, com loja, índice e reputação. E o Claude Code que orquestra tudo isso ficou mais barato de operar."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-08",
       "date": "2026-10-08",
       "hook": "Agentes verticais e a nova corrida do compute",
