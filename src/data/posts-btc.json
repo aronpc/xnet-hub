@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-08-04h32",
+      "date": "2026-10-08",
+      "time": "04h32",
+      "hook": "O teste na mínima das últimas 24 horas, na casa de 82,2 mil, não passou: o preço respondeu e voltou ao centro do intervalo. Às 04h32, o Bitcoin negocia a 83,1 mil.",
+      "caption": "Leitura das 04h32, horário de Brasília.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-08-04h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-08-04h32",
+      "slides": [
+        {
+          "title": "BTC US$ 83.102 · mínima testada, preço de volta ao centro",
+          "body": "Leitura das 04h32, horário de Brasília."
+        },
+        {
+          "title": "US$ 83.102",
+          "body": "Δ1h +0,65% · Δ24h -1,38% · volume 24h: US$ 38,0 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A queda da madrugada perdeu força e o preço opera no meio do canal, a 45% do intervalo de 24h · Smart Money: funding +0,0001% e L/S 1,77",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "De volta aos 83 mil, no meio do caminho",
+          "body": "Extremos das últimas 24h: 82.228, a 1,1% abaixo · 84.180, a 1,3% acima",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora. A próxima mostra se a recuperação ganha espaço acima dos 83 mil."
+        }
+      ]
+    },
+    {
       "id": "2026-10-08-02h22",
       "date": "2026-10-08",
       "time": "02h22",
