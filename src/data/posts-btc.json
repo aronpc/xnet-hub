@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-08-12h33",
+      "date": "2026-10-08",
+      "time": "12h33",
+      "hook": "BTC US$ 81.316 · uma hora do almoço apagou 1,5% do preço",
+      "caption": "Leitura das 12h33, horário de Brasília.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-08-12h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-08-12h33",
+      "slides": [
+        {
+          "title": "BTC US$ 81.316 · os 82 mil ficaram para trás",
+          "body": "Leitura das 12h33, horário de Brasília."
+        },
+        {
+          "title": "US$ 81.316",
+          "body": "Δ1h -1,53% · Δ24h -2,26% · volume 24h: US$ 34,3 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço a 4% do intervalo de 24h, praticamente na borda inferior · Smart Money: funding +0,0038% e L/S 1,79",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O intervalo ganhou um extremo novo",
+          "body": "Extremos das últimas 24h: 81.215, a 0,1% abaixo · 83.682, a 2,9% acima",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora. A próxima diz se o preço assenta na casa dos 81 mil ou se a queda ganha fôlego novo."
+        }
+      ]
+    },
+    {
       "id": "2026-10-08-09h32",
       "date": "2026-10-08",
       "time": "09h32",
