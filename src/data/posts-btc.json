@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-08-02h22",
+      "date": "2026-10-08",
+      "time": "02h22",
+      "hook": "O nível de 82,8 mil, que aparecia como piso nas leituras de ontem, cedeu na madrugada: o preço passou por ele e agora negocia rente ao piso novo da faixa, 82,2 mil. Nas últimas 24 horas, recuo de 1,7%.",
+      "caption": "Leitura das 02h22, horário de Brasília.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-08-02h22",
+      "link": "https://xbtc.aronpc.dev/#2026-10-08-02h22",
+      "slides": [
+        {
+          "title": "BTC US$ 82.785 · a madrugada levou o piso de ontem",
+          "body": "Leitura das 02h22, horário de Brasília."
+        },
+        {
+          "title": "US$ 82.785",
+          "body": "Δ1h -0,4% · Δ24h -1,7% · volume 24h: US$ 37,7 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A noite foi de queda lenta e o preço terminou no andar de baixo da faixa · Smart Money: funding +0,0006% e L/S 1,72",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Piso novo em 82,2 mil, a 0,7% do preço",
+          "body": "Faixa das últimas 24h: 82.228 a 84.379 · o teto ficou 1,9% acima",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora. A próxima acompanha o comportamento na região de 82,2 mil."
+        }
+      ]
+    },
+    {
       "id": "2026-10-07-14h31",
       "date": "2026-10-07",
       "time": "14h31",
