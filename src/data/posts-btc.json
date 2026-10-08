@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-08-09h32",
+      "date": "2026-10-08",
+      "time": "09h32",
+      "hook": "O rebote que se formou de madrugada foi devolvido: o preço voltou a rondar a mínima do dia e a leitura agora é de baixa. Às 09h32, o Bitcoin opera a 82,4 mil dólares.",
+      "caption": "Leitura das 09h32, horário de Brasília.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-08-09h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-08-09h32",
+      "slides": [
+        {
+          "title": "BTC US$ 82.398 · a recuperação não passou da madrugada",
+          "body": "Leitura das 09h32, horário de Brasília."
+        },
+        {
+          "title": "US$ 82.398",
+          "body": "Δ1h -0,12% · Δ24h -1,30% · volume 24h: US$ 33,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O preço opera a 12% do intervalo de 24h, encostado na parte de baixo · Smart Money: funding +0,0020% e L/S 1,86",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Todo o dia dentro de 82,2 e 83,7 mil",
+          "body": "Extremos das últimas 24h: 82.228, a 0,2% abaixo · 83.682, a 1,6% acima",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora. A próxima mostra se a mínima do dia segura ou se a pressão vira coisa nova."
+        }
+      ]
+    },
+    {
       "id": "2026-10-08-04h32",
       "date": "2026-10-08",
       "time": "04h32",
