@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-09-15h33",
+      "date": "2026-10-09",
+      "time": "15h33",
+      "hook": "BTC US$ 82,4 mil · a tarde devolveu o que a manhã tinha construído: a faixa dos 82,5 mil cedeu na virada das 15h e o preço parou colado nos 82 mil",
+      "caption": "Leitura das 15h33, horário de Brasília.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-09-15h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-09-15h33",
+      "slides": [
+        {
+          "title": "BTC recua aos 82,4 mil e encosta nos 82 mil",
+          "body": "Leitura das 15h33, horário de Brasília."
+        },
+        {
+          "title": "US$ 82.444",
+          "body": "Δ1h -0,17% · Δ24h +1,23% · volume 24h (Binance): US$ 1,0 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Três fechamentos de 1h em queda (82.746 → 82.718 → 82.492) tiraram a faixa dos 82,5 mil · funding +0,0036% e L/S 1,46, com longs saindo da posição",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A hora dos 82 mil",
+          "body": "Degrau de baixo a 0,5% (82.000) · teto recusado duas vezes hoje a 0,7% (83.000)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, com o 82 mil no radar da tarde."
+        }
+      ]
+    },
+    {
       "id": "2026-10-09-09h33",
       "date": "2026-10-09",
       "time": "09h33",
