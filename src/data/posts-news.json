@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-09",
+      "date": "2026-10-09",
+      "hook": "A OpenAI entregou os agentes. O mercado cobrou a conta.",
+      "caption": "Edição de 9 de outubro. No DevDay, a OpenAI lançou o Dots, agente que nunca desliga, cada um com um computador na nuvem só dele. No dia seguinte, admitiu aos investidores uma receita 20 bilhões de dólares abaixo do que havia sinalizado. Sete histórias.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-09",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-09",
+      "slides": [
+        {
+          "title": "A OpenAI entregou os agentes. O mercado cobrou a conta.",
+          "body": "Edição de 9 de outubro. No DevDay, a OpenAI lançou o Dots, agente que nunca desliga, cada um com um computador na nuvem só dele. No dia seguinte, admitiu aos investidores uma receita 20 bilhões de dólares abaixo do que havia sinalizado. Sete histórias."
+        },
+        {
+          "title": "Dots: o agente da OpenAI que nunca desliga",
+          "body": "Cada Dot roda com o GPT-6 Astra, tem apps conectados e um cloud computer próprio. Começa nos planos Pro e Business Premium, nos mercados elegíveis, fora de Reino Unido e União Europeia. Integração com o Microsoft Agent 365 no plano.",
+          "source": {
+            "label": "openai.com · 7 out",
+            "url": "https://openai.com/index/introducing-dots"
+          }
+        },
+        {
+          "title": "DevDay: 20 lançamentos sobre delegar com controle",
+          "body": "O recap oficial lista mais de 20 anúncios além do Dots: Codex Cloud, Agents API, ChatGPT Space e o GPT-6.1 Sol em destaque, tudo sob o tema de inteligência ativa, com limites claros de controle.",
+          "source": {
+            "label": "openai.com · 7 out",
+            "url": "https://openai.com/index/devday-2026-recap"
+          }
+        },
+        {
+          "title": "Gemini vira um só agente no trabalho",
+          "body": "No Gemini at Work 2026, o Google apresentou o Gemini agent: planeja, delega tarefas e escolhe modelos entre os sistemas da empresa. Os coworker agents ganham Gmail, Calendar e Drive próprios. Quem apresentou foi Thomas Kurian.",
+          "source": {
+            "label": "cloud.google.com · 8 out",
+            "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026"
+          }
+        },
+        {
+          "title": "OpenAI admite receita US$ 20 bi abaixo do sinalizado",
+          "body": "A OpenAI disse a investidores que fechou o trimestre com cerca de US$ 50 bilhões de receita annualizada, US$ 20 bilhões menos do que havia prometido. Ações ligadas a IA caíram com a leitura de desaceleração; o assunto fez 365 pontos no Hacker News.",
+          "source": {
+            "label": "CNBC · 8 out",
+            "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
+          }
+        },
+        {
+          "title": "Agent SDK sai da assinatura, e o cache cai pela metade",
+          "body": "Desde 7 de outubro o Claude Agent SDK não consome mais o limite do plano. Max 5x ganha US$ 100 por mês em créditos de API, Max 20x ganha US$ 200, e Team ganha US$ 20 por assento, somando até US$ 500. No mesmo dia, o cache read do Sonnet 5.5 caiu de US$ 0,20 para US$ 0,10 por milhão de tokens.",
+          "source": {
+            "label": "support.claude.com · 7 out",
+            "url": "https://support.claude.com/en/articles/15036540-use-the-claude-agent-sdk-with-your-claude-plan"
+          }
+        },
+        {
+          "title": "Arena vale US$ 3,1 bi e vai medir alinhamento",
+          "body": "A dona do leaderboard de modelos levantou US$ 200 milhões a uma valuation de US$ 3,1 bilhões, contra US$ 1,7 bilhão em janeiro. No pacote, lança um Alignment Index para ranquear comportamento, não só capacidade.",
+          "source": {
+            "label": "Bloomberg · 8 out",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-08/ai-model-evaluator-arena-valued-at-over-3-billion-in-round"
+          }
+        },
+        {
+          "title": "Um amador acha planeta desconhecido com o Claude Code",
+          "body": "Post no r/ClaudeAI relata a descoberta de um planeta que ninguém conhecia, a partir da análise de dados públicos com o Claude Code. Fez 119 pontos no Hacker News em poucas horas.",
+          "source": {
+            "label": "reddit.com/r/ClaudeAI · 8 out",
+            "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzw8zd/i_think_i_found_a_planet_nobody_knew_existed_i/"
+          }
+        },
+        {
+          "title": "De chat para delegação, com conta a pagar",
+          "body": "Dots, Gemini agent e Agents API apontam para o mesmo lugar: agente sempre ligado, trabalhando sozinho. Na mesma semana, o primeiro sinal de desaceleração da OpenAI e, na outra ponta, o custo de rodar agente caindo com créditos no plano e cache pela metade. A categoria avança; a conta agora é do mercado."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-08",
       "date": "2026-10-08",
       "hook": "Skills viram loja de aplicativos",
