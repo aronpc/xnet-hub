@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-09",
+      "date": "2026-10-09",
+      "hook": "O harness endureceu. O MCP virou canal.",
+      "caption": "Edição de 9 de outubro. O Claude Code ficou fail-closed nos hooks e ganhou protocolo de status no terminal, enquanto o MCP acumula sandbox, registry e servers enterprise no mesmo dia. Oito histórias.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-09",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-09",
+      "slides": [
+        {
+          "title": "O harness endureceu. O MCP virou canal.",
+          "body": "Edição de 9 de outubro. O Claude Code ficou fail-closed nos hooks e ganhou protocolo de status no terminal, enquanto o MCP acumula sandbox, registry e servers enterprise no mesmo dia. Oito histórias."
+        },
+        {
+          "title": "Claude Code: hooks fail-closed e status no terminal",
+          "body": "A v2.1.294 corrigiu hooks escritos como instruções, que deixavam passar o que deviam bloquear. A v2.1.295 adicionou onFailure block, em que hook que falha bloqueia a ação, e o Program Status Protocol (OSC 7501), para o terminal mostrar se o Claude está trabalhando, esperando ou concluído.",
+          "source": {
+            "label": "github.com/anthropics/claude-code · 8 out",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.295"
+          }
+        },
+        {
+          "title": "mcpdelta: um programa isolado por tarefa",
+          "body": "Camada gratuita que fica entre suas apps de IA e os MCP servers, instanciando um programa isolado para cada tarefa. 79 estrelas.",
+          "source": {
+            "label": "github.com/mcpdelta/mcpdelta",
+            "url": "https://github.com/mcpdelta/mcpdelta"
+          }
+        },
+        {
+          "title": "Terse: plugin que corta metade da resposta",
+          "body": "Plugin do Claude Code que reduz à metade o tamanho das respostas removendo filler, sem perder o conteúdo técnico.",
+          "source": {
+            "label": "github.com/lowenbjer/claude-terse",
+            "url": "https://github.com/lowenbjer/claude-terse"
+          }
+        },
+        {
+          "title": "MCP vira canal de distribuição em um só dia",
+          "body": "Em 8 de outubro, a Kion lançou MCP server open source, a ObservePoint liberou server para Claude, Codex e ferramentas Microsoft, e a Tinuiti abriu o Bliss Point, sua inteligência de mídia, para qualquer agente.",
+          "source": {
+            "label": "kion.io · 8 out",
+            "url": "https://kion.io/kion-mcp-server/"
+          }
+        },
+        {
+          "title": "Automattic entra na camada de registry do MCP",
+          "body": "A Automattic publicou o repo oficial do Spacefast MCP, com setup e metadados de registry para construir e compartilhar trabalho de IA.",
+          "source": {
+            "label": "github.com/spacefast/mcp",
+            "url": "https://github.com/spacefast/mcp"
+          }
+        },
+        {
+          "title": "localrouter: modelo local carregado só quando chamado",
+          "body": "MCP server de routing local que carrega modelos de imagem e vídeo da máquina apenas quando chamados, liberando VRAM no resto do tempo.",
+          "source": {
+            "label": "github.com/jayleaton/localrouter",
+            "url": "https://github.com/jayleaton/localrouter"
+          }
+        },
+        {
+          "title": "Skill que resolve uma olimpíada inteira",
+          "body": "A skill MathModel-Copilot, com 41 estrelas, cobre as competições CUMCM, MCM e ICM: interpreta o problema, compara modelos, roda Python, verifica resultados e ajuda a escrever o paper.",
+          "source": {
+            "label": "github.com/Odyphus/MathModel-Copilot",
+            "url": "https://github.com/Odyphus/MathModel-Copilot"
+          }
+        },
+        {
+          "title": "handout-remake: material de aula vira handout de iPad",
+          "body": "Agent Skill para Claude e Codex, com 146 estrelas, que converte materiais de aula em handouts escuros, legíveis e escrevíveis à mão no iPad.",
+          "source": {
+            "label": "github.com/xamjiang/handout-remake",
+            "url": "https://github.com/xamjiang/handout-remake"
+          }
+        },
+        {
+          "title": "A camada parou de crescer em quantidade",
+          "body": "Hooks fail-closed, sandbox por invocação, registry da Automattic e server enterprise como requisito de distribuição. O MCP deixou de crescer só em número de servers e começou a ganhar regra de segurança e canal formal. E a skill madura virou domínio empacotado, com verificação embutida."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-09",
       "date": "2026-10-09",
       "hook": "Docker lançou agente. Meia dúzia quer gerenciar o seu.",
