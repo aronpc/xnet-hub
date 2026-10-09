@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-09",
+      "date": "2026-10-09",
+      "hook": "Docker lançou agente. Meia dúzia quer gerenciar o seu.",
+      "caption": "Edição de 9 de outubro. O Docker publicou seu agente oficial, um compilador TypeScript foi portado para Rust por LLM, e quatro projetos da semana tratam da mesma dor: revisar e controlar coding agents rodando longe de você. Sete histórias.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-09",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-09",
+      "slides": [
+        {
+          "title": "Docker lançou agente. Meia dúzia quer gerenciar o seu.",
+          "body": "Edição de 9 de outubro. O Docker publicou seu agente oficial, um compilador TypeScript foi portado para Rust por LLM, e quatro projetos da semana tratam da mesma dor: revisar e controlar coding agents rodando longe de você. Sete histórias."
+        },
+        {
+          "title": "Docker Agent: agente oficial para containers",
+          "body": "O docker-agent é o agente do próprio Docker para operar e construir com containers. Fez 298 pontos no Hacker News, o maior score de IA da janela.",
+          "source": {
+            "label": "github.com/docker/docker-agent",
+            "url": "https://github.com/docker/docker-agent"
+          }
+        },
+        {
+          "title": "ts-rust: compilador TypeScript em Rust, escrito por LLM",
+          "body": "Projeto do Ping porta compilador, checker e LSP do TypeScript para Rust, com o trabalho feito majoritariamente por LLM. 110 pontos no Hacker News.",
+          "source": {
+            "label": "github.com/pingdotgg/ts-rust",
+            "url": "https://github.com/pingdotgg/ts-rust"
+          }
+        },
+        {
+          "title": "LittleBit: LLM comprimido abaixo de 1 bit",
+          "body": "A Samsung Labs liberou o LittleBit, compressão sub-1-bit de LLMs por fatoração latente, com código aberto. 78 pontos no Hacker News.",
+          "source": {
+            "label": "github.com/SamsungLabs/LittleBit",
+            "url": "https://github.com/SamsungLabs/LittleBit"
+          }
+        },
+        {
+          "title": "Arena de SRE: agentes apagando incêndio no Kubernetes",
+          "body": "A Edge Delta abriu o Project Arena, benchmark que coloca agentes de SRE para operar incidentes reais em clusters Kubernetes.",
+          "source": {
+            "label": "github.com/edgedelta/project-arena",
+            "url": "https://github.com/edgedelta/project-arena"
+          }
+        },
+        {
+          "title": "Pinrail: inbox onde agentes esperam sua aprovação",
+          "body": "App desktop que cria uma fila única de revisão: coding agents pausam e aguardam aprovação humana no inbox antes de seguir em frente.",
+          "source": {
+            "label": "github.com/forgeplane/pinrail",
+            "url": "https://github.com/forgeplane/pinrail"
+          }
+        },
+        {
+          "title": "Pocketty: o SSH que avisa quando o agente trava",
+          "body": "Terminal SSH para iPhone com notificação que dispara quando um agente remoto bloqueia esperando decisão.",
+          "source": {
+            "label": "pocketty.app",
+            "url": "https://pocketty.app/"
+          }
+        },
+        {
+          "title": "gluon: painel de controle para coding agents",
+          "body": "Projeto open source publica plataforma para orquestrar, monitorar e controlar múltiplos coding agents. Tem 39 estrelas por enquanto.",
+          "source": {
+            "label": "github.com/fidipro/gluon",
+            "url": "https://github.com/fidipro/gluon"
+          }
+        },
+        {
+          "title": "O gargalo migrou para a decisão",
+          "body": "Docker empacotando agente próprio, compressão sub-1-bit viabilizando modelo local e quatro projetos sobre o mesmo problema: revisar, avisar e controlar agentes de código. Rodar agente ficou fácil. O difícil agora é decidir o que aprovar, e quando."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-09",
       "date": "2026-10-09",
       "hook": "A OpenAI entregou os agentes. O mercado cobrou a conta.",
