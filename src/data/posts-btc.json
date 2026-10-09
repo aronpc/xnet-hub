@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-09-00h36",
+      "date": "2026-10-09",
+      "time": "00h36",
+      "hook": "BTC US$ 82.167 · depois de uma tarde inteira em 81 e pouco, a noite fez o preço voltar aos 82 mil",
+      "caption": "Primeira leitura de 09/10, às 00h36, horário de Brasília.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-09-00h36",
+      "link": "https://xbtc.aronpc.dev/#2026-10-09-00h36",
+      "slides": [
+        {
+          "title": "BTC US$ 82.167 · noite de recuperação no Bitcoin",
+          "body": "Primeira leitura de 09/10, às 00h36, horário de Brasília."
+        },
+        {
+          "title": "US$ 82.167",
+          "body": "Δ1h +0,38% · Δ24h -0,78% · volume 24h: US$ 42,5 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço a 61% da faixa de 24h (80.394 a 83.283), puxado pra metade de cima, sem convicção pra nenhum lado · Smart Money: funding +0,0064% e L/S 1,88",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "As bordas do dia não mudaram",
+          "body": "80,4 mil a 2,2% abaixo, 83,3 mil a 1,4% acima, e nada de topo novo na madrugada",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora. O teste da manhã é segurar o que a noite construiu."
+        }
+      ]
+    },
+    {
       "id": "2026-10-08-15h34",
       "date": "2026-10-08",
       "time": "15h34",
