@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-09-02h34",
+      "date": "2026-10-09",
+      "time": "02h34",
+      "hook": "BTC US$ 82,3 mil · madrugada calma, resultado claro: o preço subiu devagar até a parte de cima da faixa do dia e a leitura virou alta",
+      "caption": "Leitura das 02h34, horário de Brasília.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-09-02h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-09-02h34",
+      "slides": [
+        {
+          "title": "BTC US$ 82,3 mil · alta na madrugada, sem alarde",
+          "body": "Leitura das 02h34, horário de Brasília."
+        },
+        {
+          "title": "US$ 82.324",
+          "body": "Δ1h +0,04% · Δ24h -0,56% · volume 24h: US$ 40,7 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço a 72% da faixa de 24h (80.394 a 83.283), subiu sem pressa e sem devolver nada · Smart Money: funding +0,0064% e L/S 1,82",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teto do dia está a um passo",
+          "body": "80,4 mil fica a 2,3% e 83,3 mil a apenas 1,2%. O caminho mais curto agora é pra cima",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora. O que falta é pouco: 1,2% até o topo do dia"
+        }
+      ]
+    },
+    {
       "id": "2026-10-09-00h36",
       "date": "2026-10-09",
       "time": "00h36",
