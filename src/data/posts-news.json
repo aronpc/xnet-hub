@@ -2,6 +2,66 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-10",
+      "date": "2026-10-10",
+      "hook": "Projetos e repos · 10 de outubro",
+      "caption": "O dogfooding chegou ao limite: a Prime Intellect reescreveu o próprio produto em Rust usando mais de 2 mil agentes. E a cauda do Hacker News se ocupou de um problema antigo, ver o que o agente está fazendo. Sete pautas além da abertura.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-10",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-10",
+      "slides": [
+        {
+          "title": "Projetos e repos · 10 de outubro",
+          "body": "O dogfooding chegou ao limite: a Prime Intellect reescreveu o próprio produto em Rust usando mais de 2 mil agentes. E a cauda do Hacker News se ocupou de um problema antigo, ver o que o agente está fazendo. Sete pautas além da abertura."
+        },
+        {
+          "title": "2 mil agentes reescrevem o Prime Agent em Rust",
+          "body": "O produto, com 300 mil downloads e 8 trilhões de tokens processados desde agosto, foi reescrito do zero em duas semanas por um swarm de mais de 2 mil agentes rodando em 10 mil sandboxes, queimando 200 bilhões de tokens do endpoint GLM-5.3.",
+          "source": {
+            "label": "Prime Intellect · 9 out",
+            "url": "https://www.primeintellect.ai/blog/prime-agent-rust"
+          }
+        },
+        {
+          "title": "Agentes desenham setas na sua tela",
+          "body": "Show HN com 386 pontos em 17 horas: ferramenta que deixa agentes de IA pintar setas grandes, caixas e texto direto na tela do usuário.",
+          "source": "github.com/franzenzenhofer/big-arrow-on-the-screen"
+        },
+        {
+          "title": "ff-tracking: uma câmera filma a sessão do agente",
+          "body": "Repo com 155 estrelas em 48 horas. Uma câmera virtual grava a tela do agente enquanto um tracker trava em cada glifo, e dois binários ff transformam a sessão inteira em vídeo rastreável.",
+          "source": "github.com/mrsarac/ff-tracking"
+        },
+        {
+          "title": "AI SRE Arena: agentes de plantão sob medida",
+          "body": "A Edge Delta abriu o Project Arena, benchmark para agentes de SRE operando clusters Kubernetes em cenários reais de incidente: runbook, diagnóstico e mitigação.",
+          "source": "github.com/edgedelta/project-arena"
+        },
+        {
+          "title": "Apogee: o assistente da Mozilla, só que local",
+          "body": "Reconstrução do Orbit, assistente de IA do navegador da Mozilla, rodando 100% em máquina local, sem nuvem. Show HN com 64 pontos.",
+          "source": "github.com/darshi1337/apogee"
+        },
+        {
+          "title": "Jevman: modelos de decisão jogam Pac-Man",
+          "body": "A Opper lançou benchmark em que modelos de decisão no estilo Jev, sem passar por texto, jogam Pac-Man. 72 pontos na HN.",
+          "source": "opper.ai/jevman-benchmark"
+        },
+        {
+          "title": "Agente de IA rodando num Nokia 110",
+          "body": "Show HN: desenvolvedor colocou um agente para operar o feature phone mais básico possível, via leitura de tela.",
+          "source": "github.com/anupray95/AI-Agent-on-a-NOKIA"
+        },
+        {
+          "title": "open-slopware: diretório do FOSS que não aderiu à IA",
+          "body": "Diretório no Codeberg lista alternativas a projetos open-source que passaram a usar LLMs. 27 pontos na HN em poucas horas.",
+          "source": "codeberg.org/ethical-foss/open-slopware"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Dois movimentos se cruzam: escala de orquestração, com o swarm de 2 mil agentes reescrevendo um produto real, e transparência, com setas na tela, vídeo da sessão e benchmark de plantão. Quem opera agentes em produção passou a exigir ver o que está acontecendo, e o ecossistema respondeu com ferramenta."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-10",
       "date": "2026-10-10",
       "hook": "Panorama IA · 10 de outubro",
