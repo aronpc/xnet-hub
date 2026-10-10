@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-10-15h35",
+      "date": "2026-10-10",
+      "time": "15h35",
+      "hook": "BTC US$ 82,9 mil · um dia depois de encostar nos 82 mil, o preço girou e voltou ao topo do range do dia, colado no teto de 83 mil",
+      "caption": "Leitura das 15h35, horário de Brasília.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-10-15h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-10-15h35",
+      "slides": [
+        {
+          "title": "BTC gira e sobe ao topo do range do dia",
+          "body": "Leitura das 15h35, horário de Brasília."
+        },
+        {
+          "title": "US$ 82.944",
+          "body": "Δ1h -0,05% · Δ24h +0,6% · volume 24h: US$ 16,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço na parte de cima da range de 24h (82,3 a 83,2 mil), depois de devolver a queda de ontem à tarde · funding +0,00% e L/S 1,52, com 60% das contas em long",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teto de 83 mil, a 0,3%",
+          "body": "Máximo do dia em 83.200; acima disso, 83,5 e 84 mil entram na conversa · degrau de baixo em 82.300, a 0,8%",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, de olho no teto de 83 mil."
+        }
+      ]
+    },
+    {
       "id": "2026-10-09-15h33",
       "date": "2026-10-09",
       "time": "15h33",
