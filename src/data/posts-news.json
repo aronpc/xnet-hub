@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-10",
+      "date": "2026-10-10",
+      "hook": "Skills e MCP · 10 de outubro",
+      "caption": "O Claude Code shipou três releases em 48 horas, com duas mudanças que mexem na orquestração de quem roda agentes em cron. E o MCP ganhou canal de massa: a primeira marca de fast-food do mundo com server oficial. Sete pautas na sequência.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-10",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-10",
+      "slides": [
+        {
+          "title": "Skills e MCP · 10 de outubro",
+          "body": "O Claude Code shipou três releases em 48 horas, com duas mudanças que mexem na orquestração de quem roda agentes em cron. E o MCP ganhou canal de massa: a primeira marca de fast-food do mundo com server oficial. Sete pautas na sequência."
+        },
+        {
+          "title": "Três releases em 48h mudam a orquestração",
+          "body": "As versões 294 a 296 trouxeram autoCompactWindow no frontmatter de subagentes, CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL para fixar um modelo em todos os agentes de workflow, onFailure block para hooks, e o limite de descrição de tools MCP subiu de 2.048 para 4.096 caracteres. O preço de cache read do Sonnet 5.5 caiu pela metade, para 10 centavos por milhão.",
+          "source": "github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+        },
+        {
+          "title": "McDonald's China publica MCP oficial 🇨🇳",
+          "body": "O server mcp.mcd.cn expõe consulta de eventos, cupons e resgate. Junto veio concurso do Dia do Programador 1024 para construir skills em cima, e em 48h surgiram dezenas de repos: mcd-points-butler, mcd-event-radar, mcd-calorie-budget-skill.",
+          "source": "open.mcd.cn"
+        },
+        {
+          "title": "khan-explainer: a caneta desenha, a voz explica",
+          "body": "Skill para Claude Code que gera vídeos no estilo Khan Academy: uma caneta desenha enquanto uma narração explica. 31 estrelas em 48 horas.",
+          "source": "github.com/haiderfarooq3/khan-explainer"
+        },
+        {
+          "title": "research-builder ataca o baseline strawman",
+          "body": "Skill para Claude Code e Codex de pesquisa e escrita de papers com baselines fiéis e experimentação rigorosa. 11 estrelas.",
+          "source": "github.com/qzkinhit/research-builder"
+        },
+        {
+          "title": "Ler o X sem API paga e sem login",
+          "body": "A skill X-Aggregate-Data dá a Claude Code e Codex acesso a tweets, respostas, busca e following, com dados diários agregados em chinês.",
+          "source": "github.com/qianyubtc/X-Aggregate-Data"
+        },
+        {
+          "title": "warehouse-mcp-server: leitura travada por construção",
+          "body": "MCP server de análise sobre SQL warehouse com guarda SELECT-only: a conexão nasce em modo leitura e só consultas permitidas passam.",
+          "source": "github.com/markotalledo/warehouse-mcp-server"
+        },
+        {
+          "title": "Edi Life OS: sua vida exposta via MCP, em casa",
+          "body": "Dashboard de vida self-hosted que embute um MCP server e deixa o agente de IA consumir seus dados pessoais direto, sem nuvem no meio. Show HN com 39 pontos.",
+          "source": "github.com/edrisranjbar/lifeos"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O MCP parou de ser infra de dev tool. Marca de consumo publica server oficial, dashboard de vida pessoal vira endpoint, e o acesso a dado sensível ganha guarda de leitura por construção. No harness, as releases do Claude Code mostram a direção: orquestração mais fina, compactação antes do estouro e falha de hook bloqueando em vez de passando."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-10",
       "date": "2026-10-10",
       "hook": "Projetos e repos · 10 de outubro",
