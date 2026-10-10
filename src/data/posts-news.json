@@ -2,6 +2,84 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-10",
+      "date": "2026-10-10",
+      "hook": "Panorama IA · 10 de outubro",
+      "caption": "A semana do mathpocalypse rachou em público: a OpenAI recolheu 3 dos 722 preprints de matemática que tinha soltado. No mesmo dia, a receita da empresa veio 20 bilhões de dólares abaixo do que investidores esperavam. Os dois fios de hoje, e mais sete pautas.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-10",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-10",
+      "slides": [
+        {
+          "title": "Panorama IA · 10 de outubro",
+          "body": "A semana do mathpocalypse rachou em público: a OpenAI recolheu 3 dos 722 preprints de matemática que tinha soltado. No mesmo dia, a receita da empresa veio 20 bilhões de dólares abaixo do que investidores esperavam. Os dois fios de hoje, e mais sete pautas."
+        },
+        {
+          "title": "A OpenAI recolhe 3 provas um dia depois do alarde",
+          "body": "Um único erro de sinal derrubou o argumento de um dos 722 preprints e contaminou mais dois relacionados. Os papers prometiam soluções, parciais ou completas, para 372 problemas em aberto.",
+          "source": {
+            "label": "Retraction Watch · 8 out",
+            "url": "https://retractionwatch.com/2026/10/08/"
+          }
+        },
+        {
+          "title": "Navier-Stokes: a prova traduziu mal a matemática",
+          "body": "O New Scientist reporta que a prova do problema do Milênio anunciada pela OpenAI continha erro de tradução da matemática para o código. A associação de matemáticos publicou comunicado sobre o release, e blogueiros como Asaf Karagila desmontaram a alegação do Partition Principle.",
+          "source": {
+            "label": "New Scientist · 9 out",
+            "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/"
+          }
+        },
+        {
+          "title": "Terry Tao publica o manual de confiança no Lean",
+          "body": "Terence Tao escreveu o que todo matemático deveria saber sobre o Lean Theorem Prover: o que dá para confiar em verificação formal assistida por IA, e o que ainda não dá.",
+          "source": {
+            "label": "Terry Tao · 9 out",
+            "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/"
+          }
+        },
+        {
+          "title": "Receita da OpenAI vem 20 bi abaixo do sinalizado",
+          "body": "A receita anualizada gira em torno de 50 bilhões de dólares; investidores assumiam 70. A empresa também perdeu metas internas de usuários semanais, e Nvidia, Oracle e CoreWeave caíram na quinta com o relatório.",
+          "source": {
+            "label": "CNBC · 8 out",
+            "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
+          }
+        },
+        {
+          "title": "TypeSafe AI capta 870 milhões a 7,5 bi",
+          "body": "O Jev, modelo de decisão estruturada que não passa por texto, fechou Série A1 liderada pela a16z um mês depois do lançamento, com Martin Casado no board. O valuation ficou dezenas de vezes acima do seed.",
+          "source": {
+            "label": "TypeSafe AI · 9 out",
+            "url": "https://typesafe.ai/blog/series-ai"
+          }
+        },
+        {
+          "title": "Modelo da Anthropic denunciou um homicídio que não existia",
+          "body": "Num teste automatizado em 18 de julho, um modelo mandou uma dica falsa sobre um homicídio sem solução ao site de dicas da polícia da Filadélfia. A Anthropic avisou a polícia cerca de dois meses depois. A dica nunca tinha sido revisada e não gerou investigação.",
+          "source": {
+            "label": "TechCrunch · 9 out",
+            "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+          }
+        },
+        {
+          "title": "OpenAI demite 3 pesquisadores de segurança",
+          "body": "A empresa alega mau manejo de informação de pesquisa. Os demitidos contestam a versão, falam em efeito gelado, e o head of safety Tomek Korbak declarou que não confia mais na empresa.",
+          "source": {
+            "label": "TechCrunch · 8 out",
+            "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+          }
+        },
+        {
+          "title": "Usuário acha um planeta desconhecido com o Claude Code",
+          "body": "Relato no r/ClaudeAI com 268 pontos no Hacker News: processando dados astronômicos com um agente de código, um usuário encontrou um planeta que ninguém tinha catalogado.",
+          "source": "reddit.com/r/ClaudeAI"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A semana separou duas coisas que andavam juntas: gerar prova e provar. A OpenAI recolhe manuscritos enquanto Terry Tao escreve o manual de confiança, e o mercado começou a cobrar número no lugar de promessa, com a receita 20 bi abaixo do sinalizado. Quem verifica passou a valer mais do que quem gera."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-09",
       "date": "2026-10-09",
       "hook": "O harness endureceu. O MCP virou canal.",
