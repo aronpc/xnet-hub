@@ -2,6 +2,64 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-11",
+      "date": "2026-10-11",
+      "hook": "Skills e MCP · 11 de outubro",
+      "caption": "Publicar MCP server ficou caro: uma análise mapeou oito hosts, cada um com seu rulebook, e implementações quebrando em features diferentes. No mercado de skills, as fricções que mais geram repositório novo seguem as mesmas, continuidade de sessão e detecção de slop. E o hackathon do McDonald's já elegeu os formatos que ganham tração. Sete pautas.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-11",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-11",
+      "slides": [
+        {
+          "title": "Skills e MCP · 11 de outubro",
+          "body": "Publicar MCP server ficou caro: uma análise mapeou oito hosts, cada um com seu rulebook, e implementações quebrando em features diferentes. No mercado de skills, as fricções que mais geram repositório novo seguem as mesmas, continuidade de sessão e detecção de slop. E o hackathon do McDonald's já elegeu os formatos que ganham tração. Sete pautas."
+        },
+        {
+          "title": "Nous lança catálogo oficial de plugins do Hermes",
+          "body": "Repositório criado no dia 10: plugins oficiais mantidos pela Nous Research, de Home Assistant a Spotify, a um install do catálogo do Hermes Agent.",
+          "source": "github.com/NousResearch/hermes-official-plugins"
+        },
+        {
+          "title": "Um MCP server, oito rulebooks",
+          "body": "Análise mapeia o que cada host de IA exige de um MCP server e mostra que implementações quebram em features diferentes. Um post independente chega à mesma conclusão comparando Claude Code e Codex lado a lado.",
+          "source": {
+            "label": "pournasserian.com · 10 out",
+            "url": "https://pournasserian.com/writing/what-ai-hosts-require-of-an-mcp-server"
+          }
+        },
+        {
+          "title": "GSD Task Manager: todo-list persistente pro agente",
+          "body": "MCP server que dá ao agente de IA uma task list persistente com priorização.",
+          "source": "github.com/vscarpenter/gsd-task-manager"
+        },
+        {
+          "title": "MAX-DESIGN: skills de UI/UX prontas pro coding agent",
+          "body": "Pacote de skills de design para agentes: design systems, acessibilidade, motion e design review.",
+          "source": "github.com/RealTask/MAX-DESIGN"
+        },
+        {
+          "title": "Genpark audita escopos OAuth de MCPs remotos",
+          "body": "Skill audita permission scopes OAuth 2.1 de servidores MCP remotos e impõe least-privilege com um token vault.",
+          "source": {
+            "label": "GitHub · 10 out",
+            "url": "https://github.com/alphaparkinc/genpark-remote-mcp-oauth-scope-auditor-and-token-vault-skill"
+          }
+        },
+        {
+          "title": "Skill retoma conversas antigas no Claude Code",
+          "body": "A claude-history-session-skill deixa o Claude Code continuar conversas históricas de onde pararam.",
+          "source": "github.com/liangfuz/claude-history-session-skill"
+        },
+        {
+          "title": "Concurso do McDonald's já elegeu seus líderes",
+          "body": "A skill de otimização de cupons sobre o MCP do McDonald's soma 63 estrelas em dias. A entrada rival monta o pedido com comandos git: add coloca no carrinho, push confirma.",
+          "source": "github.com/Ayzzz123/mcd-coupon-strategist"
+        },
+        {
+          "title": "Menos server, mais skill",
+          "body": "Se publicar MCP custa caro por causa da fragmentação de hosts, o mercado reagiu no outro extremo: skill portátil roda em Claude Code, Codex, Cursor, Gemini e Grok sem mudar nada. Continuidade de sessão e detecção de slop seguem as fricções que mais geram repositório novo, e catálogo first-party virou o padrão de organização pra agente open source."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-11",
       "date": "2026-10-11",
       "hook": "Projetos IA · 11 de outubro",
