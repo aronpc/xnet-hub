@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-11",
+      "date": "2026-10-11",
+      "hook": "Projetos IA · 11 de outubro",
+      "caption": "Agentes pessoais viralizaram na via do traga a sua própria nuvem: o talorys explodiu em estrelas rodando na conta Cloudflare do usuário. O maior bloqueio prático do agente, a sessão logada e o 2FA, foi atacado de frente por um relay de navegador. E o resto do dia é verificação externa e memória em arquivo. Sete pautas.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-11",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-11",
+      "slides": [
+        {
+          "title": "Projetos IA · 11 de outubro",
+          "body": "Agentes pessoais viralizaram na via do traga a sua própria nuvem: o talorys explodiu em estrelas rodando na conta Cloudflare do usuário. O maior bloqueio prático do agente, a sessão logada e o 2FA, foi atacado de frente por um relay de navegador. E o resto do dia é verificação externa e memória em arquivo. Sete pautas."
+        },
+        {
+          "title": "talorys: agente pessoal na sua conta Cloudflare",
+          "body": "436 estrelas em cerca de 48 horas. É um agente single-user com chat, memória, tarefas, notas e lembretes agendados. O deploy é um comando npx, não há telemetria e cabe no free tier.",
+          "source": "github.com/rociiu/talorys"
+        },
+        {
+          "title": "agent-chrome-relay: agentes no seu Chrome logado",
+          "body": "204 estrelas. Deixa o agente usar o Chrome autenticado do usuário como ele, em abas de segundo plano. Nasceu do artigo do autor sobre por que agentes não alcançam as ferramentas em que você está logado.",
+          "source": "github.com/aindeev/agent-chrome-relay"
+        },
+        {
+          "title": "500 bilhões de tokens para decompilar um FPS",
+          "body": "Projeto documentado passo a passo decompila um shooter em primeira pessoa usando agentes de IA. O processo consumiu 500 bilhões de tokens.",
+          "source": {
+            "label": "momo5502.com · 9 out",
+            "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/"
+          }
+        },
+        {
+          "title": "Pipeline da comunidade encolhe prova da OpenAI em 25%",
+          "body": "Pipeline de agentes reduziu em 25%, em poucas horas, uma das provas matemáticas do pacote que a OpenAI publicou e depois recolheu.",
+          "source": "github.com/offline-ant/wiggums-proof-loop"
+        },
+        {
+          "title": "slopbench mede o código que agentes desperdiçam",
+          "body": "Cinco tarefas sandboxadas quantificam quanto código inútil agentes LLM produzem, com snapshots semanais e referências contestáveis.",
+          "source": "github.com/DarkHater01/slopbench"
+        },
+        {
+          "title": "IHMT-MEMORY: memória de agente como árvore de arquivos",
+          "body": "Estrutura a memória de longo prazo de coding agents como uma árvore de arquivos plain-text navegável.",
+          "source": "github.com/gonzaroman/IHMT-MEMORY"
+        },
+        {
+          "title": "dudes: daemon em Rust verifica se o agente chegou lá",
+          "body": "Roda Claude Code, Codex e Pi contra metas cuja conclusão o próprio daemon verifica. Inclui uma visualização 3D do escritório dos agentes no navegador.",
+          "source": "github.com/ArcfluxResearch/dudes"
+        },
+        {
+          "title": "Verificar fora, lembrar em arquivo",
+          "body": "A edição inteira aponta pro mesmo lado: daemon que confere meta, benchmark de desperdício, prova encolhida por pipeline externo, memória em árvore plain-text. E o agente pessoal barato de manter chegou pra ficar, nas 436 estrelas do talorys e no relay de navegador autenticado."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-11",
       "date": "2026-10-11",
       "hook": "Panorama IA · 11 de outubro",
