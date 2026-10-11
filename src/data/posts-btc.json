@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-11-13h33",
+      "date": "2026-10-11",
+      "time": "13h33",
+      "hook": "BTC US$ 83,8 mil · depois de 14 horas dentro da mesma faixa, o preço destravou ao meio-dia com volume quase o dobro da média e encostou em 84 mil, a máxima das últimas 24 horas",
+      "caption": "Leitura das 13h33, horário de Brasília.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-11-13h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-11-13h33",
+      "slides": [
+        {
+          "title": "A faixa de 14 horas cedeu ao meio-dia",
+          "body": "Leitura das 13h33, horário de Brasília."
+        },
+        {
+          "title": "US$ 83.821",
+          "body": "Δ1h +0,79% · Δ24h +1,07% · volume 24h: US$ 13,8 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "A vela do meio-dia carregou volume 1,81× a média e passou por cima da faixa · funding +0,0015% e L/S 1,47 (60% long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O topo do dia parou exatamente em 84.000",
+          "body": "Zona de baixo em 83.260 (-0,7%), o antigo topo da faixa · acima de 84 mil (+0,2%), 84,5 e depois 85 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, agora do lado de cima da faixa."
+        }
+      ]
+    },
+    {
       "id": "2026-10-10-15h35",
       "date": "2026-10-10",
       "time": "15h35",
