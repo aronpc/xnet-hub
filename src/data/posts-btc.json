@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-11-16h32",
+      "date": "2026-10-11",
+      "time": "16h32",
+      "hook": "BTC US$ 83,6 mil · a arrancada do meio-dia perdeu força: quatro velas seguidas de recuo devolveram o preço ao campo neutro, e a atenção volta para a linha dos 83,2 mil",
+      "caption": "Leitura das 16h32, horário de Brasília.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-11-16h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-11-16h32",
+      "slides": [
+        {
+          "title": "A arrancada do meio-dia não segurou o topo",
+          "body": "Leitura das 16h32, horário de Brasília."
+        },
+        {
+          "title": "US$ 83.609",
+          "body": "Δ1h -0,22% · Δ24h +0,77% · volume 24h: US$ 15,0 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Quatro closes em queda a 0,26× da média de volume: o mercado digere o impulso, sem pressão vendedora · funding +0,0029% e 58% dos contratos comprados",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teste agora é segurar 83,2 mil",
+          "body": "Acima disso a alta do meio-dia segue de pé; abaixo, vira alarme falso com espaço até 82,8 mil · piso do dia em 83.260 (-0,4%), topo em 84.199 (+0,7%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, agora esperando o preço escolher o lado da faixa."
+        }
+      ]
+    },
+    {
       "id": "2026-10-11-13h33",
       "date": "2026-10-11",
       "time": "13h33",
