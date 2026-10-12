@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-12-10h34",
+      "date": "2026-10-12",
+      "time": "10h34",
+      "hook": "BTC US$ 82,4 mil · o preço atravessou o menor valor do dia e a massa comprada começou a sair: o interesse aberto cai pela terceira hora seguida",
+      "caption": "Primeiro fechamento do dia abaixo de 82,5 mil, na sexta queda horária consecutiva, aponta a leitura das 10h34\n\nLeia: https://xbtc.aronpc.dev/#2026-10-12-10h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-12-10h34",
+      "slides": [
+        {
+          "title": "A base do dia cedeu",
+          "body": "Primeiro fechamento do dia abaixo de 82,5 mil, na sexta queda horária consecutiva, aponta a leitura das 10h34"
+        },
+        {
+          "title": "US$ 82.468",
+          "body": "Δ1h -0,68% · Δ24h -0,66% · vol 24h $24,5bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "58% ainda posicionados na compra e o interesse aberto recua 1,6% em 3h: quem estava dentro está saindo, sem entrada nova no lugar · Smart money: funding +0,007% + L/S 1,38",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "O fechamento decide",
+          "body": "Suporte $82.500 (em teste) · abaixo $82.000 (-0,6%) · Resistência $83.400 (+1,1%) · vela no ritmo médio de volume, sem aceleração",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Do topo à base",
+          "body": "O dia passou de 84,2 mil na madrugada para 82,4 mil agora; a manhã inteira sem direção e a queda veio nas últimas duas horas"
+        }
+      ]
+    },
+    {
       "id": "2026-10-12-09h34",
       "date": "2026-10-12",
       "time": "09h34",
