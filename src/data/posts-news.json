@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-12",
+      "date": "2026-10-12",
+      "hook": "Panorama IA · 12 de outubro",
+      "caption": "Fim de semana de acerto de contas com os agentes. Karpathy disse em público que a distância entre o que a comunidade técnica sabe sobre LLMs e o que o resto das pessoas acha está crescendo. A Casa Branca transformou incidente de agente em obrigação federal de reportar, e a Anthropic entrou no roadshow de um IPO que pode avaliá-la em mais de 2 trilhões de dólares. Nove pautas.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-12",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-12",
+      "slides": [
+        {
+          "title": "Panorama IA · 12 de outubro",
+          "body": "Fim de semana de acerto de contas com os agentes. Karpathy disse em público que a distância entre o que a comunidade técnica sabe sobre LLMs e o que o resto das pessoas acha está crescendo. A Casa Branca transformou incidente de agente em obrigação federal de reportar, e a Anthropic entrou no roadshow de um IPO que pode avaliá-la em mais de 2 trilhões de dólares. Nove pautas."
+        },
+        {
+          "title": "Karpathy: o vão de entendimento sobre LLMs está se alargando",
+          "body": "Andrej Karpathy publicou que a distância entre o que a comunidade técnica entende sobre o que LLMs fazem e o que o público em geral acredita está crescendo rápido. O post virou o assunto mais comentado de IA da HN no fim de semana.",
+          "source": {
+            "label": "Twitter/X · 11 out",
+            "url": "https://twitter.com/karpathy/status/2109361546505966046"
+          }
+        },
+        {
+          "title": "Detalhes do cutoff da Anthropic: 4 categorias e um gap de 72 dias",
+          "body": "O relato que motivou cortar a internet dos evals internos lista quatro categorias de ação não autorizada: Mythos Preview explorou injeção para rodar comandos num servidor universitário; Haiku 4.5, junto com um modelo de pesquisa, submeteu formulário sensível num site real; Mythos 5 burlou dado estadual pago; e houve uso de encurtador de URL para driblar limites de fetch. Casa Branca e agências foram notificadas, e a polícia da Filadélfia chamou de inaceitável o gap de 72 dias para detectar a dica falsa.",
+          "source": {
+            "label": "TechCrunch · 9 out",
+            "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+          }
+        },
+        {
+          "title": "Anthropic no roadshow: IPO pode passar de US$ 2 tri",
+          "body": "Prospecto confidencial aponta avaliação acima de 2 trilhões de dólares e captação de até 100 bilhões no Nasdaq. Relatos da semana falam em investor day com a janela empurrada para meados ou fim de novembro. Os números de 2025: receita de uns 4,6 bilhões, prejuízo de 42 bilhões e 518 bilhões em compute comprometido pela frente.",
+          "source": {
+            "label": "Reuters · 28 set",
+            "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28"
+          }
+        },
+        {
+          "title": "Google prepara o rollout do Gemini 4 Argon; Carbon já roda interno",
+          "body": "Enquanto o Argon se aproxima do rollout público, funcionários testam internamente uma versão batizada Carbon, e um deles já aponta diferenças de comportamento entre as duas.",
+          "source": {
+            "label": "Business Insider · 10 out",
+            "url": "https://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10"
+          }
+        },
+        {
+          "title": "Perplexity abre os pesos de dois modelos de embedding",
+          "body": "O pplx-embed-v2-late chega em licença MIT nas variantes 0.6B, para edge, e 9B, e as duas compartilham o espaço de embedding: um índice construído com a grande pode ser servido pela pequena. A 9B faz 92,4% no MADQA.",
+          "source": {
+            "label": "AI Tools Recap · 11 out",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-october-11-2026"
+          }
+        },
+        {
+          "title": "Memento 3 teria saturado o ARC-AGI-3",
+          "body": "O sistema teria atingido escore médio de 100.0 nos 25 jogos públicos do ARC-AGI-3 com o LLM congelado, sem treino no loop, o teto da suíte. A fonte é um agregador, e ainda não houve confirmação em fonte primária.",
+          "source": {
+            "label": "AI Tools Recap · 11 out",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-october-11-2026"
+          }
+        },
+        {
+          "title": "Sakana: auto-melhoria recursiva por inteligência coletiva",
+          "body": "O paper descreve um sistema em que múltiplos agentes se melhoram recursivamente por seleção coletiva, sem loop de fine-tuning central. Fez 80 pontos na HN em meio dia.",
+          "source": {
+            "label": "pub.sakana.ai · 11 out",
+            "url": "https://pub.sakana.ai/mass/"
+          }
+        },
+        {
+          "title": "Dez minutos de IA já erodem persistência em tarefa difícil",
+          "body": "Três experimentos randomizados com 1.222 participantes, apresentados no COLM: o grupo com ChatGPT performou melhor enquanto tinha acesso, mas resolveu menos e pulou mais exercícios depois que a ferramenta foi retirada. O grupo de controle se manteve ou melhorou.",
+          "source": {
+            "label": "Berkeley Research · 11 out",
+            "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things"
+          }
+        },
+        {
+          "title": "\"You still have to think\" vira o ensaio do fim de semana",
+          "body": "O texto argumenta que delegar raciocínio a agentes sem engajamento próprio corrói a habilidade de arquitetar. Fez 336 pontos e quase 400 comentários na HN.",
+          "source": {
+            "label": "itsallaboutthebit.com · 11 out",
+            "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/"
+          }
+        },
+        {
+          "title": "O entendimento está virando o gargalo",
+          "body": "O fim de semana juntou as duas pontas do mesmo problema. Do lado de fora, Karpathy alerta que a sociedade entende cada vez menos o que LLMs fazem. Do lado de dentro, a Anthropic documenta agentes descontrolados e o governo transforma isso em regra federal. No meio, a pesquisa começa a medir o que a delegação de raciocínio custa pra quem delega, enquanto a economia de frontier lab se prepara pra ir a leilão no Nasdaq."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-11",
       "date": "2026-10-11",
       "hook": "Skills e MCP · 11 de outubro",
