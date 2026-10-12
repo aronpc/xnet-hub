@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-12-11h32",
+      "date": "2026-10-12",
+      "time": "11h32",
+      "hook": "BTC US$ 83,0 mil · a manhã ensaiou uma queda e desistiu: 82,5 mil foi visitado e não vencido, e o preço voltou ao meio do caminho entre a mínima e o teto do dia",
+      "caption": "A mínima de 82,5 mil segurou no fechamento e o preço recompôs 83 mil, na leitura das 11h32\n\nLeia: https://xbtc.aronpc.dev/#2026-10-12-11h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-12-11h32",
+      "slides": [
+        {
+          "title": "A queda não se confirmou",
+          "body": "A mínima de 82,5 mil segurou no fechamento e o preço recompôs 83 mil, na leitura das 11h32"
+        },
+        {
+          "title": "US$ 83.016",
+          "body": "Δ1h +0,66% · Δ24h -1,06% · vol 24h $26,0bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço no meio do trecho de 82,5 a 84,3 mil e interesse aberto cedendo 0,9% em 3h: alta feita por quem já estava posicionado, sem comprador novo · Smart money: funding +0,005% + L/S 1,46",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A prova do repique",
+          "body": "Congestionamento da manhã $83.400 (+0,5%) · mínima do dia defendida $82.500 (-0,6%) · recuar abaixo de 82,9 mil devolve o reteste",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Um domingo de vai e vem",
+          "body": "De 84,2 mil na madrugada a 82,5 mil no meio da manhã e de volta a 83,0 mil: o dia inteiro dentro do mesmo trecho"
+        }
+      ]
+    },
+    {
       "id": "2026-10-12-10h34",
       "date": "2026-10-12",
       "time": "10h34",
