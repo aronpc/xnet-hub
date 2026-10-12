@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-12",
+      "date": "2026-10-12",
+      "hook": "Skills e MCP · 12 de outubro",
+      "caption": "Semana de validação pesada. Linus Torvalds usando Claude Code numa melhoria séria do kernel Linux, e a janela cheia de meta-skills: uma que audita o próprio agente, uma que escreve o mod que a tarefa pede e uma que troca de estratégia quando o fix falha pela terceira vez. Sete pautas.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-12",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-12",
+      "slides": [
+        {
+          "title": "Skills e MCP · 12 de outubro",
+          "body": "Semana de validação pesada. Linus Torvalds usando Claude Code numa melhoria séria do kernel Linux, e a janela cheia de meta-skills: uma que audita o próprio agente, uma que escreve o mod que a tarefa pede e uma que troca de estratégia quando o fix falha pela terceira vez. Sete pautas."
+        },
+        {
+          "title": "Linus Torvalds usa Claude Code no kernel Linux",
+          "body": "O Phoronix reporta que Torvalds está trabalhando numa melhoria de peso do kernel Linux com auxílio do Claude Code.",
+          "source": {
+            "label": "Phoronix · 12 out",
+            "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code"
+          }
+        },
+        {
+          "title": "gravitas: o add-on que faz o agente checar o agente",
+          "body": "Extensão livre para o Antigravity, o IDE agêntico da Google: depois que o agente faz, um passo seguinte fiscaliza o que acabou de ser feito.",
+          "source": {
+            "label": "github.com/Emily2040/gravitas",
+            "url": "https://github.com/Emily2040/gravitas"
+          }
+        },
+        {
+          "title": "look-at-the-frame: a skill do terceiro fix que falha",
+          "body": "A skill dispara quando o Claude já tentou duas ou três versões do mesmo fix sem sucesso. Em vez de variar o fix de novo, ela procura o que mudou no quadro do problema.",
+          "source": {
+            "label": "github.com/rightin2/look-at-the-frame",
+            "url": "https://github.com/rightin2/look-at-the-frame"
+          }
+        },
+        {
+          "title": "givememod: a skill que escreve o próprio mod",
+          "body": "Ela lê a conversa em curso e constrói o mod de Claude Code que a tarefa pede, instalável na hora.",
+          "source": {
+            "label": "github.com/timoncool/givememod",
+            "url": "https://github.com/timoncool/givememod"
+          }
+        },
+        {
+          "title": "stop-describing-ui: a skill que arranca texto explicativo de interfaces",
+          "body": "Skill que remove copy explicativa de UIs, de onboarding a tooltip, atrás de uma opinião forte: interface se explica sozinha.",
+          "source": {
+            "label": "github.com/artouc/stop-describing-ui",
+            "url": "https://github.com/artouc/stop-describing-ui"
+          }
+        },
+        {
+          "title": "Clipe de Valorant + trilha viram montagem editada",
+          "body": "Skill open source do Claude Code que recebe clipes de FPS e uma música e devolve o vídeo editado no ritmo, com timing musical de verdade. O autor é brasileiro.",
+          "source": {
+            "label": "github.com/gustavomenani/editing-gameplay-montages",
+            "url": "https://github.com/gustavomenani/editing-gameplay-montages"
+          }
+        },
+        {
+          "title": "keyless-mcp: um server, várias APIs públicas, zero chaves",
+          "body": "MCP server que agrega um conjunto crescente de APIs públicas gratuitas sem cadastro de chave, com cada tool testada por agente.",
+          "source": {
+            "label": "github.com/sineframe/keyless-mcp",
+            "url": "https://github.com/sineframe/keyless-mcp"
+          }
+        },
+        {
+          "title": "As skills aprenderam a olhar para si mesmas",
+          "body": "As novidades da janela são quase todas autorreferentes: um add-on fiscaliza o agente que trabalha, uma skill detecta o loop de fix repetido e troca de estratégia, outra escreve o próprio mod. O selo de qualidade de tool migrou de documentação para teste executado por agente. E a adesão mais simbólica da categoria veio justamente de quem mais resistia: Torvalds no kernel."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-12",
       "date": "2026-10-12",
       "hook": "Projetos e repos IA · 12 de outubro",
