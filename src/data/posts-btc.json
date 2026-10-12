@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-12-17h34",
+      "date": "2026-10-12",
+      "time": "17h34",
+      "hook": "BTC US$ 83,0 mil · a mínima do dia segurou o teste da tarde e o preço voltou a 83 mil, só que com metade do volume de costume",
+      "caption": "A queda parou em 82,3 mil e o preço recuperou o topo da faixa do dia; o que falta é convicção no volume\n\nLeia: https://xbtc.aronpc.dev/#2026-10-12-17h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-12-17h34",
+      "slides": [
+        {
+          "title": "83 mil de novo, com meio tanque",
+          "body": "A queda parou em 82,3 mil e o preço recuperou o topo da faixa do dia; o que falta é convicção no volume"
+        },
+        {
+          "title": "US$ 83.002",
+          "body": "Δ1h +0,2% · Δ24h −0,7% · vol 24h $25,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Três horas de alta desde a defesa de 82,3 mil, com a vela atual em 259 BTC contra média de 505 · Smart money: funding +0,0045% + L/S 1,49",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Hora fechada acima de 83,0 com volume",
+          "body": "Suporte $82.311 (−0,8%) · Resistência $83.400 (+0,5%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Fundo visitado, topo em teste",
+          "body": "O dia começou perto de 84,2 mil, lavou 82,3 na tarde e agora encosta em 83,0; o funding sobe devagar junto com o preço"
+        }
+      ]
+    },
+    {
       "id": "2026-10-12-14h35",
       "date": "2026-10-12",
       "time": "14h35",
