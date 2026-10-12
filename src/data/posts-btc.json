@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-11-21h33",
+      "date": "2026-10-11",
+      "time": "21h33",
+      "hook": "BTC US$ 83,8 mil · o movimento que o dia adiou chegou com a noite: o preço superou a linha dos 83,7 mil que segurava o mercado desde a tarde e voltou a encostar na máxima das últimas 24 horas, com o humor do público no ponto mais otimista do dia",
+      "caption": "Depois de cinco horas de digestão, o Bitcoin fechou o sábado esbarrando de novo na máxima diária\n\nLeia: https://xbtc.aronpc.dev/#2026-10-11-21h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-11-21h33",
+      "slides": [
+        {
+          "title": "A noite devolveu o topo",
+          "body": "Depois de cinco horas de digestão, o Bitcoin fechou o sábado esbarrando de novo na máxima diária"
+        },
+        {
+          "title": "US$ 83.776",
+          "body": "Δ1h +0,2% · Δ24h +1,1% · volume 24h US$ 15,7B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Ganhou a linha dos 83,7 mil no fim da noite e encostou no topo do dia · Smart money: funding +0,0004% e razão long/short em 1,41"
+        },
+        {
+          "title": "Topo do dia a 0,2%",
+          "body": "Suporte $83.722 (-0,1%) · Resistência $83.916 (+0,2%)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Próxima leitura às 22h30",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-10-11-16h32",
       "date": "2026-10-11",
       "time": "16h32",
