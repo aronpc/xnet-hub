@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-12-19h31",
+      "date": "2026-10-12",
+      "time": "19h31",
+      "hook": "BTC US$ 82,5 mil · a recuperação da tarde durou três horas; o preço voltou à banda de baixo do dia e encosta na mínima pela segunda vez",
+      "caption": "A subida parou em 83,1 mil e a última hora devolveu o preço à região da mínima, a 0,3% de 82,3 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-10-12-19h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-12-19h31",
+      "slides": [
+        {
+          "title": "Aperto na banda de baixo",
+          "body": "A subida parou em 83,1 mil e a última hora devolveu o preço à região da mínima, a 0,3% de 82,3 mil"
+        },
+        {
+          "title": "US$ 82.554",
+          "body": "Δ1h −0,36% · Δ24h −1,20% · vol 24h $26,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Duas velas de 1h em queda, de 83,1 a 82,6 mil · Smart money: funding +0,009% e L/S 1,47",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Tudo passa por 82,3 mil",
+          "body": "Suporte $82.300 (−0,3%) · Resistência $83.100 (+0,7%)"
+        },
+        {
+          "title": "Menos 1,2% no dia",
+          "body": "Da máxima de 84,4 mil até aqui, o recuo foi gradual e com volume dentro do normal"
+        }
+      ]
+    },
+    {
       "id": "2026-10-12-17h34",
       "date": "2026-10-12",
       "time": "17h34",
