@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-12-14h35",
+      "date": "2026-10-12",
+      "time": "14h35",
+      "hook": "BTC US$ 82,4 mil · o preço voltou ao menor valor do dia e o ânimo não esfriou junto (F&G em 69, ganância): queda lenta, sem sustos",
+      "caption": "82,4 mil à prova pela terceira vez; o repique do meio-dia durou pouco e o volume gira a um terço da média do dia\n\nLeia: https://xbtc.aronpc.dev/#2026-10-12-14h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-12-14h35",
+      "slides": [
+        {
+          "title": "O degrau de baixo, de novo",
+          "body": "82,4 mil à prova pela terceira vez; o repique do meio-dia durou pouco e o volume gira a um terço da média do dia"
+        },
+        {
+          "title": "US$ 82.407",
+          "body": "Δ1h -0,46% · Δ24h -1,8% · vol 24h $25,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Cada repique da madrugada para mais baixo que o anterior, e o mesmo degrau testado sem defesa que durasse · Smart money: funding +0,0012% + L/S 1,46",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Três toques, uma resposta",
+          "body": "Mínima 24h $82.411 (no preço) · teto imediato $82.700 (+0,3%) · virada da hora abaixo de 82,4 aponta 82,0; acima de 82,7, o caminho de volta a 83,0",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Descida em câmera lenta",
+          "body": "De 84,2 mil na madrugada a 82,4 mil agora, sempre com volume abaixo da média"
+        }
+      ]
+    },
+    {
       "id": "2026-10-12-11h32",
       "date": "2026-10-12",
       "time": "11h32",
