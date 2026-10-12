@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-12",
+      "date": "2026-10-12",
+      "hook": "Projetos e repos IA · 12 de outubro",
+      "caption": "A semana em que agentes ganharam corpo e cinto de segurança. A Cloudflare comprou a Deno e ligou um relógio de migração de 12 meses no runtime JS, computer use desceu ao hardware de 7 dólares com um ESP32 controlando iPhone de verdade, e teve agente dirigindo um PS5 sozinho. Na ponta local, o laya-guard julga cada tool call antes de executar. Oito pautas.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-12",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-12",
+      "slides": [
+        {
+          "title": "Projetos e repos IA · 12 de outubro",
+          "body": "A semana em que agentes ganharam corpo e cinto de segurança. A Cloudflare comprou a Deno e ligou um relógio de migração de 12 meses no runtime JS, computer use desceu ao hardware de 7 dólares com um ESP32 controlando iPhone de verdade, e teve agente dirigindo um PS5 sozinho. Na ponta local, o laya-guard julga cada tool call antes de executar. Oito pautas."
+        },
+        {
+          "title": "Cloudflare compra a Deno; runtime ganha 12 meses de sobrevida",
+          "body": "A Cloudflare adquiriu a Deno, cofundada por Ryan Dahl. O time inteiro vai para o Workers, e o runtime open source e o Deno Deploy serão descontinuados ao longo de cerca de um ano.",
+          "source": {
+            "label": "The New Stack · 11 out",
+            "url": "https://thenewstack.io/cloudflare-acquires-deno-ryan-dahl/"
+          }
+        },
+        {
+          "title": "BetterWispr: ditado por IA open source no Mac",
+          "body": "Alternativa livre e open source ao WisprFlow para ditado no Mac, com o melhor traço de Show HN do fim de semana em produto de voz.",
+          "source": {
+            "label": "betterwispr.com",
+            "url": "https://betterwispr.com/"
+          }
+        },
+        {
+          "title": "Littleguys: Claude Code, Codex e OpenClaw no menu bar",
+          "body": "App open source do Herválcio que põe os três agentes de coding para rodar orquestrados direto do menu bar do macOS.",
+          "source": {
+            "label": "littleguys.hervalicio.us",
+            "url": "https://littleguys.hervalicio.us"
+          }
+        },
+        {
+          "title": "Agentes de IA participam da daily stand-up",
+          "body": "Um experimento coloca agentes de coding numa call de stand-up de verdade para reportar status. A discussão aquecida que se seguiu é sobre o ritual, não sobre a tecnologia.",
+          "source": {
+            "label": "atoll92.github.io",
+            "url": "https://atoll92.github.io/agent-standup/"
+          }
+        },
+        {
+          "title": "ESP32 de US$ 7 controla um iPhone de verdade",
+          "body": "O ESP32 faz os olhos por AirPlay e as mãos por USB HID, e deixa qualquer modelo OpenAI-compatible operar um iPhone físico, sem mouse nem teclado externos.",
+          "source": {
+            "label": "github.com/onehumanbeing/esp32-iphone-agent",
+            "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
+          }
+        },
+        {
+          "title": "PS5_DevLoop: agente dirige sozinho um PS5 com jailbreak",
+          "body": "DualSense virtual e captura de tela rápida deixam um agente de IA jogar e controlar um PlayStation 5 real sem intervenção.",
+          "source": {
+            "label": "github.com/griches/PS5_DevLoop",
+            "url": "https://github.com/griches/PS5_DevLoop"
+          }
+        },
+        {
+          "title": "Open Components: UI para humanos, devs e agentes",
+          "body": "Proposta de padrão aberto de componentes de UI desenhada para ser consumida igualmente por pessoas, desenvolvedores e agentes de IA.",
+          "source": {
+            "label": "opencomponents.dev",
+            "url": "https://opencomponents.dev/"
+          }
+        },
+        {
+          "title": "laya-guard: guardrail local que julga cada tool call",
+          "body": "Ferramenta open source avalia on-device, com regex mais Laya, toda chamada de ferramenta de um coding agent antes de executar.",
+          "source": {
+            "label": "github.com/scs0209/laya-guard",
+            "url": "https://github.com/scs0209/laya-guard"
+          }
+        },
+        {
+          "title": "O corpo ficou barato, o cinto ficou local",
+          "body": "Agentes ganharam corpo e cinto de segurança na mesma semana. O corpo é hardware barato: um ESP32 de 7 dólares basta para dar mãos a um modelo, e até console virou periférico. O cinto é local: o laya-guard julga cada tool call antes de rodar, enquanto a Cloudflare absorve o runtime onde muita gente rodava esses agentes. E a disputa por quem orquestra quem já desceu pro utilitário de menu bar."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-12",
       "date": "2026-10-12",
       "hook": "Panorama IA · 12 de outubro",
