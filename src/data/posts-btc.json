@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-12-09h34",
+      "date": "2026-10-12",
+      "time": "09h34",
+      "hook": "BTC US$ 83,0 mil · cinco leituras seguidas em queda deixaram o preço no valor mais baixo das últimas 24 horas",
+      "caption": "Depois de um amanhecer inteiro sem direção, o viés apontou para baixo na leitura das 09h34\n\nLeia: https://xbtc.aronpc.dev/#2026-10-12-09h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-12-09h34",
+      "slides": [
+        {
+          "title": "Primeira baixa do dia",
+          "body": "Depois de um amanhecer inteiro sem direção, o viés apontou para baixo na leitura das 09h34"
+        },
+        {
+          "title": "US$ 83.035",
+          "body": "Δ1h -0,40% · Δ24h -0,04% · vol 24h n/d",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Cinco recuos seguidos até o mínimo de 24h, com 58% dos posicionados na ponta compradora · Smart money: funding +0,0075% + L/S 1,37",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "O mínimo de 24h em teste",
+          "body": "Suporte $83.000 (-0,04%) · Resistência $83.400 (+0,4%) · vela a 0,87x do ritmo médio, sem expansão de volume",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "De hora em hora",
+          "body": "A próxima leitura sai às 10h30"
+        }
+      ]
+    },
+    {
       "id": "2026-10-12-05h36",
       "date": "2026-10-12",
       "time": "05h36",
