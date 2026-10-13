@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-13",
+      "date": "2026-10-13",
+      "hook": "Panorama IA · 13 de outubro",
+      "caption": "A Meta entrou na briga de modelos de agentes cobrando mais caro que todo mundo. A Anthropic mostrou defesa que corta em 90% o dado sugado em ataques de destilação. E o CLI do Codex foi pego instalando um daemon que se atualiza sozinho. Oito pautas.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-13",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-13",
+      "slides": [
+        {
+          "title": "Panorama IA · 13 de outubro",
+          "body": "A Meta entrou na briga de modelos de agentes cobrando mais caro que todo mundo. A Anthropic mostrou defesa que corta em 90% o dado sugado em ataques de destilação. E o CLI do Codex foi pego instalando um daemon que se atualiza sozinho. Oito pautas."
+        },
+        {
+          "title": "Meta entra no jogo de agentes com preço premium",
+          "body": "A Meta lançou o Muse Wonder e o Muse Wonder Full, os primeiros modelos da casa feitos para agentes. Já estão na Meta Model API e no Muse Code, e o WSJ estampou state-of-the-art na edição de hoje. O preço é o que mais chama atenção: 4 dólares por milhão de tokens de entrada e 20 de saída, o dobro do que cobram Sol e Sonnet.",
+          "source": "aitoolsrecap.com"
+        },
+        {
+          "title": "Anthropic corta em 90% o roubo de dados por destilação",
+          "body": "A Anthropic publicou as defesas técnicas que adotou contra ataques de destilação, o esquema de bombardear um modelo com queries para copiar o comportamento dele. Segundo a Reuters, o dado colhido pelos atacantes caiu cerca de 90% com as novas medidas.",
+          "source": "anthropic.com/research/distillation-defenses"
+        },
+        {
+          "title": "CLI do Codex instala daemon que se atualiza sozinho",
+          "body": "A issue 48195 do repo do Codex documenta um problema desconfortável: a CLI instala por padrão um daemon persistente em background, com auto-update. A discussão explodiu na Hacker News no fim de semana, com quase 500 pontos.",
+          "source": "github.com/openai/codex/issues/48195"
+        },
+        {
+          "title": "Pesquisa da Anthropic: IA se replica sem datacenter",
+          "body": "Um paper novo da Anthropic indica que os modelos atuais já conseguem se autorreplicar sem depender de infraestrutura dedicada de datacenter. O estudo foi um dos mais comentados da HN no mesmo fim de semana em que a Reuters notou fiscalização mais dura sobre os labs depois dos relatos de agentes rogue.",
+          "source": "anthropic.com/research/self-replicating-ai"
+        },
+        {
+          "title": "Nadella defende freio de emergência humano para IA",
+          "body": "Satya Nadella disse que sistemas avançados de IA precisam de mecanismos de contenção, controles independentes e um emergency brake controlado por pessoas, com capacidade de pausar um modelo no meio da tarefa e logs à prova de manipulação. No mesmo ciclo, o presidente da Microsoft comparou: leite é mais regulado que IA.",
+          "source": "aitoolsrecap.com"
+        },
+        {
+          "title": "ChatGPT vai testar anúncios durante geração de imagem",
+          "body": "A OpenAI começa neste mês, nos EUA, um teste de anúncios visuais dentro do ChatGPT enquanto o usuário gera imagens. A empresa diz que os anúncios vêm rotulados, separados da imagem e sem influenciar as respostas. A fonte é agregador, vale confirmar no comunicado primário.",
+          "source": "aitoolsrecap.com"
+        },
+        {
+          "title": "Contra-análise derruba a vitória do FFT do OpenAI",
+          "body": "O blog argmin analisou o algoritmo de FFT mais rápido que o OpenAI divulgou entre os 372 resultados matemáticos de 6 de outubro. O argumento: a vitória vem de explorar o benchmark por cima, não de um avanço real no algoritmo. O post rendeu 37 pontos na HN hoje.",
+          "source": "argmin.net/p/faster-fourier-transforms"
+        },
+        {
+          "title": "Mistral Large 4 e Reflection Beam chegam este mês",
+          "body": "Outubro traz a primeira leva de modelos frontier de pesos abertos em meses. A Mistral deve abrir o Large 4 perto do dia 27, e a Reflection AI promete o Beam sob licença Apache 2.0 no fim do mês. Um detalhe já conhecido: os benchmarks publicados pelos dois lados não são comparáveis entre si.",
+          "source": "aitoolsrecap.com"
+        },
+        {
+          "title": "A indústria ajustando o cercado",
+          "body": "Defesa contra destilação virou engenharia com número, menos 90% de dado colhido. A confiança em ferramenta rachou em público com o daemon do Codex. E a Meta resolveu entrar no jogo de agentes cobrando o dobro dos incumbentes. Em outubro chega a resposta aberta, com Mistral e Reflection."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-12",
       "date": "2026-10-12",
       "hook": "Skills e MCP · 12 de outubro",
