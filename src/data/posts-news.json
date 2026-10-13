@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-13",
+      "date": "2026-10-13",
+      "hook": "Skills e MCP · 13 de outubro",
+      "caption": "A skill virou formato de conteúdo: tem skill com júri de design embutido, skill que engenheira como o autor e skill que aprende a escrever como você. Do lado do MCP, corrida por cobertura de browser e entrada no mercado de legado. Oito pautas.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-13",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-13",
+      "slides": [
+        {
+          "title": "Skills e MCP · 13 de outubro",
+          "body": "A skill virou formato de conteúdo: tem skill com júri de design embutido, skill que engenheira como o autor e skill que aprende a escrever como você. Do lado do MCP, corrida por cobertura de browser e entrada no mercado de legado. Oito pautas."
+        },
+        {
+          "title": "Skill que constrói site de prêmio a partir de uma frase",
+          "body": "O pacote de skills do juliobsz gera websites no padrão Awwwards a partir de uma linha de descrição. Fez 245 estrelas em cerca de um dia, o repo de skill mais estrelado da janela.",
+          "source": "github.com/juliobsz/skills"
+        },
+        {
+          "title": "ai-slop-detector: 120 padrões de texto com cara de IA",
+          "body": "A FeedHive publicou um detector com 120 padrões que fazem texto parecer gerado por IA, embalado como skill para Claude Code e Codex. Fez 44 estrelas no primeiro dia.",
+          "source": "github.com/FeedHive/ai-slop-detector"
+        },
+        {
+          "title": "Skills que ensinam o agente a engenheirar como o autor",
+          "body": "O pacote do crutchcorn encapsula o estilo de engenharia dele: como toma decisão, em que ordem executa os passos, que código prefere. O agente passa a seguir a assinatura técnica do autor. Fez 40 estrelas no lançamento.",
+          "source": "github.com/crutchcorn/skills"
+        },
+        {
+          "title": "pixel-path: fly-through pixel-art de rota real",
+          "body": "A skill do jonwheatley pega dois lugares quaisquer e produz um fly-through em pixel-art da estrada real entre eles. Fez 38 estrelas.",
+          "source": "github.com/jonwheatley/pixel-path"
+        },
+        {
+          "title": "A skill que aprende a escrever como você",
+          "body": "A writing-signature analisa seus próprios textos e compila uma skill pessoal de write like me. A assinatura de escrita do usuário vira artefato instalável.",
+          "source": "github.com/SorenKK/writing-signature"
+        },
+        {
+          "title": "browser-mcp: bridge do Chromium com 111 ferramentas",
+          "body": "Servidor MCP stdio mais extensão MV3 que dá ao agente autoridade total sobre o Chromium: 111 ferramentas cobrindo tabs, DOM e rede.",
+          "source": "github.com/Taiizor/browser-mcp"
+        },
+        {
+          "title": "reverseport: reverse engineering de app como chamada de agente",
+          "body": "CLI e servidor MCP que deixam qualquer coding agent desmontar um aplicativo e portá-lo para outra plataforma. O lema do projeto é reverse engineer anything, port it anywhere.",
+          "source": "github.com/laaielichter/reverseport"
+        },
+        {
+          "title": "NoteLab: servidor de pesquisa que melhora com o uso",
+          "body": "MCP server construído sobre o Google NotebookLM que acumula memória de pesquisa e aprende com o próprio uso. Um research server self-improving.",
+          "source": "github.com/werister/notelab"
+        },
+        {
+          "title": "A skill deixou de ser atalho",
+          "body": "Júri de design dentro da skill, assinatura pessoal de engenharia, escrita compilada da própria obra: o formato absorveu gosto e autoria. Do lado do MCP, a corrida é por cobertura, com 111 ferramentas de browser, e pela entrada no legado. O que era configuração virou conteúdo."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-13",
       "date": "2026-10-13",
       "hook": "Projetos e repos · 13 de outubro",
