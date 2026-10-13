@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-13-18h31",
+      "date": "2026-10-13",
+      "time": "18h31",
+      "hook": "BTC a US$ 83,3 mil · a queda da tarde durou pouco. O preço voltou para cima dos 83,3 mil e a vela das 17h foi a primeira do dia a fechar acima dessa marca, então a leitura das 18h volta a apontar alta. O detalhe: o volume segue fraco, na casa de 40% do ritmo médio",
+      "caption": "O dia intero colado nessa marca, e a primeira fechada por cima sai só às 17h\n\nLeia: https://xbtc.aronpc.dev/#2026-10-13-18h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-13-18h31",
+      "slides": [
+        {
+          "title": "Primeira fechada acima de 83,3 mil",
+          "body": "O dia intero colado nessa marca, e a primeira fechada por cima sai só às 17h"
+        },
+        {
+          "title": "US$ 83.278",
+          "body": "Δ1h +0,16% · Δ24h +0,50% · vol US$ 33,1 bi · dia entre 81,0 e 84,2 mil",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "A vela das 17h fechou acima de 83,3 mil e o reteste segue de pé, com as mínimas subindo desde a abertura (81,0 mil até 83,0 mil); o senão é o volume, em 40% do normal · Smart Money: funding +0,001% e L/S 1,28, com 56% comprado",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O volume decide a próxima hora",
+          "body": "Um segundo fechamento de 1h acima de 83,3 mil consolida 83,5 a 83,7 mil, com 84,2 mil no limite do dia; cair abaixo de 83,0 mil devolve 82,5 mil · Níveis: 83,0 mil (-0,3%) e 83,5 mil (+0,3%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora; não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-13-14h33",
       "date": "2026-10-13",
       "time": "14h33",
