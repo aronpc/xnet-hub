@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-12-21h32",
+      "date": "2026-10-12",
+      "time": "21h32",
+      "hook": "BTC em US$ 81,4 mil · quinta queda seguida de 1h encosta no fundo das últimas 24h, e o índice de sentimento despencou de 69 para 57 em uma hora",
+      "caption": "Preço a 0,1% do fundo de 24h (81,3 mil) depois de cinco fechamentos de 1h em queda; o otimismo da tarde sumiu na mesma hora\n\nLeia: https://xbtc.aronpc.dev/#2026-10-12-21h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-12-21h32",
+      "slides": [
+        {
+          "title": "O clima virou junto com o preço",
+          "body": "Preço a 0,1% do fundo de 24h (81,3 mil) depois de cinco fechamentos de 1h em queda; o otimismo da tarde sumiu na mesma hora"
+        },
+        {
+          "title": "US$ 81.362",
+          "body": "Δ1h −0,74% · Δ24h −2,76% · vol 24h US$ 1,1bi (Binance perp)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Do 83,1 mil das 18h até aqui, nenhum repique que prestasse · 60% das contas seguem apostando em alta, pagando funding +0,005%",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "81,3 mil é a linha da hora",
+          "body": "Abaixo dela não há referência nas últimas 24h até 80,0 mil · Recuperação só desenha com fechamento de 1h acima de 82,0 mil"
+        },
+        {
+          "title": "Recuo de 2,8% nas últimas 24h",
+          "body": "Topo de 84,2 mil de madrugada, fundo agora em 81,3 mil; a descida desta noite veio em cinco etapas seguidas"
+        }
+      ]
+    },
+    {
       "id": "2026-10-12-20h30",
       "date": "2026-10-12",
       "time": "20h30",
