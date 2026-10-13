@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-13-11h33",
+      "date": "2026-10-13",
+      "time": "11h33",
+      "hook": "BTC a US$ 83,6 mil · o recuo da manhã perdeu força em 83,3 mil. A leitura das 11h volta a marcar alta: preço de novo no andar de cima do range e clima em ganância leve, índice 57",
+      "caption": "Depois do tombo da manhã, o preço segurou 83,3 mil e tornou a subir; negocia a 84% do range de 24h, entre 81,0 e 84,2 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-10-13-11h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-13-11h33",
+      "slides": [
+        {
+          "title": "A queda da manhã não vingou",
+          "body": "Depois do tombo da manhã, o preço segurou 83,3 mil e tornou a subir; negocia a 84% do range de 24h, entre 81,0 e 84,2 mil"
+        },
+        {
+          "title": "US$ 83.619",
+          "body": "Δ1h +0,25% · Δ24h +0,82% · vol US$ 32,2 bi · máxima 24h: 84,2 mil",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "A vela das 11h saltou da zona comprimida perto de 83,3 mil e levou o preço ao topo do range · Smart Money: funding +0,006% e L/S 1,25, com 56% das posições no lado comprado",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "84,2 mil é a fronteira",
+          "body": "Romper 84,2 mil com volume aponta 85,0 mil; abaixo de 83,0 mil, o reteste é de 82,0 mil · Referências: 83,0 mil (-0,8%) e 84,2 mil (+0,6%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora; não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-13-06h33",
       "date": "2026-10-13",
       "time": "06h33",
