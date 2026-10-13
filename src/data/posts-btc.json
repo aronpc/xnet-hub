@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-13-14h33",
+      "date": "2026-10-13",
+      "time": "14h33",
+      "hook": "BTC a US$ 83,1 mil · depois de um dia preso entre 83,3 e 83,7 mil, o preço escorregou para baixo da marca e a leitura das 14h virou para baixa. A descida veio mansa, com volume fraco, clima de ajuste e não de correria",
+      "caption": "Três velas seguidas de queda tiraram o preço da zona comprimida das últimas horas, sem pressa nem volume\n\nLeia: https://xbtc.aronpc.dev/#2026-10-13-14h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-13-14h33",
+      "slides": [
+        {
+          "title": "A descida veio devagar",
+          "body": "Três velas seguidas de queda tiraram o preço da zona comprimida das últimas horas, sem pressa nem volume"
+        },
+        {
+          "title": "US$ 83.150",
+          "body": "Δ1h -0,37% · Δ24h +0,89% · vol US$ 32,3 bi · fundo do dia: 81,0 mil",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Três velas de queda levaram o preço para fora da faixa de 83,3 a 83,7 mil, com volume de 0,44× a média: mais drenagem lenta do que saída corrida · Smart Money: funding +0,004% e L/S 1,25, com 55% no lado comprado",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "83,0 mil segura ou cede",
+          "body": "Voltar acima de 83,4 mil devolve a faixa 83,3 a 83,7 mil; abaixo de 83,0 mil com volume, a referência seguinte é 82,5 mil · Referências: 83,0 mil (-0,2%) e 83,4 mil (+0,3%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora; não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-13-11h33",
       "date": "2026-10-13",
       "time": "11h33",
