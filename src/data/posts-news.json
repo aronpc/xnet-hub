@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-13",
+      "date": "2026-10-13",
+      "hook": "Projetos e repos · 13 de outubro",
+      "caption": "A infraestrutura de agentes saiu do laptop: sandbox barato do YC e um projeto que roda modelo de 80 bilhões em máquina de 32 GB de RAM. No outro extremo, MCP virou interface de software criativo, com CAD e estúdio de música expondo o motor para agentes. Sete pautas.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-13",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-13",
+      "slides": [
+        {
+          "title": "Projetos e repos · 13 de outubro",
+          "body": "A infraestrutura de agentes saiu do laptop: sandbox barato do YC e um projeto que roda modelo de 80 bilhões em máquina de 32 GB de RAM. No outro extremo, MCP virou interface de software criativo, com CAD e estúdio de música expondo o motor para agentes. Sete pautas."
+        },
+        {
+          "title": "Agent37: sandboxes baratos para agentes rodarem soltos",
+          "body": "A Agent37, turma Fall 2026 do YC, lançou sandboxes de baixo custo para executar agentes de forma isolada. O Launch HN somou 120 pontos e 79 comentários em um dia.",
+          "source": "news.ycombinator.com"
+        },
+        {
+          "title": "Janas roda modelo maior que a RAM streamando do SSD",
+          "body": "O projeto open-source Janas executa LLMs que não cabem na memória transmitindo os experts do SSD. No benchmark do README, um Qwen3-Next-80B de 48 GB roda a 37 tokens por segundo num laptop de 32 GB, contra 2,8 tokens do llama.cpp. Fez 100 estrelas no GitHub e 62 pontos na HN no fim de semana.",
+          "source": "github.com/prabanta-dev/janas"
+        },
+        {
+          "title": "solid-glass: design system para apps de IA",
+          "body": "O repo se apresenta como material, físico, tátil e técnico: um design system feito para aplicações de IA. Fechou 230 estrelas nas primeiras 24 horas de vida.",
+          "source": "github.com/deeplethe/solid-glass"
+        },
+        {
+          "title": "new-term-radar: radar automático de termos novos",
+          "body": "A ferramenta varre X, Hugging Face e GitHub atrás de nomes de modelos, produtos e repos que acabaram de nascer, como um radar de novidade em tempo real. São 655 estrelas em um único dia.",
+          "source": "github.com/zhuyansen/new-term-radar"
+        },
+        {
+          "title": "Atticus: walkie-talkie de voz rodando claude -p",
+          "body": "Assistente de voz para macOS no estilo hold-to-talk: segure a tecla, fale, solte. O áudio vai para o Claude via claude -p direto do terminal. O Show HN somou 83 pontos.",
+          "source": "github.com/SaarthurR/atticus-mac"
+        },
+        {
+          "title": "Alibaba entra no browser-agent com proposta local",
+          "body": "A Alibaba publicou o qz-browser-agent, agente local-first para Chrome que faz automação de browser, pesquisa web e extração de dados rodando o modelo do próprio usuário, sem nuvem da vendor. Fez 36 estrelas no primeiro dia.",
+          "source": "github.com/alibaba/qz-browser-agent"
+        },
+        {
+          "title": "CAD em Rust e estúdio de música expondo MCP",
+          "body": "O SolidCraft é um CAD paramétrico open-source escrito em Rust com suporte a MCP: o agente cria e manipula geometria 3D direto no desenho técnico. Já o blokkily é uma DAW experimental pattern-first em que agentes compõem e editam sessões de música.",
+          "source": "github.com/bherbruck/solidcraft"
+        },
+        {
+          "title": "O agente ganha casa própria",
+          "body": "Sandbox barato para rodar, SSD no lugar da GPU top e o CLI do Claude servindo de backend para produto de voz. Quando o software pesado abre MCP, sobra menos lugar onde o agente não entra. A pergunta do dia não é se agente roda fora do laptop, é quanto custa."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-13",
       "date": "2026-10-13",
       "hook": "Panorama IA · 13 de outubro",
