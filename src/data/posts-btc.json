@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-13-01h31",
+      "date": "2026-10-13",
+      "time": "01h31",
+      "hook": "BTC a US$ 83,3 mil · quatro altas seguidas levaram o preço ao teto do dia, mas com volume de madrugada em um terço da média",
+      "caption": "A quarta alta seguida encostou em 83,5 mil, no terço superior dos limites do dia (81,0k a 84,4k), sem volume para confirmar a força\n\nLeia: https://xbtc.aronpc.dev/#2026-10-13-01h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-13-01h31",
+      "slides": [
+        {
+          "title": "Chegou ao teto, falta convicção",
+          "body": "A quarta alta seguida encostou em 83,5 mil, no terço superior dos limites do dia (81,0k a 84,4k), sem volume para confirmar a força"
+        },
+        {
+          "title": "US$ 83.297",
+          "body": "Δ1h +0,45% · Δ24h −0,39% · vol 24h US$ 31,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Terço superior da faixa 81,0k a 84,4k, sem fechamento acima de 83,5k · Smart Money: funding +0,004% e L/S 1,45, com 59% das contas compradas",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teto de 83,5 mil segue em teste",
+          "body": "Fechamento acima abre 84,3k · Perder 82,3k (−1,2%) devolve o preço a 81,4k"
+        },
+        {
+          "title": "Movimento com um terço do volume",
+          "body": "A última vela negociou 212 BTC/h contra ~620 de média: o preço sobe, mas devagar"
+        }
+      ]
+    },
+    {
       "id": "2026-10-12-23h33",
       "date": "2026-10-12",
       "time": "23h33",
