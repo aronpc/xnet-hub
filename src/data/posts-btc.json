@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-12-20h30",
+      "date": "2026-10-12",
+      "time": "20h30",
+      "hook": "BTC em US$ 82,0 mil · a faixa de 82,3 mil que segurou a tarde inteira cedeu; o preço faz mínima do dia e encosta em 81,8 mil",
+      "caption": "Depois de aguentar a tarde toda, o nível cedeu na última hora; a leitura pegou o preço encostado na mínima do dia, em 81,8 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-10-12-20h30",
+      "link": "https://xbtc.aronpc.dev/#2026-10-12-20h30",
+      "slides": [
+        {
+          "title": "82,3 mil não aguentou o dia",
+          "body": "Depois de aguentar a tarde toda, o nível cedeu na última hora; a leitura pegou o preço encostado na mínima do dia, em 81,8 mil"
+        },
+        {
+          "title": "US$ 81.970",
+          "body": "Δ1h −0,71% · Δ24h −1,99% · vol 24h $27,3bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Cada repique do dia parou mais baixo que o anterior, de 84,4 mil até aqui · Smart money: funding +0,008% e L/S 1,47",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "81,8 mil decide o que vem agora",
+          "body": "Suporte $81.800 (−0,2%) · Resistência $83.100 (+1,4%)",
+          "source": "https://www.coinglass.com/BTC"
+        },
+        {
+          "title": "Queda de 2% nas últimas 24h",
+          "body": "Recuo gradual desde o topo de 84,4 mil, com volume dentro do normal"
+        }
+      ]
+    },
+    {
       "id": "2026-10-12-19h31",
       "date": "2026-10-12",
       "time": "19h31",
