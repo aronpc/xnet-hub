@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-14-11h34",
+      "date": "2026-10-14",
+      "time": "11h34",
+      "hook": "BTC a US$ 81,9 mil · o 82,4 mil cedeu de vez e o preço foi encostar na menor cotação das últimas 24 horas, com volume bem acima do normal (1,8× a média da hora). E o termômetro de sentimento segue em ganância, marcando 62",
+      "caption": "Quarta queda seguida no dia e a primeira com volume de verdade; o sentimento, porém, ainda não esfriou junto\n\nLeia: https://xbtc.aronpc.dev/#2026-10-14-11h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-14-11h34",
+      "slides": [
+        {
+          "title": "A queda pegou volume",
+          "body": "Quarta queda seguida no dia e a primeira com volume de verdade; o sentimento, porém, ainda não esfriou junto"
+        },
+        {
+          "title": "US$ 81.927",
+          "body": "Δ1h -0,77% · Δ24h -2,01% · vol 24h US$ 29,1 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Queda com volume real e sem sinal de fundo · Smart Money: funding +0,0013% e L/S 1,39 (58% das posições compradas)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "81,9 mil é a linha da hora",
+          "body": "Chão do movimento: 81,5 mil (-0,5%) · Teto imediato: 82,0 mil (+0,1%), de onde caiu de manhã · Perder 81,9 mil estende a queda na direção de 81,0 mil; fechar de volta acima de 82,0 mil devolve a zona de 82,7 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora; não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-14-10h38",
       "date": "2026-10-14",
       "time": "10h38",
