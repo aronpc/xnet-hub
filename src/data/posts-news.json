@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-14",
+      "date": "2026-10-14",
+      "hook": "Projetos e repos de 14 de outubro",
+      "caption": "Sete lançamentos da comunidade: benchmark de lava-louça, medidor de bloat por modelo, agente que aconselha pós-graduação e até recibo impresso dos tokens do agente.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-14",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-14",
+      "slides": [
+        {
+          "title": "Projetos e repos de 14 de outubro",
+          "body": "Sete lançamentos da comunidade: benchmark de lava-louça, medidor de bloat por modelo, agente que aconselha pós-graduação e até recibo impresso dos tokens do agente."
+        },
+        {
+          "title": "Modelos carregam lava-louças",
+          "body": "A composo-ai fez um benchmark que roda um jogo de arrumar louça numa simulação física de máquina real pra medir modelos de linguagem.",
+          "source": "github.com/composo-ai/DishwasherBench"
+        },
+        {
+          "title": "Benchmark do código que sobra",
+          "body": "O Parsimony mede quanto código os modelos adicionam a um projeto, o bloat, em vez de só acertos.",
+          "source": "parsimony.lasu.dev"
+        },
+        {
+          "title": "Agente aconselha pós-graduação",
+          "body": "Benchmark aberto do time Sprix AI pra orientação no baoyan, a admissão chinesa por recomendação acadêmica.",
+          "source": "github.com/yeyuxin777/baoyan-agent-benchmark"
+        },
+        {
+          "title": "Audiolivro com a assinatura da OpenAI",
+          "body": "O pdftomp3.com transforma PDF em audiolivro usando os credits da assinatura OpenAI do próprio usuário.",
+          "source": {
+            "label": "pdftomp3.com",
+            "url": "https://pdftomp3.com/connect-ai/"
+          }
+        },
+        {
+          "title": "Recibo impresso dos tokens do agente",
+          "body": "A ferramenta imprime num recibo térmico de loja os tokens gastos pelo seu agente de código, o custo em preço de API e quantas vezes ele travou.",
+          "source": "github.com/glmn-ai/vibereceipt"
+        },
+        {
+          "title": "Lint que acha código com cara de IA",
+          "body": "O deslop traz regras Oxlint que detectam e reportam padrões característicos de TypeScript gerado por IA.",
+          "source": "github.com/maharshi365/deslop"
+        },
+        {
+          "title": "Um jeito estrito de rodar projeto com agentes",
+          "body": "Repositório-método com uma forma rígida de gerenciar software com agentes: issues como specs, prompts de handoff e auditorias automáticas.",
+          "source": "github.com/reyxdz/going-dark"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A comunidade respondeu à manchete de mais código sem mais software com instrumento e processo: o Parsimony mede o bloat, o deslop aponta as manias no CI e o going-dark formaliza handoff e auditoria. No meio, benchmark com cara de brincadeira puxando mais olho que eval sério."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-14",
       "date": "2026-10-14",
       "hook": "Panorama IA de 14 de outubro",
