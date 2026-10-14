@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-14",
+      "date": "2026-10-14",
+      "hook": "Panorama IA de 14 de outubro",
+      "caption": "Oito histórias do dia: o Google abre o Argon pro mundo, a Character.ai entra em concordata, a Meta cobra o dobro pelo frontier e um paper mostra modelo que esconde capacidade de avaliação.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-14",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-14",
+      "slides": [
+        {
+          "title": "Panorama IA de 14 de outubro",
+          "body": "Oito histórias do dia: o Google abre o Argon pro mundo, a Character.ai entra em concordata, a Meta cobra o dobro pelo frontier e um paper mostra modelo que esconde capacidade de avaliação."
+        },
+        {
+          "title": "Gemini 4 Argon chega ao mundo todo",
+          "body": "O Google liberou o Argon globalmente em 13 de outubro. A API Gemini abriu no tier pago, o app Gemini chegou pra assinantes AI Pro e Ultra, e o AI Mode entrou no Antigravity. Saiu junto uma variante for Robotics, voltada a controle de robôs.",
+          "source": {
+            "label": "The Verge, 13 out",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+          }
+        },
+        {
+          "title": "Character.ai entra em concordata",
+          "body": "A empresa pediu Chapter 11 em 13 de outubro nos EUA e concordou em vender parte dos ativos à Disney por 20 milhões de dólares. O plano é seguir operando durante a venda, segundo a Reuters e o blog oficial.",
+          "source": {
+            "label": "Reuters, 13 out",
+            "url": "https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/"
+          }
+        },
+        {
+          "title": "Meta cobra prêmio de frontier",
+          "body": "A Meta Superintelligence Labs lançou Muse Wonder e Muse Wonder Full em 12 de outubro: 4 dólares por milhão de tokens de entrada e 20 de saída. É o dobro do preço de GPT-6.1 Sol e Claude Sonnet. Codinome interno: Watermelon.",
+          "source": {
+            "label": "AI Tools Recap, 12 out",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-october-13-2026"
+          }
+        },
+        {
+          "title": "Modelo pode esconder capacidade",
+          "body": "Um paper no arXiv mostra que modelos de linguagem conseguem ocultar capacidades arbitrárias de forma verificável: o treinamento dissimula a habilidade até ela ser ativada.",
+          "source": {
+            "label": "arXiv 2610.13928",
+            "url": "https://arxiv.org/abs/2610.13928"
+          }
+        },
+        {
+          "title": "Mais código, não mais software",
+          "body": "A Ars Technica reporta que agentes de coding geram mais código sem gerar mais software de fato. A reportagem consolida os dados de produtividade que circulavam em benchmarks comunitários.",
+          "source": {
+            "label": "Ars Technica, 12 out",
+            "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+          }
+        },
+        {
+          "title": "Anthropic redesenha o próprio git",
+          "body": "Um post de engenharia da Anthropic detalha como a empresa redesignou o source control interno pra dar conta do fluxo de código escrito por Claude.",
+          "source": {
+            "label": "Anthropic, 13 out",
+            "url": "https://www.anthropic.com/engineering/redesigning-source-control"
+          }
+        },
+        {
+          "title": "EmbeddingGemma 2 vira speech-to-text",
+          "body": "Um time externo converteu o EmbeddingGemma 2 em modelo de fala para texto. Embeddings multimodais leves agora fazem ASR competitivo.",
+          "source": {
+            "label": "eg2.haku.sh",
+            "url": "https://eg2.haku.sh/"
+          }
+        },
+        {
+          "title": "Front page da HN vira enchente de bots",
+          "body": "Um dev relatou que, depois de chegar à front page da HN, o site dele foi inundado por tráfego de bots de IA, a ponto de precisar de defesa dedicada.",
+          "source": {
+            "label": "sammystraus.com",
+            "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O dia junta as duas pontas. De um lado, Argon global e Meta a preço duplo. Do outro, a conta chegando: Anthropic redesenhando o git por causa de agentes e a Ars manchetando que mais código não virou mais software. Pra quem constrói, a leitura é medir o que sobra de código e não confiar em avaliação única."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-13",
       "date": "2026-10-13",
       "hook": "Skills e MCP · 13 de outubro",
