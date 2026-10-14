@@ -2,6 +2,56 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-14",
+      "date": "2026-10-14",
+      "hook": "Skills e MCP de 14 de outubro",
+      "caption": "O Claude Code compacta conversa parada antes do cache vencer, skills de vídeo vertical viram padrão de fábrica e o MCP chega ao debug de chip.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-14",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-14",
+      "slides": [
+        {
+          "title": "Skills e MCP de 14 de outubro",
+          "body": "O Claude Code compacta conversa parada antes do cache vencer, skills de vídeo vertical viram padrão de fábrica e o MCP chega ao debug de chip."
+        },
+        {
+          "title": "Compactação no tempo ocioso",
+          "body": "A release v2.1.299, de 14 de outubro, compacta conversas paradas: mais de 200 mil tokens sem atividade por uns 54 minutos são compactados antes de o cache de prompt de 1 hora expirar. Também chegam env pra não injetar conteúdo de menções e drain graceful no runner self-hosted.",
+          "source": {
+            "label": "Release v2.1.299, 14 out",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.299"
+          }
+        },
+        {
+          "title": "Simule qualquer máquina em uma linha",
+          "body": "Você descreve uma máquina em uma linha e o Claude monta uma simulação fotorealística, física e interativa dela em segundos.",
+          "source": "github.com/AirsupHQ/machine-skill"
+        },
+        {
+          "title": "Edição de vídeo vertical pra agente",
+          "body": "Skill de edição criativa de vídeo vertical pra agentes, com estilos nomeados. Funciona no Claude Code, Codex, OpenCode, Cursor e Hermes.",
+          "source": "github.com/pycodebr/heditor"
+        },
+        {
+          "title": "Reels em estética de recorte de papel",
+          "body": "Combo de skills Claude Code com a biblioteca Remotion pra produzir reels verticais explicativos em estética cut-paper: estratégia, hook, roteiro e render.",
+          "source": "github.com/0xS4N4TG/papercut-explainer"
+        },
+        {
+          "title": "Componente de UI explodido ao vivo",
+          "body": "Skill e runtime que explodem um componente de UI real nas camadas de pintura, como uma vista explodida de engenharia.",
+          "source": "github.com/diip3sh/exploded"
+        },
+        {
+          "title": "MCP chega ao silício",
+          "body": "Servidor MCP que conecta agentes a uma sessão viva do Synopsys Verdi, ferramenta de debug de chips: waveforms, valores de sinal e driver tracing.",
+          "source": "github.com/RuihongY/verdi_bridge"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Skills de vídeo vertical viraram categoria própria na janela, com três lançamentos no mesmo formato em dois dias. E o MCP atravessou a engenharia pesada: um server agora opera sessão viva de ferramenta de debug de chip. Maturidade de protocolo, não novidade solta."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-14",
       "date": "2026-10-14",
       "hook": "Projetos e repos de 14 de outubro",
