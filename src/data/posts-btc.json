@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-14-09h35",
+      "date": "2026-10-14",
+      "time": "09h35",
+      "hook": "BTC a US$ 82,7 mil · a queda mais forte do dia levou o preço ao menor nível das últimas 24 horas, e o 83 mil que sustentava ontem virou obstáculo por cima",
+      "caption": "Recuo de 0,67% na última hora, o maior do dia, deixou o preço raspando a mínima de 24 horas, em 82,7 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-10-14-09h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-14-09h35",
+      "slides": [
+        {
+          "title": "O 83 mil trocou de lado",
+          "body": "Recuo de 0,67% na última hora, o maior do dia, deixou o preço raspando a mínima de 24 horas, em 82,7 mil"
+        },
+        {
+          "title": "US$ 82.669",
+          "body": "Δ1h -0,67% · Δ24h -0,68% · vol 24h US$ 28,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A hora das 09h foi a mais pesada do dia e o 83 mil ficou pelo caminho · Smart Money: funding voltou ao positivo (+0,004%) e L/S 1,33, maioria ainda comprada",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Tudo agora passa por 82,7 mil",
+          "body": "Suporte: 82,7 mil, o mínimo de 24h, que o preço está raspando agora · Resistência: 83,0 mil (+0,4%), o nível perdido de manhã · Próximas referências: 82,5 abaixo e 83,5 acima"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora; não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-14-06h37",
       "date": "2026-10-14",
       "time": "06h37",
