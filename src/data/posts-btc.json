@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-14-06h37",
+      "date": "2026-10-14",
+      "time": "06h37",
+      "hook": "BTC a US$ 83,2 mil · a alta da madrugada foi devolvida: o preço desceu de 83,7 mil até encostar no piso do dia, num mercado sem convicção",
+      "caption": "Desde a abertura foram seis fechamentos de hora em queda, de 83,7 mil a 83,3 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-10-14-06h37",
+      "link": "https://xbtc.aronpc.dev/#2026-10-14-06h37",
+      "slides": [
+        {
+          "title": "A alta que não vingou",
+          "body": "Desde a abertura foram seis fechamentos de hora em queda, de 83,7 mil a 83,3 mil"
+        },
+        {
+          "title": "US$ 83.232",
+          "body": "Δ1h -0,74% · Δ24h -0,36% · vol 24h US$ 26,8 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço colado no piso de 24h, com os fechamentos de hora caindo um atrás do outro · Smart Money: funding +0,0037% e L/S 1,28 (56% comprado)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O piso do dia à prova",
+          "body": "Ceder 83,0 mil abre espaço a 82,5 mil; retomar 83,7 mil traz de volta a faixa de 83,0 a 84,1 · Piso: 83,0 mil (-0,3%) · Topo: 83,7 mil (+0,6%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora; não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-14-00h34",
       "date": "2026-10-14",
       "time": "00h34",
