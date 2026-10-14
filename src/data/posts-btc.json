@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-13-22h33",
+      "date": "2026-10-13",
+      "time": "22h33",
+      "hook": "BTC a US$ 83,2 mil · a alta da tarde encostou no teto de 83,5 mil pela terceira vez hoje e, de novo, não passou. O preço voltou ao meio da janela de 83,0 a 83,5 mil, o ganho do dia encolheu e a leitura das 22h marca neutro: mercado em espera, sem convicção para nenhum dos lados",
+      "caption": "Terceira encostada do dia no mesmo limite, e o preço desceu de volta ao miolo da janela\n\nLeia: https://xbtc.aronpc.dev/#2026-10-13-22h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-13-22h33",
+      "slides": [
+        {
+          "title": "O teto de 83,5 mil recusou de novo",
+          "body": "Terceira encostada do dia no mesmo limite, e o preço desceu de volta ao miolo da janela"
+        },
+        {
+          "title": "US$ 83.242",
+          "body": "Δ1h -0,18% · Δ24h +1,48% · vol US$ 29,3 bi · dia entre 81,0 e 84,2 mil",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Terceira recusa no teto de 83,5 mil e ganho do dia encolhendo, de +2,5% para +1,5%; preço de volta ao miolo · Smart Money: funding -0,004% e L/S 1,31 (57% comprado)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Uma janela estreita decide a noite",
+          "body": "Fechar acima de 83,5 mil devolve 84,0 a 84,2 mil na conversa; perder 83,0 mil aponta 82,5 mil · Piso 83,0 mil (-0,29%) · Teto 83,5 mil (+0,31%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora; não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-13-18h31",
       "date": "2026-10-13",
       "time": "18h31",
