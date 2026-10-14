@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-14-00h34",
+      "date": "2026-10-14",
+      "time": "00h34",
+      "hook": "BTC a US$ 83,8 mil · o nível de 83,5 mil que segurou o preço três vezes ontem cedeu na madrugada: dois fechamentos de hora seguidos acima e o preço segue do lado de cima, com a casa dos 84 mil de volta ao assunto",
+      "caption": "O nível que travou o dia inteiro ontem agora ficou embaixo do preço\n\nLeia: https://xbtc.aronpc.dev/#2026-10-14-00h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-14-00h34",
+      "slides": [
+        {
+          "title": "O chão mudou de lugar",
+          "body": "O nível que travou o dia inteiro ontem agora ficou embaixo do preço"
+        },
+        {
+          "title": "US$ 83.778",
+          "body": "Δ1h +0,65% · Δ24h +1,03% · vol 24h US$ 1,35 tri",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Dois fechamentos ascendentes acima de 83,5 mil, com funding negativo: quem apostou na queda segue pagando enquanto o preço sobe, e o F&G em 62 ainda está longe de euforia · Smart Money: funding -0,003% e L/S 1,32 (57% comprado)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A prova dos 84 mil",
+          "body": "Fechar a hora acima de 84.168 (máxima de 24h) abre caminho para 84,5 a 85,0 mil; um recuo abaixo de 83,5 mil devolve a faixa de ontem · Referência de baixo: 83,5 mil (-0,33%) · De cima: 84,2 mil (+0,50%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora; não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-13-22h33",
       "date": "2026-10-13",
       "time": "22h33",
