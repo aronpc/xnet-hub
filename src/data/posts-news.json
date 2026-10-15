@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-15",
+      "date": "2026-10-15",
+      "hook": "Skills e MCP de 15 de outubro",
+      "caption": "Sete novidades do dia: skill-authoring virando canal de distribuição de produto, o MCP propondo se reorganizar por propósito em vez de por server e, de fundo, harness engineering, que é literalmente o ofício de quem desenha o ambiente onde o agente trabalha.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-15",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-15",
+      "slides": [
+        {
+          "title": "Skills e MCP de 15 de outubro",
+          "body": "Sete novidades do dia: skill-authoring virando canal de distribuição de produto, o MCP propondo se reorganizar por propósito em vez de por server e, de fundo, harness engineering, que é literalmente o ofício de quem desenha o ambiente onde o agente trabalha."
+        },
+        {
+          "title": "Claudemy: o Claude monta o curso inteiro",
+          "body": "Skill open source lançada em 14 de outubro: dê um tópico ao Claude e ele constrói um curso completo no estilo Udemy ou Coursera, com estrutura de módulos e conteúdo.",
+          "source": "github.com/assafkip/claudemy"
+        },
+        {
+          "title": "content-principles: princípios em vez de fórmulas",
+          "body": "Skill que ensina o agente a raciocinar sobre princípios de conteúdo de formato curto, em vez de aplicar fórmula pronta de copy.",
+          "source": "github.com/aiwithremy/content-principles"
+        },
+        {
+          "title": "toolpacks: tools agrupadas por propósito",
+          "body": "Implementação de referência de um padrão novo de organização MCP: tools agrupadas em pacotes por propósito, com um switch por pacote. O cliente para de montar o mix server a server.",
+          "source": "github.com/3265807971-cloud/mcp-toolpacks"
+        },
+        {
+          "title": "headroom: qual sessão está comendo sua RAM",
+          "body": "Ferramenta com integração MCP que mostra qual sessão do Claude está devorando a memória da máquina e dispara alerta antes do swap matar a sessão.",
+          "source": "github.com/Kevin-Liu-01/headroom"
+        },
+        {
+          "title": "im-looking-for: ache o arquivo pelo conteúdo",
+          "body": "MCP server de homelab que encontra arquivos pelo que há neles: fotos, PDFs, documentos, voice memos e vídeo. Sem índice prévio e sem mandar nada para fora.",
+          "source": "github.com/yazzang-homelab/im-looking-for"
+        },
+        {
+          "title": "Laravel ganha blog com MCP incluso",
+          "body": "Pacote Laravel de blog com SEO scoring embutido, geração de rascunho via laravel/ai e um MCP server incluso para o agente operar o blog de ponta a ponta.",
+          "source": "github.com/HawkForge/laravel-ai-blog"
+        },
+        {
+          "title": "Harness engineering no gamedev, topo do HN",
+          "body": "Artigo prático de Kyle Kukshtel sobre desenhar o harness de agentes com Claude Code no desenvolvimento de jogos: loop de contexto, ferramentas e validação.",
+          "source": {
+            "label": "kylekukshtel.com, 13 out",
+            "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A skill parou de ser documento e virou produto, o MCP quer se organizar por tarefa em vez de por servidor e o ofício de fundo ganhou nome: harness engineering. Quem desenha o ambiente em que o agente trabalha controla o resultado."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-15",
       "date": "2026-10-15",
       "hook": "Projetos e repos de 15 de outubro",
