@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-15-05h32",
+      "date": "2026-10-15",
+      "time": "05h32",
+      "hook": "BTC a US$ 81,4 mil · a subida arrastada da madrugada completou quatro horas e encostou no maior preço do dia, agora com os negócios de volta ao ritmo normal. O dia ainda marca queda de 2,9%.",
+      "caption": "Chegou lá sem susto e sem correria, degrau a degrau, dentro da mesma largura de 81,0 a 81,8 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-10-15-05h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-15-05h32",
+      "slides": [
+        {
+          "title": "Quatro horas subindo devagar, e ninguém apressou",
+          "body": "Chegou lá sem susto e sem correria, degrau a degrau, dentro da mesma largura de 81,0 a 81,8 mil"
+        },
+        {
+          "title": "US$ 81.401",
+          "body": "Δ1h +0,40% · Δ24h -2,9% · vol 24h US$ 41,4 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Quatro horas de recuperação lenta entre 81,0 e 81,8 mil, com volume de volta ao normal · Funding +0,0060% e L/S 1,80 (64% das contas compradas)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A decisão da manhã mora nos 81,8 mil",
+          "body": "Piso imediato: 81,0 mil (-0,5%) · acima do teto de 81,8 mil, a faixa de 82,0 a 82,4 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora; não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-15-01h32",
       "date": "2026-10-15",
       "time": "01h32",
