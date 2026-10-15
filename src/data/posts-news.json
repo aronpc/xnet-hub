@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-15",
+      "date": "2026-10-15",
+      "hook": "Projetos e repos de 15 de outubro",
+      "caption": "Sete ferramentas do dia, quase todas puxando pro mesmo lado: leveza em Rust, binário único, contexto enxuto. Destaque para um modelo de 1,2 MB que poda o contexto do agente e um OCR rápido que roda em CPU.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-15",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-15",
+      "slides": [
+        {
+          "title": "Projetos e repos de 15 de outubro",
+          "body": "Sete ferramentas do dia, quase todas puxando pro mesmo lado: leveza em Rust, binário único, contexto enxuto. Destaque para um modelo de 1,2 MB que poda o contexto do agente e um OCR rápido que roda em CPU."
+        },
+        {
+          "title": "Graphicle: grafo de código num binário Rust",
+          "body": "Lançado em 14 de outubro, empacota grafo de código e memória persistente para agentes de programação num único binário, com suporte a Claude Code.",
+          "source": "github.com/Graphicle-AI/graphicle"
+        },
+        {
+          "title": "Indra: OCR rápido rodando em CPU",
+          "body": "O datalab, autor do Marker e do Docling, lançou o Indra: OCR de alta velocidade em CPU, com detecção de linhas, reconhecimento CTC, ordem de leitura e saída em markdown.",
+          "source": "github.com/datalab-to/indra"
+        },
+        {
+          "title": "decomp.wtf: agente que decompila jogos em C",
+          "body": "O \"What The Function\" usa agentes para decompilar jogos que o usuário possui em código C que compila de verdade. O lançamento veio junto com o post \"AI is mass decompiling games\", discutindo a onda no HN.",
+          "source": "github.com/i12bp8/decomp.wtf"
+        },
+        {
+          "title": "opencode reescrito em Rust",
+          "body": "O vakandi publicou o opencode em Rust: CLI, TUI e servidor HTTP para agentes locais, como alternativa leve aos agentes de código pesados.",
+          "source": "github.com/vakandi/opencode-rust"
+        },
+        {
+          "title": "trim-1: modelo de 1,2 MB que poda o contexto",
+          "body": "A caveman-ai treinou um modelo minúsculo com uma só função: decidir quais linhas do contexto o agente mantém e descartar o resto.",
+          "source": "github.com/caveman-ai/trim-1"
+        },
+        {
+          "title": "Consus: gateway LLM para dado sensível",
+          "body": "Launch HN da turma F24 do YC: um gateway LLM para empresas que manipulam dado sensível, com roteamento, máscara e auditoria entre modelos e dados regulados.",
+          "source": {
+            "label": "Hacker News, 13 out",
+            "url": "https://news.ycombinator.com/item?id=50073471"
+          }
+        },
+        {
+          "title": "kybes: \"Know Your Backend\" para agentes",
+          "body": "Plugin que ajuda o agente de código a gerar estrutura consistente de Model e View a partir do backend existente, em vez de adivinhar a convenção do projeto.",
+          "source": "github.com/ivandilelio/kybes"
+        },
+        {
+          "title": "A semana da leveza",
+          "body": "Graphicle, opencode-rust e trim-1 apontam pro mesmo alvo: acabar com a obesidade do stack de agente. Binário único, memória previsível, contexto podado. Enquanto isso, o Consus lembra que compliance também vira camada de gateway."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-15",
       "date": "2026-10-15",
       "hook": "Panorama IA de 15 de outubro",
