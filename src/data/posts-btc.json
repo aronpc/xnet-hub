@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-14-23h35",
+      "date": "2026-10-14",
+      "time": "23h35",
+      "hook": "BTC a US$ 80,7 mil · o alívio da noite durou pouco: a faixa de 81 mil cedeu e o preço encostou no menor valor do dia, com os negócios engrossando junto da queda. O dia fecha com recuo de 3%.",
+      "caption": "Uma hora de movimento apagou a estabilidade da noite inteira, e o volume acompanhou: de 34,6 para 36,7 bilhões de dólares\n\nLeia: https://xbtc.aronpc.dev/#2026-10-14-23h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-14-23h35",
+      "slides": [
+        {
+          "title": "A faixa de 81 mil não segurou",
+          "body": "Uma hora de movimento apagou a estabilidade da noite inteira, e o volume acompanhou: de 34,6 para 36,7 bilhões de dólares"
+        },
+        {
+          "title": "US$ 80.668",
+          "body": "Δ1h -1,2% · Δ24h -3,0% · vol 24h US$ 36,7 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A base de 81,4 mil que segurou oito velas virou teto distante: queda em degraus com mínimos novos do dia · 64% das contas alavancadas seguem compradas, funding -0,002%, OI 92,4k",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Encostado no menor valor do dia",
+          "body": "Mínimo 24h: 80,2 mil (-0,6%) · primeiro teto: 81,1 mil (+0,5%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora; não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-14-21h31",
       "date": "2026-10-14",
       "time": "21h31",
