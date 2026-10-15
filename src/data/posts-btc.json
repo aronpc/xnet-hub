@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-15-10h30",
+      "date": "2026-10-15",
+      "time": "10h30",
+      "hook": "BTC a US$ 80,2 mil. O limite de 80,5 mil segurou o dia inteiro e cedeu no fim da manhã, com volume 30% acima da média. O preço desceu até 80,1 mil, a menor cotação das últimas 24 horas.",
+      "caption": "Além do preço, o interesse aberto também cresceu: capital novo entrou na direção contrária à alta\n\nLeia: https://xbtc.aronpc.dev/#2026-10-15-10h30",
+      "link": "https://xbtc.aronpc.dev/#2026-10-15-10h30",
+      "slides": [
+        {
+          "title": "A queda não foi sozinha",
+          "body": "Além do preço, o interesse aberto também cresceu: capital novo entrou na direção contrária à alta"
+        },
+        {
+          "title": "US$ 80.176",
+          "body": "Δ24h -2,7% · queda de 1,1% nas últimas duas horas · volume 24h de US$ 39,1 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "80,5 mil cederam com fluxo 1,3× a média. O interesse aberto subiu de 92k para 93k BTC durante a queda, marca de posições novas contra a alta · Funding +0,0003% · L/S 1,77",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "80 mil é o degrau seguinte",
+          "body": "Mínima de 24h em 80.091 (-0,1%) · perder 80 mil abre caminho a 79.500 · 80.500 (+0,4%) devolve o intervalo de 80,0 a 80,5 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora; não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-15-09h33",
       "date": "2026-10-15",
       "time": "09h33",
