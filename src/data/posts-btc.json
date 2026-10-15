@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-15-11h30",
+      "date": "2026-10-15",
+      "time": "11h30",
+      "hook": "BTC a US$ 81 mil. A mínima de 80,2 mil durou menos de uma hora: um salto de 1,1% devolveu a faixa de 80,5 a 81 mil que a manhã tinha levado embora.",
+      "caption": "É a primeira vez no dia que ficar posicionado contra a alta custa dinheiro: o financiamento virou negativo\n\nLeia: https://xbtc.aronpc.dev/#2026-10-15-11h30",
+      "link": "https://xbtc.aronpc.dev/#2026-10-15-11h30",
+      "slides": [
+        {
+          "title": "O fundo do dia passou no teste",
+          "body": "É a primeira vez no dia que ficar posicionado contra a alta custa dinheiro: o financiamento virou negativo"
+        },
+        {
+          "title": "US$ 81.025",
+          "body": "Δ1h +1,1% · fundo do dia 80,2 mil · máxima 24h 82,1 mil",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço de volta ao meio do corredor 80,5-81,6 mil · Financiamento -0,0008% · 65% das contas posicionadas para a alta · L/S 1,82",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Os extremos do dia estão a 1%",
+          "body": "Mínima do dia 80,2 mil (-1,0%) · máxima 24h 82,1 mil (+1,2%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora; não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-15-10h30",
       "date": "2026-10-15",
       "time": "10h30",
