@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-15-09h33",
+      "date": "2026-10-15",
+      "time": "09h33",
+      "hook": "BTC a US$ 80,8 mil · a alta que chegou a 81,4 mil de manhã cedo já foi entregue de volta: quatro leituras seguidas de queda, e a cotação voltou à parte de baixo do intervalo do dia.",
+      "caption": "81,0 mil ficou para trás e o dia acumula queda de 2,6%\n\nLeia: https://xbtc.aronpc.dev/#2026-10-15-09h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-15-09h33",
+      "slides": [
+        {
+          "title": "A recuperação não passou do café da manhã",
+          "body": "81,0 mil ficou para trás e o dia acumula queda de 2,6%"
+        },
+        {
+          "title": "US$ 80.767",
+          "body": "Δ1h -0,4% · Δ24h -2,6% · vol 24h US$ 40,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Quatro closes por hora em queda, agora encostando na linha de baixo do canal de 80,2 a 83,1 mil · Funding -0,0001% e L/S 1,78 (64% das contas na direção de alta)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A faixa de 80,5 a 81,0 mil decide a próxima hora",
+          "body": "Mínima do dia em 80,2 mil (-0,7%) · 81,0 mil (+0,3%) foi deixada para trás na sessão"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora; não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-15-05h32",
       "date": "2026-10-15",
       "time": "05h32",
