@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-15-12h35",
+      "date": "2026-10-15",
+      "time": "12h35",
+      "hook": "Depois de um dia inteiro preso lá embaixo, o BTC emendou três candles de alta e encostou no teto de 24h",
+      "caption": "Subiu de 80,2 para 82,2 mil com o interesse aberto acompanhando: dinheiro novo entrando no repique, não só recompra apressada.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-15-12h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-15-12h35",
+      "slides": [
+        {
+          "title": "O dia virou",
+          "body": "Subiu de 80,2 para 82,2 mil com o interesse aberto acompanhando: dinheiro novo entrando no repique, não só recompra apressada."
+        },
+        {
+          "title": "US$ 82.243",
+          "body": "Δ1h +1,5% · o fundo da manhã, 80,2 mil, ficou 2,6% para trás · interesse aberto 93,8 mil em alta",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Três fechamentos seguidos devolveram a faixa dos 82 mil · Financiamento +0,0008% · 63% dos traders na ponta compradora",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teto de 24h é o próximo degrau",
+          "body": "Referência de cima 82,5 mil (+0,3%) · piso retomado 82,0 mil (-0,3%) · passando daqui, a próxima citação do relatório é 83,5 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica atualizada de hora em hora; não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-15-11h30",
       "date": "2026-10-15",
       "time": "11h30",
