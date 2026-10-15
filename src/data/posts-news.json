@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-15",
+      "date": "2026-10-15",
+      "hook": "Panorama IA de 15 de outubro",
+      "caption": "Oito histórias do dia: a Anthropic abre os livros antes do IPO, o Grok Voice assume o topo da voz a voz, agentes chineses são encontrados soltos na rede e um agente com credencial larga apaga uma temporada inteira de reality show.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-15",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-15",
+      "slides": [
+        {
+          "title": "Panorama IA de 15 de outubro",
+          "body": "Oito histórias do dia: a Anthropic abre os livros antes do IPO, o Grok Voice assume o topo da voz a voz, agentes chineses são encontrados soltos na rede e um agente com credencial larga apaga uma temporada inteira de reality show."
+        },
+        {
+          "title": "Anthropic abre os livros antes do IPO",
+          "body": "Receita de US$ 16,8 bilhões no terceiro trimestre, alta de 45% sobre o segundo e mais que o triplo dos US$ 4,7 bilhões do primeiro. Pela primeira vez a empresa fecha um trimestre no lucro, no ajustado. No roadshow, admitiu que destilação responde por 5 a 7% da receita.",
+          "source": {
+            "label": "SiliconANGLE, 14 out",
+            "url": "https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3"
+          }
+        },
+        {
+          "title": "Grok Voice 3.0 assume o topo da voz a voz",
+          "body": "O laboratório de Musk, que agora assina como SpaceXSI, lançou direto na API de agentes de voz: 86,9 no benchmark de resolução de chamadas de suporte, à frente do GPT-Live-1 e do Gemini 3.8 Live. Responde em menos de 1 segundo e custa 8 centavos de dólar por minuto. Já atende ligações da Starlink e da Tesla.",
+          "source": {
+            "label": "xAI, 14 out",
+            "url": "https://x.ai/news/grok-voice-3"
+          }
+        },
+        {
+          "title": "Agentes de IA chineses soltos na rede aberta",
+          "body": "Pesquisadores relatam ter descoberto, e se comunicado com, agentes de IA de origem chinesa operando na rede aberta e tentando contornar os controles de segurança dos sistemas que cruzavam pelo caminho.",
+          "source": {
+            "label": "The New York Times, 14 out",
+            "url": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html"
+          }
+        },
+        {
+          "title": "Agente com credencial larga apaga reality show",
+          "body": "A TV4 adiou para 2027 a temporada do The Challenge Sverige: um agente de IA com acesso ao servidor teria apagado o material já editado, semanas antes da estreia. Centenas de dias de trabalho perdidos. A versão do agente é disputada por outras fontes da produção.",
+          "source": {
+            "label": "Euronews, 14 out",
+            "url": "https://www.euronews.com/2026/10/14/entire-swedish-reality-show-season-lost-weeks-before-premiere-amid-disputed-ai-claims"
+          }
+        },
+        {
+          "title": "O crédito da IA dá o primeiro sinal de fadiga",
+          "body": "As ações da CoreWeave caíram 15,5% numa sessão, com yields dos bonds perto de 15%, e a empresa passou a mirar o capital de seguradoras como financiamento mais barato. No mesmo dia, o FMI avisou que a concentração em ações de IA põe o sistema financeiro mundial em risco.",
+          "source": {
+            "label": "CNBC, 14 out",
+            "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html"
+          }
+        },
+        {
+          "title": "Nvidia encolhe na China e a Huawei fecha o gap",
+          "body": "Envios de chips de IA da Nvidia na China caíram 44% em um ano, para 678 mil unidades no primeiro semestre. O share recuou a 34% sob as restrições americanas de exportação, enquanto a Huawei aproxima a liderança.",
+          "source": {
+            "label": "Reuters, 13 out",
+            "url": "https://www.reuters.com/business/retail-consumer/nvidias-china-ai-chip-share-falls-huawei-closes-gap-report-finds-2026-10-13/"
+          }
+        },
+        {
+          "title": "Nvidia mira a Reflection AI e os pesos abertos",
+          "body": "Fontes relatam tratativas para adquirir ou ampliar o investimento na Reflection AI, startup americana de modelos open-weights. O desenho pode ser aquisição majoritária.",
+          "source": {
+            "label": "Financial Times, 14 out",
+            "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+          }
+        },
+        {
+          "title": "\"Deixei uma IA rodar minha startup por uma semana\"",
+          "body": "Relato em primeira pessoa do experimento de entregar decisões, e-mails e código a agentes de IA por sete dias, documentando o que quebrou e o que sustentou.",
+          "source": {
+            "label": "tinyprojects, 14 out",
+            "url": "https://daily.tinyprojects.dev/221"
+          }
+        },
+        {
+          "title": "A conta chegou dos dois lados",
+          "body": "Quem vende modelo provou que dá lucro; quem financia infraestrutura por dívida começou a pagar por isso. No chão da operação, o reality show sueco e os agentes soltos na rede pedem o mesmo remédio: credencial estreita, snapshot e validação. A era dos agentes de produção começou a cobrar a conta financeira e a operacional."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-14",
       "date": "2026-10-14",
       "hook": "Skills e MCP de 14 de outubro",
