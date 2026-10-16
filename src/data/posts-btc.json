@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-16-09h32",
+      "date": "2026-10-16",
+      "time": "09h32",
+      "hook": "BTC a US$ 82,3 mil. A escapada da manhã não passou de 82,9 mil: o avanço parou na hora mais movimentada do dia e o preço voltou à faixa onde está desde a madrugada.",
+      "caption": "Tentativa de sair por cima foi devolvida; bitcoin opera de novo entre 82,0 e 82,6 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-16-09h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-16-09h32",
+      "slides": [
+        {
+          "title": "A escapada durou uma hora",
+          "body": "Tentativa de sair por cima foi devolvida; bitcoin opera de novo entre 82,0 e 82,6 mil."
+        },
+        {
+          "title": "US$ 82.280",
+          "body": "Δ1h -0,6% · Δ24h +2,0% · volume 24h de US$ 32,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A recusa na máxima de 24h devolveu a faixa 82,0-82,6 mil · financiamento +0,003% · 60% do dinheiro em compra · 94,3 mil contratos abertos",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Teto e chão bem definidos",
+          "body": "Cima em 82.600 (+0,4%) e baixo em 82.000 (-0,3%): o desenho do dia muda se uma hora fechar fora desses limites"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-16-08h34",
       "date": "2026-10-16",
       "time": "08h34",
