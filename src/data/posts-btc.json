@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-16-08h34",
+      "date": "2026-10-16",
+      "time": "08h34",
+      "hook": "BTC a US$ 82,7 mil. A madrugada passou colada no mesmo preço e a primeira hora com movimento real veio às 8h: o preço encostou no topo do dia.",
+      "caption": "Oito leituras seguidas sem direção e a nona chega em alta, testando a máxima de 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-16-08h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-16-08h34",
+      "slides": [
+        {
+          "title": "A manhã chegou com movimento",
+          "body": "Oito leituras seguidas sem direção e a nona chega em alta, testando a máxima de 24 horas."
+        },
+        {
+          "title": "US$ 82.746",
+          "body": "Δ1h +1,0% · Δ24h +2,1% · volume 24h de US$ 32,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fechou acima do teto que segurou a madrugada · contratos abertos em 94,2k, topo do dia · financiamento +0,0037% e 61% do dinheiro em compra",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A máxima de 24 horas em jogo",
+          "body": "Referência de cima em 82.940 (+0,2%) · primeira referência abaixo em 82.600 (-0,2%) · o dia muda de figura se o fechamento da hora passar de 82.940"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-15-23h33",
       "date": "2026-10-15",
       "time": "23h33",
