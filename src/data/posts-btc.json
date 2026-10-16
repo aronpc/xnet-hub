@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-16-11h32",
+      "date": "2026-10-16",
+      "time": "11h32",
+      "hook": "BTC a US$ 82,3 mil. A baixa das 10h durou uma hora: a recompra devolveu o preço à zona dos 82 mil na abertura de Nova York, com as apostas em alta de volta ao patamar de antes.",
+      "caption": "O repique apagou a queda da manhã e o dia volta a girar entre 82,0 e 82,9 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-16-11h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-16-11h32",
+      "slides": [
+        {
+          "title": "De volta à zona dos 82 mil",
+          "body": "O repique apagou a queda da manhã e o dia volta a girar entre 82,0 e 82,9 mil."
+        },
+        {
+          "title": "US$ 82,3 mil",
+          "body": "Δ1h +0,5% · máxima do dia em 82,9 mil · mínima em 81,7 mil",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Nona hora dentro da mesma zona · financiamento +0,003%, quase neutro · 62% do dinheiro em alta · 96 mil BTC em contrato, novo máximo do dia",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Nova York decide a hora",
+          "body": "Fechar acima de 82,6 mil (+0,4%) encosta na máxima de 82,9 · voltar abaixo de 82,0 mil (-0,4%) reabre a mínima de 81,7"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-16-10h33",
       "date": "2026-10-16",
       "time": "10h33",
