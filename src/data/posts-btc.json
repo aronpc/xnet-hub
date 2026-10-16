@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-15-21h31",
+      "date": "2026-10-15",
+      "time": "21h31",
+      "hook": "BTC a US$ 82,3 mil, onze horas sem sair do mesmo trecho de preço. O que mudou agora foi o humor: o índice de medo e ganância pulou de 53 para 63 e entrou em gula leve, com o preço parado exatamente onde estava.",
+      "caption": "O termômetro de sentimento saiu do campo neutro (53) e foi a 63 sem nenhum movimento novo do BTC para justificar.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-15-21h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-15-21h31",
+      "slides": [
+        {
+          "title": "O ânimo chegou antes do preço",
+          "body": "O termômetro de sentimento saiu do campo neutro (53) e foi a 63 sem nenhum movimento novo do BTC para justificar."
+        },
+        {
+          "title": "US$ 82.291",
+          "body": "Δ1h +0,2% · Δ24h +0,7% · volume 24h de US$ 40,4 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Décima primeira hora entre 82,0 e 82,6 mil, com volume por vela na metade da média · financiamento +0,005% e 60% dos posicionados comprados, taxa mais baixa do dia",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "No mesmo trecho desde o meio-dia",
+          "body": "Zona de baixo em 82.000 (-0,4%) e topo em 82.600 (+0,4%); as posições abertas seguem perto do máximo do dia (94,2 mil BTC)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-15-20h34",
       "date": "2026-10-15",
       "time": "20h34",
