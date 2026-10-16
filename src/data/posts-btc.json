@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-16-14h37",
+      "date": "2026-10-16",
+      "time": "14h37",
+      "hook": "BTC a US$ 81,3 mil. O dia desceu degraus desde 82,9 mil e cravou o menor preço das últimas 24 horas em 80,8 mil. O repique parou logo acima desse fundo, e o contrato aberto cresceu justamente na queda: dinheiro novo entrando contra a alta.",
+      "caption": "O balanço de 24h recuou para -1,2% e o topo do dia, 82,9 mil, ficou a 2% de distância.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-16-14h37",
+      "link": "https://xbtc.aronpc.dev/#2026-10-16-14h37",
+      "slides": [
+        {
+          "title": "O dia desceu degraus até um fundo novo",
+          "body": "O balanço de 24h recuou para -1,2% e o topo do dia, 82,9 mil, ficou a 2% de distância."
+        },
+        {
+          "title": "US$ 81,3 mil",
+          "body": "Δ1h -0,3% · Δ24h -1,2% · volume 24h de $27,3 bi · topo do dia em 82,9 mil",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Degraus para baixo desde o topo de 82,9 mil, agora colado nos 81 mil · financiamento +0,007%, neutro · 62% das contas ainda em alta",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "80,8 mil é o número da hora",
+          "body": "Fechar abaixo de 80,8 mil (-0,7%) estende a leitura para 80,5 mil · recuperar 81,5 mil (+0,1%) devolve o controle local",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-16-12h34",
       "date": "2026-10-16",
       "time": "12h34",
