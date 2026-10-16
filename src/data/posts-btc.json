@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-16-12h34",
+      "date": "2026-10-16",
+      "time": "12h34",
+      "hook": "BTC a US$ 81,6 mil. A segunda tentativa de recuperação do dia parou antes dos 82 mil, o preço renovou o menor valor de 24 horas na virada de Nova York e o balanço do dia virou negativo.",
+      "caption": "A queda da tarde derruba o balanço de 24h para o negativo e grava mínimo novo, na terceira ida e volta à faixa dos 82 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-16-12h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-16-12h34",
+      "slides": [
+        {
+          "title": "Dia no vermelho com piso renovado",
+          "body": "A queda da tarde derruba o balanço de 24h para o negativo e grava mínimo novo, na terceira ida e volta à faixa dos 82 mil."
+        },
+        {
+          "title": "US$ 81,6 mil",
+          "body": "Δ1h -0,9% · Δ24h -0,7% · máxima de 24h em 82,9 mil · mínima nova em 81,5 mil",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Os 82 mil foram devolvidos pela segunda vez no dia, agora com o piso renovado · financiamento +0,004% · 61% das contas em alta",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O novo piso é a linha do momento",
+          "body": "Fechar abaixo de 81,5 mil (-0,2%) encadeia mínimos · fechar acima de 82,0 mil (+0,5%) devolve a faixa de 82,0 a 82,9 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-16-11h32",
       "date": "2026-10-16",
       "time": "11h32",
