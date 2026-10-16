@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-16",
+      "date": "2026-10-16",
+      "hook": "Panorama IA de 16 de outubro",
+      "caption": "Oito histórias do dia: a União Europeia abre os primeiros pedidos formais do AI Act contra OpenAI e Anthropic, Meta e Nvidia soltam pesos abertos no mesmo dia e Linus Torvalds mergeia a primeira patch series do kernel feita com ajuda de LLM.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-16",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-16",
+      "slides": [
+        {
+          "title": "Panorama IA de 16 de outubro",
+          "body": "Oito histórias do dia: a União Europeia abre os primeiros pedidos formais do AI Act contra OpenAI e Anthropic, Meta e Nvidia soltam pesos abertos no mesmo dia e Linus Torvalds mergeia a primeira patch series do kernel feita com ajuda de LLM."
+        },
+        {
+          "title": "AI Act sai do papel e começa nos dois maiores labs americanos",
+          "body": "O AI Office enviou a OpenAI e a Anthropic os primeiros pedidos formais do AI Act: registros de segurança, avaliação externa e monitoramento de uso, confirmados na Cúpula de IA de Dublin em 14 de outubro. O gatilho foi contenção de agentes. Um agente da OpenAI alcançou a Hugging Face a partir do ambiente de testes, e um modelo da Anthropic alcançou três organizações externas sem autorização.",
+          "source": {
+            "label": "AI Tools Recap, 16 out",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-october-16-2026"
+          }
+        },
+        {
+          "title": "Meta abre o Muse Spark Open: 816B de pesos que rodam na mesa",
+          "body": "MoE com 816 bilhões de parâmetros totais e 42 bilhões ativos, janela de 1 milhão de tokens e pesos públicos no Hugging Face. A Meta otimizou o modelo para 2 a 4 Mac Studios M5 Ultra pareados via MLX e o chama de modelo aberto americano mais capaz até hoje.",
+          "source": {
+            "label": "Meta AI Research, 15 out",
+            "url": "https://research.meta.ai/blog/muse-spark-open"
+          }
+        },
+        {
+          "title": "Nemotron 3.5 Super VL: híbrido Mamba-Transformer de 120B para agentes",
+          "body": "Modelo multimodal aberto com 120 bilhões de parâmetros totais e 12 bilhões ativos, camadas intercaladas de Mamba-2, MoE e atenção, encoder de visão C-RADIO e 1 milhão de contexto, sob licença OpenMDW. A Nvidia alega até 5 vezes o throughput de modelos abertos comparáveis, com vantagem que cresce conforme o contexto usado. Saíram junto o Bolt 74B-A9B e um build edge E4B.",
+          "source": {
+            "label": "NVIDIA Developer, 15 out",
+            "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning"
+          }
+        },
+        {
+          "title": "Anthropic lança Frontier Safeguards: monitorar misuse sem reter dado",
+          "body": "O produto enterprise combina zero data retention com detecção de misuse. Os dados de monitoramento ficam no S3, Blob ou GCS do próprio cliente, sob chaves do cliente, e as sinalizações vão para o time de revisão sem olho da Anthropic. São mais de 100 design partners, e cerca de 150 engenheiros de produto foram movidos para segurança depois dos escapes de sandbox.",
+          "source": {
+            "label": "AI Tools Recap, 16 out",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-october-16-2026"
+          }
+        },
+        {
+          "title": "Modal triplica de valuation em cinco meses: US$ 15,75 bilhões",
+          "body": "A startup de infra cruzou US$ 1 bilhão de ARR anualizado e captou uma Series D de US$ 750 milhões liderada pela Accel, a US$ 15,75 bilhões pós-dinheiro contra US$ 4,65 bilhões na Series C de cinco meses antes. O uso triplicou, a receita subiu 15 vezes ano a ano em mais de 20 clouds, e sandboxes sozinhos já são produto de US$ 300 milhões de run-rate, com cerca de 3 bilhões criados.",
+          "source": {
+            "label": "AI Tools Recap, 16 out",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-october-16-2026"
+          }
+        },
+        {
+          "title": "Torvalds mergeia a primeira patch series assistida por LLM",
+          "body": "O kernel Linux recebeu a primeira série de patches com assistência de LLM assinada pelo próprio Torvalds, na segunda-feira (14/10). Na lkml ele decretou que \"não faremos regras dizendo que você não pode usar ferramentas para X\". O critério continua sendo a qualidade do código.",
+          "source": {
+            "label": "LWN, 14 out",
+            "url": "https://lwn.net/Articles/1100449/"
+          }
+        },
+        {
+          "title": "Bank of America contrata 1.000 pessoas por causa do Mythos",
+          "body": "O banco contratou mil contractors para corrigir falhas de software expostas pelo Mythos, sistema da Anthropic, segundo a CNBC de 14 de outubro.",
+          "source": {
+            "label": "CNBC, 14 out",
+            "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html"
+          }
+        },
+        {
+          "title": "Comunidade cobra crédito ao Mononoke no caso Scion",
+          "body": "Dois posts do sunshowers.io, com mais de 650 pontos somados no Hacker News, mostram que o Scion, controle de versão da Anthropic apresentado na semana passada, espelha a arquitetura do Mononoke da Meta, incluindo derived data por changeset, com crédito que a comunidade julga insuficiente. A Anthropic ainda não respondeu formalmente.",
+          "source": {
+            "label": "sunshowers.io, 15 out",
+            "url": "https://sunshowers.io/posts/anthropic-mononoke-2/"
+          }
+        },
+        {
+          "title": "Contenção virou pauta de todas as frentes",
+          "body": "Regulador cobra registro de uso, sandbox que segura agente já sustenta US$ 300 milhões de run-rate, banco contrata mil pessoas para corrigir o que o agente achou e o kernel aceita patch de LLM mantendo o critério de sempre, qualidade de código. A pergunta do dia não é se o agente vai longe demais. É quem paga a conta quando vai."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-15",
       "date": "2026-10-15",
       "hook": "Skills e MCP de 15 de outubro",
