@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-15-23h33",
+      "date": "2026-10-15",
+      "time": "23h33",
+      "hook": "BTC a US$ 82,0 mil. Treze horas circulando entre 82,0 e 82,6 mil terminaram em queda perto da meia-noite, e o humor do mercado seguia otimista.",
+      "caption": "Primeira leitura abaixo da linha dos 82 mil desde o meio-dia; a direção do momento passou a baixista.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-15-23h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-15-23h33",
+      "slides": [
+        {
+          "title": "A faixa escolheu um lado",
+          "body": "Primeira leitura abaixo da linha dos 82 mil desde o meio-dia; a direção do momento passou a baixista."
+        },
+        {
+          "title": "US$ 81.988",
+          "body": "Δ1h -0,3% · Δ24h +1,8% · volume 24h de US$ 37,1 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Perdeu os 82.000 no fim de treze horas de compressão · financiamento +0,0041% e 60% do dinheiro posicionado na compra · sentimento em 63, zona de ganância",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "82.000 virou teto",
+          "body": "Teto novo em 82.050 (+0,1%) · apoio seguinte em 81.500 (-0,6%) · a queda perde força se o preço fechar de volta acima de 82.300"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-15-21h31",
       "date": "2026-10-15",
       "time": "21h31",
