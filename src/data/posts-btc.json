@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-16-19h32",
+      "date": "2026-10-16",
+      "time": "19h32",
+      "hook": "BTC a US$ 81,8 mil. Quinto fechamento horário em alta seguido, e o preço acabou de tomar o topo local. O caminho até 82 mil ficou livre. É o terceiro encontro do dia com essa região, agora com bem menos movimento atrás.",
+      "caption": "Balanço de 24h em -0,5%, contra -0,8% no fim da tarde.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-16-19h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-16-19h32",
+      "slides": [
+        {
+          "title": "Cinco altas seguidas, quase sem volume",
+          "body": "Balanço de 24h em -0,5%, contra -0,8% no fim da tarde."
+        },
+        {
+          "title": "US$ 81,8 mil",
+          "body": "Δ1h +0,2% · Δ24h -0,5% · movimento da hora a 0,14× a média · contrato aberto em 95 mil BTC, estável",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fechamentos horários subindo em sequência desde o fundo da tarde, agora colados em 82 mil · financiamento +0,010%, neutro · 63% das contas posicionadas para alta, número que vem cedendo aos poucos"
+        },
+        {
+          "title": "82 mil pela terceira vez hoje",
+          "body": "Acima de 82,0 mil (+0,3%), o dia ganha uma região nova · de volta a 81,5 mil (-0,4%), reassume o meio do intervalo"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-16-17h35",
       "date": "2026-10-16",
       "time": "17h35",
