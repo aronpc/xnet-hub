@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-16-10h33",
+      "date": "2026-10-16",
+      "time": "10h33",
+      "hook": "BTC a US$ 81,8 mil. Os 82 mil que sustentavam o preço desde a madrugada cederam, e a hora fechou no menor ponto do dia. Enquanto o preço caía, o total de posições abertas marcava o máximo da jornada.",
+      "caption": "Primeira leitura de baixa do dia: o preço escorregou dos 82 mil em movimento fraco, sem pressão de venda pesada.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-16-10h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-16-10h33",
+      "slides": [
+        {
+          "title": "82 mil não segurou",
+          "body": "Primeira leitura de baixa do dia: o preço escorregou dos 82 mil em movimento fraco, sem pressão de venda pesada."
+        },
+        {
+          "title": "US$ 81.804",
+          "body": "Δ1h -0,6% · Δ24h +1,8% · volume 24h de US$ 29,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Base de 82,0 mil perdida no menor fechamento por hora do dia · financiamento quase zerado (+0,0015%) · 61% do dinheiro em alta · 95 mil contratos abertos, recorde da jornada",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "81,7 mil decide a próxima hora",
+          "body": "Cair de 81,7 mil (-0,1%) abre caminho até 80,1 mil · voltar acima de 82,0 mil (+0,2%) anula a leitura de queda"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-16-09h32",
       "date": "2026-10-16",
       "time": "09h32",
