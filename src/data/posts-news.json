@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-17",
+      "date": "2026-10-17",
+      "hook": "Projetos e repos de 17 de outubro",
+      "caption": "Sete repos do dia: um Git redesenhado para 50 agentes na mesma branch, o AI-Scientist v3 aberto com paper de 88 páginas, agente dando voz a NPC de jogo e duas ferramentas atacando o custo real de rodar agentes, o contexto.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-17",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-17",
+      "slides": [
+        {
+          "title": "Projetos e repos de 17 de outubro",
+          "body": "Sete repos do dia: um Git redesenhado para 50 agentes na mesma branch, o AI-Scientist v3 aberto com paper de 88 páginas, agente dando voz a NPC de jogo e duas ferramentas atacando o custo real de rodar agentes, o contexto."
+        },
+        {
+          "title": "git-ai: um Git desenhado para agentes, 1.067 estrelas em 2 dias",
+          "body": "O repo de feder-cr redesenha o fluxo do Git para agentes, com o lema \"50 agents on one branch\". Toda a funcionalidade de IA funciona com qualquer provedor ou com nenhum. São 1.067 estrelas desde 15 de outubro.",
+          "source": "github.com/feder-cr/git-ai"
+        },
+        {
+          "title": "Sakana abre o AI-Scientist v3 com paper de 88 páginas",
+          "body": "O AI-Scientist-v3, em Apache 2.0, orquestra agentes de código que pegam um task.md e devolvem experimentos, ablações e paper pronto, tudo dentro de Docker. A versão em development co-assinou um paper aceito como oral no ALIFE 2026, e a documentação de 88 páginas está no arXiv.",
+          "source": "github.com/SakanaAI/AI-Scientist-v3"
+        },
+        {
+          "title": "NPCTalk: qualquer NPC de qualquer jogo conversa por voz",
+          "body": "Projeto de christos-antono dá voz a personagens de jogos usando Fish Audio, com skills, voice server self-hosted e ferramentas para o agente. São 91 estrelas desde 15 de outubro.",
+          "source": "github.com/christos-antono/NPCTalk"
+        },
+        {
+          "title": "coop-anything: agente transforma single-player em cooperativo",
+          "body": "O repo de cranebeaker aponta um agente para qualquer jogo single-player e o usa como intermediário, online ou local. Nasceram 75 estrelas nas primeiras 24 horas.",
+          "source": "github.com/cranebeaker/coop-anything"
+        },
+        {
+          "title": "TokenForge coloca tool output em sandbox e corta 98% do contexto",
+          "body": "O repo de speedydivid, criado hoje, isola o output de ferramentas usado por agentes de código e persiste só o que importa. A redução declarada é de 98% no contexto consumido, número ainda sem verificação independente.",
+          "source": "github.com/speedydivid/TokenForge"
+        },
+        {
+          "title": "MyAgent: runtime de agente escrito do zero, com context folding",
+          "body": "ztt0216 publica em chinês um runtime de agente genérico implementado na mão: agent loop, permissões, MCP, subagentes, context folding e skills de auto-evolução. É projeto educacional com 37 estrelas.",
+          "source": "github.com/ztt0216/MyAgent"
+        },
+        {
+          "title": "Jockey, da TwelveLabs, lidera o Product Hunt do dia",
+          "body": "O número 1 do leaderboard de 16 de outubro organiza, indexa e entende bibliotecas inteiras de vídeo do usuário. O slogan resume: sua coleção de vídeos organizada, pesquisável e entendida.",
+          "source": {
+            "label": "Product Hunt, 16 out",
+            "url": "https://www.producthunt.com/leaderboard/daily/2026/10/16"
+          }
+        },
+        {
+          "title": "As ferramentas de agentes estão resolvendo as dores de agentes",
+          "body": "Os repos do dia miram a fricção exata de quem roda frota de agentes: versionamento feito para dezena de agentes na mesma branch e sandbox de tool output porque contexto virou a conta a pagar. As dores de 2025 viraram roadmap de repos de 2026."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-17",
       "date": "2026-10-17",
       "hook": "Panorama IA de 17 de outubro",
