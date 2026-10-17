@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-17-18h34",
+      "date": "2026-10-17",
+      "time": "18h34",
+      "hook": "As dezoito primeiras leituras de hoje ficaram entre 81,2 e 81,6 mil. A décima nona desceu a US$ 81,0 mil e parou no ponto mais baixo das últimas 24h. O balanço do dia virou negativo, com queda de 0,8% e volume de $13,7 bi em 24h.",
+      "caption": "A queda de 0,7% na última hora apagou o repique da tarde e deixou o BTC no ponto mais baixo das últimas 24h.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-17-18h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-17-18h34",
+      "slides": [
+        {
+          "title": "O preço chegou ao piso do intervalo",
+          "body": "A queda de 0,7% na última hora apagou o repique da tarde e deixou o BTC no ponto mais baixo das últimas 24h."
+        },
+        {
+          "title": "US$ 81,0 mil",
+          "body": "Δ1h −0,7% · Δ24h −0,8% · volume 24h de $13,7 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Leitura mais baixa do dia, no limite inferior do intervalo de 24h (81,0 a 81,8 mil) · financiamento +0,00%, neutro · 1,71 conta em alta para cada uma em baixa",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Teto a 1%, preço no chão do dia",
+          "body": "Mínimo de 24h em 81,0 mil, onde o preço está agora · máximo em 81,8 mil, a 1,0% de distância",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-17-15h34",
       "date": "2026-10-17",
       "time": "15h34",
