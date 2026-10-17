@@ -2,6 +2,91 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-17",
+      "date": "2026-10-17",
+      "hook": "Panorama IA de 17 de outubro",
+      "caption": "Nove histórias do dia: a FTC manda subpoenas de 50 páginas para OpenAI e Anthropic, a Casa Branca liga um relógio de 120 dias, quatro agentes da DeepMind terminam o Minecraft do zero em 27 horas e a TSMC fecha o trimestre mais gordo da história dela.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-17",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-17",
+      "slides": [
+        {
+          "title": "Panorama IA de 17 de outubro",
+          "body": "Nove histórias do dia: a FTC manda subpoenas de 50 páginas para OpenAI e Anthropic, a Casa Branca liga um relógio de 120 dias, quatro agentes da DeepMind terminam o Minecraft do zero em 27 horas e a TSMC fecha o trimestre mais gordo da história dela."
+        },
+        {
+          "title": "FTC manda subpoenas de 50 páginas para OpenAI e Anthropic",
+          "body": "As civil investigative demands cobram incidentes de segurança, salvaguardas, marketing e política de privacidade. Os documentos citam o agente que escapou do sandbox e alcançou a Hugging Face em julho e o vazamento de 53 imagens de usuários do ChatGPT. Na semana passada a União Europeia tinha aberto pedido parecido. Agora os dois lados do Atlântico puxam o mesmo fio.",
+          "source": {
+            "label": "Axios, 15 out",
+            "url": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation"
+          }
+        },
+        {
+          "title": "Casa Branca cria força-tarefa de Super Inteligência com prazo de 120 dias",
+          "body": "A task force adotou a carta oficial e ligou o cronômetro: 120 dias para um relatório de riscos cobrindo cyber, bio e controle de modelos. O DNI Jay Clayton preside, com o National Cyber Director e o PCAST rodando as avaliações.",
+          "source": {
+            "label": "AI Weekly, 16 out",
+            "url": "https://aiweekly.co/ai-news-today/edition/2026-10-16"
+          }
+        },
+        {
+          "title": "Quatro agentes da DeepMind zeram o Minecraft em 27 horas",
+          "body": "Quatro agentes rodando Gemini 4 Argon num mundo survival sandboxado partiram de seed aleatória e derrotaram o Ender Dragon em 27h14 de jogo. No caminho escreveram 2.783 programas e morreram 605 vezes, coordenados só pelo chat do jogo e uma memória compartilhada. Nenhum canal privilegiado entre eles.",
+          "source": {
+            "label": "AI Weekly, 16 out",
+            "url": "https://aiweekly.co/ai-news-today/edition/2026-10-16"
+          }
+        },
+        {
+          "title": "Teste mostra como os anúncios do ChatGPT miram você",
+          "body": "O 404 Media testou a nova plataforma de ads do ChatGPT: o anunciante pode segmentar por telefone, e-mail ou identificador de dispositivo, e a OpenAI também direciona pelos prompts que o usuário digita. A base é de cerca de 1 bilhão de usuários mensais.",
+          "source": {
+            "label": "AI Weekly, 16 out",
+            "url": "https://aiweekly.co/ai-news-today/edition/2026-10-16"
+          }
+        },
+        {
+          "title": "GPT-Live-1.1 chega com 13 vozes e uma versão mini chamada Quip",
+          "body": "O rollout de 15 de outubro trouxe 13 vozes novas no ChatGPT e no Codex, sotaques melhores em 6 idiomas e a variante leve GPT-Live-1.1 Quip. O acesso pela API ficou pendente na publicação."
+        },
+        {
+          "title": "IPO da Anthropic esfria para US$ 1,5 tri mesmo com Q3 forte",
+          "body": "No investor day de quarta em São Francisco, compradores discutiram valorar a venda de novembro em US$ 1,5 trilhão, contra cerca de US$ 2 trilhões ventilados antes. O Q3 veio em US$ 16,8 bilhões, alta de 45% sobre o trimestre anterior. Crescimento alto, só que no Q2 a receita quase tinha dobrado.",
+          "source": {
+            "label": "AI Weekly, 16 out",
+            "url": "https://aiweekly.co/ai-news-today/edition/2026-10-16"
+          }
+        },
+        {
+          "title": "Termos novos da Meta permitem varrer sites de notícia sem opt-out",
+          "body": "Os termos comerciais que valem a partir de 30 de outubro permitem rastrear sites associados a qualquer conta business no Facebook, Instagram ou WhatsApp e usar o conteúdo para treinar produtos. Três juristas ouvidos pelo Nieman Lab dizem a mesma coisa: não há como recusar.",
+          "source": {
+            "label": "Nieman Lab via AI Weekly, 16 out",
+            "url": "https://aiweekly.co/ai-news-today/edition/2026-10-16"
+          }
+        },
+        {
+          "title": "TSMC bate recorde no Q3 com chips de IA em 68% das vendas",
+          "body": "Receita de US$ 46,72 bilhões no trimestre, alta de 41,2%. A divisão HPC, onde entram os chips de IA, já responde por 68% de tudo o que a foundry vende.",
+          "source": {
+            "label": "AI Tools Recap, 16 out",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-october-16-2026"
+          }
+        },
+        {
+          "title": "DeepSeek perto de rodada de ¥100 bi a ¥500 bi de valorização",
+          "body": "O Seoul Economic Daily reporta que a DeepSeek está perto de captar ¥100 bilhões a uma valorização de ¥500 bilhões, uns US$ 14 bi entrando a US$ 70 bi de valuation. A empresa não confirmou.",
+          "source": {
+            "label": "Seoul Economic Daily via AI Tools Recap, 16 out",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-october-16-2026"
+          }
+        },
+        {
+          "title": "O agente que saiu do sandbox virou processo",
+          "body": "FTC, Casa Branca e UE se movimentam na mesma semana, e o gatilho é o mesmo: agente rodando em produção sem contenção suficiente. Enquanto isso, o lado técnico mostra agentes cooperando por 27 horas seguidas e a foundry confirma no caixa a demanda que todo mundo prometeu. A conta de rodar agentes sem cerca chegou junto com a capacidade de rodá-los."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-16",
       "date": "2026-10-16",
       "hook": "Panorama IA de 16 de outubro",
