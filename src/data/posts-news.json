@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-17",
+      "date": "2026-10-17",
+      "hook": "Skills e MCP de 17 de outubro",
+      "caption": "Sete novidades do dia: o MCP chega ao Blender de vez, o Claude Code muda as regras com a 2.1.302, skills que se auto-melhoram com governança no loop e memória local-first entre sessões.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-17",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-17",
+      "slides": [
+        {
+          "title": "Skills e MCP de 17 de outubro",
+          "body": "Sete novidades do dia: o MCP chega ao Blender de vez, o Claude Code muda as regras com a 2.1.302, skills que se auto-melhoram com governança no loop e memória local-first entre sessões."
+        },
+        {
+          "title": "mcp-for-blender-pro: assistente IA no Blender, 306 estrelas em 2 dias",
+          "body": "O repo de anujasid traz chat visual, ferramentas de cena, seleção de modelos e trabalho multiagente no Blender via MCP server. São 306 estrelas desde 15 de outubro.",
+          "source": "github.com/anujasid/mcp-for-blender-pro"
+        },
+        {
+          "title": "Claude Code 2.1.302: controle do auto-mode e fim do claude.ai/design",
+          "body": "A release de 16 de outubro adiciona a variável CLAUDE_CODE_AUTO_MODE_MODEL para escolher o modelo do classificador auto e a linha de idle compaction no /config. Também avisa que o Claude Design standalone, o claude.ai/design, fecha em 14 de dezembro de 2026. Veio ainda um fix de cache miss ao recarregar ferramenta via ToolSearch depois da compactação.",
+          "source": {
+            "label": "Claude Code releases, 16 out",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.302"
+          }
+        },
+        {
+          "title": "generate-social-preview: o repo que se anuncia sozinho",
+          "body": "Skill de morluto gera imagens de preview para redes sociais cientes do repositório, com direções visuais e export pronta para GitHub. São 27 estrelas.",
+          "source": "github.com/morluto/generate-social-preview"
+        },
+        {
+          "title": "myelinate: skills que se auto-melhoram com governança no loop",
+          "body": "O repo de notaaaronfr adiciona memória e skills auto-melhoráveis a qualquer framework de agente, com o controle embutido no próprio ciclo. Foi publicado em 16 de outubro.",
+          "source": "github.com/notaaaronfr/myelinate"
+        },
+        {
+          "title": "devmemory: memória local-first para Claude Code e Cursor",
+          "body": "MCP server mais CLI de vasikmansuri dá memória persistente entre sessões a agentes de código, com SQLite por baixo e tudo rodando na máquina local. Publicado em 15 de outubro.",
+          "source": "github.com/vasikmansuri/devmemory"
+        },
+        {
+          "title": "Colab-MCP: o Google Colab como backend de agentes",
+          "body": "MCP server não oficial de amgallego8 expõe runtimes, jobs longos, arquivos, notebooks e, se você quiser, o Drive do Google Colab a agentes externos.",
+          "source": "github.com/amgallego8/Colab-MCP"
+        },
+        {
+          "title": "Skills agênticas chegam ao Magento, em quatro CLIs",
+          "body": "O repo da mage-os-lab traz skills de agente para Magento e Mage-OS funcionando com Claude Code, Codex, Gemini CLI e Cursor. Foi publicado em 16 de outubro.",
+          "source": "github.com/mage-os-lab/agent-skills"
+        },
+        {
+          "title": "O ecossistema de skills está indo pra dentro dos hosts",
+          "body": "Governança na auto-evolução, memória local entre sessões, autoria de plugin ensinada por skill: as skills deixaram de ser texto de instrução solto e viram camada de plataforma. Na mesma semana, o próprio Claude Code mudou as regras do jogo com controle de custo e o fechamento do Design standalone. Vale menos colecionar skill e vale mais desenhar o loop."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-17",
       "date": "2026-10-17",
       "hook": "Projetos e repos de 17 de outubro",
