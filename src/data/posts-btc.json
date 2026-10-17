@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-16-23h34",
+      "date": "2026-10-16",
+      "time": "23h34",
+      "hook": "BTC a US$ 81,4 mil. As cinco altas seguidas do fim da tarde não sobreviveram à madrugada: máximas e mínimas em queda desde as 22h, e a hora em curso passou por baixo dos 81,5 mil, ainda sem fechamento confirmado. Enquanto o preço desce, 63% das contas seguem posicionadas para alta.",
+      "caption": "O balanço de 24h caiu para -0,8%, e o topo noturno de 81,8 mil já ficou para trás.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-16-23h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-16-23h34",
+      "slides": [
+        {
+          "title": "A faxina lenta da madrugada",
+          "body": "O balanço de 24h caiu para -0,8%, e o topo noturno de 81,8 mil já ficou para trás."
+        },
+        {
+          "title": "US$ 81,4 mil",
+          "body": "Δ1h -0,2% · Δ24h -0,8% · volume 24h de $27,1 bi · movimento da hora a 0,30× a média",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Topos e fundos em queda a noite toda, e a hora em curso rompeu 81,5 mil para baixo, ainda sem fechamento · financiamento +0,010%, neutro · 63% das contas para alta",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "81,5 mil virou o teto da hora",
+          "body": "Abaixo de 81,0 mil (-0,4%), entram em cena 80,8 mil (-0,7%) e 80,5 mil (-1,1%) · voltar acima de 81,7 mil (+0,4%) interrompe a queda"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-16-19h32",
       "date": "2026-10-16",
       "time": "19h32",
