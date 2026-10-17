@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-17-15h34",
+      "date": "2026-10-17",
+      "time": "15h34",
+      "hook": "BTC a US$ 81,6 mil. O dia inteiro coube num corredor de 400 dólares: das dezesseis leituras de hoje, nenhuma passou de 81,7 mil nem perdeu 81,3 mil. A tarde encostou na parte de baixo e voltou, e o balanço de 24h segue quase no zero a zero. Clima de espera.",
+      "caption": "O ponto mais baixo da tarde, 81,3 mil, ficou para trás; o preço voltou à porta dos 81,6 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-17-15h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-17-15h34",
+      "slides": [
+        {
+          "title": "Um dia inteiro na mesma vizinhança",
+          "body": "O ponto mais baixo da tarde, 81,3 mil, ficou para trás; o preço voltou à porta dos 81,6 mil."
+        },
+        {
+          "title": "US$ 81,6 mil",
+          "body": "Δ1h +0,4% · Δ24h +0,2% · volume 24h de $15,4 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço no terço superior da faixa de 24h, de 81,0 a 81,8 mil, depois de tocar o ponto mais baixo da tarde · financiamento +0,003%, neutro · 63% das contas apostadas em alta",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "As bordas da faixa seguem no lugar",
+          "body": "Máxima de 24h em 81,8 mil (+0,3%) · mínima da tarde em 81,3 mil (-0,4%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-16-23h34",
       "date": "2026-10-16",
       "time": "23h34",
