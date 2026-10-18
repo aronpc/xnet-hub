@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-18",
+      "date": "2026-10-18",
+      "hook": "Skills e MCP de 18 de outubro",
+      "caption": "Sete histórias do dia: o time do Claude Code documenta como faz code review no volume que agentes produzem, uma skill de 8 KB substitui um framework inteiro, um scanner checa seu diretório de MCP antes de você conectar, e um post nomeia o contract drift dos servidores.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-18",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-18",
+      "slides": [
+        {
+          "title": "Skills e MCP de 18 de outubro",
+          "body": "Sete histórias do dia: o time do Claude Code documenta como faz code review no volume que agentes produzem, uma skill de 8 KB substitui um framework inteiro, um scanner checa seu diretório de MCP antes de você conectar, e um post nomeia o contract drift dos servidores."
+        },
+        {
+          "title": "Como o time do Claude Code faz code review",
+          "body": "Post de engenharia sobre revisar código no volume que agentes produzem. Com cobertura alta e reviews profundos, o time passou a otimizar a mínima quantidade de tempo humano de review que não aumenta reverts.",
+          "source": {
+            "label": "claude.dev/blog, 16 out",
+            "url": "https://claude.dev/blog/solving-code-review-at-anthropic/"
+          }
+        },
+        {
+          "title": "Skill de 8 KB substitui framework inteiro",
+          "body": "A leanrea substitui o REA, Reverse Engineer Anything, usando só ferramentas de linha de comando, sem nenhum servidor MCP. No benchmark próprio, roda 38% mais rápido.",
+          "source": {
+            "label": "github.com/aicodeking/leanrea, 17 out",
+            "url": "https://github.com/aicodeking/leanrea"
+          }
+        },
+        {
+          "title": "A sessão principal vira dispatcher que nunca espera",
+          "body": "Skill do Claude Code que transforma a sessão principal em despachante de subtarefas, mantendo o contexto limpo e sem travar na espera de subordinados.",
+          "source": {
+            "label": "github.com/olivieropinotti/orchestrator-skill, 17 out",
+            "url": "https://github.com/olivieropinotti/orchestrator-skill"
+          }
+        },
+        {
+          "title": "Skill gera animação explicativa narrada",
+          "body": "A partir de uma frase, a skill faz o coding agent produzir animação explicativa com narração, legendas e três temas de cor.",
+          "source": {
+            "label": "github.com/mathruffian-dot/claude-motion-explainer, 17 out",
+            "url": "https://github.com/mathruffian-dot/claude-motion-explainer"
+          }
+        },
+        {
+          "title": "Cole um link de vídeo, receba uma skill",
+          "body": "A skipwatch converte tutoriais de X, YouTube, TikTok, Instagram e Facebook em skills prontas: o vídeo vira instrução executável do agente.",
+          "source": {
+            "label": "github.com/robert-botto/skipwatch, 17 out",
+            "url": "https://github.com/robert-botto/skipwatch"
+          }
+        },
+        {
+          "title": "Scanner de MCP antes de conectar o agente",
+          "body": "O MCPX escaneia diretórios de servidores MCP procurando tool poisoning e chaves expostas antes de você conectar o agente.",
+          "source": {
+            "label": "mcpx.digital, 18 out",
+            "url": "https://www.mcpx.digital/"
+          }
+        },
+        {
+          "title": "MCP contract drift: instruções que ninguém aprovou",
+          "body": "Post técnico mostra um servidor MCP que muda silenciosamente o comportamento das tools depois da aprovação. O agente passa a seguir instruções que você nunca viu.",
+          "source": {
+            "label": "rugsnare, 17 out",
+            "url": "https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md"
+          }
+        },
+        {
+          "title": "Menos framework, mais perímetro",
+          "body": "A semana polariza em dois eixos: a leandeza da skill, com 8 KB vencendo framework, e a segurança do supply-chain MCP, que ganhou scanner e nome próprio para o contract drift. A resposta da semana é apertar o perímetro e reduzir a stack."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-18",
       "date": "2026-10-18",
       "hook": "Projetos e repos IA de 18 de outubro",
