@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-18-10h34",
+      "date": "2026-10-18",
+      "time": "10h34",
+      "hook": "Pelas 7h37 o Bitcoin negociava a US$ 82,2 mil, colado na máxima do dia. Às 10h34 está em US$ 81,4 mil, praticamente de volta ao ponto de ontem à noite, com Δ24h de 0,0%. A descida veio em três fechamentos de hora seguidos para baixo, e o volume de 24h segue em $16,1 bi. O repique do amanhecer durou o café.",
+      "caption": "Três leituras de hora em queda apagaram o ganho da madrugada e devolveram o preço à área de ontem.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-18-10h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-18-10h34",
+      "slides": [
+        {
+          "title": "A alta do café já foi",
+          "body": "Três leituras de hora em queda apagaram o ganho da madrugada e devolveram o preço à área de ontem."
+        },
+        {
+          "title": "US$ 81,4 mil",
+          "body": "Δ1h −0,7% · Δ24h 0,0% · volume de 24h em $16,1 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A área de 81,7 mil cedeu com três fechamentos de hora em queda · financiamento +0,01% e 62% das contas ainda posicionadas para cima, conjunto que costuma apertar quando o preço cai",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "81 mil no centro da próxima hora",
+          "body": "Referência de baixo em 81.000 (−0,5%) e de cima em 81.700 (+0,4%) · contratos abertos caíram 1,6%: posições fechando, sem dinheiro novo entrando",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-18-07h37",
       "date": "2026-10-18",
       "time": "07h37",
