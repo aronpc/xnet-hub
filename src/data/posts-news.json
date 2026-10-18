@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-18",
+      "date": "2026-10-18",
+      "hook": "Projetos e repos IA de 18 de outubro",
+      "caption": "Nove histórias do dia: o Beam de 501 bilhões de parâmetros sai em Apache 2.0, o Console do OpenCode vaza chaves de API, um simulador mostra quantos tokens por segundo você teria em cada GPU antes de comprar, e um MoE de 125 bilhões roda em duas placas de 16 GB.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-18",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-18",
+      "slides": [
+        {
+          "title": "Projetos e repos IA de 18 de outubro",
+          "body": "Nove histórias do dia: o Beam de 501 bilhões de parâmetros sai em Apache 2.0, o Console do OpenCode vaza chaves de API, um simulador mostra quantos tokens por segundo você teria em cada GPU antes de comprar, e um MoE de 125 bilhões roda em duas placas de 16 GB."
+        },
+        {
+          "title": "Beam abre os pesos: 501B em Apache 2.0",
+          "body": "A Reflection AI liberou os pesos do Beam, 501 bilhões de parâmetros, sob licença permissiva. O treino usa RL que penaliza respostas desnecessárias para atacar alucinação e concorrer com os modelos abertos chineses.",
+          "source": {
+            "label": "VentureBeat, 16 out",
+            "url": "https://venturebeat.com/technology/reflections-beam-aims-to-undercut-chinese-open-models-with-fewer-hallucinations/"
+          }
+        },
+        {
+          "title": "Breach no OpenCode Console expõe chaves de API",
+          "body": "A OpenCode reportou um breach que atingiu cerca de 1,4% dos usuários do Console. Chaves da OpenAI e da Anthropic e prompts armazenados ficaram expostos.",
+          "source": {
+            "label": "OpenCode, 17 out",
+            "url": "https://twitter.com/opencode/status/2111519637049319818"
+          }
+        },
+        {
+          "title": "Simule tokens por segundo antes de comprar a GPU",
+          "body": "O llmspeed simula no navegador quantos tokens por segundo você vai ver em cada GPU, CPU e Mac, antes de gastar no hardware.",
+          "source": {
+            "label": "llmspeed.dev, 17 out",
+            "url": "https://llmspeed.dev/"
+          }
+        },
+        {
+          "title": "MoE de 125B rodando em duas GPUs de 16 GB",
+          "body": "O capy-flash roda um modelo MoE de 125 bilhões em duas placas consumer de 16 GB, com offload e streaming de experts.",
+          "source": {
+            "label": "github.com/ValerioDolci/capy-flash, 16 out",
+            "url": "https://github.com/ValerioDolci/capy-flash"
+          }
+        },
+        {
+          "title": "120 páginas manuscritas viram fonte tipográfica",
+          "body": "Um dev entregou 120 páginas de caderno manuscrito da faculdade ao Claude Code e recebeu de volta a própria letra como fonte usável.",
+          "source": {
+            "label": "github.com/harshpreet931/harshpreet-hand, 17 out",
+            "url": "https://github.com/harshpreet931/harshpreet-hand"
+          }
+        },
+        {
+          "title": "Mutation testing diz ao agente qual teste falta",
+          "body": "A mutest, sucessora MIT do qodo-cover, usa mutation testing para apontar exatamente quais testes faltam, em vez de gerar teste às cegas.",
+          "source": {
+            "label": "github.com/chenyi6758-source/mutest, 17 out",
+            "url": "https://github.com/chenyi6758-source/mutest"
+          }
+        },
+        {
+          "title": "Um comando clona e refaz qualquer URL",
+          "body": "O breakinggood clona um site ou aplicação a partir de uma URL, faz engenharia reversa e deixa rodando localmente.",
+          "source": {
+            "label": "github.com/eklavya2201/breakinggood, 17 out",
+            "url": "https://github.com/eklavya2201/breakinggood"
+          }
+        },
+        {
+          "title": "Crawler de IA paga por página em USDC",
+          "body": "A Forgemesh publicou middleware para 10 stacks web que cobra dos crawlers de IA por página acessada, em USDC.",
+          "source": {
+            "label": "forgemesh.io, 17 out",
+            "url": "https://forgemesh.io/blog/pay-per-crawl-every-stack"
+          }
+        },
+        {
+          "title": "Painel de aeroporto para lanes de agentes",
+          "body": "O weatherdeck é um dashboard somente leitura mostrando o estado de cada lane de coding agent rodando em paralelo.",
+          "source": {
+            "label": "github.com/Moshik21/weatherdeck, 16 out",
+            "url": "https://github.com/Moshik21/weatherdeck"
+          }
+        },
+        {
+          "title": "O ecossistema está se consertando sozinho",
+          "body": "Mutest ataca teste vazio, MCPX escaneia envenenamento de tool, weatherdeck dá painel às lanes: ferramenta respondendo aos problemas que os próprios agentes criaram. Na outra ponta, Beam e capy-flash empurram a fronteira do que roda na sua mesa, e o llmspeed transforma a compra de hardware em decisão informada."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-18",
       "date": "2026-10-18",
       "hook": "Panorama IA de 18 de outubro",
