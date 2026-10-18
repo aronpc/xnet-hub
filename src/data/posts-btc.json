@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-17-22h35",
+      "date": "2026-10-17",
+      "time": "22h35",
+      "hook": "Às 18h34 o BTC estava no ponto mais baixo do dia, 81,0 mil. Quatro leituras em alta depois, voltou a US$ 81,5 mil e agora cola no topo da área de 80,8 a 81,8 mil onde passou o dia inteiro. O balanço de 24 horas voltou ao positivo: alta de 0,1%, volume de $14,2 bi.",
+      "caption": "São quatro leituras subindo desde 81,1 mil, algo que o dia ainda não tinha mostrado.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-17-22h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-17-22h35",
+      "slides": [
+        {
+          "title": "Quatro leituras em alta apagaram a queda",
+          "body": "São quatro leituras subindo desde 81,1 mil, algo que o dia ainda não tinha mostrado."
+        },
+        {
+          "title": "US$ 81,5 mil",
+          "body": "Δ1h +0,2% · Δ24h +0,1% · volume 24h de $14,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Quatro altas seguidas devolveram o preço à parte de cima do dia · financiamento +0,01%, neutro · para cada posição em baixa há 1,75 em alta",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O topo do dia está a 0,3%",
+          "body": "Máxima em 81,8 mil (+0,3%) · referência de baixo em 81,1 mil (−0,5%) · piso em 80,8 mil (−0,9%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-17-18h34",
       "date": "2026-10-17",
       "time": "18h34",
