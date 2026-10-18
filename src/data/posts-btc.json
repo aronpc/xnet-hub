@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-17-23h35",
+      "date": "2026-10-17",
+      "time": "23h35",
+      "hook": "O dia inteiro teve 23 leituras entre 81,0 e 81,6 mil. A última, das 23h35, saiu disso: US$ 81,7 mil, a maior leitura do dia, a 0,2% do teto da faixa que segura o mercado desde a madrugada. Volume de 24h em $14,2 bi e balanço diário de +0,1%.",
+      "caption": "Três subidas seguidas nas leituras por hora deixaram o preço no ponto mais alto do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-17-23h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-17-23h35",
+      "slides": [
+        {
+          "title": "A última leitura do dia é a maior de todas",
+          "body": "Três subidas seguidas nas leituras por hora deixaram o preço no ponto mais alto do dia."
+        },
+        {
+          "title": "US$ 81,7 mil",
+          "body": "Δ1h +0,25% · Δ24h +0,09% · volume 24h de $14,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Depois de um dia inteiro de lado, a leitura da noite virou alta com o preço colado no teto · Smart Money: funding +0,01% e L/S 1,74, posicionamento equilibrado",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teto está a 0,2%",
+          "body": "Faixa de baixo em 80,8 mil (−1,1%) · teto em 81,9 mil (+0,2%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-17-22h35",
       "date": "2026-10-17",
       "time": "22h35",
