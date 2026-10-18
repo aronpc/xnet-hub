@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-18-16h32",
+      "date": "2026-10-18",
+      "time": "16h32",
+      "hook": "O topo de 82,2 mil do meio da manhã ficou para trás e a descida não parou mais: às 16h32 o Bitcoin negocia a US$ 80,9 mil, a 0,2% do mínimo das últimas 24h. São quase nove horas de pressão vendedora leve, porém contínua, com o volume de 24h crescendo para $18 bi. A tarde escolheu uma direção e ninguém apareceu para segurar.",
+      "caption": "Do topo de 82,2 mil da manhã até 80,9 mil agora, queda leve mas sem trégua. O preço encostou a 0,2% do mínimo de 24h.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-18-16h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-18-16h32",
+      "slides": [
+        {
+          "title": "Quase nove horas de descida até a beira do mínimo",
+          "body": "Do topo de 82,2 mil da manhã até 80,9 mil agora, queda leve mas sem trégua. O preço encostou a 0,2% do mínimo de 24h."
+        },
+        {
+          "title": "US$ 80,9 mil",
+          "body": "Δ1h −0,3% · Δ24h −0,6% · volume de 24h em $18,0 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Queda desde o topo da manhã e preço colado no mínimo de 24h · financiamento −0,001%, neutro, e 65% das contas ainda posicionadas para cima: o quadro aperta se o mínimo ceder",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "80.800 decide a próxima hora",
+          "body": "Mínimo de 24h em 80.800 (−0,2%) e teto da queda em 81.200 (+0,3%) · cair abaixo abre espaço para 80.000; fechar acima invalida a queda da tarde",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-18-10h34",
       "date": "2026-10-18",
       "time": "10h34",
