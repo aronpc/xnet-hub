@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-18-19h33",
+      "date": "2026-10-18",
+      "time": "19h33",
+      "hook": "O dia inteiro pendeu para baixo: do 82,2 mil do começo da manhã até 80,9 mil no fim da tarde, desgaste leve e persistente. Às 19h33 o quadro virou. US$ 81,5 mil, alta de 0,7% numa hora, e o preço atravessou de vez a faixa de 81,2 mil que limitava a queda desde o meio-dia. Volume de 24h em $19,1 bi.",
+      "caption": "Depois de um dia de desgaste, uma subida de 0,7% em sessenta minutos afasta o preço do fundo da tarde e o leva de volta aos 81,5 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-18-19h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-18-19h33",
+      "slides": [
+        {
+          "title": "A maior alta por hora do dia veio às 19h33",
+          "body": "Depois de um dia de desgaste, uma subida de 0,7% em sessenta minutos afasta o preço do fundo da tarde e o leva de volta aos 81,5 mil."
+        },
+        {
+          "title": "US$ 81,5 mil",
+          "body": "Δ1h +0,7% · Δ24h +0,1% · volume de 24h em $19,1 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Sequência de três fechamentos de hora subindo do fundo de 80,9 mil, com a faixa de 81,2 mil recuperada · financiamento +0,0025% e 65% das posições na ponta compradora · contratos abertos recuaram 0,4% na alta: ainda é saída de posição contrária, não entrada de dinheiro novo",
+          "source": "https://www.coinglass.com/pt-BR/bitcoin"
+        },
+        {
+          "title": "O teste agora é 81,7 mil",
+          "body": "Chão em 81,2 mil (−0,4%) e teto imediato em 81,7 mil (+0,2%); a máxima de 24h, 82,3 mil, fica 1,0% acima",
+          "source": "https://www.binance.com/pt/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no intraday. É informação de mercado, não recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-18-16h32",
       "date": "2026-10-18",
       "time": "16h32",
