@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-18-07h37",
+      "date": "2026-10-18",
+      "time": "07h37",
+      "hook": "Ontem o dia inteiro do Bitcoin coube entre 81,0 e 81,8 mil, e a última leitura da noite parou a dois décimos do limite da área. Às 07h37 de hoje o preço está em US$ 82,2 mil: passou por cima daquele número antes do café e encostou na máxima de 24h, 82,3 mil. O balanço diário já é de +0,8%, com volume de $15,8 bi.",
+      "caption": "Três leituras seguidas de alta na madrugada deixaram o preço na máxima de 24h antes das 8h.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-18-07h37",
+      "link": "https://xbtc.aronpc.dev/#2026-10-18-07h37",
+      "slides": [
+        {
+          "title": "Acima de tudo o que ontem era limite",
+          "body": "Três leituras seguidas de alta na madrugada deixaram o preço na máxima de 24h antes das 8h."
+        },
+        {
+          "title": "US$ 82,2 mil",
+          "body": "Δ1h +0,25% · Δ24h +0,76% · volume 24h de $15,8 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Três fechamentos de hora em sequência e preço na máxima de 24h · financiamento +0,01%, neutro · para cada posição em queda há 1,67 em alta (62%)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "82,3 mil decide a manhã",
+          "body": "Máxima de 24h em 82,3 mil, a +0,2% daqui · referência de baixo em 81,7 mil (−0,6%) · volume da hora na metade da média: subida sem convicção",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no intraday. Conteúdo informativo, sem recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-17-23h35",
       "date": "2026-10-17",
       "time": "23h35",
