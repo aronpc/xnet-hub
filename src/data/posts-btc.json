@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-18-23h34",
+      "date": "2026-10-18",
+      "time": "23h34",
+      "hook": "O teto que segurava o Bitcoin desde ontem cedeu na noite de domingo. Às 23h34 o preço negocia a 82,3 mil dólares e a máxima das últimas 24 horas subiu para 82,6 mil. O rally da noite tem um detalhe que faltava na subida de ontem: enquanto o preço avança, a proporção de posições compradas cai de 1,86 para 1,66. Tem capital novo chegando em vez de aperto nos contratos.",
+      "caption": "Quatro fechamentos de hora em sequência deixam o preço a 0,3% do topo do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-18-23h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-18-23h34",
+      "slides": [
+        {
+          "title": "Máxima renovada e uma subida com capital novo",
+          "body": "Quatro fechamentos de hora em sequência deixam o preço a 0,3% do topo do dia."
+        },
+        {
+          "title": "US$ 82,3 mil",
+          "body": "Δ1h +0,3% · Δ24h +0,8% · volume de 24h em $21,5 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Quatro fechamentos de hora subindo e o Δ24h virou para positivo · financiamento +0,009% e razão comprado/vendido em 1,66 (62% na ponta compradora), aliviando de 1,77 há duas horas: alta construída com capital novo",
+          "source": "https://www.coinglass.com/pt-BR/bitcoin"
+        },
+        {
+          "title": "O topo novo de 82,6 mil decide a sequência",
+          "body": "Acima dele, a região de 83,0 mil entra no caminho; a referência de baixo segue em 82,0 mil (−0,4%) e, se ceder, a faixa de 81,7 mil volta ao radar",
+          "source": "https://www.binance.com/pt/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no intraday. É informação de mercado, não recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-18-20h33",
       "date": "2026-10-18",
       "time": "20h33",
