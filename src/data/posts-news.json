@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-19",
+      "date": "2026-10-19",
+      "hook": "Skills & MCP · 19 de outubro",
+      "caption": "O MCP encostou no pessoal e no sensorial: WhatsApp legível em edge grátis, trilha sonora local pro editor e um runtime que compila feedback em skill. Sete ferramentas pra acompanhar.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-19",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-19",
+      "slides": [
+        {
+          "title": "Skills & MCP · 19 de outubro",
+          "body": "O MCP encostou no pessoal e no sensorial: WhatsApp legível em edge grátis, trilha sonora local pro editor e um runtime que compila feedback em skill. Sete ferramentas pra acompanhar."
+        },
+        {
+          "title": "audio-studio-mcp: trilha sonora local pro Claude Code",
+          "body": "MCP server que gera BGM e efeitos sonoros localmente para Claude Code e qualquer client MCP, rodando Stable Audio 3 em Apple Silicon.",
+          "source": "github.com/kanaworksai-hue/audio-studio-mcp"
+        },
+        {
+          "title": "whatsapp-mcp grátis no Cloudflare",
+          "body": "MCP server read-only que deixa o agente buscar e ler as próprias mensagens de WhatsApp, com deploy no tier gratuito do Cloudflare e sem expor o número.",
+          "source": "github.com/finereli/whatsapp-mcp"
+        },
+        {
+          "title": "cve-intel: triagem de CVE local, 34 ferramentas",
+          "body": "Estação de inteligência de vulnerabilidades que roda local, agrega 25 fontes, calcula risk score e expõe tudo como MCP server.",
+          "source": "github.com/Fazmin/cve-intel"
+        },
+        {
+          "title": "mawoagent: feedback do usuário compilado em skill",
+          "body": "Runtime local auditável, reversível e avaliável em que cada correção que você faz no agente é compilada numa skill reaproveitável.",
+          "source": "github.com/Aoisop/mawoagent"
+        },
+        {
+          "title": "bettersearch: deep research sobre a Search API do DeepSeek",
+          "body": "Ferramenta de deep research para qualquer agente construída sobre a Search API recém-lançada do DeepSeek, com subagents, checagem de fatos e citações.",
+          "source": "github.com/ry0yarushima/bettersearch"
+        },
+        {
+          "title": "model-family-tree: a genealogia do Hugging Face",
+          "body": "Banco que mapeia a ancestralidade de cada modelo do HF e os base models com mais descendentes, reconstruído toda noite.",
+          "source": "github.com/h9-tec/model-family-tree"
+        },
+        {
+          "title": "tkmd: tarefas em Markdown pra dev e agente",
+          "body": "Gerenciador de tarefas e projetos em arquivo Markdown desenhado para ser lido e escrito por devs E agentes de IA ao mesmo tempo.",
+          "source": "github.com/ktreharrison/tkmd"
+        },
+        {
+          "title": "MCP barato, local e com memória",
+          "body": "Deploy em tier gratuito, execução local e feedback que vira skill: a adoção de MCP parou de exigir infra e começou a exigir critério."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-19",
       "date": "2026-10-19",
       "hook": "Projetos · 19 de outubro",
