@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-19-09h30",
+      "date": "2026-10-19",
+      "time": "09h30",
+      "hook": "O embalo da madrugada não vingou. Depois de rondar 82,9 mil no comecinho do dia, o Bitcoin devolveu o caminho e negocia a 82,5 mil, de volta ao corredor dos últimos dias. Na parte de cima dele, mas sem pressa de escolher lado.",
+      "caption": "82,5 mil, na porção alta da faixa de 82,0 a 83,2 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-19-09h30",
+      "link": "https://xbtc.aronpc.dev/#2026-10-19-09h30",
+      "slides": [
+        {
+          "title": "Manhã devolve o mercado ao corredor",
+          "body": "82,5 mil, na porção alta da faixa de 82,0 a 83,2 mil."
+        },
+        {
+          "title": "US$ 82,5 mil",
+          "body": "Δ1h +0,4% · Δ24h +0,7% · volume de 24h em $26,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O recuo da manhã tirou a leitura de alta. A recuperação de +0,4% na hora devolveu o preço à parte alta da faixa com os contratos abertos subindo junto (+0,4%, 94,0 mil BTC): dinheiro novo entrando, ainda sem força pra romper o topo · financiamento +0,009%, razão comprado/vendido 1,46",
+          "source": "https://www.coinglass.com/pt-BR/bitcoin"
+        },
+        {
+          "title": "O teto do dia segue de pé",
+          "body": "Fechamento da hora acima de 82,8 mil (+0,4%) encaminha o reteste do topo de 24h, em 83,2 mil (+0,8%) · a referência de baixo está em 82,0 mil (−0,6%)",
+          "source": "https://www.binance.com/pt/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no intraday. Informação de mercado, não recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-19-05h39",
       "date": "2026-10-19",
       "time": "05h39",
