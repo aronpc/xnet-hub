@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-19",
+      "date": "2026-10-19",
+      "hook": "IA · 19 de outubro",
+      "caption": "O dinheiro da IA ficou mais caro, a Anthropic redesenhou as próprias regras e a web começou a trancar a porta na cara dos agentes. Nove histórias para entender o dia.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-19",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-19",
+      "slides": [
+        {
+          "title": "IA · 19 de outubro",
+          "body": "O dinheiro da IA ficou mais caro, a Anthropic redesenhou as próprias regras e a web começou a trancar a porta na cara dos agentes. Nove histórias para entender o dia."
+        },
+        {
+          "title": "Anthropic tranca 5% das ações em fundo de benefício público",
+          "body": "A empresa vai comprometer 5% das próprias ações num Public Benefit Fund. Somando promessas do cofundador e do staff, cerca de 20% da Anthropic já está travado para fins de missão.",
+          "source": {
+            "label": "Anthropic — 18 out",
+            "url": "https://www.anthropic.com/news/public-benefit-fund"
+          }
+        },
+        {
+          "title": "O rascunho de lei que só age depois de 50 mortes",
+          "body": "A proposta que a Anthropic apresentou a parlamentares americanos define que o Departamento de Comércio só pode intervir num modelo de fronteira após 50 mortes ou US$ 1 bilhão em danos. O Comércio viraria a única agência capaz de parar um modelo.",
+          "source": {
+            "label": "Tom's Hardware — 18 out",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
+          }
+        },
+        {
+          "title": "A web está bloqueando agentes de IA",
+          "body": "O The Verge documenta a onda de publishers e serviços barrando agentes autônomos de navegação e compra, com robots.txt e detecção comportamental.",
+          "source": {
+            "label": "The Verge — 18 out",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+          }
+        },
+        {
+          "title": "O boom de US$ 10 trilhões começa a desfiar",
+          "body": "O FT reúne os números da RegLayer: 47+ grandes projetos de data center nos EUA atrasados, retirados ou bloqueados em 2026. A Bernstein estima ~35% da capacidade planejada em risco.",
+          "source": {
+            "label": "Financial Times — 18 out",
+            "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c"
+          }
+        },
+        {
+          "title": "Bond da CoreWeave rende acima de 15% ao ano",
+          "body": "O NYT mapeia o custo de financiamento subindo em cascata: bond da CoreWeave acima de 15%, dívida da Oracle negociando perto de 80 centavos, seguro da dívida SoftBank mais caro.",
+          "source": {
+            "label": "New York Times — 17 out",
+            "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html"
+          }
+        },
+        {
+          "title": "World ID lança verificação para bancos: humano e agente",
+          "body": "A World de Sam Altman lançou um pacote para instituições financeiras que prova identidade humana e também de agentes, com garantia financeira embutida.",
+          "source": {
+            "label": "The Block — 18 out",
+            "url": "https://www.theblock.co/news/ecosystems/2026-10-18/world-launches-world-id-suite-banks-418869"
+          }
+        },
+        {
+          "title": "Anthropic ouve escritórios de advocacia sobre negociação",
+          "body": "Fontes do FT dizem que a Anthropic consulta law firms sobre táticas de negociação de acordos, enquanto desenvolve agentes que negociariam em nome de humanos.",
+          "source": {
+            "label": "Financial Times — 18 out",
+            "url": "https://www.ft.com/content/f7c26ac0-f5c2-443a-86b2-39d62f7920a9"
+          }
+        },
+        {
+          "title": "Agentes híbridos: raciocínio latente, ação em texto",
+          "body": "Paper \"Hybrid Reasoning Agents\" propõe agents que fazem o pensamento num espaço latente contínuo e reservam o texto só para a ação. Foi o paper mais comentado do dia no HN.",
+          "source": {
+            "label": "arXiv 2610.18861",
+            "url": "https://arxiv.org/abs/2610.18861"
+          }
+        },
+        {
+          "title": "A Anthropic publicou como o emprego mudou dentro dela",
+          "body": "Relatório interno da própria empresa: queda na contratação técnica de entrada, boom de produtividade por colaborador e remix das funções do quadro.",
+          "source": {
+            "label": "Anthropic Research",
+            "url": "https://www.anthropic.com/research/employment-at-anthropic"
+          }
+        },
+        {
+          "title": "O dinheiro endurece, as regras se desenham",
+          "body": "A infra trava por energia e licença, a dívida já cobra juro de risco, e a Anthropic desenha governança e regulação ao mesmo tempo. Enquanto isso, a web se fecha para agentes e a identidade verificável surge como a peça que faltava."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-18",
       "date": "2026-10-18",
       "hook": "Skills e MCP de 18 de outubro",
