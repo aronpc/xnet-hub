@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-19-16h31",
+      "date": "2026-10-19",
+      "time": "16h31",
+      "hook": "O humor do mercado virou antes do preço. Depois de um dia de desgaste, de 82,9 mil para 81,8 mil ao longo das horas, a leitura das 16h31 trocou o viés de queda por alta. O preço quase não andou, segue em 81,9 mil. O termômetro de humor está em 59, na zona de ganância.",
+      "caption": "Bitcoin a 81,9 mil; leitura das 16h31 deixa a queda para trás.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-19-16h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-19-16h31",
+      "slides": [
+        {
+          "title": "O humor virou antes do preço",
+          "body": "Bitcoin a 81,9 mil; leitura das 16h31 deixa a queda para trás."
+        },
+        {
+          "title": "US$ 81,9 mil",
+          "body": "Δ1h +0,14% · Δ24h +1,18% · volume de 24h em US$ 28,7 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "A descida da tarde parou em 81,8 mil e o dia segue positivo em +1,18%, com humor em 59 (ganância) · Smart Money: financiamento +0,010%, razão comprado/vendido 1,60",
+          "source": "https://www.coinglass.com/pt-BR/bitcoin"
+        },
+        {
+          "title": "O dia agora cabe entre 80,5 e 83,5 mil",
+          "body": "Em 80,5 mil (−1,7%) o desgaste volta · acima de 83,5 mil (+1,9%) o próximo número é 84,5 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no intraday. Informação de mercado, não recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-19-13h31",
       "date": "2026-10-19",
       "time": "13h31",
