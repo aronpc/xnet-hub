@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-19-13h31",
+      "date": "2026-10-19",
+      "time": "13h31",
+      "hook": "O resgate do almoço foi devolvido. Depois de uma hora acima de 82,2 mil, o Bitcoin caiu de volta para a casa dos 82,0 mil na leitura das 13h31, a segunda descida em três horas. Desta vez o interesse aberto cresceu junto da queda. A menor cotação do dia segue em 80,7 mil.",
+      "caption": "82,0 mil agora; a recuperação do meio-dia parou em 82,4 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-19-13h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-19-13h31",
+      "slides": [
+        {
+          "title": "82,2 mil não segurou o repique",
+          "body": "82,0 mil agora; a recuperação do meio-dia parou em 82,4 mil."
+        },
+        {
+          "title": "US$ 81,99 mil",
+          "body": "Δ1h −0,5% · Δ24h +1,1% · volume de 24h em $28,3 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Dois fechamentos de hora em queda desde 82,6 mil e a região de 82,2 mil cedida pela segunda vez no dia · Smart Money: financiamento +0,009%, razão comprado/vendido 1,53",
+          "source": "https://www.coinglass.com/pt-BR/bitcoin"
+        },
+        {
+          "title": "A próxima hora decide o rumo",
+          "body": "Abaixo de 81,75 mil (−0,3%) abre caminho a 81,0 mil · acima de 82,2 mil (+0,3%) cancela a descida"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-19-12h31",
       "date": "2026-10-19",
       "time": "12h31",
