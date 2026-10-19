@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-19-05h39",
+      "date": "2026-10-19",
+      "time": "05h39",
+      "hook": "A madrugada seguiu o roteiro da noite. O Bitcoin saiu das 82,5 mil à meia-noite e às 05h39 negocia a 82,9 mil. A marca de 82,6 mil, que pendia como decisão ontem, ficou para trás, e o índice de sentimento marcou 59, já na faixa de ganância. Os contratos abertos voltaram a crescer junto com o preço.",
+      "caption": "82,9 mil a 0,3% do topo de 24 horas; o dia começou em 82,5.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-19-05h39",
+      "link": "https://xbtc.aronpc.dev/#2026-10-19-05h39",
+      "slides": [
+        {
+          "title": "Madrugada de alta encosta no ponto mais alto do dia",
+          "body": "82,9 mil a 0,3% do topo de 24 horas; o dia começou em 82,5."
+        },
+        {
+          "title": "US$ 82,9 mil",
+          "body": "Δ1h +0,1% · Δ24h +1,4% · volume de 24h em $1,1 bi na Binance",
+          "source": "https://www.binance.com/pt/trade/BTC_USDT"
+        },
+        {
+          "title": "ALTA",
+          "body": "Quatro leituras seguidas em alta e Δ24h +1,4% · financiamento +0,010%, razão comprado/vendido 1,45 e contratos abertos em expansão (+0,6% na hora, 95,1 mil BTC): entrada nova acompanhando o preço",
+          "source": "https://www.coinglass.com/pt-BR/bitcoin"
+        },
+        {
+          "title": "A porta dos 83,2 mil",
+          "body": "Passar do topo do dia aponta a região de 83,7 mil; a referência de baixo está em 82,7 mil (−0,3%)",
+          "source": "https://www.binance.com/pt/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no intraday. Informação de mercado, não recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-18-23h34",
       "date": "2026-10-18",
       "time": "23h34",
