@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-19-12h31",
+      "date": "2026-10-19",
+      "time": "12h31",
+      "hook": "A leitura baixista durou uma hora. O nível de 82,2 mil, perdido na manhã, voltou ao lado de cima perto do meio-dia e o Bitcoin negocia a 82,4 mil, outra vez no miolo do dia. O teto de 82,8 mil segue trancado desde a madrugada.",
+      "caption": "82,4 mil agora; o topo do dia continua em 83,2 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-19-12h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-19-12h31",
+      "slides": [
+        {
+          "title": "82,2 mil recuperados no almoço",
+          "body": "82,4 mil agora; o topo do dia continua em 83,2 mil."
+        },
+        {
+          "title": "US$ 82,4 mil",
+          "body": "Δ1h +0,45% · Δ24h +1,64% · volume de 24h em US$ 28,0 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O repique do meio-dia devolveu o intervalo de 82,1 a 82,9 mil, com o teto de 82,8 mil testado seis velas seguidas sem ceder. Posições compradas em alta moderada, sem exagero · financiamento +0,008%, razão comprado/vendido 1,52",
+          "source": "https://www.coinglass.com/pt-BR/bitcoin"
+        },
+        {
+          "title": "Até 13h31, 82,8 mil decide a direção",
+          "body": "Fechar acima encaminha o topo de 24h, em 83,2 mil (+1,0%) · devolver 82,2 mil (−0,2%) cancela o repique e aponta 82,0 mil",
+          "source": "https://www.binance.com/pt/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no intraday. Informação de mercado, não recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-19-11h31",
       "date": "2026-10-19",
       "time": "11h31",
