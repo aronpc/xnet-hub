@@ -2,6 +2,64 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-19",
+      "date": "2026-10-19",
+      "hook": "Projetos · 19 de outubro",
+      "caption": "Um dia de autoria guiada por agentes: o review vira edição, o quiz vira gate de deploy e o coding agent vira estúdio de mídia. Sete projetos com tração real.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-19",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-19",
+      "slides": [
+        {
+          "title": "Projetos · 19 de outubro",
+          "body": "Um dia de autoria guiada por agentes: o review vira edição, o quiz vira gate de deploy e o coding agent vira estúdio de mídia. Sete projetos com tração real."
+        },
+        {
+          "title": "huashu-motion: o coding agent vira estúdio de trailers",
+          "body": "O agente de programação do alchaincyf gera filmes de lançamento de nível comercial, compõe a trilha e aceita edição por apontar: você aponta pra tela e manda mudar.",
+          "source": "github.com/alchaincyf/huashu-motion"
+        },
+        {
+          "title": "Sphinx: o quiz sobre o diff antes do deploy",
+          "body": "Ferramenta de Show HN que gera perguntas sobre o diff que o modelo escreveu e só libera o deploy quando o humano responde certo.",
+          "source": {
+            "label": "sphinx-six-theta.vercel.app",
+            "url": "https://sphinx-six-theta.vercel.app/"
+          }
+        },
+        {
+          "title": "agent2api: login de app consumidor vira endpoint",
+          "body": "Gateway local multi-provedor que empacota a sessão logada de clientes como WorkBuddy, Xiaohuanxiong e CatPaw numa API no formato OpenAI, com gestão de contas e fingerprint de saída dessensibilizado.",
+          "source": "github.com/Agent2API/agent2api"
+        },
+        {
+          "title": "killswitch-lang: uma linguagem que LLM não programa",
+          "body": "Dominic Picheta publicou uma linguagem desenhada para ser hostil a LLMs, com sintaxe e semântica que quebram a premissa estatística dos modelos.",
+          "source": {
+            "label": "blog.picheta.me — 17 out",
+            "url": "https://blog.picheta.me/post/killswitch-lang/"
+          }
+        },
+        {
+          "title": "decks: comentar embaixo do slide regenera o slide",
+          "body": "Apresentação em Markdown onde escrever um comentário abaixo de um slide faz o coding agent regenerar só aquele trecho. Funciona com Claude Code e Codex.",
+          "source": "github.com/paulmil11/decks"
+        },
+        {
+          "title": "ssftalk: a Voice API da ElevenLabs em Rust, Apache 2.0",
+          "body": "Drop-in da API v1 de voz da ElevenLabs, escrito em Rust puro, com salas full-duplex e licença aberta.",
+          "source": "github.com/solidsf-inc/ssftalk"
+        },
+        {
+          "title": "32,6 milhões de repos estrelados num dataset só",
+          "body": "O repoboost liberou dataset de pesquisa com os repositórios com estrela do GitHub e os limiares de crescimento (100, 1k, 10k) por época.",
+          "source": "github.com/repoboost-hq/github-star-benchmarks"
+        },
+        {
+          "title": "O humano comenta, o agente refaz",
+          "body": "Três projetos diferentes convergiram no mesmo gesto: o feedback contextual vira a edição (decks), a prova de entendimento vira o gate (Sphinx) e o agente assume a produção de mídia (huashu-motion). A autoria está virando conversa em cima do artefato."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-19",
       "date": "2026-10-19",
       "hook": "IA · 19 de outubro",
