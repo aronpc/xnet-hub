@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-19-11h31",
+      "date": "2026-10-19",
+      "time": "11h31",
+      "hook": "A manhã acabou de virar. Depois de segurar 82,2 mil desde a madrugada, o Bitcoin caiu para 82,0 mil e os contratos em aberto subiram junto da queda, sinal de dinheiro novo posicionado na baixa. É a primeira leitura baixista do dia.",
+      "caption": "82,0 mil agora; a região perdida ficou a +0,2%.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-19-11h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-19-11h31",
+      "slides": [
+        {
+          "title": "Caiu a marca de 82,2 mil",
+          "body": "82,0 mil agora; a região perdida ficou a +0,2%."
+        },
+        {
+          "title": "US$ 82,0 mil",
+          "body": "Δ1h −0,5% · Δ24h +1,1% · volume de 24h em $27,4 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Dois fechamentos de hora em queda levaram 82,2 mil embora, e os contratos abertos subiram 1,2% na descida, com pressão direto sobre 82,0 mil. Δ24h ainda positivo: correção dentro do campo de 80,7 a 83,2 mil · Smart Money: funding +0,007%, comprado/vendido 1,45",
+          "source": "https://www.coinglass.com/pt-BR/bitcoin"
+        },
+        {
+          "title": "A próxima hora decide em 82,0 mil",
+          "body": "Fechamento abaixo encaminha 81,2 mil (−1,0%), no mínimo de ontem; retomar 82,2 mil devolve o meio do campo, em 82,8 mil · F&G em 59, cedendo junto com o preço",
+          "source": "https://www.binance.com/pt/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no intraday. Informação de mercado, não recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-19-09h30",
       "date": "2026-10-19",
       "time": "09h30",
