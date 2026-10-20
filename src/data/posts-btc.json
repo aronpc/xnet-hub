@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-19-20h31",
+      "date": "2026-10-19",
+      "time": "20h31",
+      "hook": "Às 16h31 o dia ainda rendia +1,2%. Quatro horas depois, o resultado de 24 horas está em -0,13% e o Bitcoin opera a 82 mil, perto do chão do intervalo do dia. A leitura das 20h31 voltou a apontar queda.",
+      "caption": "Bitcoin a 82 mil na leitura das 20h31, com o resultado de 24 horas de volta ao zero.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-19-20h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-19-20h31",
+      "slides": [
+        {
+          "title": "O dia rendeu e devolveu tudo",
+          "body": "Bitcoin a 82 mil na leitura das 20h31, com o resultado de 24 horas de volta ao zero."
+        },
+        {
+          "title": "US$ 82,0 mil",
+          "body": "Δ1h -0,14% · Δ24h -0,13% · volume de 24h em US$ 26,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço a 24% do intervalo de 24 horas, entre 81,5 e 83,5 mil, e noite sem reação de compra · Smart Money: financiamento +0,010%, razão comprado/vendido 1,65",
+          "source": "https://www.coinglass.com/pt-BR/bitcoin"
+        },
+        {
+          "title": "Dois números pra a próxima hora",
+          "body": "Abaixo de 81,5 mil (-0,6%), o patamar seguinte lido é 81,0 mil · acima de 83,5 mil (+1,9%), 84,0 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no intraday. Informação de mercado, não recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-19-16h31",
       "date": "2026-10-19",
       "time": "16h31",
