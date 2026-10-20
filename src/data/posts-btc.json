@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-20-14h34",
+      "date": "2026-10-20",
+      "time": "14h34",
+      "hook": "O recuo do meio-dia durou pouco. Terceira leitura seguida em alta e o preço está em 82,7 mil, a menos de 1% da máxima das últimas 24 horas. O pico da manhã foi digerido devagar, sem devolver o passo, e a segunda visita ao topo já começa a se desenhar.",
+      "caption": "Depois do recuo do meio-dia, o preço voltou a subir e passou o meio do caminho do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-20-14h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-20-14h34",
+      "slides": [
+        {
+          "title": "82,7 mil: terceira subida seguida",
+          "body": "Depois do recuo do meio-dia, o preço voltou a subir e passou o meio do caminho do dia."
+        },
+        {
+          "title": "US$ 82,7 mil",
+          "body": "Δ1h +0,33% · Δ24h +0,97% · vol US$ 27,4 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Três leituras seguidas em alta, acima do meio do canal de 24h (81,2 a 83,4 mil) · Smart Money: funding +0,0100% + L/S 1,56",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Faltam 0,9% para a máxima de 24h",
+          "body": "Suporte $82.100 (-0,70%) · Resistência $83.400 (+0,87%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": ""
+        }
+      ]
+    },
+    {
       "id": "2026-10-20-12h34",
       "date": "2026-10-20",
       "time": "12h34",
