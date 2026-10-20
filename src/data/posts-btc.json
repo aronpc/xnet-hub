@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-19-21h31",
+      "date": "2026-10-19",
+      "time": "21h31",
+      "hook": "Segunda queda seguida, e o Bitcoin fez o menor preço do dia: 81,5 mil. Depois de marcar 59, na zona de ganância, quase o dia todo, o índice de humor recuou para 55 e voltou ao campo neutro. O comprador não deu as caras na noite.",
+      "caption": "Bitcoin a 81,5 mil na leitura das 21h31, menor preço do dia, na segunda queda seguida.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-19-21h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-19-21h31",
+      "slides": [
+        {
+          "title": "O humor esfriou junto com o preço",
+          "body": "Bitcoin a 81,5 mil na leitura das 21h31, menor preço do dia, na segunda queda seguida."
+        },
+        {
+          "title": "US$ 81,5 mil",
+          "body": "Δ1h -0,55% · Δ24h -0,68% · volume de 24h em US$ 25,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço a 21% da faixa do dia, entre 81 e 83,5 mil, com a queda ganhando força na última hora · Smart Money: financiamento +0,009%, razão comprado/vendido 1,66",
+          "source": "https://www.coinglass.com/pt-BR/bitcoin"
+        },
+        {
+          "title": "A linha de baixo é 81 mil",
+          "body": "Um passo abaixo (−0,6%), o repique da tarde perde validade · no lado de cima, 83,5 mil (+2,4%) vem antes de 84 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no intraday. Informação de mercado, não recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-19-20h31",
       "date": "2026-10-19",
       "time": "20h31",
