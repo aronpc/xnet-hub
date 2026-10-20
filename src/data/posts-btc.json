@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-20-12h34",
+      "date": "2026-10-20",
+      "time": "12h34",
+      "hook": "O teste do topo das últimas 24 horas aconteceu e o topo venceu: o preço passou por 83,3 mil e voltou. Agora está em 82,4 mil, no meio da faixa de 82,1 a 83,4 mil. O impulso da manhã perdeu a força, nada se quebrou, e resta esperar qual ponta da faixa cede primeiro.",
+      "caption": "Bitcoin a 82,4 mil na leitura das 12h34, dentro da faixa de 82,1 a 83,4 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-20-12h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-20-12h34",
+      "slides": [
+        {
+          "title": "83,3 mil não deixou passar",
+          "body": "Bitcoin a 82,4 mil na leitura das 12h34, dentro da faixa de 82,1 a 83,4 mil."
+        },
+        {
+          "title": "US$ 82,4 mil",
+          "body": "Δ1h −0,71% · Δ24h +0,29% · volume de 24h em US$ 27,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Recusa no topo com volume 1,5 vezes a média; a base segurou e o dia segue plano · Smart Money: funding +0,007% e L/S 1,48",
+          "source": "https://www.coinglass.com/pt-BR/bitcoin"
+        },
+        {
+          "title": "A faixa de 82,1 a 83,4 mil segue no comando",
+          "body": "Acima de 83 mil, o topo de 83,4 mil volta ao jogo, com espaço até 84,2 mil · abaixo de 82,1 mil, recuo à zona de 81,5 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no intraday. Informação de mercado, não recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-20-11h35",
       "date": "2026-10-20",
       "time": "11h35",
