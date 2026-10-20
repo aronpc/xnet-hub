@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-20-11h35",
+      "date": "2026-10-20",
+      "time": "11h35",
+      "hook": "Ontem o comprador sumiu na queda da noite. Hoje voltou: quase 2% de alta em uma hora, o bastante para o preço passar o teto de 82,1 mil que segurava a cotação nos últimos dias. A 0,5% dali está a máxima de 24 horas, 83,3 mil.",
+      "caption": "Bitcoin a 82,9 mil na leitura das 11h35, a 0,5% da máxima de 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-20-11h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-20-11h35",
+      "slides": [
+        {
+          "title": "O teto de 82,1 mil cedeu",
+          "body": "Bitcoin a 82,9 mil na leitura das 11h35, a 0,5% da máxima de 24 horas."
+        },
+        {
+          "title": "US$ 82,9 mil",
+          "body": "Δ1h +1,95% · Δ24h +1,36% · volume de 24h em US$ 25,9 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Três velas de 1h em alta seguidas e preço a 82% da oscilação de 24h · Smart Money: financiamento +0,005%, razão comprado/vendido 1,85",
+          "source": "https://www.coinglass.com/pt-BR/bitcoin"
+        },
+        {
+          "title": "O próximo degrau é 83,3 mil",
+          "body": "Um passo acima (+0,5%) abre espaço até 84 mil e 84,5 mil · perder 82,1 mil (−1,0%) devolve o preço à faixa antiga"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora no intraday. Informação de mercado, não recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-10-19-21h31",
       "date": "2026-10-19",
       "time": "21h31",
