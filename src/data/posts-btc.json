@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-21-18h32",
+      "date": "2026-10-21",
+      "time": "18h32",
+      "hook": "Dois turnos de indecisão e o preço decidiu: 84.680 virou piso logo na abertura, a vela das 18h já ensaiou 84.830 e o teto do dia, 84.898, está em prova agora. Quem empurrou até aqui foi dinheiro à vista; a alavancada segue de fora, com 98,2k BTC em contratos abertos. Alta de 2,3% nas 24h e terceiro fechamento de hora seguido no azul.",
+      "caption": "BTC em US$ 84,7 mil · piso do dia recuperado na abertura · +2,3% em 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-10-21-18h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-21-18h32",
+      "slides": [
+        {
+          "title": "O teto do dia está em prova",
+          "body": "BTC em US$ 84,7 mil · piso do dia recuperado na abertura · +2,3% em 24h"
+        },
+        {
+          "title": "US$ 84.744",
+          "body": "Δ1h +0,29% · Δ24h +2,29% · vol 24h $1,3bi (Binance)",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Três fechamentos de hora em elevação, mínimas subindo desde 82.635 · Smart Money: funding +0,001% + L/S 1,03 (51% L)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Hora decisiva contra o teto do dia",
+          "body": "Piso 84.680 (-0,1%) · teto 84.898 (+0,2%) · confirmar acima estica para 85.200/85.500; perder o piso devolve o degrau 84.159"
+        },
+        {
+          "title": "Leitura das 18h32",
+          "body": "O painel atualiza de hora em hora · leitura técnica, não é recomendação"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21-16h32",
       "date": "2026-10-21",
       "time": "16h32",
