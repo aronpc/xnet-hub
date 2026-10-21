@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-21-07h34",
+      "date": "2026-10-21",
+      "time": "07h34",
+      "hook": "Cinco horas seguidas de alta levaram o BTC até 83,7 mil. Na terceira ida ao mesmo teto, ninguém conseguiu passar, e a leitura das 07h34 encontra o preço de volta em 83,2 mil, no chão da faixa do dia, com volume da hora em menos da metade da média.",
+      "caption": "BTC em US$ 83,2 mil · dia ainda positivo em 2,1% · volume da hora em 243 BTC, contra média de 550\n\nLeia: https://xbtc.aronpc.dev/#2026-10-21-07h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-21-07h34",
+      "slides": [
+        {
+          "title": "O 83,7 mil resistiu pela terceira vez",
+          "body": "BTC em US$ 83,2 mil · dia ainda positivo em 2,1% · volume da hora em 243 BTC, contra média de 550"
+        },
+        {
+          "title": "US$ 83.219",
+          "body": "Δ1h -0,32% · Δ24h +2,11% · vol 24h $1,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "As máximas de cada hora recuam (83.714 → 83.652 → 83.467) e o preço parou em cima de 83.240 · Funding +0,010% · L/S 1,31 · 57% longs",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Compressão de 0,25% espera direção",
+          "body": "Uma hora acima de 83.720 (+0,6%) reabre o caminho ao 84 mil; 83.240 está em teste e, se ceder, a próxima leitura é 83.100",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura das 07h34",
+          "body": "O painel atualiza de hora em hora · leitura técnica, não é recomendação"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21-06h35",
       "date": "2026-10-21",
       "time": "06h35",
