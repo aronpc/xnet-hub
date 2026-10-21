@@ -2,6 +2,53 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-21",
+      "date": "2026-10-21",
+      "hook": "Projetos — 21 de outubro",
+      "caption": "A leva do fleet de agentes: UI de rastreio, compute na LAN, handoff verificável e budget duro. E o deslop desce do prompt para o peso do modelo.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-21",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-21",
+      "slides": [
+        {
+          "title": "Projetos — 21 de outubro",
+          "body": "A leva do fleet de agentes: UI de rastreio, compute na LAN, handoff verificável e budget duro. E o deslop desce do prompt para o peso do modelo."
+        },
+        {
+          "title": "harp: todos os seus agentes numa sidebar só",
+          "body": "Roda vários Claude Code e Codex em paralelo, com a interface dizendo qual deles precisa de você.",
+          "source": "github.com/dominikmartn/harp"
+        },
+        {
+          "title": "Qwen3-4B 'deslop': fine-tune anti-clichê",
+          "body": "Fine-tune do Qwen3-4B que treina para fora os tiques de escrita de IA do modelo. O anti-slop virou produto.",
+          "source": "100toolkit.com/blog/deslop-model/"
+        },
+        {
+          "title": "KiviDB: Redis e cache de vetores num binário",
+          "body": "Banco em memória compatível com Redis que também funciona como cache de vetores.",
+          "source": "github.com/kividbio/kividb"
+        },
+        {
+          "title": "geckobox: sua LAN como compute de agentes",
+          "body": "Roda Claude Code, Codex ou qualquer agente de código em qualquer um dos seus computadores, com jobs distribuídos entre as máquinas.",
+          "source": "github.com/migasrias2/geckobox"
+        },
+        {
+          "title": "not-yet-dead: handoff com recibo",
+          "body": "Repositório que formaliza handoffs entre agentes com progresso salvo verificável, a continuidade como contrato.",
+          "source": "github.com/qiwei999/not-yet-dead"
+        },
+        {
+          "title": "SIwithin: agente sozinho, teto de US$ 1",
+          "body": "Claude Code não assistido dentro de sandbox com budget em dólar: trabalha até o teto e para.",
+          "source": "github.com/metahumansworld/SIwithin"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A leva cobre os quatro cantos do fleet de agentes: rastrear (harp), distribuir (geckobox), retomar (not-yet-dead) e limitar (SIwithin). Quem roda cron há tempo reconhece a lista; só faltava empacotar."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-21",
       "date": "2026-10-21",
       "hook": "IA — 21 de outubro",
