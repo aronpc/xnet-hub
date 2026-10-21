@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-21-06h35",
+      "date": "2026-10-21",
+      "time": "06h35",
+      "hook": "Quinto fechamento de hora em alta seguido, e o teto do dia subiu pela segunda vez: agora em 83.713. O preço passou dos 83.440 que o painel apontava na madrugada, e a quantidade de contratos abertos acompanhou o movimento, de 96,2 mil para 97,0 mil BTC.",
+      "caption": "BTC em US$ 83,5 mil, com o dia em alta de 2,6% e volume por hora abaixo do habitual (346 BTC contra média de 464).\n\nLeia: https://xbtc.aronpc.dev/#2026-10-21-06h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-21-06h35",
+      "slides": [
+        {
+          "title": "O teto do dia subiu de novo, agora em 83,7 mil",
+          "body": "BTC em US$ 83,5 mil, com o dia em alta de 2,6% e volume por hora abaixo do habitual (346 BTC contra média de 464)."
+        },
+        {
+          "title": "US$ 83.489",
+          "body": "Δ1h +0,34% · Δ24h +2,64% · Vol 1h: 346 BTC contra a média de 464",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Cinco fechamentos de 1h em ascensão, de 82.672 a 83,6 mil · Funding +0,010% · L/S 1,38 (58% comprados) · F&G 63",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O próximo redondo é 84 mil",
+          "body": "Faixa do momento: 83.240 (-0,30%) a 83.700 (+0,25%) · uma recusa nos 83,7 mil devolve a conversa aos 83,2 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura das 06h35",
+          "body": "O painel atualiza de hora em hora · leitura técnica, não é recomendação"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21-05h32",
       "date": "2026-10-21",
       "time": "05h32",
