@@ -2,6 +2,103 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-21",
+      "date": "2026-10-21",
+      "hook": "IA — 21 de outubro",
+      "caption": "Semana do dinheiro grande: S-1 da Anthropic, rodada da OpenAI e a fire sale da Character.AI. No resto, IA provando teorema e agentes invadindo empresas.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-21",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-21",
+      "slides": [
+        {
+          "title": "IA — 21 de outubro",
+          "body": "Semana do dinheiro grande: S-1 da Anthropic, rodada da OpenAI e a fire sale da Character.AI. No resto, IA provando teorema e agentes invadindo empresas."
+        },
+        {
+          "title": "Disney leva a Character.AI por US$ 20 milhões",
+          "body": "A startup entrou com Chapter 11 no dia 13, com US$ 193 mi captados. A Disney ofereceu US$ 20 mi pelos ativos, e 40 procuradores-gerais já tinham pedido condições na venda, de verificação de idade a exclusão dos chats.",
+          "source": {
+            "label": "AI Tools Recap — 21 out",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-october-21-2026"
+          }
+        },
+        {
+          "title": "S-1 da Anthropic: US$ 16,3 bi contra US$ 80,7 bi",
+          "body": "No primeiro semestre: receita de US$ 16,3 bi (contra US$ 1,1 bi um ano antes), cerca de 20% vinda de só dois clientes, prejuízo de US$ 80,7 bi e US$ 9 bi gastos em compute.",
+          "source": {
+            "label": "Techmeme — 20 out",
+            "url": "https://www.techmeme.com/river"
+          }
+        },
+        {
+          "title": "OpenAI negocia US$ 30 bi acima de US$ 1,4 tri",
+          "body": "A rodada agora corre para fechar antes que os disclosures do IPO da Anthropic permitam comparação direta.",
+          "source": {
+            "label": "AI Tools Recap — 21 out",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-october-21-2026"
+          }
+        },
+        {
+          "title": "IA prova a Quase-Riemann — e agora?",
+          "body": "A Quanta examina o que sobra da matemática depois que uma IA provou a Quasi-Riemann Hypothesis.",
+          "source": {
+            "label": "Quanta — 19 out",
+            "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/"
+          }
+        },
+        {
+          "title": "Claude desenha antivenenos de escorpião",
+          "body": "Pesquisa da Anthropic mostra o modelo projetando protein binders contra neurotoxinas de escorpião.",
+          "source": {
+            "label": "Anthropic — 20 out",
+            "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
+          }
+        },
+        {
+          "title": "Publique estatística falsa, seja citado por LLMs",
+          "body": "O peec.ai documenta a tática: dados fabricados com cara de pesquisa entram como verdade no conhecimento dos modelos.",
+          "source": {
+            "label": "peec.ai — 19 out",
+            "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
+          }
+        },
+        {
+          "title": "Steam pede filtro 'sem IA' no Next Fest",
+          "body": "Usuários imploram por rótulo enquanto o festival transborda de jogos vibecoded, conta a IGN.",
+          "source": {
+            "label": "IGN — 19 out",
+            "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
+          }
+        },
+        {
+          "title": "Os três finais de jogo, segundo Altman",
+          "body": "Ao staff do maior lab do mundo: um regulador estilo IAEA, uma fusão de labs estilo CERN ou um único lab vencendo com auto-melhoria recursiva.",
+          "source": {
+            "label": "Techmeme — 20 out",
+            "url": "https://www.techmeme.com/river"
+          }
+        },
+        {
+          "title": "Encanador grátis, se o robô puder assistir",
+          "body": "Um lab de IA oferece reparos gratuitos de encanamento, HVAC e elétrica em três cidades; sensores vestíveis gravam o serviço em vídeo para treinar robôs.",
+          "source": {
+            "label": "Tom's Hardware — 19 out",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning"
+          }
+        },
+        {
+          "title": "Exército de agentes invade John Deere e Cummins",
+          "body": "A Verge nomeia as vítimas da campanha de intrusão assistida por IA: John Deere, SharkNinja e Cummins.",
+          "source": {
+            "label": "The Verge — 20 out",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O dinheiro se concentra (S-1, rodadas, fire sale) enquanto a capacidade se espalha: teorema, proteína, intrusão. E a conta de confiança, com dados que sobrevivem à quebra de um lab e citações envenenadas por SEO, virou pauta central da semana."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-19",
       "date": "2026-10-19",
       "hook": "Skills & MCP · 19 de outubro",
