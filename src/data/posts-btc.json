@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-21-16h32",
+      "date": "2026-10-21",
+      "time": "16h32",
+      "hook": "A região dos 84,9 mil recebeu a quinta visita do dia e respondeu como nas quatro anteriores: máxima em 84.876 às 15h e volta. O preço agora roda na casa dos 84,3 mil, o dia segue em alta de 2,4%, e o recuo foi ordenado do começo ao fim. O teto do dia continua firme.",
+      "caption": "BTC em US$ 84,3 mil · alta de 2,4% no dia · máxima parou em 84.876 às 15h\n\nLeia: https://xbtc.aronpc.dev/#2026-10-21-16h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-21-16h32",
+      "slides": [
+        {
+          "title": "Quinta visita ao topo, mesma resposta",
+          "body": "BTC em US$ 84,3 mil · alta de 2,4% no dia · máxima parou em 84.876 às 15h"
+        },
+        {
+          "title": "US$ 84.358",
+          "body": "Δ1h -0,40% · Δ24h +2,44% · vol 24h $1,3bi (Binance)",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Recuo organizado abaixo dos 84,4 mil, mínima da hora em 84.180, e a marca de 84.159 intacta. Sem aposta alavancada no movimento: Funding +0,0009% · L/S 1,04 · posições abertas em 98,4k BTC cedendo ~1%",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O fechamento da hora aponta o caminho",
+          "body": "Referência de baixo 84.159 (-0,2%) · teto do dia 84.898 (+0,6%) · recuperar 84.680 recoloca o topo em debate"
+        },
+        {
+          "title": "Leitura das 16h32",
+          "body": "O painel atualiza de hora em hora · leitura técnica, não é recomendação"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21-12h32",
       "date": "2026-10-21",
       "time": "12h32",
