@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-21-11h33",
+      "date": "2026-10-21",
+      "time": "11h33",
+      "hook": "O 83,7 mil recusou o preço três vezes entre a madrugada e a manhã, e a tentativa das 10h ainda terminou em ensaio falso. Às 11h a história foi outra: a vela atravessou o teto e cravou 84.159, o topo do dia, com 980 BTC negociados em meia hora, quase o dobro da média de 518 por hora inteira.",
+      "caption": "BTC em US$ 83,9 mil · dia em alta de 1,1% · preço a 91% da faixa de 24h (82,2 a 84,2 mil)\n\nLeia: https://xbtc.aronpc.dev/#2026-10-21-11h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-21-11h33",
+      "slides": [
+        {
+          "title": "Depois de três recusas, o teto do dia cedeu",
+          "body": "BTC em US$ 83,9 mil · dia em alta de 1,1% · preço a 91% da faixa de 24h (82,2 a 84,2 mil)"
+        },
+        {
+          "title": "US$ 83.878",
+          "body": "Δ1h +0,25% · Δ24h +1,10% · vol 24h $1,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fechamento de 83.826 acima de 83.714 abriu o topo; as mínimas sobem em sequência (83.387 → 83.450 → 83.614) · Funding +0,0088% · L/S 1,27 (56% longs) · OI 96,8k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O próximo teste é o fechamento da hora",
+          "body": "Suporte 83.614 (-0,3%) · Resistência 84.159 (+0,3%) · hora fechada acima de 84.159 abre 84,2/84,5 mil; abaixo de 83.826, volta o reteste de 83.614",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura das 11h33",
+          "body": "O painel atualiza de hora em hora · leitura técnica, não é recomendação"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21-09h32",
       "date": "2026-10-21",
       "time": "09h32",
