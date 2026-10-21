@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-21-04h35",
+      "date": "2026-10-21",
+      "time": "04h35",
+      "hook": "A queda das 3h durou uma hora. Na leitura seguinte o preço já tinha recuperado o chão perdido: voltou a fechar acima de 82,8 mil, encostou nos 83 mil e emendou três fechamentos de hora em alta, em direção à máxima do dia, 83.439.",
+      "caption": "O recuo colocou o preço de volta na metade de cima do canal do dia, de 81,3 a 83,4 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-21-04h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-21-04h35",
+      "slides": [
+        {
+          "title": "A queda que durou uma hora",
+          "body": "O recuo colocou o preço de volta na metade de cima do canal do dia, de 81,3 a 83,4 mil."
+        },
+        {
+          "title": "US$ 83.017",
+          "body": "Δ1h +0,48% · Δ24h +1,88% · Vol 1h: 292 BTC contra a média de 514",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fechamentos de hora subindo (82.672 → 82.808 → 83.168) · Funding +0,007% · L/S 1,48 (60% comprados)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "83.220 decide a hora que vem",
+          "body": "Piso 82.800 (-0,26%) · Teto 83.220 (+0,24%) · Máx do dia 83.439",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_BRL"
+        },
+        {
+          "title": "Leitura das 04h35",
+          "body": "O painel atualiza de hora em hora · leitura técnica, não é recomendação"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21-03h33",
       "date": "2026-10-21",
       "time": "03h33",
