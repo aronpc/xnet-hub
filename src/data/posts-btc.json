@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-21-03h33",
+      "date": "2026-10-21",
+      "time": "03h33",
+      "hook": "O preço atravessou para baixo da faixa que segurava desde ontem à noite, mas quase ninguém negociou nessa passagem: 156 BTC numa hora contra a média de 533. É uma queda sem convicção, e no dia o saldo segue positivo, em +1,1%.",
+      "caption": "BTC em US$ 82,6 mil, colado na marca redonda de 82.600, com fechamentos de hora cada vez mais fracos.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-21-03h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-21-03h33",
+      "slides": [
+        {
+          "title": "Passagem mansa por baixo dos 82,7 mil",
+          "body": "BTC em US$ 82,6 mil, colado na marca redonda de 82.600, com fechamentos de hora cada vez mais fracos."
+        },
+        {
+          "title": "US$ 82.622",
+          "body": "Δ1h -0,32% · Δ24h +1,13% · F&G 63 ganância",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Perdeu 82.733 e agora encosta no 82.600 · Funding +0,007% · L/S 1,46 (59% comprados)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A próxima hora decide os 82,6 mil",
+          "body": "Piso 82.600 (-0,03%) · Teto 82.775 (+0,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura das 03h33",
+          "body": "O painel atualiza de hora em hora · leitura técnica, não é recomendação"
+        }
+      ]
+    },
+    {
       "id": "2026-10-20-21h33",
       "date": "2026-10-20",
       "time": "21h33",
