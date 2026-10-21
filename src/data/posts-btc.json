@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-21-12h32",
+      "date": "2026-10-21",
+      "time": "12h32",
+      "hook": "A hora das 11h foi a mais negociada do dia: 2.383 BTC trocaram de mão, mais que o quádruplo da média de uma hora comum. O preço passou das 84.159, tocou 84.828 (topo novo do dia) e agora descansa na casa dos 84,4 mil. A compra veio junto, não depois.",
+      "caption": "BTC em US$ 84,4 mil · dia em alta de 2,3% · topo renovado em 84.828\n\nLeia: https://xbtc.aronpc.dev/#2026-10-21-12h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-21-12h32",
+      "slides": [
+        {
+          "title": "A hora das 11h teve volume de verdade",
+          "body": "BTC em US$ 84,4 mil · dia em alta de 2,3% · topo renovado em 84.828"
+        },
+        {
+          "title": "US$ 84.383",
+          "body": "Δ1h +0,60% · Δ24h +2,32% · vol 24h $1,2bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fechamento da 11h em 84.575 passou o degrau das 84.159 com a maior hora de negociação do dia, e as posições abertas subiram de 96,8k pra 99,1k BTC: dinheiro novo, não aposta carregada · Funding +0,0061% · L/S 1,16",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A hora do almoço digere o movimento",
+          "body": "Suporte 84.159 (-0,3%) · Resistência 84.828 (+0,5%) · F&G em 63, zona de ganância: extensão dessas costuma pedir volume pra seguir"
+        },
+        {
+          "title": "Leitura das 12h32",
+          "body": "O painel atualiza de hora em hora · leitura técnica, não é recomendação"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21-11h33",
       "date": "2026-10-21",
       "time": "11h33",
