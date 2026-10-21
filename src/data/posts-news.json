@@ -2,6 +2,53 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-21",
+      "date": "2026-10-21",
+      "hook": "Skills & MCP — 21 de outubro",
+      "caption": "Claude Code emenda fixes para uso não assistido, harness vira disciplina nomeada e skills 'produto pronto' caem no repositório.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-21",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-21",
+      "slides": [
+        {
+          "title": "Skills & MCP — 21 de outubro",
+          "body": "Claude Code emenda fixes para uso não assistido, harness vira disciplina nomeada e skills 'produto pronto' caem no repositório."
+        },
+        {
+          "title": "Claude Code 2.1.306: sandbox aninhado e fix de gateway",
+          "body": "A 2.1.305 traz sandbox com namespaces aninhados e corrige a regressão que derrubava Vertex, Bedrock e gateways com ToolSearch; a 2.1.306 corrige o modo headless em sessões cloud.",
+          "source": "github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+        },
+        {
+          "title": "O manual de tmux para agentes",
+          "body": "Guia do crystl.dev sobre sessões persistentes e send-keys com Claude Code, e até onde a automação vai.",
+          "source": "crystl.dev/guides/tmux-for-ai-agents/"
+        },
+        {
+          "title": "Harness Engineering 101: o corpo do agente",
+          "body": "Guia aberto que separa papéis: o LLM é o cérebro, o harness ao redor é o corpo que decide o resultado.",
+          "source": "github.com/IsuruMaduranga/harness-engineering-101"
+        },
+        {
+          "title": "Claude Code virou mesa de operações",
+          "body": "Pacote com 11 skills de day trading: scan de milhares de gráficos, breaking news e timing de entradas.",
+          "source": "github.com/Jakeschincariol/day-trader-skill"
+        },
+        {
+          "title": "Escudo de privacidade in-memory para MCP",
+          "body": "SDK que impede tools MCP de vazar contexto entre chamadas, sanitizando em memória sem log nem persistência.",
+          "source": "github.com/rohan-protocol/sdk"
+        },
+        {
+          "title": "config2mcp: qualquer CLI vira MCP por YAML",
+          "body": "Wrap de qualquer CLI em servidor MCP a partir de um arquivo YAML, sem código, sem injeção de shell e com saídas limitadas.",
+          "source": "github.com/linwanwanwa/config2mcp"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O runtime corrige o caminho dos crons, o harness ganha nome de disciplina e a skill deixou de ser dica para virar produto: trading, dashboard, comercial. O binário local, esse, segue parado no 2.1.273."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-21",
       "date": "2026-10-21",
       "hook": "Projetos — 21 de outubro",
