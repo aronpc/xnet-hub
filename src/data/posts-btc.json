@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-21-09h32",
+      "date": "2026-10-21",
+      "time": "09h32",
+      "hook": "Duas horas depois de encostar no chão da faixa, em 83,2 mil, o BTC reconstruiu a manhã degrau por degrau e já opera a poucos dólares do teto do dia. O detalhe desta subida: ela saiu do mercado à vista. Os contratos em aberto estão no mesmo nível há três leituras seguidas.",
+      "caption": "BTC em US$ 83,5 mil · dia em alta de 2,5% · contratos abertos em 97,1 mil BTC, sem mudança há três leituras\n\nLeia: https://xbtc.aronpc.dev/#2026-10-21-09h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-21-09h32",
+      "slides": [
+        {
+          "title": "O 83,6 mil voltou ao radar, movido por compra à vista",
+          "body": "BTC em US$ 83,5 mil · dia em alta de 2,5% · contratos abertos em 97,1 mil BTC, sem mudança há três leituras"
+        },
+        {
+          "title": "US$ 83.526",
+          "body": "Δ1h +0,09% · Δ24h +2,52% · vol 24h $1,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "As mínimas de cada hora sobem em degraus (83.387 → 83.472) e o preço negocia a 92% da faixa de 24h · Funding +0,010% · L/S 1,30 (57% longs) · OI 97,1k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Só falta o volume no 83,652",
+          "body": "Faixa do momento: 83.472 (-0,1%) a 83.652 (+0,2%) · a hora atual negocia 242 BTC, menos da metade da média de 551",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura das 09h32",
+          "body": "O painel atualiza de hora em hora · leitura técnica, não é recomendação"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21-07h34",
       "date": "2026-10-21",
       "time": "07h34",
