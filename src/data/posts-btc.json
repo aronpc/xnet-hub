@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-20-21h33",
+      "date": "2026-10-20",
+      "time": "21h33",
+      "hook": "Depois de um dia inteiro no neutro, o sentimento do mercado entrou em ganância pela primeira vez. O BTC está a 0,4% do máximo do dia e os picos de cada hora vêm subindo devagar. O otimismo acompanha o preço.",
+      "caption": "BTC em US$ 83,1 mil, no quarto empurrão do dia sobre a zona dos 83 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-20-21h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-20-21h33",
+      "slides": [
+        {
+          "title": "O clima virou: ganância no placar",
+          "body": "BTC em US$ 83,1 mil, no quarto empurrão do dia sobre a zona dos 83 mil."
+        },
+        {
+          "title": "US$ 83.119",
+          "body": "Δ1h +0,32% · Δ24h +1,95% · volume $27,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Quatro visitas à faixa 83,0-83,4 mil com picos cada vez mais altos, sem fechamento acima de 83.440 · Funding +0,006% · L/S 1,50",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "O máximo do dia a 0,4%",
+          "body": "Recuo inicial 82.800 (-0,4%) · Máximo 24h 83.440 (+0,4%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura das 21h33",
+          "body": "O painel atualiza de hora em hora · dados de mercado ao vivo"
+        }
+      ]
+    },
+    {
       "id": "2026-10-20-14h34",
       "date": "2026-10-20",
       "time": "14h34",
