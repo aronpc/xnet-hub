@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-21-21h33",
+      "date": "2026-10-21",
+      "time": "21h33",
+      "hook": "A queda da noite durou uma vela: o nível perdido às 20h voltou sozinho na hora seguinte, sem ninguém disposto a sustentá-la",
+      "caption": "BTC em US$ 84,2 mil · degrau de 84.159 devolvido em uma hora · +1,3% em 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-10-21-21h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-21-21h33",
+      "slides": [
+        {
+          "title": "A queda que ninguém quis",
+          "body": "BTC em US$ 84,2 mil · degrau de 84.159 devolvido em uma hora · +1,3% em 24h"
+        },
+        {
+          "title": "US$ 84.183",
+          "body": "Δ1h -0,09% · Δ24h +1,29% · vol 24h $1,4bi (Binance)",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O degrau 84.159 caiu às 20h e voltou na hora seguinte, com contratos abertos recuando (98,0k) · Smart Money: funding +0,000% + L/S 1,02 (50,6% long)"
+        },
+        {
+          "title": "O chão novo é 84.058",
+          "body": "Fechar abaixo abre 83.826 (-0,4%) · acima de 84.448 (+0,3%) a máxima de 84.844 reaparece",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura das 21h33",
+          "body": "O painel atualiza de hora em hora · leitura técnica, não é recomendação"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21-20h34",
       "date": "2026-10-21",
       "time": "20h34",
