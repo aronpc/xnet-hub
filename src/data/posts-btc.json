@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-22-14h37",
+      "date": "2026-10-22",
+      "time": "14h37",
+      "hook": "Treze horas sem uma única leitura de alta: a última foi às 1h36, e desde o pico de 82,9 mil às 2h33 o preço só escorreu. Agora marca 81,3 mil, dia em 3,9% negativos, a meio por cento do ponto mais baixo das últimas 24 horas. Tudo em ritmo lento, sem pânico nem estouro de volume.",
+      "caption": "BTC em 81,3 mil, dia em −3,9%; falta meio por cento para o ponto mais baixo das últimas 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-10-22-14h37",
+      "link": "https://xbtc.aronpc.dev/#2026-10-22-14h37",
+      "slides": [
+        {
+          "title": "13 horas sem uma leitura de alta",
+          "body": "BTC em 81,3 mil, dia em −3,9%; falta meio por cento para o ponto mais baixo das últimas 24h"
+        },
+        {
+          "title": "US$ 81.313",
+          "body": "Δ1h −0,27% · Δ24h −3,86% · volume 24h US$ 35,4 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no terço de baixo da faixa de 24h (80,9 mil a 84,9 mil), com o dia inteiro de perda · Contratos abertos somam 95,2 mil BTC e a razão long/short foi a 1,99 · Smart Money: funding +0,004%",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Meio por cento até o fundo da faixa",
+          "body": "80,9 mil é o ponto mais baixo das últimas 24h (−0,5%); um fechamento de 1h abaixo abre a casa dos 80 mil. Para cima, o teto do período fica em 84,9 mil (+4,4%)"
+        },
+        {
+          "title": "O painel atualiza de hora em hora",
+          "body": "Leitura técnica de mercado, não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-22-06h34",
       "date": "2026-10-22",
       "time": "06h34",
