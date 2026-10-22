@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-22-05h30",
+      "date": "2026-10-22",
+      "time": "05h30",
+      "hook": "O dia inteiro com 82 mil lá embaixo segurando o preço; na quinta vela horária de queda seguida, o nível ficou para trás. BTC em US$ 81,97 mil, dia em −1,4%. Foi em conta-gotas, sem susto.",
+      "caption": "Menor preço das últimas 24 horas superado na vela das 5h30, com o dia acumulando queda contínua\n\nLeia: https://xbtc.aronpc.dev/#2026-10-22-05h30",
+      "link": "https://xbtc.aronpc.dev/#2026-10-22-05h30",
+      "slides": [
+        {
+          "title": "82 mil ficou para trás",
+          "body": "Menor preço das últimas 24 horas superado na vela das 5h30, com o dia acumulando queda contínua"
+        },
+        {
+          "title": "US$ 81.974",
+          "body": "Δ1h −0,28% · Δ24h −1,41% · vol 24h US$ 1,81 bi na Binance",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Humor do mercado em 68 (ganância) mesmo com o dia caindo; contrato aberto parado em 92,8k, sem entrada nova nem corrida à porta · Smart Money: funding −0,001% + L/S 1,51 (60,2% long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "82 mil mudou de papel",
+          "body": "Fechamento de 1h abaixo de 82,0 mil segue para 81,4 mil (−0,7%); fechar acima de 82,2 mil devolve 82,5 mil (+0,6%)"
+        },
+        {
+          "title": "O painel atualiza de hora em hora",
+          "body": "Leitura técnica do mercado, não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-22-03h35",
       "date": "2026-10-22",
       "time": "03h35",
