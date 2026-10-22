@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-21-20h34",
+      "date": "2026-10-21",
+      "time": "20h34",
+      "hook": "O dia inteiro subiu e a noite trouxe a primeira queda de verdade: 84.680 cedeu sem reação de compra e a hora fechou em 84,3 mil, menor preço desde o meio-dia. O volume da venda veio abaixo da média, então não teve pressa nenhuma nisso. Em 24h o saldo ainda é de alta, +1,7%.",
+      "caption": "BTC em US$ 84,3 mil · 84.680 cedeu sem reação · +1,7% em 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-10-21-20h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-21-20h34",
+      "slides": [
+        {
+          "title": "A primeira queda de verdade do dia",
+          "body": "BTC em US$ 84,3 mil · 84.680 cedeu sem reação · +1,7% em 24h"
+        },
+        {
+          "title": "US$ 84.259",
+          "body": "Δ1h -0,49% · Δ24h +1,69% · vol 24h $1,4bi (Binance)",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Três fechamentos de hora caindo, de 84.844 até 84,3 mil · Smart Money: funding +0,001% + L/S 1,01 (50% long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A hora se decide em 84.159",
+          "body": "Voltar a 84.500 (+0,3%) devolve o equilíbrio · abaixo disso, o próximo patamar é 83.826 (-0,5%)"
+        },
+        {
+          "title": "Leitura das 20h34",
+          "body": "O painel atualiza de hora em hora · leitura técnica, não é recomendação"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21-18h32",
       "date": "2026-10-21",
       "time": "18h32",
