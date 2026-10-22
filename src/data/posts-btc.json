@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-21-23h33",
+      "date": "2026-10-21",
+      "time": "23h33",
+      "hook": "A queda das 20h tinha sido devolvida em uma hora; a das 22h passou direto. O patamar das 84 mil cedeu com 1,8x o volume médio da hora, o preço foi ao fundo do intervalo de 24h e o sentimento ainda marcava ganância.",
+      "caption": "BTC em US$ 82,9 mil · terceira vela vermelha seguida · o saldo de 24h ainda segura +0,26%\n\nLeia: https://xbtc.aronpc.dev/#2026-10-21-23h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-21-23h33",
+      "slides": [
+        {
+          "title": "Duas horas varreram a alta do dia",
+          "body": "BTC em US$ 82,9 mil · terceira vela vermelha seguida · o saldo de 24h ainda segura +0,26%"
+        },
+        {
+          "title": "US$ 82.881",
+          "body": "Δ1h -1,65% · Δ24h +0,26% · vol 24h $33,2bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "82.785 cravado com 1.352 BTC (1,8x a média de 753/h) e contratos abertos caindo de 97,8k para 93,8k · Smart Money: funding -0,002% + L/S 1,09 (52,1% long)",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "82.635 é o que sobrou embaixo",
+          "body": "Hora fechada abaixo do mínimo estende para 82,0 mil (-1,1%) · voltar acima de 83.404 (+0,6%) devolve 84.058 (+1,4%), o nível perdido às 22h",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura das 23h33",
+          "body": "O painel atualiza de hora em hora · leitura técnica, não é recomendação"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21-21h33",
       "date": "2026-10-21",
       "time": "21h33",
