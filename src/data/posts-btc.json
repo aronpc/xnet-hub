@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-22-16h35",
+      "date": "2026-10-22",
+      "time": "16h35",
+      "hook": "Um dia de queda lenta levou o preço de 82,9 mil, de madrugada, até 81,1 mil no meio da tarde. Nesta rodada ele aparece em 81,4 mil, na primeira leitura fora da baixa desde as 7h31. O dia ainda acumula 3,6% de perda, mas a trégua veio justamente na borda de baixo da faixa de 24 horas.",
+      "caption": "BTC em 81,4 mil com variação de +0,44% na hora; o dia segue com perda de 3,61%\n\nLeia: https://xbtc.aronpc.dev/#2026-10-22-16h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-22-16h35",
+      "slides": [
+        {
+          "title": "Repique tira o painel da baixa",
+          "body": "BTC em 81,4 mil com variação de +0,44% na hora; o dia segue com perda de 3,61%"
+        },
+        {
+          "title": "US$ 81.444",
+          "body": "Δ1h +0,44% · Δ24h −3,61% · volume 24h US$ 34,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Depois de oito leituras seguidas em baixa, o repique devolveu o preço ao terço inferior da faixa de 24h (80,9 mil a 84,8 mil) · Smart Money: funding +0,007% e razão long/short em 2,03",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O dia inteiro coube entre 80,9 e 84,8 mil",
+          "body": "Faltam 0,7% para a borda de baixo e sobram 4,1% até a de cima · Sentimento em 68, zona de ganância, mesmo com o dia em queda · Contratos abertos somam 95,4 mil BTC"
+        },
+        {
+          "title": "Nova leitura a cada hora",
+          "body": "Leitura técnica de mercado, não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-22-14h37",
       "date": "2026-10-22",
       "time": "14h37",
