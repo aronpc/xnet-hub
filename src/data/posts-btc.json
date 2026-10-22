@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-22-03h35",
+      "date": "2026-10-22",
+      "time": "03h35",
+      "hook": "Nona queda em dez velas de 1h. A faixa de 82,6 a 83,4 mil segurou a madrugada inteira e acabou cedendo por baixo, sem pressa: 0,46% na última hora, preço em US$ 82,5 mil.",
+      "caption": "Mínimo de 24h perfurado na vela, em queda lenta, não em tombo\n\nLeia: https://xbtc.aronpc.dev/#2026-10-22-03h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-22-03h35",
+      "slides": [
+        {
+          "title": "A linha que aguentou três ataques cedeu",
+          "body": "Mínimo de 24h perfurado na vela, em queda lenta, não em tombo"
+        },
+        {
+          "title": "US$ 82.503",
+          "body": "Δ1h -0,46% · Δ24h -0,38% · vol 24h US$ 36,8 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Contrato aberto encolhe de 93,8k p/ 92,3k: dinheiro saindo, sem entrada nova · Smart Money: funding -0,002% + L/S 1,44 (58,9% long)"
+        },
+        {
+          "title": "82,5 mil é a linha da hora",
+          "body": "Fechamento de 1h abaixo abre 82,0 mil (-0,6%) · fechar acima de 82,9 mil devolve o topo da faixa, 83,4 mil (+1,1%)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O painel atualiza de hora em hora",
+          "body": "Leitura técnica do mercado, não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-22-00h36",
       "date": "2026-10-22",
       "time": "00h36",
