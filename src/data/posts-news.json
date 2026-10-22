@@ -2,6 +2,76 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-22",
+      "date": "2026-10-22",
+      "hook": "Projetos IA em 22 de outubro",
+      "caption": "A infraestrutura de agentes virou categoria de unicórnio, e o open source replicou a camada proprietária. O fio do dia: quem controla a orquestração.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-22",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-22",
+      "slides": [
+        {
+          "title": "Projetos IA em 22 de outubro",
+          "body": "A infraestrutura de agentes virou categoria de unicórnio, e o open source replicou a camada proprietária. O fio do dia: quem controla a orquestração."
+        },
+        {
+          "title": "Omnara: orquestração de agentes sem lock-in",
+          "body": "Show HN com boa tração: plataforma open source para orquestrar agentes gerenciados, alternativa self-hosted ao Claude Managed Agents da Anthropic.",
+          "source": "github.com/omnara-ai/omnara"
+        },
+        {
+          "title": "Archestra 1.4 traz o OpenAPPA",
+          "body": "A release 1.4 traz o OpenAPPA, app aberto para agentes, e runtime auto-hospedado para rodar Claude Code e Codex fora da infra do fornecedor.",
+          "source": {
+            "label": "GitHub — release 1.4.0",
+            "url": "https://github.com/archestra-ai/archestra/releases/tag/platform-v1.4.0"
+          }
+        },
+        {
+          "title": "LLM-D 1.0: inferência no Kubernetes",
+          "body": "Primeira versão estável do LLM-D leva inferência distribuída de LLMs para o Kubernetes com disaggregation de prefills, anunciada como production-ready.",
+          "source": {
+            "label": "Techstrong AI",
+            "url": "https://techstrong.ai/ai-infrastructure/llm-d-1-0-takes-open-source-kubernetes-ai-inference-into-production/"
+          }
+        },
+        {
+          "title": "Daytona vale US$ 1 bi com cloud para agentes",
+          "body": "Series B de US$ 60 milhões liderada pela FirstMark. A startup constrói a infraestrutura de cloud para agentes de código: sandboxes e ambientes efêmeros onde os agentes executam.",
+          "source": {
+            "label": "Fortune",
+            "url": "https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/"
+          }
+        },
+        {
+          "title": "Blacksmith: testes de código de IA a US$ 1 bi",
+          "body": "Series C da Sequoia de US$ 66 milhões no runner de testes que aguenta o volume de código escrito por IA. A valuation dobrou dos US$ 550 milhões da rodada anterior.",
+          "source": {
+            "label": "Fortune",
+            "url": "https://fortune.com/2026/10/21/exclusive-ai-code-testing-startup-blacksmith-hits-1-billion-valuation-as-ai-written-code-surges/"
+          }
+        },
+        {
+          "title": "A contra-aposta: treinar com menos compute",
+          "body": "A Flapping Airplanes vale US$ 6 bilhões em rodada que financia pesquisa em métodos de treino com menos dados e compute, e chips mais eficientes.",
+          "source": {
+            "label": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-21/ai-research-startup-flapping-airplanes-valued-at-6-billion-in-round"
+          }
+        },
+        {
+          "title": "Agentes LLM jogando Pokémon Showdown",
+          "body": "Projeto de pesquisa coloca agentes LLM para competir no battle simulator, com análise de estratégia adaptativa a cada partida.",
+          "source": {
+            "label": "olivergrabner.com",
+            "url": "https://olivergrabner.com/research/pokemon/"
+          }
+        },
+        {
+          "title": "A camada de agentes virou mercado",
+          "body": "Em dois dias, dois unicórnios (Daytona e Blacksmith) passaram a cobrir o compute e o CI dos agentes, enquanto Omnara e Archestra replicam a orquestração em projeto aberto. Para quem já roda tudo próprio, a leitura do dia é outra: medir o que já funciona antes de adotar plataforma nova."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-22",
       "date": "2026-10-22",
       "hook": "IA em 22 de outubro",
