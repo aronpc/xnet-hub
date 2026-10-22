@@ -2,6 +2,72 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-22",
+      "date": "2026-10-22",
+      "hook": "Skills e MCP em 22 de outubro",
+      "caption": "O ecossistema fechou um ciclo em um único dia: teste de servidor MCP, review com evidência, custo por skill e contexto auditável. O tema que sobra é medir antes de confiar.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-22",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-22",
+      "slides": [
+        {
+          "title": "Skills e MCP em 22 de outubro",
+          "body": "O ecossistema fechou um ciclo em um único dia: teste de servidor MCP, review com evidência, custo por skill e contexto auditável. O tema que sobra é medir antes de confiar."
+        },
+        {
+          "title": "Código vazado do Claude Code aceita CA forjada",
+          "body": "Análise do código-fonte vazado aponta que o cliente aceitaria um certificado de CA forjado desde abril, expondo o tráfego a interceptação. A discussão cresceu no Hacker News depois do leak da semana.",
+          "source": {
+            "label": "claude-code-leak (GitHub)",
+            "url": "https://github.com/Andytonglove/claude-code-leak/blob/main/src/upstreamproxy/upstreamproxy.ts"
+          }
+        },
+        {
+          "title": "Claude Mods: harness engineering nomeado",
+          "body": "Ensaio do Latent Space sobre o padrão de estender o Claude Code com módulos que reconfiguram comportamento, ferramentas e fluxo, em vez de só empilhar prompts.",
+          "source": {
+            "label": "Latent Space",
+            "url": "https://www.latent.space/p/claude-mods"
+          }
+        },
+        {
+          "title": "simple-checker: review com fluxograma e prova",
+          "body": "Skill em alta decompõe o código em blocos funcionais, desenha fluxogramas coloridos e exige evidência de execução para dizer se a implementação faz o que promete.",
+          "source": "github.com/Monopoly0024/simple-checker-v1"
+        },
+        {
+          "title": "Rivinci: spec OpenAPI vira MCP server",
+          "body": "Show HN de serviço que converte uma spec OpenAPI em servidor MCP hospedado. APIs REST passam a ser consumíveis por agentes sem escrever glue code.",
+          "source": {
+            "label": "rivinci.io",
+            "url": "https://rivinci.io/en"
+          }
+        },
+        {
+          "title": "QAmcp: suíte de testes para servidor MCP",
+          "body": "CLI que roda suítes de teste contra servidores MCP direto no terminal, validando tools, respostas e contratos durante o desenvolvimento.",
+          "source": "github.com/QAmcp/qamcp-cli"
+        },
+        {
+          "title": "tokscope: tokens por skill e subagente",
+          "body": "Ferramenta quebra o consumo de tokens do Claude Code por skill, subagente e fase da sessão, com CLI, relatório HTML e dashboard ao vivo.",
+          "source": "github.com/minhtran3124/claude-code-tokscope"
+        },
+        {
+          "title": "landmines: bugs das suas deps, onde o agente lê",
+          "body": "Ferramenta injeta no AGENTS.md os bugs abertos conhecidos das versões exatas das suas dependências. O agente passa a enxergar as minas antes de pisar.",
+          "source": "github.com/devanshranjan10/landmines"
+        },
+        {
+          "title": "atlas-context: memória read-only e auditável",
+          "body": "MCP server que expõe contexto pessoal revisado pelo usuário para agentes, somente leitura, com rastreabilidade de cada fonte usada.",
+          "source": "github.com/niulengxiao/atlas-context"
+        },
+        {
+          "title": "Confiança agora vem com medida",
+          "body": "Teste de servidor, review com evidência, custo por skill e contexto auditável apareceram no mesmo dia. O sinal para quem monta setup de agentes: a fase de empilhar ferramenta terminou, começou a de medir o que cada peça entrega."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-22",
       "date": "2026-10-22",
       "hook": "Projetos IA em 22 de outubro",
