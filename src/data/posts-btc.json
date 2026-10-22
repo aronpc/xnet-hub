@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-22-17h30",
+      "date": "2026-10-22",
+      "time": "17h30",
+      "hook": "A trégua das 16h35 durou uma rodada: o preço voltou à baixa em 81,3 mil, a 0,5% da mínima de 24h. E o detalhe curioso: o dia cai 3,8% e o índice de medo e ganância segue em 68, ainda em zona de ganância.",
+      "caption": "O repique do meio da tarde não vingou e a hora seguinte já voltou à baixa.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-22-17h30",
+      "link": "https://xbtc.aronpc.dev/#2026-10-22-17h30",
+      "slides": [
+        {
+          "title": "Queda de 3,8% e humor otimista",
+          "body": "O repique do meio da tarde não vingou e a hora seguinte já voltou à baixa."
+        },
+        {
+          "title": "US$ 81.284",
+          "body": "Δ1h -0,20% · Δ24h -3,79% · vol US$ 34,2bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no terço de baixo da faixa de 24h (80,9 a 84,8 mil) · funding +0,006% e L/S 2,05, alavancagem sem convicção",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Ganância na queda",
+          "body": "F&G em 68 com o dia em -3,8%: o humor não acompanhou o preço",
+          "source": "https://www.coinglass.com/pt/FearGreedIndex"
+        },
+        {
+          "title": "Uma leitura por hora, o dia inteiro",
+          "body": "O intraday atualiza a cada hora."
+        }
+      ]
+    },
+    {
       "id": "2026-10-22-16h35",
       "date": "2026-10-22",
       "time": "16h35",
