@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-22-06h34",
+      "date": "2026-10-22",
+      "time": "06h34",
+      "hook": "De 82,9 mil às 2h33 para 81,7 mil agora, uma leitura mais baixa que a outra. O preço encostou na mínima das últimas 24 horas e o dia já acumula 2,1% de queda. A descida foi lenta, no ritmo de sempre, com volume dentro do normal.",
+      "caption": "Sétima leitura seguida em queda; a mínima de 24h agora é o próprio preço, 81,7 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-10-22-06h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-22-06h34",
+      "slides": [
+        {
+          "title": "Preço encostou no piso do dia",
+          "body": "Sétima leitura seguida em queda; a mínima de 24h agora é o próprio preço, 81,7 mil"
+        },
+        {
+          "title": "US$ 81.740",
+          "body": "Δ1h −0,29% · Δ24h −2,12% · volume 24h US$ 37,5 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no terço de baixo da faixa de 24h (81,7 mil a 84,9 mil), caindo sem pausa desde as 2h33 · Contratos abertos somam 93,3 mil BTC e a razão long/short subiu para 1,57 · Smart Money: funding −0,001%",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O piso de 81,7 mil em teste",
+          "body": "Distância de 0,05% para a mínima de 24h. Um fechamento de 1h abaixo abre espaço para a casa dos 81 mil; para cima, a faixa do dia se estica até 84,9 mil (+3,9%)"
+        },
+        {
+          "title": "A cada hora, uma nova leitura",
+          "body": "Leitura técnica de mercado, não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-22-05h30",
       "date": "2026-10-22",
       "time": "05h30",
