@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-22-00h36",
+      "date": "2026-10-22",
+      "time": "00h36",
+      "hook": "A vela mais pesada da madrugada vendeu 1.867 BTC, 2,4x o volume usual da hora, e ainda assim fechou acima da linha. BTC em US$ 82,7 mil, com o dia quase zerado (-0,1%).",
+      "caption": "Nenhum dos três ataques ao mínimo de 24h fechou embaixo\n\nLeia: https://xbtc.aronpc.dev/#2026-10-22-00h36",
+      "link": "https://xbtc.aronpc.dev/#2026-10-22-00h36",
+      "slides": [
+        {
+          "title": "A queda bateu três vezes no mesmo piso",
+          "body": "Nenhum dos três ataques ao mínimo de 24h fechou embaixo"
+        },
+        {
+          "title": "US$ 82.685",
+          "body": "Δ1h -0,24% · Δ24h -0,11% · vol 24h US$ 1,6 bi (Binance)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço preso entre 82,6 e 83,4 mil · força de queda com volume alto que não fecha embaixo é candidata a exaustão · Smart Money: funding -0,003% + L/S 1,27 (55,9% long)"
+        },
+        {
+          "title": "82.635 segue como a linha do dia",
+          "body": "Hora fechada abaixo abre 82,0 mil · fechar acima de 83.404 devolve o degrau de 84.058 (+1,7%)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O painel atualiza de hora em hora",
+          "body": "Leitura técnica do mercado, não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21-23h33",
       "date": "2026-10-21",
       "time": "23h33",
