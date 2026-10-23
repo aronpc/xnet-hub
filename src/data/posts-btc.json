@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-23-00h38",
+      "date": "2026-10-23",
+      "time": "00h38",
+      "hook": "A queda de 3,8% de ontem perdeu força na virada do dia: o preço raspou a base perto de 81,3 mil no fim da noite e subiu até encostar em 82 mil na meia-noite. O humor também virou a chave: depois de um dia inteiro teimando em ganância, o índice de medo e ganância esfriou para o neutro.",
+      "caption": "A base foi renovada na noite e o repique já encostou no topo da faixa.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-23-00h38",
+      "link": "https://xbtc.aronpc.dev/#2026-10-23-00h38",
+      "slides": [
+        {
+          "title": "A queda parou no 81,3",
+          "body": "A base foi renovada na noite e o repique já encostou no topo da faixa."
+        },
+        {
+          "title": "US$ 81.730",
+          "body": "Δ1h +0,3% · Δ24h -1,1% · vol US$ 31,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço de volta ao meio da faixa de 24h, entre 81 e 83 mil. Funding +0,006% e L/S 2,15: a maioria das contas segue posicionada para cima.",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Tudo se decide entre 81 e 82 mil",
+          "body": "Base do dia em 81,0 mil (-0,9%) · topo do repique em 82,0 mil (+0,3%)",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "O intraday segue acordado a madrugada toda",
+          "body": "Uma leitura por hora; a próxima decisão herda a abertura do dia."
+        }
+      ]
+    },
+    {
       "id": "2026-10-22-17h30",
       "date": "2026-10-22",
       "time": "17h30",
