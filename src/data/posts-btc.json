@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-24-11h35",
+      "date": "2026-10-24",
+      "time": "11h35",
+      "hook": "O dia inteiro o preço desceu devagar, de 81,0 a 80,7 mil, um degrau por hora. Perto do meio-dia a calma acabou: a vela das 11h derrubou 0,6% de uma vez e levou a cotação a 80,2 mil, mínimo do dia. O nível de 80,4 mil, que segurou a manhã inteira, agora ficou lá em cima.",
+      "caption": "Vela das 11h: -0,6% em uma hora, a maior do dia. Preço no mínimo das 24 horas, 80,2 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-24-11h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-24-11h35",
+      "slides": [
+        {
+          "title": "A queda devagar virou queda de verdade",
+          "body": "Vela das 11h: -0,6% em uma hora, a maior do dia. Preço no mínimo das 24 horas, 80,2 mil."
+        },
+        {
+          "title": "US$ 80.217",
+          "body": "Δ1h -0,6% · Δ24h -1,5% · vol 24h US$ 21,2bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A fraqueza da manhã virou pressão na vela das 11h. Contratos abertos caíram de 94,6 mil para 94,4 mil BTC, e 69% das contas seguem posicionadas para alta, agora com prejuízo na mão · Smart money: funding +0,0034% · L/S 2,24",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O antigo piso é o teste da próxima hora",
+          "body": "80,45 mil virou teto do repique: fechar 1h acima disso configura falso rompimento e alivia rumo a 80,9 mil; rejeitado aí, 80,0 e 79,8 mil voltam ao jogo. Suporte 79,8 mil (-0,5%) · Resistência 80,45 mil (+0,3%).",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Relatório vivo, hora a hora",
+          "body": "A leitura das 12h35 mostra se o repique alcança o antigo piso."
+        }
+      ]
+    },
+    {
       "id": "2026-10-24-07h32",
       "date": "2026-10-24",
       "time": "07h32",
