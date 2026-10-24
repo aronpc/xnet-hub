@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-23-21h32",
+      "date": "2026-10-23",
+      "time": "21h32",
+      "hook": "A recuperação da noite foi até onde podia: subiu até 81,2 mil, o mesmo nível que era chão até a véspera, e devolveu tudo em meia hora. É a terceira vez seguida que o topo do repique sai mais baixo. Lá embaixo, o fundo em 80,5 mil já segurou duas tentativas.",
+      "caption": "O repique da noite parou exatamente no antigo chão da faixa; o preço voltou aos 80,7 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-23-21h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-23-21h32",
+      "slides": [
+        {
+          "title": "O teto de 81,2 mil não deixou",
+          "body": "O repique da noite parou exatamente no antigo chão da faixa; o preço voltou aos 80,7 mil."
+        },
+        {
+          "title": "US$ 80.741",
+          "body": "Δ1h -0,2% · Δ24h -0,5% · vol US$ 23,8bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Cada topo de repique mais baixo que o anterior (81,5 → 81,2 mil) e a queda andando com metade do volume de costume, ou seja, quem vende não tem pressa. Funding +0,004% e L/S 2,1: 68% das contas seguem compradas.",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "A vela das 22h desenha a noite",
+          "body": "Fechamento de 1h abaixo de 80,5 mil estende o caminho para 80,0 e 79,8 mil; acima de 81,2 mil sustentado, o repique ganha 81,5 a 81,7 mil.",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Relatório vivo, hora a hora",
+          "body": "A próxima leitura acompanha o fechamento da vela das 22h contra 80,5 mil."
+        }
+      ]
+    },
+    {
       "id": "2026-10-23-20h32",
       "date": "2026-10-23",
       "time": "20h32",
