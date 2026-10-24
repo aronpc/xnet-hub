@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-24-07h32",
+      "date": "2026-10-24",
+      "time": "07h32",
+      "hook": "Oitenta mil e quinhentos. É a primeira vez no dia que o preço chega ao mínimo das últimas 24 horas, 80,4 mil. A descida foi contínua: sete velas de uma hora em queda, de 81,0 a 80,5 mil, sem um repique que prestasse. O fechamento das 8h mostra se a visita ao fundo vira estadia ou se o preço bate e volta.",
+      "caption": "Primeira visita ao mínimo de 24 horas (80,4 mil) depois de sete horas de queda contínua, sem repique.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-24-07h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-24-07h32",
+      "slides": [
+        {
+          "title": "O preço encostou no fundo do dia",
+          "body": "Primeira visita ao mínimo de 24 horas (80,4 mil) depois de sete horas de queda contínua, sem repique."
+        },
+        {
+          "title": "US$ 80.520",
+          "body": "Δ1h -0,1% · Δ24h -1,4% · vol 24h US$ 22,5bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Closes de 1h em queda desde a meia-noite, de 81,0 a 80,5 mil. Contratos abertos na terceira alta seguida (94,3 mil BTC) enquanto o preço cede · funding +0,0025% · 68% das contas posicionadas para alta.",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A definição é na vela das 7h",
+          "body": "Fechar abaixo de 80,4 mil estende a queda rumo a 80,0 mil; recuar acima de 80,6 mil devolve o preço à faixa de onde ele saiu. Suporte 80,4 mil (-0,1%) · Resistência 80,7 mil (+0,2%).",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Relatório vivo, hora a hora",
+          "body": "A leitura das 8h traz o desfecho do fundo e a janela de funding."
+        }
+      ]
+    },
+    {
       "id": "2026-10-24-06h33",
       "date": "2026-10-24",
       "time": "06h33",
