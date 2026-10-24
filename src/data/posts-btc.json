@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-23-20h32",
+      "date": "2026-10-23",
+      "time": "20h32",
+      "hook": "Quase vinte horas de mercado parado entre 81 e 82 mil terminaram num susto: às 19h, uma sequência de vendas com o maior volume do dia derrubou o preço a 80,5 mil, mínimo das últimas 24h. A recuperação já devolveu metade do caminho. Agora o teste é fechar de volta acima dos 81 mil.",
+      "caption": "O maior pico de vendas do dia levou o preço ao mínimo de 80,5 mil; metade da queda já foi recuperada.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-23-20h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-23-20h32",
+      "slides": [
+        {
+          "title": "O susto das 19h",
+          "body": "O maior pico de vendas do dia levou o preço ao mínimo de 80,5 mil; metade da queda já foi recuperada."
+        },
+        {
+          "title": "US$ 80.913",
+          "body": "Δ1h +0,1% · Δ24h -0,3% · vol US$ 24,2bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Dia inteiro travado entre 81,4 e 82,0 mil até a venda das 19h; agora um corredor estreito sob o piso perdido de 81,1 mil. Funding +0,003% e L/S 2,1: 68% das contas seguem compradas.",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "A noite passa por 80,5 e 81,1 mil",
+          "body": "Fechamento de 1h abaixo de 80,5 mil estende a pressão a 80,0; volta acima de 81,1 mil configura quebra falsa, com repique entre 81,5 e 81,7.",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Leitura técnica, hora a hora",
+          "body": "A próxima leitura acompanha a disputa entre 80,5 e 81,1 mil."
+        }
+      ]
+    },
+    {
       "id": "2026-10-23-00h38",
       "date": "2026-10-23",
       "time": "00h38",
