@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-24-14h33",
+      "date": "2026-10-24",
+      "time": "14h33",
+      "hook": "Depois da queda forte do início da tarde, o preço respondeu: alta de 0,69% na última hora, o maior avanço do dia, e o bitcoin voltou acima dos 80 mil. A perda de 24 horas (-1,7%) segue no balanço geral, mas a cotação está outra vez na faixa onde o dia começou. O próximo ponto de atenção fica em 81 mil.",
+      "caption": "Alta de 0,69% em uma hora, a maior do dia; o preço refez o trecho perdido no início da tarde.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-24-14h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-24-14h33",
+      "slides": [
+        {
+          "title": "O bitcoin voltou acima dos 80 mil",
+          "body": "Alta de 0,69% em uma hora, a maior do dia; o preço refez o trecho perdido no início da tarde."
+        },
+        {
+          "title": "US$ 80.138",
+          "body": "Δ1h +0,69% · Δ24h -1,7% · vol 24h US$ 23,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Duas horas depois de tocar 79,2 mil, o preço opera outra vez entre 79,2 e 81,0 mil · Smart money: funding +0,0004% · L/S 2,2",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "81 mil decide a sequência",
+          "body": "Fechar acima de 81,0 mil abre espaço até 81,7 mil (máximo de 24h); perder 79,8 mil leva ao reteste de 79,2 mil. Suporte 79,2 mil (-1,2%) · Resistência 81,0 mil (+1,1%).",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Relatório vivo, hora a hora",
+          "body": "A leitura das 15h33 mostra se o preço segura os 80 mil."
+        }
+      ]
+    },
+    {
       "id": "2026-10-24-12h33",
       "date": "2026-10-24",
       "time": "12h33",
