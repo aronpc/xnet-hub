@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-24-12h33",
+      "date": "2026-10-24",
+      "time": "12h33",
+      "hook": "Oitenta mil durou até a hora do almoço. A vela de 12h derrubou 1,1% com volume 3,2 vezes acima da média e levou o preço a 79,2 mil, a mínima de 24 horas. De manhã o número redondo ainda organizava o dia; agora virou referência de cima. O repique das próximas horas mostra se a faixa perdida vira teto, e a leitura das 13h33 traz a resposta.",
+      "caption": "Queda de 1,1% em uma hora com volume 3,2 vezes a média; preço encostou na mínima de 24 horas, 79,2 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-24-12h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-24-12h33",
+      "slides": [
+        {
+          "title": "O almoço levou os 80 mil",
+          "body": "Queda de 1,1% em uma hora com volume 3,2 vezes a média; preço encostou na mínima de 24 horas, 79,2 mil."
+        },
+        {
+          "title": "US$ 79.343",
+          "body": "Δ1h -1,1% · Δ24h -2,7% · vol 24h US$ 22,5bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Segunda perda de nível em duas horas: 80,4 mil cedeu na vela de 11h, 80 mil na de 12h. Contratos abertos subiram a 95,1 mil BTC com o preço caindo, dinheiro novo entrando na queda enquanto 69% das contas seguem do lado da alta · Smart money: funding +0,0015% · L/S 2,22",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A faixa de 79,8 a 80 mil decide a hora",
+          "body": "Recuo rejeitado nessa faixa estende a queda para 78,8 mil; um fechamento de 1h acima de 80 mil devolve o teste a 80,45 mil. Suporte 79,2 mil (-0,2%) · Resistência 80,0 mil (+0,8%).",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Relatório vivo, hora a hora",
+          "body": "A leitura das 13h33 chega em menos de uma hora e traz o primeiro teste da faixa perdida."
+        }
+      ]
+    },
+    {
       "id": "2026-10-24-11h35",
       "date": "2026-10-24",
       "time": "11h35",
