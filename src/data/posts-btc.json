@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-24-06h33",
+      "date": "2026-10-24",
+      "time": "06h33",
+      "hook": "O piso de 80,7 mil segurou a madrugada inteira e cedeu na abertura europeia, pouco depois das 6h. É a primeira vez no dia que o preço negocia abaixo dele: 80,6 mil, a poucos dólares do mínimo das últimas 24 horas. Os closes de 1h caem sem pausa desde a meia-noite, de 81,0 a 80,6 mil.",
+      "caption": "Depois de sete horas grudadas no mesmo nível, o preço desceu e encostou no mínimo do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-24-06h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-24-06h33",
+      "slides": [
+        {
+          "title": "O 80,7 mil caiu na abertura europeia",
+          "body": "Depois de sete horas grudadas no mesmo nível, o preço desceu e encostou no mínimo do dia."
+        },
+        {
+          "title": "US$ 80.609",
+          "body": "Δ1h -0,2% · Δ24h -1,3% · vol US$ 0,9bi na Binance",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Closes de 1h em queda desde a meia-noite, de 81,0 a 80,6 mil. Funding em +0,003% e 68% das contas ainda posicionadas para alta, enquanto os contratos abertos crescem durante a queda.",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "O mínimo de 24h decide a manhã",
+          "body": "A linha agora é 80,5 mil (mínimo das últimas 24h, a -0,1%): fechar abaixo estende a queda para a faixa de 80,0; voltar acima de 80,7 ainda nesta vela devolve o preço a 80,9.",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Relatório vivo, hora a hora",
+          "body": "A próxima leitura acompanha o fechamento da vela das 07h contra o mínimo de 80,5 mil."
+        }
+      ]
+    },
+    {
       "id": "2026-10-23-21h32",
       "date": "2026-10-23",
       "time": "21h32",
