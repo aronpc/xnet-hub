@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-25-06h32",
+      "date": "2026-10-25",
+      "time": "06h32",
+      "hook": "O mercado testou 80,3 mil a madrugada inteira. Às 06h a vela fechou lá embaixo, em 80.208, a primeira hora fechada abaixo da marca no dia. E 67% das contas seguem apostando na alta.",
+      "caption": "Preço segue em 80.122, agora com o redondo de 80 mil como referência seguinte.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-25-06h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-25-06h32",
+      "slides": [
+        {
+          "title": "80,3 mil virou história",
+          "body": "Preço segue em 80.122, agora com o redondo de 80 mil como referência seguinte."
+        },
+        {
+          "title": "US$ 80.122",
+          "body": "Δ1h -0,24% · Δ24h -0,47% · vol 24h US$ 19,5bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Hora fechada abaixo de 80,3 mil confirma a perda · Smart money: funding +0,0063% · L/S 2,05",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "80 mil é a referência agora",
+          "body": "Suporte 80,0k (-0,15%) · low 24h 79,2k (-1,1%) · Resistência 80,3k (+0,22%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Domingo raso",
+          "body": "Volume a 44% da média; decisão de verdade fica para a abertura de segunda."
+        }
+      ]
+    },
+    {
       "id": "2026-10-25-05h33",
       "date": "2026-10-25",
       "time": "05h33",
