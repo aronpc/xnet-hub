@@ -2,6 +2,103 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-25",
+      "date": "2026-10-25",
+      "hook": "Panorama IA de 25 de outubro",
+      "caption": "Dia de conferir e de contabilizar. A comunidade organizou um hub para revisar a matemática da OpenAI, o auditor contratado achou furos no monitor interno, e o fact-check derrubou o caso mais viral do vibecoding. No dinheiro, a primeira guerra de preços frontier com número na mesa.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-25",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-25",
+      "slides": [
+        {
+          "title": "Panorama IA de 25 de outubro",
+          "body": "Dia de conferir e de contabilizar. A comunidade organizou um hub para revisar a matemática da OpenAI, o auditor contratado achou furos no monitor interno, e o fact-check derrubou o caso mais viral do vibecoding. No dinheiro, a primeira guerra de preços frontier com número na mesa."
+        },
+        {
+          "title": "Cerebras roda modelos de 1 trilhão de parâmetros sem GPU",
+          "body": "Post técnico publicado na madrugada de hoje detalha o pipeline completo de deploy de modelos frontier de cerca de 1 trilhão de parâmetros nos sistemas wafer-scale da Cerebras. GPU nenhuma no caminho.",
+          "source": {
+            "label": "Cerebras Blog · 25 out",
+            "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
+          }
+        },
+        {
+          "title": "Replit troca Anthropic por OpenAI com 30% de desconto",
+          "body": "Replit moveu a maior parte do seu gasto de LLM da Anthropic para a OpenAI, que deu desconto acima de 30% num contrato de mais de US$ 100 milhões por ano. A Anthropic recusou ceder margem e perdeu a conta.",
+          "source": {
+            "label": "The Information · 24 out",
+            "url": "https://www.theinformation.com/articles/anthropics-margin-openais-opportunity"
+          }
+        },
+        {
+          "title": "Terry Tao abre hub para revisar a matemática da OpenAI",
+          "body": "O matemático criou o oai-math-revised, hub público para revisar e corrigir os write-ups matemáticos da OpenAI, no rastro da prova de Navier-Stokes. O departamento de matemática de Berkeley segue dividido sobre o caso.",
+          "source": {
+            "label": "Terry Tao · 24 out",
+            "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/"
+          }
+        },
+        {
+          "title": "Fortinet corrige falhas achadas por IA antes do CVE existir",
+          "body": "A Fortinet aplicou patches para falhas descobertas por IA em cinco produtos. Os CVEs só serão publicados em 10 de novembro, três semanas depois do fix.",
+          "source": {
+            "label": "AI Tools Recap · 24 out",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-october-24-2026"
+          }
+        },
+        {
+          "title": "Claude não inventou o antiveneno de escorpião",
+          "body": "The Verge desmonta a história viral do caso Citrini: o antivenom \"descoberto\" com Claude não era novo, nem fazia o que a narrativa contava.",
+          "source": {
+            "label": "The Verge · 24 out",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom"
+          }
+        },
+        {
+          "title": "Block lança Dessa: voz direta, sem texto nenhum no treino",
+          "body": "Anúncio de Jack Dorsey: modelo true speech-to-speech treinado só com conversa humana real, sem nenhum texto no dataset, rodando local.",
+          "source": {
+            "label": "The Verge · 24 out",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+          }
+        },
+        {
+          "title": "OpenAI aceita valuation menor: US$ 1,25 trilhão",
+          "body": "Depois de pedir US$ 1,4 tri no início de outubro, a OpenAI fechou em torno de US$ 1,25 tri pré-money no round de até US$ 30 bilhões, liderado por investidores dos Emirados e pela Coatue.",
+          "source": {
+            "label": "Financial Times · 23 out",
+            "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc"
+          }
+        },
+        {
+          "title": "Modelos Claude carregam watermark invisível no texto",
+          "body": "Análise da O'Reilly mostra que os últimos modelos Claude embutem marcas invisíveis no texto gerado, com efeito direto na detecção de conteúdo IA.",
+          "source": {
+            "label": "O'Reilly Radar · 23 out",
+            "url": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/"
+          }
+        },
+        {
+          "title": "Moonshot tira dados ofensivos do treino do Kimi K3.1 Pro",
+          "body": "A Moonshot confirmou que retirou dados de cibersegurança do treino \"para reduzir risco de uso indevido\", sem perder desempenho. O modelo segue 4º no Intelligence Index, com 55 pontos.",
+          "source": {
+            "label": "The Decoder · 23 out",
+            "url": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/"
+          }
+        },
+        {
+          "title": "METR acha falhas no monitor interno da OpenAI",
+          "body": "O piloto do sistema de monitoramento da OpenAI, conduzido pela METR, achou vulnerabilidades. Uma delas é um exploit que permitiria agentes ocultarem o próprio comportamento.",
+          "source": {
+            "label": "Reuters · 22 out",
+            "url": "https://www.reuters.com/business/ai-safety-group-metr-finds-flaws-openais-internal-monitoring-system-2026-10-22/"
+          }
+        },
+        {
+          "title": "Verificar virou parte do produto",
+          "body": "Numa tacada só: hub do Tao para revisar prova de lab, auditor achando furo no monitor, fact-check derrubando caso viral e patch antes do CVE. Do lado do dinheiro, preço virou arma no contrato da Replit e o valuation da OpenAI recuou."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-22",
       "date": "2026-10-22",
       "hook": "Skills e MCP em 22 de outubro",
