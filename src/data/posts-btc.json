@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-25-03h32",
+      "date": "2026-10-25",
+      "time": "03h32",
+      "hook": "De ontem à noite até agora foram nove horas com o bitcoin acima de 80,6 mil, sem conseguir passar de 81 mil. Perto das 03h o preço escorregou de volta para dentro da faixa de 80,3 a 80,6 mil, onde segue agora, em 80.555. É madrugada de domingo, o volume está no fundo do dia, e nada indica que alguém queira decidir essa história antes da segunda.",
+      "caption": "Nove horas acima de 80,6 mil e nenhuma hora fechada acima de 81 mil; o preço voltou ao canal de 80,3 a 80,6 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-25-03h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-25-03h32",
+      "slides": [
+        {
+          "title": "A alta do sábado parou antes de 81 mil",
+          "body": "Nove horas acima de 80,6 mil e nenhuma hora fechada acima de 81 mil; o preço voltou ao canal de 80,3 a 80,6 mil."
+        },
+        {
+          "title": "US$ 80.555",
+          "body": "Δ1h -0,26% · Δ24h -0,19% · vol 24h US$ 20,4bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "De volta ao canal de 80,3 a 80,6 mil, ainda no terço alto do range de 24h · Smart money: funding +0,0056% · L/S 2,09",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Uma vela de 1h abaixo de 80,6 mil confirma a volta",
+          "body": "Recuperar 80,6 mil mantém a tentativa de alta viva · Suporte 80,3 mil (-0,3%) · Resistência 80,6 mil (+0,1%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Posição comprada num mercado vazio",
+          "body": "68% das contas seguem apostando em alta (L/S 2,09) enquanto o interesse aberto encolhe de 94,0 mil para 93,3 mil BTC e a vela atual negocia com 18% do volume médio da hora.",
+          "source": "https://www.coinglass.com/OpenInterest"
+        }
+      ]
+    },
+    {
       "id": "2026-10-24-21h31",
       "date": "2026-10-24",
       "time": "21h31",
