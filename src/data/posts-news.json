@@ -2,6 +2,72 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-25",
+      "date": "2026-10-25",
+      "hook": "Projetos IA de 25 de outubro",
+      "caption": "O dinheiro do dia foi para o mundo físico: sensor que prevê falha, dado filmado por gente de verdade e robô alugado como serviço. E no open-source, dois projetos atacam direto ferramentas consolidadas: a stack de social media e a observabilidade de agentes.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-25",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-25",
+      "slides": [
+        {
+          "title": "Projetos IA de 25 de outubro",
+          "body": "O dinheiro do dia foi para o mundo físico: sensor que prevê falha, dado filmado por gente de verdade e robô alugado como serviço. E no open-source, dois projetos atacam direto ferramentas consolidadas: a stack de social media e a observabilidade de agentes."
+        },
+        {
+          "title": "Mave levanta US$ 28M para investigar incidentes sozinha",
+          "body": "Série A de US$ 28M liderada pela Red Dot. A Mave usa IA para automatizar investigações de segurança corporativa.",
+          "source": {
+            "label": "Calcalist · 24 out",
+            "url": "https://www.calcalistech.com/ctechnews/article/h1sq8ip2mx"
+          }
+        },
+        {
+          "title": "Tractian vira unicórnio, fundada por brasileiros",
+          "body": "Round de US$ 130M. A Tractian, sediada em Atlanta e fundada por brasileiros, usa sensores e IA para prever falhas de máquinas e recomendar manutenção em fábricas.",
+          "source": {
+            "label": "The Information · 22 out",
+            "url": "https://www.theinformation.com/briefings/exclusive-physical-ai-startup-tractian-becomes-unicorn"
+          }
+        },
+        {
+          "title": "Maxinsights: 5.000 pessoas filmando para treinar robôs",
+          "body": "Mais de 5.000 contratados com câmeras corporais gravam vídeos em primeira pessoa que viram training data para robôs. A startup captou um novo round.",
+          "source": {
+            "label": "Forbes · 22 out",
+            "url": "https://www.forbes.com/sites/johnkoetsier/2026/10/22/theres-not-enough-robot-training-data-this-startup-plans-to-fix-that/"
+          }
+        },
+        {
+          "title": "37studio quer substituir Buffer e Opus Clip",
+          "body": "Projeto open-source em que o Claude Code produz vídeos on-brand, agenda e publica nas redes, no lugar da stack Buffer + Opus Clip.",
+          "source": "github.com/Shaitrish/37studio"
+        },
+        {
+          "title": "uncensored-ai-api: uma chave, vários modelos, sem filtro",
+          "body": "API que agrega Claude, GPT, Gemini, Grok, DeepSeek, GLM e Qwen numa rota sem censura.",
+          "source": "github.com/routerhubSI/uncensored-ai-api"
+        },
+        {
+          "title": "whatsmyagentdoing: um escritório vivo para seus agentes",
+          "body": "App open-source que mostra ao vivo o que cada agente Claude Code e Codex da sua máquina está fazendo: um pequeno escritório com todos visíveis.",
+          "source": "github.com/Charonyuu/whatsmyagentdoing"
+        },
+        {
+          "title": "Extensão esconde bots de DeepSeek no Bilibili",
+          "body": "A dafeiyu-cleaner, para Chrome, Edge e Firefox, identifica e esconde comentários de contas-bot movidas por DeepSeek e agentes IA.",
+          "source": "github.com/liyupi/dafeiyu-cleaner"
+        },
+        {
+          "title": "Argus: defesa open-source contra ataques de agentes",
+          "body": "Plataforma de segurança open-source apresentada no Show HN para proteger sistemas contra ataques orquestrados por agentes de IA.",
+          "source": "github.com/thomasunise/argus"
+        },
+        {
+          "title": "Dinheiro no mundo físico, afronta no open-source",
+          "body": "Tractian, Maxinsights e Formic fecham a semana da tríade robô-dado-unicórnio: sensor, dado filmado e braço alugado. No software, 37studio e whatsmyagentdoing mostram agente local comendo o custo de SaaS consolidado."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-25",
       "date": "2026-10-25",
       "hook": "Panorama IA de 25 de outubro",
