@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-24-21h31",
+      "date": "2026-10-24",
+      "time": "21h31",
+      "hook": "A tarde inteira, 80,6 mil devolveu o preço toda vez que ele encostava. Agora são três fechamentos de hora seguidos acima do nível, e o bitcoin opera em 80,8 mil, no ponto mais alto desde a manhã. Um porém: é sábado à noite, o volume está fraco e a alta ainda precisa provar que tem gente dentro dela. A máxima do dia, 81,1 mil, é o teste que falta.",
+      "caption": "Três velas de 1h fechadas acima do antigo teto do dia; cotação no nível mais alto desde a manhã.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-24-21h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-24-21h31",
+      "slides": [
+        {
+          "title": "80,6 mil não segura mais o preço",
+          "body": "Três velas de 1h fechadas acima do antigo teto do dia; cotação no nível mais alto desde a manhã."
+        },
+        {
+          "title": "US$ 80.791",
+          "body": "Δ1h +0,3% · Δ24h +0,1% · vol 24h US$ 21,6bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA (ENSAIO)",
+          "body": "Preço no terço superior do canal de 79,2 a 81,1 mil · Smart money: funding +0,0099% · L/S 2,21",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A máxima do dia é o teste que falta",
+          "body": "Passar de 81,1 mil com volume devolve a força ao movimento; recuar abaixo de 80,6 mil anula a saída de hoje. Suporte 80,6 mil (-0,2%) · Resistência 81,1 mil (+0,4%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Alta sem dinheiro novo",
+          "body": "Contratos abertos caíram de 95,7 mil para 95,1 mil BTC durante a subida: quem empurrou o preço foram apostas contrárias sendo fechadas, não a entrada de compradores.",
+          "source": "https://www.coinglass.com/OpenInterest"
+        }
+      ]
+    },
+    {
       "id": "2026-10-24-14h33",
       "date": "2026-10-24",
       "time": "14h33",
