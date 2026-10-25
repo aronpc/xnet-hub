@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-25-12h30",
+      "date": "2026-10-25",
+      "time": "12h30",
+      "hook": "A madrugada tinha deixado o bitcoin abaixo de 80,3 mil. Passado o meio-dia, a marca já foi reconquistada: 80.493, na parte de cima da faixa do dia. E a vela das 12h trouxe o primeiro volume de verdade deste domingo.",
+      "caption": "Preço de volta na faixa de 80,2 a 80,8 mil, perto do teto.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-25-12h30",
+      "link": "https://xbtc.aronpc.dev/#2026-10-25-12h30",
+      "slides": [
+        {
+          "title": "80,3 mil reconquistado ao meio-dia",
+          "body": "Preço de volta na faixa de 80,2 a 80,8 mil, perto do teto."
+        },
+        {
+          "title": "US$ 80.493",
+          "body": "Δ1h +0,30% · Δ24h +1,46% · vol 24h US$ 15,1bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Mercado segurou a metade de cima da faixa, sem fechamento que defina direção · Smart money: funding +0,0082% · L/S 2,11",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O dia se decide entre 80,2 e 80,8 mil",
+          "body": "Piso 80,2 mil (-0,36%) · Teto 80,8 mil (+0,38%) · Topo 24h: 81,0 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "O domingo acordou",
+          "body": "A vela das 12h rodou a 87% da média. De manhã, o ritmo era 44%."
+        }
+      ]
+    },
+    {
       "id": "2026-10-25-06h32",
       "date": "2026-10-25",
       "time": "06h32",
