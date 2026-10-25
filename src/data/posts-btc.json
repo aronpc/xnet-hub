@@ -2,6 +2,40 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-25-05h33",
+      "date": "2026-10-25",
+      "time": "05h33",
+      "hook": "A hora das 04h fechou acima de 80,6 mil e chegou a parecer o começo de uma saída por cima. Uma vela depois, tudo devolvido: o preço atravessou a faixa inteira e agora encosta na linha de baixo, a 80.316. O domingo amanhece mais pesado do que a noite deixou.",
+      "caption": "Fechamento acima de 80,6 mil às 04h foi devolvido na hora seguinte; o preço cruzou a faixa de volta e encosta na linha de baixo, 80,3 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-25-05h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-25-05h33",
+      "slides": [
+        {
+          "title": "A escapada de 80,6 mil não passou de uma vela",
+          "body": "Fechamento acima de 80,6 mil às 04h foi devolvido na hora seguinte; o preço cruzou a faixa de volta e encosta na linha de baixo, 80,3 mil."
+        },
+        {
+          "title": "US$ 80.316",
+          "body": "Δ1h -0,26% · Δ24h -0,50% · vol 24h US$ 19,7bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Retomada do teto de 80,6 mil rejeitada em uma hora; preço colado na linha de baixo da faixa · Smart money: funding +0,0058% · L/S 2,08",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Hora fechada abaixo de 80,3 mil esvazia a faixa",
+          "body": "Linha de baixo 80,3 mil (-0,02%, sob toque) · Teto perdido 80,6 mil (+0,35%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Otimismo na contramão do preço",
+          "body": "68% das contas seguem apostando em alta (L/S 2,08), o funding fecha positivo pela 11ª leitura seguida e o interesse aberto encolhe para 93,1 mil BTC.",
+          "source": "https://www.coinglass.com/OpenInterest"
+        }
+      ]
+    },
+    {
       "id": "2026-10-25-03h32",
       "date": "2026-10-25",
       "time": "03h32",
