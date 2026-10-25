@@ -2,6 +2,64 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-25",
+      "date": "2026-10-25",
+      "hook": "Skills e MCP de 25 de outubro",
+      "caption": "A skill saiu do código: edição de vídeo no DaVinci Resolve, visão computacional na GPU local e McDonald's com centenas de autores construindo sobre o MCP oficial da marca. E o padrão Agent Skills passou de 70 plataformas.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-25",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-25",
+      "slides": [
+        {
+          "title": "Skills e MCP de 25 de outubro",
+          "body": "A skill saiu do código: edição de vídeo no DaVinci Resolve, visão computacional na GPU local e McDonald's com centenas de autores construindo sobre o MCP oficial da marca. E o padrão Agent Skills passou de 70 plataformas."
+        },
+        {
+          "title": "McDonald's China virou plataforma de skills",
+          "body": "O concurso do 1024 Programmers' Day sobre o MCP oficial da marca gerou dezenas de repos em 48h: mcreplay com replay de sessões MCP, o mcd-self-butler de pedidos, o mcd-vibe-commit, checagem de cupom por loja, até assistente nos óculos Rokid.",
+          "source": "github.com/YoyoLin008/mcreplay"
+        },
+        {
+          "title": "BeautifulRust ensina Claude a escrever Rust robusto",
+          "body": "Plugin de Claude Code que ensina o modelo a escrever Rust idiomático e seguro.",
+          "source": "github.com/morganlinton/BeautifulRust"
+        },
+        {
+          "title": "Claude faz o primeiro corte no DaVinci Resolve",
+          "body": "Skills dão ao Claude Code capacidade de edição first-pass no DaVinci Resolve, com cortes guiados por transcrição e versionamento de projeto.",
+          "source": "github.com/appariciojunior/video-editor-skills"
+        },
+        {
+          "title": "Agent Skills já roda em mais de 70 plataformas",
+          "body": "No anúncio da doação do padrão para a Agentic AI Foundation, a Anthropic revelou que mais de 70 plataformas integraram o formato de pasta com SKILL.md.",
+          "source": {
+            "label": "Anthropic · 22 out",
+            "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+          }
+        },
+        {
+          "title": "SAM 3 na GPU do usuário, orquestrado por skill",
+          "body": "Agent skill para contornar, mascarar e contar objetos em fotos usando o SAM 3 da Meta rodando na GPU NVIDIA local.",
+          "source": "github.com/lillyguisnet/sam3-segmentation"
+        },
+        {
+          "title": "Enzyme compila wikis para agentes",
+          "body": "Show HN: linguagem de programação que compila wikis em artefatos otimizados para consumo por agentes.",
+          "source": "github.com/byenzyme/enzyme"
+        },
+        {
+          "title": "Claude Code dissectado virou curso gratuito",
+          "body": "Um autor desmontou o Claude Code e transformou a análise em curso gratuito de harness engineering: como construir o laço de agente por trás do modelo.",
+          "source": {
+            "label": "Show HN · 24 out",
+            "url": "https://news.ycombinator.com/item?id=50219641"
+          }
+        },
+        {
+          "title": "A skill saiu do código, o padrão já está decidido",
+          "body": "Vídeo, visão computacional e fast-food: skill de domínio fora de código com adoção real. Com mais de 70 plataformas no formato, competir contra o SKILL.md ficou caro."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-25",
       "date": "2026-10-25",
       "hook": "Projetos IA de 25 de outubro",
