@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-25-14h31",
+      "date": "2026-10-25",
+      "time": "14h31",
+      "hook": "Manhã inteira oscilando entre 80,3 e 80,6 mil. Depois do almoço o bitcoin criou gás: fechou a hora das 13h em 80.806, o maior valor desde a 1h da manhã, e segue por ali em 80.774. O teto da faixa de 24h, 81 mil, está a 0,28%.",
+      "caption": "Fechamento da 13h em 80.806, o mais alto desde a 1h da manhã.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-25-14h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-25-14h31",
+      "slides": [
+        {
+          "title": "A tarde devolveu os 80,8 mil",
+          "body": "Fechamento da 13h em 80.806, o mais alto desde a 1h da manhã."
+        },
+        {
+          "title": "US$ 80.774",
+          "body": "Δ1h +0,19% · Δ24h +0,62% · vela das 14h com 56% do volume médio",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço no topo da faixa de 24h, sem força de volume · Smart money: funding +0,0067% e L/S 2,14 (68% em longo)",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "81 mil com volume muda o dia",
+          "body": "Piso 80,2 mil (-0,71%) · Teto 81 mil (+0,28%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Subiu na paciência",
+          "body": "Contratos em aberto em 93,4 mil BTC e volume da 14h na metade da média."
+        }
+      ]
+    },
+    {
       "id": "2026-10-25-12h30",
       "date": "2026-10-25",
       "time": "12h30",
