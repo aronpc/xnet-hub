@@ -2,6 +2,69 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-26",
+      "date": "2026-10-26",
+      "hook": "Skills e MCP de 26 de outubro",
+      "caption": "O formato skill provou produto: uma skill de genealogia da ex-URSS virou o repo novo mais estrelado de IA. A Microsoft abriu um harness com 1.024 agentes sem orquestrador central, e segurança de máquina gerida por agente virou gênero.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-26",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-26",
+      "slides": [
+        {
+          "title": "Skills e MCP de 26 de outubro",
+          "body": "O formato skill provou produto: uma skill de genealogia da ex-URSS virou o repo novo mais estrelado de IA. A Microsoft abriu um harness com 1.024 agentes sem orquestrador central, e segurança de máquina gerida por agente virou gênero."
+        },
+        {
+          "title": "Skill de genealogia ex-soviética, 546★",
+          "body": "ex-ussr-kinship-research é uma agent skill evidence-first pra Codex e Claude Code que pesquisa livros de igreja, registros civis e militares da ex-URSS.",
+          "source": "github.com/DenisSergeevitch/ex-ussr-kinship-research"
+        },
+        {
+          "title": "Microsoft Agensh: 1.024 agentes sem chefe",
+          "body": "Harness multiagente self-organized aberto em 24/10: agentes descobrem e pegam subtarefas, compartilham achados, verificam e fazem merge assíncrono. Em ProgramBench com GPT-5.6-sol, o pass rate sobe de 19,31% com 1 agente para 28,78% com 128. No Pandoc, chega a 55,06% com 1.024.",
+          "source": "github.com/microsoft/Agensh"
+        },
+        {
+          "title": "Harness de 100 linhas empata com Claude Code",
+          "body": "A Universidade de Shandong comparou Claude Code, OpenCode e o mini-SWE-agent, de cerca de 100 linhas de Python com 1 bash tool, em 492 tarefas do SWE-bench Verified. Diferença de acurácia dentro de 2 pontos, custo por tarefa até 3 vezes menor.",
+          "source": {
+            "label": "AIToolsRecap · 25 out",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-october-25-2026"
+          }
+        },
+        {
+          "title": "Cursor libera Computer Use",
+          "body": "Em 23 de outubro o Cursor liberou Computer Use: agentes de código dirigindo aplicativos de desktop, incluindo o iOS Simulator pra testar em UI real o que acabaram de construir.",
+          "source": {
+            "label": "AIToolsRecap · 25 out",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-october-25-2026"
+          }
+        },
+        {
+          "title": "osint-mcp: 86 ferramentas de OSINT",
+          "body": "Servidor MCP com 86 tools de OSINT, grafos de evidência privados, análise de imagem e busca reversa.",
+          "source": "github.com/n5za/osint-mcp"
+        },
+        {
+          "title": "crawlerpeek: pra quais bots seu site está aberto?",
+          "body": "CLI e lib que auditam se GPTBot, ClaudeBot, PerplexityBot e outros crawlers de IA podem acessar o site.",
+          "source": "github.com/crawlerpeek/crawlerpeek"
+        },
+        {
+          "title": "secbrief: CVE do dia pra máquina de agente",
+          "body": "Briefing diário de vulnerabilidades com matching determinístico contra o software instalado na máquina, desenhado pra máquinas administradas por agentes de IA.",
+          "source": "github.com/tenhkspark/secbrief"
+        },
+        {
+          "title": "valendata: web como API, MCP e skill juntos",
+          "body": "MCP server acompanhado de skill que dá ao Claude Code, Codex e Cursor acesso à web como se fosse uma API, com opção self-hosted.",
+          "source": "github.com/prinzeval/valendata"
+        },
+        {
+          "title": "Escalar agentes comprou desempenho",
+          "body": "O Agensh mostrou que adicionar agentes rendeu mais que trocar de modelo em tarefa longa, o estudo da Shandong confirmou harness como linha de custo, e a segurança de máquina gerida por agente virou gênero: secbrief, osint-mcp, crawlerpeek. O gargalo do formato em casa é adoção, não falta de skill."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-26",
       "date": "2026-10-26",
       "hook": "Projetos IA de 26 de outubro",
