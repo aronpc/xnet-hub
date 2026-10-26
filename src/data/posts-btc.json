@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-26-12h37",
+      "date": "2026-10-26",
+      "time": "12h37",
+      "hook": "A linha de 80,4 mil segurou o preço a manhã inteira. Ao meio-dia o preço passou por ela: 80,5 mil, na maior movimentação do dia. É a primeira leitura de alta em treze rodadas.",
+      "caption": "80.468 ao meio-dia, acima da linha que limitou o preço desde a madrugada.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-26-12h37",
+      "link": "https://xbtc.aronpc.dev/#2026-10-26-12h37",
+      "slides": [
+        {
+          "title": "O teto da manhã ficou para trás",
+          "body": "80.468 ao meio-dia, acima da linha que limitou o preço desde a madrugada."
+        },
+        {
+          "title": "US$ 80.468",
+          "body": "Δ1h +0,8% · Δ24h -0,1% · US$ 26,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Passou o teto da faixa de 79,4 a 80,4 mil com 884 BTC na hora contra 560 da média · funding +0,010% e L/S 2,26",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "81 mil é o próximo número",
+          "body": "Topo de 24h em 81,0 mil (+0,7%) é o degrau seguinte · 80,4 mil (-0,1%) é a nova defesa · abaixo disso, a faixa antiga recebe em 80,0 mil (-0,6%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "A décima terceira leitura",
+          "body": "Onze leituras de mercado parado e uma de queda até o meio-dia. A décima terceira é a primeira de alta do dia."
+        }
+      ]
+    },
+    {
       "id": "2026-10-26-11h33",
       "date": "2026-10-26",
       "time": "11h33",
