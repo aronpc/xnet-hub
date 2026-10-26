@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-26-01h31",
+      "date": "2026-10-26",
+      "time": "01h31",
+      "hook": "Duas horas depois de rondar a mínima do dia, o bitcoin reconquistou a marca de 79,8 mil que tinha cedido às 22h de sábado. A queda perdeu gás na virada, e a madrugada pegou o mercado de volta dentro da faixa da semana, sem convicção pra nenhum dos lados.",
+      "caption": "79.817 às 01h31, de volta ao que tinha perdido às 22h, depois de rondar 79,5 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-26-01h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-26-01h31",
+      "slides": [
+        {
+          "title": "Recuperação tímida devolve os 79,8 mil",
+          "body": "79.817 às 01h31, de volta ao que tinha perdido às 22h, depois de rondar 79,5 mil."
+        },
+        {
+          "title": "US$ 79.817",
+          "body": "Δ1h +0,34% · Δ24h -1,22% · US$ 17,5 bi negociados em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Caixa de 79,4 a 80,5 mil intocada · funding +0,0067%: 69% das contas seguem no lado comprado, pagando pra sustentar a posição",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Domingo dentro da caixa",
+          "body": "79.400 na base (-0,52%) · 80.500 no alto (+0,86%). O próximo movimento começa quando um dos dois ceder.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Alta sem gás",
+          "body": "A vela da 01h rodou com 64% do volume médio da hora. Movimento de madrugada: não dá pra chamar de reversão."
+        }
+      ]
+    },
+    {
       "id": "2026-10-25-23h33",
       "date": "2026-10-25",
       "time": "23h33",
