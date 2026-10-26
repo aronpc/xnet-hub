@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-26",
+      "date": "2026-10-26",
+      "hook": "Projetos IA de 26 de outubro",
+      "caption": "A água da semana correu pro eixo Go com agente: uma lib mínima do loop de tool-calling com orçamento, o harness do DeepSeek no Android, e inferência local a 300 tokens por segundo no Mac. Fora do eixo, TTS pra sotaque negligenciado e um mapa de risco pro humano que aprova PR.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-26",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-26",
+      "slides": [
+        {
+          "title": "Projetos IA de 26 de outubro",
+          "body": "A água da semana correu pro eixo Go com agente: uma lib mínima do loop de tool-calling com orçamento, o harness do DeepSeek no Android, e inferência local a 300 tokens por segundo no Mac. Fora do eixo, TTS pra sotaque negligenciado e um mapa de risco pro humano que aprova PR."
+        },
+        {
+          "title": "agent-purge injeta persona em todo agente",
+          "body": "Ferramenta open source que substitui ou injeta system prompts unificados no Codex, Claude Code, OpenCode e outros harnesses de código.",
+          "source": "github.com/ZiChuanLan/agent-purge"
+        },
+        {
+          "title": "OpenSakura: companion com avatar 3D e voz",
+          "body": "Companheira de IA open source com avatar 3D VRoid, voz em tempo real e estado emocional, rodando local.",
+          "source": "github.com/zeekk0/OpenSakura"
+        },
+        {
+          "title": "Farol: mapa de risco pra quem aprova PR",
+          "body": "CLI e GitHub Action que, depois do review de IA, mostra ao humano o risco do merge e em quais arquivos ele mora. Vem de análise estática: a visão do compilador, não o palpite de um modelo.",
+          "source": "github.com/winnin/farol"
+        },
+        {
+          "title": "Hurston-1 fala os sotaques que os grandes ignoram",
+          "body": "Modelo de texto-para-voz open source treinado em Southern American English e Afro-English, disponível no Hugging Face.",
+          "source": {
+            "label": "Hugging Face · 25 out",
+            "url": "https://huggingface.co/destined/hurston-1"
+          }
+        },
+        {
+          "title": "molten: 300+ tok/s no Mac com Rust e Metal",
+          "body": "Engine de inferência nativa em Rust para Metal, rodando modelos da LiquidAI a mais de 300 tokens por segundo no Mac.",
+          "source": "github.com/zhangshuibai/molten"
+        },
+        {
+          "title": "dsh-go: harness do DeepSeek no Android",
+          "body": "Porta não-oficial do DeepSeek Harness que roda no próprio celular e comanda o computador de longe.",
+          "source": "github.com/ccch1mneyyy/dsh-go"
+        },
+        {
+          "title": "agentloop: o loop de tool-calling como lib",
+          "body": "Biblioteca Go com o essencial pra construir um agente: o loop de tool-calling com orçamento embutido e estrutura mínima.",
+          "source": "github.com/smhanov/agentloop"
+        },
+        {
+          "title": "Infra mínima de agente em Go",
+          "body": "As duas apostas de experimento da rodada são enxutas: agentloop empacota o loop com orçamento, Farol direciona a atenção do humano que aprova. Framework cheio perdendo espaço pra lib pequena, e o gargalo do ciclo de agente voltando a ser gente."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-26",
       "date": "2026-10-26",
       "hook": "Panorama IA de 26 de outubro",
