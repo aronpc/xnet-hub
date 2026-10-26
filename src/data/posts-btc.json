@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-26-06h31",
+      "date": "2026-10-26",
+      "time": "06h31",
+      "hook": "O sábado terminou com o bitcoin perto do ponto mais baixo do dia. A madrugada de domingo mudou o quadro: o preço atravessou os 80 mil e subiu até a beirada do limite superior das últimas 24 horas. A 0,08% de 80,5 mil, o mercado acorda pressionando o teto pra ver se ele cede.",
+      "caption": "80.437 às 06h31, na parte alta da faixa de 79,6 a 80,5 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-26-06h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-26-06h31",
+      "slides": [
+        {
+          "title": "80 mil de volta, teto a 63 dólares",
+          "body": "80.437 às 06h31, na parte alta da faixa de 79,6 a 80,5 mil."
+        },
+        {
+          "title": "US$ 80.437",
+          "body": "Δ1h +0,43% · Δ24h +0,41% · US$ 19,6 bi negociados em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A faixa aguenta o segundo dia, mas o preço trocou de metade: agora pressiona 80,5 mil · funding +0,0081% e 69% das posições no lado comprado (L/S 2,25)",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "O teto à prova",
+          "body": "80.500 no alto (+0,08%), com 81 mil na sequência (+0,70%) · 79.600 na base (-1,04%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Dinheiro entrando",
+          "body": "O volume de 24h saltou de 15,9 bi na noite de ontem para 19,6 bi agora"
+        }
+      ]
+    },
+    {
       "id": "2026-10-26-01h31",
       "date": "2026-10-26",
       "time": "01h31",
