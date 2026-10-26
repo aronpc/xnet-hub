@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-26-13h32",
+      "date": "2026-10-26",
+      "time": "13h32",
+      "hook": "BTC 79,9 mil · A saída por cima do meio-dia não durou: o preço caiu de volta pra baixo dos 80 mil, na maior vela de negociação do dia. Segunda leitura de queda do dia, e esta veio com força.",
+      "caption": "79.907 às 13h32, de volta à parte de baixo da faixa que o preço já visitou de manhã.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-26-13h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-26-13h32",
+      "slides": [
+        {
+          "title": "A quebra que não ficou de pé",
+          "body": "79.907 às 13h32, de volta à parte de baixo da faixa que o preço já visitou de manhã."
+        },
+        {
+          "title": "US$ 79.907",
+          "body": "Δ1h -0,7% · Δ24h -0,8% · US$ 27,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Perdeu os 80 mil pela segunda vez no dia, agora com 1.270 BTC na vela contra 603 da média (2,1×) · Smart Money: funding +0,01% + L/S 2,16",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "O fecho de hora decide o dia",
+          "body": "Suporte 79,4k (-0,6%, fundo de 24h) · Resistência 80,0k (+0,1%, recém-perdida pela 2ª vez)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "68% das contas seguem na alta",
+          "body": "Enquanto o preço cai, a maioria segue posicionada na alta: a correção pega muita gente comprada."
+        }
+      ]
+    },
+    {
       "id": "2026-10-26-12h37",
       "date": "2026-10-26",
       "time": "12h37",
