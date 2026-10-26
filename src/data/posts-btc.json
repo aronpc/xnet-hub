@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-26-10h33",
+      "date": "2026-10-26",
+      "time": "10h33",
+      "hook": "O domingo inteiro orbitando os 80 mil, e na hora do café a linha cedeu: a vela das 10h foi a mais pesada do dia (672 BTC contra 446 da média) e levou o preço a 79,9 mil. Depois de nove leituras de mercado parado, a primeira queda do dia. E ela pegou em cheio as contas posicionadas na alta.",
+      "caption": "79.859 às 10h33, abaixo dos 80 mil que seguravam desde a madrugada.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-26-10h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-26-10h33",
+      "slides": [
+        {
+          "title": "80 mil cedeu na vela mais pesada do dia",
+          "body": "79.859 às 10h33, abaixo dos 80 mil que seguravam desde a madrugada."
+        },
+        {
+          "title": "US$ 79.859",
+          "body": "Δ1h -0,66% · Δ24h -0,44% · US$ 21,4 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Perdeu os 80 mil com volume 1,5× o habitual e Δ1h -0,7% · funding +0,009% e 69% das contas compradas (L/S 2,22)",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "80 mil virou teto",
+          "body": "Fundo do dia em 79,4 mil (-0,6%) · os 80 mil recém-perdidos agora ficam a +0,2%",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Virada de clima",
+          "body": "Nove rodadas de mercado parado até as 9h35; a das 10h33 é a primeira queda do dia, e 69% das contas estavam do lado comprado quando ela veio."
+        }
+      ]
+    },
+    {
       "id": "2026-10-26-06h31",
       "date": "2026-10-26",
       "time": "06h31",
