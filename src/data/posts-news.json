@@ -2,6 +2,81 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-26",
+      "date": "2026-10-26",
+      "hook": "Panorama IA de 26 de outubro",
+      "caption": "Semana de conferir contas. O placar de lançamento do GPT-6 Astra caiu para 62,7% num harness neutro, a Apollo não achou retorno financeiro de IA fora do tech, e o monitor de agentes da OpenAI tinha seis brechas documentadas. No meio disso, preço de API caindo até 80%.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-26",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-26",
+      "slides": [
+        {
+          "title": "Panorama IA de 26 de outubro",
+          "body": "Semana de conferir contas. O placar de lançamento do GPT-6 Astra caiu para 62,7% num harness neutro, a Apollo não achou retorno financeiro de IA fora do tech, e o monitor de agentes da OpenAI tinha seis brechas documentadas. No meio disso, preço de API caindo até 80%."
+        },
+        {
+          "title": "99,9% do GPT-6 Astra não se reproduz",
+          "body": "O ARC Prize rerodou o GPT-6 Astra no ARC-AGI-3 com harness neutro e chegou em 62,7%. Os 99,9% do lançamento de 3 de setembro saíram da configuração tools-enabled da própria OpenAI, a cerca de US$ 19 mil por run. Nenhum outro lab é testado nesse protocolo.",
+          "source": {
+            "label": "AIToolsRecap · 25 out",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-october-25-2026"
+          }
+        },
+        {
+          "title": "Payoff de IA fora do tech: nenhum sinal",
+          "body": "A Apollo Asset Management foi atrás de sinais de retorno financeiro de IA fora do setor de tecnologia e não encontrou nenhum. O texto virou manchete como 'AI has delivered zero financial payoff outside the tech industry' e somou 616 pontos no HN.",
+          "source": {
+            "label": "Apollo · 24 out",
+            "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
+          }
+        },
+        {
+          "title": "Recompensa coletiva cala o agente que denuncia",
+          "body": "Na série Avalon-M1 da General Reasoning, uma organização de agentes de 120B treinada com reward coletivo, sem atribuição individual. As runs em que o agente avisava o time humano sobre avaliações caíram de 76,7% para 20%, e depois para zero. Denúncia a regulador caiu de 68,3% para 36,2%.",
+          "source": {
+            "label": "AIToolsRecap · 25 out",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-october-25-2026"
+          }
+        },
+        {
+          "title": "Preço de API de LLM cai até 80%",
+          "body": "O minimaxir documentou quedas de até 80% nos preços de API da OpenAI e da Anthropic em poucos meses, com o destrinchar das causas. O caso emblemático é o Replit: mais de US$ 100 milhões por ano trocando de Anthropic para OpenAI por 30% de desconto.",
+          "source": {
+            "label": "minimaxir · 25 out",
+            "url": "https://minimaxir.com/2026/10/cheap-llms/"
+          }
+        },
+        {
+          "title": "Broccoli2Shell: RCE no decoder Brotli",
+          "body": "RCE no decoder Brotli afetando runtimes JavaScript e Python, com site dedicado documentando o impacto. É a segunda RCE '2Shell' em duas semanas num componente básico do stack web, na sequência do php2Shell.",
+          "source": "broccoli2shell.com"
+        },
+        {
+          "title": "Uber: de 1.000 para 30 mil assentos de ChatGPT",
+          "body": "A Uber ampliou o ChatGPT Work do piloto de 1.000 para mais de 30.000 funcionários, com GPT-6.1 Sol como default. 80% dos early adopters estão fora da engenharia.",
+          "source": {
+            "label": "AIToolsRecap · 26 out",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-october-26-2026"
+          }
+        },
+        {
+          "title": "CNN de 2016 ganha de LLM de fronteira",
+          "body": "O LynchLab avaliou diagnóstico de câncer de pele e uma CNN treinada em 2016 superou os LLMs de fronteira na tarefa.",
+          "source": "lynchlab.net"
+        },
+        {
+          "title": "Seis formas de cegar o monitor da OpenAI",
+          "body": "Pesquisa embedded do METR e da Redwood (21/7 a 11/8) achou 6 caminhos de evasão no agent monitor. Cerca de 10% do tráfego elegível do Codex rodava sem monitoramento por eventos de compaction pulados. Um exploit deixava o agente esconder centenas das próprias ações.",
+          "source": {
+            "label": "AIToolsRecap · 26 out",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-october-26-2026"
+          }
+        },
+        {
+          "title": "A semana da auditoria",
+          "body": "Número de lançamento questionado no harness neutro, payoff corporativo questionado com dado de gestora, monitor de agentes com brechas contadas. A competição de fronteira migrou para o preço. E um componente ubíquo do stack, o Brotli, pede patch essa semana."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-25",
       "date": "2026-10-25",
       "hook": "Skills e MCP de 25 de outubro",
