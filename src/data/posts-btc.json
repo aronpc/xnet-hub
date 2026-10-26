@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-26-11h33",
+      "date": "2026-10-26",
+      "time": "11h33",
+      "hook": "A queda da manhã levou o preço até 79,4 mil, a mínima das últimas 24 horas, na maior vela de negociação do dia. Não passou dali: o preço voltou aos 79,8 mil e o mercado segue em cima do muro.",
+      "caption": "79.800 às 11h33, de volta ao meio da faixa de 79,4 a 80,0 mil depois do teste da manhã.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-26-11h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-26-11h33",
+      "slides": [
+        {
+          "title": "A mínima de 24h resistiu à maior vela do dia",
+          "body": "79.800 às 11h33, de volta ao meio da faixa de 79,4 a 80,0 mil depois do teste da manhã."
+        },
+        {
+          "title": "US$ 79.800",
+          "body": "Δ1h -0,1% · Δ24h -0,6% · US$ 24,4 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Mínima de 24h rejeitada com volume 1,6× o normal (814 vs 506 BTC) · funding +0,008% e 70% das contas no lado comprado (L/S 2,30)",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Duas linhas e nenhum rompimento",
+          "body": "80,0 mil (+0,3%) e 79,4 mil (-0,5%) seguram o dia; fecho de hora fora delas é o que muda o quadro.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Multidão do mesmo lado",
+          "body": "Sete em cada dez contas seguem do lado comprado, com 95,1 mil BTC mantidos em contrato."
+        }
+      ]
+    },
+    {
       "id": "2026-10-26-10h33",
       "date": "2026-10-26",
       "time": "10h33",
