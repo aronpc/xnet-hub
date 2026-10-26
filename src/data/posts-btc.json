@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-25-20h33",
+      "date": "2026-10-25",
+      "time": "20h33",
+      "hook": "Vinte horas entre 80,3 e 80,9 mil, sem escolher rumo. A definição veio à noite: 79.965, mínimo do dia e primeira passagem por baixo dos 80 mil. À tarde o preço ainda rondava 80,8 mil; três horas depois, o piso do dia tinha sumido.",
+      "caption": "79.965 na leitura das 20h33, queda de 0,56% na hora.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-25-20h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-25-20h33",
+      "slides": [
+        {
+          "title": "80 mil ficou para trás",
+          "body": "79.965 na leitura das 20h33, queda de 0,56% na hora."
+        },
+        {
+          "title": "US$ 79.965",
+          "body": "Δ1h -0,56% · Δ24h -0,79% · US$ 13,6 bi negociados em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Mínimo do dia rompido, preço colado no piso de 24h · Funding +0,0018% e L/S 2,14, com 68% das contas em longo",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "79,8 mil decide a próxima hora",
+          "body": "Piso 24h 79.846 (-0,15%) · Teto imediato 80.276 (+0,39%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Dinheiro novo na queda",
+          "body": "Open interest em 93,6 mil BTC subiu junto com a queda: quem entrou, entrou vendido."
+        }
+      ]
+    },
+    {
       "id": "2026-10-25-14h31",
       "date": "2026-10-25",
       "time": "14h31",
