@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-26-14h32",
+      "date": "2026-10-26",
+      "time": "14h32",
+      "hook": "BTC 80,3 mil · A queda das 13h encontrou comprador na mínima do dia: em uma hora o preço estava de volta acima dos 80 mil. A reação esbarrou no 80,4 na hora em que o volume sumiu. O mercado devolve a queda, mas segue sem escolher direção.",
+      "caption": "80.266 às 14h32, de volta à faixa que o preço deixou ao meio-dia, com a última vela a 0,6× do volume habitual.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-26-14h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-26-14h32",
+      "slides": [
+        {
+          "title": "A queda foi absorvida",
+          "body": "80.266 às 14h32, de volta à faixa que o preço deixou ao meio-dia, com a última vela a 0,6× do volume habitual."
+        },
+        {
+          "title": "US$ 80.266",
+          "body": "Δ1h +0,45% · Δ24h -0,55% · US$ 28,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Repique do fundo de 24h (79,4 mil) devolveu o piso de 80 e parou no 80,4, sem força na vela · Smart Money: funding +0,01% + L/S 2,25",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "80,5 mil abre o topo do dia",
+          "body": "Suporte 80,0 mil (-0,3%) · Resistência 80,5 mil (+0,3%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Sem dinheiro novo na mesa",
+          "body": "OI parada em 93,5 mil BTC e funding a +0,01%: a recompra da queda não veio com posição nova."
+        }
+      ]
+    },
+    {
       "id": "2026-10-26-13h32",
       "date": "2026-10-26",
       "time": "13h32",
