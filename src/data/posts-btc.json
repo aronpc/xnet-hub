@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-25-23h33",
+      "date": "2026-10-25",
+      "time": "23h33",
+      "hook": "O sábado foi de descida lenta: 80,9 mil na madrugada, 79,5 mil quase à meia-noite, sem um repique que durasse. A marca de 79,8 mil ainda segurava o preço no começo da noite; por volta das 22h, cedeu. Às 23h33, o bitcoin estava colado no valor mais baixo das últimas 24 horas.",
+      "caption": "79.552 na leitura das 23h33, a 0,2% da mínima de 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-25-23h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-25-23h33",
+      "slides": [
+        {
+          "title": "O dia inteiro foi de descida",
+          "body": "79.552 na leitura das 23h33, a 0,2% da mínima de 24 horas."
+        },
+        {
+          "title": "US$ 79.552",
+          "body": "Δ1h -0,47% · Δ24h -1,55% · US$ 15,9 bi negociados em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Do topo de 80,9 mil na madrugada até 79,5 mil, sem pausa · Funding +0,0037% neutro e L/S 2,24: 69% das contas alavancadas seguem compradas",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "O último degrau do dia",
+          "body": "Mínima de 24h em 79.414 (-0,19%) · 79.814, o degrau cedido à noite, virou teto (+0,31%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Sem sinal de pânico",
+          "body": "Medo e ganância em 50, neutro, com funding positivo: ninguém capitulou."
+        }
+      ]
+    },
+    {
       "id": "2026-10-25-20h33",
       "date": "2026-10-25",
       "time": "20h33",
