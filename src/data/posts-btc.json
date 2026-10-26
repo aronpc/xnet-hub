@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-26-16h33",
+      "date": "2026-10-26",
+      "time": "16h33",
+      "hook": "BTC 79,9 mil. A linha dos 80 mil cedeu de novo, terceira vez no dia, e esta foi a mais fraca de todas: a vela da queda negociou 238 BTC contra 634 da média. Quem vendeu não empurrou com força, e o dia segue devolvendo cada tentativa de sair da faixa.",
+      "caption": "79.880 às 16h33, por baixo da faixa do dia, com a menor vela de queda da tarde.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-26-16h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-26-16h33",
+      "slides": [
+        {
+          "title": "A descida veio sem força",
+          "body": "79.880 às 16h33, por baixo da faixa do dia, com a menor vela de queda da tarde."
+        },
+        {
+          "title": "US$ 79.880",
+          "body": "Δ1h -0,3% · Δ24h -0,7% · US$ 28,8 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Caiu pra baixo de 80 mil com 238 BTC na vela contra 634 da média, pressão vendedora sem convicção · Smart Money: funding +0,01% + L/S 2,19",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Tudo se decide no 79,8 mil",
+          "body": "Suporte 79,4 mil (-0,6%, fundo de 24h) · Resistência 80,0 mil (+0,15%, linha recém-perdida)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Dezessete leituras, uma faixa só",
+          "body": "De 79,5 a 80,5 mil desde a meia-noite: toda saída dessa janela foi devolvida até aqui."
+        }
+      ]
+    },
+    {
       "id": "2026-10-26-14h32",
       "date": "2026-10-26",
       "time": "14h32",
