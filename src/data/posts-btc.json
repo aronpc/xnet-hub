@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-27-01h34",
+      "date": "2026-10-27",
+      "time": "01h34",
+      "hook": "A marca de 79,7 mil que sustentava o Bitcoin desde ontem à noite não resistiu: o preço roda a 79,6 mil na madrugada. Enquanto o mercado desce em câmera lenta, sete em cada dez contas seguem apostadas na alta, mais do que ontem.",
+      "caption": "US$ 79.638 às 01h34, abaixo da linha da véspera.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-27-01h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-27-01h34",
+      "slides": [
+        {
+          "title": "79,7 mil não segurou",
+          "body": "US$ 79.638 às 01h34, abaixo da linha da véspera."
+        },
+        {
+          "title": "US$ 79.638",
+          "body": "Δ1h -0,04% · Δ24h -0,3% · US$ 1,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Primeira leitura do dia no limite de baixo do range de 79,5 a 80,8 mil · Smart money: funding +0,01% e razão long/short 2,35, com 70% das contas na alta, escalando de 1,8 na véspera",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Janela de 200 dólares decide a hora",
+          "body": "Fechamento de hora abaixo de 79,5 mil com volume abre caminho a 79,0; fechar acima de 79,7 recupera o que perdeu e abre espaço a 80,1 · Suporte 79,5 mil (-0,2%) · Resistência 79,7 mil (+0,1%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Um quinto do volume",
+          "body": "A vela de 01h corre com 118 BTC contra uma média de ~612 por hora. Madrugada comprimida até a Ásia abrir o dia."
+        }
+      ]
+    },
+    {
       "id": "2026-10-26-23h34",
       "date": "2026-10-26",
       "time": "23h34",
