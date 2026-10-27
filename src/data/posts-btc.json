@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-27-12h31",
+      "date": "2026-10-27",
+      "time": "12h31",
+      "hook": "O Bitcoin passou a manhã entre 79,5 e 80,1 mil e saltou para 80,4 mil com a abertura da sessão americana. É a primeira leitura de alta do dia, e desta vez a subida vem com volume acima da média, algo que a manhã não tinha mostrado.",
+      "caption": "US$ 80.404 às 12h31, na parte de cima da faixa de 79,5 a 80,7 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-27-12h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-27-12h31",
+      "slides": [
+        {
+          "title": "Primeira alta do dia, na abertura americana",
+          "body": "US$ 80.404 às 12h31, na parte de cima da faixa de 79,5 a 80,7 mil."
+        },
+        {
+          "title": "US$ 80.404",
+          "body": "Δ1h +0,4% · Δ24h -0,1% · US$ 1,0 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Δ1h +0,4% leva o preço ao terço de cima do range, com a vela da hora rodando acima da média (742 contra ~511 BTC/h) · Smart money: funding +0,010% e razão long/short 2,26, com 69% das contas compradas",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "A hora fecha fora da faixa?",
+          "body": "Fechamento de 1h acima de 80,7 mil aponta 81,0 mil; abaixo de 79,5 mil, o excesso de comprados pesa contra · Suporte 79,5 mil (-1,12%) · Resistência 80,7 mil (+0,37%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acima da média",
+          "body": "742 BTC na hora corrente contra ~511 de média. De manhã, um terço disso."
+        }
+      ]
+    },
+    {
       "id": "2026-10-27-09h31",
       "date": "2026-10-27",
       "time": "09h31",
