@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-26-21h33",
+      "date": "2026-10-26",
+      "time": "21h33",
+      "hook": "Sétima hora seguida dentro da mesma janela de preço, e o BTC chegou a 80,2 mil colado no teto dela. A subida vem em três fechamentos seguidos, mas com o volume encolhendo: 410 BTC na última vela contra 632 da média. O acumulado do dia até aqui: 0,0%.",
+      "caption": "80.163 às 21h33, na borda de cima da janela onde o preço passa o dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-26-21h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-26-21h33",
+      "slides": [
+        {
+          "title": "Tocando o teto, sem empurrão",
+          "body": "80.163 às 21h33, na borda de cima da janela onde o preço passa o dia."
+        },
+        {
+          "title": "US$ 80.163",
+          "body": "Δ1h +0,3% · Δ24h -0,0% · US$ 122 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Três fechamentos de hora subindo até encostar em 80,3 mil, sem volume pra atravessar · Smart Money: funding +0,01% + L/S 2,28 (70% na alta)",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "80,3 mil é a linha da noite",
+          "body": "Suporte 80,0 mil (-0,2%) · Resistência 80,3 mil (+0,2%) · acima dela, o topo de 24h em 80,8 mil",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "22 leituras e zero de resultado",
+          "body": "Nenhuma saiu da janela de 79,5 a 80,5 mil da meia-noite até aqui."
+        }
+      ]
+    },
+    {
       "id": "2026-10-26-16h33",
       "date": "2026-10-26",
       "time": "16h33",
