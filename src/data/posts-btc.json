@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-26-23h34",
+      "date": "2026-10-26",
+      "time": "23h34",
+      "hook": "Preso entre 79,4 e 80,8 mil o dia inteiro, o Bitcoin terminou 26/10 pela porta de baixo: a vela das 23h passou dos 80 mil (low em 79,95 mil) e o preço roda a 79,9 mil. É o terceiro fechamento de hora em queda, depois de duas recusas seguidas na região de 80,3 a 80,4 mil.",
+      "caption": "US$ 79.862 às 23h34, com a vela das 23h passando a linha dos 80 mil para baixo.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-26-23h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-26-23h34",
+      "slides": [
+        {
+          "title": "O dia terminou pela porta de baixo",
+          "body": "US$ 79.862 às 23h34, com a vela das 23h passando a linha dos 80 mil para baixo."
+        },
+        {
+          "title": "US$ 79.862",
+          "body": "Δ1h -0,2% · Δ24h +0,4% · US$ 1,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Dia comprimido que terminou em queda: três fechamentos de hora caindo e a vela das 23h abaixo dos 80 mil · Smart money: funding +0,01% e razão long/short em 2,26, com 69% das contas posicionadas na alta",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "A hora decide em 79,9 mil",
+          "body": "Fechamento de hora abaixo disso acelera para 79,7 e o fundo do dia em 79,4; recuperar 80,1 mira 80,3 a 80,4 · Suporte 79,7 mil (-0,2%) · Resistência 80,1 mil (+0,3%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "24 leituras, resposta na última",
+          "body": "De 00h00 a 22h34, nenhuma leitura saiu de 79,5 a 80,8 mil. A das 23h34 rompeu, depois de duas recusas em 80,3 a 80,4."
+        }
+      ]
+    },
+    {
       "id": "2026-10-26-21h33",
       "date": "2026-10-26",
       "time": "21h33",
