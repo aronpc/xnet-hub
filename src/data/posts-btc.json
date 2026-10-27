@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-27-09h31",
+      "date": "2026-10-27",
+      "time": "09h31",
+      "hook": "Depois de tocar 79,5 mil às 07h30, o Bitcoin voltou aos 80,1 mil, com a sessão europeia em curso. A subida vem em volume fraco, um terço do habitual, e o posicionamento não mudou: sete em cada dez contas seguem na alta.",
+      "caption": "US$ 80.076 às 09h31, outra vez no meio do canal de 79,5 a 80,8 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-27-09h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-27-09h31",
+      "slides": [
+        {
+          "title": "De volta aos 80 mil",
+          "body": "US$ 80.076 às 09h31, outra vez no meio do canal de 79,5 a 80,8 mil."
+        },
+        {
+          "title": "US$ 80.076",
+          "body": "Δ1h +0,4% · Δ24h -0,4% · US$ 1,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Três leituras seguidas em alta tiram o preço do fundo do canal sem convicção de volume · Funding +0,009%, razão long/short 2,34 e 70% das contas compradas",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "O teto do canal decide",
+          "body": "Fechamento de hora acima de 80,8 mil mira 81,2 mil; de volta abaixo de 79,5 mil, o excesso de comprados vira pressão contrária · Suporte 79,5 mil (-0,8%) · Resistência 80,8 mil (+1,0%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Um terço do volume",
+          "body": "239 BTC na hora corrente contra ~604 de média. Pouco para tirar o preço da faixa de hoje."
+        }
+      ]
+    },
+    {
       "id": "2026-10-27-01h34",
       "date": "2026-10-27",
       "time": "01h34",
