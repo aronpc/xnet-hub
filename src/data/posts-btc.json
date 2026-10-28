@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-28-05h34",
+      "date": "2026-10-28",
+      "time": "05h34",
+      "hook": "Cinco leituras seguidas entre 80,8 e 80,9 mil, uma madrugada inteira quase parada. A vela das 5h mudou isso: o preço saiu da faixa, chegou a 81,3 mil e encostou no topo do dia.",
+      "caption": "US$ 81.337 às 05h34, a 0,2% do máximo de 24h.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-28-05h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-28-05h34",
+      "slides": [
+        {
+          "title": "A noite de compressão resolveu pra cima",
+          "body": "US$ 81.337 às 05h34, a 0,2% do máximo de 24h."
+        },
+        {
+          "title": "US$ 81.337",
+          "body": "Δ1h +0,6% · Δ24h +2,1% · US$ 23,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Primeiro fechamento horário fora da faixa noturna, na hora em que Londres entra · Smart money: funding +0,009% e razão long/short 1,95, com 66% das contas compradas",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "O topo do dia está a 0,2%",
+          "body": "Fechamento de 1h acima de 81,5 mil abre caminho a 82,0 mil; de volta abaixo de 81,0 mil, a faixa noturna vira teto outra vez · Suporte 81,0 mil (-0,4%) · Resistência 81,5 mil (+0,2%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Londres confirma?",
+          "body": "A primeira hora cheia da sessão europeia costuma dizer se o movimento vinga."
+        }
+      ]
+    },
+    {
       "id": "2026-10-27-12h31",
       "date": "2026-10-27",
       "time": "12h31",
