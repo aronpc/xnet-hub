@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-28-10h35",
+      "date": "2026-10-28",
+      "time": "10h35",
+      "hook": "Nada de susto numa vela só, nem volume fora do comum: o preço só escorrega devagar. Eram 81,5 mil no amanhecer, agora 80,5 mil, e o dia segue no verde (+0,7% em 24h). Enquanto isso, a maior parte dos contratos continua apostando na alta.",
+      "caption": "US$ 80.534 às 10h35, rondando a banda dos 80 mil, faixa que o dia ainda não testou.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-28-10h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-28-10h35",
+      "slides": [
+        {
+          "title": "A descida que ninguém apressou",
+          "body": "US$ 80.534 às 10h35, rondando a banda dos 80 mil, faixa que o dia ainda não testou."
+        },
+        {
+          "title": "US$ 80.534",
+          "body": "Δ1h -0,37% · Δ24h +0,67% · US$ 23,8 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Escorregou de 81,5 para 80,5 mil num ritmo manso, sem volume, dentro do intervalo do dia · Smart money: funding +0,005% · L/S 1,86",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O dia passa por 80 mil",
+          "body": "Teto imediato 81,0 mil (+0,6%) · banda inferior 80,0 mil (-0,7%) · mínimo de 24h em 79,9 mil (-0,8%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-28-09h33",
       "date": "2026-10-28",
       "time": "09h33",
