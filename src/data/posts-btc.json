@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-28-12h34",
+      "date": "2026-10-28",
+      "time": "12h34",
+      "hook": "O mínimo de 24h foi testado pela primeira vez hoje e segurou. O preço encostou nos US$ 80.397 e voltou; a leitura das 12h34 retorna ao lateral. Um detalhe: dois terços das contas seguem posicionadas na direção da alta, fatia que cresceu justamente durante a queda.",
+      "caption": "US$ 80.605 na leitura das 12h34, de volta depois de encostar no mínimo de 24h (US$ 80.397).\n\nLeia: https://xbtc.aronpc.dev/#2026-10-28-12h34",
+      "link": "https://xbtc.aronpc.dev/#2026-10-28-12h34",
+      "slides": [
+        {
+          "title": "O mínimo de 24h aguentou o teste",
+          "body": "US$ 80.605 na leitura das 12h34, de volta depois de encostar no mínimo de 24h (US$ 80.397)."
+        },
+        {
+          "title": "US$ 80.605",
+          "body": "Δ1h +0,18% · Δ24h +0,30% · US$ 23,5 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Mínimo de 24h testado e defendido, preço ainda na base do intervalo de 80,4 a 81,8 mil · Smart money: funding +0,008% e L/S 1,97, subindo",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Um corredor de 400 dólares",
+          "body": "Faixa imediata de 80,4 a 80,8 mil, cada borda a menos de 0,3% do preço · abaixo, próximo marco 79,9 mil; acima, faixa de 81,2 a 81,5 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-28-11h33",
       "date": "2026-10-28",
       "time": "11h33",
