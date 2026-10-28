@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-28-09h33",
+      "date": "2026-10-28",
+      "time": "09h33",
+      "hook": "Cinco horas segurando 81 mil, uma vela para acabar com isso. A das 9h foi a maior queda por hora do dia inteiro: o preço escorregou para 80,8 mil e a alta da madrugada virou lembrança. Quem estava comprado foi saindo no prejuízo, uma hora depois da outra.",
+      "caption": "US$ 80.829 às 09h33, de volta ao meio do intervalo percorrido nas últimas 24h.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-28-09h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-28-09h33",
+      "slides": [
+        {
+          "title": "O que a madrugada construiu, a manhã devolveu",
+          "body": "US$ 80.829 às 09h33, de volta ao meio do intervalo percorrido nas últimas 24h."
+        },
+        {
+          "title": "US$ 80.829",
+          "body": "Δ1h -0,60% · Δ24h +0,9% · US$ 23,8 bi negociados em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O piso de 81,0 mil cedeu na maior vela de queda do dia e virou teto · Smart money: funding +0,006% · L/S 1,83",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "80,5 mil é o último degrau",
+          "body": "Teto imediato 81,0 mil (+0,2%) · piso 80,5 mil (-0,4%) · fundo de 24h em 79,9 mil (-1,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "A devolução para no meio do caminho?",
+          "body": "O intervalo de 24h começa a ser testado por baixo em 79,9 mil."
+        }
+      ]
+    },
+    {
       "id": "2026-10-28-08h37",
       "date": "2026-10-28",
       "time": "08h37",
