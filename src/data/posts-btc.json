@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-28-11h33",
+      "date": "2026-10-28",
+      "time": "11h33",
+      "hook": "A manhã de queda mansa ganhou convicção. São quatro velas vermelhas seguidas e o preço a poucos dólares do mínimo do dia. E tem um detalhe: com o mercado cedendo, cresceu a parcela de contratos posicionada na direção contrária.",
+      "caption": "US$ 80.457 na leitura das 11h33, praticamente encostado no mínimo de 24h.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-28-11h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-28-11h33",
+      "slides": [
+        {
+          "title": "A queda parou de ser de mansinho",
+          "body": "US$ 80.457 na leitura das 11h33, praticamente encostado no mínimo de 24h."
+        },
+        {
+          "title": "US$ 80.457",
+          "body": "Δ1h -0,10% · Δ24h +0,31% · US$ 24,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Quatro quedas seguidas e preço colado no mínimo de 24h (US$ 80.244) · Contratos: funding +0,006% e L/S 1,93 em alta, na contramão do preço",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O dia decide nos 80,2 mil",
+          "body": "Zona crítica 80,2 mil (-0,3%) · teto do dia 81,8 mil (+1,7%) · a recuperação passa por 81,0 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Contexto do mercado, não conselho."
+        }
+      ]
+    },
+    {
       "id": "2026-10-28-10h35",
       "date": "2026-10-28",
       "time": "10h35",
