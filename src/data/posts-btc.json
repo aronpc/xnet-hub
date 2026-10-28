@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-28-16h33",
+      "date": "2026-10-28",
+      "time": "16h33",
+      "hook": "Manhã de queda, tarde de recuperação. A diferença é que desta vez a subida veio acompanhada: a maior vela de volume do dia, três vezes a média da hora, devolveu o preço aos 81 mil. Os 81,5 mil, teto imediato do intervalo de 24 horas, ainda não foram testados neste movimento.",
+      "caption": "US$ 81.135 na leitura das 16h33, depois de encostar nos 81,2 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-28-16h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-28-16h33",
+      "slides": [
+        {
+          "title": "A subida, desta vez, veio com volume",
+          "body": "US$ 81.135 na leitura das 16h33, depois de encostar nos 81,2 mil."
+        },
+        {
+          "title": "US$ 81.135",
+          "body": "Δ1h +0,37% · Δ24h +0,72% · US$ 25,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Rompeu os 80,8 mil com a maior vela de volume do dia e encostou nos 81,2 mil · Smart money: funding +0,010% e L/S 2,0, estáveis durante todo o repique",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teste dos 81,5 mil",
+          "body": "Suporte US$ 80.800 (-0,41%) · Resistência US$ 81.500 (+0,45%) · máximo do dia: US$ 81.823",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-28-12h34",
       "date": "2026-10-28",
       "time": "12h34",
