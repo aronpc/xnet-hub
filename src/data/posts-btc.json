@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-28-08h37",
+      "date": "2026-10-28",
+      "time": "08h37",
+      "hook": "O impulso das 5h levou o preço a 81,3 mil. Três horas depois, ele continua lá: 81,3 mil de novo. O ganho segurou, mas o embalo foi embora. Já são três velas de pausa, e a linha de 81,4 mil cedeu por pouco.",
+      "caption": "US$ 81.315 às 08h37, quase o mesmo preço do impulso das 05h.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-28-08h37",
+      "link": "https://xbtc.aronpc.dev/#2026-10-28-08h37",
+      "slides": [
+        {
+          "title": "O salto da madrugada parou de andar",
+          "body": "US$ 81.315 às 08h37, quase o mesmo preço do impulso das 05h."
+        },
+        {
+          "title": "US$ 81.315",
+          "body": "Δ1h -0,14% · Δ24h +1,8% · US$ 23,8 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Três velas de pausa depois do rompimento das 05h, preço rodando em 82% da variação do dia · Smart money: funding +0,008% e razão long/short em 1,84, cedendo hora após hora",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Bandeira ou devolução?",
+          "body": "Fechar uma hora acima de 81,8 mil coloca 82,5 mil na conversa; de volta abaixo de 81,0 mil, o salto das 05h perde a graça · Referências: 81,0 mil (-0,4%) e 81,8 mil (+0,6%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "A pausa decide o próximo trecho",
+          "body": "Ou o movimento da madrugada retoma, ou o preço devolve o que ganhou."
+        }
+      ]
+    },
+    {
       "id": "2026-10-28-05h34",
       "date": "2026-10-28",
       "time": "05h34",
