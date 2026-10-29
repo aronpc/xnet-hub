@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-29",
+      "date": "2026-10-29",
+      "hook": "Projetos e repos de 29 de outubro",
+      "caption": "A semana do hack da Anthropic produziu a resposta open-source no mesmo dia: threat modeling de repo apontando o próprio agente, console para vigiar o tráfego de rede dos agentes e sandbox de contenção. No resto, China criativa: uma IA que faz livestream sozinha num servidor só e o GPT-2 reconstruído linha por linha.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-29",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-29",
+      "slides": [
+        {
+          "title": "Projetos e repos de 29 de outubro",
+          "body": "A semana do hack da Anthropic produziu a resposta open-source no mesmo dia: threat modeling de repo apontando o próprio agente, console para vigiar o tráfego de rede dos agentes e sandbox de contenção. No resto, China criativa: uma IA que faz livestream sozinha num servidor só e o GPT-2 reconstruído linha por linha."
+        },
+        {
+          "title": "open-yoki: live de IA completa num único servidor",
+          "body": "Projeto chinês com 252 estrelas em 48 horas. Uma IA que faz livestream sozinha: voz, rosto, chat, memória e posts, tudo rodando em um servidor só.",
+          "source": "github.com/jacke-pp/open-yoki"
+        },
+        {
+          "title": "shipwords: site de IA monetizável por palavra-chave",
+          "body": "Starter Cloudflare-native que gera um site de IA monetizável para cada palavra-chave, com autenticação, créditos e pagamentos prontos.",
+          "source": "github.com/shipwords-dev/shipwords"
+        },
+        {
+          "title": "NamiGPT: GPT-2 escrito do zero, linha por linha",
+          "body": "Tutorial em chinês e inglês: construir o GPT-2 do zero em PyTorch, entendendo cada linha do transformer.",
+          "source": "github.com/aa1143/NamiGPT"
+        },
+        {
+          "title": "grim-prompter: threat modeling para agentes de código",
+          "body": "Aponte o Claude Code, o Codex ou qualquer agente ao seu repo e receba a análise de como um atacante, ou o próprio agente, poderia explorá-lo. Assinado por James Manico, referência em AppSec.",
+          "source": "github.com/jmanico/grim-prompter"
+        },
+        {
+          "title": "OpenMinutes: workbench de gravação com IA",
+          "body": "Estação de trabalho open-source para gravadores: importação, transcrição, classificação por IA e busca em tudo que foi gravado. É a implementação aberta do Floatboat Workbench.",
+          "source": "github.com/floatboatai/OpenMinutes"
+        },
+        {
+          "title": "RabbitWall: o que sai da rede dos seus agentes",
+          "body": "Console web para gateway Linux que observa o tráfego gerado por uma rede de agentes de IA: o que sai, para onde e quando.",
+          "source": "github.com/ysuito/RabbitWall"
+        },
+        {
+          "title": "workbox: sandbox para agentes no sistema",
+          "body": "Sandbox para agentes de IA interagirem nativamente com o sistema e usarem ferramentas programaticamente. Os autores avisam: wildly capable inside.",
+          "source": "github.com/Sidiora-Labs/workbox"
+        },
+        {
+          "title": "A resposta open-source ao dia do hack",
+          "body": "Três ferramentas de segurança de agentes, cada uma numa camada: auditar o repo antes do agente entrar (grim-prompter), vigiar o tráfego que sai (RabbitWall), conter o que o agente toca (workbox). No outro extremo, open-yoki e NamiGPT mostram a China produzindo tanto a linha de produção quanto a sala de aula."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-29",
       "date": "2026-10-29",
       "hook": "Panorama IA de 29 de outubro",
