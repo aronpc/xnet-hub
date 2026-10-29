@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-29-02h31",
+      "date": "2026-10-29",
+      "time": "02h31",
+      "hook": "A queda da noite parou no limite de baixo. A mínima de 79.710 foi testada e defendida, e as duas primeiras horas do dia vieram em alta: US$ 80.265 na leitura das 02h31, de volta aos 80 mil que tinham sido perdidos às 22h.",
+      "caption": "79.710 testado e não cedeu; preço de volta acima dos 80 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-29-02h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-29-02h31",
+      "slides": [
+        {
+          "title": "A mínima da madrugada resistiu",
+          "body": "79.710 testado e não cedeu; preço de volta acima dos 80 mil."
+        },
+        {
+          "title": "US$ 80.265",
+          "body": "Δ1h +0,55% · Δ24h -0,70% · US$ 27,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Repique na parte de baixo da faixa de 79,7 a 81,8 mil, ainda sem força para 80,5 mil · Futuros: funding +0,0019%, com 69% das posições apostadas na alta",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O que vem depois do repique",
+          "body": "De baixo: US$ 79.700 (-0,70%), com 79,0 mil logo abaixo · De cima: US$ 80.500 (+0,29%), que devolve o topo da faixa, em 81,8 mil · F&G 51, neutro",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-28-23h32",
       "date": "2026-10-28",
       "time": "23h32",
