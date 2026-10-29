@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-29-18h41",
+      "date": "2026-10-29",
+      "time": "18h41",
+      "hook": "Às 17h30, o nível sob observação era 79,7 mil. Às 18h41 o Bitcoin já negocia abaixo dele: 79.417 dólares, queda de 1,13% na última hora e 2,10% no dia. A vela que levou o preço para baixo fechou com volume 6,4 vezes a média de 24 horas.",
+      "caption": "De 80.327 às 17h30 para 79.417 às 18h41.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-29-18h41",
+      "link": "https://xbtc.aronpc.dev/#2026-10-29-18h41",
+      "slides": [
+        {
+          "title": "79,7 mil cedeu",
+          "body": "De 80.327 às 17h30 para 79.417 às 18h41."
+        },
+        {
+          "title": "US$ 79.417",
+          "body": "Δ1h -1,13% · Δ24h -2,10% · US$ 35,7 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no terço de baixo da faixa de 24h (78,3 a 82 mil) · Smart money: funding +0,003%, L/S de 1,80 para 2,14 · OI 93,1k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Duas referências: 78,2 e 82 mil",
+          "body": "78,2 mil (-1,5%) e 82 mil (+3,3%) delimitam a faixa · seguintes: 77,6 e 82,7 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-29-17h30",
       "date": "2026-10-29",
       "time": "17h30",
