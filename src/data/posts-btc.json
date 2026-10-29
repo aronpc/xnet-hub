@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-29-12h40",
+      "date": "2026-10-29",
+      "time": "12h40",
+      "hook": "Das 11h para cá, o Bitcoin passou direto por 80,5 e 81,1 mil e chegou aos 81.591 dólares, o valor mais alto do dia. Faltam 0,3% para o topo do range de 24h, e o candle da arrancada negociou quase o triplo do volume habitual.",
+      "caption": "Uma hora de alta de 1,56% colocou o preço a 90% do range das últimas 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-29-12h40",
+      "link": "https://xbtc.aronpc.dev/#2026-10-29-12h40",
+      "slides": [
+        {
+          "title": "Passou por 81 mil e foi encostar no teto",
+          "body": "Uma hora de alta de 1,56% colocou o preço a 90% do range das últimas 24 horas."
+        },
+        {
+          "title": "US$ 81.591",
+          "body": "Δ1h +1,56% · Δ24h +1,34% · US$ 29,8 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Última vela fechou com 2,8× o volume médio de 24h · Smart Money: funding +0,010% e L/S 1,93 · OI 96,7k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O dia se decide nos 81,8 mil",
+          "body": "Acima de US$ 81,8 mil (+0,3%), a referência seguinte são os 82,5 mil · Abaixo, os 79,7 mil (-2,3%) continuam o piso do range",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-29-11h33",
       "date": "2026-10-29",
       "time": "11h33",
