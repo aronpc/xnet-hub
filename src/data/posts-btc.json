@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-29-14h31",
+      "date": "2026-10-29",
+      "time": "14h31",
+      "hook": "Poucas horas depois de tocar 81,6 mil dólares, a máxima do dia, o Bitcoin devolveu parte do ganho e negocia a 81.027. O preço voltou para o meio do corredor das últimas 24 horas e a força que apareceu no meio-dia ainda não teve seguimento.",
+      "caption": "Queda de 0,41% na última hora devolveu o preço ao centro da faixa do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-29-14h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-29-14h31",
+      "slides": [
+        {
+          "title": "O ímpeto do meio-dia perdeu fôlego",
+          "body": "Queda de 0,41% na última hora devolveu o preço ao centro da faixa do dia."
+        },
+        {
+          "title": "US$ 81.027",
+          "body": "Δ1h -0,41% · Δ24h +0,63% · US$ 31,7 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço a 58% do corredor de 24h (79,7 a 82,0 mil) · Smart Money: funding +0,010% e L/S 1,65, contra 1,93 no meio-dia",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "79,7 e 82,0 mil ainda delimitam o dia",
+          "body": "São as pontas do corredor de 24h: 79,7 mil (-1,6%) e 82,0 mil (+1,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-29-12h40",
       "date": "2026-10-29",
       "time": "12h40",
