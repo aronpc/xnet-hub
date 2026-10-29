@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-28-23h32",
+      "date": "2026-10-28",
+      "time": "23h32",
+      "hook": "O dia guardou o pior número para a última hora. Depois de uma tarde inteira reconstruindo os 81 mil, duas leituras levaram o preço a US$ 79.800: a menor cotação das últimas 24 horas, registrada a 28 minutos da meia-noite.",
+      "caption": "US$ 79.800 na leitura das 23h32, encostado na mínima de 24h (US$ 79.809).\n\nLeia: https://xbtc.aronpc.dev/#2026-10-28-23h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-28-23h32",
+      "slides": [
+        {
+          "title": "81 mil viraram 79,8 mil em duas horas",
+          "body": "US$ 79.800 na leitura das 23h32, encostado na mínima de 24h (US$ 79.809)."
+        },
+        {
+          "title": "US$ 79.800",
+          "body": "Δ1h -1,2% · Δ24h -1,3% · US$ 26,0 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Das 21h33 até agora: 81,1 mil → 79,8 mil, o trecho mais rápido do dia, com a mínima de 24h em teste · Smart money: funding +0,002% e L/S 1,98, com 66% do lado de quem apostava na alta",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A hora que vem passa por 79,5 mil",
+          "body": "Referência de baixo: US$ 79.500 (-0,4%), com 79,0 mil depois · Referência de cima: US$ 80.400 (+0,8%), que desacelera a pressão · F&G em 51, neutro",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-28-22h35",
       "date": "2026-10-28",
       "time": "22h35",
