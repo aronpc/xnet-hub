@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-29-11h33",
+      "date": "2026-10-29",
+      "time": "11h33",
+      "hook": "Onze horas de vaivém entre 79,7 e 80,3 mil, e a 11h33 a faixa cedeu por cima: US$ 80.335, com a hora fechando acima dos 80,5 mil pela primeira vez hoje. O que muda a leitura é o volume, que subiu junto do preço pela primeira vez desde a queda de ontem.",
+      "caption": "Topos e fundos subindo desde os 79,7 mil da madrugada; o preço agora retesta a região dos 80,3 mil por cima.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-29-11h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-29-11h33",
+      "slides": [
+        {
+          "title": "A faixa cedeu por cima",
+          "body": "Topos e fundos subindo desde os 79,7 mil da madrugada; o preço agora retesta a região dos 80,3 mil por cima."
+        },
+        {
+          "title": "US$ 80.335",
+          "body": "Δ1h +0,23% · Δ24h -0,18%, quase zerado · US$ 27,0 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Primeira hora marcada de alta no dia, com a última vela a 73% do volume médio (era 57% na rodada anterior) · Futuros: funding +0,01% e 68% das contas compradas",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Segurar os 80,3 mil, ou devolver os 80,0 mil",
+          "body": "De baixo: US$ 80.000 (-0,4%), com 79,9 e 79,7 mil atrás · De cima: US$ 80.500 (+0,2%), com 80,6 e 81,1 mil na sequência",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-29-03h33",
       "date": "2026-10-29",
       "time": "03h33",
