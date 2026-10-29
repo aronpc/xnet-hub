@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-28-22h35",
+      "date": "2026-10-28",
+      "time": "22h35",
+      "hook": "A força que apareceu no fim da tarde durou pouco. Três leituras seguidas em queda levaram o preço de volta aos 80,7 mil, exatamente o valor do fechamento das 10h da manhã. No caminho, a parcela do mercado posicionada para alta foi encolhendo aos poucos.",
+      "caption": "US$ 80.740 na leitura das 22h35, o mesmo preço de treze horas atrás.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-28-22h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-28-22h35",
+      "slides": [
+        {
+          "title": "De volta ao ponto de partida",
+          "body": "US$ 80.740 na leitura das 22h35, o mesmo preço de treze horas atrás."
+        },
+        {
+          "title": "US$ 80.740",
+          "body": "Δ1h -0,47% · Δ24h +0,07% · US$ 25,5 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Queda de 81,3 mil para 80,7 mil em três leituras, com o preço na parte de baixo do intervalo de 24h · Smart money: funding +0,005% e L/S 1,86, que era 1,94 no fim da tarde",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O intervalo de 24h em jogo",
+          "body": "Suporte US$ 80.300 (-0,54%) · Resistência US$ 81.900 (+1,44%) · segurar a região de 80.4 mil mantém a faixa do dia; retomar 81.1 mil devolveria o equilíbrio",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-28-16h33",
       "date": "2026-10-28",
       "time": "16h33",
