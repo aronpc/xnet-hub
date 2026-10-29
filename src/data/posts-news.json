@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-29",
+      "date": "2026-10-29",
+      "hook": "Panorama IA de 29 de outubro",
+      "caption": "Agentes de IA invadiram a Anthropic por um fornecedor terceirizado em menos de 12 horas, e o resto do dia respondeu ao evento: ranking novo com 60% de testes privados, um modelo de topo dedicado a cibersegurança e um paper documentando o Claude achando falhas reais. Do lado do dinheiro, o fluxo de caixa da Alphabet virou negativo e o GitHub saltou de 2,9 para 7,4 bilhões de commits por mês.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-29",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-29",
+      "slides": [
+        {
+          "title": "Panorama IA de 29 de outubro",
+          "body": "Agentes de IA invadiram a Anthropic por um fornecedor terceirizado em menos de 12 horas, e o resto do dia respondeu ao evento: ranking novo com 60% de testes privados, um modelo de topo dedicado a cibersegurança e um paper documentando o Claude achando falhas reais. Do lado do dinheiro, o fluxo de caixa da Alphabet virou negativo e o GitHub saltou de 2,9 para 7,4 bilhões de commits por mês."
+        },
+        {
+          "title": "Gemini 4 Carbon: topo do ranking em cibersegurança",
+          "body": "O Google lançou um modelo dedicado a segurança defensiva e ele entrou em primeiro lugar no Intelligence Index v5 da Artificial Analysis. O acesso é limitado a defensores, pelo programa Fairwind: US$ 2 por milhão de tokens de entrada e US$ 10 por milhão de saída, subindo depois para US$ 4 e US$ 20.",
+          "source": {
+            "label": "Google · 28 out",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+          }
+        },
+        {
+          "title": "Intelligence Index v5: 60% dos testes agora são privados",
+          "body": "A Artificial Analysis redesenhou o índice que compara modelos. A versão 5 adiciona provas de código e ciência, e a maioria dos testes, 60%, roda em datasets privados ou held-out, respondendo à contaminação dos benchmarks públicos.",
+          "source": {
+            "label": "Artificial Analysis · 28 out",
+            "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5"
+          }
+        },
+        {
+          "title": "Agentes de IA hackearam a Anthropic em menos de 12 horas",
+          "body": "A Cathedral, startup de cibersegurança para militares e governo dos EUA, usou agentes de IA para entrar na Anthropic explorando falhas em software de terceiros. Vazaram dados de RH, vendas e TI, além de informação limitada de clientes e parceiros. O monitoramento da Anthropic flagrou parte da atividade, e há disputa sobre violação das regras do bug bounty.",
+          "source": {
+            "label": "TechRadar · 29 out",
+            "url": "https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages"
+          }
+        },
+        {
+          "title": "Amazon desmonta a divisão de modelos Nova",
+          "body": "Depois de os LLMs próprios não decolarem, a Amazon reduziu a ambição da maioria dos modelos Nova e reorganizou os times de IA para focar nas metas de mais alta prioridade, segundo Bloomberg e Futurism.",
+          "source": {
+            "label": "Futurism · 27 out",
+            "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
+          }
+        },
+        {
+          "title": "Alphabet cresce 25%, mas queima US$ 9 bi no trimestre",
+          "body": "Receita de US$ 127,58 bilhões no terceiro trimestre, alta de 25%, com Google Cloud saltando 103% para US$ 30,7 bilhões. O capex de US$ 51,36 bilhões virou o jogo: fluxo de caixa livre negativo em US$ 9,07 bilhões, com guidance anual de capex mantido entre US$ 195 e 205 bilhões. A ação caiu 9% depois do fechamento.",
+          "source": {
+            "label": "Alphabet Q3 · 28 out",
+            "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf"
+          }
+        },
+        {
+          "title": "Nvidia abre Nemotron 3.5 Transcribe e o dataset Granary v2",
+          "body": "Modelo open-weight de transcrição e tradução multilíngue de áudio, tudo em um modelo só, junto do Granary v2, dataset de fala aberto. É o experimento do dia: candidato a endpoint de STT no lugar dos APIs pagos.",
+          "source": {
+            "label": "SiliconANGLE · 28 out",
+            "url": "https://siliconangle.com/2026/10/28/nvidia-releases-all-in-one-adaptable-nemotron-3-5-audio-transcription-and-translation-model/"
+          }
+        },
+        {
+          "title": "Anthropic documenta o Claude achando falhas reais",
+          "body": "Paper da Anthropic descreve a descoberta e exploração de vulnerabilidades em software real com o Claude, incluindo a metodologia de avaliação de risco e os limites do método.",
+          "source": {
+            "label": "Anthropic · 28 out",
+            "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude"
+          }
+        },
+        {
+          "title": "GitHub processa 7,4 bilhões de commits por mês",
+          "body": "Eram 2,9 bilhões em agosto. Para acompanhar, o GitHub diz ter adicionado 4 milhões de cores de CPU e 160 petabytes de storage em 2026. O crescimento é majoritariamente de agentes de IA.",
+          "source": {
+            "label": "The New Stack · 28 out",
+            "url": "https://thenewstack.io/github-7-4b-commits-september/"
+          }
+        },
+        {
+          "title": "Segurança vira campo de batalha, e a conta chega",
+          "body": "A mesma tecnologia que acha vulnerabilidades, vista no paper da Anthropic e no caso Cathedral, é a que escreve 7,4 bilhões de commits por mês. Quem vende a defesa, o Gemini 4 Carbon, entrou no topo do ranking no mesmo dia. E o dinheiro dá sinais de cansaço: a Amazon recua, a Alphabet queima caixa e a Microsoft já registra US$ 10 bilhões por trimestre vindos do OpenAI."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-26",
       "date": "2026-10-26",
       "hook": "Skills e MCP de 26 de outubro",
