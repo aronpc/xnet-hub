@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-29",
+      "date": "2026-10-29",
+      "hook": "Skills e MCP de 29 de outubro",
+      "caption": "O dia em que a categoria de skill que produz mídia explodiu: uma vira conceito em vídeo narrado com 44 estilos, outra dirige e verifica vídeo renderizado por código, uma terceira transforma repo em diagrama animado. No MCP, toda API virou candidata a ferramenta de agente, com dois conversores de OpenAPI surgindo no mesmo dia.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-29",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-29",
+      "slides": [
+        {
+          "title": "Skills e MCP de 29 de outubro",
+          "body": "O dia em que a categoria de skill que produz mídia explodiu: uma vira conceito em vídeo narrado com 44 estilos, outra dirige e verifica vídeo renderizado por código, uma terceira transforma repo em diagrama animado. No MCP, toda API virou candidata a ferramenta de agente, com dois conversores de OpenAPI surgindo no mesmo dia."
+        },
+        {
+          "title": "Skill mcp-builder da Anthropic passa ao SDK TypeScript v2",
+          "body": "Commit no repo oficial de skills da Anthropic atualiza a skill que ensina agentes a construir MCP servers, agora cobrindo a v2 do SDK TypeScript.",
+          "source": "github.com/anthropics/skills"
+        },
+        {
+          "title": "vibe-knowledge: um conceito vira curto narrado",
+          "body": "Skill chinesa com 86 estrelas em 48 horas. Um conhecimento entra, sai um vídeo curto com narração, em 44 estilos, com o código gerando o vídeo frame a frame.",
+          "source": "github.com/andyhuo520/vibe-knowledge"
+        },
+        {
+          "title": "video-director: direção e verificação de vídeo por código",
+          "body": "Skill do Claude para dirigir, construir e verificar vídeos renderizados por código, de HTML e Canvas a MP4, com pipeline e princípios de produção.",
+          "source": "github.com/win4r/video-director"
+        },
+        {
+          "title": "arch-diagram-skill: repo ou artigo em diagrama animado",
+          "body": "Skill para Claude Code e Codex que transforma repositório ou artigo em diagrama de arquitetura animado.",
+          "source": "github.com/bassnova42/arch-diagram-skill"
+        },
+        {
+          "title": "Status line do Claude Code come 15 a 20% dos tokens",
+          "body": "Análise publicada em gist mede que a linha de status do Claude Code consome de 15% a 20% dos tokens da sessão. A interface custa mais que muitas tarefas.",
+          "source": "gist.github.com/flamerix-ai"
+        },
+        {
+          "title": "vibe-coding-news: briefing diário empacotado como skill",
+          "body": "Skill que monta briefing diário de AI coding para devs, com fontes, imagens e download. A mesma tarefa de um pipeline de curadoria, publicada como skill.",
+          "source": "github.com/johunsang/vibe-coding-news"
+        },
+        {
+          "title": "OpenAPI vira MCP server, duas vezes no mesmo dia",
+          "body": "Enframe, sidecar que converte qualquer spec OpenAPI em MCP server, apareceu no Show HN no mesmo dia em que o mcp4api chegou ao PyPI.",
+          "source": "github.com/erwinkramer/enframe"
+        },
+        {
+          "title": "A skill vira mídia, o MCP vira camada universal",
+          "body": "Skills que produzem vídeo narrado, diagrama animado e briefing diário apareceram na mesma semana. No lado do MCP, converter qualquer API em ferramenta de agente virou categoria consolidada. O gargalo mudou de lugar: não é falta de ferramenta, é escolher qual instalar."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-29",
       "date": "2026-10-29",
       "hook": "Projetos e repos de 29 de outubro",
