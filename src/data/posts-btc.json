@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-30-07h32",
+      "date": "2026-10-30",
+      "time": "07h32",
+      "hook": "O bitcoin chegou a 77,3 mil dólares, a menor cotação do dia até aqui, e acumula queda de 3,4% nas últimas 24 horas. O limite de baixo da faixa, 76,5 mil, está um pouco mais de 1% abaixo.",
+      "caption": "O topo da madrugada, 78,6 mil, ficou a 1,6% de distância.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-30-07h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-30-07h32",
+      "slides": [
+        {
+          "title": "Nova mínima do dia",
+          "body": "O topo da madrugada, 78,6 mil, ficou a 1,6% de distância."
+        },
+        {
+          "title": "US$ 77.338",
+          "body": "Δ1h -0,39% · Δ24h -3,4% · US$ 77,3 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no terço de baixo da faixa de 24h (76,5 a 82 mil), com 70% das contas ainda posicionadas na alta enquanto cai · Smart money: funding +0,007% e L/S de contas 2,3",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "76,5 mil é a linha da manhã",
+          "body": "Ceder esse nível abre espaço para 75,5 e 75 mil (-1,1% até ele). Para virar o quadro, primeiro 78,2 e depois um fechamento acima de 78,7 mil (+1,8%).",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-30-05h33",
       "date": "2026-10-30",
       "time": "05h33",
