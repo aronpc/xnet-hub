@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-30-12h32",
+      "date": "2026-10-30",
+      "time": "12h32",
+      "hook": "A rejeição em 76,5 mil segurou, e em uma hora o preço voltou a rondar 78 mil. O volume das últimas 24h já soma 178,6 bilhões de dólares.",
+      "caption": "Alta de 1,3% desde a última leitura, com juros de financiamento neutros em +0,01%.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-30-12h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-30-12h32",
+      "slides": [
+        {
+          "title": "A hora do rebote",
+          "body": "Alta de 1,3% desde a última leitura, com juros de financiamento neutros em +0,01%."
+        },
+        {
+          "title": "US$ 77.763",
+          "body": "Δ1h +1,31% · Δ24h -4,46% · US$ 178,6 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Dentro do canal do dia, de 76,5 a 78,1 mil, na maior recuperação da jornada · Smart money: funding +0,01% · L/S de contas 2,72",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teto do canal, a +0,4%",
+          "body": "Fundo do dia 76,5 mil (-1,6%) · Teto 78,1 mil (+0,4%) · 73% das contas apostam na alta, mas o interesse aberto cai para ~95,6 mil BTC",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-30-11h32",
       "date": "2026-10-30",
       "time": "11h32",
