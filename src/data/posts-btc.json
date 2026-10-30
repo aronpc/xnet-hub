@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-30-05h33",
+      "date": "2026-10-30",
+      "time": "05h33",
+      "hook": "A reação não passou da madrugada: 78 mil cederam de novo e o dia já perde 2,5%. Só que a vela da queda rodou com um terço do volume normal da hora. Falta convicção nessa descida.",
+      "caption": "Terceira vela descendente seguida, mas com volume ralo de madrugada.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-30-05h33",
+      "link": "https://xbtc.aronpc.dev/#2026-10-30-05h33",
+      "slides": [
+        {
+          "title": "78 mil não aguentaram",
+          "body": "Terceira vela descendente seguida, mas com volume ralo de madrugada."
+        },
+        {
+          "title": "US$ 77.931",
+          "body": "Δ1h -0,57% · Δ24h -2,52% · US$ 67,5 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "78 mil cederam na terceira vela descendente e os topos do dia seguem recuando · Smart Money: funding +0,0041% e L/S 2,3 em queda pela quinta rodada, com 70% das contas ainda apostando na alta · OI 95,5k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A queda pede confirmação",
+          "body": "Voltar a 78,3 mil devolve o campo de 78,3 a 78,8 mil (+0,5%). Zona conhecida de defesa em 76,5 a 77 mil (-1,2%) logo abaixo.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-30-01h32",
       "date": "2026-10-30",
       "time": "01h32",
