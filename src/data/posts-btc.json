@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-30-15h31",
+      "date": "2026-10-30",
+      "time": "15h31",
+      "hook": "A tarde deu direção: terceiro fechamento seguido em queda, o bitcoin deixou os 77,2 mil para trás e agora encosta no valor mais baixo do dia, 76,9 mil dólares.",
+      "caption": "Perdeu a marca de 77,2 mil e foi parar na porta do fundo do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-30-15h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-30-15h31",
+      "slides": [
+        {
+          "title": "A queda ganhou sequência",
+          "body": "Perdeu a marca de 77,2 mil e foi parar na porta do fundo do dia."
+        },
+        {
+          "title": "US$ 76.879",
+          "body": "Δ1h -0,35% · Δ24h -4,74% · US$ 192,1 bi negociados em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Hora a hora o preço fecha mais baixo desde que perdeu os 77,2 mil · Smart money: funding +0,01%, 72,6% das contas posicionadas na compra e interesse aberto parado em ~95,3 mil BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "76,5 mil na balança",
+          "body": "Suporte 76,5 mil (-0,5%) · Resistência 77,2 mil (+0,4%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-30-14h32",
       "date": "2026-10-30",
       "time": "14h32",
