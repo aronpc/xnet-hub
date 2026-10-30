@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-29-20h30",
+      "date": "2026-10-29",
+      "time": "20h30",
+      "hook": "O dia não deu trégua ao Bitcoin: desde o meio-dia, nenhuma leitura trouxe preço maior que a anterior. Agora são 78.612 dólares, com recuo de 0,56% na última hora e de 3,26% no dia inteiro. Faltam 0,5% até 78,2 mil, a marca mais baixa do intervalo das últimas 24 horas.",
+      "caption": "79,1 mil, a referência citada às 18h41, ficou para trás.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-29-20h30",
+      "link": "https://xbtc.aronpc.dev/#2026-10-29-20h30",
+      "slides": [
+        {
+          "title": "A 0,5% do limite do intervalo",
+          "body": "79,1 mil, a referência citada às 18h41, ficou para trás."
+        },
+        {
+          "title": "US$ 78.612",
+          "body": "Δ1h -0,56% · Δ24h -3,26% · US$ 39,4 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço junto à extremidade inferior do intervalo de 24h (78,3 a 82 mil) · F&G 51, neutro · Smart Money: funding +0,003% e L/S 2,28 · OI 93,5k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A hora de 78,2 mil",
+          "body": "Se 78,2 mil não segurar (-0,5%), o trecho seguinte é 77,6 mil · Do outro lado, 82 mil (+4,3%) e depois 82,7 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-29-18h41",
       "date": "2026-10-29",
       "time": "18h41",
