@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-30-01h32",
+      "date": "2026-10-30",
+      "time": "01h32",
+      "hook": "Três fechamentos seguidos no verde e o Bitcoin volta aos 78,2 mil dólares, com +0,91% na última hora. Ainda é repique num dia que perde 2%, e rodando com 43% do volume típico da hora.",
+      "caption": "O dia ainda é vermelho, mas a última hora virou.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-30-01h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-30-01h32",
+      "slides": [
+        {
+          "title": "Três altas seguidas",
+          "body": "O dia ainda é vermelho, mas a última hora virou."
+        },
+        {
+          "title": "US$ 78.218",
+          "body": "Δ1h +0,91% · Δ24h -2,01% · US$ 50,8 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Três fechamentos 1h ascendentes e 78 mil recuperados · Smart Money: funding +0,0017% e L/S 2,71, com 73% das contas alavancadas na alta · OI 96,8k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A prova dos 79 mil",
+          "body": "Segurar 78 mil abre caminho a 79 mil (+1,0%). Devolver 78 mil (-0,3%) reabre o campo até 76,5 mil.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-30-00h39",
       "date": "2026-10-30",
       "time": "00h39",
