@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-30-00h39",
+      "date": "2026-10-30",
+      "time": "00h39",
+      "hook": "O dia ainda perde 2,8%, mas a pressão aliviou: o Bitcoin encontrou limite em 76,5 mil e devolve +0,47% na última hora, a 77.512 dólares. Só que essa reação ainda roda com 40% do volume médio.",
+      "caption": "Dia de perda, hora de alívio tímido.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-30-00h39",
+      "link": "https://xbtc.aronpc.dev/#2026-10-30-00h39",
+      "slides": [
+        {
+          "title": "A queda bateu no freio",
+          "body": "Dia de perda, hora de alívio tímido."
+        },
+        {
+          "title": "US$ 77.512",
+          "body": "Δ1h +0,47% · Δ24h -2,81% · US$ 49,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Reação com os topos do dia em queda (81,8 → 80,9 → 79 mil) e volume a 40% da média · Smart Money: funding +0,0008% e L/S 2,7, com 73% das contas posicionadas pra alta · OI 96,7k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A faixa que decide: 76,5 a 78 mil",
+          "body": "Abaixo de 76,5 mil, a queda ganha espaço até 75 mil. Acima de 78 mil (+0,6%), o próximo obstáculo é a zona de 79 mil.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-29-21h31",
       "date": "2026-10-29",
       "time": "21h31",
