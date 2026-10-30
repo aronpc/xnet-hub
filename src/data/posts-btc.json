@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-30-11h32",
+      "date": "2026-10-30",
+      "time": "11h32",
+      "hook": "O preço deixou 77 mil para trás nesta manhã e encostou a 0,3% da mínima do dia, 76,5 mil. O volume em 24h saltou de 119 para 168 bilhões de dólares.",
+      "caption": "O ponto mais baixo do dia a 0,3% de distância, com interesse aberto subindo a ~97 mil BTC.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-30-11h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-30-11h32",
+      "slides": [
+        {
+          "title": "76,5 mil à prova",
+          "body": "O ponto mais baixo do dia a 0,3% de distância, com interesse aberto subindo a ~97 mil BTC."
+        },
+        {
+          "title": "US$ 76.757",
+          "body": "Δ1h -0,65% · Δ24h -4,45% · US$ 168,4 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Perdeu 77,0 mil durante a manhã e foi testar o ponto mais baixo do dia, com volume acelerando · Smart money: funding +0,01% · L/S de contas 2,62",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "76,5 mil em teste agora",
+          "body": "Suporte 76,5 mil (-0,3%) · Resistência 78,0 mil (+1,6%) · 72% das contas estão posicionadas para alta",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-30-08h34",
       "date": "2026-10-30",
       "time": "08h34",
