@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-30-17h31",
+      "date": "2026-10-30",
+      "time": "17h31",
+      "hook": "A pressão vendedora deu uma pausa: o menor preço do dia segurou de novo e o bitcoin voltou à porta dos 77 mil, a 76,8 mil dólares, ainda devendo 4,3% no dia.",
+      "caption": "O piso aguentou mais um teste, e o preço parou encostado na parte de cima da faixa da tarde.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-30-17h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-30-17h31",
+      "slides": [
+        {
+          "title": "O dia de queda virou espera",
+          "body": "O piso aguentou mais um teste, e o preço parou encostado na parte de cima da faixa da tarde."
+        },
+        {
+          "title": "US$ 76.830",
+          "body": "Δ1h +0,47% · Δ24h -4,34% · US$ 195,9 bi negociados em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Caiu até 76,3 mil, repicou e parou embaixo do teto de 77,2 mil · Smart money: funding +0,01%, 73,4% das contas posicionadas na compra e 95,9 mil BTC em jogo",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teto da tarde responde",
+          "body": "Suporte 76,3 mil (-0,7%) · Resistência 77,2 mil (+0,5%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-30-15h31",
       "date": "2026-10-30",
       "time": "15h31",
