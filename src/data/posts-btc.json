@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-30-14h32",
+      "date": "2026-10-30",
+      "time": "14h32",
+      "hook": "A última hora derrubou o preço para 77,1 mil, abaixo dos 77,2 mil que seguravam o dia, e quase ninguém negociou: a vela mais recente teve seis vezes menos volume que a média.",
+      "caption": "Segunda leitura seguida em queda, agora na borda de baixo do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-30-14h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-30-14h32",
+      "slides": [
+        {
+          "title": "Deslize em câmera lenta",
+          "body": "Segunda leitura seguida em queda, agora na borda de baixo do dia."
+        },
+        {
+          "title": "US$ 77.152",
+          "body": "Δ1h -0,5% · Δ24h -4,75% · US$ 187,8 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A marca de 77,2 mil virou barreira e o preço ficou espremido entre 76,5 e 77,2 mil · Smart money: funding +0,01%, 72,7% das contas compradas e interesse aberto encolhendo para ~95,3 mil BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Recuperar 77,2 mil ou visitar 76,5",
+          "body": "Baixo do dia 76,5 mil (-0,8%) · Marca perdida 77,2 mil (+0,1%) · Saída da faixa 78,1 mil (+1,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-30-12h32",
       "date": "2026-10-30",
       "time": "12h32",
