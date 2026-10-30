@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-29-21h31",
+      "date": "2026-10-29",
+      "time": "21h31",
+      "hook": "Uma hora resolveu o que o dia vinha fazendo devagar: entre a leitura anterior e esta, o Bitcoin recuou 2,15% e foi a 76.919 dólares, praticamente na mínima das últimas 24 horas. No acumulado do dia, queda de 5,18%. E o medo voltou ao termômetro: depois de horas no campo neutro, o Fear & Greed marcou 30. A vela que fechou agora teve volume 2,1 vezes a média de 24 horas.",
+      "caption": "O dia começou neutro e termina em medo.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-29-21h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-29-21h31",
+      "slides": [
+        {
+          "title": "Queda rápida, medo de volta",
+          "body": "O dia começou neutro e termina em medo."
+        },
+        {
+          "title": "US$ 76.919",
+          "body": "Δ1h -2,15% · Δ24h -5,18% · US$ 43,4 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço encostado na parte baixa do intervalo de 24h (76,7 a 82 mil) · F&G 30, medo · Smart Money: funding +0,003% e L/S 2,37 · OI 94,8k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "De 76,7 para 76,1 mil",
+          "body": "É o próximo patamar se a mínima de 24h não segurar · Do outro lado do intervalo, 82 mil (+6,6%) e depois 82,7 mil · Vela das 21h31 fechou com 2,1× o volume médio",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, não recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-29-20h30",
       "date": "2026-10-29",
       "time": "20h30",
