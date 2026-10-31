@@ -213,6 +213,64 @@
       ]
     },
     {
+      "id": "skills-mcp-2026-10-30",
+      "date": "2026-10-30",
+      "hook": "Skills e MCP de 30 de outubro",
+      "caption": "O Claude Code passou a bloquear por padrão a escrita fora do diretório de trabalho. A cadeia de confiança do MCP balançou com a segunda correção de segurança em uma semana, depois do comprometimento de chaves de autoridades certificadoras. E a skill virou produto: carrossel de marca, biblioteca de animação e faxina do próprio ambiente, tudo empacotado.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-30",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-30",
+      "slides": [
+        {
+          "title": "Skills e MCP de 30 de outubro",
+          "body": "O Claude Code passou a bloquear por padrão a escrita fora do diretório de trabalho. A cadeia de confiança do MCP balançou com a segunda correção de segurança em uma semana, depois do comprometimento de chaves de autoridades certificadoras. E a skill virou produto: carrossel de marca, biblioteca de animação e faxina do próprio ambiente, tudo empacotado."
+        },
+        {
+          "title": "Escrita bloqueada fora do projeto",
+          "body": "A release v2.1.314 adiciona permissions.blockWritesOutsideWorkingDirectories: Write, Edit e NotebookEdit passam a recusar caminhos fora dos diretórios de trabalho, em todos os modos de permissão.",
+          "source": {
+            "label": "GitHub · release v2.1.314",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.314"
+          }
+        },
+        {
+          "title": "Certificados trocados após o caso eMudhra",
+          "body": "A release v2.2.0 dos reference servers troca o runtime Node e os certificados CA. A resposta veio depois do disclosure, no dia 20, de que chaves privadas de 8 autoridades certificadoras foram comprometidas.",
+          "source": {
+            "label": "GitHub · release v2.2.0",
+            "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.2.0"
+          }
+        },
+        {
+          "title": "OpenCode e Claude Code conversando",
+          "body": "Bridge MCP que conecta uma sessão do OpenCode a uma do Claude Code para os dois agentes trocarem contexto e tarefas diretamente.",
+          "source": "github.com/shivnathtathe/openbridge"
+        },
+        {
+          "title": "plugbear: um login para todos os agentes",
+          "body": "Gateway MCP que centraliza as conexões de serviços num ponto único: um login por serviço e aprovação antes de qualquer envio externo.",
+          "source": "github.com/mikecann/plugbear"
+        },
+        {
+          "title": "Carrosséis de marca direto do terminal",
+          "body": "Skill para Claude Code e Codex que produz carrosséis com a identidade visual da marca, do roteiro ao PNG em resolução dobrada pronto para postar.",
+          "source": "github.com/guilhermealvestech/carrossel-skill"
+        },
+        {
+          "title": "341 estilos de animação empacotados",
+          "body": "Skill com 341 estilos de animação de código, 193 frames de referência e um seletor offline, com renderização de HTML para vídeo.",
+          "source": "github.com/XiaoyeCodes/code-animation-prompts"
+        },
+        {
+          "title": "Faxina segura no ambiente Claude",
+          "body": "Skill de manutenção que audita em modo somente-leitura, confere backups e faz limpeza direcionada da instalação local, protegendo histórico de conversas e configurações.",
+          "source": "github.com/Pluviobyte/claude-ban-clean"
+        },
+        {
+          "title": "O ecossistema endurece por padrão",
+          "body": "Bloqueio de escrita ligado de fábrica, certificados trocados duas vezes em uma semana, camada de aprovação e gateway de credenciais: confiança deixou de ser configuração opcional. Em paralelo, a skill empacotada virou produto que se instala."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-30",
       "date": "2026-10-30",
       "hook": "Projetos IA de 30 de outubro",
