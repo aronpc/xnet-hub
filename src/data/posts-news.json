@@ -213,6 +213,95 @@
       ]
     },
     {
+      "id": "ia-2026-10-30",
+      "date": "2026-10-30",
+      "hook": "Panorama IA de 30 de outubro",
+      "caption": "O dinheiro da IA deu hoje seu passo mais forte para fora da tela: a Thrive Holdings, com a OpenAI no capital, comprou a ADT por 15,3 bilhões de dólares. No mesmo dia, a Anthropic virou o maior cliente único da SpaceX, a Reuters confirmou que DeepSeek e Moonshot destilaram o GPT-6 Astra, e o Reddit trancou a navegação anônima. A OpenAI ainda publicou, em sequência, um Model Spec novo e um método para detectar desalinhamento em modelos de fronteira.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-30",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-30",
+      "slides": [
+        {
+          "title": "Panorama IA de 30 de outubro",
+          "body": "O dinheiro da IA deu hoje seu passo mais forte para fora da tela: a Thrive Holdings, com a OpenAI no capital, comprou a ADT por 15,3 bilhões de dólares. No mesmo dia, a Anthropic virou o maior cliente único da SpaceX, a Reuters confirmou que DeepSeek e Moonshot destilaram o GPT-6 Astra, e o Reddit trancou a navegação anônima. A OpenAI ainda publicou, em sequência, um Model Spec novo e um método para detectar desalinhamento em modelos de fronteira."
+        },
+        {
+          "title": "A economia da OpenAI compra a ADT",
+          "body": "A Thrive Holdings, de Josh Kushner, vai comprar a ADT por 15,3 bilhões de dólares de valor de empresa: 10 dólares por ação em dinheiro, e a companhia deixa a bolsa. A ação saltou ao máximo de cinco anos. A OpenAI é acionista da Thrive desde dezembro.",
+          "source": {
+            "label": "TechCrunch · 29 out",
+            "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt"
+          }
+        },
+        {
+          "title": "Anthropic passa NASA e Pentágono na SpaceX",
+          "body": "A Anthropic é hoje a maior fonte única de receita da SpaceX, mostra a Bloomberg. O acordo de lançamento e computação orbital tem prazo definido, e mesmo assim supera o que a NASA e o Pentágono pagam à empresa.",
+          "source": {
+            "label": "Bloomberg · 29 out",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic"
+          }
+        },
+        {
+          "title": "DeepSeek e Moonshot treinaram com GPT-6 Astra",
+          "body": "A Reuters, citando The Information, apurou que DeepSeek e Moonshot usaram o GPT-6 Astra da OpenAI como professor no treino dos modelos mais recentes.",
+          "source": {
+            "label": "Reuters · 29 out",
+            "url": "https://www.reuters.com/technology/deepseek-moonshot-used-openais-gpt-6-astra-train-latest-models-information-2026-10-29/"
+          }
+        },
+        {
+          "title": "Model Spec atualizado para a era dos agentes",
+          "body": "A OpenAI publicou nova versão do Model Spec, o documento que define comportamento e trade-offs dos modelos, revisada para agentes mais capazes.",
+          "source": {
+            "label": "OpenAI · 29 out",
+            "url": "https://openai.com/index/updated-model-spec/"
+          }
+        },
+        {
+          "title": "Como a OpenAI detecta desalinhamento",
+          "body": "O post \"We detect frontier model misalignment\" detalha os pipelines internos que monitoram modelos de fronteira antes do release.",
+          "source": {
+            "label": "OpenAI · 29 out",
+            "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/"
+          }
+        },
+        {
+          "title": "Reddit exige login contra scraping de IA",
+          "body": "O Reddit anunciou o fim da navegação anônima no app e no site, e atrelou a mudança à busca e ao tráfego de crawlers de IA.",
+          "source": {
+            "label": "Axios · 29 out",
+            "url": "https://www.axios.com/2026/10/29/reddit-logged-in-ai-search-incognito"
+          }
+        },
+        {
+          "title": "China usou IA contra 200 organizações",
+          "body": "Relatório do CrowdStrike aponta uma campanha de grupo ligado à China que usou IA para atacar cerca de 200 organizações.",
+          "source": {
+            "label": "NBC News · 30 out",
+            "url": "https://www.nbcnews.com/tech/security/china-linked-hackers-used-ai-target-200-organizations-crowdstrike-says-rcna606343"
+          }
+        },
+        {
+          "title": "Agente pessoal dentro do Pentágono",
+          "body": "Uma contratante de defesa conectou o próprio agente de IA a um sistema seguro do Pentágono, revela a WIRED.",
+          "source": {
+            "label": "WIRED · 30 out",
+            "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
+          }
+        },
+        {
+          "title": "Anticorpo desenhado com Claude chega ao preprint",
+          "body": "A Divergence Labs publicou o preprint de um disruptor de IgE para alergia alimentar, com o desenho dos anticorpos feito com auxílio do Claude.",
+          "source": {
+            "label": "Divergence Labs · preprint",
+            "url": "https://divergencelabs.com/publications/ige-preprint.pdf"
+          }
+        },
+        {
+          "title": "A IA sai da tela, e a web revida",
+          "body": "O dinheiro da IA comprou uma empresa de alarmes, alugou órbita e financiou nuvens. No mesmo dia, o Reddit trancou a porta e um agente pessoal apareceu dentro do Pentágono. E a OpenAI fechou o dia publicando as regras de comportamento dos modelos e o método para monitorar desalinhamento."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-29",
       "date": "2026-10-29",
       "hook": "Skills e MCP de 29 de outubro",
