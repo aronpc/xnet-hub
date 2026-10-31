@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-30-21h31",
+      "date": "2026-10-30",
+      "time": "21h31",
+      "hook": "O bitcoin passou dos 77,2 mil no fim da noite e o dia virou ao positivo pela primeira vez. Só que a vela dessa subida negociou um terço do volume habitual: pouca gente pôs dinheiro nela. Preço a 77,3 mil dólares.",
+      "caption": "Primeira hora acima dos 77,2 mil, com volume num terço da média.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-30-21h31",
+      "link": "https://xbtc.aronpc.dev/#2026-10-30-21h31",
+      "slides": [
+        {
+          "title": "A subida que quase ninguém comprou",
+          "body": "Primeira hora acima dos 77,2 mil, com volume num terço da média."
+        },
+        {
+          "title": "US$ 77.286",
+          "body": "Δ1h +0,33% · Δ24h +0,51% · US$ 201,9 bi negociados em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Uma hora acima dos 77,2 mil sem compradores de verdade, com 74% das contas em compra (máximo do dia) · Smart money: funding +0,01% + L/S 2,84",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A prova está em 77,6 mil",
+          "body": "Suporte 76,6 mil (-0,9%) · Resistência 77,6 mil (+0,4%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-30-17h31",
       "date": "2026-10-30",
       "time": "17h31",
