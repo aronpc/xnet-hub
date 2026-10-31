@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-31-15h35",
+      "date": "2026-10-31",
+      "time": "15h35",
+      "hook": "Quatorze horas no mesmíssimo corredor de 77,2 a 77,7 mil, e a vela das 14h foi a primeira a fechar lá em cima. O detalhe: quase ninguém foi junto, o volume veio um terço abaixo do habitual. BTC a 77,6 mil dólares.",
+      "caption": "Primeiro fechamento de hora acima do topo do dia, com só 206 BTC negociados contra 312 de média. Alta por enquanto é intenção, não fato.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-31-15h35",
+      "link": "https://xbtc.aronpc.dev/#2026-10-31-15h35",
+      "slides": [
+        {
+          "title": "A saída do corredor veio sem convicção",
+          "body": "Primeiro fechamento de hora acima do topo do dia, com só 206 BTC negociados contra 312 de média. Alta por enquanto é intenção, não fato."
+        },
+        {
+          "title": "US$ 77.645",
+          "body": "Δ1h +0,17% · Δ24h +1,05% · US$ 67,6 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Primeira hora fechada acima do topo depois de 14 no mesmo lugar, com 72% das contas compradas e medo no termômetro (F&G 30) com preço em máxima de 24h · Funding +0,01% · L/S 2,6",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Convicção vem com volume",
+          "body": "Fechar a hora acima de 77,8 mil com volume de verdade abre 78,2 mil; perder 77,4 mil cancela a tentativa e manda o preço de volta ao piso de 77,2 mil · Suporte 77,4 mil (-0,3%) · Resistência 77,8 mil (+0,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-31-13h32",
       "date": "2026-10-31",
       "time": "13h32",
