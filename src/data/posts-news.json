@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-10-31",
+      "date": "2026-10-31",
+      "hook": "Skills e MCP de 31 de outubro",
+      "caption": "A semana foi de segurança no próprio ecossistema: uma build trojanizada da extensão do Claude Code circulou no marketplace do Cursor, e uma causa-raiz de RCE apareceu em 5 assistentes com browser embutido. No outro extremo, skill virou formato multi-harness, com biblioteca de efeitos pixel art e pacote de design rodando no DeepSeek.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-10-31",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-10-31",
+      "slides": [
+        {
+          "title": "Skills e MCP de 31 de outubro",
+          "body": "A semana foi de segurança no próprio ecossistema: uma build trojanizada da extensão do Claude Code circulou no marketplace do Cursor, e uma causa-raiz de RCE apareceu em 5 assistentes com browser embutido. No outro extremo, skill virou formato multi-harness, com biblioteca de efeitos pixel art e pacote de design rodando no DeepSeek."
+        },
+        {
+          "title": "Trojan no marketplace do Cursor",
+          "body": "Builds maliciosas da extensão oficial do Claude Code, versões 2.1.312 e 2.1.313, foram distribuídas no marketplace do Cursor por 11 horas, atingindo até 5 mil usuários. Coletavam hostname, usuário, SO e IP, e tentavam instalar uma chave SSH do atacante com túnel reverso persistente. Desinstalar a extensão não basta: há scripts de persistência soltos.",
+          "source": {
+            "label": "Phorion · 30 out",
+            "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+          }
+        },
+        {
+          "title": "Claude Code 2.1.314 e 2.1.316",
+          "body": "Logo após o incidente, o changelog oficial registrou as versões 2.1.314 e 2.1.316 no espaço de 48 horas.",
+          "source": {
+            "label": "code.claude.com/docs",
+            "url": "https://code.claude.com/docs/en/changelog"
+          }
+        },
+        {
+          "title": "RCE no browser embutido de 5 assistentes",
+          "body": "A Forever Security publicou o EMBRACE: o browser embutido de 5 assistentes desktop de IA é confiado como um browser real, o que permite executar código, forjar página de login e ler arquivos do disco. Codex e Cursor já liberaram patches, com velocidades e abordagens diferentes.",
+          "source": {
+            "label": "Forever Security via aitoolsrecap",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-october-30-2026"
+          }
+        },
+        {
+          "title": "O e-mail da conta vaza pelo prompt",
+          "body": "Discussão no Hacker News reporta que o Claude Code adiciona o e-mail da conta ao prompt de contexto, e o modelo acaba entregando esse e-mail a sites durante navegação e tarefas, sem intenção do usuário.",
+          "source": {
+            "label": "Hacker News · Tell HN",
+            "url": "https://news.ycombinator.com/item?id=50286306"
+          }
+        },
+        {
+          "title": "232 efeitos pixel art + skill geradora",
+          "body": "O pixelfx traz 232 efeitos de pixel art, cada um um pequeno pedaço de código, acompanhados de uma skill do Claude Code para criar efeitos próprios no mesmo formato.",
+          "source": {
+            "label": "github.com/patch-gg/pixelfx",
+            "url": "https://github.com/patch-gg/pixelfx"
+          }
+        },
+        {
+          "title": "Skills de design no DeepSeek",
+          "body": "Pacote de 4 skills para o harness DeepSeek: PPT web, cards de imagem-texto, diagramação web e remoção de flavor de IA, com biblioteca de trabalhos e perfis de tom de voz.",
+          "source": {
+            "label": "github.com/op7418/dsh-guizang-design",
+            "url": "https://github.com/op7418/dsh-guizang-design"
+          }
+        },
+        {
+          "title": "Agente-doc: de 100 linhas a MCP",
+          "body": "O NamiAgent é um tutorial que também roda: um agente local que começa como loop mínimo de 100 linhas e ganha uma capacidade por lição (arquivos, comandos, MCP, memória de longo prazo), com página web para observar cada passo.",
+          "source": {
+            "label": "github.com/aa1143/NamiAgent",
+            "url": "https://github.com/aa1143/NamiAgent"
+          }
+        },
+        {
+          "title": "O harness virou o alvo",
+          "body": "Um trojan no marketplace do Cursor e RCE em browsers embutidos na mesma semana: a superfície de ataque mudou do modelo para a ferramenta que o rodeia. Enquanto isso, skill se consolida como formato que atravessa harnesses."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-10-31",
       "date": "2026-10-31",
       "hook": "Projetos IA de 31 de outubro",
