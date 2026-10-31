@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-10-31",
+      "date": "2026-10-31",
+      "hook": "Projetos IA de 31 de outubro",
+      "caption": "Nasceu um mini-gênero esta semana: máquinas inteiras codificadas em pesos, com um Nintendo e o DOOM aparecendo em 48 horas. No mesmo ciclo, agentes invadiram firmware, voz local e a timeline de vídeo, e uma legião de pentest autônoma chegou open-source.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-31",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-31",
+      "slides": [
+        {
+          "title": "Projetos IA de 31 de outubro",
+          "body": "Nasceu um mini-gênero esta semana: máquinas inteiras codificadas em pesos, com um Nintendo e o DOOM aparecendo em 48 horas. No mesmo ciclo, agentes invadiram firmware, voz local e a timeline de vídeo, e uma legião de pentest autônoma chegou open-source."
+        },
+        {
+          "title": "Um Nintendo dentro de 1 GB de pesos",
+          "body": "O nesformer embute um NES inteiro em cerca de 1 GB de pesos Qwen: o modelo é o emulador, sem código de emulação tradicional. Pesos e demo estão abertos no repositório.",
+          "source": {
+            "label": "github.com/dbreunig/nesformer",
+            "url": "https://github.com/dbreunig/nesformer"
+          }
+        },
+        {
+          "title": "Legião de pentest com grafo de intenção",
+          "body": "O sapper-v2 roda pentest autônomo em enxame: um comandante de IA, workers coordenados e um grafo em camadas de fato e intenção. Ficou em 3º lugar num concurso de segurança da Tencent.",
+          "source": {
+            "label": "github.com/N1nEmAn/sapper-v2",
+            "url": "https://github.com/N1nEmAn/sapper-v2"
+          }
+        },
+        {
+          "title": "Estúdio de voz local com API OpenAI",
+          "body": "O VoiceStudioV2 junta voice changer em tempo real, TTS, clonagem de voz e dublagem rodando 100% local, com API compatível drop-in com a da OpenAI.",
+          "source": {
+            "label": "github.com/EntranceStarfish/VoiceStudioV2",
+            "url": "https://github.com/EntranceStarfish/VoiceStudioV2"
+          }
+        },
+        {
+          "title": "Device farm virtual para agentes",
+          "body": "A Simantic, do batch F26 da Y Combinator, simula firmware para agentes de IA operarem e testarem dispositivos sem o hardware físico.",
+          "source": {
+            "label": "Hacker News · Launch",
+            "url": "https://news.ycombinator.com/item?id=50291116"
+          }
+        },
+        {
+          "title": "Cursor para edição de vídeo",
+          "body": "O Arsaze aplica a UX de code-assist à timeline: tab-complete e edições por agente direto no editor de vídeo.",
+          "source": {
+            "label": "arsaze.com",
+            "url": "https://www.arsaze.com"
+          }
+        },
+        {
+          "title": "Segundo cérebro que cabe no bolso",
+          "body": "O etiny destila 28 mil conselhos de livros essenciais em modelos minúsculos que rodam offline para consulta pessoal constante.",
+          "source": {
+            "label": "github.com/shanedevane/etiny",
+            "url": "https://github.com/shanedevane/etiny"
+          }
+        },
+        {
+          "title": "A máquina inteira virou peso",
+          "body": "Em 48 horas, um Nintendo e o DOOM apareceram codificados em pesos: world model em pesos deixou de ser curiosidade e virou mini-gênero. No mesmo ciclo, agentes ganharam firmware virtual, estúdio de voz local e edição de vídeo assistida."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-31",
       "date": "2026-10-31",
       "hook": "Panorama IA de 31 de outubro",
