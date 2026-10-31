@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-10-30-22h32",
+      "date": "2026-10-30",
+      "time": "22h32",
+      "hook": "Há uma hora a saída dos 77,2 mil estava no improviso, com volume num terço do habitual. A vela seguinte respondeu: fechou no topo da região negociando o dobro disso, e os contratos abertos voltaram a crescer junto com o preço. Dinheiro novo numa alta, pela primeira vez em dias. BTC a 77,4 mil dólares.",
+      "caption": "A vela das 21h fechou no alto da faixa rompida com o volume que faltava na anterior, e contratos abertos subindo junto do preço.\n\nLeia: https://xbtc.aronpc.dev/#2026-10-30-22h32",
+      "link": "https://xbtc.aronpc.dev/#2026-10-30-22h32",
+      "slides": [
+        {
+          "title": "A subida que ganhou compradores",
+          "body": "A vela das 21h fechou no alto da faixa rompida com o volume que faltava na anterior, e contratos abertos subindo junto do preço."
+        },
+        {
+          "title": "US$ 77.423",
+          "body": "Δ1h +0,18% · Δ24h +0,76% · US$ 202,3 bi negociados em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Saída dos 77,2 mil confirmada com volume e contratos abertos subindo juntos · Smart money: funding +0,01% + L/S 2,84",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "O reteste dos 77,2 mil define a hora",
+          "body": "Manter a região acima dos 77,2 mil preserva a estrutura de alta; fechar a hora acima de 77,4 mil reaproxima os 77,6 mil · Suporte 77,2 mil (-0,3%) · Resistência 77,6 mil (+0,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-10-30-21h31",
       "date": "2026-10-30",
       "time": "21h31",
