@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-10-31",
+      "date": "2026-10-31",
+      "hook": "Panorama IA de 31 de outubro",
+      "caption": "A Mistral abriu os pesos de um modelo de 1 trilhão de parâmetros. No mesmo ciclo, a OpenAI recuou no próprio valuation e dobrou os limites do Pro, a Anthropic renomeou o topo dos planos dias antes de um IPO com rating junk, e quatro laboratórios acertaram um token único de robots.txt para opt-out de treino.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-10-31",
+      "link": "https://xnews.aronpc.dev/#ia-2026-10-31",
+      "slides": [
+        {
+          "title": "Panorama IA de 31 de outubro",
+          "body": "A Mistral abriu os pesos de um modelo de 1 trilhão de parâmetros. No mesmo ciclo, a OpenAI recuou no próprio valuation e dobrou os limites do Pro, a Anthropic renomeou o topo dos planos dias antes de um IPO com rating junk, e quatro laboratórios acertaram um token único de robots.txt para opt-out de treino."
+        },
+        {
+          "title": "Mistral abre 1 trilhão de parâmetros",
+          "body": "A Mistral liberou os pesos do Large 4, apelidado de Le Chonk: cerca de 1 trilhão de parâmetros em MoE, treinado em 3.800 GPUs Grace Blackwell em datacenters europeus. Marca 48% no Coding Agent Index da Artificial Analysis, empatando com o líder open-weight GLM-5.3, e 96,6% de recusa a pedidos cibernéticos maliciosos.",
+          "source": {
+            "label": "mistral.ai",
+            "url": "https://mistral.ai/news/mistral-large-4-oss"
+          }
+        },
+        {
+          "title": "OpenAI recua para 1,25 trilhão",
+          "body": "Segundo o Financial Times, a OpenAI reduziu a captação visada e o valuation implícito desceu de 1,4 para 1,25 trilhão de dólares, com investidores dos Emirados e a Coatue na frente da rodada. Em março, a empresa havia sido avaliada em 852 bilhões.",
+          "source": {
+            "label": "FT via aitoolsrecap · 31 out",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-october-31-2026"
+          }
+        },
+        {
+          "title": "Ultra de 200 dólares sem limite de 5 horas",
+          "body": "A Anthropic renomeou os planos: Max 20x virou Ultra, de 200 dólares por mês, e Max 5x virou Max, de 100. A mudança de fundo é outra: contas Ultra verificadas deixam de ter o limite de 5 horas. A verificação é automática, por histórico de conta e pagamento, e os limites semanais continuam valendo.",
+          "source": {
+            "label": "claude.com/pricing",
+            "url": "https://claude.com/pricing"
+          }
+        },
+        {
+          "title": "Anthropic vai ao IPO com rating junk",
+          "body": "Agências de crédito darão à Anthropic rating de grau especulativo, o junk alto, após o IPO, reporta o TechCrunch. A faixa de precificação esperada caiu de 2 para cerca de 1,5 trilhão de dólares. O S-1 já mostrava margem bruta de 85%.",
+          "source": {
+            "label": "TechCrunch · 30 out",
+            "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+          }
+        },
+        {
+          "title": "OpenAI dobra os limites do Pro",
+          "body": "Todos os limites de uso dos tiers Pro de 100, 200 e 500 dólares por mês dobraram. O anúncio veio da própria engenharia da OpenAI, no dia 29.",
+          "source": {
+            "label": "Louis Knight · X",
+            "url": "https://twitter.com/thsottiaux/status/2115850175868727621"
+          }
+        },
+        {
+          "title": "222 técnicas de prompt injection",
+          "body": "A taxonomia da CrowdStrike chegou a 222 técnicas, com 4 classes novas voltadas para agentes. O crescimento veio todo dos ataques contra agentes que agem, e não contra modelos que só respondem.",
+          "source": {
+            "label": "CrowdStrike via aitoolsrecap",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-october-31-2026"
+          }
+        },
+        {
+          "title": "Enxames de agentes em Minecraft",
+          "body": "O YC Labs publicou experimentos de coordenação emergente com enxames de agentes em Minecraft e Mindustry, estudando como multi-agentes se organizam sem comando central.",
+          "source": {
+            "label": "labs.ycombinator.com",
+            "url": "https://labs.ycombinator.com/projects/games/index.html"
+          }
+        },
+        {
+          "title": "Peso aberto sobe, o dinheiro esfria",
+          "body": "A Mistral empurrou a fronteira open-weight com 1 trilhão de parâmetros no mesmo ciclo em que a OpenAI recuou de valuation e o IPO da Anthropic virou junk. Nos planos, a guerra de limites dobrou de ambos os lados. E a segurança de agentes ganhou um mapa com 222 técnicas."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-29",
       "date": "2026-10-29",
       "hook": "Skills e MCP de 29 de outubro",
