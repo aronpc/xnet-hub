@@ -213,6 +213,58 @@
       ]
     },
     {
+      "id": "projetos-2026-10-30",
+      "date": "2026-10-30",
+      "hook": "Projetos IA de 30 de outubro",
+      "caption": "O dia em que o \"computador por agente\" virou categoria open-source: o OpenBot passou de 8 mil estrelas dando a cada coworker de IA uma máquina própria. Ao redor dele apareceu uma camada de controle nova, com roteador de tarefas, escritório 3D para monitorar agentes e aprovação humana vendida como serviço.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-10-30",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-10-30",
+      "slides": [
+        {
+          "title": "Projetos IA de 30 de outubro",
+          "body": "O dia em que o \"computador por agente\" virou categoria open-source: o OpenBot passou de 8 mil estrelas dando a cada coworker de IA uma máquina própria. Ao redor dele apareceu uma camada de controle nova, com roteador de tarefas, escritório 3D para monitorar agentes e aprovação humana vendida como serviço."
+        },
+        {
+          "title": "OpenBot: um computador para cada agente",
+          "body": "O projeto do CopilotKit dá a cada coworker de IA um computador próprio, com navegador, arquivos e ferramentas. Toda ação é decidida antes de executar e registrada depois. Aceita qualquer agente que fale AG-UI.",
+          "source": "github.com/CopilotKit/OpenBot"
+        },
+        {
+          "title": "cedr: roteia a tarefa e faz o merge",
+          "body": "Ferramenta para dev e agente: encaminha cada tarefa ao agente de código certo e mescla as saídas de vários agentes num resultado único.",
+          "source": "github.com/Sheernox/cedr"
+        },
+        {
+          "title": "Seus agentes em um escritório 3D",
+          "body": "Escritório low-poly que mostra ao vivo o status dos agentes de código da máquina. Agente ocioso sai de fininho da sala.",
+          "source": "github.com/jefferysha0627/agent-office-3d"
+        },
+        {
+          "title": "Nouli: decisões em grafo, não em prompt",
+          "body": "Harness multi-turno estruturado como grafo de decisão, feito para modelos de raciocínio rápido.",
+          "source": "github.com/standing-desks/nouli"
+        },
+        {
+          "title": "Overtone: legendas para qualquer tela",
+          "body": "Pipeline local e aberto que transcreve, corrige e recorta legendas para qualquer proporção de tela.",
+          "source": "github.com/lonthq/overtone-captions"
+        },
+        {
+          "title": "hotrepo.ai: trending com saída MCP",
+          "body": "Serviço que acompanha o GitHub trending, gera análises automáticas em dois idiomas e expõe os dados via MCP.",
+          "source": "hotrepo.ai"
+        },
+        {
+          "title": "StrictLLM: humano no loop, como serviço",
+          "body": "Camada de aprovação plugável para fluxos de LLM, para os casos em que regulamento ou risco exige decisão de pessoa.",
+          "source": "strictllm.com"
+        },
+        {
+          "title": "A camada entre você e seus agentes",
+          "body": "Computador próprio por agente, roteamento de tarefa, painel de monitoramento, grafo de decisão e aprovação humana: a pilha de agentes ganhou nesta semana as peças de controle que faltavam. E quase tudo é open-source."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-10-30",
       "date": "2026-10-30",
       "hook": "Panorama IA de 30 de outubro",
