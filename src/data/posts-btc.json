@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-01-10h31",
+      "date": "2026-11-01",
+      "time": "10h31",
+      "hook": "O domingo testou as duas pontas do canal e nenhuma cedeu: o topo de 78,1 mil segurou de manhã, a queda que veio depois parou na mínima de 24h, 77,4 mil, e uma hora mais tarde o preço já estava de volta a 77,9 mil.",
+      "caption": "A queda das 9h encostou em 77,4 mil e não passou; a hora fechou acima de 77,9 mil, com volume abaixo do ritmo da manhã.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-01-10h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-01-10h31",
+      "slides": [
+        {
+          "title": "Nenhuma ponta cedeu",
+          "body": "A queda das 9h encostou em 77,4 mil e não passou; a hora fechou acima de 77,9 mil, com volume abaixo do ritmo da manhã."
+        },
+        {
+          "title": "US$ 77.885",
+          "body": "Δ1h +0,20% · Δ24h +0,63% · US$ 50,7 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Passagem pela mínima de 24h rejeitada, preço de volta entre 77,7 e 78,1 mil · Funding +0,01% · 70% das contas ainda compradas (L/S 2,32)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Entre 77,7 e 78,1 mil",
+          "body": "Acima de 78,1 mil a máxima de 24h, 78,3 mil, entra em cena; abaixo de 77,7 mil a mínima de 77,4 mil volta à mesa · Baixo $77,4k (-0,6%) · Cima $78,3k (+0,5%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-01-09h31",
       "date": "2026-11-01",
       "time": "09h31",
