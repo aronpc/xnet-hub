@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-01-19h32",
+      "date": "2026-11-01",
+      "time": "19h32",
+      "hook": "A primeira queda do dia com volume de verdade: a vela das 19h está rodando a ~25 milhões por hora contra 20,2 de média, e o preço encostou na borda inferior do canal, a 0,1% da mínima de 24h.",
+      "caption": "Terceira queda seguida (78,2 → 77,9 → 77,6 mil), a primeira com ritmo acima da média do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-01-19h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-01-19h32",
+      "slides": [
+        {
+          "title": "A queda finalmente tem volume",
+          "body": "Terceira queda seguida (78,2 → 77,9 → 77,6 mil), a primeira com ritmo acima da média do dia."
+        },
+        {
+          "title": "US$ 77.619",
+          "body": "Δ1h -0,25% · Δ24h +0,10% · US$ 65,7 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Venda acima do ritmo médio pela 1ª vez hoje e OI caindo (96,0k → 95,7k BTC) · Funding +0,01% · 69,5% das contas compradas (L/S 2,27)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Entre 77,5 e 78,0 mil",
+          "body": "Mínima de 24h $77,5k a -0,1% · teto do dia $78,0k a +0,5%, com o topo de 24h $78,3k logo acima (+0,9%) · referência seguinte: $77,2k (-0,5%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-01-10h31",
       "date": "2026-11-01",
       "time": "10h31",
