@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-01",
+      "date": "2026-11-01",
+      "hook": "Projetos e repos de 1º de novembro",
+      "caption": "Um enxame de 5 modelos pequenos com a memória certa bateu o Fable 5 em coding. Um agente cyberpunk que opera seu PC somou 516 estrelas em um dia. Agentes constroem mundos no Roblox e no Minecraft, e a memória de agentes ganhou esquecimento seletivo.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-01",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-01",
+      "slides": [
+        {
+          "title": "Projetos e repos de 1º de novembro",
+          "body": "Um enxame de 5 modelos pequenos com a memória certa bateu o Fable 5 em coding. Um agente cyberpunk que opera seu PC somou 516 estrelas em um dia. Agentes constroem mundos no Roblox e no Minecraft, e a memória de agentes ganhou esquecimento seletivo."
+        },
+        {
+          "title": "5 Qwen3.8-27B em equipe batem o Fable 5",
+          "body": "Um time de 5 modelos Qwen3.8-27B orquestrados via memdoor superou o Fable 5 no LiveCodeBench Hard. O repo traz o workflow completo do team-solve.",
+          "source": "github.com/guregodevo/memdoor"
+        },
+        {
+          "title": "Capri-AI: agente cyberpunk no seu PC",
+          "body": "Agente open-source com estética cyberpunk que trabalha com seus arquivos, projetos e código direto no terminal e no desktop.",
+          "source": "github.com/boardshogunfluctuate/Capri-AI"
+        },
+        {
+          "title": "Agentes constroem mundos em Roblox e Minecraft",
+          "body": "Três repos no mesmo dia: roblox-ai-studio-agent monta places no Studio, roblox-ai-place-diff exige aprovação via diff com Ctrl+Z, e o ai-minecraft-modmaker constrói mods com ghost preview.",
+          "source": "github.com/FigureSultanLast/roblox-ai-studio-agent"
+        },
+        {
+          "title": "persona-ai-sdk: personagens com memória durável",
+          "body": "SDK com personas prontas, memória de caráter persistente e adapters Bedrock/OpenAI num pacote só.",
+          "source": "github.com/tavern-labs-ai/persona-ai-sdk"
+        },
+        {
+          "title": "bootgpt: language model num setor de boot",
+          "body": "Um LM rodando inteiro dentro do setor de boot da máquina, sem sistema operacional e sem runtime.",
+          "source": "github.com/kerlenton/bootgpt"
+        },
+        {
+          "title": "FlashAlign: alinhamento por request",
+          "body": "Troca o comportamento do modelo instantaneamente e sob demanda: por request, por usuário, por canal verificado, ou Always On.",
+          "source": "github.com/Aevonix/FlashAlign"
+        },
+        {
+          "title": "graphmemory: memória que esquece",
+          "body": "Sistema de memória com decaimento de seis variáveis, recall graduado no tempo, TTL, dedupe e recuperação competitiva.",
+          "source": "github.com/gh9ko8y/graphmemory"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A fronteira desceu pra orquestração e pra memória. Enxame de modelos pequenos com a memória certa compete com frontier. Personalidade virou pacote, alinhamento virou configuração por chamada e esquecimento virou feature. O que era propriedade fixa do modelo agora é camada que dá pra escolher."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-01",
       "date": "2026-11-01",
       "hook": "Panorama IA de 1º de novembro",
