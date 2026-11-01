@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-01-09h31",
+      "date": "2026-11-01",
+      "time": "09h31",
+      "hook": "Catorze horas de pouquíssima variação e a manhã escolheu um lado: o preço deixou a região dos 78 mil na hora mais negociada do dia e voltou a 77,7 mil, praticamente o ponto de partida da madrugada. É a primeira definição de direção em todo o domingo.",
+      "caption": "A perda dos 77,9 mil veio às 9h com o dobro do volume da média da manhã, a primeira quebra de nível do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-01-09h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-01-09h31",
+      "slides": [
+        {
+          "title": "A espera terminou pra baixo",
+          "body": "A perda dos 77,9 mil veio às 9h com o dobro do volume da média da manhã, a primeira quebra de nível do dia."
+        },
+        {
+          "title": "US$ 77.730",
+          "body": "Δ1h -0,24% · Δ24h +0,33% · US$ 51,3 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Perdeu 77,9 mil após catorze horas de compressão; voltar ali devolve o jogo à zona de 77,9 a 78,1 mil · Funding +0,01% · 70% das contas ainda na compra (L/S 2,35)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Dois números decidem a hora",
+          "body": "Voltar a 77,9 mil desfaz a queda e devolve a zona antiga; deixar 77,4 mil (mínima do dia) para trás estica o caminho até 77,0 e 76,8 mil · Baixo 77,4 mil (-0,4%) · Cima 77,9 mil (+0,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-01-06h31",
       "date": "2026-11-01",
       "time": "06h31",
