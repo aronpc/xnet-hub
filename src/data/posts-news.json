@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-01",
+      "date": "2026-11-01",
+      "hook": "Panorama IA de 1º de novembro",
+      "caption": "O mercado cobrou a conta da IA em preço de ação: a Alphabet perdeu US$ 500 bilhões num pregão, a OpenAI fechou menos da metade da rodada e o dividendo das big techs roça o menor nível em 15 anos. No plano técnico, a Anthropic passou a bloquear clonagem de jogos, a marca d'água do AI Act chegou a 4 modelos Claude e os quatro maiores labs adotaram um token único de robots.txt.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-01",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-01",
+      "slides": [
+        {
+          "title": "Panorama IA de 1º de novembro",
+          "body": "O mercado cobrou a conta da IA em preço de ação: a Alphabet perdeu US$ 500 bilhões num pregão, a OpenAI fechou menos da metade da rodada e o dividendo das big techs roça o menor nível em 15 anos. No plano técnico, a Anthropic passou a bloquear clonagem de jogos, a marca d'água do AI Act chegou a 4 modelos Claude e os quatro maiores labs adotaram um token único de robots.txt."
+        },
+        {
+          "title": "Alphabet perde US$ 500 bi num dia",
+          "body": "As ações da Alphabet caíram 12,3% depois de um resultado com fluxo de caixa negativo, puxado pelos gastos de IA. Foi a maior perda de valor num único dia da história: US$ 500 bilhões. O Nasdaq caiu 1,4%.",
+          "source": {
+            "label": "Financial Times",
+            "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d"
+          }
+        },
+        {
+          "title": "US$ 3 tri comprometidos, dividendo no mínimo de 15 anos",
+          "body": "A Bloomberg contabiliza mais de US$ 3 trilhões em compromissos de IA entre 5 gigantes: Alphabet com US$ 1 trilhão, Meta com US$ 800 bilhões. Segundo a Reuters, Microsoft, Alphabet, Amazon, Meta e Oracle devolveram só 9,3% do caixa aos acionistas no ano, o menor nível em 15 anos.",
+          "source": {
+            "label": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-holds-3-trillion-in-spending-commitments-for-ai-boom"
+          }
+        },
+        {
+          "title": "ChatGPT e Codex dividem a mesma cota",
+          "body": "A partir de dezembro, ChatGPT e Codex compartilham uma única cota de uso baseada em tokens nos planos Plus, Pro e Business. O chat Instant fica fora.",
+          "source": {
+            "label": "help.openai.com",
+            "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits"
+          }
+        },
+        {
+          "title": "Claude passa a recusar clonagem de jogos",
+          "body": "Usuários reportam que o Claude agora bloqueia recriar versões de jogos e até tarefas genéricas de engenharia reversa. A mudança teve cobertura de Tom's Hardware, Mashable e Game Developer.",
+          "source": {
+            "label": "Tom's Hardware",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked"
+          }
+        },
+        {
+          "title": "Watermark chega a 4 modelos Claude",
+          "body": "A marca d'água de texto avança para 4 modelos Claude para cumprir o prazo da EU AI Act em dezembro. Em Opus 4.6 e Sonnet 4.6, desenvolvedores conseguem desligar o recurso.",
+          "source": {
+            "label": "The Decoder (via llm-stats)",
+            "url": "https://llm-stats.com/ai-news"
+          }
+        },
+        {
+          "title": "Token único de robots.txt pro opt-out de treino",
+          "body": "OpenAI, Google, Microsoft e Anthropic vão respeitar um único padrão: editores usam o token __usage_ai-training pra bloquear scraping e treino de todos os crawlers de IA de uma vez.",
+          "source": {
+            "label": "The Verge",
+            "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+          }
+        },
+        {
+          "title": "GPT-5.6 Sol zera o Factorio",
+          "body": "Uma avaliação publicada mostra o GPT-5.6 Sol completando o Factorio no modo pacífico: fábricas, logística e árvore de pesquisa planejadas pelo agente.",
+          "source": {
+            "label": "ryanmadden.net",
+            "url": "https://ryanmadden.net/gpt-56-beats-factorio/"
+          }
+        },
+        {
+          "title": "DoorDash: \"algumas centenas\" de pedidos de agentes",
+          "body": "A DoorDash disse ter recebido apenas algumas centenas de pedidos vindos de agentes de IA, diante das projeções do agentic commerce. No mesmo dia, o CEO da Amazon chamou os shopping agents de \"still not great\".",
+          "source": {
+            "label": "TechCrunch",
+            "url": "https://techcrunch.com/2026-10-30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O custo da IA saiu do balanço e entrou no preço da ação: US$ 3 trilhões comprometidos, rodadas menores, rating rebaixado. Do lado do produto, guardrails e compliance passam a definir o que o agente pode fazer e ler. E a régua de adoção seguiu cética: o agente zera o Factorio, mas quase não faz pedidos no DoorDash."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-10-31",
       "date": "2026-10-31",
       "hook": "Skills e MCP de 31 de outubro",
