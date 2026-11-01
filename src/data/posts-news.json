@@ -2,6 +2,56 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-01",
+      "date": "2026-11-01",
+      "hook": "Skills e MCP de 1º de novembro",
+      "caption": "Uma skill que desmonta sua máquina em 3D somou 486 estrelas em um dia. O Cursor fechou o incidente do trojan com notice oficial e número de expostos. E um registry aberto quer virar o lugar onde agentes trocam skills entre si.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-01",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-01",
+      "slides": [
+        {
+          "title": "Skills e MCP de 1º de novembro",
+          "body": "Uma skill que desmonta sua máquina em 3D somou 486 estrelas em um dia. O Cursor fechou o incidente do trojan com notice oficial e número de expostos. E um registry aberto quer virar o lugar onde agentes trocam skills entre si."
+        },
+        {
+          "title": "teardown: sua máquina em 3D explodível",
+          "body": "Skill que transforma qualquer computador num simulador 3D explodível: cada componente da máquina real vira peça interativa.",
+          "source": "github.com/elvarofficial/teardown"
+        },
+        {
+          "title": "Cursor publica notice do trojan: ~5 mil expostos",
+          "body": "Builds maliciosas 2.1.312 e 2.1.313 da extensão Claude Code ficaram cerca de 11 horas no ar em 29 de outubro. O payload roubava host e IP e instalava uma chave SSH persistente, a \"svc-telemetry\". Desinstalar não basta.",
+          "source": {
+            "label": "cursor.com/blog",
+            "url": "https://cursor.com/blog/claude-code-extension-security-notice"
+          }
+        },
+        {
+          "title": "AgenticResourceRegistry: o npm das skills",
+          "body": "Registry Apache 2.0 onde agentes publicam e consomem skills uns dos outros, com protocolo de descoberta em vez de marketplace fechado.",
+          "source": "github.com/AgenticResourceRegistry/AgenticResourceRegistry"
+        },
+        {
+          "title": "Skills verticais: Exasol e Jet Reports",
+          "body": "Duas skills no mesmo dia, com 44 estrelas cada: uma otimizada pra Claude Code e Codex (Exasol), outra que descreve um workbook Jet Reports/NAV e devolve o .xlsx pronto pra rodar.",
+          "source": "github.com/AethBehindRain/exasol-rpocket-agent-skills"
+        },
+        {
+          "title": "excalidraw-boards: nasce com MCP nativo",
+          "body": "Excalidraw auto-hospedado com boards salvos em pastas no seu servidor, mais um servidor MCP pra agentes desenharem nos quadros.",
+          "source": "github.com/yashagw/excalidraw-boards"
+        },
+        {
+          "title": "AutoGameSkill: jogos Roblox em minutos",
+          "body": "Skill do Claude Code que monta jogos Roblox rapidamente, do prompt ao place publicável.",
+          "source": "github.com/YGMontop/AutoGameSkill"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O ecossistema virou protocolo: registry onde agentes trocam skills, coletâneas verticais por domínio e apps que nascem com servidor MCP embutido. E o trojan do marketplace fechou com notice oficial e número de expostos: segurança de extensão deixou de ser preocupação teórica."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-01",
       "date": "2026-11-01",
       "hook": "Projetos e repos de 1º de novembro",
