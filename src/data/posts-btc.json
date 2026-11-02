@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-02-18h31",
+      "date": "2026-11-02",
+      "time": "18h31",
+      "hook": "BTC em US$ 76.675 · o 76,8 mil aguentou a tarde e cedeu no fim dela. A cotação agora negocia em cima do 76,7 mil, a última marca cheia antes de um trecho sem referências até 76,5 mil. Enquanto o preço desce, as apostas na alta seguem subindo: 2,45 para cada 1 na baixa, o maior desequilíbrio do dia. O volume não ficou atrás, 25 bilhões em 24h, recorde da segunda.",
+      "caption": "Das marcas do dia, resta o 76,7 mil na régua; abaixo dele, o trecho até 76,5 mil vem sem números cheios.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-02-18h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-02-18h31",
+      "slides": [
+        {
+          "title": "Uma referência só",
+          "body": "Das marcas do dia, resta o 76,7 mil na régua; abaixo dele, o trecho até 76,5 mil vem sem números cheios."
+        },
+        {
+          "title": "US$ 76.675",
+          "body": "Δ1h −0,32% · Δ24h −1,50% · US$ 25,0 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Descida contínua desde os 78,6 mil da meia-noite, com o preço encostado na linha de baixo da faixa de 76,7 a 78,9 mil · Contratos em aberto em 98,8 mil BTC, o maior do dia · Funding +0,010%, com 2,45 contas na alta para cada uma na baixa",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "76,7 mil divide os caminhos",
+          "body": "Uma volta acima de 78,9 mil (+2,9%) troca o desenho do dia, com 79,0 mil de topo logo adiante · Abaixo de 76,7 mil, o próximo número é 76,5 mil (−0,2%), num trecho sem marcas no meio",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-02-15h34",
       "date": "2026-11-02",
       "time": "15h34",
