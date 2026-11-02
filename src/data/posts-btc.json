@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-02-00h39",
+      "date": "2026-11-02",
+      "time": "00h39",
+      "hook": "BTC em alta em US$ 78.631 · ontem os 78,5 mil barraram o preço duas vezes; a primeira hora de hoje fechou acima deles, em $78.706, o quarto fechamento seguido mais alto que o anterior.",
+      "caption": "A escada dos últimos fechamentos de hora: 78,1, 78,4, 78,5 e agora 78,7 mil, sempre um degrau acima.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-02-00h39",
+      "link": "https://xbtc.aronpc.dev/#2026-11-02-00h39",
+      "slides": [
+        {
+          "title": "78,5 mil deixou de ser teto",
+          "body": "A escada dos últimos fechamentos de hora: 78,1, 78,4, 78,5 e agora 78,7 mil, sempre um degrau acima."
+        },
+        {
+          "title": "US$ 78.631",
+          "body": "Δ1h +0,25% · Δ24h +1,21% · US$ 84,6 bi negociados em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fechamentos de hora cada vez mais altos desde os 78,1 mil, com o preço colado no maior valor do dia · Funding +0,01% · 69% das contas na compra (L/S 2,22)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O próximo número é 78.775",
+          "body": "Suporte $78.354 (-0,4%) · Resistência $78.775 (+0,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-01-22h34",
       "date": "2026-11-01",
       "time": "22h34",
