@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-02-10h32",
+      "date": "2026-11-02",
+      "time": "10h32",
+      "hook": "BTC em US$ 77.600 · quinta hora seguida de queda desde as 05h, e o preço encostou no mínimo de 24h, 77,6 mil, pela terceira vez na manhã. As posições em aberto crescem enquanto o preço cede: entrada nova na direção da queda, testando a mesma faixa. Na semana, o primeiro dado de ETF de novembro e a eleição intermediária dos EUA na terça.",
+      "caption": "O mínimo de 24h aguenta a manhã inteira; posições em aberto crescem com o preço cedendo.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-02-10h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-02-10h32",
+      "slides": [
+        {
+          "title": "Terceira visita a 77,6 mil",
+          "body": "O mínimo de 24h aguenta a manhã inteira; posições em aberto crescem com o preço cedendo."
+        },
+        {
+          "title": "US$ 77.600",
+          "body": "Δ1h −0,42% · Δ24h −0,42% · US$ 17,6 bi negociados em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Quinta hora seguida de queda, preço colado no mínimo de 24h e posições em aberto subindo de 95,7 mil para 96,2 mil BTC · Funding +0,0099%, contas na compra na razão de 2 para 1",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A hora decide em 77,6 mil",
+          "body": "Fecho abaixo abre espaço até 76,5 mil (−1,4%) · Segurar a faixa e retomar 78,1 mil (+0,65%) devolve 78,3 e 78,9 mil ao radar",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-02-02h32",
       "date": "2026-11-02",
       "time": "02h32",
