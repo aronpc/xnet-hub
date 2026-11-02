@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-02-15h34",
+      "date": "2026-11-02",
+      "time": "15h34",
+      "hook": "BTC em US$ 76.872 · a segunda inteira foi de escada: 78,6 mil à meia-noite, 77,7 mil no almoço, e agora a cotação encostou na borda de baixo do canal de 24h, 76,8 mil. Enquanto o preço desce, cresce o número de contas na alta, 2,3 para 1, e o volume negociado em 24h, 22,8 bilhões, é o maior do dia.",
+      "caption": "O preço desceu a tarde toda e parou a 0,1% do limite de baixo do canal de 24h, 76,8 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-02-15h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-02-15h34",
+      "slides": [
+        {
+          "title": "Da meia-noite até a beirada",
+          "body": "O preço desceu a tarde toda e parou a 0,1% do limite de baixo do canal de 24h, 76,8 mil."
+        },
+        {
+          "title": "US$ 76.872",
+          "body": "Δ1h −0,16% · Δ24h −1,31% · US$ 22,8 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço colado no limite de baixo do trecho de 76,8 a 78,9 mil · posições em aberto no maior patamar do dia, 98,4 mil BTC · Funding +0,010%, com 2,32 contas na alta para cada uma na baixa, o maior desequilíbrio do dia",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "76,8 mil: segurar ou ceder",
+          "body": "A borda de baixo está a 0,1% do preço; abaixo dela, 76,5 mil (−0,5%) · Uma virada para cima encontra 78,9 mil (+2,6%) e depois o topo de 24h, 79,0 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-02-14h35",
       "date": "2026-11-02",
       "time": "14h35",
