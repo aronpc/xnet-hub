@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-02-02h32",
+      "date": "2026-11-02",
+      "time": "02h32",
+      "hook": "BTC em queda em US$ 78.301 · a travessia dos 78,5 mil do fim de domingo ficou para trás: três fechamentos de hora em recuo, de 78,6 para 78,3 mil, e o preço de volta ao meio do intervalo de 24h, entre 77,6 e 78,9 mil.",
+      "caption": "Recuo em ritmo brando: quem estava comprado vem saindo aos poucos, sem pressa para a saída.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-02-02h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-02-02h32",
+      "slides": [
+        {
+          "title": "78,5 mil trancaram de novo",
+          "body": "Recuo em ritmo brando: quem estava comprado vem saindo aos poucos, sem pressa para a saída."
+        },
+        {
+          "title": "US$ 78.301",
+          "body": "Δ1h -0,39% · Δ24h +0,70% · US$ 78,5 bi negociados em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Três fechamentos de hora em recuo desde 78,6 mil · a fatia de contas na compra encolhe pela 5ª hora seguida, até 67,6% · Funding +0,0066%, neutro",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Chão do dia em 78,0 mil",
+          "body": "Suporte $78.044 (-0,3%), banda de 78,0 a 78,1 mil · Resistência $78.500 (+0,25%), topo $78.878 (+0,74%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-02-00h39",
       "date": "2026-11-02",
       "time": "00h39",
