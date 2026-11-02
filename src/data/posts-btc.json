@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-02-11h32",
+      "date": "2026-11-02",
+      "time": "11h32",
+      "hook": "BTC em US$ 77,7 mil · a queda que se arrastava desde as 05h parou. A terceira tentativa de derrubar 77,6 mil veio com o maior volume da manhã e não passou; o repique em seguida foi tímido e o preço terminou entre 77,6 e 78,1 mil. Na terça, o primeiro dado de ETF de novembro e a eleição intermediária dos EUA.",
+      "caption": "Três tentativas na manhã, nenhuma passou. O volume da defesa foi o maior do dia até aqui, mas a recuperação logo depois esfriou.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-02-11h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-02-11h32",
+      "slides": [
+        {
+          "title": "77,6 mil não cedeu",
+          "body": "Três tentativas na manhã, nenhuma passou. O volume da defesa foi o maior do dia até aqui, mas a recuperação logo depois esfriou."
+        },
+        {
+          "title": "US$ 77.725",
+          "body": "Δ1h +0,16% · Δ24h −0,29% · US$ 18,4 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço no meio do trecho de 77,6 a 78,1 mil depois da defesa com volume · Posições em aberto pararam de crescer em 96,2 mil BTC · Funding +0,01%, contas na compra na razão de 2,16 para 1",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "78,1 ou 77,6: o primeiro a ceder",
+          "body": "Acima de 78,1 mil (+0,5%), vêm 78,3 e 78,9 mil · Abaixo de 77,6 mil (−0,2%), o próximo número relevante é 76,5 mil (−1,6%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-02-10h32",
       "date": "2026-11-02",
       "time": "10h32",
