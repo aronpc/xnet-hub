@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-02-13h33",
+      "date": "2026-11-02",
+      "time": "13h33",
+      "hook": "BTC em US$ 77.320 · os 77,6 mil que aguentaram a manhã cederam depois do almoço, e o preço parou colado no piso do dia, 77,3 mil. Para cada conta na baixa, mais de duas seguem na alta: a faixa ficou cheia de gente posicionada no repique. Na terça, o primeiro dado de ETF de novembro e a eleição intermediária dos EUA.",
+      "caption": "O fundo de 24h, 77,2 mil, está a 0,2% do preço agora; a faixa de baixo decide a próxima hora.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-02-13h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-02-13h33",
+      "slides": [
+        {
+          "title": "O piso do dia, em teste",
+          "body": "O fundo de 24h, 77,2 mil, está a 0,2% do preço agora; a faixa de baixo decide a próxima hora."
+        },
+        {
+          "title": "US$ 77.320",
+          "body": "Δ1h −0,60% · Δ24h −0,92% · US$ 20,9 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Pressão vendedora no terço de baixo da faixa de 77,3 a 78,9 mil · contratos em aberto voltaram a crescer, 97,7 mil BTC · Funding +0,010%, razão de compra e venda em 2,2 para 1",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O último número antes do fundo",
+          "body": "Abaixo de 77,3 mil, o fundo de 24h está em 77,2 mil (−0,2%) · Um giro para cima de 78,9 mil (+2,0%) põe 79,4 mil na conversa",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-02-11h32",
       "date": "2026-11-02",
       "time": "11h32",
