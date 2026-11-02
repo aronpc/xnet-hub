@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-02-14h35",
+      "date": "2026-11-02",
+      "time": "14h35",
+      "hook": "BTC em US$ 76.993 · os degraus foram saindo um a um: 77,6 mil seguraram a manhã, 77,3 mil o começo da tarde, e a cotação agora encostou no 77 mil redondo. Do lado dos contratos, quem aposta na alta segue mais que o dobro dos que apostam na baixa. Amanhã vêm os dois marcos do mês: o primeiro dado de ETF de novembro e a eleição de meio de mandato nos EUA.",
+      "caption": "A faixa do dia perdeu os degraus de baixo um a um; o preço parou no número cheio, 77,0 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-02-14h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-02-14h35",
+      "slides": [
+        {
+          "title": "Sobrou o 77 mil redondo",
+          "body": "A faixa do dia perdeu os degraus de baixo um a um; o preço parou no número cheio, 77,0 mil."
+        },
+        {
+          "title": "US$ 76.993",
+          "body": "Δ1h −0,42% · Δ24h −1,38% · US$ 21,5 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Pressão vendedora no terço inferior da faixa de 77,0 a 78,9 mil · contratos em aberto em alta de novo, 98,2 mil BTC · Funding +0,010%, com 2,3 contas na alta para cada uma na baixa",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "77,0 mil, com o preço em cima",
+          "body": "A linha de 77,0 mil está a 0,0% do preço · acima dela, o teto da faixa fica em 78,9 mil (+2,5%) e depois vem 79,0 mil, o topo de 24h",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-02-13h33",
       "date": "2026-11-02",
       "time": "13h33",
