@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-01-20h32",
+      "date": "2026-11-01",
+      "time": "20h32",
+      "hook": "A noite respondeu comprando: o mínimo de 24h parou a centavos de 77,5 mil e a vela das 20h veio com o maior ritmo comprador do dia, cerca de 30 milhões por hora contra 20,8 de média. O preço voltou para cima dos 78 mil.",
+      "caption": "Depois da sequência de quedas da tarde, o turno da noite abre com a vela mais comprada das últimas 24h: 1,5× o ritmo médio.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-01-20h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-01-20h32",
+      "slides": [
+        {
+          "title": "A recuperação mais forte do dia",
+          "body": "Depois da sequência de quedas da tarde, o turno da noite abre com a vela mais comprada das últimas 24h: 1,5× o ritmo médio."
+        },
+        {
+          "title": "US$ 78.034",
+          "body": "Δ1h +0,53% · Δ24h +0,74% · US$ 73,8 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Impulso das 20h devolve o preço aos níveis das 14h e o interesse aberto parou de cair (95,7k BTC) · Funding +0,01% · 69,4% das contas compradas (L/S 2,27)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Falta um degrau do canal",
+          "body": "Mínima de 24h $77,5k a -0,7% · topo de 24h $78.285 a +0,3%, o que resta antes de uma região inédita no fim de semana",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-01-19h32",
       "date": "2026-11-01",
       "time": "19h32",
