@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-01-21h33",
+      "date": "2026-11-01",
+      "time": "21h33",
+      "hook": "A alta da noite passou dos 78,3 mil e tocou 78.523, o maior preço das últimas 24h. Na hora seguinte o avanço foi devolvido quase inteiro, e o preço voltou a rondar os 78 mil. A recusa veio com o dobro do ritmo habitual de negócios, o movimento mais rápido do dia na direção contrária.",
+      "caption": "Primeira visita acima de 78,3 mil em 24h, devolvida na hora seguinte com o maior ritmo do dia no outro sentido.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-01-21h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-01-21h33",
+      "slides": [
+        {
+          "title": "O topo novo que não durou",
+          "body": "Primeira visita acima de 78,3 mil em 24h, devolvida na hora seguinte com o maior ritmo do dia no outro sentido."
+        },
+        {
+          "title": "US$ 78.036",
+          "body": "Hora fechada em zero (Δ1h +0,00%) · Δ24h +0,65% · US$ 77,4 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A ida ao topo novo foi devolvida e a hora fechou onde começou · Funding +0,01% · 69,7% das contas do lado comprador (L/S 2,30) · interesse aberto em queda, 95,1k BTC",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A porta dos 78 mil",
+          "body": "O preço terminou a hora sentado nela · abaixo, a mínima de 24h $77.620 fica a -0,5% · acima, o topo de 24h $78.523 a +0,6% · faixa do dia: $77,6 a 78,5 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-01-20h32",
       "date": "2026-11-01",
       "time": "20h32",
