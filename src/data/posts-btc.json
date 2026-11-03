@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-03-09h34",
+      "date": "2026-11-03",
+      "time": "09h34",
+      "hook": "BTC em US$ 77.277 · depois de um dia inteiro encostado na parte de baixa, o preço voltou ao meio do trecho entre 76,3 e 78,3 mil. Os contratos em aberto subiram junto, a 100,2 mil BTC, contra 98,8 mil ontem ao fim da tarde. O volume das últimas 24h ficou em 27,6 bilhões.",
+      "caption": "Sem tocar nenhuma das duas bordas até aqui; o dia segue sem lado escolhido.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-03-09h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-03-09h34",
+      "slides": [
+        {
+          "title": "De volta ao meio",
+          "body": "Sem tocar nenhuma das duas bordas até aqui; o dia segue sem lado escolhido."
+        },
+        {
+          "title": "US$ 77.277",
+          "body": "Δ1h +0,43% · Δ24h −0,77% · US$ 27,6 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Recuperação da área baixa até a zona central, com Δ24h ainda negativo · Smart Money: funding +0,010% + L/S 2,64, contratos em aberto em 100,2 mil BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O dia está nas bordas",
+          "body": "Acima de 78,3 mil (+1,3%) está o topo de 24h, em 78,5 mil · Abaixo de 76,3 mil (−1,3%), o próximo número é 76,0 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-02-18h31",
       "date": "2026-11-02",
       "time": "18h31",
