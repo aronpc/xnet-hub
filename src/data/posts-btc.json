@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-03-10h34",
+      "date": "2026-11-03",
+      "time": "10h34",
+      "hook": "BTC em US$ 77.672 · a manhã empurrou o preço para o terço mais alto da faixa do dia, entre 76,3 e 78,2 mil. Saiu dos 76,6 mil da madrugada e não parou: +0,5% só na última hora. Contratos em aberto perto de 100 mil BTC.",
+      "caption": "O preço encostou na borda de cima da faixa de 24h. É ali que o dia se decide.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-03-10h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-03-10h34",
+      "slides": [
+        {
+          "title": "Manhã de subida",
+          "body": "O preço encostou na borda de cima da faixa de 24h. É ali que o dia se decide."
+        },
+        {
+          "title": "US$ 77.672",
+          "body": "Δ1h +0,51% · Δ24h +0,08% · US$ 27,7 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Closes em alta desde as 6h e preço no topo da faixa · Smart Money: funding +0,010% + L/S 2,65, com 99,9 mil BTC em aberto",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A borda de cima em jogo",
+          "body": "Acima de 78,2 mil (+0,7%) o topo de 24h fica em 78,5 mil · Abaixo de 76,3 mil (−1,8%), a próxima referência é 76,0 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-03-09h34",
       "date": "2026-11-03",
       "time": "09h34",
