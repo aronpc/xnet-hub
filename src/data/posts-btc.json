@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-03-11h31",
+      "date": "2026-11-03",
+      "time": "11h31",
+      "hook": "BTC em US$ 77.070 · a subida da manhã não durou: o preço caiu 0,8% na última hora e voltou ao centro da área de 24h, entre 76,3 e 78,1 mil. O viés agora é de baixa.",
+      "caption": "O avanço parou antes de 78 mil e o preço regressou ao centro da área de 24h.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-03-11h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-03-11h31",
+      "slides": [
+        {
+          "title": "Ganho da manhã devolvido",
+          "body": "O avanço parou antes de 78 mil e o preço regressou ao centro da área de 24h."
+        },
+        {
+          "title": "US$ 77.070",
+          "body": "Δ1h −0,78% · Δ24h −0,86% · US$ 28,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Queda na última hora depois que o avanço perdeu gás perto do topo · Smart Money: funding +0,010% + L/S 2,58, com 99,4 mil BTC em aberto",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O meio não decide o dia",
+          "body": "Acima de 78,1 mil (+1,3%) o topo de 24h fica em 78,5 mil · Abaixo de 76,3 mil (−1,0%) o fundo de 24h mora em 76,0 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-03-10h34",
       "date": "2026-11-03",
       "time": "10h34",
