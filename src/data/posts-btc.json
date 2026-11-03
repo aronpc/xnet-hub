@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-03-12h31",
+      "date": "2026-11-03",
+      "time": "12h31",
+      "hook": "BTC em US$ 77.392 · a queda da manhã não vingou: o preço subiu de novo e voltou a encostar no teto do dia, a 0,7% de 77,9 mil. Enquanto o dia não escolhe lado, a maioria do mercado segue apostando em alta.",
+      "caption": "O dia segue sem direção: alta pela manhã, queda perto do meio-dia e recuperação agora.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-03-12h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-03-12h31",
+      "slides": [
+        {
+          "title": "O teto do dia, de novo",
+          "body": "O dia segue sem direção: alta pela manhã, queda perto do meio-dia e recuperação agora."
+        },
+        {
+          "title": "US$ 77.392",
+          "body": "Δ1h +0,42% · Δ24h −0,70% · US$ 28,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço de volta ao terço de cima do canal de 24h, com o saldo do dia ainda negativo · Smart Money: funding +0,010% + L/S 2,58, com 99,7 mil BTC em aberto",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "77,9 mil decide a tarde",
+          "body": "Acima de 77,9 mil (+0,7%) o próximo degrau é 78,5 mil · Perder 77,0 mil aponta 76,6 e 76,4 mil (−1,3%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-03-11h31",
       "date": "2026-11-03",
       "time": "11h31",
