@@ -35,6 +35,39 @@
       ]
     },
     {
+      "id": "2026-11-04-00h34",
+      "date": "2026-11-04",
+      "time": "00h34",
+      "hook": "BTC em US$ 76.251 · a faixa de 76,4 mil não passou no teste: a queda atravessou até 75,7 mil em minutos, com movimento 2,5× o normal, e voltou. Enquanto isso, 7 em cada 10 contas seguem otimistas, mais do que ontem.",
+      "caption": "Uma noite inteira de testes e a linha abriu de vez: o preço tocou 75,7 mil em minutos e voltou ao repique.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-04-00h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-04-00h34",
+      "slides": [
+        {
+          "title": "76,4 mil não segurou",
+          "body": "Uma noite inteira de testes e a linha abriu de vez: o preço tocou 75,7 mil em minutos e voltou ao repique."
+        },
+        {
+          "title": "US$ 76.251",
+          "body": "Δ1h −0,53% · Δ24h −0,57% · US$ 26,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Quebra com movimento 2,5× o ritmo comum e dinheiro novo vendendo nos repiques · Smart Money: funding +0,010% + L/S 2,48, com 71,3% das contas na ponta comprada · F&G 34, zona de medo",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O reteste de 76,4 mil decide a hora",
+          "body": "É a referência a +0,2% · O mínimo do dia, 75,7 mil, está a −0,7%; um fechamento abaixo estende a visita a 75 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-03-22h32",
       "date": "2026-11-03",
       "time": "22h32",
