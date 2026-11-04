@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-04-09h32",
+      "date": "2026-11-04",
+      "time": "09h32",
+      "hook": "BTC em US$ 78.199 · o empurrão da madrugada esbarrou nos 78,7 mil e voltou atrás, devagar, até 78,2 mil. Quem estava comprado foi saindo aos poucos: a proporção entre comprados e vendidos caiu de 2,5 para 1,79 hoje. O índice de medo e ganância marcou 34. Recuo sem susto, nada quebrado no caminho.",
+      "caption": "O preço desceu 0,5% na última hora depois de encostar em 78,7 mil; no dia ainda guarda alta de 1,2%.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-04-09h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-04-09h32",
+      "slides": [
+        {
+          "title": "Espera depois do salto",
+          "body": "O preço desceu 0,5% na última hora depois de encostar em 78,7 mil; no dia ainda guarda alta de 1,2%."
+        },
+        {
+          "title": "US$ 78.199",
+          "body": "Δ1h −0,48% · Δ24h +1,23% · US$ 31,5 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Quatro fechamentos seguidos de 1h em queda, volume abaixo do ritmo, mas a faixa dos 78 mil segue intocada · Smart Money: funding +0,010% + L/S 1,79 (64,1% L)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Apertado entre 78,0 e 78,7 mil",
+          "body": "Suporte 78.000 (−0,25%) · Resistência 78.700 (+0,64%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-04-07h43",
       "date": "2026-11-04",
       "time": "07h43",
