@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-04-02h32",
+      "date": "2026-11-04",
+      "time": "02h32",
+      "hook": "BTC em US$ 76.654 · 76,9 mil cedeu na madrugada e a sequência chegou a quatro velas de queda. O detalhe é o clima: 70% das contas ainda apostam na alta enquanto o preço desce, um aperto em câmera lenta, sem pânico.",
+      "caption": "A quarta vela seguida de queda fechou abaixo da referência, e o preço parou a 0,3% do mínimo do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-04-02h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-04-02h32",
+      "slides": [
+        {
+          "title": "76,9 mil cedeu",
+          "body": "A quarta vela seguida de queda fechou abaixo da referência, e o preço parou a 0,3% do mínimo do dia."
+        },
+        {
+          "title": "US$ 76.654",
+          "body": "Δ1h −0,42% · Δ24h −0,30% · US$ 25,8 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A referência de 76,9 mil virou teto e a descida anda devagar, sem volume exagerado · Smart Money: funding +0,010% + L/S 2,39, com 70,5% das contas na ponta comprada",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "76,4 mil à prova",
+          "body": "É o mínimo do dia, a 0,3% daqui · Retomar 76,9 mil (+0,4%) recoloca o preço dentro da faixa, com 78,0 mil no topo (+1,8%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-03-22h32",
       "date": "2026-11-03",
       "time": "22h32",
