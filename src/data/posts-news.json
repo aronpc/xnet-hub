@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-04",
+      "date": "2026-11-04",
+      "hook": "Panorama IA de 4 de novembro",
+      "caption": "O dinheiro da IA virou notícia de balanço: o S-1 da Anthropic mostra US$ 17 bi de receita no trimestre e US$ 895 bi em compromissos, e a dívida oculta dos gigantes já soma US$ 3,2 tri. No mesmo dia, a Revolut provou que dá para rodar código com IA pagando um décimo do custo, e um agente operou o cérebro de um rato vivo. A web, enquanto isso, começou a pedir \"prove que você é humano\".\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-04",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-04",
+      "slides": [
+        {
+          "title": "Panorama IA de 4 de novembro",
+          "body": "O dinheiro da IA virou notícia de balanço: o S-1 da Anthropic mostra US$ 17 bi de receita no trimestre e US$ 895 bi em compromissos, e a dívida oculta dos gigantes já soma US$ 3,2 tri. No mesmo dia, a Revolut provou que dá para rodar código com IA pagando um décimo do custo, e um agente operou o cérebro de um rato vivo. A web, enquanto isso, começou a pedir \"prove que você é humano\"."
+        },
+        {
+          "title": "O opt-out do Codex que não fica desligado",
+          "body": "Usuários relatam que o toggle de treino do Codex volta ligado sozinho, reativando o uso dos chats de codificação para treinar modelo. O padrão já tinha aparecido num Tell HN de setembro; a thread de ontem passou de 440 pontos.",
+          "source": {
+            "label": "Hacker News",
+            "url": "https://news.ycombinator.com/item?id=50352757"
+          }
+        },
+        {
+          "title": "Postman instala plugins de IA e tenta compartilhar suas APIs",
+          "body": "Issue aberta no repo oficial documenta que o app passou a instalar plugins de IA sem pedir licença e a tentar compartilhar os dados de todas as APIs do usuário. A thread no HN chegou a 1.099 pontos.",
+          "source": {
+            "label": "GitHub · postman-app-support #14370",
+            "url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
+          }
+        },
+        {
+          "title": "S-1 da Anthropic: US$ 17 bi no trimestre, US$ 895 bi em compromissos",
+          "body": "O filing revisado antes do IPO mostra receita de US$ 17 bi no Q3, compromissos de compra e compute de cerca de US$ 895 bi e folha de US$ 1,7 bi por trimestre. O consumo interno de Claude, avaliado a preço de cliente, passou de US$ 5,9 mi num único mês: 250 vezes mais em 10 meses, acima do gasto com salários.",
+          "source": {
+            "label": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+          }
+        },
+        {
+          "title": "Revolut troca Claude e Codex por GLM 5.3 próprio",
+          "body": "A Revolut oficializou a operação de 2.000 engenheiros com GLM 5.3 de pesos abertos em 56 GPUs B200, a ~US$ 0,30 por milhão de tokens. Claude Code e Codex ficaram restritos a uma lista de exceção.",
+          "source": {
+            "label": "Trending Topics",
+            "url": "https://www.trendingtopics.eu/revolut-glm-open-weight-coding-costs"
+          }
+        },
+        {
+          "title": "Agente operou cérebro de rato vivo e escolheu o tratamento",
+          "body": "A Exin Therapeutics deixou um agente com Claude Sonnet operar um rig cirúrgico num rato com epilepsia: recebeu 19 vetores de terapia gênica em planilha, escolheu um, definiu o ponto de injeção no cérebro e guiou a agulha. O rato se recuperou. O modelo da OpenAI consultado antes tinha recusado o experimento; humanos supervisionaram as etapas críticas.",
+          "source": {
+            "label": "Wired",
+            "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse"
+          }
+        },
+        {
+          "title": "Opus 5.5 desenha plantas em nível de alvará",
+          "body": "Teste publicado por um arquiteto mostra o Opus 5.5 produzindo desenhos técnicos consistentes com as exigências de órgãos de licenciamento, e não apenas esboços conceituais.",
+          "source": {
+            "label": "Stephen J. Gallagher · Substack",
+            "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now"
+          }
+        },
+        {
+          "title": "OpenAI escala Git para o volume dos agentes",
+          "body": "Post de engenharia detalha como a OpenAI administra monorepos sob o volume gerado por agentes de codificação, continuação interna da discussão que o GitHub trouxe a público, de 7,4 bilhões de commits por mês.",
+          "source": {
+            "label": "openai.com",
+            "url": "https://openai.com/index/scaling-git-at-openai/"
+          }
+        },
+        {
+          "title": "\"Prove que você é humano\" em todo site",
+          "body": "Ask HN com dezenas de relatos de usuários legítimos barrados por verificações anti-bot em série. A defesa das plataformas contra agentes e scraping está degradando a experiência de gente na web.",
+          "source": {
+            "label": "Hacker News",
+            "url": "https://news.ycombinator.com/item?id=50355959"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A conta chegou: receita recorde com crescimento achatado, US$ 3,2 tri de compromissos fora do balanço e custo de tokens superando folha de pagamento. A ponta responde com modelo aberto auto-hospedado e número fechado. E a autonomia de agente avançou na bioética, na prancheta do arquiteto e no anti-bot que tranca a web para todo mundo."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-01",
       "date": "2026-11-01",
       "hook": "Skills e MCP de 1º de novembro",
