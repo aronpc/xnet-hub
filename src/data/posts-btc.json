@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-03-22h32",
+      "date": "2026-11-03",
+      "time": "22h32",
+      "hook": "BTC em US$ 76.981 · a alta da tarde não resistiu: três quedas seguidas apagaram o avanço do dia, o saldo virou negativo e o preço parou a um passo do mínimo do dia. O medo leve voltou ao mercado.",
+      "caption": "Três velas vermelhas seguidas devolveram o preço ao andar de baixo do canal do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-03-22h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-03-22h32",
+      "slides": [
+        {
+          "title": "A tarde desandou",
+          "body": "Três velas vermelhas seguidas devolveram o preço ao andar de baixo do canal do dia."
+        },
+        {
+          "title": "US$ 76.981",
+          "body": "Δ1h −0,18% · Δ24h −0,24% · US$ 25,6 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Três quedas seguidas levaram o preço do topo do canal (77,9 mil) até a borda de baixo, e o saldo do dia virou negativo · Smart Money: funding +0,010% + L/S 2,35, com 70,1% das contas compradas enquanto o preço cai",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teste de 76,9 mil",
+          "body": "Abaixo dele, o mínimo do dia é 76,4 mil (−0,8%) · Recuperar 77,4 mil devolve o equilíbrio do canal, com 78,0 mil (+1,4%) no topo",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-03-12h31",
       "date": "2026-11-03",
       "time": "12h31",
