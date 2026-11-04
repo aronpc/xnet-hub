@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-04",
+      "date": "2026-11-04",
+      "hook": "Projetos e repos de 4 de novembro",
+      "caption": "O dia foi da memória e do custo dos agentes: uma ferramenta transforma o histórico dos seus chats de código em base de conhecimento navegável, e um roteador open source escolhe a API mais barata em tempo real. Também teve agentes caçando bugs usando o app de verdade e uma planilha onde cada célula roda um agente.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-04",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-04",
+      "slides": [
+        {
+          "title": "Projetos e repos de 4 de novembro",
+          "body": "O dia foi da memória e do custo dos agentes: uma ferramenta transforma o histórico dos seus chats de código em base de conhecimento navegável, e um roteador open source escolhe a API mais barata em tempo real. Também teve agentes caçando bugs usando o app de verdade e uma planilha onde cada célula roda um agente."
+        },
+        {
+          "title": "Momentic: agentes caçam bugs usando o app de verdade",
+          "body": "O launch da Momentic, YC W24, mostra agentes que navegam pelo produto real, com cliques, fluxos e dados, para achar bugs de regressão sem suíte de teste escrita à mão. A thread somou 159 pontos.",
+          "source": {
+            "label": "momentic.ai",
+            "url": "https://momentic.ai/"
+          }
+        },
+        {
+          "title": "lorevault: o histórico dos seus agentes vira conhecimento",
+          "body": "A ferramenta importa o histórico de chats de agentes de codificação e transforma num grafo navegável no Obsidian ou no Logseq. Fez 23 estrelas no primeiro dia.",
+          "source": {
+            "label": "github.com/deanyool/lorevault",
+            "url": "https://github.com/deanyool/lorevault"
+          }
+        },
+        {
+          "title": "getcheapapi: roteador de preço para APIs pagas",
+          "body": "Proxy open source que roteia chamadas de dados e mídia para o fornecedor mais barato do momento, escolhendo vendor dinamicamente entre APIs compatíveis.",
+          "source": {
+            "label": "github.com/getcheapapi/getcheapapi",
+            "url": "https://github.com/getcheapapi/getcheapapi"
+          }
+        },
+        {
+          "title": "atoll: ontologia de tarefas entre harnesses",
+          "body": "Ontologia leve para descrever jobs de agente em formato estruturado, com harness compatível com o Archipelago. Fez 13 estrelas no lançamento.",
+          "source": {
+            "label": "github.com/Teraverse-AI/atoll",
+            "url": "https://github.com/Teraverse-AI/atoll"
+          }
+        },
+        {
+          "title": "recalc: a planilha onde a célula pode ser um agente",
+          "body": "Cada célula executa um agente: você compartilha o modelo de dados com a IA e ela preenche e consulta como se fossem fórmulas vivas.",
+          "source": {
+            "label": "github.com/sshah03/recalc",
+            "url": "https://github.com/sshah03/recalc"
+          }
+        },
+        {
+          "title": "Claude Code como estúdio de pixel art",
+          "body": "Kit com agents, slash commands e tools que transformam o Claude Code num estúdio de pixel art completo, com criação e edição por comandos.",
+          "source": {
+            "label": "github.com/lxxsrblx/pixel-art-studio",
+            "url": "https://github.com/lxxsrblx/pixel-art-studio"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A pauta do dia se resume em duas camadas: a memória do que os agentes fizeram, que virou produto, e o custo do que eles consomem, que virou roteamento por preço. Entre as duas, o formato de intercâmbio entre harnesses deu os primeiros passos. Nada disso substitui ferramenta instalada: a resposta às estreias do dia é absorver a ideia, não clonar mais um repo."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-04",
       "date": "2026-11-04",
       "hook": "Panorama IA de 4 de novembro",
