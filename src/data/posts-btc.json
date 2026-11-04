@@ -35,6 +35,39 @@
       ]
     },
     {
+      "id": "2026-11-04-01h33",
+      "date": "2026-11-04",
+      "time": "01h33",
+      "hook": "BTC em US$ 76.694 · a madrugada devolveu os 76,4 mil e encostou na região dos 77. Só que a subida não trouxe dinheiro novo: quem estava contra o mercado é que foi embora, e o volume segue menor que o da noite.",
+      "caption": "Três velas de alta desde 75,7 mil devolveram o nível perdido há poucas horas. O volume da subida é menor que o da queda e o total de posições abertas cai em vez de subir: a recuperação tem mais a ver com quem saiu do que com quem entrou.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-04-01h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-04-01h33",
+      "slides": [
+        {
+          "title": "Volta sem comprador",
+          "body": "Três velas de alta desde 75,7 mil devolveram o nível perdido há poucas horas. O volume da subida é menor que o da queda e o total de posições abertas cai em vez de subir: a recuperação tem mais a ver com quem saiu do que com quem entrou."
+        },
+        {
+          "title": "US$ 76.694",
+          "body": "Δ1h +0,58% · Δ24h −0,38% · US$ 27,5 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Três velas de alta desde 75.736 com volume de 453 BTC por vela, abaixo dos 556 do ritmo normal, e posições abertas caindo de 99,2k para 98,3k BTC · Smart Money: funding +0,010% + L/S 2,61, com 72,3% das contas na ponta comprada",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A porta dos 77 mil",
+          "body": "Fechar 1h acima de 77,0 mil (+0,4%) com volume acima do ritmo deixa 77,7 e 78,0 mil, o máximo de 24h (+1,7%), no caminho · Perder 76,4 mil (−0,4%) devolve o foco ao mínimo do dia, 75,7 mil (−1,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-04-00h34",
       "date": "2026-11-04",
       "time": "00h34",
