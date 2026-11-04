@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-04",
+      "date": "2026-11-04",
+      "hook": "Skills e MCP de 4 de novembro",
+      "caption": "O Claude Code fechou a semana do IPO resolvendo as duas frentes que travavam adoção enterprise: vazamento de identidade e custo por desenvolvedor. O ecossistema respondeu à explosão de tools com metacamada de roteamento e lint para arquivos de regras. E a skill mais quente do dia desenha ícones num estilo só.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-04",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-04",
+      "slides": [
+        {
+          "title": "Skills e MCP de 4 de novembro",
+          "body": "O Claude Code fechou a semana do IPO resolvendo as duas frentes que travavam adoção enterprise: vazamento de identidade e custo por desenvolvedor. O ecossistema respondeu à explosão de tools com metacamada de roteamento e lint para arquivos de regras. E a skill mais quente do dia desenha ícones num estilo só."
+        },
+        {
+          "title": "Claude Code 2.1.317 e 2.1.318: identidade e custo",
+          "body": "Duas releases em 48 horas. A 2.1.317 pergunta antes de uma tool web ou shell enviar seu e-mail de conta para a rede, traz o onFailure block para hooks do Agent SDK e avisa sobre connectors indesejados no /schedule. A 2.1.318 adiciona assume_role por desenvolvedor no gateway, para atribuir custo AWS, e effort no model fork.",
+          "source": {
+            "label": "GitHub · claude-code releases",
+            "url": "https://github.com/anthropics/claude-code/releases"
+          }
+        },
+        {
+          "title": "kubai-icons: ícones consistentes, 98 estrelas no dia 1",
+          "body": "Skill que gera ícones dinâmicos todos no mesmo estilo visual, com estados de hover, atacando o problema clássico de consistência de ícones em projetos. Fez 98 estrelas nas primeiras 24 horas.",
+          "source": {
+            "label": "github.com/kubai087/kubai-icons",
+            "url": "https://github.com/kubai087/kubai-icons"
+          }
+        },
+        {
+          "title": "Agente dirigindo bancada física de hardware",
+          "body": "Skill do Claude Code com método de engenharia hardware-in-the-loop: o agente comanda equipamentos e valida firmware num loop físico real. Fez 19 estrelas no lançamento.",
+          "source": {
+            "label": "github.com/Kemerd/claude-hardware-in-the-loop",
+            "url": "https://github.com/Kemerd/claude-hardware-in-the-loop"
+          }
+        },
+        {
+          "title": "exterminator: corrige na raiz e caça os similares",
+          "body": "Skill para Claude Code e Codex que, dado um bug, corrige a causa raiz e depois varre o codebase atrás de ocorrências do mesmo padrão. Fez 12 estrelas no lançamento.",
+          "source": {
+            "label": "github.com/spider12223/exterminator",
+            "url": "https://github.com/spider12223/exterminator"
+          }
+        },
+        {
+          "title": "Skill que melhora LLM pequeno editando pesos",
+          "body": "A weight-space-programming-skill guia o agente a editar direto os pesos de um modelo aberto pequeno para melhorá-lo, saindo do nível do prompt. No mesmo dia, Sean Goedecke desmonta o paper que atribui leitura super-humana de pesos ao GPT-6: os ganhos existem, mas vêm de padrão e contexto.",
+          "source": {
+            "label": "github.com/di37/weight-space-programming-skill",
+            "url": "https://github.com/di37/weight-space-programming-skill"
+          }
+        },
+        {
+          "title": "systemone: o MCP que decide qual tool usar",
+          "body": "Servidor MCP de roteamento adaptativo que recebe a tarefa e decide dinamicamente quais tools e skills do agente acionar.",
+          "source": {
+            "label": "github.com/mhiqrambg/systemone-decision-mcp",
+            "url": "https://github.com/mhiqrambg/systemone-decision-mcp"
+          }
+        },
+        {
+          "title": "rulecheck: lint para CLAUDE.md e AGENTS.md",
+          "body": "Ferramenta que valida arquivos de regras de agente: detecta paths quebrados, regras obsoletas e referências mortas nos arquivos que os agentes leem.",
+          "source": {
+            "label": "github.com/aashish1876/rulecheck",
+            "url": "https://github.com/aashish1876/rulecheck"
+          }
+        },
+        {
+          "title": "Skills que vigiam PR e retomam sozinhas",
+          "body": "Par de skills que fazem polling de PRs do GitHub e disparam ações quando revisores comentam ou aprovam: o agente retoma o trabalho sem o dev reabrir a sessão.",
+          "source": {
+            "label": "github.com/suiyangqiu/pr-polling-skills",
+            "url": "https://github.com/suiyangqiu/pr-polling-skills"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O harness fechou as frentes enterprise com o par identidade e custo no changelog. O ecossistema respondeu à explosão de tools com roteamento dentro do próprio protocolo e lint de regras. E a skill do dia lembra que a maior dor de UI com IA continua sendo a mais simples: consistência. Com catálogo grande demais, escolher tool também virou problema a resolver."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-04",
       "date": "2026-11-04",
       "hook": "Projetos e repos de 4 de novembro",
