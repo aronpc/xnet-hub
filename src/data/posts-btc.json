@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-04-12h32",
+      "date": "2026-11-04",
+      "time": "12h32",
+      "hook": "BTC em US$ 80.507 · o teto de 78,7 mil que segurou o preço o dia inteiro cedeu. A moeda atravessou 79,5 mil, fechou acima de 80 mil na maior vela da manhã e negociou quatro vezes o volume das horas anteriores. Enquanto isso, a proporção entre comprados e vendidos só caiu, de 2,5 para 1,62 ao longo do dia: subida feita à vista, sem multidão em cima. O termômetro de sentimento segue em zona de medo.",
+      "caption": "A barreira de 78,7 mil virou chão; preço cruza 80 mil na maior vela do dia e sobe 4,2% em 24h.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-04-12h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-04-12h32",
+      "slides": [
+        {
+          "title": "O teto cedeu",
+          "body": "A barreira de 78,7 mil virou chão; preço cruza 80 mil na maior vela do dia e sobe 4,2% em 24h."
+        },
+        {
+          "title": "US$ 80.507",
+          "body": "Δ1h +2,56% · Δ24h +4,16% · US$ 35,0 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "A vela do rompimento negociou 3.093 BTC, quatro vezes o ritmo de 758, com a proporção comprados/vendidos caindo de 2,5 para 1,62 no dia: força sem multidão apertada · Smart Money: funding +0,010% + L/S 1,62 (61,8% L)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Topo das 24h em 81.196",
+          "body": "Zona de recompra em 80.000 (-0,63%) · Teto 24h 81.196 (+0,86%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-04-11h37",
       "date": "2026-11-04",
       "time": "11h37",
