@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-04-07h43",
+      "date": "2026-11-04",
+      "time": "07h43",
+      "hook": "BTC em US$ 78.456 · cinco velas verdes seguidas e o teto da madrugada, 78 mil, agora é chão. O saldo de 24h chegou a +2%. O que mudou nesta perna: menos gente posicionada na alta, contratos abertos subindo junto. Dinheiro novo, sem pilha de aposta. O volume segue 45% abaixo do ritmo de sempre.",
+      "caption": "O preço encostou no topo do dia, 78,7 mil, depois de virar 78 mil em degrau. O saldo de 24h é +2%, com volume abaixo do habitual.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-04-07h43",
+      "link": "https://xbtc.aronpc.dev/#2026-11-04-07h43",
+      "slides": [
+        {
+          "title": "A subida trocou de motor",
+          "body": "O preço encostou no topo do dia, 78,7 mil, depois de virar 78 mil em degrau. O saldo de 24h é +2%, com volume abaixo do habitual."
+        },
+        {
+          "title": "US$ 78.456",
+          "body": "Δ1h +1,47% · Δ24h +1,98% · US$ 31,3 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Os fechamentos de 1h seguram 78,0 a 78,5 mil, com contratos abertos em 98,9 mil BTC subindo junto · Smart Money: funding +0,010% + L/S 1,92 (65,7% L)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O topo do dia, a +0,3%",
+          "body": "Acima de 78.700 abre espaço para 79,5 a 80 mil · se 78.000 sair de cena (−0,6%), a conversa volta para 77,0 a 77,4 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-04-02h34",
       "date": "2026-11-04",
       "time": "02h34",
