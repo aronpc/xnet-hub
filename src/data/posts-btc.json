@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-04-02h34",
+      "date": "2026-11-04",
+      "time": "02h34",
+      "hook": "BTC em US$ 77.320 · o dia virou: depois de uma madrugada de queda, o preço voltou acima de 77 mil e o saldo de 24h ficou positivo (+0,9%), coisa que não acontecia desde o começo da noite. Falta o público: o volume segue 40% abaixo do ritmo habitual.",
+      "caption": "A vela de 1h fechou acima de 77 mil e esticou até 77,5 mil. O saldo de 24h virou positivo pela primeira vez na madrugada.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-04-02h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-04-02h34",
+      "slides": [
+        {
+          "title": "77 mil de novo, dia no azul",
+          "body": "A vela de 1h fechou acima de 77 mil e esticou até 77,5 mil. O saldo de 24h virou positivo pela primeira vez na madrugada."
+        },
+        {
+          "title": "US$ 77.320",
+          "body": "Δ1h +0,82% · Δ24h +0,9% · US$ 28,7 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Alta de repique: o dinheiro novo parou de sair (posições abertas em 98,6k BTC), só que o volume não acompanha · Smart Money: funding +0,010% + L/S 2,53 (71,7% das contas compradas)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "77,7 mil, se o volume vier",
+          "body": "Acima desse degrau (+0,5%), o teto de 24h aparece em 78,0 mil (+0,9%) · Se 77.000 não segurar (−0,4%), voltam ao assunto as marcas de 76,4 e 76,0 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-04-02h32",
       "date": "2026-11-04",
       "time": "02h32",
