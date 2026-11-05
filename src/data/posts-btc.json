@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-05-10h34",
+      "date": "2026-11-05",
+      "time": "10h34",
+      "hook": "BTC em US$ 79.629 · o nível de 79.880 cedeu e o contrato de 1h fechou a terceira queda seguida. Desta vez, porém, o interesse aberto caiu junto com o preço, de 96,8k para 95,4k BTC: quem deixou a mesa foi quem tinha posição comprada, não um vendedor novo entrando. No dia, o saldo segue positivo, +1,7%.",
+      "caption": "79.880 cedeu na terceira vela vermelha seguida; quem tinha posição comprada foi saindo, sem vendedor novo entrando.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-05-10h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-05-10h34",
+      "slides": [
+        {
+          "title": "A queda trocou de motor",
+          "body": "79.880 cedeu na terceira vela vermelha seguida; quem tinha posição comprada foi saindo, sem vendedor novo entrando."
+        },
+        {
+          "title": "US$ 79.629",
+          "body": "Δ1h -0,4% · Δ24h +1,7% · US$ 1,6 bi em 24h na Binance",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Terceiro fechamento de 1h em queda, agora em 79.622; interesse aberto caiu de 96,8k para 95,4k BTC, dinheiro saindo em vez de vendedor agressivo novo · Smart Money: funding +0,010% + L/S 1,39",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "79.520 define a hora",
+          "body": "Perda aponta a 79.300, o limite baixo do movimento da noite · Voltar acima de 80.000 abre teste a 80.280 · Mínimo 24h: 78.210",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-05-09h36",
       "date": "2026-11-05",
       "time": "09h36",
