@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-04-23h31",
+      "date": "2026-11-04",
+      "time": "23h31",
+      "hook": "BTC em US$ 80.645 · o salto do meio-dia completa onze horas sem devolver nada: o preço passou a tarde e a noite inteiras colado na casa dos 80 mil, com volume de quase 40 bilhões em 24h. E o medo da véspera deu lugar à neutralidade: o termômetro de sentimento chegou a 50, o centro da régua.",
+      "caption": "Onze horas depois de cruzar a casa dos 80 mil, o preço segue na mesma faixa; no dia, avanço de 5,2%.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-04-23h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-04-23h31",
+      "slides": [
+        {
+          "title": "O salto que não foi devolvido",
+          "body": "Onze horas depois de cruzar a casa dos 80 mil, o preço segue na mesma faixa; no dia, avanço de 5,2%."
+        },
+        {
+          "title": "US$ 80.645",
+          "body": "Δ1h +0,3% · Δ24h +5,2% · US$ 39,9 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Onze leituras seguidas dentro de 80,0 a 80,7 mil, compressão no alto do canal após o impulso, sem convicção nos dois lados · Smart Money: funding +0,005% + L/S 1,38 · OI 96,6k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "81.200 define a noite",
+          "body": "Faixa de 80.000 (−0,8%) · Referência de topo 81.200 (+0,7%) · acima dela, 82.000 entra na conversa",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-04-12h32",
       "date": "2026-11-04",
       "time": "12h32",
