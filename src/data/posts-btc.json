@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-05-14h33",
+      "date": "2026-11-05",
+      "time": "14h33",
+      "hook": "A reação ao tombo do meio-dia durou pouco. O repique parou em 76,4 mil e o preço voltou a 76,1 mil, cada vez mais perto do mínimo do dia, 75,6 mil. No balanço das últimas 24 horas, a queda já chega a 5,6%. E tem um detalhe: enquanto o preço cede, as apostas de alta só crescem.",
+      "caption": "A alta da hora de almoço parou em 76,4 mil e o preço voltou a flertar com o mínimo do dia, 75.568; no acumulado do dia, queda de 5,6%.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-05-14h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-05-14h33",
+      "slides": [
+        {
+          "title": "O repique não vingou",
+          "body": "A alta da hora de almoço parou em 76,4 mil e o preço voltou a flertar com o mínimo do dia, 75.568; no acumulado do dia, queda de 5,6%."
+        },
+        {
+          "title": "US$ 76.115",
+          "body": "Δ1h −0,9% · Δ24h −5,6% · US$ 1,8 bi em 24h na Binance",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Repique rejeitado em 76,4 mil e preço encostado na menor cotação do dia; a leitura só muda se 77 mil voltar a segurar · Smart Money: funding +0,01% + L/S 2,71 (era 2,35 há uma hora), com OI a 94,4k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O mínimo do dia à prova",
+          "body": "Abaixo de 75.568 (−0,7%), as próximas paradas são 75,0 e 74,5 mil · Acima de 77,0 mil (+1,2%), o reteste de 78,3 mil volta à mesa",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-05-13h34",
       "date": "2026-11-05",
       "time": "13h34",
