@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-05-11h33",
+      "date": "2026-11-05",
+      "time": "11h33",
+      "hook": "Quarta queda seguida no contrato de 1h, e cada uma menor que a anterior: −0,8%, −0,4%, −0,2%. O preço parou em US$ 79.437, praticamente em cima do piso do dia, os 79,3 mil, com volume na metade da média. O movimento foi perdendo força, sem pressa e sem pânico. No dia, o saldo segue positivo: +1,4%.",
+      "caption": "Quatro fechamentos de 1h seguidos em queda, encolhendo a cada hora; o preço ficou encostado na borda de baixo do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-05-11h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-05-11h33",
+      "slides": [
+        {
+          "title": "A queda chegou sem fôlego",
+          "body": "Quatro fechamentos de 1h seguidos em queda, encolhendo a cada hora; o preço ficou encostado na borda de baixo do dia."
+        },
+        {
+          "title": "US$ 79.437",
+          "body": "Δ1h -0,2% · Δ24h +1,4% · US$ 1,4 bi em 24h na Binance",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Quarto fechamento de 1h em queda, volume 0,5x a média e interesse aberto recuando de 95,4k para 95,1k BTC; a leitura só muda acima de 79.700 · Smart Money: funding +0,01% + L/S 1,51",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teste do 79.300",
+          "body": "Abaixo de 79.300, próxima referência 78.800 · Acima de 79.700, o quadro muda · Piso do dia: 79.300 (-0,2%) · Teto imediato: 79.700 (+0,3%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-05-10h34",
       "date": "2026-11-05",
       "time": "10h34",
