@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-05-09h36",
+      "date": "2026-11-05",
+      "time": "09h36",
+      "hook": "BTC em US$ 79.976 · a faixa dos 80 mil segurou o preço desde a noite de ontem e abriu na manhã desta quinta. O contrato de 1h fechou em 79.877, abaixo da banda de 80,2 a 81,0 mil, e o interesse aberto subiu junto com a queda: a entrada nova veio vendendo. No dia, o saldo segue positivo, +2,3%.",
+      "caption": "O contrato de 1h fechou em 79.877, abaixo da banda da madrugada; no dia, avanço de 2,3%.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-05-09h36",
+      "link": "https://xbtc.aronpc.dev/#2026-11-05-09h36",
+      "slides": [
+        {
+          "title": "A faixa dos 80 mil abriu por baixo",
+          "body": "O contrato de 1h fechou em 79.877, abaixo da banda da madrugada; no dia, avanço de 2,3%."
+        },
+        {
+          "title": "US$ 79.976",
+          "body": "Δ1h -0,7% · Δ24h +2,3% · US$ 1,5 bi em 24h na Binance",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Banda de 80,2 a 81,0 mil rompida na queda, com OI subindo de 95,7k para 96,8k BTC: quem entrou agora vendeu · Smart Money: funding +0,010% + L/S 1,41",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "79.880 na balança",
+          "body": "Perda aponta a 79.300, borda da banda da noite · Retomada de 80.280 devolve o terreno até 80.800 · Mínimo 24h: 78.210",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-04-23h31",
       "date": "2026-11-04",
       "time": "23h31",
