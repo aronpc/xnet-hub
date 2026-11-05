@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-05-13h34",
+      "date": "2026-11-05",
+      "time": "13h34",
+      "hook": "O tombo do meio-dia ganhou um capítulo novo: o preço desceu a 75,6 mil, marcou o mínimo das últimas 24 horas e voltou. Agora ensaia recuperar parte dos 4,6% perdidos no dia, a partir de US$ 76.800. Só que essa volta foi comprada pela multidão, e repique comprado pela multidão nasce frágil.",
+      "caption": "O mínimo do dia esticou a 75.568 e o preço reagiu até 76,8 mil, ainda rodando na parte de baixo do range das últimas 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-05-13h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-05-13h34",
+      "slides": [
+        {
+          "title": "A queda parou em 75,6 mil",
+          "body": "O mínimo do dia esticou a 75.568 e o preço reagiu até 76,8 mil, ainda rodando na parte de baixo do range das últimas 24 horas."
+        },
+        {
+          "title": "US$ 76.800",
+          "body": "Δ1h +0,5% · Δ24h -4,6% · US$ 1,8 bi em 24h na Binance",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no quarto inferior do range do dia, abaixo da faixa de 78,3 mil que cedeu de manhã; a leitura só muda se 77 mil virar piso de novo · Smart Money: funding +0,01% + L/S 2,35, com OI recompondo a 94,0k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A briga agora é em 77 mil",
+          "body": "Segurar acima de 77 mil estica a recuperação rumo ao reteste de 78,3 mil · Perder 75.568, o mínimo do dia, abre caminho a 75,0 mil e 74,5 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-05-12h32",
       "date": "2026-11-05",
       "time": "12h32",
