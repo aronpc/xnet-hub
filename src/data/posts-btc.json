@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-05-12h32",
+      "date": "2026-11-05",
+      "time": "12h32",
+      "hook": "A manhã inteira foi de queda mansa, cada hora mais fraca que a anterior. No meio-dia isso acabou: a faixa de 79,3 mil cedeu de uma vez e uma única hora tirou quase US$ 3 mil do preço, com volume cinco vezes acima do normal. O BTC agora está em US$ 76.391, na pior cotação do dia. No dia, queda de 5,1%.",
+      "caption": "Depois de quatro quedas discretas, a faixa de 79,3 mil cedeu com volume 5,3 vezes a média; o preço chegou a 76.171, o ponto mais baixo das últimas 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-05-12h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-05-12h32",
+      "slides": [
+        {
+          "title": "A calma durou até o meio-dia",
+          "body": "Depois de quatro quedas discretas, a faixa de 79,3 mil cedeu com volume 5,3 vezes a média; o preço chegou a 76.171, o ponto mais baixo das últimas 24 horas."
+        },
+        {
+          "title": "US$ 76.391",
+          "body": "Δ1h -3,8% · Δ24h -5,1% · US$ 1,5 bi em 24h na Binance",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Vela de 1h com volume 5,3x a média e interesse aberto caindo de 95,1k para 91,4k BTC: posições compradas fechadas à força, dinheiro saindo do mercado · Smart Money: funding +0,01% + L/S 1,70",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A referência agora é 76.171",
+          "body": "Abaixo de 76.171, próximas marcas 75.500 e 75.000 · Acima de 77.000, alívio rumo a 78.300 · Mín 24h: 76,2k (-0,3%) · Topo imediato: 77,0k (+0,8%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-05-11h33",
       "date": "2026-11-05",
       "time": "11h33",
