@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-06-16h32",
+      "date": "2026-11-06",
+      "time": "16h32",
+      "hook": "Depois de um dia de tombo, o Bitcoin parou de cair: US$ 75,7 mil, de volta ao meio do corredor das últimas 24 horas, com o volume esfriando.",
+      "caption": "A pressão de venda da manhã perdeu força e o preço deixou a borda de baixo para voltar ao centro da faixa do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-06-16h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-06-16h32",
+      "slides": [
+        {
+          "title": "O mercado respirou",
+          "body": "A pressão de venda da manhã perdeu força e o preço deixou a borda de baixo para voltar ao centro da faixa do dia."
+        },
+        {
+          "title": "US$ 75.739",
+          "body": "Δ1h +0,49% · Δ24h −1,22% · US$ 36,7 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço no centro da faixa de 24h (74,8 a 76,6 mil) depois de encostar na parte de baixo; clima ainda de cautela, índice de medo em 28."
+        },
+        {
+          "title": "76,6 mil pra cima, 74,8 mil pra baixo",
+          "body": "São as bordas do dia: teto próximo 76,6 mil (+1,1%) · chão do corredor 74,8 mil (−1,2%). Dentro delas, o preço segue sem direção.",
+          "source": "https://www.coinglass.com/FearAndGreedIndex"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-06-14h31",
       "date": "2026-11-06",
       "time": "14h31",
