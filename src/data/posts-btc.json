@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-06-09h32",
+      "date": "2026-11-06",
+      "time": "09h32",
+      "hook": "A manhã trouxe o maior movimento por hora do dia: +0,8%, BTC a US$ 76,1 mil. Só que o volume ficou em um terço do normal, então a alta ainda pesa pouco depois da queda de 5,1% nas últimas 24 horas.",
+      "caption": "O dia acumula queda de 5,1% e a recuperação das 9h veio com um terço do volume médio da vela. Enquanto 76,4 mil não for superado, a leitura segue de baixa.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-06-09h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-06-09h32",
+      "slides": [
+        {
+          "title": "O salto da manhã veio pela metade",
+          "body": "O dia acumula queda de 5,1% e a recuperação das 9h veio com um terço do volume médio da vela. Enquanto 76,4 mil não for superado, a leitura segue de baixa."
+        },
+        {
+          "title": "US$ 76.100",
+          "body": "Δ1h +0,8% · Δ24h −5,1% · US$ 45,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Recuperação com volume a 1/3 da média, preço ainda abaixo de 76,4k · Smart Money: funding +0,005% e L/S 3,12, com 76% das contas em alta · OI 95,5k BTC",
+          "source": "https://www.coinglass.com/Bitcoin"
+        },
+        {
+          "title": "76,4k ainda bloqueia a alta",
+          "body": "Faixa inferior 75,2k (−1,2%) · Teto 76,4k (+0,3%) · Volume de confirmação: 1,1k BTC por vela",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-06-05h35",
       "date": "2026-11-06",
       "time": "05h35",
