@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-05-21h32",
+      "date": "2026-11-05",
+      "time": "21h32",
+      "hook": "Onze horas seguidas com o preço preso entre 75,2 e 76,4 mil. A novidade da noite não está no gráfico: o termômetro de sentimento caiu de 50 para 28 e devolveu o mercado ao campo do medo, sem que o preço saísse do lugar. Humor piorando com preço parado costuma apontar para o cansaço de quem vendia, e é isso que a leitura da hora mostra.",
+      "caption": "O índice de medo e ganância despencou de 50 para 28 nesta hora; o preço segue em 76,1 mil e as últimas 24 horas ainda fecham em queda de 5,6%.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-05-21h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-05-21h32",
+      "slides": [
+        {
+          "title": "Medo novo, preço parado",
+          "body": "O índice de medo e ganância despencou de 50 para 28 nesta hora; o preço segue em 76,1 mil e as últimas 24 horas ainda fecham em queda de 5,6%."
+        },
+        {
+          "title": "US$ 76.153",
+          "body": "Δ1h +0,4% · Δ24h −5,6% · US$ 2,0 bi em 24h na Binance",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Décima primeira hora entre 75,2 e 76,4 mil; a recuperação da última hora rodou com metade do volume habitual, mais reposição de posição do que dinheiro novo · Smart Money: funding +0,01% + L/S 2,92, com OI a 94,2k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A borda que ceder primeiro",
+          "body": "Acima de 76.400 (+0,3%), a recuperação da noite ganha confirmação · Abaixo de 75.208 (−1,3%), o corredor cede e o medo de agora se justifica",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-05-20h32",
       "date": "2026-11-05",
       "time": "20h32",
