@@ -2,6 +2,59 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-06",
+      "date": "2026-11-06",
+      "hook": "Projetos IA de 6 de novembro",
+      "caption": "Dia de enxugar harness: orquestração de agentes como Actors com hibernação, um 65B denso que dá para hospedar e o loop de agente de código em cem linhas. Pesa na balança um aviso da validação: cinco repositórios com \"50 estrelas no dia\" saíram da mesma fonte no mesmo dia, padrão suspeito de star farm.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-06",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-06",
+      "slides": [
+        {
+          "title": "Projetos IA de 6 de novembro",
+          "body": "Dia de enxugar harness: orquestração de agentes como Actors com hibernação, um 65B denso que dá para hospedar e o loop de agente de código em cem linhas. Pesa na balança um aviso da validação: cinco repositórios com \"50 estrelas no dia\" saíram da mesma fonte no mesmo dia, padrão suspeito de star farm."
+        },
+        {
+          "title": "Rivet: agente como Actor, com hibernação",
+          "body": "O RivetKit, open-source do YC W23, trata cada agente como um Actor: processo de vida longa para turnos longos, estado em memória, WebSocket para multiplayer, SQLite durável para transcripts e artefatos, e hibernação quando idle. Workflow faz replay em vez de recomeçar do zero. O Launch HN fez 82 pontos.",
+          "source": "github.com/rivet-dev/rivet"
+        },
+        {
+          "title": "Image 2B treinado do zero por US$ 21 mil",
+          "body": "Um laboratório de duas pessoas treinou do zero um Pyramid-JiT 2B por 21 mil dólares em 64 H100, subindo a resolução em regimes progressivos até 1024. Publicaram 249 amostras com os prompts e os pesos em Apache 2.0. É uma prova de conceito rumo ao modelo de vídeo que eles querem treinar em seguida.",
+          "source": {
+            "label": "Linum",
+            "url": "https://www.linum.ai/field-notes/pjit-21k"
+          }
+        },
+        {
+          "title": "Ripple-65B: denso, com claim de SOTA americano",
+          "body": "Primeiro modelo da Ricursive Intelligence: 65B denso pré-treinado em cerca de 12 trilhões de tokens para coding agêntico, reportando 80,52 no TerminalBench 2.1, à frente de modelos domésticos maiores, incluindo o Muse. A própria thread do HN gastou boa parte do debate questionando o selo de open-weight americano.",
+          "source": {
+            "label": "Bitdoze",
+            "url": "https://www.bitdoze.com/news/2026-11-05"
+          }
+        },
+        {
+          "title": "SWE-agent mini: o loop em ~100 linhas",
+          "body": "Versão radicalmente enxuta do SWE-agent: cerca de cem linhas que resolvem issues do GitHub ou ajudam no CLI, sem as centenas de linhas de scaffolding do original.",
+          "source": "github.com/kIieret/SWE-agent-mini-swe-agent"
+        },
+        {
+          "title": "zsh_codex: comentário vira comando",
+          "body": "Plugin de zsh em que você escreve um comentário em linguagem natural no terminal, ele consulta um LLM e sugere o comando shell equivalente.",
+          "source": "github.com/bristinmaralina/zsh_codex"
+        },
+        {
+          "title": "prompt-poet: truncamento que respeita o cache",
+          "body": "Templates Jinja2 para prompts de LLM com contagem de tokens e truncamento que preserva o cache, pensados para apps de agentes em que o prompt cresce a cada turno. Um cuidado: o nome colide com o prompt-poet do Census e o repositório tem cara de star farm, procedência a confirmar.",
+          "source": "github.com/fieldpincocknxxc/prompt-poet"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A conversa de agentes saiu dos wrappers genéricos e chegou na arquitetura: estado durável, hibernação e replay no Rivet, loop mínimo no SWE-agent mini e custo de treino recalibrado no Linum. O ceticismo também virou ferramenta: preview com claim de SOTA e suspeita de star farm agora passam pelo mesmo crivo da propaganda de modelo."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-06",
       "date": "2026-11-06",
       "hook": "Panorama IA de 6 de novembro",
