@@ -2,6 +2,64 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-06",
+      "date": "2026-11-06",
+      "hook": "Skills e MCP de 6 de novembro",
+      "caption": "O MCP sai da fase de hype: documentação canônica em destaque no HN e um agente operando iPhone físico. A pauta que toca na casa é higiene do próprio Claude Code: e-mail vazando no User-Agent, com correção já no 2.1.x, e IP allowlist chegando ao Console.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-06",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-06",
+      "slides": [
+        {
+          "title": "Skills e MCP de 6 de novembro",
+          "body": "O MCP sai da fase de hype: documentação canônica em destaque no HN e um agente operando iPhone físico. A pauta que toca na casa é higiene do próprio Claude Code: e-mail vazando no User-Agent, com correção já no 2.1.x, e IP allowlist chegando ao Console."
+        },
+        {
+          "title": "poki: agente opera iPhone de verdade via MCP",
+          "body": "MCP server e agente locais que deixam qualquer cliente MCP controlar um iPhone físico real, sem jailbreak e sem hardware extra. Fez 269 estrelas nas primeiras horas.",
+          "source": "github.com/JosssphZhou/poki"
+        },
+        {
+          "title": "Ranking dos MCP servers de memória",
+          "body": "Diretório que ranqueia e compara servidores MCP de memória de longo prazo compatíveis com Claude Code, Codex, Cursor e qualquer cliente MCP. Fez 98 estrelas no primeiro dia.",
+          "source": "github.com/Glen-Web-App/best-agent-memory-mcp"
+        },
+        {
+          "title": "awesome-agent-loops: skill como unidade de processo",
+          "body": "Coleção prática de \"agent loop skills\": loops de trabalho, automações de workflow e receitas de entrega em nuvem para DSH e Codex. Fez 105 estrelas no primeiro dia.",
+          "source": "github.com/ABLingss/awesome-agent-loops"
+        },
+        {
+          "title": "Anti-ai-skill para turco: a onda por idioma",
+          "body": "Skill de deslop especializada em turco: detecta AI slop, translationese, arquitetura de frase com cheiro de tradução e erros pelo guia da TDK, a academia oficial do idioma.",
+          "source": "github.com/yucezerey/turkish-anti-ai-skill"
+        },
+        {
+          "title": "MCP Explained: a doc que faltava",
+          "body": "Site lançado ontem explica o Model Context Protocol inteiro num lugar só: arquitetura, ciclo de vida, capacidades e armadilhas. Fez 262 pontos no HN.",
+          "source": "mcp-explained.com"
+        },
+        {
+          "title": "Console ganha IP allowlist em beta",
+          "body": "Até mil endereços IPv4/IPv6 ou faixas CIDR por organização; request a serviço coberto vindo de fora da lista é recusado. O beta foi liberado ontem na plataforma Claude.",
+          "source": {
+            "label": "Claude Console",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+          }
+        },
+        {
+          "title": "Claude Code vazava e-mail no User-Agent",
+          "body": "A issue oficial relata uma vítima de dezenas de e-mails de golpe porque o Claude Code enviava o e-mail da conta no header User-Agent durante buscas web. O changelog de 3 de novembro adicionou o check que pergunta antes de um web ou shell tool call enviar o e-mail para a rede; a issue, com 241 reactions, segue aberta pedindo remoção completa, não opt-out.",
+          "source": {
+            "label": "GitHub issue",
+            "url": "https://github.com/anthropics/claude-code/issues/107757"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O protocolo virou infraestrutura: documentação canônica, dispositivo físico controlado por MCP e memória ranqueada como categoria própria. No outro lado, a comunidade passou a auditar o próprio harness, com telemetria implícita no centro da discussão e allowlist de IP como resposta. E a skill assumiu o papel de processo empacotado, acima da tarefa pontual."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-06",
       "date": "2026-11-06",
       "hook": "Projetos IA de 6 de novembro",
