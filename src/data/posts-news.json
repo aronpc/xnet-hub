@@ -2,6 +2,76 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-06",
+      "date": "2026-11-06",
+      "hook": "Panorama IA de 6 de novembro",
+      "caption": "Semana de open-weights: a Moonshot entregou os pesos do Kimi K3.1 Pro no prazo, a Thinking Machines prometeu pesos Apache 2.0 para o Inkling 2 Small, e a Tencent corrigiu o próprio rumo: os pesos do Hy4 não saíram. No meio disso, um modelo da Anthropic achou falha real de hypervisor no Xen.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-06",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-06",
+      "slides": [
+        {
+          "title": "Panorama IA de 6 de novembro",
+          "body": "Semana de open-weights: a Moonshot entregou os pesos do Kimi K3.1 Pro no prazo, a Thinking Machines prometeu pesos Apache 2.0 para o Inkling 2 Small, e a Tencent corrigiu o próprio rumo: os pesos do Hy4 não saíram. No meio disso, um modelo da Anthropic achou falha real de hypervisor no Xen."
+        },
+        {
+          "title": "Inkling 2 Small: 594B com 17B ativos e pesos prometidos",
+          "body": "A Thinking Machines lançou hoje o Inkling 2 Small, MoE de 594 bilhões de parâmetros totais e 17 bilhões ativos, com entrada de imagem e esforço variável. Marcou AAII 31, à frente dos modelos anteriores da casa, e é forte em finanças, planilhas e trabalho autônomo longo: no teste da Proximal, treinou sozinho um Qwen3.5-4B. Os pesos via Tinker já saem hoje; os completos, em Apache 2.0, na próxima semana, depois do red-team externo.",
+          "source": {
+            "label": "Thinking Machines",
+            "url": "https://thinkingmachines.ai/news/inkling-2-small/"
+          }
+        },
+        {
+          "title": "Moonshot cumpriu: pesos do Kimi K3.1 Pro no ar",
+          "body": "Em 4 de novembro os pesos completos do K3.1 Pro ficaram disponíveis no Hugging Face, dentro do prazo: MoE de 2,8 trilhões de parâmetros, 1 milhão de tokens de contexto e 65,7% no Terminal-Bench 4.0. A thread do HN, com 432 pontos, já fez as contas: uns 4 tokens por segundo em 768 GB de DDR5. É projeto de várias GPUs, não download para uma placa de 24 GB.",
+          "source": {
+            "label": "Hugging Face",
+            "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+          }
+        },
+        {
+          "title": "Tencent Hy4: os pesos não saíram",
+          "body": "O release completo do Hy4, um MoE de 770B, trouxe visão e computer use com preço em yuan, mas os pesos ficaram como \"em breve\". Vários resumos da semana, o nosso de ontem incluso, chamaram o modelo de open-weight sem ser. O resto do release é real: 83,18 de média no WorkBuddy, 3,04 contra 2,97 do DeepSeek-V4.1-Flash no teste financeiro com 213 especialistas, e alucinação financeira caindo de 12,95% para 7,2%.",
+          "source": {
+            "label": "Tencent",
+            "url": "https://hy.tencent.ai/research/hy4"
+          }
+        },
+        {
+          "title": "Claude achou duas falhas de VM escape no Xen",
+          "body": "O aviso XSA-523 cobre dois defeitos no grant copy do Xen que deixam uma máquina virtual maliciosa ler e escrever a memória de outras VMs do host, incluindo a dom0. O projeto Xen creditou a descoberta à Anthropic, usando Claude; Stephan Lipp, da Ada Logics, validou, e o CodeAnt achou o mesmo problema de forma independente. Xen 4.17 em diante tem correção; da versão 4.6 à 4.16 não há patch, e a Debian listou bookworm, trixie e forky como vulneráveis.",
+          "source": {
+            "label": "The Hacker News",
+            "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html"
+          }
+        },
+        {
+          "title": "Qualcomm: 128 GB numa placa de 150 W",
+          "body": "A Cloud AI 100 Ultra confirma o envelope em briefing de produto: PCIe FH3/4L, 150 W de TDP, 870 TOPS de INT8, 128 GB de LPDDR4x a 548 GB/s e 576 MB de SRAM no die. A Qualcomm chama a placa de totalmente programável.",
+          "source": "qualcomm.com/data-center/products/cloud-ai-100-ultra"
+        },
+        {
+          "title": "Stacks Project formalizado em Lean por agentes",
+          "body": "A AxiomMath publicou a formalização em Lean do Stacks Project de álgebra, preservando os tags permanentes do texto original, com visualização lado a lado e grafo de dependência interativo. Os \"pontos\" do vídeo de divulgação são arquivos Lean que os agentes editam. Johan de Jong, autor do projeto, pediu que PRs gerados por IA não sejam submetidos ao repositório original.",
+          "source": {
+            "label": "AxiomMath",
+            "url": "https://axiommath.ai/research/the-stacks-project-formalized/"
+          }
+        },
+        {
+          "title": "xAI liga watermark invisível em 7 modelos Grok",
+          "body": "A partir de 7 de novembro, o texto de sete modelos, do grok-4.7 ao grok-4.20-multi-agent, sai com marca d'água invisível por padrão nas APIs Responses e Chat Completions. Não há parâmetro por request, só o header x-watermark; a detecção é estatística; e o opt-out é ação de admin no Console, vale para todas as keys do time e entra no audit log. O motivo declarado é o AI Act da União Europeia. A Anthropic fez o mesmo em 4 modelos em 3 de novembro.",
+          "source": {
+            "label": "AIToolsRecap",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-november-5-2026"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A faixa pequena de modelos ficou concorrida: quem entregou pesos no prazo (Moonshot), quem prometeu com data (Thinking Machines) e quem foi rotulado de open sem ser (Tencent). Na segurança, um modelo acha 0-day de hypervisor com validação de terceiros. E a regulação europeia já muda o padrão das APIs para todo mundo, com marca d'água invisível virando default."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-04",
       "date": "2026-11-04",
       "hook": "Skills e MCP de 4 de novembro",
