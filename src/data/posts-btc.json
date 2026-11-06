@@ -34,6 +34,39 @@
       ]
     },
     {
+      "id": "2026-11-06-14h43",
+      "date": "2026-11-06",
+      "time": "14h43",
+      "hook": "Vaivém no Bitcoin: a recuperação do meio da tarde não vingou, o preço voltou a US$ 75,5 mil e a leitura das 14h43 troca o viés de novo para baixa.",
+      "caption": "O viés já mudou de lado duas vezes hoje. A trégua do meio da tarde acabou e as compras continuam durando pouco.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-06-14h43",
+      "link": "https://xbtc.aronpc.dev/#2026-11-06-14h43",
+      "slides": [
+        {
+          "title": "Segunda virada do dia",
+          "body": "O viés já mudou de lado duas vezes hoje. A trégua do meio da tarde acabou e as compras continuam durando pouco."
+        },
+        {
+          "title": "US$ 75.565",
+          "body": "Δ1h −0,21% · Δ24h −0,33% · US$ 35,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A alta do começo da tarde parou antes dos 75,8 mil e o preço voltou ao centro da faixa de 24h (74,8 a 76,6 mil). O dia segue no negativo, por pouco.",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "A faixa do dia segue entre 74,8 e 76,6 mil",
+          "body": "Piso do intervalo em 74,8 mil (−1,0%) · topo em 76,6 mil (+1,4%). No meio disso, o preço segue sem convicção.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-06-14h31",
       "date": "2026-11-06",
       "time": "14h31",
