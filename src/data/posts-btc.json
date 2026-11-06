@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-06-14h31",
+      "date": "2026-11-06",
+      "time": "14h31",
+      "hook": "Cinco horas depois, a alta da manhã já era: BTC a US$ 75,5 mil, de novo na parte de baixo do canal do dia, e a queda de 24 horas ainda em 4,9%.",
+      "caption": "A subida das 9h durou pouco. O preço devolveu o trecho inteiro e voltou a rondar a borda de baixo do dia, em 75,2 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-06-14h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-06-14h31",
+      "slides": [
+        {
+          "title": "A tarde apagou a manhã",
+          "body": "A subida das 9h durou pouco. O preço devolveu o trecho inteiro e voltou a rondar a borda de baixo do dia, em 75,2 mil."
+        },
+        {
+          "title": "US$ 75.549",
+          "body": "Δ1h −0,4% · Δ24h −4,9% · US$ 44,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço de volta ao trecho de baixo do canal do dia (75,2 a 78,3 mil); a recompra não apareceu depois que a alta da manhã se desfez."
+        },
+        {
+          "title": "O dia encolheu para 75,2 a 76,4 mil",
+          "body": "Borda inferior 75,2 mil (−0,5%) · Teto próximo 76,4 mil (+1,1%) · Topo do canal 78,3 mil (+3,6%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-06-09h32",
       "date": "2026-11-06",
       "time": "09h32",
