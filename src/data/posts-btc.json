@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-06-05h35",
+      "date": "2026-11-06",
+      "time": "05h35",
+      "hook": "Duas horas depois do primeiro teste, pressionaram a mesma marcação de baixo de novo, e ela aguentou. BTC a US$ 75,5 mil, respirando, sem convicção.",
+      "caption": "75.208 segurou a pressão pela segunda vez na madrugada; a resposta foi curta, +0,3% na hora, e o preço continua no trecho de baixo do canal do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-06-05h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-06-05h35",
+      "slides": [
+        {
+          "title": "O segundo teste veio e o chão respondeu",
+          "body": "75.208 segurou a pressão pela segunda vez na madrugada; a resposta foi curta, +0,3% na hora, e o preço continua no trecho de baixo do canal do dia."
+        },
+        {
+          "title": "US$ 75.547",
+          "body": "Δ1h +0,3% · Δ24h −6,2% · US$ 2,1 bi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Marcou o mínimo duas vezes e não passou; a reação parou antes de 75.800, então o dia segue sem direção · Smart Money: funding +0,00% e L/S 3,10",
+          "source": "https://www.coinglass.com/Bitcoin"
+        },
+        {
+          "title": "O repique esbarra em 75.800",
+          "body": "Marcação de baixo 75.208 (−0,5%) · Teto local 76.000 (+0,6%) · Volume da hora a 0,83x da média",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-06-04h32",
       "date": "2026-11-06",
       "time": "04h32",
