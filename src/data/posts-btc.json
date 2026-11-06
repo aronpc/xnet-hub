@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-06-04h32",
+      "date": "2026-11-06",
+      "time": "04h32",
+      "hook": "Onze horas rodando o mesmo corredor e o preço foi parar colado na borda de baixo: US$ 75,3 mil. Primeira leitura do dia apontando para baixo.",
+      "caption": "O dia inteiro girando entre 75,2 e 76,4 mil, e agora a cotação roça a borda inferior, a 0,1% dela.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-06-04h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-06-04h32",
+      "slides": [
+        {
+          "title": "A banda de baixo, enfim",
+          "body": "O dia inteiro girando entre 75,2 e 76,4 mil, e agora a cotação roça a borda inferior, a 0,1% dela."
+        },
+        {
+          "title": "US$ 75.291",
+          "body": "Δ1h −0,4% · Δ24h −6,5% · US$ 2,0 bi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Primeira leitura do dia fora da neutralidade: interesse aberto sobe a cada hora (95,8k BTC) enquanto o preço cede · Smart Money: funding +0,01% e L/S 3,07",
+          "source": "https://www.coinglass.com/Bitcoin"
+        },
+        {
+          "title": "75.208 decide o próximo passo",
+          "body": "Suporte 75.208 (−0,1%) · Resistência 76.400 (+1,5%) · Volume da hora a 0,35x da média, o mais seco do range",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-05-21h32",
       "date": "2026-11-05",
       "time": "21h32",
