@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-05-20h32",
+      "date": "2026-11-05",
+      "time": "20h32",
+      "hook": "O preço tocou 75,2 mil, a menor cotação das últimas 24 horas, e voltou a 75,8 mil na mesma hora. É a nona hora seguida dentro da mesma faixa, e as apostas em alta, longe de recuarem com o susto, bateram o recorde do dia.",
+      "caption": "Caiu a 75,2 mil, voltou a 75,8 mil e segue na nona hora da faixa de 75,2 a 76,4 mil; no acumulado de 24 horas, queda de 5,7%.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-05-20h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-05-20h32",
+      "slides": [
+        {
+          "title": "Cedeu, mas não quebrou",
+          "body": "Caiu a 75,2 mil, voltou a 75,8 mil e segue na nona hora da faixa de 75,2 a 76,4 mil; no acumulado de 24 horas, queda de 5,7%."
+        },
+        {
+          "title": "US$ 75.816",
+          "body": "Δ1h −0,3% · Δ24h −5,7% · US$ 1,9 bi em 24h na Binance",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Nona hora na faixa de 75,2 a 76,4 mil; a queda abaixo de 75,6 mil foi absorvida e o mínimo de 24h, 75.208, não durou uma hora · Smart Money: funding +0,01% + L/S 2,96, recorde do dia, com OI em 94,4k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O aperto chega à décima hora",
+          "body": "Suporte 75.208 (−0,8%) · Resistência 76.400 (+0,8%), cada borda a menos de 1% do preço atual",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-05-14h33",
       "date": "2026-11-05",
       "time": "14h33",
