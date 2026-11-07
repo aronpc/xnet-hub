@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-07-18h32",
+      "date": "2026-11-07",
+      "time": "18h32",
+      "hook": "O Bitcoin passou o sábado inteiro colado na faixa dos 75,6 mil, e foi nela que o dia virou: o preço caiu para baixo da linha que valia desde a madrugada, com volume fraco e o mercado lotado no lado contrário do movimento.",
+      "caption": "Dezoito leituras seguidas no mesmo corredor. A décima nona saiu do lugar.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-07-18h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-07-18h32",
+      "slides": [
+        {
+          "title": "A faixa que segurava o dia cedeu",
+          "body": "Dezoito leituras seguidas no mesmo corredor. A décima nona saiu do lugar."
+        },
+        {
+          "title": "US$ 75.567",
+          "body": "Δ1h −0,2% · Δ24h −0,2% · US$ 11,4 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Primeira leitura vendedora do dia, depois de 18 horas sem lado · Smart money: funding +0,004%, L/S 3,06 e OI estável em 96,2k BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Os próximos números",
+          "body": "Abaixo do preço: 75.200 (−0,5%) e 74.900 (−0,9%) · Acima: 76.000 (+0,6%) e 76.250 (+0,9%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-07-12h32",
       "date": "2026-11-07",
       "time": "12h32",
