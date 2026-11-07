@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-06-20h55",
+      "date": "2026-11-06",
+      "time": "20h55",
+      "hook": "A noite chegou diferente da manhã: o Bitcoin apagou o prejuízo do dia, subiu a 75,9 mil e ocupou a parte de cima da faixa das últimas 24 horas.",
+      "caption": "A recuperação veio sem alarde e deixou o preço na zona mais alta da faixa de 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-06-20h55",
+      "link": "https://xbtc.aronpc.dev/#2026-11-06-20h55",
+      "slides": [
+        {
+          "title": "O dia virou",
+          "body": "A recuperação veio sem alarde e deixou o preço na zona mais alta da faixa de 24 horas."
+        },
+        {
+          "title": "US$ 75.905",
+          "body": "Δ1h +0,24% · Δ24h +0,09% · US$ 29,6 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço no terço superior da faixa de 24h (74,8 a 76,5 mil), com o dia já em leve alta. A subida foi lenta, mas trocou o viés para alta."
+        },
+        {
+          "title": "A 0,8% da linha de cima",
+          "body": "Linha de cima: 76,5 mil (+0,8%) · linha de baixo: 74,8 mil (−1,5%). O preço encostou na metade superior; as próximas leituras mostram se gruda lá ou volta ao centro.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-06-16h32",
       "date": "2026-11-06",
       "time": "16h32",
