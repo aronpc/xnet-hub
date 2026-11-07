@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-07-12h32",
+      "date": "2026-11-07",
+      "time": "12h32",
+      "hook": "Quarta hora seguida com o Bitcoin preso num trecho de menos de mil dólares: US$ 75,7 mil, o volume mais fraco do dia e três em cada quatro contas esperando na mesma direção.",
+      "caption": "O preço segue entre 75,4 e 76,2 mil, bem abaixo do ritmo normal de negócios. A definição ficou para depois.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-07-12h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-07-12h32",
+      "slides": [
+        {
+          "title": "Quatro horas no mesmo trecho",
+          "body": "O preço segue entre 75,4 e 76,2 mil, bem abaixo do ritmo normal de negócios. A definição ficou para depois."
+        },
+        {
+          "title": "US$ 75.798",
+          "body": "Δ1h −0,1% · Δ24h +0,59% · US$ 16,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Quatro leituras dentro do mesmo canal, com volume a 41% da média e sentimento em 25, zona de medo extremo · Smart money: funding neutro e 75% das contas posicionadas na compra",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A definição fica no canal",
+          "body": "Piso do dia em 75.410 (−0,5%) · teto do canal em 76.250 (+0,6%). O mercado está apertado dos dois lados.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de contexto, sem recomendação."
+        }
+      ]
+    },
+    {
       "id": "2026-11-06-20h55",
       "date": "2026-11-06",
       "time": "20h55",
