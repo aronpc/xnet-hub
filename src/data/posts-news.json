@@ -2,6 +2,62 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-07",
+      "date": "2026-11-07",
+      "hook": "Projetos e repos de 7 de novembro",
+      "caption": "Dia de tooling para agente de código: um histórico forense do que o agente fez, um editor onde time e agente commitam juntos, um scanner de roubo de credenciais antes de o clone rodar, e um workflow engine que compila jobs em vez de replayar.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-07",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-07",
+      "slides": [
+        {
+          "title": "Projetos e repos de 7 de novembro",
+          "body": "Dia de tooling para agente de código: um histórico forense do que o agente fez, um editor onde time e agente commitam juntos, um scanner de roubo de credenciais antes de o clone rodar, e um workflow engine que compila jobs em vez de replayar."
+        },
+        {
+          "title": "Stroq: auditoria local do que o agente fez",
+          "body": "Projeto open-source que registra na sua máquina cada decisão do agente de código: o que rodou, o que mudou e o motivo, para auditoria depois. Fez 90 pontos no Show HN.",
+          "source": "github.com/AGGIB/Stroq"
+        },
+        {
+          "title": "Evergreen, da Carta: time e agente no mesmo commit",
+          "body": "A Carta lançou ambiente de código multiplayer para times trabalhando com agentes no mesmo repositório, com presença e handoff em tempo real.",
+          "source": {
+            "label": "evergreen.carta.com",
+            "url": "https://evergreen.carta.com/blog/introducing-evergreen"
+          }
+        },
+        {
+          "title": "CloneGuard: escaneie o repo antes de rodar",
+          "body": "CLI open-source que examina dependências e código de repositórios npm e pypi atrás de padrões de exfiltração de tokens, antes de qualquer execução.",
+          "source": "github.com/tharun208/cloneguard"
+        },
+        {
+          "title": "Dropbox compra a Tigris por US$ 350 mi",
+          "body": "Em dinheiro, a maior aquisição da história do Dropbox. A Tigris faz storage pensado para a era de agentes e tinha captado cerca de US$ 31 mi.",
+          "source": {
+            "label": "Crunchbase News",
+            "url": "https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/"
+          }
+        },
+        {
+          "title": "Waymark: workflow compilado, não replayado",
+          "body": "Open-source do Pierce Freeman em que workflows viram programas compilados, em vez de orquestração por replay de passos, com determinismo e reuso de grafo. Fez 53 pontos no Show HN.",
+          "source": "github.com/piercefreeman/waymark"
+        },
+        {
+          "title": "LLM pode se redesenhar durante o treino?",
+          "body": "A DoubleAI publicou research release investigando self-modification no treinamento: o modelo propondo mudanças na própria arquitetura e rotina.",
+          "source": {
+            "label": "doubleai.com",
+            "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A confiança em agentes virou mercado: auditoria local no Stroq, editor multiplayer na Carta e barreira de credencial no CloneGuard, tudo na mesma semana. A orquestração ganhou alternativa ao replay com o Waymark, e storage de agentes virou alvo de M&A. Quem adota agente de código hoje compra junto o problema de auditar o que ele fez."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-07",
       "date": "2026-11-07",
       "hook": "Panorama IA de 7 de novembro",
