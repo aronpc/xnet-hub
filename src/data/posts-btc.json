@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-07-19h32",
+      "date": "2026-11-07",
+      "time": "19h32",
+      "hook": "Sábado inteiro de mercado parado, e a primeira vela com volume de verdade veio justamente absorver a queda da tarde",
+      "caption": "O movimento abaixo de 75,6 mil foi devolvido em menos de uma hora\n\nLeia: https://xbtc.aronpc.dev/#2026-11-07-19h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-07-19h32",
+      "slides": [
+        {
+          "title": "A queda encontrou comprador",
+          "body": "O movimento abaixo de 75,6 mil foi devolvido em menos de uma hora"
+        },
+        {
+          "title": "US$ 75.663",
+          "body": "Δ1h +0,1% · Δ24h -0,4% · volume 24h US$ 11,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Canal de 75,6 a 76,25 mil recomposto; o próximo passo depende de 76,0 mil · funding +0,005% e L/S 3,07 no extremo",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "1,5× a média da hora",
+          "body": "344 BTC na última vela contra 224 de média: a primeira força real do sábado apareceu no lado da compra",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-07-18h32",
       "date": "2026-11-07",
       "time": "18h32",
