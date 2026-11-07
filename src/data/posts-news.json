@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-07",
+      "date": "2026-11-07",
+      "hook": "Skills e MCP de 7 de novembro",
+      "caption": "O release do Claude Code rouba o dia com MCP tasks em background. No ecossistema, MCP cruza para harness não-Anthropic, memória estruturada volta pelo protocolo e as skills visuais ganham capítulo em 3D.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-07",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-07",
+      "slides": [
+        {
+          "title": "Skills e MCP de 7 de novembro",
+          "body": "O release do Claude Code rouba o dia com MCP tasks em background. No ecossistema, MCP cruza para harness não-Anthropic, memória estruturada volta pelo protocolo e as skills visuais ganham capítulo em 3D."
+        },
+        {
+          "title": "2.1.319: MCP task roda em background",
+          "body": "Release de 6 de novembro: quando um MCP server executa tool call como task, o Claude Code move a execução para background e devolve o resultado ao terminar; a env CLAUDE_CODE_DISABLE_MCP_TASK_BACKGROUND desliga. Vieram junto o auto mode endurecido, o setting denyInsteadOfPrompting, o /usage com spend diário, semanal e mensal via gateway, e fixes de handshake MCP antigo e de tool call longo após resume.",
+          "source": "github.com/anthropics/claude-code/releases/tag/v2.1.319"
+        },
+        {
+          "title": "Uma foto vira pack de stickers animados",
+          "body": "Skill para Claude Code e Codex que transforma uma foto de personagem em pacote completo de stickers animados com identidade consistente, nos formatos de WeChat e Telegram. Já tem 326 estrelas.",
+          "source": "github.com/imraywang/ray-sticker-shop"
+        },
+        {
+          "title": "MCP cruza para o DeepSeek Harness",
+          "body": "Bridge que expõe o craft-anything local como tools mcp__craft__* no DSH, o harness open-source da DeepSeek. 53 estrelas.",
+          "source": "github.com/Fanqi89/dsh-craft-anything"
+        },
+        {
+          "title": "Ontologia como memória de agente, via MCP",
+          "body": "Server que expõe a camada semântica da NVIDIA Auto Ontology junto de base de conhecimento pessoal como MCP para o Claude. 49 estrelas.",
+          "source": "github.com/gogoymh/auto-ontology-mcp"
+        },
+        {
+          "title": "Foto vira objeto 3D que se desmonta",
+          "body": "Skill do Claude Code que converte foto em objeto 3D em exploded view animado, com Blender rodando headless. 49 estrelas.",
+          "source": "github.com/Nyxera0x/cutaway"
+        },
+        {
+          "title": "Seu pipeline vira mapa de metrô animado",
+          "body": "Skill que lê o pipeline, de CI a agentes e serviços, e gera mapa de metrô animado com linhas, estações e replay do fluxo real. 40 estrelas.",
+          "source": "github.com/Galehashoid/flow-map-resp"
+        },
+        {
+          "title": "Skill de trading com evidência graduada",
+          "body": "Skill que lê footprint, DOM e volume profile e responde classificando cada afirmação por nível de evidência. 39 estrelas.",
+          "source": "github.com/WolfZorace44832/Orderflow-Claude-skill-resocket"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O Claude Code destravou o server lento com tasks em background, MCP e skills atravessaram a fronteira do harness da DeepSeek, memória estruturada voltou plugada no protocolo e skill de domínio profissional trouxe disciplina de evidência. O padrão virou commodity. A diferença agora está em quem escreve a skill."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-07",
       "date": "2026-11-07",
       "hook": "Projetos e repos de 7 de novembro",
