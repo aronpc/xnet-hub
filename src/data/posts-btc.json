@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-08-14h35",
+      "date": "2026-11-08",
+      "time": "14h35",
+      "hook": "Depois de um sábado inteiro preso no canal de 75,6 a 76,2 mil, o domingo trouxe assunto novo: o preço passou a tarde colado na borda de baixo, e três em cada quatro contas seguem apostando em alta",
+      "caption": "A leitura de 14h35 marca baixa depois de um sábado inteiro de lado\n\nLeia: https://xbtc.aronpc.dev/#2026-11-08-14h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-08-14h35",
+      "slides": [
+        {
+          "title": "O viés virou pra baixo",
+          "body": "A leitura de 14h35 marca baixa depois de um sábado inteiro de lado"
+        },
+        {
+          "title": "US$ 75.599",
+          "body": "Δ1h -0,5% · Δ24h -0,2% · volume 24h US$ 10,5 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço a um passo da borda de baixo do canal de 24h (75.571 a 76.200) · funding +0,003%, neutro · L/S 3,0, com 75% das contas em long",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Tudo passa por 75,5 mil agora",
+          "body": "Suporte 75.500 a -0,13% · Resistência 76.000 a +0,53% · acima de 76 mil, o teto de 76.200 entra em cena",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-07-19h32",
       "date": "2026-11-07",
       "time": "19h32",
