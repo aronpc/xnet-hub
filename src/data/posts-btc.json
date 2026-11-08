@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-08-15h32",
+      "date": "2026-11-08",
+      "time": "15h32",
+      "hook": "A pressão embaixo aliviou. O preço passou o começo da tarde encostado na região de 75,6 mil, não passou e voltou ao centro da faixa do dia. Neste domingo de movimento fraco, a atenção muda de lado: agora é o teto de 76,2 mil que está na fila.",
+      "caption": "O viés das 15h32 volta a LATERAL depois do susto lá embaixo\n\nLeia: https://xbtc.aronpc.dev/#2026-11-08-15h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-08-15h32",
+      "slides": [
+        {
+          "title": "De volta ao meio da faixa",
+          "body": "O viés das 15h32 volta a LATERAL depois do susto lá embaixo"
+        },
+        {
+          "title": "US$ 75.837",
+          "body": "Δ1h +0,3% · Δ24h +0,1% · volume 24h de US$ 10,7 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A região de 75,6 mil segurou e o preço voltou ao centro da faixa de 75.571 a 76.200 · funding +0,004%, neutro · L/S 3,1",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "A fila andou pro teto",
+          "body": "Faixa de baixo em 75.500 (-0,4%) e teto em 76.200 (+0,5%); acima dele, 76.500 e 77.000 entram no radar",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-08-14h35",
       "date": "2026-11-08",
       "time": "14h35",
