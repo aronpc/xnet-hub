@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-08-18h36",
+      "date": "2026-11-08",
+      "time": "18h36",
+      "hook": "O domingo terminou sem energia. O preço passou o fim de tarde encostado na parte de baixo do dia, perto de 75,6 mil, negociando com metade do volume habitual. E o desequilíbrio segue grande: três de cada quatro contas continuam na direção contrária, esperando alta. A leitura das 18h36 aponta para baixo.",
+      "caption": "Leitura de 18h36 marca queda depois da trégua do meio da tarde\n\nLeia: https://xbtc.aronpc.dev/#2026-11-08-18h36",
+      "link": "https://xbtc.aronpc.dev/#2026-11-08-18h36",
+      "slides": [
+        {
+          "title": "Fim de tarde sem força",
+          "body": "Leitura de 18h36 marca queda depois da trégua do meio da tarde"
+        },
+        {
+          "title": "US$ 75.646",
+          "body": "Δ1h -0,2% · Δ24h +0,1% · volume 24h de US$ 10,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no andar de baixo do dia (75,5 a 76,5 mil), com candles fracos em 0,5× do volume médio · funding +0,004%, neutro · L/S 3,0, com 75% das contas em alta",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Duas referências pro dia",
+          "body": "Piso do dia em 75.500 (-0,2%) e topo em 76.500 (+1,1%); se o piso ceder, a próxima parada fica em 74.600, e a virada pra cima exige volume acima de 76.500",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-08-15h32",
       "date": "2026-11-08",
       "time": "15h32",
