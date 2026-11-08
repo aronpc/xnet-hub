@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-08",
+      "date": "2026-11-08",
+      "hook": "Panorama IA de 8 de novembro",
+      "caption": "Semana em que o mercado repriciou a IA: rout da Nasdaq, IPO da Anthropic encolhendo e moratória de data center subindo ao Congresso. No produto, vídeo gerado ficou barato e pesos abertos ganharam licença com recorte geográfico.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-08",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-08",
+      "slides": [
+        {
+          "title": "Panorama IA de 8 de novembro",
+          "body": "Semana em que o mercado repriciou a IA: rout da Nasdaq, IPO da Anthropic encolhendo e moratória de data center subindo ao Congresso. No produto, vídeo gerado ficou barato e pesos abertos ganharam licença com recorte geográfico."
+        },
+        {
+          "title": "IPO da Anthropic é reprecificado",
+          "body": "Depois do pior dia da Nasdaq 100 desde a pandemia (queda de 6,4%, cerca de US$ 3 tri apagados do S&P 500), compradores do IPO da Anthropic discutem valuation de US$ 1,2 a 1,3 tri. Alguns falam em US$ 1,1 tri. Os bancos ouviram US$ 1,4 a 1,5 tri, e o alvo inicial chegava a US$ 2 tri. O roadshow da semana de 9 de novembro está em dúvida.",
+          "source": {
+            "label": "Bloomberg, 6 nov",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout"
+          }
+        },
+        {
+          "title": "Moratórias de data center chegam ao Congresso",
+          "body": "Northampton, em Massachusetts, aprovou por unanimidade moratória de um ano a data centers de IA. Depois da onda eleitoral, progressistas pressionam por moratória nacional revivendo o S.4214, de Sanders e Ocasio-Cortez. Em Nova York, a EO 62 segue valendo para instalações acima de 50 MW.",
+          "source": {
+            "label": "Daily Hampshire Gazette, 6 nov",
+            "url": "https://gazettenet.com/2026/11/06/northampton-city-council-unanimously-approves-yearlong-moratorium-on-ai-data-centers/"
+          }
+        },
+        {
+          "title": "Gemini Omni 1.2 Flash chega ao GA",
+          "body": "Google abriu o GA na Gemini API, AI Studio e Vertex: clipes nativos de até 15 segundos (antes eram 10) com controle de 1 segundo, edição conversacional em vários turnos e SynthID em toda saída. O preço caiu cerca de 30%, para US$ 0,07 por segundo em 720p. Um clipe de 15 segundos sai por cerca de US$ 1. O Google alega 62% de win rate de consistência visual sobre o Omni 1.1.",
+          "source": {
+            "label": "Google Cloud, 6 nov",
+            "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available"
+          }
+        },
+        {
+          "title": "Baidu abre o ERNIE 5.5 Flash Base, com carve-out",
+          "body": "MoE esparso de 280 bilhões de parâmetros, cerca de 14 bilhões ativos por token, pré-treinado do zero em 33,5 tri de tokens. Publicado em FP8 e BF16 na Hugging Face e ModelScope, como checkpoint base sem pós-treino. A licença exclui União Europeia, Reino Unido e Coreia do Sul, e exige selo \"Powered by ERNIE\" em produtos comerciais.",
+          "source": {
+            "label": "The Decoder, 5 nov",
+            "url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/"
+          }
+        },
+        {
+          "title": "DeepMind acha fraquezas no RSA-1024 legado",
+          "body": "O time de Pushmeet Kohli, com Nadia Heninger e Emmanuel Thomé, publicou falsificação de assinatura cerca de 1.600 vezes mais barata contra chaves de 1024 bits com digest curto, e fatoração em lote que corta ~30 vezes o custo marginal de chaves relacionadas. Validado em sandbox contra uma chave já resolvida. Chaves de 2048 bits ou mais não são afetadas.",
+          "source": {
+            "label": "Crypto Briefing, 6 nov",
+            "url": "https://cryptobriefing.com/google-deepmind-ai-rsa-1024-bit-weaknesses/"
+          }
+        },
+        {
+          "title": "Todo Mac roda um classificador de familiares",
+          "body": "Análise do 8rank.ai documenta que o Apple Intelligence roda localmente um classificador de relações familiares sobre as fotos do usuário, sem qualquer documentação pública da Apple.",
+          "source": {
+            "label": "8rank.ai, 7 nov",
+            "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"
+          }
+        },
+        {
+          "title": "MaxxBench questiona os scores do DeepSWE",
+          "body": "O time do MaxxBench questionou em público se os scores recentes no benchmark DeepSWE medem capacidade real de engenharia ou artefatos de benchmark.",
+          "source": {
+            "label": "MaxxBench, 7 nov",
+            "url": "https://maxxbench.unlap.ai/research/why-maxxbench/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O balanço passou o benchmark como restrição da semana: IPO repriciado em 48 horas, moratória de data center no Congresso e o fim do grupo AI Frontiers do Microsoft Research. No produto, vídeo-IA a US$ 1 o clipe e pesos abertos com recorte de jurisdição. A pressão migrou do hype para a conta."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-07",
       "date": "2026-11-07",
       "hook": "Skills e MCP de 7 de novembro",
