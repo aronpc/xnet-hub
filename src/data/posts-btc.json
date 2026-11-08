@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-08-19h32",
+      "date": "2026-11-08",
+      "time": "19h32",
+      "hook": "Desta vez caiu. O preço perdeu a marca dos 75 mil no fim da tarde, passou direto por 74.600 e agora negocia a 74.374 dólares, a pouco mais de 1% da mínima do dia. O movimento veio com três vezes o volume normal, e o medo subiu junto: o índice de sentimento foi a 28. A leitura das 19h32 segue para baixo.",
+      "caption": "Queda de 1,7% na última hora deixa o preço em US$ 74.374, colado na mínima do dia\n\nLeia: https://xbtc.aronpc.dev/#2026-11-08-19h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-08-19h32",
+      "slides": [
+        {
+          "title": "75 mil cedeu de vez",
+          "body": "Queda de 1,7% na última hora deixa o preço em US$ 74.374, colado na mínima do dia"
+        },
+        {
+          "title": "US$ 74.374",
+          "body": "Δ1h -1,7% · Δ24h -1,8% · volume 24h de US$ 14,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço a 29% do intervalo de 24h, com vela a 3,00× o volume médio · funding +0,003%, neutro · L/S 2,85, com 74% das contas ainda apostando em alta",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "A linha da noite é 73.500",
+          "body": "A área de 73.500 (-1,2%) decide as próximas horas; para cima, a recuperação só se confirma com volume real acima de 76.500 (+2,9%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-08-18h36",
       "date": "2026-11-08",
       "time": "18h36",
