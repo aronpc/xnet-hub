@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-08",
+      "date": "2026-11-08",
+      "hook": "Skills e MCP de 8 de novembro",
+      "caption": "A segurança do harness foi ao centro da semana: o fluxo \"don't ask again\" do Claude Code deixou senhas expostas em 1.122 repos públicos, e a defesa respondeu no mesmo formato, skill e MCP. Enquanto isso, a camada de skills consolida como produto.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-08",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-08",
+      "slides": [
+        {
+          "title": "Skills e MCP de 8 de novembro",
+          "body": "A segurança do harness foi ao centro da semana: o fluxo \"don't ask again\" do Claude Code deixou senhas expostas em 1.122 repos públicos, e a defesa respondeu no mesmo formato, skill e MCP. Enquanto isso, a camada de skills consolida como produto."
+        },
+        {
+          "title": "\"Don't ask again\" expõe senhas em 1.122 repos",
+          "body": "Pesquisa da Apiiro mostra que o fluxo \"don't ask again\" de permissões do Claude Code deixa segredos (senhas, tokens) em arquivos commitados. 1.122 repositórios públicos do GitHub contêm credenciais expostas por esse caminho.",
+          "source": {
+            "label": "Apiiro, 7 nov",
+            "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+          }
+        },
+        {
+          "title": "vibe-shield: 60 regras estáticas contra slop",
+          "body": "MCP server + skill que faz varredura estática de segurança em código gerado por agente e audita skills instaladas em busca de poisoning. São 60 regras declaradas, sem LLM-judge no meio.",
+          "source": "github.com/avivgerz-hue/vibe-shield"
+        },
+        {
+          "title": "mattpocock/skills passa de 317 mil estrelas",
+          "body": "\"Skills for Real Engineers\", direto do diretório .agents do Matt Pocock: TDD e disciplinas de engenharia empacotadas como agent skills. Segue em velocity alta, com push nesta semana.",
+          "source": "github.com/mattpocock/skills"
+        },
+        {
+          "title": "phoneuse: iPhone sem jailbreak, do Linux",
+          "body": "Espelha a tela do iPhone via AirPlay e injeta mouse/teclado por Bluetooth HID de um PC Linux. Nenhum jailbreak, nenhum MCP no meio: só protocolos padrão.",
+          "source": "github.com/lxe/phoneuse"
+        },
+        {
+          "title": "tinker-ai-skill: fine-tune nas suas sessões",
+          "body": "Agent Skill que exporta o histórico de sessões do Claude Code e fine-tuna um modelo agentic nele via Tinker, criando um modelo personalizado ao seu jeito de trabalhar.",
+          "source": "github.com/drost-ai/tinker-ai-skill"
+        },
+        {
+          "title": "solo-to-team-skills: times liderados por humanos",
+          "body": "Pacote de skills para o padrão \"human-led AI team\": delegar tarefas a agentes, exigir evidência verificável, explicar o raciocínio passo a passo e aprender com o resultado.",
+          "source": "github.com/dabingfy-dot/solo-to-team-skills"
+        },
+        {
+          "title": "claude -p vira pipeline completo",
+          "body": "Esqueleto executável + tutorial que encadeia chamadas claude -p em um pipeline de chat: streaming, cadeia de pensamento, envio de imagens, MCP, skills e retomada após desconexão.",
+          "source": "github.com/Saekisui/claude-p-pipeline"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "O harness virou superfície de ataque com contagem pública, e a defesa respondeu no mesmo formato. A skill consolidou como produto: engenharia, gestão de time e pipeline headless empacotados e com estrelas de sobra."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-08",
       "date": "2026-11-08",
       "hook": "Projetos e repos de 8 de novembro",
