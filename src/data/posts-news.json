@@ -2,6 +2,53 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-08",
+      "date": "2026-11-08",
+      "hook": "Projetos e repos de 8 de novembro",
+      "caption": "A dor número 1 dos agentes virou categoria com seis dígitos de estrelas: memória persistente e frota de agents em worktrees isolados. Somando autonomia acima do loop de coding saindo do DeepSeek e identidade delegada do incubador do Zalando.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-08",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-08",
+      "slides": [
+        {
+          "title": "Projetos e repos de 8 de novembro",
+          "body": "A dor número 1 dos agentes virou categoria com seis dígitos de estrelas: memória persistente e frota de agents em worktrees isolados. Somando autonomia acima do loop de coding saindo do DeepSeek e identidade delegada do incubador do Zalando."
+        },
+        {
+          "title": "dsh-superagent-prototype: 20,9 mil estrelas em uma semana",
+          "body": "Repo oficial do DeepSeek para \"Towards a More Autonomous Agent System\", criado em 31 de outubro. É o riser mais rápido da semana no GitHub de IA.",
+          "source": "github.com/deepseek-ai/dsh-superagent-prototype"
+        },
+        {
+          "title": "Orca: frota de coding agents em worktrees",
+          "body": "App desktop (com mobile e runtime remoto) da Stably para rodar Claude Code, Codex e outros em paralelo, cada agente no seu git worktree isolado, com integração GitHub/Linear e acompanhamento pelo celular. Release ativo, com push hoje.",
+          "source": "github.com/stablyai/orca"
+        },
+        {
+          "title": "claude-mem passa de 114 mil estrelas",
+          "body": "Camada de contexto persistente entre sessões para coding agents: captura observações de tool-use, comprime e resume com o agent SDK, guarda em SQLite com busca full-text FTS5 e realimenta nas sessões seguintes.",
+          "source": "github.com/thedotmack/claude-mem"
+        },
+        {
+          "title": "hyperflow-h3-flash: vídeo+áudio de 31B comprimido",
+          "body": "Destilação do MiniMax-H3 de 31 bilhões de parâmetros para 13,7 bilhões, rodando em 4 a 8 steps com quantização INT8 e gerando vídeo e áudio sincronizados. Show HN do time Video-Rebirth.",
+          "source": "github.com/Video-Rebirth/hyperflow-h3-flash"
+        },
+        {
+          "title": "Zalando publica Agentic Identity Broker",
+          "body": "Broker de identidade que dá a agentes de IA credenciais próprias via delegação OAuth2 com gestão de consentimento: o agente age em nome do usuário sem emprestar o token dele.",
+          "source": "github.com/zalando-incubator/agentic-identity-broker"
+        },
+        {
+          "title": "AegisKernel: confinamento de agente por syscall",
+          "body": "Runtime POSIX que confina agentes de IA aplicando zero-trust a cada syscall, com overhead declarado abaixo de 0,016 ms.",
+          "source": "adikshatriyag-crypto.github.io"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Memória, orquestração e confiança em agentes viraram categoria própria, com repos de seis dígitos de estrelas. Identidade delegada e sandbox de syscall atacam o mesmo muro: o que falta aos agentes não é modelo, é infraestrutura de confiança."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-08",
       "date": "2026-11-08",
       "hook": "Panorama IA de 8 de novembro",
