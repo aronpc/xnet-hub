@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-09",
+      "date": "2026-11-09",
+      "hook": "Skills e MCP de 9 de novembro",
+      "caption": "Com o A2A estável, as duas camadas de interoperabilidade fecharam: MCP para ferramenta, A2A para agente falar com agente. E o dia entregou pontes para dores reais: retomar sessão, contexto caro e dependência cognitiva.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-09",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-09",
+      "slides": [
+        {
+          "title": "Skills e MCP de 9 de novembro",
+          "body": "Com o A2A estável, as duas camadas de interoperabilidade fecharam: MCP para ferramenta, A2A para agente falar com agente. E o dia entregou pontes para dores reais: retomar sessão, contexto caro e dependência cognitiva."
+        },
+        {
+          "title": "Google marca o A2A como estável",
+          "body": "O Agent Development Kit chegou à versão 2.14 com o protocolo agent-to-agent marcado como stable. A comunicação entre agentes saiu do experimental.",
+          "source": {
+            "label": "AI Tools Recap, 8 nov",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-november-08-2026"
+          }
+        },
+        {
+          "title": "Pesquisa agêntica com evidência em primeiro lugar",
+          "body": "Pack de skills com o loop frame, gather evidence, test, verify e synthesize. Cada etapa exige citação verificável antes de avançar para a próxima.",
+          "source": "github.com/wrencanfly/research-loop-skills"
+        },
+        {
+          "title": "Delegue a leitura pesada para um segundo agente",
+          "body": "Servidor MCP em que o agente principal passa leituras longas, como docs, logs e páginas, para um agente secundário. Ele recebe de volta só a resposta.",
+          "source": "github.com/tailucanh/offload-mcp-server"
+        },
+        {
+          "title": "Memória de agente com provenance",
+          "body": "MCP local-first com memória em knowledge graph, histórico, detecção de fatos velhos e procedência de cada informação armazenada.",
+          "source": "github.com/Garyu-tt/noosphere-lite-mcp"
+        },
+        {
+          "title": "Qualquer vídeo vira uma skill",
+          "body": "Pipeline que baixa o vídeo, transcreve com Whisper e converte o tutorial em skill de Claude pronta para invocar.",
+          "source": "github.com/Gemi-Team/video-to-skill"
+        },
+        {
+          "title": "O agente escreve, você aprende",
+          "body": "Skill para Claude Code, Codex e Cursor: o agente continua codando, mas o modo mentor passa a explicar cada decisão no caminho.",
+          "source": "github.com/Shukurov777/mentor-mode"
+        },
+        {
+          "title": "Contexto de projeto que sobrevive entre sessões",
+          "body": "Skill com auto-resume e detecção do que carregar no próximo boot, preservando o contexto de projeto entre sessões do Claude Code.",
+          "source": "github.com/ventuneo/context-bridge"
+        },
+        {
+          "title": "Skill virou a interface da engenharia",
+          "body": "Do hardware ao vídeo, o formato skill deixou de ser dica de prompt e virou produto. E as dores do dia deram o roteiro: memória que sabe de onde veio o fato, sessão que retoma sozinha e contexto que não custa caro."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-09",
       "date": "2026-11-09",
       "hook": "Repos de IA de 9 de novembro",
