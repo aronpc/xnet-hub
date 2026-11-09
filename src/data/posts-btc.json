@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-08-23h32",
+      "date": "2026-11-08",
+      "time": "23h32",
+      "hook": "O domingo terminou melhor do que a noite pedia. O preço passou por 74,9 mil às 21h e voltou aos 75,4 mil dólares. Só que a alta da última hora rodou com 0,8 vez o volume típico: o preço subiu, a participação não.",
+      "caption": "Alta de 0,92% na última hora coloca o Bitcoin em US$ 75.419, de volta ao meio da faixa que ocupou o fim de semana\n\nLeia: https://xbtc.aronpc.dev/#2026-11-08-23h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-08-23h32",
+      "slides": [
+        {
+          "title": "O repique veio, o volume não",
+          "body": "Alta de 0,92% na última hora coloca o Bitcoin em US$ 75.419, de volta ao meio da faixa que ocupou o fim de semana"
+        },
+        {
+          "title": "US$ 75.419",
+          "body": "Δ1h +0,92% · Δ24h -0,29% · volume 24h de US$ 19,26 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço a 64% da faixa de 24h (73,5k a 76,5k), vela com 0,80× do volume médio, sem direção. Smart money: funding +0,010% · L/S 2,83 · 74% das contas apostam na alta",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "A semana abre na mesma faixa",
+          "body": "Uma hora fechada abaixo de 73.500 (-2,5%) aponta a região de 71 mil; acima de 76.500 (+1,4%), o patamar seguinte é 79 mil, se vier com volume real",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-08-21h31",
       "date": "2026-11-08",
       "time": "21h31",
