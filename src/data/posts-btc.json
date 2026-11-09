@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-09-03h33",
+      "date": "2026-11-09",
+      "time": "03h33",
+      "hook": "Quatro fechamentos de hora seguidos para baixo e o Bitcoin foi parar colado na linha dos 74 mil. São 74,2 mil dólares na leitura das 03h33, queda de 2% no dia e apenas 0,3% até a faixa que decide a hora.",
+      "caption": "Leitura das 03h33: quatro fechamentos horários em queda, de 74,9 a 74,3 mil, e preço no terço de baixo do intervalo de 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-11-09-03h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-09-03h33",
+      "slides": [
+        {
+          "title": "A queda encostou nos 74 mil",
+          "body": "Leitura das 03h33: quatro fechamentos horários em queda, de 74,9 a 74,3 mil, e preço no terço de baixo do intervalo de 24h"
+        },
+        {
+          "title": "US$ 74,2 mil",
+          "body": "Δ1h -0,3% · Δ24h -2,0% · volume de US$ 0,9 bi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço a 27% do intervalo de 24h · Dinheiro alavancado: funding +0,01% e razão long/short em 2,8, comprado na direção contrária à queda",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "A faixa de 74 mil está em teste",
+          "body": "Baixo: 74,0 mil (-0,3%) · Cima: 75,0 mil (+1,0%) · Intervalo do dia entre 73,5 e 76,2 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-09-00h30",
       "date": "2026-11-09",
       "time": "00h30",
