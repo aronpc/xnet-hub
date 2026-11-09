@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-09-05h32",
+      "date": "2026-11-09",
+      "time": "05h32",
+      "hook": "Testado de madrugada, o piso de 73,5 mil segurou e o Bitcoin voltou a operar acima dos 74 mil: 74,1 mil dólares na leitura das 05h32, com o dia ainda em queda de 2,2%.",
+      "caption": "A linha dos 74 mil, perdida de madrugada, voltou na sequência; a hora agora se divide entre 73,5 e 74,5 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-09-05h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-09-05h32",
+      "slides": [
+        {
+          "title": "De volta aos 74 mil",
+          "body": "A linha dos 74 mil, perdida de madrugada, voltou na sequência; a hora agora se divide entre 73,5 e 74,5 mil."
+        },
+        {
+          "title": "US$ 74,1 mil",
+          "body": "Δ1h +0,3% · Δ24h -2,2% · volume de US$ 1,1 bi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A recuperação ainda é tímida · funding +0,01% e razão entre posições compradas e vendidas em 2,90, a maior do dia",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "O teto imediato é 74,5 mil",
+          "body": "Piso do dia: 73,5 mil (-0,8%) · Passado o teto, a próxima faixa fica entre 74,8 e 75,2 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-09-04h31",
       "date": "2026-11-09",
       "time": "04h31",
