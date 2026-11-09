@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-09-04h31",
+      "date": "2026-11-09",
+      "time": "04h31",
+      "hook": "Testada a noite toda, a linha dos 74 mil cedeu no meio da madrugada. Bitcoin a 73,9 mil dólares na leitura das 04h31, a meio por cento do menor preço do dia: 73,5 mil.",
+      "caption": "Leitura das 04h31: o preço passou para baixo de 74,0 mil e encostou no limite inferior do intervalo de 24h, entre 73,5 e 76,2 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-11-09-04h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-09-04h31",
+      "slides": [
+        {
+          "title": "Os 74 mil não seguraram",
+          "body": "Leitura das 04h31: o preço passou para baixo de 74,0 mil e encostou no limite inferior do intervalo de 24h, entre 73,5 e 76,2 mil"
+        },
+        {
+          "title": "US$ 73,9 mil",
+          "body": "Δ1h -0,5% · Δ24h -2,5% · volume de US$ 1,0 bi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no fundo do intervalo de 24h · Dinheiro alavancado: funding +0,01% e razão long/short em 2,89, subindo enquanto o preço cai",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "O dia se decide entre 73,5 e 74,2 mil",
+          "body": "Abaixo: 73,5 mil, o menor preço do dia (-0,5%) · De volta acima: 74,0 e 74,2 mil (+0,1% e +0,4%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-09-03h33",
       "date": "2026-11-09",
       "time": "03h33",
