@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-09-07h30",
+      "date": "2026-11-09",
+      "time": "07h30",
+      "hook": "A recuperação da madrugada durou pouco: depois de chegar a 74,6 mil, o Bitcoin devolveu a alta e opera a 74,2 mil dólares na leitura das 07h30, com queda de 2,1% no dia.",
+      "caption": "O viés, neutro na leitura das 05h30, voltou a apontar queda; o preço segue na metade de baixo da banda de 24 horas, entre 73,5 e 76 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-09-07h30",
+      "link": "https://xbtc.aronpc.dev/#2026-11-09-07h30",
+      "slides": [
+        {
+          "title": "O repique ficou pela metade",
+          "body": "O viés, neutro na leitura das 05h30, voltou a apontar queda; o preço segue na metade de baixo da banda de 24 horas, entre 73,5 e 76 mil."
+        },
+        {
+          "title": "US$ 74,2 mil",
+          "body": "Δ1h -0,1% · Δ24h -2,1%",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço a 28% da banda de 24 horas · funding +0,009%, razão compradas/vendidas em 2,94 e 96,9 mil BTC em contratos em aberto",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Faltam 2,4% até o topo da banda",
+          "body": "Base 73,5 mil (-0,9%) · Topo 76 mil (+2,4%) · Fora da banda: 71 mil (-4,3%) ou 78,5 mil (+5,8%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-09-05h32",
       "date": "2026-11-09",
       "time": "05h32",
