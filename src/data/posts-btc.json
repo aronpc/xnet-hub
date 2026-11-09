@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-09-19h35",
+      "date": "2026-11-09",
+      "time": "19h35",
+      "hook": "O Bitcoin passou a tarde inteira numa faixa estreita e chegou à noite encostado no limite de cima: 75,1 mil dólares na leitura das 19h35. Três fechamentos de hora em hora em alta, batendo numa linha que não deixa o preço passar desde o meio-dia.",
+      "caption": "O preço opera na mesma faixa desde o começo da tarde; nenhum fechamento de hora em hora passou de 75,1 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-09-19h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-09-19h35",
+      "slides": [
+        {
+          "title": "Sete horas no mesmo lugar",
+          "body": "O preço opera na mesma faixa desde o começo da tarde; nenhum fechamento de hora em hora passou de 75,1 mil."
+        },
+        {
+          "title": "US$ 75,1 mil",
+          "body": "Δ1h +0,2% · Δ24h +1,0% · volume de US$ 32,7 bilhões em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "7ª hora entre 74,4 e 75,1 mil, agora na borda de cima · Smart Money: funding +0,01% e razão compradas/vendidas em 2,79 · volume da hora 6× menor que o pico do meio-dia",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "A vela das 20h decide",
+          "body": "Linha de baixo: 74,4 mil (-0,9%) · Acima de 75,1 mil: 75,7 mil (+0,9%) e 76,2 mil (+1,5%) · Perdida a de baixo com volume, 73,7 mil (-1,7%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-09-08h33",
       "date": "2026-11-09",
       "time": "08h33",
