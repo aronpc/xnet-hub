@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-09-08h33",
+      "date": "2026-11-09",
+      "time": "08h33",
+      "hook": "A pressão vendedora da madrugada perdeu força: Bitcoin a 74,5 mil dólares na leitura das 08h33, em alta de 0,4% na última hora, com a leitura técnica de volta ao neutro depois de um dia apontando queda.",
+      "caption": "O preço segue dentro da banda diária de 73,5 a 76 mil dólares, sem convicção para nenhum lado.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-09-08h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-09-08h33",
+      "slides": [
+        {
+          "title": "A venda parou de empurrar o preço",
+          "body": "O preço segue dentro da banda diária de 73,5 a 76 mil dólares, sem convicção para nenhum lado."
+        },
+        {
+          "title": "US$ 74,5 mil",
+          "body": "Δ1h +0,35% · Δ24h -1,9%",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço a 38% da banda de 24 horas · funding +0,009%, com contratos comprados somando quase o triplo dos vendidos · 97 mil BTC em aberto",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Sair da faixa de 73,5 a 76 mil define o próximo passo",
+          "body": "Piso 73,5 mil (-1,3%) · Teto 76 mil (+2,1%) · Uma saída da faixa aponta 71 mil ou 78,5 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-09-07h30",
       "date": "2026-11-09",
       "time": "07h30",
