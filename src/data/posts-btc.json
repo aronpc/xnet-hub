@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-09-00h30",
+      "date": "2026-11-09",
+      "time": "00h30",
+      "hook": "O domingo inteiro de lado, e na primeira hora útil da semana o preço escolheu rumo: para baixo. Bitcoin a 74,9 mil dólares na leitura das 00h30, com o detalhe de sempre: quase três de cada quatro contas seguem do lado da alta enquanto ele cede.",
+      "caption": "Leitura das 00h30: viés trocou de lateral para baixa, preço na metade de baixo do intervalo de 24h e pressão vendedora leve, porém constante\n\nLeia: https://xbtc.aronpc.dev/#2026-11-09-00h30",
+      "link": "https://xbtc.aronpc.dev/#2026-11-09-00h30",
+      "slides": [
+        {
+          "title": "A semana abriu para baixo",
+          "body": "Leitura das 00h30: viés trocou de lateral para baixa, preço na metade de baixo do intervalo de 24h e pressão vendedora leve, porém constante"
+        },
+        {
+          "title": "US$ 74.977",
+          "body": "Δ1h -0,59% · Δ24h -1,08% · volume 24h de US$ 20,08 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Vela negativa com 0,61× do volume médio e preço a 49% do intervalo de 24h. Clima de cautela (F&G 29) com 73% das contas ainda do lado da alta",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "O dia se resolve em 73,5 mil",
+          "body": "Uma hora fechada abaixo de 73.500 (-2,0%) abre caminho aos 71 mil; acima de 76.500 (+2,0%) com volume de verdade, 79 mil volta ao papo",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora no xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-08-23h32",
       "date": "2026-11-08",
       "time": "23h32",
