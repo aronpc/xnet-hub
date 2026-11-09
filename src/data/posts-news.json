@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-09",
+      "date": "2026-11-09",
+      "hook": "Panorama IA de 9 de novembro",
+      "caption": "Depois do tombo da Nasdaq, o IPO da Anthropic continua sendo repriciado, agora pela boca dos compradores. No produto, o agente de compras em escala de consumidor chegou. E dois ensaios do dia servem de régua: um contra o pânico do mercado, outro contra a própria dependência de IA.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-09",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-09",
+      "slides": [
+        {
+          "title": "Panorama IA de 9 de novembro",
+          "body": "Depois do tombo da Nasdaq, o IPO da Anthropic continua sendo repriciado, agora pela boca dos compradores. No produto, o agente de compras em escala de consumidor chegou. E dois ensaios do dia servem de régua: um contra o pânico do mercado, outro contra a própria dependência de IA."
+        },
+        {
+          "title": "Amazon lança o agente que bloqueou da Meta",
+          "body": "Em 6 de novembro a Amazon abriu compras por texto via Alexa para clientes convidados nos Estados Unidos, com expansão para milhões de pessoas nas próximas semanas. Isso vem semanas depois de a empresa barrar o Muse, agente de compras da Meta, na mesma superfície.",
+          "source": {
+            "label": "AI Tools Recap, 9 nov",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-november-09-2026"
+          }
+        },
+        {
+          "title": "OpenAI divide a imagem em Flare e Sunburst",
+          "body": "O Images 2.6 virou dois modelos, Flare e Sunburst, cada um num ponto diferente da troca entre velocidade e fidelidade. A exportação em SVG chegou junto, com restrições de uso escondidas no fine print.",
+          "source": {
+            "label": "AI Tools Recap, 8 nov",
+            "url": "https://www.aitoolsrecap.com/Blog/ai-news-november-08-2026"
+          }
+        },
+        {
+          "title": "O chief of staff do CEO da Coinbase é um agente",
+          "body": "Brian Armstrong anunciou no dia 7 que roda com um agente chief of staff sempre ativo, orquestrando um lead agent por área de foco. Os agentes codam, testam e fazem follow-up por ele.",
+          "source": {
+            "label": "FourWeekMBA, 7 nov",
+            "url": "https://fourweekmba.com/ai-coinbase-ceo-armstrong-runs-lead-agents-under-an-ai-chief"
+          }
+        },
+        {
+          "title": "Headsets colhem dados cerebrais sem avisar",
+          "body": "Reportagem da Science, de 8 de novembro: fabricantes de wearables de EEG de consumo estão colhendo dados cerebrais para treinar IA sem aviso adequado aos usuários.",
+          "source": {
+            "label": "Science, 8 nov",
+            "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users"
+          }
+        },
+        {
+          "title": "Etsy treina IA nas suas criações e te proíbe de fazer igual",
+          "body": "A Etsy mudou os termos de uso para permitir treinar IA nas criações dos vendedores. O uso automatizado por parte deles continua bloqueado.",
+          "source": {
+            "label": "Hacker News",
+            "url": "https://news.ycombinator.com/item?id=50416620"
+          }
+        },
+        {
+          "title": "O ensaio que duvida da bolha de IA",
+          "body": "Matteo Raso argumenta ponto a ponto contra a tese de bolha: o capex é financiável, a receita é real, e comparar com 2000 ignora que a infraestrutura gera caixa. Foram 73 pontos no Hacker News.",
+          "source": {
+            "label": "Matteo Raso, 8 nov",
+            "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html"
+          }
+        },
+        {
+          "title": "Manual pessoal contra a atrofia cognitiva",
+          "body": "Sergey Kuhne documentou as táticas que usa para trabalhar com LLM sem entregar o raciocínio: ler o código antes de aceitar o diff, pensar no papel primeiro. Foram 182 pontos no Hacker News.",
+          "source": {
+            "label": "Sergey Kuhne, 8 nov",
+            "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
+          }
+        },
+        {
+          "title": "O agente saiu do slide",
+          "body": "Amazon e Coinbase colocaram agentes de consumo e executivo em produção na mesma semana. Enquanto isso, o mercado repricia o hype e a regulação começa a olhar para o dado neural. A régua que fica: usar a IA sem entregar o raciocínio."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-08",
       "date": "2026-11-08",
       "hook": "Skills e MCP de 8 de novembro",
