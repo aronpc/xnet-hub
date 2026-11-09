@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-09",
+      "date": "2026-11-09",
+      "hook": "Repos de IA de 9 de novembro",
+      "caption": "O dia foi de espelhos: quase todo repo é a versão open do que já roda por aqui, de pesquisa noturna a orquestração de agentes. O que vem de novo é GPU de graça, roteamento por cache e vídeo manuscrito determinístico.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-09",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-09",
+      "slides": [
+        {
+          "title": "Repos de IA de 9 de novembro",
+          "body": "O dia foi de espelhos: quase todo repo é a versão open do que já roda por aqui, de pesquisa noturna a orquestração de agentes. O que vem de novo é GPU de graça, roteamento por cache e vídeo manuscrito determinístico."
+        },
+        {
+          "title": "O load balancer que sabe onde está o seu cache",
+          "body": "A Buoyant abriu o código do Kinference: control plane Apache 2.0 que roteia requisições de vLLM no Kubernetes pela réplica que já tem o prefixo ou KV-cache daquela chamada.",
+          "source": "github.com/Kinference-AI/kinference"
+        },
+        {
+          "title": "Agente que programa Roblox e playtesta o próprio código",
+          "body": "O studsmith planeja, escreve Luau, mostra o diff e playtesta as próprias mudanças dentro do jogo. Ciclo completo de desenvolvimento em ambiente fechado.",
+          "source": "github.com/RapidSailorFreeze/studsmith"
+        },
+        {
+          "title": "Chief of staff para a frota de coding agents",
+          "body": "O numbrone roteia pedidos para manager agents por projeto, que rodam em paralelo com contexto próprio. Uma camada de gerência acima dos coding agents.",
+          "source": "github.com/stevenmichaelthomas/numbrone"
+        },
+        {
+          "title": "O agente que pesquisa enquanto você dorme",
+          "body": "O SuperARIS roda um time de agentes em investigações noturnas em batch e deixa o relatório pronto pela manhã. O modo se chama Auto Research In Sleep.",
+          "source": "github.com/wanshuiyin/SuperARIS"
+        },
+        {
+          "title": "O Colab gratuito virando endpoint OpenAI",
+          "body": "Kit de deployment que expõe um Colab T4 como API local compatível com OpenAI, com cache no Drive e modo offline para o agente consumir.",
+          "source": "github.com/mingzi206-gh/colab-t4-local-api"
+        },
+        {
+          "title": "Vídeo manuscrito com timeline determinística",
+          "body": "Skill open source chinesa que gera diagramas SVG vetoriais crescendo traço a traço, com microanimações em timeline determinística e amostras offline inclusas.",
+          "source": "github.com/liangdabiao/whiteboard-teacher-video-motion"
+        },
+        {
+          "title": "Gerenciar contexto sem desperdiçar o cache",
+          "body": "Tutorial com implementação mínima de três técnicas para frontends de chat com IA: hysteresis trimming, rolling summary e cache alignment.",
+          "source": "github.com/Lentlily22/rolling-summary-tutorial"
+        },
+        {
+          "title": "A casa já roda metade disso",
+          "body": "Pesquisa noturna, orquestração e validação já existem por aqui em versão caseira. O que o dia traz de novo é o custo zero de GPU, o roteamento por cache e o vídeo manuscrito determinístico."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-09",
       "date": "2026-11-09",
       "hook": "Panorama IA de 9 de novembro",
