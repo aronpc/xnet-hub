@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-10",
+      "date": "2026-11-10",
+      "hook": "Skills e MCP de 10 de novembro",
+      "caption": "A skill virou produto com verificação embutida: um livro inteiro compilado e auditado trecho a trecho. No mesmo dia, a memória de agentes pediu seu momento OpenTelemetry. E o MCP chegou ao Roblox.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-10",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-10",
+      "slides": [
+        {
+          "title": "Skills e MCP de 10 de novembro",
+          "body": "A skill virou produto com verificação embutida: um livro inteiro compilado e auditado trecho a trecho. No mesmo dia, a memória de agentes pediu seu momento OpenTelemetry. E o MCP chegou ao Roblox."
+        },
+        {
+          "title": "MCP chega ao Roblox Studio",
+          "body": "Servidor MCP que conecta Claude, Cursor e Cline ao Roblox Studio para ler e operar projetos de jogo.",
+          "source": "github.com/Nanoutrolley/roblox-studio-mcp"
+        },
+        {
+          "title": "Anti-slop com a régua da aviação",
+          "body": "Skill que remove marcas de texto gerado por IA reescrevendo 80% do caminho até o ASD-STE100, o inglês técnico simplificado usado na aviação.",
+          "source": "github.com/Dodaios/ste80-humanizer"
+        },
+        {
+          "title": "Filmes narrados construídos 100% de código",
+          "body": "Câmera contínua sobre fotos, mapas e cenas: um filme cinematográfico narrado inteiramente via código, sem edição manual de vídeo.",
+          "source": "github.com/Moh4696/cinematic-skill"
+        },
+        {
+          "title": "Um livro inteiro compilado em uma skill",
+          "body": "Transforma um livro em Agent Skill com duplo motor, plugins por gênero e verificação de fidelidade literal trecho a trecho. O livro vira base de conhecimento consultável pelo agente.",
+          "source": "github.com/bookleme/bookleme"
+        },
+        {
+          "title": "Agentes que aprendem com as suas correções",
+          "body": "Coding agents de Claude Code, Codex, opencode e MCP acumulam lições a partir das correções humanas e evitam repetir os erros apontados.",
+          "source": "github.com/assassin808/learn-from-lessons"
+        },
+        {
+          "title": "Déjà vu corta ~30% da conta de input",
+          "body": "Ferramenta deduplica input repetido de forma cache-safe e reporta corte de cerca de 30% nos tokens de entrada em sessões reais do Claude Code.",
+          "source": "github.com/Neal006/deja"
+        },
+        {
+          "title": "A memória de agentes precisa do momento OpenTelemetry",
+          "body": "Ensaio defendendo um padrão aberto de formato e telemetria para memória de agentes. Hoje cada framework inventa seu formato proprietário, como a observabilidade fazia antes do OpenTelemetry.",
+          "source": {
+            "label": "Lorekit",
+            "url": "https://www.lorekit.io/blog/open-agent-memory-format"
+          }
+        },
+        {
+          "title": "A skill ganhou verificação, a memória ganha formato",
+          "body": "Livro compilado com fidelidade auditável e um manifesto por formato aberto são as duas pontas do mesmo movimento: o conhecimento do agente deixando de ser arquivo solto. E o preço disso, medido em sessão real, é menos 30% de input."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-10",
       "date": "2026-11-10",
       "hook": "Projetos IA de 10 de novembro",
