@@ -2,6 +2,75 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-10",
+      "date": "2026-11-10",
+      "hook": "Panorama IA de 10 de novembro",
+      "caption": "Hoje é dia de reprice na frontier: a Anthropic cortou 20% do preço do topo de linha e registrou dois marcos de autonomia longa. Lá embaixo, a execução empata em 10 centavos e vira commodity. O mercado ferve, com IPO a 6 dias do pricing, escândalo na NVIDIA e dois avisos de segurança que chegaram juntos.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-10",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-10",
+      "slides": [
+        {
+          "title": "Panorama IA de 10 de novembro",
+          "body": "Hoje é dia de reprice na frontier: a Anthropic cortou 20% do preço do topo de linha e registrou dois marcos de autonomia longa. Lá embaixo, a execução empata em 10 centavos e vira commodity. O mercado ferve, com IPO a 6 dias do pricing, escândalo na NVIDIA e dois avisos de segurança que chegaram juntos."
+        },
+        {
+          "title": "Fable 5.2: 20% mais barata, Fermat em 30 horas",
+          "body": "Fable 5.2 e Mythos 5.2 chegam a US$ 8 e US$ 40 por milhão de tokens (antes 10 e 50), 30% mais rápidas. Mil agentes formalizaram o Último Teorema de Fermat em 30 horas, com uma prova 7 vezes menor que a anterior, que levou 11 dias. Um único prompt projetou um sistema operacional que boota e coordena mais de mil subagentes por 8 dias. Mythos é a mesma base sem salvaguardas cyber/bio, para organizações verificadas.",
+          "source": {
+            "label": "Anthropic",
+            "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+          }
+        },
+        {
+          "title": "Muse Ember: execução de agentes a US$ 0,10",
+          "body": "Quarto modelo da linha Muse da Meta, a US$ 0,10 por milhão de tokens de entrada. É exatamente o preço de Claude Haiku 5.5 e gpt-6-luna. Multimodal, feito para o trabalho repetido: tool calls, subtarefas de código, roteamento, parsing de documentos longos. Nas palavras da própria Meta, Wonder planeja e Ember dá conta do volume.",
+          "source": {
+            "label": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+          }
+        },
+        {
+          "title": "IPO da Anthropic: envia, retrata, a 6 dias do pricing",
+          "body": "E-mails obtidos pela Reuters mostram que a empresa divulgou detalhes do filing e depois recuou. O plano segue: levantar até US$ 6,93 bilhões, com pricing na semana de 16/11, visando valuation acima de US$ 1 trilhão na Nasdaq (ticker ANT). Goldman e Morgan Stanley lideram.",
+          "source": {
+            "label": "Reuters, 10 nov",
+            "url": "https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/"
+          }
+        },
+        {
+          "title": "NVIDIA: conselho abre investigação sobre Jensen Huang",
+          "body": "Jensen Huang admitiu um affair com Alice Huang, suspeita de agente chinesa que, segundo a Bloomberg, passou anos na órbita da NVIDIA. O conselho abriu investigação. Um short seller tinha apontado os laços 6 meses antes. Trump defendeu Huang, e jornal chinês descartou a acusação de espionagem.",
+          "source": {
+            "label": "Axios, 8 nov",
+            "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation"
+          }
+        },
+        {
+          "title": "Gemini manda arquivos do Drive para anotadores humanos",
+          "body": "A descoberta está documentada em repositório público e fez 469 pontos no Hacker News em um dia: o Gemini envia arquivos pessoais do Drive e e-mails para avaliadores humanos, como parte do fluxo de anotação e avaliação.",
+          "source": "github.com/thisisme6598/gemini_files"
+        },
+        {
+          "title": "ChatGPT Desktop repassa o seu agente SSH",
+          "body": "Relato com 206 pontos no Hacker News: o app desktop do ChatGPT encaminha o agente SSH do usuário quando executa código em máquinas remotas, expondo chaves de sessão a terceiros.",
+          "source": "news.ycombinator.com/item?id=50422628"
+        },
+        {
+          "title": "E-means supera o k-means com um décimo das épocas",
+          "body": "Novo algoritmo de clustering: nos benchmarks publicados, qualidade superior ao k-means com 10 vezes menos épocas de treinamento.",
+          "source": "e-means.github.io"
+        },
+        {
+          "title": "Lovable: deletamos quase todo o nosso código de agentes",
+          "body": "Post-mortem de quem mantém código escrito por agentes em escala de 100 mil PRs. A conclusão da equipe: código de agente sem dono apodrece, e rewrite recorrente sai mais barato que manutenção.",
+          "source": "lovable.dev/blog/how-we-built-lovable-and-why-we-keep-rebuilding-it"
+        },
+        {
+          "title": "O reprice chegou à frontier",
+          "body": "O topo de linha corta 20% e empilha marcos de autonomia enquanto a execução empata em 10 centavos e vira commodity. No mesmo dia, dois avisos de que dado pessoal e credencial de SSH continuam sendo o calcanhar dos assistentes. E a primeira IPO de trilhão do setor deixa o mercado prendendo a respiração."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-09",
       "date": "2026-11-09",
       "hook": "Skills e MCP de 9 de novembro",
