@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-10-13h32",
+      "date": "2026-11-10",
+      "time": "13h32",
+      "hook": "A tarde abriu um degrau abaixo. O Bitcoin deixou para trás a referência de 73,5 mil e negocia a 73,2 mil dólares, colado na banda mais baixa das últimas 24 horas. No dia, a queda soma 2,1%.",
+      "caption": "A alta das 11h durou pouco, e a tarde começa com o preço no patamar mais baixo do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-10-13h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-10-13h32",
+      "slides": [
+        {
+          "title": "Meio-dia derrubou dois níveis",
+          "body": "A alta das 11h durou pouco, e a tarde começa com o preço no patamar mais baixo do dia."
+        },
+        {
+          "title": "US$ 73,2 mil",
+          "body": "Δ1h −1,0% · Δ24h −2,1% · volume de US$ 1,04 bi em 24h na Binance",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Perdeu 74,4 mil no meio-dia e 73,5 mil na sequência · financiamento a +0,006% e 76% das contas ainda apostando na alta",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "A hora passa por 72,9 mil",
+          "body": "Referência de baixo a −0,4% do preço · a recuperação começa em 73,6 mil, a +0,6%",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-10-12h35",
       "date": "2026-11-10",
       "time": "12h35",
