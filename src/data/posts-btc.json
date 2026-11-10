@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-10-09h33",
+      "date": "2026-11-10",
+      "time": "09h33",
+      "hook": "A segunda-feira começou pesada para o Bitcoin. Depois de perder os 74,7 mil, o preço negocia agora a 74,2 mil dólares, a poucos pontos do degrau mais baixo da zona atual. Enquanto isso, quase três contas apostam em alta para cada uma em baixa.",
+      "caption": "A leitura da manhã inclinou para baixo e o humor do mercado marcou 32 pontos, região de medo.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-10-09h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-10-09h33",
+      "slides": [
+        {
+          "title": "Preço colado na linha de baixo",
+          "body": "A leitura da manhã inclinou para baixo e o humor do mercado marcou 32 pontos, região de medo."
+        },
+        {
+          "title": "US$ 74,2 mil",
+          "body": "Δ1h +0,08% · Δ24h −0,90% · volume de US$ 24,0 bilhões em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O preço ficou colado no degrau de baixo sem força de reação · financiamento a +0,008% e razão de 2,97 entre contas compradas e vendidas",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "74,1 mil é a linha da manhã",
+          "body": "Piso a −0,07% do preço · teto de 75,6 mil a +1,95% · com o lado comprado lotado, qualquer escorregada acha gente demais na mesma porta",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-10-01h30",
       "date": "2026-11-10",
       "time": "01h30",
