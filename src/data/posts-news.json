@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-10",
+      "date": "2026-11-10",
+      "hook": "Projetos IA de 10 de novembro",
+      "caption": "A semana é de inferência local: 284 bilhões de parâmetros sem GPU em 59 GiB, e 120 bilhões em 16 GB de MacBook. Na mesma jogada, a conta da nuvem virou planilha pública. E o code review ganhou um candidato a sucessor.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-10",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-10",
+      "slides": [
+        {
+          "title": "Projetos IA de 10 de novembro",
+          "body": "A semana é de inferência local: 284 bilhões de parâmetros sem GPU em 59 GiB, e 120 bilhões em 16 GB de MacBook. Na mesma jogada, a conta da nuvem virou planilha pública. E o code review ganhou um candidato a sucessor."
+        },
+        {
+          "title": "284B rodando em 64 GB de RAM, sem GPU",
+          "body": "O llama-modchip roda o DeepSeek-V4-Flash de 284 bilhões de parâmetros em menos de 59 GiB de RAM: 44,4 tokens por segundo de prefill e de 9,1 a 14,7 de decode, sem GPU. MoEs de 30B chegam de 25 a 111 tokens por segundo.",
+          "source": "github.com/synchopate/llama-modchip"
+        },
+        {
+          "title": "A mesma H100 custa US$ 2,69 ou US$ 12,29 por hora",
+          "body": "Dataset aberto documenta com recibos reais a dispersão de preço do aluguel de H100 entre provedores: de US$ 2,69 a US$ 12,29 por hora, 4,6 vezes de diferença pelo mesmo hardware.",
+          "source": "github.com/datareceipts/data-receipts"
+        },
+        {
+          "title": "Mollick publica 1,4 milhão de linhas escritas por agentes",
+          "body": "É o código do site Portals: 471 mundos 3D gerados e voo infinito no navegador. Cerca de 1,4 milhão de linhas de JavaScript desenhadas e escritas por agentes de IA, exceto three.js e o som. O repositório inteiro está aberto para auditoria.",
+          "source": "github.com/emollick/ai-portals"
+        },
+        {
+          "title": "SAST agêntico detecta BOLA com 94% de cobertura medida",
+          "body": "Route tracer mais analisador de autorização dirigido por LLM: 17 de 18 BOLAs conhecidas detectadas em 3 apps reais, com 1 falso positivo em 21 rotas seguras. Os resultados de teste ficam versionados no README.",
+          "source": "github.com/SellaRafaeli/ai_sast"
+        },
+        {
+          "title": "Teammates de IA always-on em código aberto",
+          "body": "Colegas de IA permanentes montados sobre a API do Grok, computadores em nuvem da Orgo e integrações Composio.",
+          "source": "github.com/nickvasilescu/grokbot-clone"
+        },
+        {
+          "title": "120B em 16 GB de RAM de um MacBook",
+          "body": "Motor publicado roda modelos MoE de 120 bilhões em um M1 Max de 32 GB usando menos de 16 GB de RAM, com os números públicos.",
+          "source": "mitln.github.io/moe-inference-engine"
+        },
+        {
+          "title": "Se agentes escrevem todo o código, quem revisa?",
+          "body": "Lançado hoje no Show HN, o ZTHR propõe o processo sucessor do code review para código majoritariamente escrito por agentes. Tração ainda baixa, mas a pergunta é a da vez.",
+          "source": "zthr.ai"
+        },
+        {
+          "title": "A inferência local deixou de ser protótipo",
+          "body": "Centenas de bilhões de parâmetros sem GPU, nuvem com preço público e auditoria de código por LLM. A conta que atravessa os três: o que ainda justifica infra dedicada, e por quanto tempo."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-10",
       "date": "2026-11-10",
       "hook": "Panorama IA de 10 de novembro",
