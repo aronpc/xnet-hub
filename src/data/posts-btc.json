@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-09-20h37",
+      "date": "2026-11-09",
+      "time": "20h37",
+      "hook": "A linha que segurava o Bitcoin desde o meio-dia cedeu: a hora das 19h fechou acima de 75,1 mil dólares e o preço opera logo acima dela na leitura das 20h37. A subida vem com volume fraco e sentimento ainda em medo (29). Sobe, mas sem convicção.",
+      "caption": "A hora das 19h fechou acima de 75,1 mil e seguiu a quarta subida seguida no fechamento de hora em hora.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-09-20h37",
+      "link": "https://xbtc.aronpc.dev/#2026-11-09-20h37",
+      "slides": [
+        {
+          "title": "A linha cedeu",
+          "body": "A hora das 19h fechou acima de 75,1 mil e seguiu a quarta subida seguida no fechamento de hora em hora."
+        },
+        {
+          "title": "US$ 75,1 mil",
+          "body": "Δ1h +0,1% · Δ24h 0,0%, o mesmo preço de ontem nesta hora · volume de US$ 31,3 bilhões em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Passou pra cima com o volume da hora a 57% da média · financiamento +0,01% (neutro) e 73,5% das contas na direção de compra: uma alta sem convicção",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Segurar por cima",
+          "body": "Segurada a linha com volume, vêm 75,6 mil (+0,6%) e 76,2 mil (+1,4%); sem volume, o teto das 24h é alcançado, não atravessado · Abaixo, 74,4 mil (-1,0%) e o piso do dia, 73,7 mil (-1,8%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-09-19h35",
       "date": "2026-11-09",
       "time": "19h35",
