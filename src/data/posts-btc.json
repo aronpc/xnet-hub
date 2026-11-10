@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-10-15h53",
+      "date": "2026-11-10",
+      "time": "15h53",
+      "hook": "A queda parou no fundo do canal. Os 72,7 mil foram testados na primeira hora da tarde e aguentaram. O preço recuperou 0,6% na última hora e negocia a 73,4 mil dólares, a 0,4% do topo das últimas três horas.",
+      "caption": "O dia ainda perde 1,5%, mas a pressão da tarde encontrou comprador.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-10-15h53",
+      "link": "https://xbtc.aronpc.dev/#2026-11-10-15h53",
+      "slides": [
+        {
+          "title": "Defesa do fundo muda o tom da tarde",
+          "body": "O dia ainda perde 1,5%, mas a pressão da tarde encontrou comprador."
+        },
+        {
+          "title": "US$ 73,4 mil",
+          "body": "Δ1h +0,6% · Δ24h −1,5% · volume de US$ 1,2 bi em 24h na Binance",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Canal de 72,7 a 73,7 mil segue de pé · financiamento a +0,006% e L/S 3,12, com 76% das contas do lado da alta",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "A próxima barreira é 73,7 mil",
+          "body": "Zona de baixo a −0,9% (72,7 mil) · atravessar a barreira, a +0,4%, devolve a região de 74,4 mil",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-10-13h32",
       "date": "2026-11-10",
       "time": "13h32",
