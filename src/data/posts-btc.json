@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-09-23h32",
+      "date": "2026-11-09",
+      "time": "23h32",
+      "hook": "A visita ao andar de cima durou pouco. Duas investidas até 75,4 mil na noite de domingo, duas devoluções: o Bitcoin voltou ao bloco de sempre e operava em 74,8 mil na leitura das 23h32, com queda de 0,4% na hora.",
+      "caption": "O preço devolveu quase toda a subida da noite e voltou à borda de baixo do bloco de 74,7 a 75,1 mil, onde passou o fim de semana.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-09-23h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-09-23h32",
+      "slides": [
+        {
+          "title": "O topo não deixou",
+          "body": "O preço devolveu quase toda a subida da noite e voltou à borda de baixo do bloco de 74,7 a 75,1 mil, onde passou o fim de semana."
+        },
+        {
+          "title": "US$ 74,8 mil",
+          "body": "Δ1h -0,4% · Δ24h -0,8% · volume de US$ 28,9 bilhões em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Recusa dupla em 75,3 a 75,4 mil devolveu o preço pra borda de baixo · financiamento +0,01% e razão compradas/vendidas em 2,72, com 73% das contas na ponta compradora",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Tudo passa por 74,7 mil",
+          "body": "Abaixo de 74,7 mil (-0,1%), o piso do dia fica em 73,7 mil (-1,4%) · De volta a 75,1 mil (+0,4%), reabre o caminho ao teto de 75,4 mil (+0,8%)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-09-20h37",
       "date": "2026-11-09",
       "time": "20h37",
