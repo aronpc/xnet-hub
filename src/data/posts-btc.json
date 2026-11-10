@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-10-00h30",
+      "date": "2026-11-10",
+      "time": "00h30",
+      "hook": "O chão do fim de semana cedeu na virada do dia. O Bitcoin perdeu a linha de 74,7 mil dólares que segurava desde sábado e caía a 74,6 mil na primeira meia hora de segunda, com 73% das contas ainda apostadas em alta.",
+      "caption": "Primeira leitura do dia já com o preço sob a faixa que protegeu o fim de semana inteiro.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-10-00h30",
+      "link": "https://xbtc.aronpc.dev/#2026-11-10-00h30",
+      "slides": [
+        {
+          "title": "A linha de 74,7 mil cedeu",
+          "body": "Primeira leitura do dia já com o preço sob a faixa que protegeu o fim de semana inteiro."
+        },
+        {
+          "title": "US$ 74,6 mil",
+          "body": "Δ1h -0,2% · Δ24h -0,5% · volume de US$ 28,6 bilhões em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A linha de 74,7 mil, vigiada desde sábado, virou obstáculo · financiamento a +0,01% e 73% das contas na ponta comprada, razão de 2,72 entre compradas e vendidas",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "A madrugada julga a quebra",
+          "body": "Sem retomar 74,7 mil (+0,1%), o próximo degrau é o piso de 73,7 mil (-1,2%) · Fechar acima de 74,7 mil devolve a faixa de 74,7 a 75,4 mil",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-09-23h32",
       "date": "2026-11-09",
       "time": "23h32",
