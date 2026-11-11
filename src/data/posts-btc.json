@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-11-13h38",
+      "date": "2026-11-11",
+      "time": "13h38",
+      "hook": "O dia virou. De manhã o preço apertava o piso de 73,5 mil dólares; à tarde passou por cima dos 74,2 mil e encostou na máxima do dia, 74,4 mil. Só que o empurrão veio com a vela a 70% do volume habitual e o interesse em aberto caindo de 100,0 para 98,9 mil BTC: parece mais ajuste de quem estava contra o mercado do que dinheiro novo entrando. E o índice de medo e ganância segue em 29, quinta leitura de medo seguida, na contramão da subida.",
+      "caption": "Subida de 0,9% na hora levou o preço à máxima de 24 horas depois de um dia inteiro comprimido entre 73,4 e 74,2 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-11-13h38",
+      "link": "https://xbtc.aronpc.dev/#2026-11-11-13h38",
+      "slides": [
+        {
+          "title": "O teto de 74,2 mil virou o novo chão",
+          "body": "Subida de 0,9% na hora levou o preço à máxima de 24 horas depois de um dia inteiro comprimido entre 73,4 e 74,2 mil."
+        },
+        {
+          "title": "US$ 74,2 mil",
+          "body": "Δ1h +0,9% · Δ24h +1,5% · volume de US$ 1,1 bi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Estreia acima de 74,2 mil com combustível duvidoso: vela a 70% do volume médio e interesse em aberto em queda · financiamento +0,006% e L/S 2,78, com 74% das contas na alta"
+        },
+        {
+          "title": "A máxima de 24 horas decide a hora",
+          "body": "74,2 mil recém-virado referência de baixo (−0,1%) · máxima de 24h a 74,4 mil (+0,3%) · fechar acima de 74,5 mil com volume estica a leitura para 75,2 mil; devolver os 74,2 mil traz o preço de volta ao meio da faixa, em 73,6 mil",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-11-11h35",
       "date": "2026-11-11",
       "time": "11h35",
