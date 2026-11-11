@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-11-07h33",
+      "date": "2026-11-11",
+      "time": "07h33",
+      "hook": "O Bitcoin encostou no teto da faixa onde anda desde ontem, os 74,2 mil dólares, depois de subir 0,4% na hora. A região já rejeitou o preço três vezes nas últimas 24 horas, e o movimento de agora veio com um terço do volume habitual. A próxima hora mostra se esta visita tem força de verdade.",
+      "caption": "A subida da manhã levou o preço à borda alta da faixa, mas o volume da hora ficou em um terço da média.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-11-07h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-11-07h33",
+      "slides": [
+        {
+          "title": "O teste do teto chegou antes do volume",
+          "body": "A subida da manhã levou o preço à borda alta da faixa, mas o volume da hora ficou em um terço da média."
+        },
+        {
+          "title": "US$ 73,9 mil",
+          "body": "Δ1h +0,4% · Δ24h −0,4% · volume de US$ 1,4 bi em 24h na Binance",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço colado na borda alta da faixa de 73,5 a 74,2 mil · financiamento a +0,007% e L/S 2,85, com 74% das contas na alta",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Tudo se decide em 74,2 mil",
+          "body": "Recuo ao meio da faixa se 73,7 mil ceder · piso de 24h a −1,7% (72,7 mil) · topo de 24h a +1,2% (74,8 mil)",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-10-15h53",
       "date": "2026-11-10",
       "time": "15h53",
