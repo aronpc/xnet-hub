@@ -35,6 +35,39 @@
       ]
     },
     {
+      "id": "2026-11-12-10h33",
+      "date": "2026-11-12",
+      "time": "10h33",
+      "hook": "O número que segurava o dia era 72,7 mil. Não segurou. Às 10h33 o BTC negocia a 72,5 mil depois de renovar a mínima do dia para 72,2 mil, com volume acima da média acompanhando a queda.",
+      "caption": "Manhã de mínimas sucessivas: 73,1, 72,7 e agora 72,2 mil. Leitura horária em baixa às 10h33.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-12-10h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-12-10h33",
+      "slides": [
+        {
+          "title": "A mínima do dia baixou para 72,2 mil",
+          "body": "Manhã de mínimas sucessivas: 73,1, 72,7 e agora 72,2 mil. Leitura horária em baixa às 10h33."
+        },
+        {
+          "title": "US$ 72,5 mil",
+          "body": "Δ1h -0,3% · Δ24h -1,7% · volume de US$ 998 mi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A sequência de queda desde 74,7 mil chega a 72,2 mil com volume acima da média · Smart money: funding +0,007% e razão long/short 3,0",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "72,2 mil é o piso novo do dia",
+          "body": "Mínima do dia 72,2 mil (-0,4%) · Zona de closes 73,5 mil (+1,3%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-12-08h33",
       "date": "2026-11-12",
       "time": "08h33",
