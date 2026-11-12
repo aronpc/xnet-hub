@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-11-20h31",
+      "date": "2026-11-11",
+      "time": "20h31",
+      "hook": "A força da tarde não vingou. Poucas horas depois de encostar na máxima do dia, 74,4 mil dólares, o Bitcoin devolveu o caminho inteiro e voltou para 73,7 mil, na parte de baixo da faixa do dia. A queda da última hora foi de 0,6%. E quem estava posicionado para a alta foi saindo: o balanço de posições em futuros caiu de 2,78 para 2,55 e o interesse em aberto recuou para 96,8 mil BTC.",
+      "caption": "Sete horas depois de tocar 74,4 mil, o preço está em 73,7 mil, quase estável no fechamento do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-11-20h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-11-20h31",
+      "slides": [
+        {
+          "title": "O dia devolveu a subida da tarde",
+          "body": "Sete horas depois de tocar 74,4 mil, o preço está em 73,7 mil, quase estável no fechamento do dia."
+        },
+        {
+          "title": "US$ 73,7 mil",
+          "body": "Δ1h −0,6% · Δ24h +0,1% · volume de US$ 1,2 bi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço no terço de baixo da faixa de 24h, de 73,2 a 74,8 mil, sem convicção para nenhum lado · financiamento +0,003% e L/S 2,55",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "A hora briga pelos 74 mil",
+          "body": "Fechar acima de 74 mil (+0,4%) encara a máxima de 24h, em 74,8 mil · escorregar abaixo de 73,5 mil (−0,3%) aponta o fundo da faixa, em 73,2 mil",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-11-13h38",
       "date": "2026-11-11",
       "time": "13h38",
