@@ -2,6 +2,80 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-12",
+      "date": "2026-11-12",
+      "hook": "A semana em que a segurança agêntica estourou",
+      "caption": "Breach num vendor de inferência expôs sessões do Notion AI, agente de código vazou dados de 35 mil apps e o Point72 acusa um quant de usar Claude e Codex pra desviar código. Tudo isso com a IPO da Anthropic oversubscribed e 1,6 trilhão de parâmetros abertos soltos na rua.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-12",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-12",
+      "slides": [
+        {
+          "title": "A semana em que a segurança agêntica estourou",
+          "body": "Breach num vendor de inferência expôs sessões do Notion AI, agente de código vazou dados de 35 mil apps e o Point72 acusa um quant de usar Claude e Codex pra desviar código. Tudo isso com a IPO da Anthropic oversubscribed e 1,6 trilhão de parâmetros abertos soltos na rua."
+        },
+        {
+          "title": "A United baniu agentes de IA das reservas de voo",
+          "body": "A companhia bloqueou assistentes de terceiros de comprar passagens, alegando proteção de dados dos clientes. A decisão veio dias depois de a Amazon abrir compras por texto via Alexa.",
+          "source": {
+            "label": "WSJ · 11 nov",
+            "url": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38"
+          }
+        },
+        {
+          "title": "IPO da Anthropic fica várias vezes oversubscribed",
+          "body": "Ticker ANT, faixa de US$ 70 a 78, valuação de até US$ 64,35 bilhões. O S-1 atualizado mostra Nvidia comprometendo cerca de US$ 10 bilhões pós-IPO e TSMC até US$ 1 bilhão. A Goldman projeta US$ 52 bilhões de receita em 2026.",
+          "source": {
+            "label": "Bloomberg · 11 nov",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed"
+          }
+        },
+        {
+          "title": "Conselho da Nvidia discute remover Jensen Huang",
+          "body": "Segundo o WSJ, o board se reuniu na quarta (11) pra decidir o futuro do CEO após o caso da suposta espiã Alice Huang. O Semafor aponta a CFO Colette Kress como interina, e a empresa contratou o escritório Wachtell pra investigar. As ações caíram 5,47% na terça, depois de queda de 4,27% na segunda.",
+          "source": {
+            "label": "WSJ · 11 nov",
+            "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+          }
+        },
+        {
+          "title": "AlphaProof Code prova a criptografia do Signal",
+          "body": "A DeepMind lançou o AlphaProof Code, framework agêntico de verificação formal, e o usou pra provar matematicamente a criptografia do Signal.",
+          "source": "deepmind.google"
+        },
+        {
+          "title": "Google lança decisões predefinidas como produto",
+          "body": "A Gemini Decisions API roda no novo Gemini Decision 1 e devolve decisão pronta: classificação, rota ou veredito, em vez de texto livre.",
+          "source": "blog.google"
+        },
+        {
+          "title": "Estudo liga uso de IA a codebase frágil",
+          "body": "Análise de Evan Merz cruza adoção de IA com métricas de complexidade e duplicação: repositórios com alto uso de IA acumulam código mais frágil.",
+          "source": "evanxmerz.com"
+        },
+        {
+          "title": "Breach na Fireworks AI expõe o Notion AI",
+          "body": "O vendor de inferência sofreu invasão que expôs datasets de clientes, incluindo sessões de chat do Notion AI. A Notion notificou os usuários e relatos de sessões expostas escalaram a discussão.",
+          "source": {
+            "label": "Forbes · 10 nov",
+            "url": "https://www.forbes.com/sites/annatong/2026/11/09/fireworks-cyberattack-exposes-customer-data-and-ai-models-as-fallout-widens/"
+          }
+        },
+        {
+          "title": "\"Meus agentes acharam um sítio maia não mapeado\"",
+          "body": "Relato de primeira mão de um usuário que rodou agentes em pipelines de dados arqueológicos e identificou um sítio maia. A comunidade está cética e a verificação segue em andamento.",
+          "source": "pietromiotti.com"
+        },
+        {
+          "title": "Meituan abre 1,6 trilhão de parâmetros em MIT",
+          "body": "Os pesos do LongCat-2-5, MoE de 1,6 trilhão de parâmetros voltado a tarefas agênticas de longo horizonte, foram liberados sob licença MIT permissiva.",
+          "source": "venturebeat.com"
+        },
+        {
+          "title": "Prova, custódia e cerca",
+          "body": "Plataformas cercando o comércio agêntico (United), inference virando questão de custódia de dados (Fireworks) e IA saindo do achismo pra prova formal (AlphaProof). A régua da semana: verificação antes de confiança."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-10",
       "date": "2026-11-10",
       "hook": "Skills e MCP de 10 de novembro",
