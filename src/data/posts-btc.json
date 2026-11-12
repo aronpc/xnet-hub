@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-12-08h33",
+      "date": "2026-11-12",
+      "time": "08h33",
+      "hook": "O nível de 73,3 mil segurou a madrugada inteira e cedeu com a manhã: às 08h33 o BTC testa o mínimo das últimas 24 horas, 73,15 mil, e a leitura horária segue em baixa. É a segunda visita à região em poucas horas, agora sem reação.",
+      "caption": "Preço no mínimo de 24h após perder a faixa de 73,3 mil; leitura horária baixista às 08h33.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-12-08h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-12-08h33",
+      "slides": [
+        {
+          "title": "BTC perde a faixa de 73,3 mil e encosta no mínimo do dia",
+          "body": "Preço no mínimo de 24h após perder a faixa de 73,3 mil; leitura horária baixista às 08h33."
+        },
+        {
+          "title": "US$ 73,2 mil",
+          "body": "Δ1h -0,33% · Δ24h -0,91% · volume de US$ 880 mi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Faixa de 73,3 mil perdida e preço no mínimo de 24h, com queda na hora e no dia · Financiamento +0,0046% e L/S 2,89",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "O teste agora é o mínimo de 24h",
+          "body": "Suporte 73,15 mil (-0,1%) · Resistência 73,3 mil (+0,1%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-12-04h35",
       "date": "2026-11-12",
       "time": "04h35",
