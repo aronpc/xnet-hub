@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-12",
+      "date": "2026-11-12",
+      "hook": "A web inteira virando MCP",
+      "caption": "Startup do YC converte qualquer site em servidor MCP, skill nova constrói jogo 3D jogável a partir de um prompt e o Chrome publica base de conhecimento oficial pra agentes. E o Claude Code ganha fast mode no Vertex.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-12",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-12",
+      "slides": [
+        {
+          "title": "A web inteira virando MCP",
+          "body": "Startup do YC converte qualquer site em servidor MCP, skill nova constrói jogo 3D jogável a partir de um prompt e o Chrome publica base de conhecimento oficial pra agentes. E o Claude Code ganha fast mode no Vertex."
+        },
+        {
+          "title": "Pomerado: qualquer site vira servidor MCP",
+          "body": "Startup da turma F26 do YC propõe converter qualquer website em servidor MCP sem esperar API oficial do alvo, via wrapper de scraping on-demand.",
+          "source": {
+            "label": "Launch HN · YC F26",
+            "url": "https://news.ycombinator.com/item?id=50455811"
+          }
+        },
+        {
+          "title": "Blender ganha assistente de IA com MCP embutido",
+          "body": "Addon dá ao Blender um assistente visual com server MCP incluído: chat, ferramentas de cena e workflows multi-agente direto no software 3D.",
+          "source": "github.com/SsKanDon/blender-ai-mcp-addon"
+        },
+        {
+          "title": "Skill que constrói jogo 3D jogável de um prompt",
+          "body": "Skill do autor 歸藏 pra Claude Code e Codex cria jogos 3D de ação jogáveis no navegador a partir de um prompt. A demo pública \"雾锁山门\" está no ar.",
+          "source": "github.com/op7418/guizang-game-skill"
+        },
+        {
+          "title": "Chrome dita o que agentes devem saber de web",
+          "body": "A versão 1.0 do Modern Web Guidance é base de conhecimento oficial pra tirar coding agents do \"JavaScript de 2019\" e levá-los às primitivas web modernas.",
+          "source": "developer.chrome.com"
+        },
+        {
+          "title": "deobf: desofuscação com loop de verificação",
+          "body": "Skill do memcpython desofusca código: recupera semântica, reverte máquinas virtuais de obfuscação e verifica o resultado, guiando o agente num loop de hipótese e verificação em vez de one-shot.",
+          "source": "github.com/memcpython/deobf"
+        },
+        {
+          "title": "Fast mode chega ao Vertex no 2.1.322",
+          "body": "Release de 10 de novembro adiciona fast mode no Vertex (regiões global, us e eu) com fallback automático pra velocidade padrão. A 2.1.321 tinha tornado o Fable 5.2 o modelo default do fable em CLI.",
+          "source": "code.claude.com/docs/en/changelog"
+        },
+        {
+          "title": "no-slop: agente obrigado a pensar antes de codar",
+          "body": "Skill nova força o agente a raciocinar e planejar antes de escrever código, combatendo o output slop de primeira passada.",
+          "source": "github.com/memcpython/no-slop"
+        },
+        {
+          "title": "A camada de contexto virou produto",
+          "body": "MCP sob demanda de qualquer URL (Pomerado), base de conhecimento oficial do navegador (Chrome) e skills que governam como o agente pensa (no-slop). Quem controla o contexto que o agente consome controla o agente."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-12",
       "date": "2026-11-12",
       "hook": "A infra do loop agêntico amadurece",
