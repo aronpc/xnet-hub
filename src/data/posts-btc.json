@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-12-19h30",
+      "date": "2026-11-12",
+      "time": "19h30",
+      "hook": "De baixa a lateral e de volta à baixa em três horas: às 19h30 o BTC negocia a 71,4 mil, colado na mínima de 24 horas. E o interesse aberto nem se mexeu: 101,3 mil BTC em posição, cerca de US$ 7,2 bi.",
+      "caption": "As altas da tarde foram ficando cada vez mais baixas; em 24 horas a perda chega a 3,5%.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-12-19h30",
+      "link": "https://xbtc.aronpc.dev/#2026-11-12-19h30",
+      "slides": [
+        {
+          "title": "Baixa de novo, e sem alívio",
+          "body": "As altas da tarde foram ficando cada vez mais baixas; em 24 horas a perda chega a 3,5%."
+        },
+        {
+          "title": "US$ 71,4 mil",
+          "body": "Δ1h -0,2% · Δ24h -3,5% · volume de US$ 1,10 bi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O topo da tarde, em 71,9 mil, rejeitou o preço de novo · Smart money: funding +0,01% e L/S de contas em 3,18",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "A hora passa pela base de 71,2 mil",
+          "body": "Ceder abre 70,5 mil e 70 mil · segurar devolve o topo da tarde · suporte 71,2 mil (-0,3%) · resistência 71,9 mil (+0,7%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-12-18h30",
       "date": "2026-11-12",
       "time": "18h30",
