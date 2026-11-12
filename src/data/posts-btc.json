@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-12-12h34",
+      "date": "2026-11-12",
+      "time": "12h34",
+      "hook": "Mais uma mínima nova no dia: 71,3 mil. Às 12h34 o BTC negocia a 71,4 mil, e esta é a terceira leitura seguida em que o fundo do dia cai: 72,2, 71,8 e agora 71,3 mil. O dia acumula -2,9%, com volume de 1,16 bilhão de dólares.",
+      "caption": "Leitura horária em baixa às 12h34. O piso de 72,2 mil, que cedeu de manhã, agora fica 1,1% acima do preço.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-12-12h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-12-12h34",
+      "slides": [
+        {
+          "title": "A mínima do dia não para de cair",
+          "body": "Leitura horária em baixa às 12h34. O piso de 72,2 mil, que cedeu de manhã, agora fica 1,1% acima do preço."
+        },
+        {
+          "title": "US$ 71,4 mil",
+          "body": "Δ1h -0,8% · Δ24h -2,9% · volume de US$ 1,16 bi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Mínima renovada em 71,3 mil com volume 27% acima da média das velas de 1h · Smart money: funding +0,008%, neutro, e razão long/short em 3,1",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "O dia agora olha 71 mil",
+          "body": "Referência de baixo em 71,0 mil (-0,6%) · o antigo piso de 72,2 mil virou referência de cima (+1,1%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-12-12h33",
       "date": "2026-11-12",
       "time": "12h33",
