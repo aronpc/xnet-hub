@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-12-04h35",
+      "date": "2026-11-12",
+      "time": "04h35",
+      "hook": "A madrugada devolveu o preço ao fundo do intervalo: às 23h32 eram 73,9 mil e viés de alta; às 04h35, 73,4 mil e leitura baixista. Chama atenção o posicionamento em futuros: 73% das contas seguem compradas, na contramão da última hora.",
+      "caption": "Preço de volta ao piso do intervalo de 24h, em 73,4 mil, e leitura horária baixista às 04h35.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-12-04h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-12-04h35",
+      "slides": [
+        {
+          "title": "A alta da noite não sobreviveu à madrugada",
+          "body": "Preço de volta ao piso do intervalo de 24h, em 73,4 mil, e leitura horária baixista às 04h35."
+        },
+        {
+          "title": "US$ 73,4 mil",
+          "body": "Δ1h -0,2% · Δ24h -0,4% · volume de US$ 943 mi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no piso do intervalo de 24h, entre 73,4 e 74,8 mil, com queda na hora e no dia e medo no índice F&G (28) · Financiamento +0,007% e L/S 2,76",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "O piso de 73,4 mil decide a próxima hora",
+          "body": "Suporte 73,4 mil (-0,1%) · Resistência 74,0 mil (+0,7%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-11-23h32",
       "date": "2026-11-11",
       "time": "23h32",
