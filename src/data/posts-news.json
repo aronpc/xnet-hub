@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-12",
+      "date": "2026-11-12",
+      "hook": "A infra do loop agêntico amadurece",
+      "caption": "A AWS abriu o código de um emulador local de mais de 200 serviços, escrito majoritariamente por agentes. A Atuin passou a sincronizar sessões de agentes entre máquinas. E a comunidade OSS formalizou a recusa ao PR de IA.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-12",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-12",
+      "slides": [
+        {
+          "title": "A infra do loop agêntico amadurece",
+          "body": "A AWS abriu o código de um emulador local de mais de 200 serviços, escrito majoritariamente por agentes. A Atuin passou a sincronizar sessões de agentes entre máquinas. E a comunidade OSS formalizou a recusa ao PR de IA."
+        },
+        {
+          "title": "A AWS open-source que roda local, escrita por agentes",
+          "body": "O aws-emulator simula mais de 200 serviços AWS (S3, Lambda e companhia) sem custo, pra teste de integração local. A própria AWS afirmou que o código foi majoritariamente escrito por agentes de IA, e o CTO Werner Vogels publicou sobre o trabalho do engenheiro nesse cenário.",
+          "source": "github.com/aws/aws-emulator"
+        },
+        {
+          "title": "Atuin Threads: sessões de agentes em toda máquina",
+          "body": "A empresa famosa pelo sync de histórico de shell lançou a sincronização das sessões dos agentes de código entre máquinas, com retomada de onde parou.",
+          "source": "blog.atuin.sh"
+        },
+        {
+          "title": "Projetos open-source que banem contribuições de IA",
+          "body": "O site-documento OSS Says No cataloga projetos que proíbem explicitamente PRs gerados por IA. É a resposta comunitária ao volume de contribuições de baixa qualidade.",
+          "source": "osssaysno.com"
+        },
+        {
+          "title": "WittyCode: painel desktop pra agentes de todo vendor",
+          "body": "App desktop que dá interface de harness a ChatGPT Plan, Factory CLI, Devin AI e APIs. Um painel único pra gerenciar agentes de vendors diferentes.",
+          "source": "github.com/WittyRyuji/WittyCode"
+        },
+        {
+          "title": "Klad: o paint app que o coding agent dirige",
+          "body": "App de desenho source-available pensado pra ser operado por agentes de código: a API de desenho é cidadã de primeira classe, não humano-first.",
+          "source": "github.com/klad-app/klad"
+        },
+        {
+          "title": "TimeNet: infra aberta pra modelos temporais",
+          "body": "O projeto OpenTSLM publica dados, treino e avaliação de foundation models de séries temporais, como repositório-âncora público do nicho de forecast.",
+          "source": "github.com/OpenTSLM/TimeNet"
+        },
+        {
+          "title": "LLMs jogando TIS-100 pra provar raciocínio",
+          "body": "Experimento coloca LLMs pra jogar o jogo de programação TIS-100 da Zachtronics: benchmark de raciocínio assembly-like com estado observável.",
+          "source": "tis-100.wincon.dev"
+        },
+        {
+          "title": "O loop agêntico ganha ferramenta própria",
+          "body": "Dev-local de cloud (AWS Emulator), sessão que atravessa máquinas (Atuin Threads) e harness multi-vendor (WittyCode). No outro lado da mesa, parte do OSS fecha a porta pro PR de agente. O modelo contribuidor é o próximo campo de disputa."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-12",
       "date": "2026-11-12",
       "hook": "A semana em que a segurança agêntica estourou",
