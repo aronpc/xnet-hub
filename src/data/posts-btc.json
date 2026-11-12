@@ -35,6 +35,39 @@
       ]
     },
     {
+      "id": "2026-11-12-11h37",
+      "date": "2026-11-12",
+      "time": "11h37",
+      "hook": "São 72,0 mil às 11h37. O ponto mais barato das últimas 24 horas é 71,8 mil, e o BTC está a 0,3% dali. O dia acumula -2,3% e o volume negociado já passa de 1 bilhão de dólares.",
+      "caption": "Leitura horária em baixa às 11h37, com o preço rente ao fundo de 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-12-11h37",
+      "link": "https://xbtc.aronpc.dev/#2026-11-12-11h37",
+      "slides": [
+        {
+          "title": "A 0,3% do ponto mais barato de 24h",
+          "body": "Leitura horária em baixa às 11h37, com o preço rente ao fundo de 24 horas."
+        },
+        {
+          "title": "US$ 72,0 mil",
+          "body": "Δ1h -0,7% · Δ24h -2,3% · volume de US$ 1,1 bi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Dia de -2,3% com o preço a 0,3% do fundo de 24h (71,8 mil) · Smart money: funding +0,008% e razão long/short 2,97",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "O teste do fundo de 24h",
+          "body": "Fundo de 24h em 71,8 mil (-0,3%) · Congestão de 73,5 mil (+2,1%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-12-10h33",
       "date": "2026-11-12",
       "time": "10h33",
