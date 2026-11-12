@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-12-16h33",
+      "date": "2026-11-12",
+      "time": "16h33",
+      "hook": "Duas horas de recuperação e pronto. Às 16h33 o BTC negocia a 71,5 mil, outra vez a um passo de 71,3 mil, o valor mais em conta das últimas 24 horas. A perda em 24 horas chegou a 3,7%.",
+      "caption": "Pouco depois de rondar 72 mil no começo da tarde, o preço desfez a recuperação e a leitura horária voltou a apontar queda.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-12-16h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-12-16h33",
+      "slides": [
+        {
+          "title": "O repique não vingou",
+          "body": "Pouco depois de rondar 72 mil no começo da tarde, o preço desfez a recuperação e a leitura horária voltou a apontar queda."
+        },
+        {
+          "title": "US$ 71,5 mil",
+          "body": "Δ1h -0,6% · Δ24h -3,7% · volume de US$ 1,15 bi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "As máximas do dia seguem caindo e o preço roça a marca inferior das últimas 24 horas · Smart money: funding +0,010%, neutro; 76% das posições apostam em alta (L/S 3,15)",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Tudo se decide na linha dos 71,3 mil",
+          "body": "Chão do dia em 71,3 mil, a -0,3% · teto do repique em 72,0 mil, a +0,7%",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-12-14h32",
       "date": "2026-11-12",
       "time": "14h32",
