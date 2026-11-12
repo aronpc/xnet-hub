@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-12-12h33",
+      "date": "2026-11-12",
+      "time": "12h33",
+      "hook": "A alta da manhã parou em 74,7 mil. Daí em diante foram oito velas de uma hora seguidas no vermelho, e às 12h33 o BTC negocia em 72,8 mil, encostado no mínimo do dia. O detalhe que chama atenção: quase 3 de cada 4 contas de derivativos seguem apostando em alta enquanto o preço cai.",
+      "caption": "De 74,7 a 72,7 mil em oito velas de 1h; leitura horária em baixa às 12h33.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-12-12h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-12-12h33",
+      "slides": [
+        {
+          "title": "Oito velas de queda desde o topo de 74,7 mil",
+          "body": "De 74,7 a 72,7 mil em oito velas de 1h; leitura horária em baixa às 12h33."
+        },
+        {
+          "title": "US$ 72,8 mil",
+          "body": "Δ1h -0,6% · Δ24h -1,5% · volume de US$ 940 mi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no mínimo de 24h após oito velas de queda desde 74,7 mil · Smart money: funding +0,006% e razão long/short 2,97",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Queda até 72,0 mil se 72,7 mil ceder",
+          "body": "Mínimo 24h 72,7 mil (-0,1%) · Zona de closes 73,5 mil (+1,0%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-12-08h33",
       "date": "2026-11-12",
       "time": "08h33",
