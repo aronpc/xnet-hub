@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-11-23h32",
+      "date": "2026-11-11",
+      "time": "23h32",
+      "hook": "Fim de quarta com o Bitcoin de subida. Às 20h31 eram 73,7 mil dólares; às 23h32, 73,9 mil, com alta de 0,4% na última hora e 0,8% no dia. E o dinheiro que saiu na queda da tarde retornou: o balanço das posições em futuros subiu de 2,55 para 2,69 e o interesse em aberto avançou para 97,5 mil BTC.",
+      "caption": "Das 20h31 para as 23h32, o preço saiu de 73,7 para 73,9 mil e a leitura horária passou de lateral para alta.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-11-23h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-11-23h32",
+      "slides": [
+        {
+          "title": "A noite veio compradora",
+          "body": "Das 20h31 para as 23h32, o preço saiu de 73,7 para 73,9 mil e a leitura horária passou de lateral para alta."
+        },
+        {
+          "title": "US$ 73,9 mil",
+          "body": "Δ1h +0,4% · Δ24h +0,8% · volume de US$ 1,1 bi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Subiu 0,4% na última hora e 0,8% em 24h, com o preço em 73,9 mil, dentro do intervalo de 24h entre 73,4 e 74,8 mil · financiamento +0,008% e L/S 2,69",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Os 74 mil são o teste da virada do dia",
+          "body": "Fechar acima de 74 mil (+0,2%) abre caminho à máxima de 24h, em 74,8 mil · cair abaixo de 73,5 mil (−0,5%) aponta o fundo do intervalo, em 73,4 mil",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-11-20h31",
       "date": "2026-11-11",
       "time": "20h31",
