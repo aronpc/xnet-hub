@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-12-18h30",
+      "date": "2026-11-12",
+      "time": "18h30",
+      "hook": "Duas horas depois, o BTC voltou ao mesmo lugar: 71,3 mil testado de novo e a queda contida de novo. Às 18h30 o preço está em 71,6 mil, o dia acumula -3,7% e a leitura horária saiu de queda.",
+      "caption": "Teste repetido na região mais baixa do dia, preço estável e viés de volta ao lateral depois de duas leituras em baixa.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-12-18h30",
+      "link": "https://xbtc.aronpc.dev/#2026-11-12-18h30",
+      "slides": [
+        {
+          "title": "A queda não passou",
+          "body": "Teste repetido na região mais baixa do dia, preço estável e viés de volta ao lateral depois de duas leituras em baixa."
+        },
+        {
+          "title": "US$ 71,6 mil",
+          "body": "Δ1h +0,3% · Δ24h -3,7% · volume de US$ 1,11 bi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Duas rejeições na mesma região em duas horas tiraram o gás da queda · preço a 0,5% da marca inferior do canal de 24h",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Três de cada quatro posições apostam em alta",
+          "body": "O dia caiu 3,7% e o posicionamento foi na direção contrária: funding +0,010% e L/S 3,16 na leitura das 18h30",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-12-16h33",
       "date": "2026-11-12",
       "time": "16h33",
