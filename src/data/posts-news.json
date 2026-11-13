@@ -2,6 +2,61 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-13",
+      "date": "2026-11-13",
+      "hook": "IA pessoal na infra que você já tem",
+      "caption": "O dia foi do local-first: LLM rodando em máquina velha, notas de reunião que não saem do seu computador, workspace de agente na sua própria conta Cloudflare. No meio disso, disciplina de dados: um backtesting que não enxerga o futuro e um banco de grafos feito para agentes.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-13",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-13",
+      "slides": [
+        {
+          "title": "IA pessoal na infra que você já tem",
+          "body": "O dia foi do local-first: LLM rodando em máquina velha, notas de reunião que não saem do seu computador, workspace de agente na sua própria conta Cloudflare. No meio disso, disciplina de dados: um backtesting que não enxerga o futuro e um banco de grafos feito para agentes."
+        },
+        {
+          "title": "Yogurt: o Granola open-source e local",
+          "body": "A Frigade lançou o Yogurt, app gratuito, privado e open-source de notas de reunião com IA que roda localmente como alternativa ao Granola. Foi um dos maiores Show HN do dia.",
+          "source": "github.com/FrigadeHQ/yogurt"
+        },
+        {
+          "title": "smolmaxxing: LLM em máquina velha",
+          "body": "É um harness de um dev que empurra LLMs para dispositivos antigos e fracos, na onda de rodar modelo grande em RAM mínima.",
+          "source": "github.com/hyperionaidev/smolmaxxing"
+        },
+        {
+          "title": "AgentRun: agentes que se auto-melhoram",
+          "body": "Framework open-source de managed agents com loop de auto-melhoria: o agente revisa os próprios runs e ajusta as instruções.",
+          "source": "github.com/Parcha-ai/agentrun"
+        },
+        {
+          "title": "Backtesting que não enxerga o futuro",
+          "body": "O risk-aware-trading-agents roda agentes de trading sobre um dataset point-in-time de 2026, com preços, VIX e notícias, desenhado para impedir lookahead bias.",
+          "source": "github.com/jackson-cmd/risk-aware-trading-agents"
+        },
+        {
+          "title": "1Helm: workspace de IA na sua Cloudflare",
+          "body": "Workspace de agente pessoal com memória persistente e channel computers rodando na conta Cloudflare do usuário, com provedor de IA à escolha.",
+          "source": "github.com/gitcommit90/1Helm"
+        },
+        {
+          "title": "Relate: banco de grafos agent-native",
+          "body": "Banco de dados desenhado para agentes, com query por grafo de relações entre entidades que os próprios agentes navegam.",
+          "source": "relatedb.ai"
+        },
+        {
+          "title": "Kapso: aprendizado iterativo dos dados da empresa",
+          "body": "Ferramenta que faz iterative learning from enterprise data: destila o conhecimento dos dados internos em ciclos de feedback.",
+          "source": {
+            "label": "Show HN · 12 nov",
+            "url": "https://news.ycombinator.com/item?id=50471281"
+          }
+        },
+        {
+          "title": "Local-first e ponto no tempo",
+          "body": "A leva do dia empurra a IA pessoal para a infra que o dev já tem (1Helm, Yogurt, smolmaxxing) e traz uma disciplina de dados que o demo-ware não tem, com point-in-time e grafo com provenance. A régua: rode no seu e prove com dados de época."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-13",
       "date": "2026-11-13",
       "hook": "A semana em que o mercado reorganizou a IA",
