@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-12-22h33",
+      "date": "2026-11-12",
+      "time": "22h33",
+      "hook": "A tarde inteira segurando 71,3 mil, e à noite o chão cedeu: mínimo novo em 70,7 mil. Lá embaixo, por duas vezes, apareceu quem comprasse. Às 22h33 o BTC negocia a 71,1 mil, com 3,4% a menos em 24 horas.",
+      "caption": "Mínimo novo do dia em 70,7 mil, visitado duas vezes em poucas horas e defendido nas duas.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-12-22h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-12-22h33",
+      "slides": [
+        {
+          "title": "Cedeu um chão, apareceu outro",
+          "body": "Mínimo novo do dia em 70,7 mil, visitado duas vezes em poucas horas e defendido nas duas."
+        },
+        {
+          "title": "US$ 71,1 mil",
+          "body": "Δ1h -0,1% · Δ24h -3,4% · volume de US$ 1,15 bi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Cada repique do dia parou mais baixo que o anterior: 74,1, 71,7, 71,5 mil · Smart money: funding +0,01% e L/S de contas em 3,12",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "70,7 mil é o número da noite",
+          "body": "Abaixo dele, o número redondo de 70 mil; acima, a oferta em 71,7 mil e, mais longe, 72,5 mil · piso do dia 70,7 mil (-0,6%) · oferta 71,7 mil (+0,9%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-12-19h30",
       "date": "2026-11-12",
       "time": "19h30",
