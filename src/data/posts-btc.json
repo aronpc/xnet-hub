@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-13-02h35",
+      "date": "2026-11-13",
+      "time": "02h35",
+      "hook": "A mínima de 24h virou endereço fixo: 68,5 mil, onde o preço está encostado desde a meia-noite. Queda no dia em 6,9% e nenhuma recuperação até a leitura das 02h35.",
+      "caption": "Eram 69,3 mil às 00h31; agora 68,5 mil, no limite inferior do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-13-02h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-13-02h35",
+      "slides": [
+        {
+          "title": "Colado na mínima de 24h",
+          "body": "Eram 69,3 mil às 00h31; agora 68,5 mil, no limite inferior do dia."
+        },
+        {
+          "title": "US$ 68,5 mil",
+          "body": "Δ1h -0,6% · Δ24h -6,9% · volume de US$ 1,7 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Mínima de 24h sob pressão direta, sem reação até aqui · Smart money: funding +0,004% e L/S de contas em 3,07, subindo",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Entre 68,0 e 69,1 mil",
+          "body": "Piso de 24h em 68,5 mil (+0,01%), colado · topo da hora em 69,1 mil (+0,9%) · abaixo de 68,0 mil, a próxima referência é 66,6 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-13-00h31",
       "date": "2026-11-13",
       "time": "00h31",
