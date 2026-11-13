@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-13-06h37",
+      "date": "2026-11-13",
+      "time": "06h37",
+      "hook": "A trégua da madrugada durou três horas: o repique parou antes de 69,1 mil e a leitura das 06h37 volta a ser de baixa, com o dia em queda de 5,9% e mais gente apostando na alta do que há três horas.",
+      "caption": "Depois de um equilíbrio entre 67,6 e 69,1 mil, o preço não passou do topo e a leitura voltou à baixa às 06h37.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-13-06h37",
+      "link": "https://xbtc.aronpc.dev/#2026-11-13-06h37",
+      "slides": [
+        {
+          "title": "Trégua curta de madrugada",
+          "body": "Depois de um equilíbrio entre 67,6 e 69,1 mil, o preço não passou do topo e a leitura voltou à baixa às 06h37."
+        },
+        {
+          "title": "US$ 69,0 mil",
+          "body": "Δ1h +0,1% · Δ24h -5,9% · volume de US$ 2,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no fundo do intervalo de 24h, sem recuperação acima de 69,1 mil · Smart money: funding +0,001% e L/S 3,39, subindo de novo · F&G em 20, medo extremo",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "67,5 mil é a linha do dia",
+          "body": "A referência de baixo está a -2,2%; a de cima, em 73,5 mil, a +6,5%. Extremos apontados na leitura: 64 mil e 77 mil.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-13-03h34",
       "date": "2026-11-13",
       "time": "03h34",
