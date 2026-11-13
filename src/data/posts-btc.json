@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-13-10h35",
+      "date": "2026-11-13",
+      "time": "10h35",
+      "hook": "O Bitcoin devolveu parte da queda da madrugada e negocia a 69,7 mil. O dia ainda está no vermelho, mas o preço voltou ao meio da faixa das últimas 24 horas.",
+      "caption": "Três horas depois de encostar na mínima do dia, o preço opera perto do centro da faixa, sem pressa.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-13-10h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-13-10h35",
+      "slides": [
+        {
+          "title": "Repique do mínimo de 68,1 mil",
+          "body": "Três horas depois de encostar na mínima do dia, o preço opera perto do centro da faixa, sem pressa."
+        },
+        {
+          "title": "US$ 69,7 mil",
+          "body": "Δ1h +0,65% · Δ24h -3,9% · volume de US$ 2,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Repique sem convicção para mais: o preço parou no meio da faixa do dia · Contas seguem mais compradas que vendidas (3,31), com taxa de funding em 0%",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "As bordas da faixa: 67,5 e 72,5 mil",
+          "body": "A borda de baixo está a -3,2% e a de cima a +4,0%. Uma saída da faixa coloca 64,5 e 75,5 mil na mesa.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-13-07h35",
       "date": "2026-11-13",
       "time": "07h35",
