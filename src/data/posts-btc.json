@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-13-00h31",
+      "date": "2026-11-13",
+      "time": "00h31",
+      "hook": "Duas horas atrás eram 70,3 mil; agora, 69,3 mil. A perda de 24 horas chegou a 5,9% e o bitcoin trocou a casa dos 70 mil pela dos 69. Leitura das 00h31 de sexta.",
+      "caption": "A queda de 24h, que era de 4,6% às 23h38, agora chega a 5,9%.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-13-00h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-13-00h31",
+      "slides": [
+        {
+          "title": "Da casa dos 70 para a dos 69",
+          "body": "A queda de 24h, que era de 4,6% às 23h38, agora chega a 5,9%."
+        },
+        {
+          "title": "US$ 69,3 mil",
+          "body": "Δ1h -1,4% · Δ24h -5,9% · volume de US$ 1,5 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço a 0,7% da mínima do dia, sem recuperação até aqui · Smart money: funding +0,006% e L/S de contas em 3,13",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "O dia já passou por 68,9 mil",
+          "body": "Faixa de 24 horas entre 68,9 mil (-0,7%) e 73,9 mil (+6,6%); referências seguintes: 66,6 mil embaixo e 76,2 mil em cima",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-12-23h38",
       "date": "2026-11-12",
       "time": "23h38",
