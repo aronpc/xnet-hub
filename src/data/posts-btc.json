@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-13-13h35",
+      "date": "2026-11-13",
+      "time": "13h35",
+      "hook": "Depois de um dia de queda, o mercado parou. O Bitcoin oscila numa faixa estreita entre 67,5 mil e 69,5 mil, e o fundo do dia segue de pé 11 horas depois. Nas últimas 24 horas o recuo ainda é de 4,2%. Quem opera contratos na Binance está quase todo do mesmo lado, três de cada quatro posições apostam em alta.",
+      "caption": "Faixa estreita de 67,5 mil a 69,5 mil define a tarde.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-13-13h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-13-13h35",
+      "slides": [
+        {
+          "title": "A queda parou perto do fundo do dia",
+          "body": "Faixa estreita de 67,5 mil a 69,5 mil define a tarde."
+        },
+        {
+          "title": "US$ 68,7 mil",
+          "body": "Δ1h +0,5% · Δ24h -4,2% · volume de US$ 2,0 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A força vendedora da manhã sumiu e o preço ficou no terço de baixo da faixa · Smart money: funding +0,006% e L/S 3,05, com contratos abertos estáveis em 98,8k BTC",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "Faixa apertou de vez",
+          "body": "Teto do canal agora é 69,5 mil · perder 67,5 mil muda o dia de figura",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-13-12h33",
       "date": "2026-11-13",
       "time": "12h33",
