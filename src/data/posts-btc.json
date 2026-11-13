@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-13-12h33",
+      "date": "2026-11-13",
+      "time": "12h33",
+      "hook": "A queda ganhou fôlego depois do meio-dia e o Bitcoin voltou à parte de baixo da faixa do dia: 68,4 mil, com recuo de 4,2% em 24 horas. Quem apostava na reação está fechando posição, e o interesse em contratos caiu de 101 mil para 98,9 mil BTC.",
+      "caption": "A reação da manhã parou antes dos 70 mil e o preço desceu de novo.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-13-12h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-13-12h33",
+      "slides": [
+        {
+          "title": "Derivativos esvaziam enquanto o preço desce",
+          "body": "A reação da manhã parou antes dos 70 mil e o preço desceu de novo."
+        },
+        {
+          "title": "US$ 68,4 mil",
+          "body": "Δ1h -1,1% · Δ24h -4,2% · volume de US$ 2,0 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no terço de baixo da faixa de 24h · Smart money: funding +0,002% e L/S 3,0, com contratos abertos em queda",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "A 1,3% da referência de baixo",
+          "body": "Faixa do dia: 67,5 mil a 72 mil · recuperação acima de 69,5 mil muda o quadro",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-13-11h31",
       "date": "2026-11-13",
       "time": "11h31",
