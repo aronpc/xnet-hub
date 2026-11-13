@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-13-03h34",
+      "date": "2026-11-13",
+      "time": "03h34",
+      "hook": "A madrugada de queda parou em 67,6 mil: o preço tocou a marca na vela das 02h, levou recusa com volume 23% acima da média e às 03h34 negocia a 68,8 mil. Pela primeira vez desde a meia-noite, a leitura não é de baixa.",
+      "caption": "O viés muda de baixa para lateral: faixa nova entre 67,6 e 69,1 mil, formada na vela das 02h, com a recuperação ainda presa no topo.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-13-03h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-13-03h34",
+      "slides": [
+        {
+          "title": "A primeira recusa do dia",
+          "body": "O viés muda de baixa para lateral: faixa nova entre 67,6 e 69,1 mil, formada na vela das 02h, com a recuperação ainda presa no topo."
+        },
+        {
+          "title": "US$ 68,8 mil",
+          "body": "Δ1h +0,3% · Δ24h -6,5% · volume de US$ 1,8 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Primeira faixa de equilíbrio do dia, entre 67,6 e 69,1 mil · Smart money: funding +0,003% e L/S de contas em 3,07, que parou de subir",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Tudo passa por 69,1 mil",
+          "body": "O topo da faixa está a +0,6% · a marca nova das 02h, em 67,6 mil, está a -1,7%",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-13-02h35",
       "date": "2026-11-13",
       "time": "02h35",
