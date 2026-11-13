@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-12-23h38",
+      "date": "2026-11-12",
+      "time": "23h38",
+      "hook": "O 70,7 mil que tinha aguentado duas visitas não passou pela terceira: mínimo novo do dia, agora em 70,3 mil. No medidor de sentimento, 20 pontos, zona de medo extremo. Em 24 horas, a perda chega a 4,6%.",
+      "caption": "Mínimo novo do dia, depois de duas defesas do piso anterior.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-12-23h38",
+      "link": "https://xbtc.aronpc.dev/#2026-11-12-23h38",
+      "slides": [
+        {
+          "title": "70,7 mil não aguentou a terceira",
+          "body": "Mínimo novo do dia, depois de duas defesas do piso anterior."
+        },
+        {
+          "title": "US$ 70,3 mil",
+          "body": "Δ1h -1,0% · Δ24h -4,6% · volume de US$ 1,2 bi em 24h na Binance",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no fundo do range de 24 horas, entre 70,3 e 73,9 mil, sem reação · Smart money: funding +0,008% e L/S de contas em 3,12",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "70 mil redondos à vista",
+          "body": "Piso do dia em 70,3 mil (-0,1%) e teto em 73,9 mil (+5,0%); abaixo do piso, a próxima referência é 68,7 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-12-22h33",
       "date": "2026-11-12",
       "time": "22h33",
