@@ -2,6 +2,59 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-13",
+      "date": "2026-11-13",
+      "hook": "O harness acelerou",
+      "caption": "O Claude Code 2.1.323 deixa o modelo escrever JavaScript para chamar as próprias tools, plugins ganham versionamento e os servers MCP oficiais corrigem 6 falhas de segurança. No resto do ecossistema: corpus virou skill, vídeo virou formato e já tem skill que audita skill.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-13",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-13",
+      "slides": [
+        {
+          "title": "O harness acelerou",
+          "body": "O Claude Code 2.1.323 deixa o modelo escrever JavaScript para chamar as próprias tools, plugins ganham versionamento e os servers MCP oficiais corrigem 6 falhas de segurança. No resto do ecossistema: corpus virou skill, vídeo virou formato e já tem skill que audita skill."
+        },
+        {
+          "title": "2.1.323: Code Mode e plugins versionados",
+          "body": "Code Mode (experimental, opt-in): o Claude escreve JavaScript para invocar as próprias tools, em vez de uma chamada por vez. Plugins passam a versionar via engines no plugin.json. Hooks TypeScript ganham validação de tipos no claude plugin validate, e hooks longos ganham heartbeat de 30s no modo -p.",
+          "source": {
+            "label": "CHANGELOG · 12 nov",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "MCP oficial 2.4.0: 6 vulnerabilidades",
+          "body": "Release de segurança corrige seis falhas em três servers oficiais: TOCTOU via symlink nos reads do server-filesystem, corrigido na 2.3.0, além de mcp-server-git e mcp-server-fetch. A advisory GHSA-p9cv-8g75-4xcg detalha a corrida entre check e leitura.",
+          "source": {
+            "label": "MCP servers · 11 nov",
+            "url": "https://github.com/modelcontextprotocol/servers/releases"
+          }
+        },
+        {
+          "title": "257 vídeos de Sakurai viraram skill",
+          "body": "A skill foi construída a partir das legendas dos 257 episódios da série Making Games de Masahiro Sakurai, criador de Kirby e Smash, para consultas de produção de jogos em japonês.",
+          "source": "github.com/kociden/sakurai-skill"
+        },
+        {
+          "title": "Aq: fila de atenção para o Claude Code",
+          "body": "TUI que mantém uma attention queue para o Claude Code: enfileira contextos e pedidos para o agente processar em ordem.",
+          "source": "github.com/nodo-labs-uk/attention-queue"
+        },
+        {
+          "title": "VIDEO.md: vídeo que modelo lê por camadas",
+          "body": "Formato aberto para video breakdowns que modelos leem camada por camada. O slogan resume: toda skill tem um SKILL.md, todo vídeo tem um VIDEO.md.",
+          "source": "github.com/videomd/videomd"
+        },
+        {
+          "title": "Skill que audita skills",
+          "body": "Skill não-oficial que audita e ajusta prompts, CLAUDE.md, skills e harnesses para o Claude Fable 5.2, codificando as melhores práticas do modelo.",
+          "source": "github.com/sktjgudals/fable-5-2-prompting"
+        },
+        {
+          "title": "O harness vira plataforma",
+          "body": "Tool call vira código (Code Mode), plugin vira pacote versionado, mídia vira formato legível (VIDEO.md) e qualidade vira skill (auditoria de prompts). A régua da semana: o ecossistema está se formalizando em camadas."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-13",
       "date": "2026-11-13",
       "hook": "IA pessoal na infra que você já tem",
