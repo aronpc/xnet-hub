@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-13-07h35",
+      "date": "2026-11-13",
+      "time": "07h35",
+      "hook": "O teto de 69,1 mil aguentou desde as duas da manhã e cedeu na leitura das 07h35: Bitcoin a 69,2 mil, dia ainda em queda de 5,8%, e pela segunda vez hoje a leitura deixa de ser de baixa.",
+      "caption": "Pela primeira vez desde as 02h o preço negocia acima dessa marca; a leitura volta ao equilíbrio às 07h35.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-13-07h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-13-07h35",
+      "slides": [
+        {
+          "title": "O teto de 69,1 mil cedeu",
+          "body": "Pela primeira vez desde as 02h o preço negocia acima dessa marca; a leitura volta ao equilíbrio às 07h35."
+        },
+        {
+          "title": "US$ 69,2 mil",
+          "body": "Δ1h +0,3% · Δ24h -5,8% · volume de US$ 2,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço ganhou o topo de 69,1 mil sem força para mais · Smart money: funding +0,001% e L/S em 3,44, contra 3,39 há uma hora",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Entre 67,5 e 73,5 mil",
+          "body": "De baixo, a marca de 67,5 mil está a -2,5%; de cima, 73,5 mil, a +6,2%. Fora dessa faixa, a leitura aponta 64 mil e 77 mil.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-13-06h37",
       "date": "2026-11-13",
       "time": "06h37",
