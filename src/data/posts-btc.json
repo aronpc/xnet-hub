@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-13-11h31",
+      "date": "2026-11-13",
+      "time": "11h31",
+      "hook": "A recuperação da manhã não chegou aos 70 mil e o preço voltou a recuar. Bitcoin opera a 69,1 mil, com o dia em queda de 3,8%, e a leitura das 11h31 deixa de ser neutra depois de três leituras seguidas sem direção.",
+      "caption": "Leitura das 11h31 volta a apontar queda; preço a 69,1 mil com o dia em -3,8%.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-13-11h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-13-11h31",
+      "slides": [
+        {
+          "title": "A reação da manhã parou antes dos 70 mil",
+          "body": "Leitura das 11h31 volta a apontar queda; preço a 69,1 mil com o dia em -3,8%."
+        },
+        {
+          "title": "US$ 69,1 mil",
+          "body": "Δ1h -0,9% · Δ24h -3,8% · volume de US$ 2,0 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Depois de três leituras neutras, a quarta volta à queda: recuo de 0,9% na última hora · Smart money: funding +0,002% e L/S 3,17",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Muita gente comprando na queda",
+          "body": "A maioria das posições abertas está do lado comprador enquanto o preço cai, padrão comum de quedas estendidas. Referências do dia: 67,5 mil a -2,3% e 72 mil a +4,2%.",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora em xbtc.aronpc.dev"
+        }
+      ]
+    },
+    {
       "id": "2026-11-13-10h35",
       "date": "2026-11-13",
       "time": "10h35",
