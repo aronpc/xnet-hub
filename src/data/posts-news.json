@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-13",
+      "date": "2026-11-13",
+      "hook": "A semana em que o mercado reorganizou a IA",
+      "caption": "Jensen Huang deixou a Nvidia e apagou US$ 600 bi de valor de mercado. No mesmo dia, o Google anunciou o Gemini 4 Hydrogen a US$ 1,50 por milhão de tokens. E o IPO da Anthropic chegou 6x oversubscribed. Três movimentos que mexem com quem manda no ciclo de IA.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-13",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-13",
+      "slides": [
+        {
+          "title": "A semana em que o mercado reorganizou a IA",
+          "body": "Jensen Huang deixou a Nvidia e apagou US$ 600 bi de valor de mercado. No mesmo dia, o Google anunciou o Gemini 4 Hydrogen a US$ 1,50 por milhão de tokens. E o IPO da Anthropic chegou 6x oversubscribed. Três movimentos que mexem com quem manda no ciclo de IA."
+        },
+        {
+          "title": "Jensen Huang deixa a Nvidia",
+          "body": "Huang renunciou ao cargo de CEO, à presidência e ao assento no conselho. A CFO Colette Kress assume como interina, e o ex-CEO da Synopsys Harvey C. Jones vira o primeiro chairman da história da empresa. NVDA abriu em queda de 14% na quinta, e o valor de mercado ficou abaixo de US$ 4 trilhões.",
+          "source": {
+            "label": "Nvidia · 12 nov",
+            "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+          }
+        },
+        {
+          "title": "Gemini 4 Hydrogen: frontier a US$ 1,50",
+          "body": "US$ 1,50 por milhão de tokens de entrada e US$ 7,50 de saída, com janela de 1M. Já está no AI Studio, na API, no Search e nos planos Pro e Ultra. Na Artificial Analysis, quase empata com Claude Sonnet 5.5 e GPT-6.1 Sol.",
+          "source": {
+            "label": "Google · 12 nov",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+          }
+        },
+        {
+          "title": "IPO da Anthropic está 6x coberto",
+          "body": "Bancos disseram a investidores que o livro está cerca de 6x coberto, com prioridade de alocação para os backers atuais. A faixa ficou em US$ 70 a US$ 78 para 825 milhões de ações, ticker ANT e estreia em 19 de novembro, até US$ 64,35 bi.",
+          "source": {
+            "label": "Bloomberg · 12 nov",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed"
+          }
+        },
+        {
+          "title": "LangChain dobra valuation: US$ 3 bi",
+          "body": "Rodada de US$ 300 milhões liderada pela CapitalG avalia a LangChain em US$ 3 bi, contra US$ 1,25 bi na rodada anterior. A empresa vende plataforma para grandes empresas construírem e rodarem agentes próprios.",
+          "source": {
+            "label": "WSJ · 11 nov",
+            "url": "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad"
+          }
+        },
+        {
+          "title": "Deepfakes furtaram US$ 400 milhões",
+          "body": "O FBI diz que hackers norte-coreanos levaram mais de US$ 400 milhões em cripto em 18 meses com o esquema FaceStealer: videochamadas falsas com deepfake de voz e imagem.",
+          "source": {
+            "label": "Reuters · 12 nov",
+            "url": "https://www.reuters.com/world/asia-pacific/north-korean-hackers-steal-more-than-400-million-using-video-images-fbi-says-2026-11-12/"
+          }
+        },
+        {
+          "title": "Claude dá reset gratuito de limites",
+          "body": "A Anthropic liberou um reset gratuito de uso para todos os planos pagos do Claude, resgatável até 10 de dezembro.",
+          "source": {
+            "label": "AI Tools Recap · 12 nov",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-november-12-2026"
+          }
+        },
+        {
+          "title": "Antigravity troca de modelo no meio da sessão",
+          "body": "O Orchestrator do Google Antigravity alterna entre Carbon e Hydrogen dentro da mesma sessão, conforme a tarefa, para assinantes AI Ultra.",
+          "source": {
+            "label": "Antigravity · 12 nov",
+            "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+          }
+        },
+        {
+          "title": "Preço, sucessão e commoditização",
+          "body": "O fornecedor central do ciclo perde o fundador (Nvidia), o piso de preço da frontier cai (Hydrogen a US$ 1,50) e o roteamento de modelo virou item embutido no IDE (Orchestrator). A régua da semana: ficar barato e roteável, ou ficar diferente."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-12",
       "date": "2026-11-12",
       "hook": "A web inteira virando MCP",
