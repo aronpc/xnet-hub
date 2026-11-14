@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-14-15h33",
+      "date": "2026-11-14",
+      "time": "15h33",
+      "hook": "Terceira hora seguida de alta. O Bitcoin negocia a 65,9 mil dólares, a 0,2% da faixa dos 66 mil, perdida no começo do sábado. O dia ainda acumula queda de 4,3%, mas o preço voltou a bater na porta do nível que cedeu de manhã.",
+      "caption": "Três altas horárias em sequência levaram o preço de volta ao nível perdido na queda da manhã.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-14-15h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-14-15h33",
+      "slides": [
+        {
+          "title": "A recuperação chegou aos 66 mil",
+          "body": "Três altas horárias em sequência levaram o preço de volta ao nível perdido na queda da manhã."
+        },
+        {
+          "title": "US$ 65,9 mil",
+          "body": "Δ1h +0,40% · Δ24h -4,33% · volume de US$ 1,67 bi em 24h",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A sequência de altas ainda não devolveu os 66 mil, e a queda do dia segue grande para o quadro virar · Smart money: funding +0,0048% e L/S 2,98, com 75% das contas compradas",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "A definição está em 66 mil",
+          "body": "Resistência 66.000 a +0,2% e suporte 65.000 a -1,3%: acima do teto, a referência seguinte é 66,8 mil; abaixo do piso, o próximo número é 64 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-14-13h32",
       "date": "2026-11-14",
       "time": "13h32",
