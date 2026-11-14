@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-14-06h33",
+      "date": "2026-11-14",
+      "time": "06h33",
+      "hook": "Perto das 5h, o Bitcoin tocou 66,4 mil dólares, o ponto mais baixo do dia. A pressão vendedora parou ali: em vez de esticar a queda, o preço voltou aos 67 mil e segue numa faixa curta há cinco horas. Nas últimas 24 horas, a perda acumulada é de 3,2%.",
+      "caption": "Depois de tocar 66,4 mil, o preço voltou e estabilizou entre 67,0 e 67,4 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-14-06h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-14-06h33",
+      "slides": [
+        {
+          "title": "A mínima das 5h não teve sequência",
+          "body": "Depois de tocar 66,4 mil, o preço voltou e estabilizou entre 67,0 e 67,4 mil."
+        },
+        {
+          "title": "US$ 67,1 mil",
+          "body": "Δ1h +0,05% · Δ24h -3,22% · volume de US$ 1,4 bi em 24h",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Cinco horas seguidas entre 67,0 e 67,4 mil, depois que a mínima de 66,4 mil das 5h foi rejeitada · Smart money: funding +0,003%, neutro, e L/S 3,08, com as apostas concentradas na alta",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "Um espaço de apenas 1,5%",
+          "body": "Acima de 67,5 mil, a recuperação segue para 68,3 mil; abaixo de 66,5 mil, a queda retoma rumo a 65,5 mil · Suporte 66,5 mil (-0,9%) · Resistência 67,5 mil (+0,6%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-14-01h32",
       "date": "2026-11-14",
       "time": "01h32",
