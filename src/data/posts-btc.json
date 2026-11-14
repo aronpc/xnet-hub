@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-13-20h34",
+      "date": "2026-11-13",
+      "time": "20h34",
+      "hook": "A sexta termina mais estreita do que começou. O Bitcoin passou a última hora quase parado em 68,1 mil, com queda de 4,5% no dia, e a referência de cima desceu de 71,5 para 69 mil ao encontro do preço. Restou pouco espaço entre os dois extremos.",
+      "caption": "A queda do dia segue em 4,5%, mas o ritmo quase parou na última hora.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-13-20h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-13-20h34",
+      "slides": [
+        {
+          "title": "O mapa do dia encolheu",
+          "body": "A queda do dia segue em 4,5%, mas o ritmo quase parou na última hora."
+        },
+        {
+          "title": "US$ 68,1 mil",
+          "body": "Δ1h -0,2% · Δ24h -4,5% · volume de US$ 2,0 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Depois de duas leituras seguidas de queda, o ritmo esfriou e o viés voltou ao neutro · Smart money: funding +0,006% e L/S 3,15, com 76% dos contratos ainda na direção da alta",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "A menos de 1,5% de cada extremo",
+          "body": "Suporte 67,5 mil (-0,9%) · Resistência 69,0 mil (+1,3%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-13-18h32",
       "date": "2026-11-13",
       "time": "18h32",
