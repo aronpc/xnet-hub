@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-14-01h32",
+      "date": "2026-11-14",
+      "time": "01h32",
+      "hook": "A referência que decidia a madrugada era 66,9 mil. Não durou: o preço passou por baixo e agora roça 66,8 mil dólares, a pouco mais de 1% do último piso que resta no dia, em 66 mil. Somadas, as perdas das últimas 24 horas chegam a 3%.",
+      "caption": "A queda atravessou os 66,9 mil da leitura anterior e o preço agora roça o fundo da faixa de 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-14-01h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-14-01h32",
+      "slides": [
+        {
+          "title": "Sobrou um piso, em 66 mil",
+          "body": "A queda atravessou os 66,9 mil da leitura anterior e o preço agora roça o fundo da faixa de 24 horas."
+        },
+        {
+          "title": "US$ 66,8 mil",
+          "body": "Δ1h -0,35% · Δ24h -3,04% · volume de US$ 39,0 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no fundo da faixa de 24h e sem reação, com a passagem por baixo de 66,9 mil confirmada; a leitura muda acima dos 70,5 mil · Smart money: funding 0,001%, neutro, e L/S 3,19, dinheiro alavancado ainda concentrado na alta",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "66 mil na balança",
+          "body": "Perder isso abre caminho até 64,2 mil; segurar, e sobra fôlego para um repique · Suporte 66,0 mil (-1,2%) · Resistência 70,5 mil (+5,5%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-13-23h32",
       "date": "2026-11-13",
       "time": "23h32",
