@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-14-11h33",
+      "date": "2026-11-14",
+      "time": "11h33",
+      "hook": "Os 66,5 mil que seguravam a manhã cederam. O Bitcoin negocia a 66,2 mil dólares, e entre o preço e a casa dos 65 mil só há uma referência: a linha de 66 mil, onde o mercado parou agora. A queda soma 4,3% no dia e o índice de medo e ganância marcou 13 de 100, zona de medo extremo. Ainda assim, a maior parte das posições segue apostando na alta, na contramão do movimento.",
+      "caption": "Depois de ceder 66,5 mil, o preço foi testar 66 mil, o ponto mais baixo do intervalo de 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-14-11h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-14-11h33",
+      "slides": [
+        {
+          "title": "66 mil é a última linha antes dos 65",
+          "body": "Depois de ceder 66,5 mil, o preço foi testar 66 mil, o ponto mais baixo do intervalo de 24 horas."
+        },
+        {
+          "title": "US$ 66,2 mil",
+          "body": "Δ1h -1,35% · Δ24h -4,31% · volume de US$ 1,40 bi em 24h",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Perdeu o 66,5 mil e agora pressiona o nível de 66 mil, com topos cada vez mais baixos desde os 69 mil · Smart money: funding +0,0035% e L/S 3,1, com 76% das contas compradas",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "O que acontece no chão de 66 mil",
+          "body": "De 66 mil para baixo, a próxima parada apontada é 65 mil; de volta acima de 66,8 mil, o espaço abre até 67,4 mil · Referências: 66,0 mil (-0,3%) e 66,8 mil (+0,9%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-14-10h31",
       "date": "2026-11-14",
       "time": "10h31",
