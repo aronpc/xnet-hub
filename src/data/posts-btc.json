@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-13-22h46",
+      "date": "2026-11-13",
+      "time": "22h46",
+      "hook": "O fim de noite chegou com o Bitcoin praticamente parado a 68,3 mil dólares, rente ao mínimo das últimas 24 horas e com o dia ainda devendo 3,6%. A diferença está na moldura: a leitura das 22h46 voltou a classificar o momento como queda, o teto de referência subiu de 69 para 71 mil e o termômetro de sentimento marcou 13 pontos, faixa de medo que historicamente costuma aparecer mais perto de viradas do que de começos de pânico.",
+      "caption": "O dia segue devendo 3,6% e o preço não saiu de perto do mínimo das últimas 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-13-22h46",
+      "link": "https://xbtc.aronpc.dev/#2026-11-13-22h46",
+      "slides": [
+        {
+          "title": "A queda voltou no fim da noite",
+          "body": "O dia segue devendo 3,6% e o preço não saiu de perto do mínimo das últimas 24 horas."
+        },
+        {
+          "title": "US$ 68,3 mil",
+          "body": "Δ1h +0,04% · Δ24h -3,6% · volume de US$ 2,0 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Depois de duas leituras no neutro, a queda voltou a ser a classificação da hora, com o preço colado na parte de baixo da faixa do dia · Smart money: funding +0,005% e L/S 3,23, quem apostou na alta segue concentrado",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "71 mil voltou a ser a referência de cima",
+          "body": "Suporte 67,5 mil (-1,2%) · Resistência 71,0 mil (+4,0%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-13-20h34",
       "date": "2026-11-13",
       "time": "20h34",
