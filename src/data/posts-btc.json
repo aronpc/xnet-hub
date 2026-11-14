@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-14-10h31",
+      "date": "2026-11-14",
+      "time": "10h31",
+      "hook": "O repique da manhã não durou. Depois de tocar 66,4 mil de madrugada e chegar a 67,4 mil, o Bitcoin opera a 66,7 mil dólares, encostado na menor cotação das últimas 24 horas. Ao longo do dia, cada alta parou num ponto mais baixo que a anterior; saindo dos 69 mil, a queda soma 4% no período.",
+      "caption": "As altas da sessão esbarram perto de 67,3 mil e o preço voltou à região mais barata do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-14-10h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-14-10h31",
+      "slides": [
+        {
+          "title": "Cada repique para mais baixo",
+          "body": "As altas da sessão esbarram perto de 67,3 mil e o preço voltou à região mais barata do dia."
+        },
+        {
+          "title": "US$ 66,7 mil",
+          "body": "Δ1h -0,41% · Δ24h -4,03% · volume de US$ 1,41 bi em 24h",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Um dia de máximas cada vez mais baixas, de 69,0 a 66,7 mil, com todos os repiques contidos perto de 67,3 mil · Smart money: funding +0,003% e L/S 3,06, com três quartos das posições apostando na alta",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "O dia se decide em 66,5 mil",
+          "body": "Abaixo disso, o caminho apontado é 65 mil; de volta acima de 67,5 mil, a recuperação ganha espaço até 68,3 mil · Referências: 66,5 mil (-0,3%) e 67,5 mil (+1,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-14-06h33",
       "date": "2026-11-14",
       "time": "06h33",
