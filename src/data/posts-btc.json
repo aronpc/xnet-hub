@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-14-12h35",
+      "date": "2026-11-14",
+      "time": "12h35",
+      "hook": "Caiu a linha de 66 mil apontada de manhã. O Bitcoin negocia a 65,1 mil dólares, colado no piso das últimas 24 horas, com queda de 4,7% no dia e volume de 1,47 bilhão. Entre o preço e o mínimo do período não sobrou referência: a próxima hora mostra se a faixa dos 65 mil segura ou se o preço segue procurando apoio mais abaixo.",
+      "caption": "Depois de ceder os 66 mil, o preço parou a poucos dólares do mínimo do dia, em 65,0 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-14-12h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-14-12h35",
+      "slides": [
+        {
+          "title": "Colado no piso das 24 horas",
+          "body": "Depois de ceder os 66 mil, o preço parou a poucos dólares do mínimo do dia, em 65,0 mil."
+        },
+        {
+          "title": "US$ 65,1 mil",
+          "body": "Δ1h -1,65% · Δ24h -4,73% · volume de US$ 1,47 bi em 24h",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Os 66 mil viraram teto e a queda encostou no piso de 24 horas (65.067) · Smart money: funding +0,0037% e L/S 3,0, com 75% das contas compradas",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "O teste é no piso de 65 mil",
+          "body": "Abaixo dele, a referência seguinte é 64 mil; de volta acima de 66 mil, o preço encontra 66,8 mil · Referências: 65,0 mil (-0,2%) e 66,0 mil (+1,4%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-14-11h33",
       "date": "2026-11-14",
       "time": "11h33",
