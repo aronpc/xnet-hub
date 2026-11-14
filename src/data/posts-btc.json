@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-14-19h34",
+      "date": "2026-11-14",
+      "time": "19h34",
+      "hook": "Primeira hora do dia na casa dos 63 mil. O Bitcoin perdeu a marca dos 64 mil dólares e negocia a 63,8 mil, com queda de 1% na última hora e de 5% no dia. O índice de medo e ganância está em 13, quase no mínimo da escala.",
+      "caption": "Depois de perder os 64 mil, a queda se estende à noite, sem recuperação.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-14-19h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-14-19h34",
+      "slides": [
+        {
+          "title": "Bitcoin aos 63 mil, com medo extremo no mercado",
+          "body": "Depois de perder os 64 mil, a queda se estende à noite, sem recuperação."
+        },
+        {
+          "title": "US$ 63,8 mil",
+          "body": "Δ1h -1,00% · Δ24h -5,00% · volume de US$ 2,04 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Queda que se arrasta desde a manhã, sem recuperação · Smart money: funding +0,0031% e L/S 2,85, com 74% das contas apostando na alta",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "O repique só conta acima de 66,5 mil",
+          "body": "Defesa em 63.000 (-1,3%) · barreira em 66.500 (+4,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-14-18h32",
       "date": "2026-11-14",
       "time": "18h32",
