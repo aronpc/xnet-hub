@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-14-13h32",
+      "date": "2026-11-14",
+      "time": "13h32",
+      "hook": "A queda do sábado deu uma trégua. Depois de recuar 4,9% no dia e ameaçar o mínimo das últimas 24 horas, o Bitcoin estancou em 65,4 mil dólares e fechou a última hora em alta de 0,4%, a primeira desde a manhã. A faixa dos 66 mil, perdida no começo do dia, segue a 1% de distância, e a reação ainda é pequena para mudar esse quadro.",
+      "caption": "O preço ameaçou o mínimo de 24 horas, segurou o nível e devolveu 0,4% na última hora.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-14-13h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-14-13h32",
+      "slides": [
+        {
+          "title": "A queda estancou em 65,4 mil",
+          "body": "O preço ameaçou o mínimo de 24 horas, segurou o nível e devolveu 0,4% na última hora."
+        },
+        {
+          "title": "US$ 65,4 mil",
+          "body": "Δ1h +0,39% · Δ24h -4,86% · volume de US$ 1,55 bi em 24h",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O mínimo de 24 horas (65.067) segurou e o preço devolveu +0,4%, sem recuperar os 66 mil · Smart money: funding +0,0035% e L/S 3,0, com 75% das contas compradas",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "O próximo passo está em 66 mil",
+          "body": "De volta acima de 66,0 mil (+1,0%), a referência seguinte é 66,8 mil · abaixo de 65,0 mil (-0,6%), a próxima parada é 64,0 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-14-12h35",
       "date": "2026-11-14",
       "time": "12h35",
