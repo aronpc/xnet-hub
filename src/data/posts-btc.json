@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-14-18h32",
+      "date": "2026-11-14",
+      "time": "18h32",
+      "hook": "A reação da tarde não passou de visita. O Bitcoin caiu abaixo dos 65 mil dólares e negocia a 64,5 mil, a menos de 1% do menor preço das últimas 24 horas. A perda no dia chega a 5,5%, e a queda segue alimentada por quem estava comprado.",
+      "caption": "Depois de rondar 65,5 mil à tarde, o preço cedeu e parou a poucos passos do mínimo de 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-14-18h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-14-18h32",
+      "slides": [
+        {
+          "title": "Mais um degrau para baixo, agora rente ao mínimo do dia",
+          "body": "Depois de rondar 65,5 mil à tarde, o preço cedeu e parou a poucos passos do mínimo de 24 horas."
+        },
+        {
+          "title": "US$ 64,5 mil",
+          "body": "Δ1h -1,53% · Δ24h -5,54% · volume de US$ 1,89 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Queda em degraus desde a manhã, sem sinal de fundo · Smart money: funding +0,0026% (neutro) e L/S 2,90, com o varejo comprado dentro da própria queda",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "64 mil decide a próxima hora",
+          "body": "Suporte 64.000 (piso 24h) a -0,8% · Resistência 65.000 a +0,8%",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-14-17h36",
       "date": "2026-11-14",
       "time": "17h36",
