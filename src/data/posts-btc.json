@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-13-23h32",
+      "date": "2026-11-13",
+      "time": "23h32",
+      "hook": "A faixa de 67,5 mil que segurava o dia desde a madrugada acabou de ceder. Em menos de uma hora o Bitcoin escorregou para 67,2 mil dólares, colou no ponto mais baixo das últimas 24 horas e levou o prejuízo do dia para 4,4%. O curioso é o posicionamento: três em cada quatro contas seguem apostando na alta, na direção contrária ao movimento da noite.",
+      "caption": "Uma queda de 1,6% em uma hora levou o preço ao ponto mais baixo das últimas 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-13-23h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-13-23h32",
+      "slides": [
+        {
+          "title": "A faixa que segurava o dia cedeu",
+          "body": "Uma queda de 1,6% em uma hora levou o preço ao ponto mais baixo das últimas 24 horas."
+        },
+        {
+          "title": "US$ 67,2 mil",
+          "body": "Δ1h -1,6% · Δ24h -4,4% · volume de US$ 1,9 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A perda de 67,5 mil acelerou o movimento até o fundo do dia; a leitura só muda se 68 mil for retomado · Smart money: funding +0,001%, neutro, e L/S 3,24, com 76% das contas ainda na alta",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "66,9 mil decide a próxima hora",
+          "body": "Abaixo disso, a correção ganha espaço até 66 mil · De volta a 68 mil, o movimento perde força · Suporte 66,9 mil (-0,4%) · Resistência 68,0 mil (+1,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-13-22h46",
       "date": "2026-11-13",
       "time": "22h46",
