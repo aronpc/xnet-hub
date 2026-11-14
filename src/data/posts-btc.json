@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-14-17h36",
+      "date": "2026-11-14",
+      "time": "17h36",
+      "hook": "A sequência de altas da tarde não teve continuidade. O Bitcoin caiu de volta aos 65,5 mil dólares e agora negocia colado na faixa dos 65 mil, o limite inferior do dia, com perda de 4,9% nas últimas 24 horas. O índice de medo e ganância voltou a 13, região de medo extremo, e a leitura da hora aponta para baixo.",
+      "caption": "O ganho da tarde se desfez e o preço voltou a rondar o limite inferior do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-14-17h36",
+      "link": "https://xbtc.aronpc.dev/#2026-11-14-17h36",
+      "slides": [
+        {
+          "title": "A reação travou antes dos 66 mil",
+          "body": "O ganho da tarde se desfez e o preço voltou a rondar o limite inferior do dia."
+        },
+        {
+          "title": "US$ 65,5 mil",
+          "body": "Δ1h -0,05% · Δ24h -4,93% · volume de US$ 36,9 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Topos mais baixos o dia inteiro e reação fraca na volta · Smart money: funding +0,003% e L/S 2,93, varejo comprado contra a tendência"
+        },
+        {
+          "title": "O limite inferior do dia está em prova",
+          "body": "Suporte 65.000 a -0,8% · Resistência 66.000 a +0,8%"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-14-15h33",
       "date": "2026-11-14",
       "time": "15h33",
