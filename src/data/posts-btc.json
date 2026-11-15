@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-15-13h31",
+      "date": "2026-11-15",
+      "time": "13h31",
+      "hook": "A trégua do meio-dia durou pouco. Na leitura das 13h31 o Bitcoin voltou a escorregar até a parte de baixa da zona de 62 a 66 mil: são 64,4 mil dólares, o dia devendo 1,9% e o índice de sentimento em 10, medo extremo. O viés da hora virou para baixa. E o detalhe das posições chama atenção: três em cada quatro contas seguem do lado da alta, justo com o preço andando na direção do chão de 62 mil.",
+      "caption": "O neutro do almoço virou baixa às 13h31, com o preço encostado na beira inferior da zona de 62 a 66 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-15-13h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-15-13h31",
+      "slides": [
+        {
+          "title": "A trégua não passou do almoço",
+          "body": "O neutro do almoço virou baixa às 13h31, com o preço encostado na beira inferior da zona de 62 a 66 mil."
+        },
+        {
+          "title": "US$ 64,4 mil",
+          "body": "Δ1h -0,38% · Δ24h -1,86% · volume de US$ 2,28 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço na beira de baixo da zona de 62 a 66 mil e dia devendo 1,9% · Sentimento em medo extremo (10) · Smart money: funding -0,0002%, em zero, e L/S 2,80, com 74% das contas compradas",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O resto do dia passa por 62 e 66 mil",
+          "body": "Se 62.000 (-3,8%) ceder, a próxima referência é 61.000 · só um fechamento acima de 66.000 (+2,4%) tira a força da queda do dia",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-15-12h33",
       "date": "2026-11-15",
       "time": "12h33",
