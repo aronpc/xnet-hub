@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-15-03h33",
+      "date": "2026-11-15",
+      "time": "03h33",
+      "hook": "A madrugada apertou o Bitcoin de novo: 64,5 mil dólares, queda acumulada de quase 4% no dia e o índice de medo e ganância caiu a 10, na zona de pânico. A leitura das 3h33 virou o viés para baixo.",
+      "caption": "O preço terminou a hora colado no limite de baixo do dia, sem sinal de recuperação.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-15-03h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-15-03h33",
+      "slides": [
+        {
+          "title": "Viés vira para baixo com o medo em 10",
+          "body": "O preço terminou a hora colado no limite de baixo do dia, sem sinal de recuperação."
+        },
+        {
+          "title": "US$ 64,5 mil",
+          "body": "Δ1h -0,45% · Δ24h -3,98% · volume de US$ 2,49 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço na borda inferior do dia e o repique anterior não vingou · Smart money: funding +0,0051% e L/S 2,79 (74% das contas em long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Abaixo de 62.000, o próximo patamar é 61.000",
+          "body": "Suporte 62.000 (-3,9%) · Resistência 66.000 (+2,3%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-15-01h33",
       "date": "2026-11-15",
       "time": "01h33",
