@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-15-15h31",
+      "date": "2026-11-15",
+      "time": "15h31",
+      "hook": "A alta das 14h31 durou uma hora. O Bitcoin devolveu o repique e voltou a 64,5 mil dólares, com queda de 0,5% na última hora e de 1,8% no dia. A leitura das 15h31 voltou a apontar para baixo, e a região de 62 mil está de novo no centro das atenções.",
+      "caption": "O repique do início da tarde foi devolvido e a hora voltou a apontar para baixo.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-15-15h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-15-15h31",
+      "slides": [
+        {
+          "title": "A alta durou uma hora",
+          "body": "O repique do início da tarde foi devolvido e a hora voltou a apontar para baixo."
+        },
+        {
+          "title": "US$ 64,5 mil",
+          "body": "Δ1h -0,50% · Δ24h -1,75% · volume de US$ 2,25 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Repique da hora anterior devolvido antes dos 65 mil, dia ainda em queda · Smart money: funding +0,0000% e L/S 2,87, com 74% das contas posicionadas para a alta",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "62 mil decide a hora",
+          "body": "Fechamento abaixo de 62.000 (-3,9%) com volume leva a leitura a 61.000 · passagem e fechamento acima de 65.000 (+0,7%) anulam a queda e apontam a 65.800"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-15-14h31",
       "date": "2026-11-15",
       "time": "14h31",
