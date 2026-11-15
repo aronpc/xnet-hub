@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-14-22h35",
+      "date": "2026-11-14",
+      "time": "22h35",
+      "hook": "A queda não deu trégua ao sábado. O Bitcoin negocia a 62,6 mil dólares, com recuo de 1,8% na última hora e 7,6% no dia. Falta 1% para o menor preço das últimas 24 horas.",
+      "caption": "A noite trouxe a pior hora do dia, e o preço segue pressionado.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-14-22h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-14-22h35",
+      "slides": [
+        {
+          "title": "Recuo de 7,6% no dia, a 1% da mínima de 24 horas",
+          "body": "A noite trouxe a pior hora do dia, e o preço segue pressionado."
+        },
+        {
+          "title": "US$ 62,6 mil",
+          "body": "Δ1h -1,79% · Δ24h -7,64% · volume de US$ 2,35 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Pior hora do dia e o preço encostando em 62.000 · Smart money: funding +0,0054% e 76% das contas em long",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Tudo passa por 62 mil agora",
+          "body": "Referência de baixo em 62.000 (-1,0%) · marca de cima em 65.000 (+3,8%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-14-19h34",
       "date": "2026-11-14",
       "time": "19h34",
