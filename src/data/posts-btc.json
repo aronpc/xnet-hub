@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-15-05h32",
+      "date": "2026-11-15",
+      "time": "05h32",
+      "hook": "O preço passou pela casa dos 62 mil dólares, o ponto mais baixo do dia, e não ficou lá: em uma hora voltou aos 64,6 mil. A leitura das 5h32 passou a apontar alta, mesmo com o dia ainda em queda de quase 4%.",
+      "caption": "A ida até 62 mil durou pouco e o preço voltou para perto de onde estava antes da queda.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-15-05h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-15-05h32",
+      "slides": [
+        {
+          "title": "A mínima do dia foi visitada e devolvida",
+          "body": "A ida até 62 mil durou pouco e o preço voltou para perto de onde estava antes da queda."
+        },
+        {
+          "title": "US$ 64,6 mil",
+          "body": "Δ1h +0,58% · Δ24h -3,95% · volume de US$ 2,54 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Mínima do dia varrida e devolvida na mesma hora, primeiro avanço firme depois da queda · Smart money: funding +0,0026% e L/S 2,69 (73% das contas em long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Acima de 65.500, o próximo patamar é 66.300",
+          "body": "Mínima do dia em 62.000 (-4,0%) · teto da faixa em 65.500 (+1,5%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-15-03h33",
       "date": "2026-11-15",
       "time": "03h33",
