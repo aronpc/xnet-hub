@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-14-23h33",
+      "date": "2026-11-14",
+      "time": "23h33",
+      "hook": "O Bitcoin passou pela mínima das últimas 24 horas, na casa dos 62 mil dólares, e a rejeitou na mesma hora: alta de 3,3%, até 64,7 mil dólares. O fundo do dia apareceu e não durou.",
+      "caption": "A rejeição do fundo mudou o clima do fim de noite.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-14-23h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-14-23h33",
+      "slides": [
+        {
+          "title": "Mínima de 24 horas varrida, e o preço saltou 3,3% em uma hora",
+          "body": "A rejeição do fundo mudou o clima do fim de noite."
+        },
+        {
+          "title": "US$ 64,7 mil",
+          "body": "Δ1h +3,25% · Δ24h -3,00% · volume de US$ 2,46 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Recuperação de 3,3% na hora após a varredura da mínima · Smart money: funding +0,0080% e 76% das contas em long",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O repique parou logo abaixo de 65 mil",
+          "body": "Referência inferior em 62.000 (-4,1%) · referência superior em 65.000 (+0,5%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-14-22h35",
       "date": "2026-11-14",
       "time": "22h35",
