@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-15-06h32",
+      "date": "2026-11-15",
+      "time": "06h32",
+      "hook": "O Bitcoin passou dos 65,5 mil na madrugada e segue recuperando terreno: 65,6 mil dólares, alta de 1,6% na última hora, a maior do dia até aqui. A volta por cima que começou nos 62 mil ganhou um segundo fôlego.",
+      "caption": "Pela segunda hora consecutiva no verde, o preço voltou a operar acima dos 65,5 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-15-06h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-15-06h32",
+      "slides": [
+        {
+          "title": "O repique virou sequência",
+          "body": "Pela segunda hora consecutiva no verde, o preço voltou a operar acima dos 65,5 mil."
+        },
+        {
+          "title": "US$ 65,6 mil",
+          "body": "Δ1h +1,59% · Δ24h -2,54% · volume de US$ 2,64 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço de volta acima de 65,5 mil com o dia ainda em queda de 2,5% · Smart money: funding +0,0024% e L/S 2,81 (74% das contas em long)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "66,5 mil é o degrau seguinte",
+          "body": "Mínima do dia em 62.000 (-5,5%) · teto em 66.500 (+1,4%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-15-05h32",
       "date": "2026-11-15",
       "time": "05h32",
