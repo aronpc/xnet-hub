@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-15-01h33",
+      "date": "2026-11-15",
+      "time": "01h33",
+      "hook": "O repique da madrugada devolveu o Bitcoin à casa dos 65 mil dólares, e lá o movimento terminou: em uma hora o preço andou só 0,10%, e o dia ainda fecha em queda de 3,43%.",
+      "caption": "O ganho segue segurado perto do topo da faixa do dia, sem continuação.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-15-01h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-15-01h33",
+      "slides": [
+        {
+          "title": "Uma hora de mercado quase parado depois do salto da madrugada",
+          "body": "O ganho segue segurado perto do topo da faixa do dia, sem continuação."
+        },
+        {
+          "title": "US$ 64,9 mil",
+          "body": "Δ1h +0,10% · Δ24h -3,43% · volume de US$ 2,47 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Repique estancou a meio caminho, sem força para fechar acima de 66 mil · Smart money: funding +0,0067% e 74% das contas em long",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Fechar acima de 66.000 abre espaço a 66.800",
+          "body": "Chão do dia em 62.000 (-4,5%) · topo em 66.000 (+1,7%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-14-23h33",
       "date": "2026-11-14",
       "time": "23h33",
