@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-15-18h31",
+      "date": "2026-11-15",
+      "time": "18h31",
+      "hook": "O Bitcoin passa o domingo a 65 mil dólares, com alta de 2,2% no dia. Depois de tocar o mínimo de 24 horas à tarde, o preço subiu e parou a menos de 1% do topo do corredor entre 62 e 65,5 mil. O clima não acompanhou: o índice de medo e ganância segue em 10, medo extremo.",
+      "caption": "Dia em alta de 2,2% com o sentimento estacionado em medo extremo.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-15-18h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-15-18h31",
+      "slides": [
+        {
+          "title": "O preço subiu, o medo ficou",
+          "body": "Dia em alta de 2,2% com o sentimento estacionado em medo extremo."
+        },
+        {
+          "title": "US$ 65,0 mil",
+          "body": "Δ1h +0,19% · Δ24h +2,23% · volume de US$ 2,09 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Dia de +2,2%, mas sem fechamento fora do corredor de 62 a 65,5 mil: a leitura volta ao neutro · Smart money: funding 0,0000% e L/S 2,97, com 75% das contas do lado da compra",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O fim do corredor decide o rumo",
+          "body": "Fechamento acima de 65,5 mil (+0,8%) põe 66,3 mil na mesa · abaixo de 62 mil (-4,6%), a próxima referência é 61 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-15-16h32",
       "date": "2026-11-15",
       "time": "16h32",
