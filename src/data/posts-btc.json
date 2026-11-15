@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-15-11h31",
+      "date": "2026-11-15",
+      "time": "11h31",
+      "hook": "A recuperação da madrugada não sobreviveu à manhã. O Bitcoin deixou os 65 mil para trás e opera a 64,9 mil dólares, com a última hora caindo 0,9% e o dia devendo 1,4%. Os 66 mil seguiram longe, o preço foi cedendo espaço e a leitura das 11h31 virou de neutra para negativa.",
+      "caption": "A leitura de 11h31 trocou o lateral por baixa, com o preço encostando na parte de baixo da faixa do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-15-11h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-15-11h31",
+      "slides": [
+        {
+          "title": "A manhã apagou o repique",
+          "body": "A leitura de 11h31 trocou o lateral por baixa, com o preço encostando na parte de baixo da faixa do dia."
+        },
+        {
+          "title": "US$ 64,9 mil",
+          "body": "Δ1h -0,92% · Δ24h -1,36% · volume de US$ 2,49 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço na borda de baixo da faixa depois de recusar os 66 mil · Smart money: funding -0,0002%, quase neutro, e L/S 2,86, com 74% das contas em long",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "62 mil é a linha da próxima hora",
+          "body": "Chão do dia em 62.000 (-4,5%) · teto em 66.000 (+1,6%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-15-08h32",
       "date": "2026-11-15",
       "time": "08h32",
