@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-15-08h32",
+      "date": "2026-11-15",
+      "time": "08h32",
+      "hook": "O repique da madrugada devolveu o Bitcoin aos 65,6 mil e ali ficou. Agora são 65,4 mil dólares, com a última hora em praticamente zero e o dia ainda devendo 2,3%. O teto do dia, em 66,5 mil, nem foi encarado, e o mercado voltou a esperar.",
+      "caption": "Depois de duas horas no verde, o preço perdeu o embalo a 1,7% do limite superior do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-15-08h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-15-08h32",
+      "slides": [
+        {
+          "title": "A subida parou na porta do teto",
+          "body": "Depois de duas horas no verde, o preço perdeu o embalo a 1,7% do limite superior do dia."
+        },
+        {
+          "title": "US$ 65,4 mil",
+          "body": "Δ1h -0,11% · Δ24h -2,27% · volume de US$ 2,68 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço no meio da faixa de 62 a 66,5 mil, sem convicção para nenhum lado · Smart money: funding +0,0010%, quase neutro, e L/S 2,84, com 74% das contas em long",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Sair da faixa pede fechamento",
+          "body": "Acima de 66,5 mil, o repique ganha espaço até 67,3 mil · chão do dia em 62 mil (-5,2%), teto em 66,5 mil (+1,7%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-15-06h32",
       "date": "2026-11-15",
       "time": "06h32",
