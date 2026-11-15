@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-15-12h33",
+      "date": "2026-11-15",
+      "time": "12h33",
+      "hook": "O sinal de queda da manhã não durou. Na leitura das 12h33 o Bitcoin voltou ao neutro: o preço deixou a beira de baixo da faixa e agora negocia no meio, a 64,7 mil dólares, com a última hora caindo 0,4% e o dia devendo 0,6%. O mercado segue de espera, com o teto de 66 mil intocado.",
+      "caption": "A leitura das 12h33 trocou a baixa por neutro, com o preço de volta ao meio da faixa de 62 a 66 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-15-12h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-15-12h33",
+      "slides": [
+        {
+          "title": "A queda da manhã não durou",
+          "body": "A leitura das 12h33 trocou a baixa por neutro, com o preço de volta ao meio da faixa de 62 a 66 mil."
+        },
+        {
+          "title": "US$ 64,7 mil",
+          "body": "Δ1h -0,39% · Δ24h -0,63% · volume de US$ 2,35 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço de volta ao meio da faixa de 62 a 66 mil, sem direção · Smart money: funding -0,0002%, em zero, e L/S 2,76, com 73% das contas no lado comprado",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Tudo passa por 64 mil agora",
+          "body": "Acima, o topo da faixa em 66.000 (+2,0%) volta ao radar · abaixo, 63 mil e a mínima de 62.000 (-4,2%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura de hora em hora, direto do intraday."
+        }
+      ]
+    },
+    {
       "id": "2026-11-15-11h31",
       "date": "2026-11-15",
       "time": "11h31",
