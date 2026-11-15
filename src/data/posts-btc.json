@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-15-14h31",
+      "date": "2026-11-15",
+      "time": "14h31",
+      "hook": "A mínima das últimas 24 horas foi varrida e rejeitada na mesma hora. O Bitcoin voltou a 64,9 mil dólares, com alta de 0,6% entre uma leitura e outra, e o viés das 14h31 virou para alta. O dia segue negativo em 1,1%. Com 74% das contas compradas, o teste agora é atravessar os 66 mil que seguram o teto do dia.",
+      "caption": "A varredura da mínima não encontrou vendedores e o viés da hora trocou para alta.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-15-14h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-15-14h31",
+      "slides": [
+        {
+          "title": "A mínima foi varrida e devolvida",
+          "body": "A varredura da mínima não encontrou vendedores e o viés da hora trocou para alta."
+        },
+        {
+          "title": "US$ 64,9 mil",
+          "body": "Δ1h +0,63% · Δ24h -1,11% · volume de US$ 2,23 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Mínima das últimas 24 horas varrida e devolvida, repique de 0,63% na hora · Smart money: funding -0,0014%, quase neutro, e L/S 2,84, com 74% das contas compradas, sinal de quem apostava contra fechando posição",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "66 mil decide o repique",
+          "body": "Fechamento acima de 66.000 (+1,8%) com volume estende o repique até 66.800 · sem passagem, o preço volta a testar 62.000 (-4,4%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-15-13h31",
       "date": "2026-11-15",
       "time": "13h31",
