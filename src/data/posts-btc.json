@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-15-20h32",
+      "date": "2026-11-15",
+      "time": "20h32",
+      "hook": "O Bitcoin tocou 66,1 mil dólares no fim da noite de domingo, o topo das últimas 24 horas, e não ficou. Pouco mais de uma hora depois, estava de volta aos 65 mil. Nenhuma vela de 1h fechou acima de 66 mil, e o dia segue dentro do espaço entre 62 e 66 mil.",
+      "caption": "Máxima de 24h em 66,1 mil dólares, sem fechamento acima. O preço voltou ao meio da faixa.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-15-20h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-15-20h32",
+      "slides": [
+        {
+          "title": "A visita a 66 mil durou pouco",
+          "body": "Máxima de 24h em 66,1 mil dólares, sem fechamento acima. O preço voltou ao meio da faixa."
+        },
+        {
+          "title": "US$ 65,0 mil",
+          "body": "Δ1h -0,13% · Δ24h +2,62% · volume de US$ 1,86 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A ida até 66,1 mil não teve sequência: nenhuma vela de 1h fechou fora do espaço de 62 a 66 mil · Smart money: funding -0,0013% e L/S de 3,02, com 75% das contas no lado da alta",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teto novo é 66 mil",
+          "body": "Fechar acima de 66 mil (+1,4%) aponta 66,8 mil · girar abaixo de 62 mil (-4,7%) leva a referência a 61 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-15-18h31",
       "date": "2026-11-15",
       "time": "18h31",
