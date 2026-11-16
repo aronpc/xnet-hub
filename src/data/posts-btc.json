@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-16-09h33",
+      "date": "2026-11-16",
+      "time": "09h33",
+      "hook": "O nível que a madrugada ainda defendia não resistiu à manhã: o Bitcoin trocou 64 mil por 63,9 mil dólares, queda de 1,2% na última hora. O que move o preço agora são as posições: três de cada quatro contas operavam para cima quando o chão cedeu, e a descida foi empurrando essas apostas para fora, uma a uma.",
+      "caption": "Perdeu a base de 24h, e a própria descida derruba as apostas de alta que encontra pela frente.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-16-09h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-16-09h33",
+      "slides": [
+        {
+          "title": "A queda que se alimenta de apostas de alta",
+          "body": "Perdeu a base de 24h, e a própria descida derruba as apostas de alta que encontra pela frente."
+        },
+        {
+          "title": "US$ 63,9 mil",
+          "body": "Δ1h -1,2% · Δ24h -2,2% · volume de US$ 1,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço abaixo do piso de 24h (64,0 mil) · Smart money: funding +0,0006%, neutro, e L/S 2,73, com 73% das contas em longo · Sentimento em 10, o fundo da escala de medo; região que historicamente favorece repique técnico",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "63,5 mil decide a próxima hora",
+          "body": "Suporte 63.500 (-0,6%) · Resistência 65.000 (+1,8%). Fechar abaixo de 63,5 abre caminho a 62,5; recuperar 64,0 devolve o reteste de 64,8 a 65 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-16-03h32",
       "date": "2026-11-16",
       "time": "03h32",
