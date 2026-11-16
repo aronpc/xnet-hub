@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-16-03h32",
+      "date": "2026-11-16",
+      "time": "03h32",
+      "hook": "O domingo terminou com o Bitcoin rondando 66 mil dólares. A madrugada devolveu o preço ao chão do movimento de 24 horas: 64,4 mil, queda de 0,6% na última hora. Nada quebrou de verdade, mas a subida da tarde virou assunto antigo.",
+      "caption": "O preço ocupa o trecho mais baixo do movimento de 24h, colado no nível que decide a próxima hora.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-16-03h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-16-03h32",
+      "slides": [
+        {
+          "title": "66 mil já ficou longe",
+          "body": "O preço ocupa o trecho mais baixo do movimento de 24h, colado no nível que decide a próxima hora."
+        },
+        {
+          "title": "US$ 64,4 mil",
+          "body": "Δ1h -0,63% · Δ24h +0,98% · volume de US$ 1,4 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A queda parou no terço de baixo do espaço de 63,8 a 66,1 mil, sem fechamento fora dele · Smart money: funding -0,0009%, neutro, e 3 de cada 4 contas posicionadas para alta (L/S 2,81)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O degrau da madrugada é 64,2 mil",
+          "body": "Perder esse nível encosta na mínima de 24h, 63,8 mil, e depois em 63,5 mil · segurando 64,4 a 64,6 mil, o caminho curto volta a 65 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-15-20h32",
       "date": "2026-11-15",
       "time": "20h32",
