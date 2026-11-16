@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-16-10h33",
+      "date": "2026-11-16",
+      "time": "10h33",
+      "hook": "Pouco depois das 9h, o Bitcoin deixou passar a linha das 64 mil dólares. A visita a 63,9 mil durou pouco: a pressão vendedora esbarrou em demanda e, às 10h33, o preço rondava 64,1 mil, alta de 0,4% na última hora com o dia ainda devendo 2,1%. A queda encontrou dono. Para engatar, a recuperação precisa atravessar a faixa de 64,8 a 65 mil.",
+      "caption": "Menos de duas horas abaixo da linha das 64 mil, e o preço já trabalha de volta a 64,1 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-16-10h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-16-10h33",
+      "slides": [
+        {
+          "title": "63,9 mil foi visita rápida",
+          "body": "Menos de duas horas abaixo da linha das 64 mil, e o preço já trabalha de volta a 64,1 mil."
+        },
+        {
+          "title": "US$ 64,1 mil",
+          "body": "Δ1h +0,4% · Δ24h -2,1% · volume de US$ 1,25 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Recuperou a linha das 64 mil e segue dentro do range de 63,5 a 65 mil · Smart money: funding neutro e L/S 2,8, com três em cada quatro contas ainda no lado comprador",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A recuperação olha para 64,8 mil",
+          "body": "Suporte 63.500 (-1,0%) · Resistência 65.000 (+1,4%). Segurar 64 mil consolida o movimento; o degrau seguinte mora em 64,8 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-16-09h33",
       "date": "2026-11-16",
       "time": "09h33",
