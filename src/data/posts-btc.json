@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-17-17h30",
+      "date": "2026-11-17",
+      "time": "17h30",
+      "hook": "Há uma hora a leitura era de queda, com o preço encostado no mínimo do dia. Às 17h30 o quadro inverteu: +0,4% em 60 minutos, preço a 63,9 mil e a zona de 64,5 mil outra vez à frente. E a maior parte do mercado segue na mesma direção: 75,5% das contas.",
+      "caption": "O repique tirou o preço do mínimo do dia e pôs a zona de 64,5 mil no centro da próxima leitura.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-17-17h30",
+      "link": "https://xbtc.aronpc.dev/#2026-11-17-17h30",
+      "slides": [
+        {
+          "title": "De queda a alta em sessenta minutos",
+          "body": "O repique tirou o preço do mínimo do dia e pôs a zona de 64,5 mil no centro da próxima leitura."
+        },
+        {
+          "title": "US$ 63,9 mil",
+          "body": "Δ1h +0,4% · Δ24h −2,0% · volume de US$ 1,74 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "O repique da tarde ganhou tração e o viés virou para alta · Smart Money: funding +0,0034% e L/S 3,09, com 75,5% das contas compradas",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Uma hora acima de 64,5 mil muda o dia",
+          "body": "Zona de 64,5 mil a +0,9% · mínimo de 24h em 63 mil a −1,5%. Uma vela de 1h acima da zona estica até 65 mil; o mínimo cedendo abre 62,5 mil e 62 mil.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-17-16h33",
       "date": "2026-11-17",
       "time": "16h33",
