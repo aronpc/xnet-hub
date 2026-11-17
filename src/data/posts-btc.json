@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-17-08h36",
+      "date": "2026-11-17",
+      "time": "08h36",
+      "hook": "Depois de uma manhã inteira de topos cada vez mais baixos, o Bitcoin encostou em 64,1 mil, não encontrou força vendedora e reagiu: 64,4 mil. É o primeiro repique consistente do dia.",
+      "caption": "A zona foi varrida às 7h e resistiu; a vela das 8h devolveu 64,3 mil. Primeiro topo crescente da manhã, depois de uma sequência inteira só de topos em queda.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-17-08h36",
+      "link": "https://xbtc.aronpc.dev/#2026-11-17-08h36",
+      "slides": [
+        {
+          "title": "A queda esbarrou em 64,1 mil",
+          "body": "A zona foi varrida às 7h e resistiu; a vela das 8h devolveu 64,3 mil. Primeiro topo crescente da manhã, depois de uma sequência inteira só de topos em queda."
+        },
+        {
+          "title": "US$ 64,4 mil",
+          "body": "Δ1h +0,3% · Δ24h −0,4% · volume de US$ 1,68 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Zona de 64,1 mil varrida e defendida, primeiro topo crescente do dia · quem aposta na queda segue pagando para pressionar (funding −0,0030%) · 74,6% das contas na ponta comprada (L/S 2,93)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A faixa de 64,7 a 64,8 mil decide a hora",
+          "body": "Suporte 64,1 mil (−0,4%) · resistência 64,75 mil (+0,6%). Fechar acima estende a recuperação a 65,2 mil; recuar e perder 64,1 mil devolve o reteste de 63,9 mil.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-17-07h33",
       "date": "2026-11-17",
       "time": "07h33",
