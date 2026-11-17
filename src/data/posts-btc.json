@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-17-04h36",
+      "date": "2026-11-17",
+      "time": "04h36",
+      "hook": "A sequência de quedas da madrugada parou no teste de 64,3 mil. O Bitcoin opera a 64,6 mil dólares, e o repique não teve força para passar do teto de 64,8 mil. Três de cada quatro posições seguem no mesmo lado dentro desse corredor de 500 pontos: quanto mais tempo parado, maior a tensão para a saída.",
+      "caption": "O fundo de 64,3 mil segurou e o repique parou antes do teto de 64,8 mil. Dentro do intervalo, o preço não decide nada.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-17-04h36",
+      "link": "https://xbtc.aronpc.dev/#2026-11-17-04h36",
+      "slides": [
+        {
+          "title": "Trégua comprimida entre 64,3 e 64,8 mil",
+          "body": "O fundo de 64,3 mil segurou e o repique parou antes do teto de 64,8 mil. Dentro do intervalo, o preço não decide nada."
+        },
+        {
+          "title": "US$ 64,6 mil",
+          "body": "Δ1h +0,1% · Δ24h +0,3% · volume de US$ 1,48 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Correção dentro da queda, sem reversão: o fundo de 64,3 mil segurou e o repique parou no teto de 64,8 mil · Funding +0,0006%, quase zero · L/S 2,86, com 74% das contas na ponta comprada",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Qual ponta do corredor cede primeiro?",
+          "body": "Referência de baixo 64.300 (−0,4%) · teto 64.800 (+0,3%). Recuperado o teto, 65,2 mil é o próximo número; perdido o fundo, 64,0 mil vira a referência seguinte",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-17-03h33",
       "date": "2026-11-17",
       "time": "03h33",
