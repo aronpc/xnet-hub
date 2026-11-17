@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-17-19h30",
+      "date": "2026-11-17",
+      "time": "19h30",
+      "hook": "O Bitcoin caiu a 63 mil no começo da tarde e já opera a 64,5 mil, a 0,7% do ponto mais alto do dia. E a subida não veio sozinha: três em cada quatro contas seguem na direção da alta.",
+      "caption": "Depois de encostar em 63 mil, o preço já opera a 64,5 mil, colado na região que comandou o começo do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-17-19h30",
+      "link": "https://xbtc.aronpc.dev/#2026-11-17-19h30",
+      "slides": [
+        {
+          "title": "A escalada da tarde não parou",
+          "body": "Depois de encostar em 63 mil, o preço já opera a 64,5 mil, colado na região que comandou o começo do dia."
+        },
+        {
+          "title": "US$ 64,5 mil",
+          "body": "Δ1h +0,4% · Δ24h −0,4% · volume de US$ 1,82 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Segunda leitura seguida de alta e o preço de volta à vizinhança dos 65 mil · Smart Money: funding +0,0045% e 75% das contas na direção da alta (L/S 3,06)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "O teste da região de 65 mil",
+          "body": "Referência de baixo: 63 mil (−2,4%) · referência de cima: 65 mil (+0,7%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura viva",
+          "body": "O quadro atualiza de hora em hora, com preço, volume e posicionamento do mercado."
+        }
+      ]
+    },
+    {
       "id": "2026-11-17-17h30",
       "date": "2026-11-17",
       "time": "17h30",
