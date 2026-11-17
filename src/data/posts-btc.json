@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-17-15h31",
+      "date": "2026-11-17",
+      "time": "15h31",
+      "hook": "A queda da manhã levou o preço a 63,3 mil. À tarde, o nível foi testado mais três vezes e segurou em todas. O medo segue em 12 pela oitava hora seguida, e o preço não passou de 64,4 mil.",
+      "caption": "Equilíbrio depois da queda: 63,3 mil aguentou a tarde inteira e a recuperação parou antes da zona de 64,4 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-17-15h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-17-15h31",
+      "slides": [
+        {
+          "title": "O nível que segurou três vezes",
+          "body": "Equilíbrio depois da queda: 63,3 mil aguentou a tarde inteira e a recuperação parou antes da zona de 64,4 mil."
+        },
+        {
+          "title": "US$ 63,9 mil",
+          "body": "Δ1h +0,3% · Δ24h −1,2% · volume de US$ 1,82 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Recuperação travada embaixo de 64,4 mil, com o viés saindo de baixa · Smart Money: funding subiu de novo (+0,0038%) e 72% das contas seguem compradas (L/S 2,59)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "63,8 mil decide a próxima hora",
+          "body": "Zona de 64,4 mil a +0,8% e mínimo do dia em 63,3 mil a −0,8%. Fechar acima de 64,4 mil devolve a faixa de 64,8 mil; ceder 63,8 mil leva o mínimo ao teste de novo.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-17-13h34",
       "date": "2026-11-17",
       "time": "13h34",
