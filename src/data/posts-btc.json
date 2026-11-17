@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-17-06h35",
+      "date": "2026-11-17",
+      "time": "06h35",
+      "hook": "BTC afundou a 64,18 mil, abaixo da marca de 64,3 mil, e recuperou na mesma vela · leitura de volta ao neutro",
+      "caption": "O movimento foi absorvido em seguida e o mercado ficou na espera. Quem aposta na queda paga cada vez mais caro para segurar o preço lá embaixo.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-17-06h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-17-06h35",
+      "slides": [
+        {
+          "title": "O mergulho por baixo de 64,3 mil durou uma vela",
+          "body": "O movimento foi absorvido em seguida e o mercado ficou na espera. Quem aposta na queda paga cada vez mais caro para segurar o preço lá embaixo."
+        },
+        {
+          "title": "US$ 64,3 mil",
+          "body": "Δ1h −0,1% · Δ24h −0,3% · volume de US$ 1,60 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Quarta descida à marca de 64,3 mil virou falsa quebra e devolveu a leitura ao neutro · Funding −0,0030%, negativo e aprofundando · L/S 2,90, com 74% das contas na ponta comprada"
+        },
+        {
+          "title": "A marca de 64,3 mil segura o fechamento de 1h?",
+          "body": "Marca 64.300 (−0,6%) · topo da faixa 64.800 (+0,8%). Fechamento abaixo abre caminho a 64,0 mil e ao mínimo 24h de 63,9 mil; faixa recuperada recoloca 65,2 mil na pauta"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-17-05h36",
       "date": "2026-11-17",
       "time": "05h36",
