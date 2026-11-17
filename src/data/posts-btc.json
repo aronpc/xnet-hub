@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-17-11h35",
+      "date": "2026-11-17",
+      "time": "11h35",
+      "hook": "O empurrão da manhã parou em 65,2 mil e o preço voltou a 64,8 mil. O Δ24h está em zero: a manhã inteira de movimento não mudou o dia. Em baixo do preço parado, o custo de manter a maioria comprada quase quadruplicou na última hora.",
+      "caption": "A recusa no topo devolveu o preço ao apoio de 64,8 mil, e a sessão segue sem escolher direção.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-17-11h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-17-11h35",
+      "slides": [
+        {
+          "title": "O dia voltou ao ponto de partida",
+          "body": "A recusa no topo devolveu o preço ao apoio de 64,8 mil, e a sessão segue sem escolher direção."
+        },
+        {
+          "title": "US$ 64,8 mil",
+          "body": "Δ1h −0,4% · Δ24h +0,0% · volume de US$ 1,66 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço no meio do range de 24h (64,1 a 65,5 mil), pisando o apoio da manhã · funding saltou a +0,0038%, quase 4x o da hora anterior, com 71,9% das contas compradas (L/S 2,55)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "64,8 mil no fechamento da hora",
+          "body": "Suporte 64,8 mil (o preço está em cima dele) · resistência 65,2 mil (+0,6%). Uma hora fechada abaixo devolve 64,4 mil e o mínimo de 64,1 mil; segurando o nível, voltar a 65 mil reabre o topo e o máximo de 65,5 mil.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-17-09h32",
       "date": "2026-11-17",
       "time": "09h32",
