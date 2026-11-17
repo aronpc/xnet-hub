@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-17-13h34",
+      "date": "2026-11-17",
+      "time": "13h34",
+      "hook": "O dia que passou a manhã inteira sem direção ganhou uma: o preço perdeu a faixa de 64,8 mil e caiu até 63,3 mil, o mínimo das últimas 24 horas. Foram 1,7% em uma hora.",
+      "caption": "A manhã inteira de indecisão acabou de uma vez, com o preço cravando o mínimo de 24h em 63,3 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-17-13h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-17-13h34",
+      "slides": [
+        {
+          "title": "O dia escolheu o lado de baixo",
+          "body": "A manhã inteira de indecisão acabou de uma vez, com o preço cravando o mínimo de 24h em 63,3 mil."
+        },
+        {
+          "title": "US$ 63,8 mil",
+          "body": "Δ1h −1,7% · Δ24h −1,3% · volume de US$ 1,68 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A zona de 64,4 mil cedeu e virou teto · funding recuou pela primeira vez em cinco leituras (+0,0033%) e 72% das contas seguem compradas (L/S 2,57)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "63,3 mil decide a próxima hora",
+          "body": "Zona perdida em 64,4 mil (+0,9%) · mínimo do dia em 63,3 mil (−0,9%), com 63,0 mil como degrau seguinte. Retomar de 64,1 a 64,4 mil devolve o repique à faixa de 64,8 mil.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-17-11h35",
       "date": "2026-11-17",
       "time": "11h35",
