@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-17-09h32",
+      "date": "2026-11-17",
+      "time": "09h32",
+      "hook": "A faixa de 64,8 mil segurou o Bitcoin a manhã toda. Às 9h ela cedeu: o preço passou dos 65 mil pela primeira vez desde o começo da queda e o dia virou positivo.",
+      "caption": "A barreira que travava desde a madrugada foi vencida com força; o Δ24h virou positivo.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-17-09h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-17-09h32",
+      "slides": [
+        {
+          "title": "Primeiro pico acima de 65 mil",
+          "body": "A barreira que travava desde a madrugada foi vencida com força; o Δ24h virou positivo."
+        },
+        {
+          "title": "US$ 64,9 mil",
+          "body": "Δ1h +0,9% · Δ24h +1,5% · volume de US$ 1,68 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "A faixa de 64,8 mil caiu de vez e o Δ24h virou positivo · quem apostava contra pagou caro: o funding foi a quase zero (−0,0006%) · 74,2% das contas estão na ponta comprada (L/S 2,87), com o termômetro de medo ainda lá embaixo (F&G 12)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "65,2 mil é o próximo degrau",
+          "body": "Suporte 64,8 mil (−0,2%) · resistência 65,2 mil (+0,4%). Acima dele vem o máximo do dia, 65,7 mil; fechar abaixo de 64,8 mil devolve a faixa de antes.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-17-08h36",
       "date": "2026-11-17",
       "time": "08h36",
