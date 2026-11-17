@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-17-07h33",
+      "date": "2026-11-17",
+      "time": "07h33",
+      "hook": "O nível de 64,3 mil que segurou a madrugada virou teto. BTC opera a 64,2 mil e os topos da manhã só descem.",
+      "caption": "Segunda visita por baixo em duas horas. Quem apostava na alta segue em massa no mercado, mesmo com o preço cedendo.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-17-07h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-17-07h33",
+      "slides": [
+        {
+          "title": "A defesa de 64,3 mil acabou",
+          "body": "Segunda visita por baixo em duas horas. Quem apostava na alta segue em massa no mercado, mesmo com o preço cedendo."
+        },
+        {
+          "title": "US$ 64,2 mil",
+          "body": "Δ1h −0,2% · Δ24h −0,5% · volume de US$ 1,65 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O piso de 64,3 mil virou obstáculo por cima e os topos descem desde o começo do dia · Funding −0,0039%, o mais negativo da manhã · L/S 2,92, com 74,5% das contas na ponta comprada",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "63,9 mil na balança",
+          "body": "Mínimo de 24h em 63.900 (−0,4%) · piso perdido em 64.300 (+0,2%). Um fechamento abaixo estende a queda na direção de 63,5 mil; fechar de volta acima de 64,3 mil devolve o impulso comprado.",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-17-06h35",
       "date": "2026-11-17",
       "time": "06h35",
