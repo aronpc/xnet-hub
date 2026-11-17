@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-16-21h35",
+      "date": "2026-11-16",
+      "time": "21h35",
+      "hook": "A zona de 65,5 mil resistiu mais uma vez e o preço desceu de vez: 64,6 mil dólares, na metade de baixo da faixa do dia. A queda de 0,9% na última hora foi empurrando para fora as contas posicionadas para cima, que eram 7 de cada 10 no início da noite. O sentimento segue em 12, no fundo da escala.",
+      "caption": "O degrau de 64,8 mil cedeu na descida e o preço ocupa a metade de baixo da faixa de 63,9 a 65,7 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-16-21h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-16-21h35",
+      "slides": [
+        {
+          "title": "A rejeição no topo virou queda",
+          "body": "O degrau de 64,8 mil cedeu na descida e o preço ocupa a metade de baixo da faixa de 63,9 a 65,7 mil."
+        },
+        {
+          "title": "US$ 64,6 mil",
+          "body": "Δ1h −0,9% · Δ24h −0,6% · volume de US$ 1,36 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Sequência de fechamentos em queda derrubou o degrau de 64,8 mil · Funding +0,0004% e L/S 2,62: com 72% das contas compradoras, a descida encontra combustível em quem já estava posicionado para cima",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "64,2 mil segura o andar de baixo",
+          "body": "Suporte 64.200 (−0,6%) · Resistência 65.500 (+1,4%). Perdeu 64,2 mil, o piso do dia em 63,9 mil entra em cena; para recobrar o terreno é preciso retomar 65 mil antes de olhar o teto de 65,7 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-16-18h33",
       "date": "2026-11-16",
       "time": "18h33",
