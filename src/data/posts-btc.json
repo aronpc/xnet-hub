@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-17-00h34",
+      "date": "2026-11-17",
+      "time": "00h34",
+      "hook": "Três horas depois do tombo da noite, o Bitcoin devolveu quase toda a queda: de 64,6 mil para 65,0 mil dólares, de volta ao degrau de 64,9 mil que a descida tinha levado. O preço virou o dia encostado na máxima de 65,1 mil.",
+      "caption": "Repique de 1% em uma hora recoloca o preço no degrau de 64,9 mil, rente à máxima do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-17-00h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-17-00h34",
+      "slides": [
+        {
+          "title": "A queda da noite foi devolvida",
+          "body": "Repique de 1% em uma hora recoloca o preço no degrau de 64,9 mil, rente à máxima do dia."
+        },
+        {
+          "title": "US$ 65,0 mil",
+          "body": "Δ1h +1,0% · Δ24h −0,1% · volume de US$ 1,37 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O repique devolve o degrau perdido, mas a passagem por 65,1 mil ainda não aconteceu · Funding +0,0044% e L/S 2,76: 73% das contas seguem na ponta comprada",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A máxima do dia é o próximo teste",
+          "body": "Suporte 64.900 (−0,2%) · Resistência 65.500 (+0,8%). Passou de 65,1 mil, o caminho segue até 65,5 mil; perdeu 64,9 mil, a faixa reabre rumo a 64,0 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-16-21h35",
       "date": "2026-11-16",
       "time": "21h35",
