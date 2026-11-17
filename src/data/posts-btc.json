@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-17-05h36",
+      "date": "2026-11-17",
+      "time": "05h36",
+      "hook": "A pausa da madrugada durou uma hora. O Bitcoin encostou de novo em 64,3 mil dólares, já na terceira visita à mesma marca dentro de uma hora, e a leitura do intraday voltou a apontar para baixo. Quem apostou na queda passou a pagar para manter a posição, sinal de vendedores recentes e confiantes. A reação, por enquanto, não passou de 64,8 mil.",
+      "caption": "O piso segurou por pouco, com mínimos de 64,30 e 64,36 mil, mas a reação morreu antes da faixa de 64,8 mil. A leitura saiu de neutra para baixa.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-17-05h36",
+      "link": "https://xbtc.aronpc.dev/#2026-11-17-05h36",
+      "slides": [
+        {
+          "title": "64,3 mil à prova pela terceira vez em uma hora",
+          "body": "O piso segurou por pouco, com mínimos de 64,30 e 64,36 mil, mas a reação morreu antes da faixa de 64,8 mil. A leitura saiu de neutra para baixa."
+        },
+        {
+          "title": "US$ 64,3 mil",
+          "body": "Δ1h −0,4% · Δ24h −0,3% · volume de US$ 1,51 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Terceira visita ao piso de 64,3 mil em uma hora e nenhuma força para retomar a faixa de 64,75 a 64,8 mil · Funding −0,0013%, negativo: a ponta da queda paga para pressionar · L/S 2,85, com 74% das contas na ponta comprada",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O piso aguenta uma quarta visita?",
+          "body": "Piso 64.300 (−0,1%) · faixa de reação 64.800 (+0,7%). Perdido o piso, o próximo número é 64,0 mil; recuperada a faixa, 65,2 mil volta ao jogo",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-17-04h36",
       "date": "2026-11-17",
       "time": "04h36",
