@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-18-12h31",
+      "date": "2026-11-18",
+      "time": "12h31",
+      "hook": "O Bitcoin passou a manhã caindo e encostou na mínima das últimas 24 horas, 63 mil dólares. Às 12h31 opera a 63,5 mil, e a leitura do dia, que ainda era de indecisão pela manhã, virou para baixo.",
+      "caption": "Leitura das 12h31 muda o viés para baixa, com o preço a 0,8% da mínima de 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-18-12h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-18-12h31",
+      "slides": [
+        {
+          "title": "Manhã de queda pressiona 63 mil",
+          "body": "Leitura das 12h31 muda o viés para baixa, com o preço a 0,8% da mínima de 24 horas."
+        },
+        {
+          "title": "US$ 63,5 mil",
+          "body": "Δ1h −0,7% · Δ24h −0,3% · volume de US$ 1,14 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A queda levou o preço até a mínima do dia e a recuperação só se desenha acima de 64,5 mil · Smart money: funding +0,0048% e 72,5% das contas posicionadas na alta (L/S 2,64)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Dois números: 64,5 mil e 63 mil",
+          "body": "Mínima de 24h: 63 mil, 0,8% abaixo · teto das últimas quatro velas: 64,5 mil, 1,6% acima · se 63 mil ceder, os próximos patamares ficam em 62,5 mil e 62 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-18-07h32",
       "date": "2026-11-18",
       "time": "07h32",
