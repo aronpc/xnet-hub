@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-18-17h31",
+      "date": "2026-11-18",
+      "time": "17h31",
+      "hook": "BTC 62,5 mil · 62,3 mil aguentaram dois testes hoje e ficaram para trás: a mínima de 24 horas agora é 62 mil, com o preço encostado nela",
+      "caption": "Leitura das 17h31: a mínima de 24 horas recuou para 62 mil e o preço desceu junto.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-18-17h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-18-17h31",
+      "slides": [
+        {
+          "title": "62,3 mil ficou para trás",
+          "body": "Leitura das 17h31: a mínima de 24 horas recuou para 62 mil e o preço desceu junto."
+        },
+        {
+          "title": "US$ 62,5 mil",
+          "body": "Δ1h −0,5% · Δ24h −2,7% · volume de US$ 1,16 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço colado na mínima de 24 horas e sem reação desde 63,5 mil · Smart Money: funding +0,0084% e L/S 3,41",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A faixa agora vai de 62 a 64 mil",
+          "body": "Abaixo: 62 mil, a mínima de 24 horas (−0,8%) · acima: 64 mil, o topo das últimas velas (+2,4%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-18-16h32",
       "date": "2026-11-18",
       "time": "16h32",
