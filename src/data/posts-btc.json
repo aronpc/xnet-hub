@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-18-07h32",
+      "date": "2026-11-18",
+      "time": "07h32",
+      "hook": "A madrugada levou o preço à mínima de 24 horas, 63,7 mil, e o nível segurou. Às 07h32 o Bitcoin opera a 64,3 mil num espaço que encolheu: o limite de cima, 65,5 mil ontem à noite, agora é 65 mil, onde as últimas quatro velas horárias pararam.",
+      "caption": "O preço segue entre 63 e 65 mil e a leitura das 07h32 mantém o lateral.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-18-07h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-18-07h32",
+      "slides": [
+        {
+          "title": "Madrugada de teste, manhã de espera",
+          "body": "O preço segue entre 63 e 65 mil e a leitura das 07h32 mantém o lateral."
+        },
+        {
+          "title": "US$ 64,3 mil",
+          "body": "Δ1h −0,6% · Δ24h −1,1% · volume de US$ 1,34 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A queda da madrugada parou antes do piso de 63 mil e o preço voltou ao meio do corredor · Smart Money: funding +0,0006% e L/S 2,08, com 67,5% das contas na alta",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "65 mil de um lado, 63 mil do outro",
+          "body": "Zona de baixo: 63 mil (−2,0%) · zona de cima: 65 mil (+1,1%). Fechamento de 1h acima de 65 mil abre caminho a 65,5 mil; o piso cedendo aponta 62,5 e 62 mil.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-17-21h33",
       "date": "2026-11-17",
       "time": "21h33",
