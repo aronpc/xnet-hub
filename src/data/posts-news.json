@@ -2,6 +2,65 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-18",
+      "date": "2026-11-18",
+      "hook": "Skills e MCP em 18 de novembro",
+      "caption": "A Metabase publicou o guia de design de tools que faltava, um MCP de OTP temporário virou o mais estrelado da janela e o prompt cache ganhou barra de status no chat. Sete novidades, uma por slide.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-18",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-18",
+      "slides": [
+        {
+          "title": "Skills e MCP em 18 de novembro",
+          "body": "A Metabase publicou o guia de design de tools que faltava, um MCP de OTP temporário virou o mais estrelado da janela e o prompt cache ganhou barra de status no chat. Sete novidades, uma por slide."
+        },
+        {
+          "title": "Metabase refaz o MCP e conta as lições",
+          "body": "Ao reescrever o MCP server, o time reduziu o número de tools, padronizou nomes previsíveis e repensou os retornos para consumo por modelo.",
+          "source": {
+            "label": "Metabase — 17 nov",
+            "url": "https://www.metabase.com/blog/mcp-tool-design-lessons"
+          }
+        },
+        {
+          "title": "otpkit resolve o 2FA nos testes",
+          "body": "MCP server open-source que expõe email e SMS temporários como tools, sem API keys: recebe códigos de verificação, links e confirmações em fluxos de teste automatizados.",
+          "source": "github.com/SecFathy/otpkit"
+        },
+        {
+          "title": "A API escondida do site vira tool",
+          "body": "A machine_internet descobre os endpoints JSON privados que o front de um site usa internamente e os expõe como tools MCP utilizáveis por agentes.",
+          "source": "github.com/chetanty/machine_internet"
+        },
+        {
+          "title": "Veil mascara PII antes do modelo ver",
+          "body": "Skill de Claude Code que aplica NER local para mascarar dados sensíveis antes do texto ir ao modelo, e desmascara na volta. Os datasets cobrem coreano, inglês, japonês e chinês.",
+          "source": "github.com/min-1225/veil-skill"
+        },
+        {
+          "title": "cache-maxxing mostra o TTL na barra",
+          "body": "Ferramenta que exibe acima do chat do Claude Code o TTL do prompt cache e quanto a próxima mensagem vai custar antes de você enviar.",
+          "source": "github.com/5m0k3/cache-maxxing"
+        },
+        {
+          "title": "Taster: regras que o agente não esquece",
+          "body": "Mantém regras em inglês simples sempre visíveis para o agente, atacando o problema de instrução sumir em sessão longa.",
+          "source": "github.com/rinkesh2010rpp/taster-ai"
+        },
+        {
+          "title": "Laptop encostado vira servidor de agentes",
+          "body": "Setup que converte um notebook antigo em servidor dedicado de Claude Code sempre ligado, com acesso remoto às sessões.",
+          "source": "github.com/blumalex/eso-box"
+        },
+        {
+          "title": "Design de tool saiu da intuição",
+          "body": "Menos tools, nomes previsíveis e retorno pensado para o modelo: o design de MCP virou engenharia com guia público. Em volta, privacidade local, cache visível e hardware próprio completam o ciclo do agente sempre ativo."
+        },
+        {
+          "title": "Salva e compartilha",
+          "body": "Edição nova todas as manhãs às 4h. Se esse resumo te poupar dez minutos de feed, compartilha com quem também precisa."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-18",
       "date": "2026-11-18",
       "hook": "Projetos em 18 de novembro",
