@@ -2,6 +2,62 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-18",
+      "date": "2026-11-18",
+      "hook": "Projetos em 18 de novembro",
+      "caption": "Sete ferramentas que repetem em open-source o que muita casa já construiu por dentro: orquestrador multi-agente numa janela só, fila para coding agents, roteamento por cache e review de artefatos de agente. Uma delas é brasileira e virou produto.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-18",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-18",
+      "slides": [
+        {
+          "title": "Projetos em 18 de novembro",
+          "body": "Sete ferramentas que repetem em open-source o que muita casa já construiu por dentro: orquestrador multi-agente numa janela só, fila para coding agents, roteamento por cache e review de artefatos de agente. Uma delas é brasileira e virou produto."
+        },
+        {
+          "title": "Sikemux: time de agentes numa janela",
+          "body": "App em Rust, licença MIT, que orquestra múltiplos coding agents numa única janela, como um time coordenado.",
+          "source": "sikemux.com"
+        },
+        {
+          "title": "MIT adapta o serving ao agente",
+          "body": "O Han Lab publicou o EvolvingInfra, que ajusta a infraestrutura de serving em tempo real conforme o agente trabalha, porque carga de raciocínio e carga de tool call variam demais para cluster estático.",
+          "source": "github.com/mit-han-lab/EvolvingInfra"
+        },
+        {
+          "title": "QuadGate mantém o prefix cache quente",
+          "body": "Control plane open-source com 4 gates que orquestra o roteamento de requests para maximizar o aproveitamento do KV prefix cache no serving de LLM.",
+          "source": "github.com/blagoslov333-cloud/quadgate"
+        },
+        {
+          "title": "Even Keel: fila, não chat",
+          "body": "Task queue em Rust pensado para coding agents: enfileira e distribui trabalho entre agentes em vez de sobrecarregar um único contexto.",
+          "source": "github.com/NamerekT/even-keel"
+        },
+        {
+          "title": "Retrace: busca semântica no que você leu",
+          "body": "Extensão do projeto Ferrovec que indexa as páginas visitadas e permite busca semântica 100% local sobre elas.",
+          "source": "github.com/singhpratech/ferrovec"
+        },
+        {
+          "title": "R3 junta os artefatos dos seus agentes",
+          "body": "Ferramenta que coleta diffs, arquivos e saídas produzidos por agentes para revisão local, como um code review do trabalho agêntico.",
+          "source": "r3.hyperlogue.tech"
+        },
+        {
+          "title": "TailorCV: skill virou produto",
+          "body": "Projeto do Thiago Lelis que gera currículo ATS-friendly a partir do link da vaga, com kanban local de candidaturas, construído como skill de Claude Code.",
+          "source": "github.com/ThiagoLelis/TailorCV"
+        },
+        {
+          "title": "O improviso virou categoria",
+          "body": "Fila, orquestração multi-agente, roteamento por cache e memória de leitura: o que muita gente resolveu em script próprio virou produto open-source nesta leva. A questão agora é escolher o que absorver, não o que construir do zero."
+        },
+        {
+          "title": "Salva e compartilha",
+          "body": "Edição nova todas as manhãs às 4h. Se esse resumo te poupar dez minutos de feed, compartilha com quem também precisa."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-18",
       "date": "2026-11-18",
       "hook": "IA em 18 de novembro",
