@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-17-21h33",
+      "date": "2026-11-17",
+      "time": "21h33",
+      "hook": "A arrancada da tarde esbarrou na banda dos 65,5 mil e dali não passou. Às 21h33 o Bitcoin opera a 64,8 mil, sem força para o teto e sem vontade de cair. No termômetro de sentimento, a marca é 11, medo extremo, na mesma noite em que 73,5% das contas seguem do lado otimista do mercado.",
+      "caption": "O preço segue dentro da faixa de 63 a 65,5 mil e a leitura das 21h33 voltou ao lateral.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-17-21h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-17-21h33",
+      "slides": [
+        {
+          "title": "A subida parou na porta de cima",
+          "body": "O preço segue dentro da faixa de 63 a 65,5 mil e a leitura das 21h33 voltou ao lateral."
+        },
+        {
+          "title": "US$ 64,8 mil",
+          "body": "Δ1h −0,3% · Δ24h +0,1% · volume de US$ 1,78 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A força da tarde não passou da banda de 65,5 mil e a leitura voltou à espera · Smart Money: funding +0,0054% e 73,5% das contas posicionadas na alta (L/S 2,77)",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A saída da faixa passa por 65,5 mil",
+          "body": "Banda de baixo: 63 mil (−2,7%) · banda de cima: 65,5 mil (+1,1%). Fechar uma hora acima abre espaço até 66 mil; o piso cedendo traz de volta 62,5 e 62 mil.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-17-19h30",
       "date": "2026-11-17",
       "time": "19h30",
