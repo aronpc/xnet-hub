@@ -2,6 +2,91 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-18",
+      "date": "2026-11-18",
+      "hook": "IA em 18 de novembro",
+      "caption": "Amanhã a Anthropic estreia na bolsa, com demanda forte o bastante para levar o preço além de US$ 80. A OpenAI cortou o preço do flagship, a SEC abriu investigação contra a Nvidia e a Phrack publicou um vírus que mora dentro de LLM. Oito histórias, uma por slide.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-18",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-18",
+      "slides": [
+        {
+          "title": "IA em 18 de novembro",
+          "body": "Amanhã a Anthropic estreia na bolsa, com demanda forte o bastante para levar o preço além de US$ 80. A OpenAI cortou o preço do flagship, a SEC abriu investigação contra a Nvidia e a Phrack publicou um vírus que mora dentro de LLM. Oito histórias, uma por slide."
+        },
+        {
+          "title": "IPO da Anthropic estreia amanhã",
+          "body": "O range registrado vai de US$ 70 a 78, para 825 milhões de ações Class A, ticker ANT. A demanda pode levar o pricing acima de US$ 80, o que poria o valuation em torno de US$ 1,5 a 1,6 trilhão.",
+          "source": {
+            "label": "Morningstar — 18 nov",
+            "url": "https://www.morningstar.com/stocks/anthropic-we-see-stock-undervalued-ipo-pricing-range"
+          }
+        },
+        {
+          "title": "GPT-6.2 Astra fica ~20% mais barato",
+          "body": "A OpenAI lançou GPT-6.2 Astra e GPT-6.2 Sol no ChatGPT e na API. O Astra passa a custar US$ 8 de input, US$ 0,40 de cached input e US$ 40 de output por milhão de tokens, cerca de 20% menos que o GPT-6 Astra, e o cached input ficou 60% mais barato. O Sol mantém US$ 2 e US$ 10.",
+          "source": {
+            "label": "The Decoder — 17 nov",
+            "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains"
+          }
+        },
+        {
+          "title": "Nvidia ganha investigação da SEC",
+          "body": "Na earnings call do Q3, o chairman Harvey Jones disse que o board não pretende reinstaurar Jensen Huang como CEO. Em paralelo, o WSJ reporta que a SEC investiga se os disclosures da Nvidia enganaram investidores depois da saída de Huang.",
+          "source": {
+            "label": "The Verge — 17 nov",
+            "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo"
+          }
+        },
+        {
+          "title": "Cerebras separa prefill de decode",
+          "body": "A Cerebras publicou a arquitetura de inferência desagregada construída do zero, com prefill e decode em hardware separado. Foi o post de IA mais votado do Hacker News nas últimas 48 horas.",
+          "source": {
+            "label": "Cerebras — 18 nov",
+            "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
+          }
+        },
+        {
+          "title": "Patches por IA derrubaram bancos",
+          "body": "Em depoimento ao Congresso americano, CEOs de bancos e a NSA disseram que patches aplicados autonomamente por IA estão por trás das indisponibilidades recentes.",
+          "source": {
+            "label": "Washington Sun — 18 nov",
+            "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages"
+          }
+        },
+        {
+          "title": "Phrack 73: um vírus dentro do LLM",
+          "body": "A revista publicou Reflections on Trusting AI: A Virus Inside an LLM, pegando o clássico Reflections on Trusting Trust de Thompson e aplicando a payloads que se propagam dentro de modelos.",
+          "source": {
+            "label": "Phrack — 18 nov",
+            "url": "https://phrack.org/issues/73/reflections-on-trusting-ai-a-virus-inside-an-llm_md"
+          }
+        },
+        {
+          "title": "Pacote falso de agente roubava credenciais",
+          "body": "Duas releases maliciosas do pacote agent-framework no PyPI rodaram um stealer de credenciais imitando um SDK oficial da Microsoft. Foram publicadas e detectadas num intervalo de 33 minutos, segundo a Aikido.",
+          "source": {
+            "label": "Aikido — 17 nov",
+            "url": "https://www.aikido.dev/blog/two-malicious-agent-framework-releases-hit-pypi-in-33-minutes"
+          }
+        },
+        {
+          "title": "Anthropic publica guia de agentes always-on",
+          "body": "Artigo técnico oficial sobre arquitetura de agentes sempre ativos: loops de longa duração, contexto persistente e confiabilidade.",
+          "source": {
+            "label": "claude.com — 18 nov",
+            "url": "https://claude.com/resources/articles/building-always-on-agents"
+          }
+        },
+        {
+          "title": "O preço cai e o risco aparece em dobro",
+          "body": "O custo por task voltou a cair no mesmo dia em que Congresso, SEC e Phrack empilharam risco nos dois lados da conta: outages por patch autônomo de um lado, malware na camada de agentes do outro. O guia de always-on agents chega na hora exata dessa cobrança."
+        },
+        {
+          "title": "Salva e compartilha",
+          "body": "Edição nova todas as manhãs às 4h. Se esse resumo te poupar dez minutos de feed, compartilha com quem também precisa."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-13",
       "date": "2026-11-13",
       "hook": "O harness acelerou",
