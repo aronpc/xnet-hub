@@ -2,6 +2,83 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-19",
+      "date": "2026-11-19",
+      "hook": "IA em 19 de novembro",
+      "caption": "Hoje é o dia da estreia da Anthropic na Nasdaq, precificada em US$ 83 na véspera. O Google respondeu com o Gemini 4 Neon, a Microsoft encheu o Ignite de modelos MAI, e a busca orgânica apareceu com o número mais duro do ano: queda de até 40%. Sete histórias, uma por slide.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-19",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-19",
+      "slides": [
+        {
+          "title": "IA em 19 de novembro",
+          "body": "Hoje é o dia da estreia da Anthropic na Nasdaq, precificada em US$ 83 na véspera. O Google respondeu com o Gemini 4 Neon, a Microsoft encheu o Ignite de modelos MAI, e a busca orgânica apareceu com o número mais duro do ano: queda de até 40%. Sete histórias, uma por slide."
+        },
+        {
+          "title": "Google lança o Gemini 4 Neon",
+          "body": "O novo frontier do Google chegou ontem no Gemini API, no AI Studio e para assinantes AI Pro e Ultra dentro do Antigravity. Análise independente o coloca como concorrente direto do Opus 5.5. O irmão maior, Gemini 4 Carbon, segue sem data.",
+          "source": {
+            "label": "Blog do Google — 18 nov",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+          }
+        },
+        {
+          "title": "Ignite: seis modelos MAI e nenhum preço",
+          "body": "A Microsoft lançou no Ignite seis modelos: MAI-Code-2 e sua versão Flash em GA no GitHub, MAI-Image-2.7 e MAI-Cyber-2-Flash em preview, e o Microsoft-Decision-1.1 em Foundry, OpenRouter e Vercel. Nenhum tem preço por token publicado. E o Decision-1.1, que roteia o Copilot, é construído sobre o Gemma 4 26B, modelo aberto do Google.",
+          "source": {
+            "label": "microsoft.ai — 18 nov",
+            "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
+          }
+        },
+        {
+          "title": "Anthropic estreia hoje na Nasdaq",
+          "body": "A oferta de 825 milhões de ações fechou precificada em US$ 83, acima da faixa de 70 a 78. Foi descrita como a maior oferta da história. O ticker é ANT e a estreia é hoje.",
+          "source": {
+            "label": "aitoolsrecap — 19 nov",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-november-19-2026"
+          }
+        },
+        {
+          "title": "Respostas de IA cortam tráfego em até 40%",
+          "body": "Análise da Revscope atribui queda de até 40% no tráfego orgânico às respostas de IA do Google. No mesmo dia, o NYT reportou que distritos escolares de Nova York, Los Angeles e Chicago avaliam romper com o Google Search por causa da IA.",
+          "source": {
+            "label": "Revscope — 18 nov",
+            "url": "https://revscope.co/blog/search-seo-geo-2026/"
+          }
+        },
+        {
+          "title": "\"AI is killing All About Berlin\"",
+          "body": "Nicolas Bouliane, criador do All About Berlin, publicou o relato de como as respostas de IA destruíram o tráfego e a receita do site. Não é projeção de futuro: é o balanço de 2026 de um negócio real de uma pessoa só.",
+          "source": {
+            "label": "nicolasbouliane.com — 18 nov",
+            "url": "https://nicolasbouliane.com/blog/death-by-ai"
+          }
+        },
+        {
+          "title": "Harvard: o gargalo mudou para o review",
+          "body": "Pesquisadores de Harvard encontraram o que os times já sentiam na prática: com agentes escrevendo o código, o gargalo das equipes migrou para a revisão. O custo se moveu da escrita para a verificação.",
+          "source": {
+            "label": "ComplexDiscovery — 17 nov",
+            "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+          }
+        },
+        {
+          "title": "\"Not everything needs an LLM\"",
+          "body": "A newsletter técnica da PostHog defende que boa parte dos produtos vendidos como IA precisa de um decision model simples, não de um modelo de linguagem. A pergunta \"isso precisa de LLM ou precisa de regra?\" volta a ser gate de projeto.",
+          "source": {
+            "label": "PostHog Newsletter — 17 nov",
+            "url": "https://newsletter.posthog.com/p/decision-models"
+          }
+        },
+        {
+          "title": "A conta da verificação chegou",
+          "body": "Na semana do IPO mais rico do setor, as duas notícias mais úteis não vieram de valuation. Harvard mediu o custo que migrou da escrita para o review, e a PostHog publicou o contraponto que economiza LLM onde regra basta. Enquanto isso, a busca orgânica deu o número que faltava: queda de até 40%, com uma vítima que publicou o próprio balanço."
+        },
+        {
+          "title": "Salva e compartilha",
+          "body": "Edição nova todas as manhãs às 4h. Se esse resumo te poupar dez minutos de feed, compartilha com quem também precisa."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-18",
       "date": "2026-11-18",
       "hook": "Skills e MCP em 18 de novembro",
