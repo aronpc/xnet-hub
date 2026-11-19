@@ -2,6 +2,62 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-19",
+      "date": "2026-11-19",
+      "hook": "Projetos em 19 de novembro",
+      "caption": "A camada de operação de agentes virou categoria: mensageiro para harnesses diferentes, factory de agentes aberta, CI que se auto-melhora e cloud gerenciada. No outro extremo, um TTS de 4,5 milhões de parâmetros que roda em CPU e um curta inteiro assinado por um único modelo. Sete histórias, uma por slide.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-19",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-19",
+      "slides": [
+        {
+          "title": "Projetos em 19 de novembro",
+          "body": "A camada de operação de agentes virou categoria: mensageiro para harnesses diferentes, factory de agentes aberta, CI que se auto-melhora e cloud gerenciada. No outro extremo, um TTS de 4,5 milhões de parâmetros que roda em CPU e um curta inteiro assinado por um único modelo. Sete histórias, uma por slide."
+        },
+        {
+          "title": "TaroBird: seus agentes como contatos",
+          "body": "Workspace open-source lançado ontem, em formato de mensageiro: Codex, Claude Code e DeepSeek rodando nas suas máquinas viram contatos numa conversa unificada. Self-hosted.",
+          "source": "github.com/cloveric/tarobird"
+        },
+        {
+          "title": "A factory que constrói o Mastra é aberta",
+          "body": "O time atrás do framework Mastra abriu o pipeline interno de agentes que usa para desenvolver o próprio produto. A fábrica virou o case, com código aberto para estudar.",
+          "source": "news.ycombinator.com/item?id=50548660"
+        },
+        {
+          "title": "StarSling: CI para PR que não é humano",
+          "body": "Startup da YC P25 lançou um CI que se auto-melhora, desenhado para repositórios onde coding agents geram volume alto de mudanças. É a primeira leva de infra de CI pensada para o mundo em que quem abre PR é agente.",
+          "source": "news.ycombinator.com/item?id=50536468"
+        },
+        {
+          "title": "Maritime: cloud gerenciada de agentes",
+          "body": "Nova cloud dedicada a rodar agentes em produção, com estado, escala e observabilidade empacotados. Da YC F26.",
+          "source": "news.ycombinator.com/item?id=50549188"
+        },
+        {
+          "title": "Suno Visuals: música vira videoclipe",
+          "body": "A Suno lançou clipes de até 15 segundos sincronizados com estrutura da música, ritmo, letra e movimento labial. Créditos visuais são cobrados à parte, o modelo de vídeo por trás não foi divulgado e, por enquanto, é web-only.",
+          "source": "aitoolsrecap.com/Blog/ai-news-november-19-2026"
+        },
+        {
+          "title": "TTS de 4,5M parâmetros roda em CPU",
+          "body": "Modelo de text-to-speech minúsculo publicado no Hugging Face: 4,5 milhões de parâmetros, 70 vezes mais rápido que o tempo real rodando em CPU, e o treino custou US$ 10.",
+          "source": "huggingface.co/n4ze3m/tiny-voca"
+        },
+        {
+          "title": "Um curta inteiro assinado por um modelo",
+          "body": "A claudia.gallery exibe \"Fable\", curta com crédito único de autoria do Claude Fable 5.2: texto, pintura e direção saíram do mesmo modelo.",
+          "source": "claudia.gallery/fable/"
+        },
+        {
+          "title": "O gargalo virou produto em 48 horas",
+          "body": "Harvard mediu o gargalo do review, e em dois dias apareceram factory de agentes aberta, CI self-improving e cloud de agentes em produção. Enquanto a camada de operação se institucionaliza, a de baixo encolhe: TTS útil por US$ 10 de treino e um curta inteiro feito por um modelo só."
+        },
+        {
+          "title": "Salva e compartilha",
+          "body": "Edição nova todas as manhãs às 4h. Se esse resumo te poupar dez minutos de feed, compartilha com quem também precisa."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-19",
       "date": "2026-11-19",
       "hook": "IA em 19 de novembro",
