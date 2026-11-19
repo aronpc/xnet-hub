@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-19-02h33",
+      "date": "2026-11-19",
+      "time": "02h33",
+      "hook": "BTC 63,4 mil · a madrugada devolveu boa parte da queda da noite, mas o dia segue negativo em 2,1%. O repique parou antes dos 63,6 mil, a linha que separa alívio de continuação da baixa.",
+      "caption": "Leitura das 02h33: saiu de 62,6 e voltou a 63,4 mil, um repique num quadro que segue de baixa.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-19-02h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-19-02h33",
+      "slides": [
+        {
+          "title": "A noite devolveu parte da queda",
+          "body": "Leitura das 02h33: saiu de 62,6 e voltou a 63,4 mil, um repique num quadro que segue de baixa."
+        },
+        {
+          "title": "US$ 63,4 mil",
+          "body": "Δ1h +0,02% · Δ24h −2,1% · volume de $1,19B em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A recuperação noturna ainda não muda o quadro · Smart Money: funding +0,004% e L/S 3,1, com OI de 95,7 mil BTC",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "63,6 mil decide o repique",
+          "body": "Abaixo de 63 mil, o foco volta para a região de 62 mil (−2,2%) · acima de 63,6 mil (+0,4%), o caminho abre para 64 mil (+1,0%)",
+          "source": "https://www.binance.com/en/futures/BTCUSDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-19-00h31",
       "date": "2026-11-19",
       "time": "00h31",
