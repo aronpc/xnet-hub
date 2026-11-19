@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-19-12h31",
+      "date": "2026-11-19",
+      "time": "12h31",
+      "hook": "BTC 63,4 mil · às 11h32 o viés era de alta e o preço rodava no topo das últimas 24 horas. Uma hora depois, a queda de 0,9% devolveu o dia ao meio da faixa, que vai de 62,1 a 64,1 mil.",
+      "caption": "Leitura das 12h31: o viés voltou de alta para lateral, com o preço no meio da faixa de 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-19-12h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-19-12h31",
+      "slides": [
+        {
+          "title": "A alta não durou nem uma hora",
+          "body": "Leitura das 12h31: o viés voltou de alta para lateral, com o preço no meio da faixa de 24 horas."
+        },
+        {
+          "title": "US$ 63,4 mil",
+          "body": "Δ1h −0,9% · Δ24h +0,8% · volume de $1,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A subida da manhã parou antes dos 64,5 mil e o preço voltou ao meio do intervalo · Smart money: funding +0,00% e L/S 2,44",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A marca de 64,5 mil já disse não quatro vezes",
+          "body": "Zona rejeitada em 4 velas de 1h, a +1,8% do preço · piso das 24h em 62 mil (−2,1%)",
+          "source": "https://www.binance.com/en/futures/BTCUSDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora, das 00h30 às 23h30."
+        }
+      ]
+    },
+    {
       "id": "2026-11-19-11h32",
       "date": "2026-11-19",
       "time": "11h32",
