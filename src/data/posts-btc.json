@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-19-16h31",
+      "date": "2026-11-19",
+      "time": "16h31",
+      "hook": "BTC 62,8 mil · o preço caiu perto de 1% desde o meio do dia e agora roda rente à parte de baixo das últimas 24 horas. Enquanto isso, as contas apostando em alta chegaram a quase o triplo das apostando em queda na Binance.",
+      "caption": "Leitura das 16h31: o dia segue sem direção e o preço encostou na banda de baixo do intervalo.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-19-16h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-19-16h31",
+      "slides": [
+        {
+          "title": "Preço lá embaixo, aposta em cima",
+          "body": "Leitura das 16h31: o dia segue sem direção e o preço encostou na banda de baixo do intervalo."
+        },
+        {
+          "title": "US$ 62,8 mil",
+          "body": "Δ1h −0,6% · Δ24h +0,2% · volume de $1,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A queda da tarde levou o preço do centro para a borda do intervalo, sem romper nada · Smart money: funding +0,01% e L/S 2,97",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A defesa dos vendedores desceu para 63,5 mil",
+          "body": "Essa marca rejeitou o preço 4 vezes na janela de 1h, a +1,1% · piso do dia em 62,0 mil (−1,3%)",
+          "source": "https://www.binance.com/en/futures/BTCUSDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora, das 00h30 às 23h30."
+        }
+      ]
+    },
+    {
       "id": "2026-11-19-12h31",
       "date": "2026-11-19",
       "time": "12h31",
