@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-19-08h34",
+      "date": "2026-11-19",
+      "time": "08h34",
+      "hook": "BTC 63,9 mil · a queda de 2,3% que o dia carregava à meia-noite encolheu hora a hora até o placar marcar −0,1%. A linha de 63,7 mil que travava a recuperação ficou para trás; agora o preço olha para 64,5 mil.",
+      "caption": "Leitura das 08h34: a recuperação que começou de madrugada atravessou 63,7 mil e o dia saiu de −2,3% para −0,1%.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-19-08h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-19-08h34",
+      "slides": [
+        {
+          "title": "Oito horas depois, o dia empatou",
+          "body": "Leitura das 08h34: a recuperação que começou de madrugada atravessou 63,7 mil e o dia saiu de −2,3% para −0,1%."
+        },
+        {
+          "title": "US$ 63,9 mil",
+          "body": "Δ1h +0,2% · Δ24h −0,1% · volume de $1,21 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Recuperação em ritmo lento, preço no alto da faixa de 62 a 64,5 mil · Smart money: funding +0,0022% e L/S 2,63",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Só falta a marca de 64,5 mil",
+          "body": "Fechar a hora acima de 64,5 mil (+0,9%) encaminha a região de 65 mil · uma volta a 62 mil (−3,0%) muda o assunto para 61,5",
+          "source": "https://www.binance.com/en/futures/BTCUSDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora, das 00h30 às 23h30."
+        }
+      ]
+    },
+    {
       "id": "2026-11-19-03h34",
       "date": "2026-11-19",
       "time": "03h34",
