@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-18-21h39",
+      "date": "2026-11-18",
+      "time": "21h39",
+      "hook": "BTC 63 mil · o fundo das 19h, em 62 mil, deu lugar a uma alta de 1,5%, e o preço agora respira a um passo de 63,3 mil. Oito em cada dez contas seguem compradas nessa queda",
+      "caption": "Leitura das 21h39: alta de 1,5% desde o fundo das 19h, num dia que ainda acumula queda de 3,1%.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-18-21h39",
+      "link": "https://xbtc.aronpc.dev/#2026-11-18-21h39",
+      "slides": [
+        {
+          "title": "A recuperação parou no teto do dia",
+          "body": "Leitura das 21h39: alta de 1,5% desde o fundo das 19h, num dia que ainda acumula queda de 3,1%."
+        },
+        {
+          "title": "US$ 63,0 mil",
+          "body": "Δ24h −3,1% · volume de US$ 1,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Alta de 1,5% desde o fundo das 19h, dentro de uma faixa que vai de 62 a 63,3 mil · Smart Money: funding +0,008% e L/S 3,6",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "63,3 mil decide a noite",
+          "body": "Uma hora fechada acima de 63,3 mil (+0,5%) estica a recuperação até 63,9 mil · recuar abaixo de 62,6 mil (−0,6%) leva o preço de volta à região de 62 mil",
+          "source": "https://www.binance.com/en/futures/BTCUSDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora."
+        }
+      ]
+    },
+    {
       "id": "2026-11-18-19h30",
       "date": "2026-11-18",
       "time": "19h30",
