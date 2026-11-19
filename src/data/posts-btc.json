@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-19-18h12",
+      "date": "2026-11-19",
+      "time": "18h12",
+      "hook": "BTC 61,9 mil · a queda já vai na terceira hora seguida e o preço chegou à cotação mínima do dia. O viés, lateral desde a manhã, mudou de lado.",
+      "caption": "Leitura das 18h12: depois de duas horas de desgaste, o preço ocupa o ponto mais baixo da janela de 24h e o viés acompanhou.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-19-18h12",
+      "link": "https://xbtc.aronpc.dev/#2026-11-19-18h12",
+      "slides": [
+        {
+          "title": "O dia parou de ser parado",
+          "body": "Leitura das 18h12: depois de duas horas de desgaste, o preço ocupa o ponto mais baixo da janela de 24h e o viés acompanhou."
+        },
+        {
+          "title": "US$ 61,9 mil",
+          "body": "Δ1h −1,4% · Δ24h −0,4% · volume de US$ 1,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A venda da tarde levou o preço do centro ao fundo do intervalo de 24h · Smart money: funding +0,01% e L/S 3,26",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "61,5 mil é a marca que segura a queda",
+          "body": "Suporte 61,5 mil (−0,7%) · Resistência 63,5 mil (+2,5%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora, das 00h30 às 23h30."
+        }
+      ]
+    },
+    {
       "id": "2026-11-19-16h31",
       "date": "2026-11-19",
       "time": "16h31",
