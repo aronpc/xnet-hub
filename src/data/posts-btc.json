@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-19-11h32",
+      "date": "2026-11-19",
+      "time": "11h32",
+      "hook": "BTC 63,9 mil · a manhã terminou empatada; três horas depois, o dia já soma +1,2% e o preço encostou no topo das últimas 24 horas. O humor não acompanhou: segue em medo extremo (10/100).",
+      "caption": "Leitura das 11h32: o viés deixou a lateral e virou alta; o sentimento segue parado no medo extremo.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-19-11h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-19-11h32",
+      "slides": [
+        {
+          "title": "Preço no topo, humor no fundo",
+          "body": "Leitura das 11h32: o viés deixou a lateral e virou alta; o sentimento segue parado no medo extremo."
+        },
+        {
+          "title": "US$ 63,9 mil",
+          "body": "Δ1h +0,4% · Δ24h +1,2% · volume de $1,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço rodando na parte alta da faixa de 62,1 a 64,1 mil, com o dia em alta · Smart money: funding +0,00% e L/S 2,49",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "O teste agora é a região de 64,5 mil",
+          "body": "Fechamento de hora acima dela (+0,9%) aponta 66 mil · uma volta a 62 mil (−3,0%) recoloca 60,5 mil na mesa",
+          "source": "https://www.binance.com/en/futures/BTCUSDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora, das 00h30 às 23h30."
+        }
+      ]
+    },
+    {
       "id": "2026-11-19-08h34",
       "date": "2026-11-19",
       "time": "08h34",
