@@ -2,6 +2,66 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-19",
+      "date": "2026-11-19",
+      "hook": "Skills e MCP em 19 de novembro",
+      "caption": "O time do Claude Code publicou como pensa verificação, o binário ganhou fix de credencial MCP por stdin, e a Microsoft colocou firewall e identidade do Active Directory em cima de agentes. Mais: MCP virou barramento entre harnesses e um celular velho virou painel. Seis histórias, uma por slide.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-19",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-19",
+      "slides": [
+        {
+          "title": "Skills e MCP em 19 de novembro",
+          "body": "O time do Claude Code publicou como pensa verificação, o binário ganhou fix de credencial MCP por stdin, e a Microsoft colocou firewall e identidade do Active Directory em cima de agentes. Mais: MCP virou barramento entre harnesses e um celular velho virou painel. Seis histórias, uma por slide."
+        },
+        {
+          "title": "Como o time do Claude Code verifica",
+          "body": "Post no blog do claude.dev explica a filosofia de verificação da equipe: como o agente ganha confiança progressiva, onde ficam os gates e por que verificar em vez de só confiar.",
+          "source": {
+            "label": "claude.dev — 17 nov",
+            "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
+          }
+        },
+        {
+          "title": "JSON de MCP por stdin e auto mode",
+          "body": "A versão 2.1.327 adicionou o comando que lê a config de servidor MCP de stdin: o token sai da linha de comando e do histórico do shell. A 2.1.328, de ontem, traz auto mode para Opus 4.6 e Sonnet 4.6 em Bedrock, Vertex e Foundry.",
+          "source": {
+            "label": "changelog — 19 nov",
+            "url": "https://code.claude.com/docs/en/changelog"
+          }
+        },
+        {
+          "title": "Microsoft: firewall e identidade para agente",
+          "body": "No Ignite, a Microsoft colocou em preview um MCP Firewall que controla quais servidores, tools, resources e transports um agente pode alcançar. O Entra Agent ID passa a emitir identidade para agentes que ela não constrói, começando por Copilot CLI e Claude Code.",
+          "source": {
+            "label": "microsoft.ai — 18 nov",
+            "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
+          }
+        },
+        {
+          "title": "pulsar: agentes de harnesses conversando",
+          "body": "Servidor MCP que permite a agentes de coding em harnesses diferentes se descobrirem e trocarem mensagens entre si. Times mistos de Claude Code, Codex e companhia no mesmo repositório se coordenam sem o humano fazendo o roteamento.",
+          "source": "github.com/yocontra/pulsar"
+        },
+        {
+          "title": "phonedesk: celular velho vira painel",
+          "body": "Projeto que transforma um telefone antigo em painel de controle e dashboard no estilo Stream Deck para o setup do desenvolvedor.",
+          "source": "github.com/howznguyen/phonedesk"
+        },
+        {
+          "title": "Human.md: o manifesto notes-to-self",
+          "body": "Um working manifesto deliberadamente íntimo, escrito como arquivo-documento da pessoa, com marcas de tempo e lugar em vez de chamada de produto, viralizou no Hacker News.",
+          "source": "human-md.ai"
+        },
+        {
+          "title": "Confiança em MCP virou produto",
+          "body": "Verificação saiu da intuição e virou doutrina publicada pelo time do Claude Code. Em volta, firewall de tools, identidade no Active Directory e barramento entre harnesses: a camada de confiança que antes era caso a caso agora tem catálogo."
+        },
+        {
+          "title": "Salva e compartilha",
+          "body": "Edição nova todas as manhãs às 4h. Se esse resumo te poupar dez minutos de feed, compartilha com quem também precisa."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-19",
       "date": "2026-11-19",
       "hook": "Projetos em 19 de novembro",
