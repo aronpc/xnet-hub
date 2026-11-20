@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-19-22h31",
+      "date": "2026-11-19",
+      "time": "22h31",
+      "hook": "BTC 62,2 mil · depois da venda da tarde, um repique no fim do dia: o preço está quase onde amanheceu, e os 62,5 mil que travavam há poucas horas ficaram para trás.",
+      "caption": "Leitura das 22h31: subiu 0,4% na última hora e voltou ao ponto médio do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-19-22h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-19-22h31",
+      "slides": [
+        {
+          "title": "Um dia inteiro de sobe e desce",
+          "body": "Leitura das 22h31: subiu 0,4% na última hora e voltou ao ponto médio do dia."
+        },
+        {
+          "title": "US$ 62,2 mil",
+          "body": "Δ1h +0,4% · Δ24h −0,2% · volume de US$ 1,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Depois da recaída das 20h32, o preço voltou ao meio do intervalo de 24h (61,4 a 64,1 mil) · Smart money: funding −0,00% e L/S 3,45",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "63 mil é o próximo marco",
+          "body": "Suporte 61,0 mil (−2,0%) · Resistência 63,0 mil (+1,1%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura nova a cada hora, das 00h30 às 23h30."
+        }
+      ]
+    },
+    {
       "id": "2026-11-19-20h32",
       "date": "2026-11-19",
       "time": "20h32",
