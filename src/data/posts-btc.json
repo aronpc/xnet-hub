@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-20-13h31",
+      "date": "2026-11-20",
+      "time": "13h31",
+      "hook": "BTC 59,1 mil · a linha dos 60 mil cedeu no início da tarde e o preço opera no menor nível do dia. Em 24 horas, a queda soma 6,2%.",
+      "caption": "Leitura das 13h31: viés de baixa, com o preço abaixo da marca que segurou a manhã.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-20-13h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-20-13h31",
+      "slides": [
+        {
+          "title": "O dia não deu trégua",
+          "body": "Leitura das 13h31: viés de baixa, com o preço abaixo da marca que segurou a manhã."
+        },
+        {
+          "title": "US$ 59,1 mil",
+          "body": "Δ1h −1,9% · Δ24h −6,2% · volume de US$ 1,9 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Vendedores no comando o dia todo, preço no terço de baixo do range de 24h · Smart Money: funding −0,000% e posicionamento comprado, com L/S em 3,21",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "Entre 58,5 e 62,5 mil",
+          "body": "Referência de baixo em 58,5 mil (−1,1%) · referência de cima em 62,5 mil (+5,7%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-11-20-12h32",
       "date": "2026-11-20",
       "time": "12h32",
