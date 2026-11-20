@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-20-11h31",
+      "date": "2026-11-20",
+      "time": "11h31",
+      "hook": "BTC 62,1 mil · o preço voltou a chegar perto do teto da faixa pela segunda vez na manhã, depois de uma alta de 1% na última hora. O dia segue em queda de 2,8%.",
+      "caption": "Leitura das 11h31: viés lateral, preço a 0,7% do teto de 62,5 mil e a 1,7% do piso de 61,0 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-20-11h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-20-11h31",
+      "slides": [
+        {
+          "title": "O BTC insiste no teto da manhã",
+          "body": "Leitura das 11h31: viés lateral, preço a 0,7% do teto de 62,5 mil e a 1,7% do piso de 61,0 mil."
+        },
+        {
+          "title": "US$ 62,1 mil",
+          "body": "Δ1h +1,0% · Δ24h −2,8% · volume de US$ 1,4 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A última hora trouxe alta de 1%, mas o dia segue negativo e o preço não saiu da faixa de 61,2 a 63,9 mil · funding +0,007% e 3,18 contas compradas para cada vendedora",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "Perto do teto, longe do piso",
+          "body": "Teto em 62,5 mil (+0,7%) · piso em 61,0 mil (−1,7%) · acima do teto, 64,1 mil; abaixo do piso, 59,9 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-11-20-08h31",
       "date": "2026-11-20",
       "time": "08h31",
