@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-20-18h31",
+      "date": "2026-11-20",
+      "time": "18h31",
+      "hook": "BTC 58,6 mil · a melhora das 17h durou pouco: a leitura voltou a BAIXA e o dia segue em −4,7%.",
+      "caption": "Leitura das 18h31: a recuperação parou pelo caminho; sobrou um dia negativo e preço na parte baixa da faixa.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-20-18h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-20-18h31",
+      "slides": [
+        {
+          "title": "A trégua foi curta",
+          "body": "Leitura das 18h31: a recuperação parou pelo caminho; sobrou um dia negativo e preço na parte baixa da faixa."
+        },
+        {
+          "title": "US$ 58,6 mil",
+          "body": "Δ1h −0,1% · Δ24h −4,7% · volume de US$ 2,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Faixa de 24h: 57,8 a 62,6 mil, preço no terço inferior · smart money: funding −0,004% e L/S 3,43"
+        },
+        {
+          "title": "Janela apertada",
+          "body": "57,5 mil a −1,9% · 59,5 mil a +1,5% · abaixo disso, 55,6 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-11-20-17h30",
       "date": "2026-11-20",
       "time": "17h30",
