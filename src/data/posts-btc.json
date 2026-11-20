@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-20-17h30",
+      "date": "2026-11-20",
+      "time": "17h30",
+      "hook": "BTC 58,7 mil · depois do tombo da tarde, a última hora devolveu um pedaço do terreno: +1%, com o dia ainda em −5,5%.",
+      "caption": "Leitura das 17h30: a pressão aliviou e o preço voltou a operar acima de 57,8 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-20-17h30",
+      "link": "https://xbtc.aronpc.dev/#2026-11-20-17h30",
+      "slides": [
+        {
+          "title": "Um repique depois do susto",
+          "body": "Leitura das 17h30: a pressão aliviou e o preço voltou a operar acima de 57,8 mil."
+        },
+        {
+          "title": "US$ 58,7 mil",
+          "body": "Δ1h +1,0% · Δ24h −5,5% · volume de US$ 2,2 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Repique na parte de baixo da faixa do dia (57,8 a 62,6 mil) · posicionamento: funding −0,004% e L/S 3,43"
+        },
+        {
+          "title": "No meio do caminho",
+          "body": "57,5 mil a −2,0% do preço · 60,0 mil a +2,3%"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-11-20-16h31",
       "date": "2026-11-20",
       "time": "16h31",
