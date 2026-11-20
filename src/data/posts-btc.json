@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-20-04h43",
+      "date": "2026-11-20",
+      "time": "04h43",
+      "hook": "BTC 61,6 mil · o repique de madrugada não passou dos 62 mil, e o preço desceu de novo até encostar no valor mais baixo do dia. A queda nas últimas 24 horas soma 3%.",
+      "caption": "Leitura das 04h43: a tentativa de alta parou nos 62 mil e o dia segue pesado, com o preço rondando o mínimo.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-20-04h43",
+      "link": "https://xbtc.aronpc.dev/#2026-11-20-04h43",
+      "slides": [
+        {
+          "title": "Repique rejeitado, preço de volta à base",
+          "body": "Leitura das 04h43: a tentativa de alta parou nos 62 mil e o dia segue pesado, com o preço rondando o mínimo."
+        },
+        {
+          "title": "US$ 61,6 mil",
+          "body": "Δ1h −0,6% · Δ24h −3,0% · volume de US$ 1,4 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Queda de 3% no dia deixou o preço no terço inferior do canal (61,3 a 64,1 mil) · Smart money: funding neutro em +0,001% e razão long/short em 3,3",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "61,3 mil é o ponto da madrugada",
+          "body": "Base do dia em 61,3 mil (−0,5%) · zona rejeitada em 62,0 mil (+0,6%)",
+          "source": "https://www.coinglass.com/pt-BR/FearGreedIndex"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-11-20-00h32",
       "date": "2026-11-20",
       "time": "00h32",
