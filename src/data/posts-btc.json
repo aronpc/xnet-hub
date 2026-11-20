@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-20-05h36",
+      "date": "2026-11-20",
+      "time": "05h36",
+      "hook": "BTC 61,9 mil · pela segunda vez na madrugada o preço encosta na zona dos 62 mil. O dia segue no vermelho, com queda de 2,7%, mas a última hora registrou alta de 0,5% desde a região mais baixa.",
+      "caption": "Leitura das 05h36: a reação partiu de baixo e agora testa a faixa que barrava o preço há pouco.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-20-05h36",
+      "link": "https://xbtc.aronpc.dev/#2026-11-20-05h36",
+      "slides": [
+        {
+          "title": "Madrugada tenta os 62 mil de novo",
+          "body": "Leitura das 05h36: a reação partiu de baixo e agora testa a faixa que barrava o preço há pouco."
+        },
+        {
+          "title": "US$ 61,9 mil",
+          "body": "Δ1h +0,5% · Δ24h −2,7% · volume de US$ 1,4 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A reação devolveu o preço à porta dos 62 mil, mas ele segue preso na parte baixa da faixa do dia (61,3 a 64,1 mil) · Smart money: funding neutro em +0,0002% e 77% das contas posicionadas para alta (L/S 3,3)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "A hora dos 62 mil",
+          "body": "Piso do dia em 61,3 mil (−1,0%) · zona de 62,0 mil a +0,1% do preço",
+          "source": "https://www.coinglass.com/pt-BR/FearGreedIndex"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-11-20-04h43",
       "date": "2026-11-20",
       "time": "04h43",
