@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-19-23h33",
+      "date": "2026-11-19",
+      "time": "23h33",
+      "hook": "BTC 61,4 mil · a recuperação da virada da noite durou pouco: queda de 1,4% na última hora deixou o preço colado na mínima de 24h, com medo extremo na régua (12).",
+      "caption": "Leitura das 23h33: segunda passagem pela mínima do dia nesta noite, agora com queda de 1,4% por hora.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-19-23h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-19-23h33",
+      "slides": [
+        {
+          "title": "A mínima de 24h em teste",
+          "body": "Leitura das 23h33: segunda passagem pela mínima do dia nesta noite, agora com queda de 1,4% por hora."
+        },
+        {
+          "title": "US$ 61,4 mil",
+          "body": "Δ1h −1,4% · Δ24h −2,0% · volume de US$ 1,3 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Máximas cada vez mais baixas desde os 64,1 mil da tarde · Smart money: funding −0,003% (shorts pagando) e L/S 3,5 (maioria das contas posicionada na alta)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Teste do piso, agora",
+          "body": "Suporte 61,3 mil (−0,2%) · Resistência 62,2 mil (+1,3%)",
+          "source": "https://www.coinglass.com/pt-BR/FearGreedIndex"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-11-19-22h31",
       "date": "2026-11-19",
       "time": "22h31",
