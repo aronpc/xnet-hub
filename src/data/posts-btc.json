@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-20-07h35",
+      "date": "2026-11-20",
+      "time": "07h35",
+      "hook": "BTC 62,0 mil · a manhã já devolve parte da queda e leva o preço a menos de 1% da linha de 62,5 mil. O dia ainda acumula recuo de 2,7%.",
+      "caption": "Leitura das 07h35: o viés deixou a baixa e voltou a lateral, com o preço a 0,8% da faixa de 62,5 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-20-07h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-20-07h35",
+      "slides": [
+        {
+          "title": "Viés desarma a queda do dia",
+          "body": "Leitura das 07h35: o viés deixou a baixa e voltou a lateral, com o preço a 0,8% da faixa de 62,5 mil."
+        },
+        {
+          "title": "US$ 62,0 mil",
+          "body": "Δ1h +0,7% · Δ24h −2,7% · volume de US$ 1,4 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço ainda no terço inferior do canal de 61,3 a 64,1 mil, mas a 0,8% da faixa de 62,5 mil · Smart money: funding −0,001% e L/S 3,15, com 76% das contas posicionadas para alta",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "62,5 mil no radar",
+          "body": "Suporte em 61,0 mil (−1,7%) · resistência em 62,5 mil (+0,8%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-11-20-06h37",
       "date": "2026-11-20",
       "time": "06h37",
