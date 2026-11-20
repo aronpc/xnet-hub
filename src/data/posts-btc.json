@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-20-12h32",
+      "date": "2026-11-20",
+      "time": "12h32",
+      "hook": "BTC 60,3 mil · a virada da manhã durou pouco. Queda de 2,9% na última hora levou o preço de volta à parte de baixo da faixa, a meio por cento de 60 mil.",
+      "caption": "Leitura das 12h32: viés de baixa, preço junto à borda inferior da faixa de 60,0 a 62,5 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-20-12h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-20-12h32",
+      "slides": [
+        {
+          "title": "O repique não segurou",
+          "body": "Leitura das 12h32: viés de baixa, preço junto à borda inferior da faixa de 60,0 a 62,5 mil."
+        },
+        {
+          "title": "US$ 60,3 mil",
+          "body": "Δ1h −2,9% · Δ24h −4,6% · volume de US$ 1,6 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no terço de baixo do range de 24h (60,1 a 63,4 mil) e sentimento em 12, medo extremo · funding +0,003% e três contas compradas para cada vendida",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "Encostado na borda de baixo",
+          "body": "Borda inferior em 60,0 mil (−0,5%) · borda superior em 62,5 mil (+3,7%) · abaixo de 60,0 mil, a próxima referência é 58,7 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-11-20-11h31",
       "date": "2026-11-20",
       "time": "11h31",
