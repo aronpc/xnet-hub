@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-20-06h37",
+      "date": "2026-11-20",
+      "time": "06h37",
+      "hook": "BTC 61,6 mil · o dia já acumula 3,5% de queda e o viés voltou a apontar para baixo. O curioso: 3 em cada 4 contas seguem posicionadas para alta, na direção contrária ao movimento.",
+      "caption": "Leitura das 06h37: nova rodada de pressão vendedora deixou o preço a meio ponto do valor mais baixo da sessão.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-20-06h37",
+      "link": "https://xbtc.aronpc.dev/#2026-11-20-06h37",
+      "slides": [
+        {
+          "title": "A maioria aposta contra a queda",
+          "body": "Leitura das 06h37: nova rodada de pressão vendedora deixou o preço a meio ponto do valor mais baixo da sessão."
+        },
+        {
+          "title": "US$ 61,6 mil",
+          "body": "Δ1h −0,5% · Δ24h −3,5% · volume de US$ 1,4 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A queda do dia devolveu o viés para baixo, com o preço colado na banda inferior do canal de 61,3 a 64,1 mil · Smart money: funding neutro em +0,000041% e L/S 3,08, com 75% das contas em alta",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "A sessão se decide no 61,3 mil",
+          "body": "Valor mais baixo do dia em 61,3 mil (−0,5%) · topo do canal distante em 64,1 mil (+4,1%)",
+          "source": "https://www.coinglass.com/pt-BR/FearGreedIndex"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-11-20-05h36",
       "date": "2026-11-20",
       "time": "05h36",
