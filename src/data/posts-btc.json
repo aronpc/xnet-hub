@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-20-00h32",
+      "date": "2026-11-20",
+      "time": "00h32",
+      "hook": "BTC 62,1 mil · depois de um dia inteiro de pressão vendedora, a virada da noite trouxe alívio: alta de 1,1% na última hora tirou o preço da região mais baixa do dia. A recuperação é modesta, mas o fundo do canal aguentou a segunda visita.",
+      "caption": "Leitura das 00h32: recuperação de 1,1% após o teste ao piso, com o mercado esperando o próximo movimento.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-20-00h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-20-00h32",
+      "slides": [
+        {
+          "title": "O fundo do dia segurou",
+          "body": "Leitura das 00h32: recuperação de 1,1% após o teste ao piso, com o mercado esperando o próximo movimento."
+        },
+        {
+          "title": "US$ 62,1 mil",
+          "body": "Δ1h +1,1% · Δ24h −1,2% · volume de US$ 1,3 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O rebote saiu do piso, mas o preço segue na metade de baixo da faixa do dia (61,3 a 64,1 mil) · Smart money: funding −0,003% e razão long/short em 3,5",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Dois pontos em observação",
+          "body": "Piso do dia em 61,3 mil (−1,3%) · teto da noite em 62,9 mil (+1,3%)",
+          "source": "https://www.coinglass.com/pt-BR/FearGreedIndex"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura técnica, não é recomendação de investimento."
+        }
+      ]
+    },
+    {
       "id": "2026-11-19-23h33",
       "date": "2026-11-19",
       "time": "23h33",
