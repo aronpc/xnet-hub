@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-21-09h31",
+      "date": "2026-11-21",
+      "time": "09h31",
+      "hook": "BTC 58,4 mil · o repique da manhã chegou a 1% da linha dos 59 mil. A hora fechou em alta; no acumulado do dia, a queda ainda é de 5%.",
+      "caption": "Depois do vaivém entre alta e queda desde a madrugada, a leitura das 09h31 voltou ao neutro.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-21-09h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-21-09h31",
+      "slides": [
+        {
+          "title": "O repique encostou na linha dos 59",
+          "body": "Depois do vaivém entre alta e queda desde a madrugada, a leitura das 09h31 voltou ao neutro."
+        },
+        {
+          "title": "US$ 58,4 mil",
+          "body": "Δ1h +0,95% · Δ24h −5,08% · vol US$ 3,6B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço de volta à zona média do intervalo de 24h · Smart money: funding +0,002% · L/S 2,53",
+          "source": "https://www.coinglass.com/LongShortRatio"
+        },
+        {
+          "title": "59 mil na balança",
+          "body": "Suporte 55,0 mil (−5,8%) · Resistência 59,0 mil (+1,0%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-21-08h31",
       "date": "2026-11-21",
       "time": "08h31",
