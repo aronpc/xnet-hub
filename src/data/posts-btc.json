@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-21-06h31",
+      "date": "2026-11-21",
+      "time": "06h31",
+      "hook": "BTC 57,9 mil · primeira hora em alta desde as 04h30, e o viés saiu da baixa. No acumulado do dia, ainda −6%.",
+      "caption": "Leitura das 06h31: nesta madrugada o viés já trocou de lado mais de uma vez, entre quedas e recuperações curtas.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-21-06h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-21-06h31",
+      "slides": [
+        {
+          "title": "Viés deixa a baixa, mas o dia segue em −6%",
+          "body": "Leitura das 06h31: nesta madrugada o viés já trocou de lado mais de uma vez, entre quedas e recuperações curtas."
+        },
+        {
+          "title": "US$ 57,9 mil",
+          "body": "Δ1h +0,61% · Δ24h −5,92% · volume de US$ 3,5 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço no meio do corredor de 24h (55,1k a 62,3k), derivativos sem convicção · Smart money: funding +0,002% e L/S 2,57",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A briga das últimas horas segue em 59 mil",
+          "body": "Suporte 55,0 mil (−5,1%) · Resistência 59,0 mil (+1,8%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura das 06h31 · próxima em cerca de 1 hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-21-05h32",
       "date": "2026-11-21",
       "time": "05h32",
