@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-21-12h32",
+      "date": "2026-11-21",
+      "time": "12h32",
+      "hook": "Depois de nove horas subindo, o preço bateu na máxima do dia, 61 mil, e voltou abaixo dos 60.",
+      "caption": "A máxima de 24h segurou o avanço e o preço voltou a 59,8 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-21-12h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-21-12h32",
+      "slides": [
+        {
+          "title": "61 mil foi longe demais, por enquanto",
+          "body": "A máxima de 24h segurou o avanço e o preço voltou a 59,8 mil."
+        },
+        {
+          "title": "US$ 59,8 mil",
+          "body": "Δ1h −0,7% · Δ24h −0,6% · vol US$ 3,6B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A rejeição em 61 mil devolveu o preço à faixa de 59,5 a 61 mil. Smart money: funding +0,04%/8h · L/S 1,97 · interesse aberto cai a 92,9 mil BTC"
+        },
+        {
+          "title": "O dia ainda não decidiu nada",
+          "body": "Abaixo: 59,5 mil (−0,6%) · Acima: 61,0 mil (+1,9%)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-21-12h31",
       "date": "2026-11-21",
       "time": "12h31",
