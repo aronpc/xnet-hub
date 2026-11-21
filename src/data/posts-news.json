@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-21",
+      "date": "2026-11-21",
+      "hook": "IA em 21 de novembro",
+      "caption": "A semana em que o mercado repriceou a IA: IPO da Anthropic caindo, Nvidia na pior série desde 2008. Enquanto isso, o open-weights chinês avança e o Claude vira instrumento de ciência. 8 pautas de hoje.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-21",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-21",
+      "slides": [
+        {
+          "title": "IA em 21 de novembro",
+          "body": "A semana em que o mercado repriceou a IA: IPO da Anthropic caindo, Nvidia na pior série desde 2008. Enquanto isso, o open-weights chinês avança e o Claude vira instrumento de ciência. 8 pautas de hoje."
+        },
+        {
+          "title": "Thinking Machines solta o Inkling 2 Mini",
+          "body": "Modelo open-weights que roda no laptop. A arquitetura faz loop das próprias camadas intermediárias: mais raciocínio por token, menos tokens até a resposta.",
+          "source": {
+            "label": "thinkingmachines.ai",
+            "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+          }
+        },
+        {
+          "title": "Hipótese de Riemann provada com Claude?",
+          "body": "Levent Alpöge, da Anthropic, alega ter provado o problema de 167 anos com auxílio do Claude. Scientific American e The Economist noticiaram; a comunidade matemática ainda não confirmou.",
+          "source": {
+            "label": "Scientific American",
+            "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/"
+          }
+        },
+        {
+          "title": "Tencent abre os pesos do Hy4 flash",
+          "body": "224 bilhões de parâmetros, só 12 bilhões ativos por token, contexto de 1 milhão, texto e imagem. Build FP8 e modelo-base para treino adicional, licença Tencent Hy.",
+          "source": {
+            "label": "Hugging Face",
+            "url": "https://huggingface.co/tencent/Hy4-flash"
+          }
+        },
+        {
+          "title": "Genie 4 chega à Gemini API",
+          "body": "Mundos contínuos em 720p a 24fps com áudio sincronizado, iniciados por texto ou imagem e controlados ao vivo por teclado e prompts no meio da sessão. Preço não publicado.",
+          "source": {
+            "label": "Google",
+            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/"
+          }
+        },
+        {
+          "title": "Dia 2 do IPO da Anthropic: -8,5%",
+          "body": "Depois de fechar o dia 1 em $97,17 (+17,1%), ANT terminou o dia 2 em $88,91. O FT fala em wipeout de US$ 4 trilhões em ações de IA. No verde: greenshoe exercida, mais US$ 12,2 bi capturados, e cerca de 400 early hires viraram milionários.",
+          "source": {
+            "label": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels"
+          }
+        },
+        {
+          "title": "Nvidia vive a pior semana desde 2008",
+          "body": "Ações caíram 14% na sexta, sétimo dia seguido de baixa e -44% no período. Na mesma sexta: procurador-geral da Califórnia intimou a empresa, Trump comentou o retorno de Huang e o NYT publicou relato de comportamento abusivo de décadas.",
+          "source": {
+            "label": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
+          }
+        },
+        {
+          "title": "Apple constrói agente que programa e controla o dispositivo",
+          "body": "Vaga de engenharia revela o projeto: um agente que escreve código, navega na web e controla apps e funções do aparelho. A queda do ANT no dia 1 do IPO foi atribuída ao anúncio.",
+          "source": {
+            "label": "The Verge",
+            "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+          }
+        },
+        {
+          "title": "Arizona investiga \"agentes desgarrados\"",
+          "body": "O estado abriu investigação sobre OpenAI e outras firmas por rogue agents: agentes agindo fora do escopo pretendido.",
+          "source": {
+            "label": "Reuters",
+            "url": "https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19/"
+          }
+        },
+        {
+          "title": "Capital em correção, capacidade em expansão",
+          "body": "A bolsa repriceou o complexo de IA, com IPO frio e Nvidia de volta a 2008, enquanto o open-weights chinês avança e o Claude assina a semana científica. A próxima trava é física: a AIE projeta US$ 4 trilhões em data centers até 2030, com redes elétricas no limite."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-19",
       "date": "2026-11-19",
       "hook": "Skills e MCP em 19 de novembro",
