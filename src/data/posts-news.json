@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-21",
+      "date": "2026-11-21",
+      "hook": "Skills & MCP em 21 de novembro",
+      "caption": "Skill vira protocolo multi-harness: NestJS oficializa, AGENTS.md consolida e o Claude Code ganha gráficos nativos. 7 pautas, e uma decisão de update pendente há 34 dias.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-21",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-21",
+      "slides": [
+        {
+          "title": "Skills & MCP em 21 de novembro",
+          "body": "Skill vira protocolo multi-harness: NestJS oficializa, AGENTS.md consolida e o Claude Code ganha gráficos nativos. 7 pautas, e uma decisão de update pendente há 34 dias."
+        },
+        {
+          "title": "Claude Code 2.1.330: easel e login Enterprise",
+          "body": "Duas releases em dois dias. Após o login, o Claude Code passa a aplicar settings da organização do Enterprise Admin Console. E o novo mod easel desenha gráficos quando pedido, inclusive sob resultados de métricas MCP. Fixes de congelamento pós-compactação e de ExitWorktree deletando worktree de outra sessão.",
+          "source": {
+            "label": "CHANGELOG",
+            "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+          }
+        },
+        {
+          "title": "NestJS publica agent-skills oficiais",
+          "body": "A organização nestjs lançou repositório de agent-skills para o framework Node mais usado nas empresas.",
+          "source": {
+            "label": "github.com/nestjs/agent-skills",
+            "url": "https://github.com/nestjs/agent-skills"
+          }
+        },
+        {
+          "title": "agy-fast: -34% nos turns de LLM",
+          "body": "Plugin não-invasivo para o Google Antigravity acelera fluxos MCP e corta em média um terço do número de turns do modelo.",
+          "source": {
+            "label": "github.com/INK-Q/agy-fast",
+            "url": "https://github.com/INK-Q/agy-fast"
+          }
+        },
+        {
+          "title": "\"llms.txt e MCP não moveram o ponteiro\"",
+          "body": "Post do Backpack for Laravel com dados próprios: nem llms.txt nem MCP geraram adoção mensurável para aquisição. O que funcionou foi descoberta por conteúdo.",
+          "source": {
+            "label": "backpackforlaravel.com",
+            "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did"
+          }
+        },
+        {
+          "title": "Lochness: localização com as tabelas da Apple",
+          "body": "Skill e CLI que localizam apps do jeito que a Apple localiza o iOS, consultando as próprias tabelas de terminologia da Apple via lookups.",
+          "source": {
+            "label": "github.com/ronyfadel/lochness",
+            "url": "https://github.com/ronyfadel/lochness"
+          }
+        },
+        {
+          "title": "ai4ai: a IA se autogerenciando entre harnesses",
+          "body": "Kit cross-harness de runtime status, renovação de contexto e auto-duplicação: deixe a IA gerenciar a si mesma.",
+          "source": {
+            "label": "github.com/AI4XE/ai4ai",
+            "url": "https://github.com/AI4XE/ai4ai"
+          }
+        },
+        {
+          "title": "Rounds: canvas local dos artefatos das sessões",
+          "body": "Ferramenta que monta um canvas local com todos os artefatos produzidos pelas sessões do Claude Code da máquina.",
+          "source": {
+            "label": "github.com/krispuckett/rounds",
+            "url": "https://github.com/krispuckett/rounds"
+          }
+        },
+        {
+          "title": "Skill sai do ecossistema Claude",
+          "body": "O formato skill vira camada portátil multi-harness: NestJS oficializou, AGENTS.md consolida. O Claude Code fecha o ciclo de tool para visual com o easel nativo, e o update emperrado virou decisão funcional, com easel e fixes de freeze. A resposta do dia é absorver padrão, não instalar."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-21",
       "date": "2026-11-21",
       "hook": "Projetos em 21 de novembro",
