@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-21-02h30",
+      "date": "2026-11-21",
+      "time": "02h30",
+      "hook": "BTC 56,2 mil · a noite de queda deu uma trégua: +0,9% na última hora e o viés deixou de ser de baixa.",
+      "caption": "Leitura das 02h30: as vendas perderam força perto de 55,5 mil e o preço ensaia uma reação.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-21-02h30",
+      "link": "https://xbtc.aronpc.dev/#2026-11-21-02h30",
+      "slides": [
+        {
+          "title": "Tombo travou e o BTC volta aos 56 mil",
+          "body": "Leitura das 02h30: as vendas perderam força perto de 55,5 mil e o preço ensaia uma reação."
+        },
+        {
+          "title": "US$ 56,2 mil",
+          "body": "Δ1h +0,89% · Δ24h −8,85% · volume de US$ 2,9 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Repique ainda tímido, preço na parte de baixo do range de 24h (55,6k a 62,3k) · Smart money: funding −0,007% e L/S 3,06",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Dois números para o resto da madrugada",
+          "body": "Suporte 55,5k (−1,2%) · Resistência 59,5k (+5,9%) · se 55,5k não segurar, o próximo número é 52,8k",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-21-01h32",
       "date": "2026-11-21",
       "time": "01h32",
