@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-21-01h32",
+      "date": "2026-11-21",
+      "time": "01h32",
+      "hook": "BTC 55,7 mil · a queda ganhou força depois da meia-noite: −9,5% nas últimas 24h e o preço já na casa dos 55 mil.",
+      "caption": "Leitura das 01h32: o nível de 57 mil não segurou e a pressão continuou até os 55,7 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-21-01h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-21-01h32",
+      "slides": [
+        {
+          "title": "Mercado acelera e o BTC chega aos 55,7 mil",
+          "body": "Leitura das 01h32: o nível de 57 mil não segurou e a pressão continuou até os 55,7 mil."
+        },
+        {
+          "title": "US$ 55,7 mil",
+          "body": "Δ1h −3,9% · Δ24h −9,5% · volume de US$ 2,8 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Clima de medo extremo no mercado, com F&G em 12 · Smart money: funding −0,008% e L/S 3,14",
+          "source": "https://alternative.me/crypto/fear-and-greed/"
+        },
+        {
+          "title": "O que está em jogo agora",
+          "body": "Segurar os 55,5 mil muda o clima; acima de 59,5 mil, caminho até 63,6. Abaixo, o próximo número é 52,8.",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-21-00h32",
       "date": "2026-11-21",
       "time": "00h32",
