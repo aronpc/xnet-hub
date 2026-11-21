@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-21-05h32",
+      "date": "2026-11-21",
+      "time": "05h32",
+      "hook": "BTC 57,6 mil · o pique de uma hora atrás durou pouco: a cotação recuou 0,8% e a leitura voltou a baixa.",
+      "caption": "O embalo da madrugada não passou da primeira resistência, e o dia segue com queda de 7% no acumulado.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-21-05h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-21-05h32",
+      "slides": [
+        {
+          "title": "O repique parou antes dos 58 mil",
+          "body": "O embalo da madrugada não passou da primeira resistência, e o dia segue com queda de 7% no acumulado."
+        },
+        {
+          "title": "US$ 57,6 mil",
+          "body": "Δ1h −0,8% · Δ24h −7,0% · vol US$ 3,4B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Venda volta a dominar a hora, com o preço na metade do intervalo de 24h · Smart money: funding +0,002% + L/S 2,60",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teto do momento segue em 59 mil",
+          "body": "Suporte 55,0 mil (−4,5%) · Resistência 59,0 mil (+2,4%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura das 05h32 · próxima em cerca de 1 hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-21-04h30",
       "date": "2026-11-21",
       "time": "04h30",
