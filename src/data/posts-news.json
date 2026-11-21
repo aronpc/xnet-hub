@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-21",
+      "date": "2026-11-21",
+      "hook": "Projetos em 21 de novembro",
+      "caption": "Agent security nasce como disciplina: pentest autônomo e honeypot simétrico na mesma semana. A camada de sistema operacional do agente também se consolida. Go em evidência. 7 repos com tração real.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-21",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-21",
+      "slides": [
+        {
+          "title": "Projetos em 21 de novembro",
+          "body": "Agent security nasce como disciplina: pentest autônomo e honeypot simétrico na mesma semana. A camada de sistema operacional do agente também se consolida. Go em evidência. 7 repos com tração real."
+        },
+        {
+          "title": "ARTEX: pentest multi-agente em Go",
+          "body": "Sistema com LLM multi-agente para pentest autônomo: Go, Next.js embutido e SQLite, orquestrando agentes que exploram e reportam falhas.",
+          "source": {
+            "label": "github.com/bcyw/ARTEX",
+            "url": "https://github.com/bcyw/ARTEX"
+          }
+        },
+        {
+          "title": "TuringPot: honeypot para caçar agentes IA",
+          "body": "PoC da Tracebit de honeypot específico para agentes: uma isca que registra o que um agente autônomo tenta fazer quando ninguém olha.",
+          "source": {
+            "label": "github.com/tracebit-com/turingpot",
+            "url": "https://github.com/tracebit-com/turingpot"
+          }
+        },
+        {
+          "title": "OpenMan: workspace de agente autônomo",
+          "body": "Roda no Orgo cloud computer com navegador e execução embutidos. A categoria de agente pessoal self-hosted que a Replit abriu já tem concorrente open-source com tração.",
+          "source": {
+            "label": "github.com/nickvasilescu/openman",
+            "url": "https://github.com/nickvasilescu/openman"
+          }
+        },
+        {
+          "title": "Onlook (YC W25) faz Launch HN",
+          "body": "Devtool open-source para designers retomarem o controle do código do produto, com repositório público ativo.",
+          "source": {
+            "label": "github.com/onlook-dev/onlook",
+            "url": "https://github.com/onlook-dev/onlook/"
+          }
+        },
+        {
+          "title": "Weight-space programming no navegador",
+          "body": "Show HN da TabbyML: visualização interativa em WebGPU de programar os pesos do modelo sem retreinar, direto no navegador.",
+          "source": {
+            "label": "tabbyml.github.io",
+            "url": "https://tabbyml.github.io/weight-space-playground/"
+          }
+        },
+        {
+          "title": "Aether: agente IA nativo no Android",
+          "body": "App em Kotlin e Jetpack Compose com LLM local, chat com execução de bash e ferramentas: um agente que mora no celular, sem nuvem.",
+          "source": {
+            "label": "github.com/aether-aiagent/aether",
+            "url": "https://github.com/aether-aiagent/aether"
+          }
+        },
+        {
+          "title": "System-on-an-Agent: SO no lugar do chip",
+          "body": "Repo-conceito que propõe planner, memória e skills conectados como se fossem o hardware do computador: a camada de sistema operacional para agentes.",
+          "source": {
+            "label": "github.com/fitzyracing1/system-on-an-agent",
+            "url": "https://github.com/fitzyracing1/system-on-an-agent"
+          }
+        },
+        {
+          "title": "Segurança de agentes vira disciplina",
+          "body": "Ataque e defesa open-source surgiram na mesma semana: ARTEX explorando, TuringPot observando. Em paralelo, planner, memória e skills se consolidam como o sistema operacional do agente. E Go, a linguagem da casa, no centro do movimento."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-21",
       "date": "2026-11-21",
       "hook": "IA em 21 de novembro",
