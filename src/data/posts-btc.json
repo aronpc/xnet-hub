@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-21-16h30",
+      "date": "2026-11-21",
+      "time": "16h30",
+      "hook": "A barra das 61 mil segurou o avanço no meio-dia. A resposta veio devagar: seis fechamentos de uma hora em alta, até o preço girar de novo acima dos 60 mil.",
+      "caption": "De 59,9 a 60,3 mil, um degrau por hora. E desta vez quem aposta contra paga a conta.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-21-16h30",
+      "link": "https://xbtc.aronpc.dev/#2026-11-21-16h30",
+      "slides": [
+        {
+          "title": "Seis degraus até os 60 mil",
+          "body": "De 59,9 a 60,3 mil, um degrau por hora. E desta vez quem aposta contra paga a conta."
+        },
+        {
+          "title": "US$ 60,2 mil",
+          "body": "Δ1h +0,3% · Δ24h +3,7% · vol US$ 3,0B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA SOB CONFIRMAÇÃO",
+          "body": "Seis fechamentos de 1h em alta com funding no negativo e F&G 12 · Smart money: −0,001%/8h · L/S 2,23 (69% long)"
+        },
+        {
+          "title": "O teto imediato é 60,5 mil",
+          "body": "Acima: 60,5 mil (+0,5%) e depois a máxima do dia, 61,0 mil · Abaixo: 59,9 mil (−0,5%)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-21-12h32",
       "date": "2026-11-21",
       "time": "12h32",
