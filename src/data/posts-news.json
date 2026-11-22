@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-22",
+      "date": "2026-11-22",
+      "hook": "IA em 22 de novembro",
+      "caption": "A matemática assistida por IA entrou em verificação formal aberta, e o mercado deu a primeira correção de verdade: quase 4 trilhões de dólares evaporaram na semana. 9 pautas de hoje.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-22",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-22",
+      "slides": [
+        {
+          "title": "IA em 22 de novembro",
+          "body": "A matemática assistida por IA entrou em verificação formal aberta, e o mercado deu a primeira correção de verdade: quase 4 trilhões de dólares evaporaram na semana. 9 pautas de hoje."
+        },
+        {
+          "title": "Hipótese de Riemann vira prova formal em Lean",
+          "body": "Um dia após a alegação de Levent Alpöge, da Anthropic, a comunidade publicou o esforço de verificação em Lean, com arquivos hospedados no MIT. Terry Tao e Scott Aaronson dissecam a prova em público.",
+          "source": {
+            "label": "Lean Community",
+            "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
+          }
+        },
+        {
+          "title": "Navier-Stokes: blowup provado com auxílio de IA",
+          "body": "Tristan Buckmaster, da NYU, e Alpöge publicaram prova de blowup em tempo finito das equações de Navier-Stokes, com os arquivos no GitHub. Tao conectou o resultado à Hipótese de Riemann Generalizada.",
+          "source": {
+            "label": "Terry Tao",
+            "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
+          }
+        },
+        {
+          "title": "Modelos reescrevem os próprios pesos",
+          "body": "Paper no arXiv mostra language models alterando os próprios parâmetros, com a mudança saindo do contexto do prompt e chegando aos pesos.",
+          "source": {
+            "label": "arXiv",
+            "url": "https://arxiv.org/abs/2611.21885"
+          }
+        },
+        {
+          "title": "Sell-off apaga o ano do Nasdaq",
+          "body": "O Nasdaq 100 caiu 5,6% na sexta, pior semana em mais de seis anos, e devolveu todo o ganho de 2026. O Journal contabiliza cerca de 4 trilhões de dólares evaporados; SoftBank caiu 15% na Ásia.",
+          "source": {
+            "label": "Financial Times",
+            "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841"
+          }
+        },
+        {
+          "title": "Signal bloqueia agentes de IA na captura de tela",
+          "body": "O Signal passou a restringir screenshots por padrão no Android, para impedir que agentes de IA embutidos no sistema leiam conversas privadas. A proteção é parcial, admite a empresa.",
+          "source": {
+            "label": "signal.org",
+            "url": "https://signal.org/blog/protecting-your-privacy/"
+          }
+        },
+        {
+          "title": "GPT-6.2 Astra e Sol tropeçam no SimpleBench",
+          "body": "Humanos leigos fazem 83,7% no benchmark e seguem à frente de todos os modelos, incluindo os novos topo de linha da OpenAI; Claude Fable marca 81,9%.",
+          "source": {
+            "label": "simple-bench.com",
+            "url": "https://simple-bench.com/"
+          }
+        },
+        {
+          "title": "Inkling 2 Mini empata com o Qwen3.8-27B",
+          "body": "A Artificial Analysis mediu o Inkling 2 Mini: 26,4 bilhões de parâmetros, cerca de 5,4 bilhões ativos com o loop de camadas, empatando com o Qwen3.8 27B no Intelligence Index, a custo por tarefa muito menor.",
+          "source": {
+            "label": "Artificial Analysis",
+            "url": "https://artificialanalysis.ai/articles/inkling-2-mini"
+          }
+        },
+        {
+          "title": "Routers \"sem retenção\" vazam segredos",
+          "body": "Pesquisadores plantaram credenciais-canário em requests a routers como OpenRouter e Vercel e viram os segredos vazarem mesmo sob política de zero-data-retention. Um relato descreve prompts lidos no par OpenRouter→MiniMax.",
+          "source": {
+            "label": "Ars Technica",
+            "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+          }
+        },
+        {
+          "title": "Cursor estuda aposentar modelos chineses",
+          "body": "A Anysphere disse a parlamentares que considera um phase-out dos modelos open-weight chineses, como o Qwen, por risco geopolítico. Enquanto isso, o produto ainda cobra dos usuários por eles.",
+          "source": {
+            "label": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html"
+          }
+        },
+        {
+          "title": "IA como instrumento, mercado em dúvida",
+          "body": "A verificação formal entra no método científico, o capital começa a cobrar retorno, a proveniência dos pesos vira questão política e o raciocínio cotidiano segue sem vencedor. Acompanhe amanhã."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-21",
       "date": "2026-11-21",
       "hook": "Skills & MCP em 21 de novembro",
