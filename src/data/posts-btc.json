@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-22-09h34",
+      "date": "2026-11-22",
+      "time": "09h34",
+      "hook": "A alta da manhã parou em 61,7 mil e voltou: o preço agora é 60,5 mil, no meio da faixa do dia, com recuo de 0,7% na última hora. O acumulado de 24h segue positivo, em 3,6%.",
+      "caption": "Alta da manhã rejeitada em 61,7 mil; preço de volta ao meio da faixa de 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-11-22-09h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-22-09h34",
+      "slides": [
+        {
+          "title": "O topo disse não",
+          "body": "Alta da manhã rejeitada em 61,7 mil; preço de volta ao meio da faixa de 24h"
+        },
+        {
+          "title": "US$ 60,5 mil",
+          "body": "Δ1h −0,7% · Δ24h +3,6% · vol US$ 1,54B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Recuo de 0,7% na hora, depois da recusa em 61,7 mil · Smart money: funding +0,003% e L/S 2,31, com 70% das posições em alta",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "De volta ao meio do caminho",
+          "body": "Limites do dia: 62 mil (a 2,5%) e 58,5 mil (a 3,3%) · A hora tem segurado os 60 mil (a 0,9%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-22-07h32",
       "date": "2026-11-22",
       "time": "07h32",
