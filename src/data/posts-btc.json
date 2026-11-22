@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-22-02h30",
+      "date": "2026-11-22",
+      "time": "02h30",
+      "hook": "A madrugada levou o preço para baixo do 59,5 mil que segurava a noite: agora são 58,9 mil, a 0,6% do fundo do intervalo do dia e a 2,8% do topo. O acumulado de 24h segue em +1,6%.",
+      "caption": "Preço desceu ao limite inferior do intervalo de 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-11-22-02h30",
+      "link": "https://xbtc.aronpc.dev/#2026-11-22-02h30",
+      "slides": [
+        {
+          "title": "O 59,5 mil ficou para trás",
+          "body": "Preço desceu ao limite inferior do intervalo de 24h"
+        },
+        {
+          "title": "US$ 58,9 mil",
+          "body": "Δ1h −0,5% · Δ24h +1,6% · vol US$ 2,0B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Contraste do dia: sentimento em 11 (medo extremo) e ainda assim maioria comprada, com L/S 2,05 e funding +0,008%",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "A hora do 58,5 mil",
+          "body": "Segurar esse nível (−0,6%) mantém o intervalo do dia · Abaixo, o próximo patamar é 56,5 mil · Para cima, 60,5 mil (+2,8%) devolve o topo de 61 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-21-23h36",
       "date": "2026-11-21",
       "time": "23h36",
