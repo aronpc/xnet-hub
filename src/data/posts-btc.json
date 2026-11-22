@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-22-13h34",
+      "date": "2026-11-22",
+      "time": "13h34",
+      "hook": "A madrugada derrubou o Bitcoin a 58,8 mil dólares. Daí em diante o preço cruzou quase toda a faixa do dia e agora negocia a 61,3 mil, colado na região de 61,5 mil, que já travou quatro velas seguidas. O dia acumula 2% de alta com volume fino, e o sentimento continua cravado no medo extremo, alheio à recuperação.",
+      "caption": "Da mínima de 58,8 mil até encostar em 61,5 mil · dia em +2,0% com volume ainda fino\n\nLeia: https://xbtc.aronpc.dev/#2026-11-22-13h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-22-13h34",
+      "slides": [
+        {
+          "title": "A travessia do dia",
+          "body": "Da mínima de 58,8 mil até encostar em 61,5 mil · dia em +2,0% com volume ainda fino"
+        },
+        {
+          "title": "US$ 61,3 mil",
+          "body": "Δ1h +0,6% · Δ24h +2,0% · vol US$ 1,19B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Comprimido contra a parte alta da faixa de 24h (58,5-61,7 mil); só ganha convicção com fechamento acima de 61,7 mil · Smart money: funding −0,002% e L/S 2,27",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "61,7 mil fecha a faixa por cima",
+          "body": "Resistência 61,5 mil (+0,4%) · máxima de 24h em 61,7 mil (+0,7%) · abaixo, 60,1 mil (−1,9%) e depois 58,5 mil (−4,5%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-22-11h32",
       "date": "2026-11-22",
       "time": "11h32",
