@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-22-14h32",
+      "date": "2026-11-22",
+      "time": "14h32",
+      "hook": "O Bitcoin encostou em 61,5 mil dólares de novo e, de novo, quem respondeu foi a venda: a última hora apagou 0,8% e devolveu o preço aos 60,8 mil, no meio do canal do dia. É a quarta vela seguida que a região de 61,5 mil manda o preço de volta.",
+      "caption": "Quarta vela seguida rejeitada em 61,5 mil · preço aos 60,8 mil, no meio do canal\n\nLeia: https://xbtc.aronpc.dev/#2026-11-22-14h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-22-14h32",
+      "slides": [
+        {
+          "title": "O teto segue intocado",
+          "body": "Quarta vela seguida rejeitada em 61,5 mil · preço aos 60,8 mil, no meio do canal"
+        },
+        {
+          "title": "US$ 60,8 mil",
+          "body": "Δ1h −0,8% · Δ24h +1,0% · vol US$ 1,19B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O recuo devolveu o preço à metade do canal de 24h (58,5-61,7 mil); sem fechamento acima de 61,7 mil, o dia segue de lado · Smart money: funding neutro (0,00%) e L/S 2,26",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "61,7 mil é a referência do dia",
+          "body": "Região de 61,5 mil (+1,2%) rejeitou de novo; abaixo, 60,1 mil (−1,1%) segura o recuo e o piso de 24h está em 58,5 mil (−3,8%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-22-13h34",
       "date": "2026-11-22",
       "time": "13h34",
