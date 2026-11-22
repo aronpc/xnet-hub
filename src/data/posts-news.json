@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-22",
+      "date": "2026-11-22",
+      "hook": "Projetos IA em 22 de novembro",
+      "caption": "A cena de agentes bifurca: de um lado, harness autoral de veterano do Emacs; do outro, local-first barato. E o dinheiro vai pro último canal sem agentes, voz e SMS. 7 pautas de hoje.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-22",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-22",
+      "slides": [
+        {
+          "title": "Projetos IA em 22 de novembro",
+          "body": "A cena de agentes bifurca: de um lado, harness autoral de veterano do Emacs; do outro, local-first barato. E o dinheiro vai pro último canal sem agentes, voz e SMS. 7 pautas de hoje."
+        },
+        {
+          "title": "DreamCoder: harness do autor de Mastering Emacs",
+          "body": "Mickey Petersen liberou o AI coding harness e IDE em que trabalhou por 15 meses, com abordagem declaradamente muito diferente de Claude Code e Cursor.",
+          "source": {
+            "label": "masteringemacs.org",
+            "url": "https://www.masteringemacs.org/article/announcing-dreamcoder"
+          }
+        },
+        {
+          "title": "OpenComputer: o Devin em open-source",
+          "body": "A Digger publicou um agente de computador open-source sob licença MIT, posicionado como alternativa ao Devin.",
+          "source": {
+            "label": "github.com/diggerhq",
+            "url": "https://github.com/diggerhq/opencomputer"
+          }
+        },
+        {
+          "title": "Inkling 2 Mini rodando em 5,4 GB de RAM",
+          "body": "O repo lookatmyquant mostra o modelo de 26,4 bilhões de parâmetros executando em 5,4 GB de memória. A discussão técnica no HN está lotada.",
+          "source": {
+            "label": "github.com/lookatmyquant",
+            "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
+          }
+        },
+        {
+          "title": "PiBot: time de agentes no seu desktop",
+          "body": "Framework open-source de multi-agentes para desktop, com group chat entre agentes, computer use e navegador.",
+          "source": {
+            "label": "github.com/w01fb0ss/PiBot",
+            "url": "https://github.com/w01fb0ss/PiBot"
+          }
+        },
+        {
+          "title": "ClawDOS: agente de código em DOS puro",
+          "body": "Agente de coding que roda em DOS, feito como peça de engenharia retro.",
+          "source": {
+            "label": "ricapar.net",
+            "url": "http://ricapar.net/ClawDOS/"
+          }
+        },
+        {
+          "title": "Five Laws of AI Agents viraliza",
+          "body": "Pesquisa filosófica independente propõe cinco leis para agentes de IA: autoridade delegada, não-titulação e limites de ação.",
+          "source": {
+            "label": "github.com/MoritzPindorek",
+            "url": "https://github.com/MoritzPindorek/Five-Laws-of-AI-Agents"
+          }
+        },
+        {
+          "title": "Musset: Scrivener open-source com IA que não escreve",
+          "body": "App de escrita longa, no espírito Scrivener, cujo assistente tem por design nunca escrever o texto: só estruturar, pesquisar e comentar.",
+          "source": {
+            "label": "github.com/Musset-App",
+            "url": "https://github.com/Musset-App/musset"
+          }
+        },
+        {
+          "title": "Agentes baratos, governança bottom-up",
+          "body": "Frontier local em 5 GB, multiagentes instaláveis e leis escritas para delegar autoridade. A pergunta deixa de ser se o agente roda e passa a ser em quem você confia deixar rodar. Volte amanhã."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-22",
       "date": "2026-11-22",
       "hook": "IA em 22 de novembro",
