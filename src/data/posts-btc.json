@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-22-10h33",
+      "date": "2026-11-22",
+      "time": "10h33",
+      "hook": "O fundo foi 58,8 mil, de madrugada. Desde então o Bitcoin passou cinco horas seguidas acima dos 60 mil e agora negocia a 60,7 mil dólares. A hora anda devagar (+0,2%), mas o dia acumula alta de 1,7%.",
+      "caption": "Cinco velas horárias acima de 60 mil depois do mínimo de 58,8k; preço no terço superior do range\n\nLeia: https://xbtc.aronpc.dev/#2026-11-22-10h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-22-10h33",
+      "slides": [
+        {
+          "title": "A base nos 60 mil firmou",
+          "body": "Cinco velas horárias acima de 60 mil depois do mínimo de 58,8k; preço no terço superior do range"
+        },
+        {
+          "title": "US$ 60,7 mil",
+          "body": "Δ1h +0,2% · Δ24h +1,7% · vol US$ 1,34B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Cinco horas acima de 60 mil, no terço superior do range de 24h · Smart money: funding +0,002% e L/S 2,33",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "60 mil é a linha do dia",
+          "body": "Mínima do dia em 60,0 mil (−1,1%) e máxima de 24h em 61,7 mil (+1,7%); abaixo de 60,0 mil, o próximo número é 59,0 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-22-09h34",
       "date": "2026-11-22",
       "time": "09h34",
