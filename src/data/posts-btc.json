@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-21-20h31",
+      "date": "2026-11-21",
+      "time": "20h31",
+      "hook": "O preço nem se mexeu e a leitura mudou. A recuperação que saiu dos 55,1 mil segue inteira, o Bitcoin ronda os 60,2 mil e o teto do dia está a 1,4% de distância. Com o medo no extremo (12 de 100) e quem apostou na queda pagando juros, o viés virou pra alta. Falta o carimbo dos 61 mil.",
+      "caption": "Recuperação dos 55,1 mil confirmada; o teste agora é o teto de 61 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-11-21-20h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-21-20h31",
+      "slides": [
+        {
+          "title": "O viés virou pra alta",
+          "body": "Recuperação dos 55,1 mil confirmada; o teste agora é o teto de 61 mil"
+        },
+        {
+          "title": "US$ 60,2 mil",
+          "body": "Δ1h −0,1% · Δ24h +2,2% · vol US$ 2,8B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço no terço alto do intervalo de 24h, com recuperação dos 55,1 mil firme · Smart money: funding −0,004% (shorts pagando) · L/S 2,19 (69% long)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "O teste dos 61 mil",
+          "body": "Fechar acima de 61,0 mil (+1,4%) põe a faixa de 61,8 a 62,0 mil na mesa · Perder 59,9 mil (−0,4%) devolve o preço à zona dos 59,0 mil",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-21-19h30",
       "date": "2026-11-21",
       "time": "19h30",
