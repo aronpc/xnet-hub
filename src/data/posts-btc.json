@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-22-11h32",
+      "date": "2026-11-22",
+      "time": "11h32",
+      "hook": "A força da manhã passou: o Bitcoin opera a 60,6 mil dólares e o ganho do dia caiu para 0,4%. São seis horas seguidas acima dos 60 mil, mas as posições nos derivativos seguem fechando em vez de crescer. Sem dinheiro novo, o preço fica onde está.",
+      "caption": "Seis fechamentos de hora acima dos 60 mil e viés de volta ao neutro às 11h32\n\nLeia: https://xbtc.aronpc.dev/#2026-11-22-11h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-22-11h32",
+      "slides": [
+        {
+          "title": "Fim do embalo da manhã",
+          "body": "Seis fechamentos de hora acima dos 60 mil e viés de volta ao neutro às 11h32"
+        },
+        {
+          "title": "US$ 60,6 mil",
+          "body": "Δ1h −0,2% · Δ24h +0,4% · vol US$ 1,26B",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Parado no terço superior do canal de 24h, com as posições abertas encolhendo (94,2k → 93,9k BTC) · Smart money: funding +0,002% e L/S 2,28",
+          "source": "https://www.coinglass.com/tv/BTC"
+        },
+        {
+          "title": "Teto em 61,7 mil, chão em 60,0 mil",
+          "body": "De 60,6 mil: 61,7 mil fica a +1,9% e 60,0 mil a −0,9% · fora do canal aparecem 63 mil e 59 mil",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-22-10h33",
       "date": "2026-11-22",
       "time": "10h33",
