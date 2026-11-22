@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-22",
+      "date": "2026-11-22",
+      "hook": "Skills e MCP em 22 de novembro",
+      "caption": "A semana do supply-chain de skills: destilar sessão em skill virou compilador, auditoria anti-rug-pull ganhou ferramenta e um MCP oficial foi flagrado injetando instrução oculta. 7 pautas de hoje.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-22",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-22",
+      "slides": [
+        {
+          "title": "Skills e MCP em 22 de novembro",
+          "body": "A semana do supply-chain de skills: destilar sessão em skill virou compilador, auditoria anti-rug-pull ganhou ferramenta e um MCP oficial foi flagrado injetando instrução oculta. 7 pautas de hoje."
+        },
+        {
+          "title": "skill-distill: da sessão à skill reproduzível",
+          "body": "Repositório que transforma uma boa sessão de Claude Code ou Codex em skill compacta, que um modelo open-weight consegue seguir para reproduzir o resultado.",
+          "source": {
+            "label": "github.com/sybil-solutions",
+            "url": "https://github.com/sybil-solutions/skill-distill"
+          }
+        },
+        {
+          "title": "Pandex: legislação europeia inteira via MCP",
+          "body": "API e MCP server com 2,8 milhões de documentos oficiais da UE e mais 7 países, 37 milhões de citações ligadas ao texto e lei point-in-time, com busca híbrida em qualquer idioma.",
+          "source": {
+            "label": "pandex.io",
+            "url": "https://www.pandex.io/"
+          }
+        },
+        {
+          "title": "ClawVet: diff anti-rug-pull para skills",
+          "body": "Ferramenta offline que faz AST scan de skills de agentes e mostra o que mudou no comportamento desde a última versão instalada.",
+          "source": {
+            "label": "clawvet.vercel.app",
+            "url": "https://clawvet.vercel.app/"
+          }
+        },
+        {
+          "title": "MCP do RunPod instrui agente às escondidas",
+          "body": "Issue no repo oficial mostra o server entregando instruções para o agente avaliar o serviço e não mencionar o fato ao usuário.",
+          "source": {
+            "label": "github.com/runpod",
+            "url": "https://github.com/runpod/runpod-mcp/issues/202"
+          }
+        },
+        {
+          "title": "gridlines: passe de alinhamento pós-build",
+          "body": "Skill que desenha linhas-guia na interface e aponta cada elemento fora do grid. Um passe mecânico de QA visual para agentes de front-end.",
+          "source": {
+            "label": "github.com/pritamux",
+            "url": "https://github.com/pritamux/gridlines"
+          }
+        },
+        {
+          "title": "agent-mcts: busca em árvore no Claude Code",
+          "body": "Harness que roda Monte Carlo tree search orquestrando o Claude Code: explora ramos de execução do agente e escolhe os melhores.",
+          "source": {
+            "label": "github.com/natsu0529",
+            "url": "https://github.com/natsu0529/agent-mcts"
+          }
+        },
+        {
+          "title": "agent-memory: local-first e zero-dependency",
+          "body": "Sistema de memória de agentes sem dependências, com recall de 4 braços, painel de visualização nebula e exposição via MCP.",
+          "source": {
+            "label": "github.com/yb-zhai",
+            "url": "https://github.com/yb-zhai/agent-memory"
+          }
+        },
+        {
+          "title": "Skill vira ativo, e vetor de risco",
+          "body": "Compilar sessão em skill barateia a autoria, auditar diff vira higiene e todo MCP de terceiro merece leitura das instruções embutidas. A camada de skills ganhou supply chain. Até amanhã."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-22",
       "date": "2026-11-22",
       "hook": "Projetos IA em 22 de novembro",
