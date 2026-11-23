@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-23-13h32",
+      "date": "2026-11-23",
+      "time": "13h32",
+      "hook": "O movimento que a leitura do meio-dia apontava aconteceu: 62,9 mil cedeu e o preço escorregou até 62,5 mil antes de estabilizar em 62,7. Na descida, a parcela de contas posicionadas para alta seguiu subindo, gente apostando na volta enquanto o preço caía.",
+      "caption": "A queda pegou a maior parte das contas posicionada para alta, no lado contrário do movimento\n\nLeia: https://xbtc.aronpc.dev/#2026-11-23-13h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-23-13h32",
+      "slides": [
+        {
+          "title": "Cedeu 62,9 e o dia devolveu quase 2 mil do topo",
+          "body": "A queda pegou a maior parte das contas posicionada para alta, no lado contrário do movimento"
+        },
+        {
+          "title": "US$ 62,7 mil",
+          "body": "Δ1h -1,1% · Δ24h +2,4% · vol US$ 1,60 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Correção do salto da manhã dentro da faixa de 62,4 a 63,7 mil · contratos em aberto praticamente parados na queda · funding +0,0042% · L/S 2,37",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "62,5 mil é a linha da hora",
+          "body": "Abaixo dela, a referência desce para 62 e 61,3 mil · de volta acima de 63 mil, a faixa até 63,7 reacende",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-23-12h33",
       "date": "2026-11-23",
       "time": "12h33",
