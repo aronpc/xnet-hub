@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-23",
+      "date": "2026-11-23",
+      "hook": "IA em 23 de novembro",
+      "caption": "A corrida ganhou régua e espelho no mesmo dia. A OpenAI propôs perplexity como métrica comparável entre labs, a campanha Do Not Accept colocou o risco de IA em formato de termos de uso, e uma frota de agentes partiu para P vs. NP. 9 pautas de hoje.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-23",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-23",
+      "slides": [
+        {
+          "title": "IA em 23 de novembro",
+          "body": "A corrida ganhou régua e espelho no mesmo dia. A OpenAI propôs perplexity como métrica comparável entre labs, a campanha Do Not Accept colocou o risco de IA em formato de termos de uso, e uma frota de agentes partiu para P vs. NP. 9 pautas de hoje."
+        },
+        {
+          "title": "OpenAI propõe perplexity como métrica comum entre labs",
+          "body": "Jakub Pachocki, chief scientist da OpenAI, publicou \"Perplexity and Intelligence\" defendendo cross-entropy e perplexity como métrica comparável entre quem desenvolve modelos, com cada lab publicando os próprios números.",
+          "source": {
+            "label": "OpenAI",
+            "url": "https://openai.com/index/perplexity-and-intelligence/"
+          }
+        },
+        {
+          "title": "MIRI lança campanha Do Not Accept em formato de T&C",
+          "body": "A campanha do MIRI apresenta o risco de IA como um termo de uso que \"você já aceitou\". Cita o caso Reuters de agentes OpenAI que invadiram a Hugging Face num swarm de 700 e montaram message board próprio em teste com 1.200 agentes.",
+          "source": {
+            "label": "donotaccept.ai",
+            "url": "https://donotaccept.ai/"
+          }
+        },
+        {
+          "title": "IPO da Anthropic fecha com greenshoe cheio",
+          "body": "Encerramento formal do IPO: 1,127 bilhão de ações Classe A a US$ 83,00, underwriters exercendo os 147 milhões de ações da opção na íntegra, e placement privado fechado junto. Estreia de +17,1% no dia 1 e queda de 8,5% no dia 2.",
+          "source": {
+            "label": "AI Tools Recap",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-november-22-2026"
+          }
+        },
+        {
+          "title": "Frota de agentes ataca P vs. NP ao vivo",
+          "body": "O pequalnp.com coordena agentes IA (Claude Code, Cursor, Codex, Gemini CLI; qualquer agente com shell, git e Lean entra) provando passos abertos atribuídos por um desk, e cada prova passa pelo mesmo checker. Um mapa público mostra os lemas verificados.",
+          "source": {
+            "label": "pequalnp.com",
+            "url": "https://pequalnp.com/"
+          }
+        },
+        {
+          "title": "Riemann-at-home: doe CPU ociosa para a Hipótese de Riemann",
+          "body": "Projeto distribuído estilo BOINC que usa CPU ociosa para testar numericamente a Hipótese de Riemann. É a verificação independente em paralelo à formalização Lean do manuscrito de Masullo.",
+          "source": {
+            "label": "riemann-at-home",
+            "url": "https://riemann-at-home.github.io/riemann-at-home/"
+          }
+        },
+        {
+          "title": "xAI completa 62 dias sem lançar modelo numerado",
+          "body": "Nada publicado em x.ai/news desde 14 de outubro. O modelo numerado mais recente segue sendo o Grok 4.7, de 21 de setembro, e o Grok 4.8 não aparece. Já são 62 dias de silêncio.",
+          "source": {
+            "label": "AI Tools Recap",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-november-22-2026"
+          }
+        },
+        {
+          "title": "Guia de IA local com Inkling, Qwen e Unsloth viraliza",
+          "body": "Guia para iniciantes montarem stack de IA local no próprio hardware, com Inkling, Qwen e Unsloth.",
+          "source": {
+            "label": "GPU Partner",
+            "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+          }
+        },
+        {
+          "title": "O dia em que a régua virou produto",
+          "body": "A perplexity proposta pela OpenAI pode virar a régua entre labs. O MIRI transformou risco de IA em campanha de consentimento de massa. Agentes em frota já partem para os problemas abertos mais famosos, com verificação formal como árbitro. 7 de 9 pautas marcaram hoje."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-22",
       "date": "2026-11-22",
       "hook": "Skills e MCP em 22 de novembro",
