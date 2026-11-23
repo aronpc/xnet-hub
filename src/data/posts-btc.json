@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-23-14h32",
+      "date": "2026-11-23",
+      "time": "14h32",
+      "hook": "Em uma hora a correção atravessou 62,5 e 62,0 mil e parou em 61,7, a 0,7% da linha de 61,3 mil, exatamente de onde a arrancada das 10h tinha partido. O que mudou por baixo do preço: contrato em aberto encolheu de 93,2 para 92,8 mil BTC, posição saindo, enquanto a maioria das contas seguia do lado comprador.",
+      "caption": "BTC em 61,7 mil · queda de uma hora cortou dois números redondos e parou colada na zona de 61,3 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-11-23-14h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-23-14h32",
+      "slides": [
+        {
+          "title": "A arrancada das 10h voltou ao ponto de partida",
+          "body": "BTC em 61,7 mil · queda de uma hora cortou dois números redondos e parou colada na zona de 61,3 mil"
+        },
+        {
+          "title": "US$ 61,7 mil",
+          "body": "Δ1h -1,6% · Δ24h +1,5% · vol US$ 1,64 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O roteiro da 13h31 executou por inteiro: 62,5 e 62,0 mil cederam numa vela só · OI caiu de 93,2 para 92,8 mil BTC, L/S 2,51 · funding +0,0047%",
+          "source": "https://www.coinglass.com/Bitcoin"
+        },
+        {
+          "title": "61,3 mil é a linha do dia",
+          "body": "Zona de 61,3 mil (−0,7%) segura a devolução; perdida, 60,4 mil volta à conversa · acima, 62,9 mil (+2,0%) reabre o range de 62,4 a 63,7",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Leitura técnica de BTC, hora a hora",
+          "body": "Dados: Binance, CoinGlass, CoinGecko · conteúdo informativo, não é recomendação de investimento"
+        }
+      ]
+    },
+    {
       "id": "2026-11-23-13h32",
       "date": "2026-11-23",
       "time": "13h32",
