@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-23-02h33",
+      "date": "2026-11-23",
+      "time": "02h33",
+      "hook": "O bitcoin passou a noite se recuperando devagar e, depois das 2h, acelerou: negociou acima da faixa de 61,3 a 61,5 mil, a caminho do topo do canal, em 62 mil.",
+      "caption": "Preço saiu da faixa de 61,3 a 61,5 mil e o topo do canal virou a referência\n\nLeia: https://xbtc.aronpc.dev/#2026-11-23-02h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-23-02h33",
+      "slides": [
+        {
+          "title": "Primeira subida do dia chega com dinheiro novo",
+          "body": "Preço saiu da faixa de 61,3 a 61,5 mil e o topo do canal virou a referência"
+        },
+        {
+          "title": "US$ 61,6 mil",
+          "body": "Δ1h +0,8% · Δ24h +4,1% · vol US$ 1,23 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Subiu com o open interest acompanhando · Smart money: funding +0,0050% e L/S 2,05",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A hora encosta no topo de 62 mil",
+          "body": "Degrau novo em 61,3 mil (−0,4%) · topo do canal em 62,0 mil (+0,7%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-23-00h33",
       "date": "2026-11-23",
       "time": "00h33",
