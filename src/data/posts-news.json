@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-23",
+      "date": "2026-11-23",
+      "hook": "Skills & MCP em 23 de novembro",
+      "caption": "O dia atacou dores pontuais: o review de IA que alucina citação ganhou caçador dedicado, os MCP servers próprios ganharam bateria de segurança pronta, e vídeo longo ficou barato de entender com transcrição local. 10 pautas de hoje.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-23",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-23",
+      "slides": [
+        {
+          "title": "Skills & MCP em 23 de novembro",
+          "body": "O dia atacou dores pontuais: o review de IA que alucina citação ganhou caçador dedicado, os MCP servers próprios ganharam bateria de segurança pronta, e vídeo longo ficou barato de entender com transcrição local. 10 pautas de hoje."
+        },
+        {
+          "title": "0rwx: permissões Unix como vocabulário para uso de IA",
+          "body": "Framework de 4 níveis inspirado em permissões Unix: ZER (IA não lê seu trabalho), READ (IA-inspired), WRITE (colaboração), EXECUTE (IA made, você só curate). Serve para rotular o quanto você escrutina o que a IA produziu.",
+          "source": {
+            "label": "0rwx.com",
+            "url": "https://0rwx.com/"
+          }
+        },
+        {
+          "title": "BriefCheck: caça citações de diff alucinadas em reviews de IA",
+          "body": "CLI Python zero-dependência que confere se as citações de arquivos e linhas num review feito por IA existem de verdade no diff.",
+          "source": {
+            "label": "github.com/yulongwu-x/BriefCheck",
+            "url": "https://github.com/yulongwu-x/BriefCheck"
+          }
+        },
+        {
+          "title": "autologin-mcp: loga o agente no app sob teste",
+          "body": "MCP server que faz o login do agente de coding no aplicativo em teste, mantendo credenciais na máquina local.",
+          "source": {
+            "label": "github.com/olgaysezgin/autologin-mcp",
+            "url": "https://github.com/olgaysezgin/autologin-mcp"
+          }
+        },
+        {
+          "title": "saktum-check: teste de MCP server contra OWASP Top 10",
+          "body": "Um comando roda bateria contra MCP servers: OWASP MCP Top 10, sign-in OAuth, conformance e experiência do agente.",
+          "source": {
+            "label": "github.com/soodhere/saktum-check",
+            "url": "https://github.com/soodhere/saktum-check"
+          }
+        },
+        {
+          "title": "video-storyboard-mcp: agente entende vídeo longo com transcrição local",
+          "body": "MCP server que monta storyboards em mosaico com extração de legenda e transcrição offline (sherpa-onnx) para o assistente 'ver' vídeos longos do Bilibili, do YouTube ou locais, a baixo custo.",
+          "source": {
+            "label": "github.com/nonuiucode/video-storyboard-mcp",
+            "url": "https://github.com/nonuiucode/video-storyboard-mcp"
+          }
+        },
+        {
+          "title": "agent-orgchat: agentes de harnesses diferentes se mensageiam",
+          "body": "Faz agentes de Claude Code, Codex, Cursor, Gemini CLI e Cline trocarem mensagens entre máquinas, sem broker central.",
+          "source": {
+            "label": "github.com/hansxiao7/agent-orgchat",
+            "url": "https://github.com/hansxiao7/agent-orgchat"
+          }
+        },
+        {
+          "title": "Listen Notes lança Podcast MCP",
+          "body": "A API de busca de podcasts Listen Notes publicou endpoint MCP oficial para agentes buscarem episódios e transcrições.",
+          "source": {
+            "label": "Listen Notes",
+            "url": "https://www.listennotes.com/api/mcp/"
+          }
+        },
+        {
+          "title": "Ferramenta que resolve dor pontual",
+          "body": "O review de IA ganhou verificador de citação, o MCP server ganhou bateria OWASP pronta, e vídeo longo ficou barato com storyboard e transcrição local. O padrão do dia: nada de coleção de ferramentas, só o que resolve dor. 7 de 10 pautas marcaram hoje."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-23",
       "date": "2026-11-23",
       "hook": "Projetos em 23 de novembro",
