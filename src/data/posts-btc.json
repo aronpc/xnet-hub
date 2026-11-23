@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-22-20h32",
+      "date": "2026-11-22",
+      "time": "20h32",
+      "hook": "A barreira de 61 mil, que segurou o preço a manhã inteira, cedeu no fim de tarde: são cinco leituras de hora em alta e o Bitcoin negocia a 61,2 mil, na parte de cima da faixa do dia. E o que não mudou chama atenção: o interesse aberto segue em 93 mil BTC. Essa subida veio de posições sendo fechadas; dinheiro novo, quase nada.",
+      "caption": "Preço a 61,2 mil, colado na máxima de cinco horas (61,3 mil) · topo do dia, 61,7 mil, ninguém tocou ainda\n\nLeia: https://xbtc.aronpc.dev/#2026-11-22-20h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-22-20h32",
+      "slides": [
+        {
+          "title": "Uma alta sem dinheiro novo",
+          "body": "Preço a 61,2 mil, colado na máxima de cinco horas (61,3 mil) · topo do dia, 61,7 mil, ninguém tocou ainda"
+        },
+        {
+          "title": "US$ 61,2 mil",
+          "body": "Δ1h +0,70% · Δ24h +1,7% · vol US$ 1,19 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço colado na borda alta do canal de 24h (58,5-61,7 mil); para deixar a lateral pra trás, falta fechar acima de 61,7 mil · Smart money: funding neutro (+0,0032%) e L/S 2,10, com 67,7% das contas em compra",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "61,3 mil é a máxima curta",
+          "body": "Fechar acima dela encara o topo do dia, 61,7 mil; perder 60,5 mil (−1,2%) devolve a pressão sobre 60,1 mil e 59,3 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-22-14h32",
       "date": "2026-11-22",
       "time": "14h32",
