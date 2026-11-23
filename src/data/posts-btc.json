@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-23-04h33",
+      "date": "2026-11-23",
+      "time": "04h33",
+      "hook": "O preço tentou o teto de 62 mil, não passou e voltou para a faixa dos 61,4 a 61,5 mil. Depois de duas horas subindo junto, o total de contratos em aberto parou de crescer.",
+      "caption": "Preço de volta à faixa dos 61,4 a 61,5 mil, com o fluxo estacionado\n\nLeia: https://xbtc.aronpc.dev/#2026-11-23-04h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-23-04h33",
+      "slides": [
+        {
+          "title": "A alta da madrugada parou antes do teto",
+          "body": "Preço de volta à faixa dos 61,4 a 61,5 mil, com o fluxo estacionado"
+        },
+        {
+          "title": "US$ 61,5 mil",
+          "body": "Δ1h 0,0% · Δ24h +2,8% · vol US$ 1,25 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço preso entre 61,1 e 61,8 mil e contratos em aberto no mesmo patamar, 92,2 mil BTC · Smart money: funding +0,0035% e L/S 2,05",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Só 700 dólares separam as duas saídas",
+          "body": "Abaixo de 61,1 mil (−0,6%), o caminho volta para 60,8 e 60,4 mil · acima de 61,8 mil (+0,5%), 62 e 63 mil entram no radar",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-23-02h33",
       "date": "2026-11-23",
       "time": "02h33",
