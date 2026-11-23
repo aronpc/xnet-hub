@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-23-07h32",
+      "date": "2026-11-23",
+      "time": "07h32",
+      "hook": "A tentativa de passar de 61,7 mil durou pouco: o preço voltou ao meio da faixa e encerrou a sequência de três fechamentos em alta. O detalhe da hora é que os contratos em aberto cresceram na queda, em vez de encolher. Quem tinha posição segurou.",
+      "caption": "Preço de volta ao meio da faixa, com posição preservada\n\nLeia: https://xbtc.aronpc.dev/#2026-11-23-07h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-23-07h32",
+      "slides": [
+        {
+          "title": "A sequência de altas parou em 61,7 mil",
+          "body": "Preço de volta ao meio da faixa, com posição preservada"
+        },
+        {
+          "title": "US$ 61,5 mil",
+          "body": "Δ1h -0,2% · Δ24h +0,7% · vol US$ 1,06 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Fechamentos de 61,5 a 61,4 mil sem perder a região de baixo, com contratos em aberto subindo de 92,2 a 92,4 mil BTC · Smart money: funding +0,0029% e L/S 2,05",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Entre 61,1 e 62,0 mil, a decisão",
+          "body": "Acima de 62,0 mil (+0,9%), 62,5 e 63 mil entram na conversa · abaixo de 61,1 mil (−0,6%), a referência desce para 60,8 e 60,4 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-23-06h34",
       "date": "2026-11-23",
       "time": "06h34",
