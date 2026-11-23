@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-23-06h34",
+      "date": "2026-11-23",
+      "time": "06h34",
+      "hook": "O preço fechou a terceira hora seguida em alta e encostou na linha dos 62 mil. Duas horas atrás os contratos em aberto estavam travados; agora voltaram a crescer junto com o preço.",
+      "caption": "BTC a 61,6 mil, rente à linha dos 62 mil que limita o dia\n\nLeia: https://xbtc.aronpc.dev/#2026-11-23-06h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-23-06h34",
+      "slides": [
+        {
+          "title": "Três altas seguidas, agora com o fluxo junto",
+          "body": "BTC a 61,6 mil, rente à linha dos 62 mil que limita o dia"
+        },
+        {
+          "title": "US$ 61,6 mil",
+          "body": "Δ1h +0,2% · Δ24h +1,2% · vol US$ 1,10 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Fechamentos em sequência, de 61,46 a 61,61 mil, com contratos em aberto subindo junto, de 92,1 a 92,5 mil BTC · Smart money: funding +0,0042% e L/S 2,06",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Tudo a menos de 1% do preço atual",
+          "body": "Acima de 62,0 mil (+0,6%), as referências passam a ser 62,5 e 63 mil · abaixo de 61,1 mil (−0,8%), descem para 60,8 e 60,4 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-23-04h33",
       "date": "2026-11-23",
       "time": "04h33",
