@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-23-15h39",
+      "date": "2026-11-23",
+      "time": "15h39",
+      "hook": "O roteiro apontado na última leitura terminou: 61,7 mil cedeu, a mínima encostou em 61.257 e a zona de 61,3 mil segurou, com o preço fechando de volta acima na mesma vela. É a primeira resposta na base desde o salto das 10h. E o fundo girou: o contrato em aberto, que encolhia desde a tarde, voltou a crescer com o preço ainda cedendo.",
+      "caption": "BTC em 61,5 mil · a correção da tarde encostou na zona de onde a arrancada tinha partido e parou aí\n\nLeia: https://xbtc.aronpc.dev/#2026-11-23-15h39",
+      "link": "https://xbtc.aronpc.dev/#2026-11-23-15h39",
+      "slides": [
+        {
+          "title": "Primeiro teste da base desde o salto das 10h",
+          "body": "BTC em 61,5 mil · a correção da tarde encostou na zona de onde a arrancada tinha partido e parou aí"
+        },
+        {
+          "title": "US$ 61,5 mil",
+          "body": "Δ1h -0,4% · Δ24h +1,4% · vol US$ 1,68 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Volume da queda murchando, 26 mi na hora parcial contra 430 mi no pico das 11h, mais exaustão do que pressão · contrato em aberto sobe de novo, 92,8 para 93,4 mil BTC, com o preço cedendo · funding +0,0052% · L/S 2,61",
+          "source": "https://www.coinglass.com/Bitcoin"
+        },
+        {
+          "title": "Faixa de 61,3 a 62,3 mil",
+          "body": "A mínima passou raspando em 61.257 e voltou · fechamento abaixo de 61,3 mil aponta para 60,4 mil · recuperar 62,25 mil tira o preço da faixa baixa, com 62,9 e 63,7 mil na sequência",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-23-14h32",
       "date": "2026-11-23",
       "time": "14h32",
