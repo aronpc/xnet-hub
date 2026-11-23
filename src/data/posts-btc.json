@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-22-23h33",
+      "date": "2026-11-22",
+      "time": "23h33",
+      "hook": "O domingo fechou com o Bitcoin a 60,6 mil dólares, numa queda que já dura duas horas e deixou para trás a região dos 60,8 mil. E o detalhe está em quem está do outro lado: duas em cada três contas seguem na expectativa de alta enquanto o preço desce. A queda vai contra a maioria.",
+      "caption": "Correção ativa na parte de cima da faixa de 58,5 a 61,7 mil do fim de semana\n\nLeia: https://xbtc.aronpc.dev/#2026-11-22-23h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-22-23h33",
+      "slides": [
+        {
+          "title": "Queda contra a maioria",
+          "body": "Correção ativa na parte de cima da faixa de 58,5 a 61,7 mil do fim de semana"
+        },
+        {
+          "title": "US$ 60,6 mil",
+          "body": "Δ1h -1,0% · Δ24h +1,6% · vol US$ 1,20 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Dois fechamentos de hora em baixa tiraram o preço de 60,8 mil; F&G em 11, zona de medo extremo · Funding -0,0011%, L/S 2,00: 66,6% das contas em alta e contrato aberto encolhendo para 92,8 mil BTC",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Voltar acima de 60,8 mil muda o clima",
+          "body": "Devolve a conversa para a faixa de 61,3 a 61,5 mil · perder 60,5 mil (−0,2%) encara 60,1 mil e depois 59,8 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-22-20h32",
       "date": "2026-11-22",
       "time": "20h32",
