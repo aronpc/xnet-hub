@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-23-00h33",
+      "date": "2026-11-23",
+      "time": "00h33",
+      "hook": "A queda que fechou o domingo morreu no fundo de 60,4 mil dólares. Poucas horas depois o preço encostava em 62 mil, o ponto mais alto do dia, e o piso de 60,8 mil que a noite tinha levado já estava de volta.",
+      "caption": "Ida ao fundo, volta ao topo do dia e acomodação em 61,4 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-11-23-00h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-23-00h33",
+      "slides": [
+        {
+          "title": "60,4 mil segurou e o preço virou",
+          "body": "Ida ao fundo, volta ao topo do dia e acomodação em 61,4 mil"
+        },
+        {
+          "title": "US$ 61,4 mil",
+          "body": "Δ1h +1,3% · Δ24h +3,7% · vol US$ 1,25 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Piso de 60,8 mil retomado, preço rodando na banda de 61,3 a 61,5 mil · Smart money: funding +0,0004% e duas em cada três contas em alta",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A banda de 61,5 mil decide a hora que vem",
+          "body": "Fechar acima dela encosta no teto do canal, 62,0 mil (+0,9%) · deixar 60,8 mil passar (−1,0%) devolve o chão de 60,4 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-22-23h33",
       "date": "2026-11-22",
       "time": "23h33",
