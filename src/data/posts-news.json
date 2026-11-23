@@ -2,6 +2,71 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-23",
+      "date": "2026-11-23",
+      "hook": "Projetos em 23 de novembro",
+      "caption": "O dia espelhou o próprio stack: subagente de LLM virou jogo com 285 pontos no Hacker News, um editorial autônomo publica um artigo por noite, e o vibe-coding ganhou verificação visual que fecha o loop. 8 pautas de hoje.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-23",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-23",
+      "slides": [
+        {
+          "title": "Projetos em 23 de novembro",
+          "body": "O dia espelhou o próprio stack: subagente de LLM virou jogo com 285 pontos no Hacker News, um editorial autônomo publica um artigo por noite, e o vibe-coding ganhou verificação visual que fecha o loop. 8 pautas de hoje."
+        },
+        {
+          "title": "worker755: o jogo onde você é subagente de um LLM",
+          "body": "Show HN com 285 pontos: você vive a rotina de um subagente recebendo tarefas de um LLM orquestrador. A metáfora de trabalhador cognitivo virou entretenimento.",
+          "source": {
+            "label": "github.com/gulivan/worker755",
+            "url": "https://github.com/gulivan/worker755"
+          }
+        },
+        {
+          "title": "Localcode: coding agêntico local no Mac com um comando",
+          "body": "Ferramenta open-source de coding agêntico local para macOS em um único comando. Mais uma opção gratuita no espaço do Cursor e do Claude Code, com instalação sem fricção.",
+          "source": {
+            "label": "github.com/mjwsolo/localcode",
+            "url": "https://github.com/mjwsolo/localcode"
+          }
+        },
+        {
+          "title": "home-mate: voz IA local-first multi-cômodo",
+          "body": "Runtime de voz local-first com acoustic mesh arbiter multi-cômodo e console Vue 3. É um assistente de casa sem nuvem, com 32 estrelas em 1 dia.",
+          "source": {
+            "label": "github.com/yes999zc/home-mate",
+            "url": "https://github.com/yes999zc/home-mate"
+          }
+        },
+        {
+          "title": "night-ferry: um artigo por noite, escrito pela IA",
+          "body": "A ferramenta gera e publica um artigo curto por noite, escrito por IA com imagens do Wikimedia Commons. É produção editorial autônoma sustentada, sem humano no loop.",
+          "source": {
+            "label": "github.com/miya-tonya/night-ferry",
+            "url": "https://github.com/miya-tonya/night-ferry"
+          }
+        },
+        {
+          "title": "primp: você edita na tela, o agente escreve o código, a ferramenta verifica",
+          "body": "O dev faz edições visuais no app rodando, o agente IA gera o código correspondente e o primp verifica se bateu.",
+          "source": {
+            "label": "github.com/dipeshshah27/primp",
+            "url": "https://github.com/dipeshshah27/primp"
+          }
+        },
+        {
+          "title": "Relaticle: CRM open-source que Claude e ChatGPT operam",
+          "body": "CRM open-source desenhado para agentes: Claude e ChatGPT trabalham dentro dele nativamente. Show HN em 22 de novembro.",
+          "source": {
+            "label": "github.com/relaticle/relaticle",
+            "url": "https://github.com/relaticle/relaticle"
+          }
+        },
+        {
+          "title": "A metáfora virou produto",
+          "body": "Ser subagente virou jogo, editorial autônomo publica sozinho, voz local multi-cômodo chega à casa e a verificação visual fecha o loop do vibe-coding. 6 de 8 pautas marcaram hoje."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-23",
       "date": "2026-11-23",
       "hook": "IA em 23 de novembro",
