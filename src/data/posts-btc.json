@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-24-14h32",
+      "date": "2026-11-24",
+      "time": "14h32",
+      "hook": "A queda tentou derrubar o 59,4 mil e não conseguiu: o preço passou por baixo, tocou 59,2 e voltou em seguida.",
+      "caption": "A mínima do dia foi rejeitada com o medo no extremo, e o recuo encolheu para 3,1%.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-24-14h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-24-14h32",
+      "slides": [
+        {
+          "title": "O fundo aguentou o golpe",
+          "body": "A mínima do dia foi rejeitada com o medo no extremo, e o recuo encolheu para 3,1%."
+        },
+        {
+          "title": "US$ 59,8 mil",
+          "body": "Δ1h +0,3% · Δ24h -3,1% · vol US$ 1,21 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A quebra pra baixo não vingou e o preço segue na faixa · Smart Money: funding +0,0070% + L/S 2,58",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "O 60 redondo é o próximo número",
+          "body": "Suporte 59,2 mil (-1,0%) · Resistência 60,0 mil (+0,4%): segurar 59,4 mil encaminha ao redondo; perder a mínima de novo abre caminho pra 58 mil.",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-24-13h31",
       "date": "2026-11-24",
       "time": "13h31",
