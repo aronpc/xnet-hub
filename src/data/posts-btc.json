@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-24-07h33",
+      "date": "2026-11-24",
+      "time": "07h33",
+      "hook": "O Bitcoin não segurou os 60 mil e voltou a encostar no piso do dia, sete horas após a primeira visita da madrugada",
+      "caption": "O redondo de 60 mil cedeu e o preço agora opera colado na região de 59,4 mil, a mesma que segurou o mercado na madrugada\n\nLeia: https://xbtc.aronpc.dev/#2026-11-24-07h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-24-07h33",
+      "slides": [
+        {
+          "title": "De volta ao piso do dia",
+          "body": "O redondo de 60 mil cedeu e o preço agora opera colado na região de 59,4 mil, a mesma que segurou o mercado na madrugada"
+        },
+        {
+          "title": "US$ 59,9 mil",
+          "body": "Δ1h -0,3% · Δ24h -2,6% · vol US$ 1,74 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Os 60 mil cederam e agora é daí que vem a pressão vendedora · quem está comprado segue pagando o funding, sem sinal de desistência coletiva",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "59,4 mil e 60 mil a poucos passos",
+          "body": "O piso do dia está 0,7% abaixo do preço e o redondo perdido, 0,2% acima: é esse o espaço em disputa. Se o piso ceder, o foco passa para a região de 58 mil; retomar os 60 mil traz alívio local",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-24-04h35",
       "date": "2026-11-24",
       "time": "04h35",
