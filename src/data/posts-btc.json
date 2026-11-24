@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-24-04h35",
+      "date": "2026-11-24",
+      "time": "04h35",
+      "hook": "O Bitcoin perdeu a base dos 61 mil na virada do dia e agora está no menor nível das últimas 24h",
+      "caption": "O dia corre em -1,7% e essa região segurava o preço desde a manhã de ontem\n\nLeia: https://xbtc.aronpc.dev/#2026-11-24-04h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-24-04h35",
+      "slides": [
+        {
+          "title": "A base de 61 mil cedeu",
+          "body": "O dia corre em -1,7% e essa região segurava o preço desde a manhã de ontem"
+        },
+        {
+          "title": "US$ 60,3 mil",
+          "body": "Δ1h -0,4% · Δ24h -1,7% · vol US$ 1,74 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Os 61 mil viraram teto e cada repique encontra vendedores · Clima de mercado em 11, medo extremo · Funding quase neutro, L/S em 2,60",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "59,4 mil e 61,1 mil",
+          "body": "A mínima está 1,6% abaixo e o teto, 1,2% acima do preço. Perder a mínima com volume empurra para os 58 mil; retomar o teto desarma a queda e abre caminho para os 62 mil",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-24-02h37",
       "date": "2026-11-24",
       "time": "02h37",
