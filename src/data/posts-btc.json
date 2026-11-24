@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-24-09h36",
+      "date": "2026-11-24",
+      "time": "09h36",
+      "hook": "O toque da manhã em 59,8 mil ficou para trás e o Bitcoin voltou a operar acima dos 60 mil, num dia que ainda carrega queda de 5,6%",
+      "caption": "O próximo desafio está logo acima: o degrau de 60,5 mil que limita o avanço fica a 0,4% do preço\n\nLeia: https://xbtc.aronpc.dev/#2026-11-24-09h36",
+      "link": "https://xbtc.aronpc.dev/#2026-11-24-09h36",
+      "slides": [
+        {
+          "title": "60 mil reconquistados",
+          "body": "O próximo desafio está logo acima: o degrau de 60,5 mil que limita o avanço fica a 0,4% do preço"
+        },
+        {
+          "title": "US$ 60,3 mil",
+          "body": "Δ1h +0,8% · Δ24h -5,6% · vol US$ 1,81 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Queda do dia em pausa, sem reversão confirmada · Smart Money: funding +0,0046% + L/S 2,64",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Tudo passa por 60,5 mil",
+          "body": "Suporte 60,0 mil (-0,4%) · Resistência 60,5 mil (+0,4%) · ultrapassar o teto estende o repique a 60,8 mil; recuar abaixo de 60,0 devolve o preço aos 59,4 mil",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-24-07h33",
       "date": "2026-11-24",
       "time": "07h33",
