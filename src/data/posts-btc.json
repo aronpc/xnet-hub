@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-24-18h38",
+      "date": "2026-11-24",
+      "time": "18h38",
+      "hook": "O Bitcoin caminhou até encostar nos 60 mil de novo, agora sem pressa: o piso do dia vem subindo enquanto o teto desce, e sobrou espaço para pouca coisa entre os dois.",
+      "caption": "Três pisos cada vez mais altos e dois tetos cada vez mais baixos: a faixa entre os dois lados fechou apertada.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-24-18h38",
+      "link": "https://xbtc.aronpc.dev/#2026-11-24-18h38",
+      "slides": [
+        {
+          "title": "O aperto chegou aos 60 mil",
+          "body": "Três pisos cada vez mais altos e dois tetos cada vez mais baixos: a faixa entre os dois lados fechou apertada."
+        },
+        {
+          "title": "US$ 59,9 mil",
+          "body": "Δ1h +0,6% · Δ24h −2,4% · vol US$ 1,19 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Piso do dia subiu de 59,3 a 59,7 mil com o teto descendo a 60,0 mil · Smart Money: funding +0,0074% + L/S 2,56",
+          "source": "https://www.binance.com/en/futures/BTCUSDT"
+        },
+        {
+          "title": "Tudo passa por 60 mil",
+          "body": "Suporte 59,26 mil (−1,1%) · Resistência 60,0 mil (+0,1%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-24-16h36",
       "date": "2026-11-24",
       "time": "16h36",
