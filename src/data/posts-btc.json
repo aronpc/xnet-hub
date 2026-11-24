@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-24-00h32",
+      "date": "2026-11-24",
+      "time": "00h32",
+      "hook": "BTC em 60,2 mil depois de passar por 59,4 mil: a queda acelerou na madrugada e parte do tombo já voltou ao preço",
+      "caption": "O dia já tinha deixado os 61 mil para trás; a noite levou o preço ao ponto mais baixo até agora e ele recuou de volta um trecho\n\nLeia: https://xbtc.aronpc.dev/#2026-11-24-00h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-24-00h32",
+      "slides": [
+        {
+          "title": "60,2 mil após o mergulho a 59,4 mil",
+          "body": "O dia já tinha deixado os 61 mil para trás; a noite levou o preço ao ponto mais baixo até agora e ele recuou de volta um trecho"
+        },
+        {
+          "title": "US$ 60,2 mil",
+          "body": "Δ1h -0,7% · Δ24h -2,2% · vol US$ 1,76 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Mínimas cada vez mais baixas desde a rejeição do topo de 64,6 mil · Funding +0,0033% · L/S 2,86: 74% das contas do lado da compra, número que cresceu enquanto o preço caía",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "59,5 mil e 61,1 mil delimitam o campo",
+          "body": "A mínima do dia está 1,2% abaixo do preço e a região perdida, 1,4% acima; fechar 1h acima de 61,1 mil devolve a calmaria entre 61 e 62 mil",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-23-23h33",
       "date": "2026-11-23",
       "time": "23h33",
