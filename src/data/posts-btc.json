@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-24-13h31",
+      "date": "2026-11-24",
+      "time": "13h31",
+      "hook": "Seis horas sem novidade: o Bitcoin não sai de uma fita de 600 dólares, entre 59,4 e 60 mil. A queda que dominou o dia parou na linha que aguenta desde as 7 da manhã, e daí pra cá nenhum dos lados convenceu.",
+      "caption": "Depois de recuar 4,8% no dia, o mercado tirou o pé do acelerador. Agora é espera.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-24-13h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-24-13h31",
+      "slides": [
+        {
+          "title": "Seis horas na mesma fita",
+          "body": "Depois de recuar 4,8% no dia, o mercado tirou o pé do acelerador. Agora é espera."
+        },
+        {
+          "title": "US$ 59,6 mil",
+          "body": "Δ1h -0,2% · Δ24h -4,8% · vol US$ 1,23 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A pressão vendedora bateu na mínima da manhã e ficou por lá: o preço não consegue nem esticar o recuo nem reagir · Smart Money: funding +0,0038% + L/S 2,51",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "600 dólares esperando um lado",
+          "body": "Suporte 59,4 mil (-0,4%) · Resistência 60,0 mil (+0,6%): um rompimento pra baixo estende o recuo rumo a 58 mil; acima de 60,7 mil a compressão vira reversão.",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-24-12h32",
       "date": "2026-11-24",
       "time": "12h32",
