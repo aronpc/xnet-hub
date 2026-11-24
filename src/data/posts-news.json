@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-24",
+      "date": "2026-11-24",
+      "hook": "Projetos IA em 24 de novembro",
+      "caption": "Opinião que vira carteira operada por agente, segurança que audita o agente junto do código, e deleção que paga em token economizado. 11 pautas de hoje.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-24",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-24",
+      "slides": [
+        {
+          "title": "Projetos IA em 24 de novembro",
+          "body": "Opinião que vira carteira operada por agente, segurança que audita o agente junto do código, e deleção que paga em token economizado. 11 pautas de hoje."
+        },
+        {
+          "title": "Supertake capta US$ 20 mi para transformar \"takes\" em portfólios",
+          "body": "Seed de US$ 20 mi no dia 23 liderada pela Adjacent, com Coinbase Ventures e USV: a Supertake converte previsões de mercado do usuário em portfólios reais operados por modelos frontier e agentes de trading. Anjos incluem Nat Friedman, Guillermo Rauch e Nikita Bier; incubada na USV por Michael Mignano (cofundador do Anchor).",
+          "source": {
+            "label": "techcrunch.com, 23 nov",
+            "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+          }
+        },
+        {
+          "title": "safe-anything: 512★ em 2 dias varrendo código e agente",
+          "body": "Scanner 100% Rust que num comando acha XSS, injeção SQL, secrets vazados, configs arriscadas de mobile/cloud, dependências vulneráveis, e a configuração do agente de IA que escreveu o código. Cada achado vem com linha, motivo e correção; MIT, publicado em crates.io e npm no dia 22.",
+          "source": {
+            "label": "github.com/erkamyaman/safe-anything",
+            "url": "https://github.com/erkamyaman/safe-anything"
+          }
+        },
+        {
+          "title": "Cherry-Studio-Enhanced: memória persistente entre dispositivos",
+          "body": "Cliente desktop de IA com memória persistente cross-device e sincronização pessoal criptografada de ponta a ponta via Google Drive, iCloud ou Dropbox; 144★ no primeiro dia.",
+          "source": {
+            "label": "github.com/cratergrousedirect/Cherry-Studio-Enhanced",
+            "url": "https://github.com/cratergrousedirect/Cherry-Studio-Enhanced"
+          }
+        },
+        {
+          "title": "shrink-anything: código morto some, testes continuam verdes",
+          "body": "Ferramenta que encontra e deleta funções órfãs, arquivos, dependências e assets rodando os testes do próprio projeto após cada corte, o que quebra volta, tudo reversível. No app de demo, 46% menos tokens para o agente ler. CLI + plugin Claude Code + MCP server, 19 linguagens no dia 23.",
+          "source": {
+            "label": "github.com/EL4CTEO/shrink-anything",
+            "url": "https://github.com/EL4CTEO/shrink-anything"
+          }
+        },
+        {
+          "title": "FireVoice: estúdio de voz open-source na própria GPU",
+          "body": "Show HN no dia 24 de um voice studio gratuito e open-source com inferência inteiramente local na GPU do usuário.",
+          "source": {
+            "label": "firevoice.fabwaseem.com, 24 nov",
+            "url": "https://firevoice.fabwaseem.com"
+          }
+        },
+        {
+          "title": "Merget: merge queue com análise estática profunda",
+          "body": "Show HN no dia 24: merge queue que usa análise estática profunda para resolver pull requests do GitHub, decide o que pode entrar e em que ordem.",
+          "source": {
+            "label": "merget.ai, 24 nov",
+            "url": "https://merget.ai/"
+          }
+        },
+        {
+          "title": "Ubisoft funda a Motherbrain para gameplay com IA",
+          "body": "A Ubisoft lançou no dia 23 a Motherbrain, nova subsidiária dedicada a inovação de gameplay movida a IA, separada dos estúdios de jogo.",
+          "source": {
+            "label": "gamesindustry.biz, 23 nov",
+            "url": "https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation"
+          }
+        },
+        {
+          "title": "Segurança começa a auditar o agente",
+          "body": "O scanner de código passou a varrer também a configuração do agente que escreveu o código. Deletar código virou economia de token, com a suíte de testes como invariante. E opinião de mercado capta 20 milhões de dólares para virar carteira operada por agente. 7 de 11 pautas marcaram hoje."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-24",
       "date": "2026-11-24",
       "hook": "IA em 24 de novembro",
