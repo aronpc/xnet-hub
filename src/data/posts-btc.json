@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-24-02h37",
+      "date": "2026-11-24",
+      "time": "02h37",
+      "hook": "BTC a 60,7 mil: a pressão vendedora perdeu força e o repique foi travar embaixo dos 61 mil; mercado em modo de espera",
+      "caption": "Saltou da mínima de 59,4 mil e ainda não conseguiu sair da casa dos 60 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-11-24-02h37",
+      "link": "https://xbtc.aronpc.dev/#2026-11-24-02h37",
+      "slides": [
+        {
+          "title": "O repique parou nos 61 mil",
+          "body": "Saltou da mínima de 59,4 mil e ainda não conseguiu sair da casa dos 60 mil"
+        },
+        {
+          "title": "US$ 60,7 mil",
+          "body": "Δ1h +0,3% · Δ24h -1,3% · vol US$ 1,76 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "As últimas velas ficaram presas entre 60,0 e 61,3 mil, com o dia ainda negativo em -1,3% · Funding +0,007%, quase neutro, com L/S em 2,67",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "59,5 mil e 61,3 mil",
+          "body": "A mínima do dia está 2,0% abaixo do preço e o teto da faixa, 1,0% acima; é dessa janela que sai o próximo movimento",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-24-00h32",
       "date": "2026-11-24",
       "time": "00h32",
