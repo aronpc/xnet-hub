@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-24-12h32",
+      "date": "2026-11-24",
+      "time": "12h32",
+      "hook": "O 60 mil reconquistado de manhã foi devolvido no meio-dia, e o número que era chão virou teto. A leitura de 12h32 voltou a apontar baixa, com o volume de posições abertas crescendo junto com a queda.",
+      "caption": "O primeiro teste vem logo abaixo: a mínima do dia, a 0,6% do preço.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-24-12h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-24-12h32",
+      "slides": [
+        {
+          "title": "O 60 trocou de lado",
+          "body": "O primeiro teste vem logo abaixo: a mínima do dia, a 0,6% do preço."
+        },
+        {
+          "title": "US$ 59,7 mil",
+          "body": "Δ1h -1,1% · Δ24h -5,7% · vol US$ 1,29 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A pausa da manhã acabou: queda acumulada de 5,7% no dia e dinheiro novo entrando no recuo · Smart Money: funding +0,0024% + L/S 2,45",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "A defesa de 59,4 mil",
+          "body": "Suporte 59,4 mil (-0,6%) · Resistência 60,0 mil (+0,4%): segurar a mínima deixa o preço reagir; ceder com volume estende a queda aos 58 mil",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-24-11h33",
       "date": "2026-11-24",
       "time": "11h33",
