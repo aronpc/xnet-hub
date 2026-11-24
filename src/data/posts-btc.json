@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-24-11h33",
+      "date": "2026-11-24",
+      "time": "11h33",
+      "hook": "O preço foi até a prateleira dos 60,7 mil e voltou de lá pela segunda vez no dia. O Bitcoin segue na faixa dos 60 mil num dia que ainda carrega queda de 5,4%, e o volume de posições encolheu em vez de crescer.",
+      "caption": "O avanço da manhã bateu em 60,7 mil sem passar, e a faixa de baixo subiu junto: sobrou menos espaço para o preço.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-24-11h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-24-11h33",
+      "slides": [
+        {
+          "title": "Duas recusas em 60,7 mil",
+          "body": "O avanço da manhã bateu em 60,7 mil sem passar, e a faixa de baixo subiu junto: sobrou menos espaço para o preço."
+        },
+        {
+          "title": "US$ 60,4 mil",
+          "body": "Δ1h +0,6% · Δ24h -5,4% · vol US$ 1,33 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A perna de baixa segue em pausa, sem virada confirmada; quem está comprado vem reduzindo posição · Smart Money: funding +0,0026% + L/S 2,50",
+          "source": "https://www.coinglass.com"
+        },
+        {
+          "title": "Entre 60,0 e 60,7 mil",
+          "body": "Suporte 60,0 mil (-0,7%) · Resistência 60,7 mil (+0,5%) · acima de 60,7, o próximo número é 61,2; abaixo de 60,0, volta à pauta dos 59,4",
+          "source": "https://www.binance.com"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-24-09h36",
       "date": "2026-11-24",
       "time": "09h36",
