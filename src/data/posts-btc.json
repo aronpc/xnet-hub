@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-23-23h33",
+      "date": "2026-11-23",
+      "time": "23h33",
+      "hook": "O Bitcoin passou nove horas indo e voltando entre 61,0 e 61,8 mil e, na noite de domingo, saiu pelo lado de baixo: a mínima de 24 horas veio em 60,4 mil e o preço segue em 60,7 mil. O detalhe é que a maioria das contas segue apostando na alta mesmo depois do recuo. É justamente esse pessoal saindo à força que deu velocidade ao movimento.",
+      "caption": "BTC em 60,7 mil · a faixa de 61,0 a 61,8 mil segurou o dia inteiro e não passou da noite\n\nLeia: https://xbtc.aronpc.dev/#2026-11-23-23h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-23-23h33",
+      "slides": [
+        {
+          "title": "Nove horas de vaivém e o preço deixou a faixa por baixo",
+          "body": "BTC em 60,7 mil · a faixa de 61,0 a 61,8 mil segurou o dia inteiro e não passou da noite"
+        },
+        {
+          "title": "US$ 60,7 mil",
+          "body": "Δ1h -1,5% · Δ24h +0,1% · vol US$ 1,71 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "A vela das 23h atravessou a base de 61,0 mil e cravou mínima de 24h em 60,4 mil, sem recuperação até agora · funding -0,0006% · L/S 2,86",
+          "source": "https://www.coinglass.com/Bitcoin"
+        },
+        {
+          "title": "61,1 mil é o teto a recuperar",
+          "body": "A base que cedeu ficou a 0,7% acima do preço · a mínima de 60,4 mil está a 0,4% de distância",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Atualização a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-23-15h39",
       "date": "2026-11-23",
       "time": "15h39",
