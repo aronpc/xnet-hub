@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-24",
+      "date": "2026-11-24",
+      "hook": "Skills e MCP em 24 de novembro",
+      "caption": "A cadeia de skills e servidores MCP ganhou linter de segurança e nota antes da instalação. E o roteamento de contexto deixou de ser estático. 12 pautas de hoje.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-24",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-24",
+      "slides": [
+        {
+          "title": "Skills e MCP em 24 de novembro",
+          "body": "A cadeia de skills e servidores MCP ganhou linter de segurança e nota antes da instalação. E o roteamento de contexto deixou de ser estático. 12 pautas de hoje."
+        },
+        {
+          "title": "Claude Code 2.1.331: Code Mode nos clouds e doctor com conectividade",
+          "body": "Release de 23/11 traz o Code Mode para sessões de terminal no Amazon Bedrock, Agent Platform (Google), Microsoft Foundry e Claude Platform on AWS; o gateway ganha oidc.groups_jsonpath (JSONPath RFC 9535 para extrair grupos); claude doctor passa a reportar se a API é alcançável, com status HTTP ou erro.",
+          "source": {
+            "label": "github.com/anthropics/claude-code",
+            "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331"
+          }
+        },
+        {
+          "title": "film-director-skill-plugin: o agente como diretor de cinema",
+          "body": "Uma skill e um plugin para coding agents fazerem cortes, proxies Blender e desenho de som, do roteiro ao filme; 120★ em 2 dias no dia 22.",
+          "source": {
+            "label": "github.com/memoryoffish/film-director-skill-plugin",
+            "url": "https://github.com/memoryoffish/film-director-skill-plugin"
+          }
+        },
+        {
+          "title": "Second Brain: uma memória para Claude, ChatGPT e Cursor",
+          "body": "Show HN no dia 23: memória única compartilhada entre assistentes diferentes via MCP, o que você ensina ao Claude aparece para o ChatGPT e o Cursor.",
+          "source": {
+            "label": "github.com/bhushan/getsecondbrain.io",
+            "url": "https://github.com/bhushan/getsecondbrain.io"
+          }
+        },
+        {
+          "title": "skill-scan: checagens estáticas de segurança para skills",
+          "body": "Show HN no dia 24 do Toolfence-scan: roda checks estáticos em skills de Cursor, Claude e Copilot antes de você instalar, padrões perigosos, permissões exageradas, chamadas suspeitas.",
+          "source": {
+            "label": "github.com/StockGorilla/skill-scan",
+            "url": "https://github.com/StockGorilla/skill-scan"
+          }
+        },
+        {
+          "title": "Minymaton: barramento MCP orientado a eventos em SQLite",
+          "body": "Show HN no dia 23: message bus entre agentes via MCP com eventos em SQLite, sem polling, cortando o desperdício de tokens de verificação periódica.",
+          "source": {
+            "label": "github.com/immutlex-dev/minymaton",
+            "url": "https://github.com/immutlex-dev/minymaton"
+          }
+        },
+        {
+          "title": "questionnaire: a skill que entrevista o agente antes da tarefa",
+          "body": "Skill (22/11, 33★) que pergunta ao coding agent sobre a tarefa dele e devolve as skills que ele deve carregar e as regras que deve seguir.",
+          "source": {
+            "label": "github.com/fazxes/questionnaire",
+            "url": "https://github.com/fazxes/questionnaire"
+          }
+        },
+        {
+          "title": "org-wiki: a org GitHub que se documenta sozinha",
+          "body": "Ferramenta no dia 22 que transforma uma organização GitHub em wiki de engenharia self-updating, com busca híbrida offline, interface web e MCP server; 17★.",
+          "source": {
+            "label": "github.com/sharifli4/org-wiki",
+            "url": "https://github.com/sharifli4/org-wiki"
+          }
+        },
+        {
+          "title": "A metacamada ganhou defesas",
+          "body": "Skill ganhou linter de segurança, e servidor MCP ganhou nota antes da instalação. O roteamento de contexto virou diálogo no início da sessão, e o wiki da organização se atualiza sozinho pelo histórico de commits. 7 de 12 pautas marcaram hoje."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-24",
       "date": "2026-11-24",
       "hook": "Projetos IA em 24 de novembro",
