@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-24-16h36",
+      "date": "2026-11-24",
+      "time": "16h36",
+      "hook": "Menos de uma hora foi o tempo que o Bitcoin passou acima dos 60 mil: o número foi devolvido e o preço voltou a 59,8 mil, com o dia ainda em queda de 2,6%.",
+      "caption": "A subida foi embora na velocidade em que chegou, e o dia segue nas mãos de quem vende.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-24-16h36",
+      "link": "https://xbtc.aronpc.dev/#2026-11-24-16h36",
+      "slides": [
+        {
+          "title": "60 mil foi visita rápida",
+          "body": "A subida foi embora na velocidade em que chegou, e o dia segue nas mãos de quem vende."
+        },
+        {
+          "title": "US$ 59,8 mil",
+          "body": "Δ1h −0,4% · Δ24h −2,6% · vol US$ 1,20 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Os 60 mil não seguraram e os topos do dia ficaram mais baixos · Smart Money: funding +0,0085% + L/S 2,51"
+        },
+        {
+          "title": "59,2 mil decide a próxima hora",
+          "body": "Suporte 59,2 mil (−0,9%) · Resistência 60,0 mil (+0,3%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-24-14h32",
       "date": "2026-11-24",
       "time": "14h32",
