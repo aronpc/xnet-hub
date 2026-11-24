@@ -2,6 +2,95 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-24",
+      "date": "2026-11-24",
+      "hook": "IA em 24 de novembro",
+      "caption": "O approve deixou de ser humano no mesmo dia em que o governo dos EUA decidiu quem comanda a Nvidia e um modelo assinou teorema formal. 13 pautas de hoje.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-24",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-24",
+      "slides": [
+        {
+          "title": "IA em 24 de novembro",
+          "body": "O approve deixou de ser humano no mesmo dia em que o governo dos EUA decidiu quem comanda a Nvidia e um modelo assinou teorema formal. 13 pautas de hoje."
+        },
+        {
+          "title": "Nvidia reintegra Jensen Huang por unanimidade",
+          "body": "O board votou a reintegração imediata de Jensen Huang como presidente, CEO e diretor em 23 de novembro, após input de níveis seniores do governo dos EUA que convenceu o conselho de que não há risco de segurança nacional. Colette Kress volta a ser só CFO; Harvey Jones segue como chair.",
+          "source": {
+            "label": "nvidianews.nvidia.com — 23 nov",
+            "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+          }
+        },
+        {
+          "title": "LeCun acusa Dario de inflar perigos para criminalizar modelos abertos",
+          "body": "Post de Yann LeCun, \"Dario está hipando os perigos para que modelos open-source fiquem ilegais e ele continue no controle\", virou o maior story do Hacker News do período, com 1.328 pontos e 738 comentários. No mesmo ciclo, a Reuters reporta que Trump via Huang como protetor dos modelos open-weight.",
+          "source": {
+            "label": "twitter.com/ylecun — 23 nov",
+            "url": "https://twitter.com/ylecun/status/2124550037912920090"
+          }
+        },
+        {
+          "title": "Anthropic publica VP ≠ VNP sobre todo corpo",
+          "body": "Um modelo interno de pesquisa da Anthropic descobriu que os circuitos para o polinômio do ciclo hamiltoniano exigem mais que m^(c·(log m)^(1/3)) portas; logo VP ⊊ VNP e VNP fora da clausura de VP. Paper e formalização em Lean 4 escritos por IA, sem revisão humana, com CI rechecando em um segundo kernel independente. Não resolve P vs NP. 288 pontos no Hacker News.",
+          "source": {
+            "label": "github.com/anthropics/formal-math — 23 nov",
+            "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp"
+          }
+        },
+        {
+          "title": "Claude Ship: agentes revisam, corrigem e aprovam PRs",
+          "body": "A Anthropic lançou o Claude Ship em beta em 23 de novembro: você abre o pull request e o Claude revisa, corrige e aprova as mudanças que a política do time permitir. No time do Claude Code, Claude escreve a maior parte do código; contas Enterprise elegíveis recebem pelo menos 10 mil dólares em créditos até janeiro de 2027.",
+          "source": {
+            "label": "claude.com — 23 nov",
+            "url": "https://claude.com/resources/articles/introducing-claude-ship"
+          }
+        },
+        {
+          "title": "Nadella admite: IDEs meio que desapareceram",
+          "body": "Em declaração repercutida pela Windows Latest, Satya Nadella reconheceu que o VS Code perdeu o posto de padrão em seis meses, depois de uma década no topo, por causa do Claude Code, e desenvolvedores relatam ter parado de abrir o editor.",
+          "source": {
+            "label": "windowslatest.com — 22 nov",
+            "url": "https://www.windowslatest.com/2026/11/23/the-thing-that-hit-us-satya-nadella-admits-vs-code-faded-in-six-months-after-a-decade-on-top-because-of-claude-code-and-some-developers-say-theyve-stopped-opening-it/"
+          }
+        },
+        {
+          "title": "OpenAI e Cisco lançam o Shirudo",
+          "body": "Runtime open-source lançado em 23 de novembro que gera shields baseados em eBPF para proteger sistemas Linux em execução enquanto o patch não chega. Em teste controlado, um shield gerado pelo Codex bloqueou um exploit Java4Shell contra um Elasticsearch rodando, sem restart. Greg Brockman defende: faz sentido construir em aberto.",
+          "source": {
+            "label": "openai.com — 23 nov",
+            "url": "https://openai.com/index/introducing-shirudo/"
+          }
+        },
+        {
+          "title": "Reddit: deixamos a IA aprovar PRs, eis o que aconteceu",
+          "body": "Post da engenharia do Reddit no r/RedditEng documenta a experiência de deixar agentes de IA aprovarem pull requests, com o que funcionou e o que quebrou, no dia 24 de novembro.",
+          "source": {
+            "label": "reddit.com/r/RedditEng — 24 nov",
+            "url": "https://www.reddit.com/r/RedditEng/comments/1y3wbkw/we_let_ai_approve_prs_at_reddit_heres_what/"
+          }
+        },
+        {
+          "title": "Bison-1: modelo de decisão 31B em pesos abertos",
+          "body": "A Baselabs pós-treinou a Gemma-4-31B para tarefas de decisão e publicou no Hugging Face como o número 1 entre decision models, no dia 23 de novembro.",
+          "source": {
+            "label": "huggingface.co/baselabs/bison-1 — 23 nov",
+            "url": "https://huggingface.co/baselabs/bison-1"
+          }
+        },
+        {
+          "title": "LLMs detectam injeções anteriores de conceito",
+          "body": "Paper no arXiv de 23 de novembro mostra que modelos conseguem detectar, no próprio estado latente, quando um conceito foi injetado anteriormente no contexto. 41 pontos no Hacker News.",
+          "source": {
+            "label": "arxiv.org — 23 nov",
+            "url": "https://arxiv.org/abs/2602.20031"
+          }
+        },
+        {
+          "title": "O approve saiu da mão humana",
+          "body": "O ciclo de código fecha sem humano no approve: o Claude Ship productiza o revisor e o Reddit publica a contraprova com dados reais. O governo dos EUA passou a decidir quem comanda a Nvidia e pendeu para o lado aberto da policy. E a autoria de ciência por modelo ganhou selo formal, com teorema em Lean 4 assinado por IA. 9 de 13 pautas marcaram hoje."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-23",
       "date": "2026-11-23",
       "hook": "Skills & MCP em 23 de novembro",
