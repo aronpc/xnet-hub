@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-25-19h31",
+      "date": "2026-11-25",
+      "time": "19h31",
+      "hook": "O avanço da tarde esbarrou no ponto mais alto do dia e devolveu o Bitcoin à linha dos 60 mil: opera a 60,0 mil dólares, com recuo de 0,4% na última hora e 0,1% no recorte de 24 horas. Leitura das 19h31.",
+      "caption": "A recuperação que saiu dos 58 mil parou em 60,5 mil, no topo do dia.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-25-19h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-25-19h31",
+      "slides": [
+        {
+          "title": "A decisão do dia está na marca de 60 mil",
+          "body": "A recuperação que saiu dos 58 mil parou em 60,5 mil, no topo do dia."
+        },
+        {
+          "title": "US$ 60,0 mil",
+          "body": "Δ1h −0,4% · Δ24h +0,1% · vol US$ 1,57 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Recusado no topo, o preço agora testa a linha de 60 mil · Smart Money: funding +0,010% + L/S 2,86"
+        },
+        {
+          "title": "O resto do dia passa por 60 mil",
+          "body": "Abaixo: 59,3 mil (−1,2%) · acima: 60,5 mil (+0,8%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-25-16h30",
       "date": "2026-11-25",
       "time": "16h30",
