@@ -2,6 +2,63 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-25",
+      "date": "2026-11-25",
+      "hook": "Panorama IA: 25 de novembro",
+      "caption": "Novembro termina com os labs brigando por prioridade em matemática e a Anthropic em queda na bolsa. No meio disso, dois motores que dá pra usar hoje. Oito destaques das 16 pautas do dia.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-25",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-25",
+      "slides": [
+        {
+          "title": "Panorama IA: 25 de novembro",
+          "body": "Novembro termina com os labs brigando por prioridade em matemática e a Anthropic em queda na bolsa. No meio disso, dois motores que dá pra usar hoje. Oito destaques das 16 pautas do dia."
+        },
+        {
+          "title": "OpenAI sustenta expoente 2,25 para multiplicação de matrizes",
+          "body": "Preprint de 24/11 do time de matemática do OpenAI afirma que o expoente da multiplicação de matrizes é 9/4, ou 2,25. A literatura trabalhava com limites perto de 2,37. Foi o maior story de research do HN do dia.",
+          "source": "github.com/openai/math"
+        },
+        {
+          "title": "GLM-5.4: o primeiro Loop Transformer da Z.ai",
+          "body": "750B de parâmetros, lançado em 23/11. São 28 camadas do GLM-5 com pesos compartilhados, executadas duas vezes por forward pass. Ganha visão multimodal, estreia na família, e vem com 50% mais quota no Z.ai Chat e no ZCode.",
+          "source": "marktechpost.com"
+        },
+        {
+          "title": "Bonsai 2.5 27B: agentic coding em 5,9 GB",
+          "body": "PrismML lançou em 24/11 o modelo ternário baseado no Qwen3.8 27B. Mantém o footprint de 5,9 GB e melhora agentic coding, tool use multi-turn e tarefas de múltiplos passos: menos turns, menos tokens, menos loops de thinking.",
+          "source": "prismml.com"
+        },
+        {
+          "title": "66 entrevistas sobre como o enterprise trabalha com IA",
+          "body": "Research da Anthropic com 66 entrevistas em 58 clientes enterprise. O valor vem de aumentar output, não de cortar custo. Quase nenhum layoff doméstico, mas menos contratações e corte de contractors, sobretudo offshore.",
+          "source": "anthropic.com/research/working-with-ai"
+        },
+        {
+          "title": "Ação da Anthropic cai abaixo do preço de IPO",
+          "body": "Três pregões após a estreia recorde de 17,1%, e um dia depois do greenshoe cheio, ANT caiu abaixo dos US$ 83 do IPO no premarket de 24/11. O Nasdaq segue em sell-off, com Nvidia e Anthropic entre as maiores quedas.",
+          "source": "bloomberg.com"
+        },
+        {
+          "title": "Tegmark: staff da Anthropic fala em dominar o mundo",
+          "body": "O físico do MIT Max Tegmark alega que funcionários da Anthropic falam abertamente sobre taking over the world. Declaração de 24/11, um dos maiores stories de policy do dia.",
+          "source": "novaramedia.com"
+        },
+        {
+          "title": "A Anthropic acusa minha empresa de destilar",
+          "body": "Thread de fundador no HN pede como provar que não destilou o Claude após acusação da Anthropic. O debate roda em torno de enforcement anti-distillation, evidência e devido processo.",
+          "source": "news.ycombinator.com"
+        },
+        {
+          "title": "Artifacts do Claude viram apps de desktop",
+          "body": "Desde 24/11, artifacts podem ser instalados como apps no Mac e no Windows, com janela e ícone próprios.",
+          "source": "claude.com"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Matemática feita por IA virou disputa de prioridade entre labs, com datas. Capacidade chega antes da avaliação, como no design de proteínas do GPT-6. Regulação vem dos estados, processando o provedor pelo output do modelo. E o mercado puniu o IPO em três pregões. Para a casa: GLM-5.4 e o agente local de 5,9 GB entram no radar."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-24",
       "date": "2026-11-24",
       "hook": "Skills e MCP em 24 de novembro",
