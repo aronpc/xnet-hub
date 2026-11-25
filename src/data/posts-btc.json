@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-25-09h35",
+      "date": "2026-11-25",
+      "time": "09h35",
+      "hook": "De manhã o Bitcoin tocou 58,4 mil dólares, o menor preço das últimas 24 horas, e voltou logo depois. No período, o recuo soma 2,2%.",
+      "caption": "Há três horas a menor marca era 58,6 mil; a leitura das 09h35 já aponta 58,4 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-25-09h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-25-09h35",
+      "slides": [
+        {
+          "title": "O fundo do dia mudou de lugar",
+          "body": "Há três horas a menor marca era 58,6 mil; a leitura das 09h35 já aponta 58,4 mil."
+        },
+        {
+          "title": "US$ 58,7 mil",
+          "body": "Δ1h +0,2% · Δ24h −2,2% · vol US$ 1,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Recuo de 2,2% no dia, preço colado no fundo novo · Smart Money: funding +0,008% + L/S 2,72",
+          "source": "https://www.binance.com/en/futures/BTCUSDT"
+        },
+        {
+          "title": "O fundo novo é a referência da hora",
+          "body": "Fundo de 24h em 58.456 (−0,4%) · teto local em 59,5 mil (+1,4%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-25-06h35",
       "date": "2026-11-25",
       "time": "06h35",
