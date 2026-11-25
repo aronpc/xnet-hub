@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-25-00h34",
+      "date": "2026-11-25",
+      "time": "00h34",
+      "hook": "A quarta começou melhor do que a terça terminou: US$ 59,5 mil na leitura de 00h34, um rebote de 0,9% desde o mínimo das últimas 24 horas. A queda travou, mas ainda não virou recuperação.",
+      "caption": "O preço saiu do mínimo de 24h (US$ 58.952) e segurou os 59,5 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-25-00h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-25-00h34",
+      "slides": [
+        {
+          "title": "A queda deu uma trégua",
+          "body": "O preço saiu do mínimo de 24h (US$ 58.952) e segurou os 59,5 mil."
+        },
+        {
+          "title": "US$ 59,5 mil",
+          "body": "Δ1h +0,5% · Δ24h −1,5% · vol US$ 1,1 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "A baixa da noite virou neutralidade depois do rebote, e 73% das contas seguem do lado da alta · Smart Money: funding +0,008% + L/S 2,65",
+          "source": "https://www.binance.com/en/futures/BTCUSDT"
+        },
+        {
+          "title": "59,8 mil divide a madrugada",
+          "body": "Mínimo 24h em 58.952 (−0,9%) · teto 4h em 60,0 mil (+0,9%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-24-23h32",
       "date": "2026-11-24",
       "time": "23h32",
