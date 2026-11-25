@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-24-23h32",
+      "date": "2026-11-24",
+      "time": "23h32",
+      "hook": "A terça acabou com o Bitcoin no menor preço do dia, US$ 59,2 mil, 1,9% abaixo de ontem à noite. Às 23h32 a queda marcou um mínimo novo nas últimas 24 horas, e o preço não saiu de perto dali.",
+      "caption": "A queda tocou US$ 58.952; o BTC segue a 0,4% desse valor.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-24-23h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-24-23h32",
+      "slides": [
+        {
+          "title": "Colado no chão do dia",
+          "body": "A queda tocou US$ 58.952; o BTC segue a 0,4% desse valor."
+        },
+        {
+          "title": "US$ 59,2 mil",
+          "body": "Δ1h −0,2% · Δ24h −1,9% · vol US$ 1,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "O volume de contratos subiu enquanto o preço caía: dinheiro novo entrando na queda, com 73% das contas do lado da alta · Smart Money: funding +0,008% + L/S 2,65",
+          "source": "https://www.binance.com/en/futures/BTCUSDT"
+        },
+        {
+          "title": "59,1 mil decide a próxima hora",
+          "body": "O espaço da hora vai de 58.952 (−0,4%) a 60,5 mil (+2,2%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-24-21h38",
       "date": "2026-11-24",
       "time": "21h38",
