@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-24-21h38",
+      "date": "2026-11-24",
+      "time": "21h38",
+      "hook": "Depois de um dia inteiro equilibrado entre 59 e 60 mil, a leitura das 21h38 virou baixista: preço em 59,6 mil, queda de 2,4% no dia e sentimento no medo extremo.",
+      "caption": "O preço terminou rente ao fundo do canal das últimas 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-24-21h38",
+      "link": "https://xbtc.aronpc.dev/#2026-11-24-21h38",
+      "slides": [
+        {
+          "title": "A faixa cedeu",
+          "body": "O preço terminou rente ao fundo do canal das últimas 24 horas."
+        },
+        {
+          "title": "US$ 59,6 mil",
+          "body": "Δ1h −0,4% · Δ24h −2,4% · vol US$ 1,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Máximas mais baixas a cada leitura e 72% das contas ainda posicionadas para alta num dia de queda · Smart Money: funding +0,007% + L/S 2,57",
+          "source": "https://www.binance.com/en/futures/BTCUSDT"
+        },
+        {
+          "title": "59,6 mil é a linha da hora",
+          "body": "Apoio 24h em 59,0 mil (−1,1%) · Teto do canal em 60,5 mil (+1,5%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "Leitura atualizada a cada hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-24-18h38",
       "date": "2026-11-24",
       "time": "18h38",
