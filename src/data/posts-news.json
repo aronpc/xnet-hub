@@ -2,6 +2,53 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-25",
+      "date": "2026-11-25",
+      "hook": "Skills e MCP: 25 de novembro",
+      "caption": "Skills viraram canal de distribuição e o produto mais quente do GitHub, no mesmo dia. O lado feio: 15 mil servers públicos auditados, zero governança. Seis destaques de oito pautas.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-25",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-25",
+      "slides": [
+        {
+          "title": "Skills e MCP: 25 de novembro",
+          "body": "Skills viraram canal de distribuição e o produto mais quente do GitHub, no mesmo dia. O lado feio: 15 mil servers públicos auditados, zero governança. Seis destaques de oito pautas."
+        },
+        {
+          "title": "MCP servers passam a distribuir skills",
+          "body": "Beta público anunciado em 24/11: servers entregam skills junto com as tools. Tasks e Elicitation ficaram GA, e File Uploads começou a rollout. O SDK do MCP passa de 700 milhões de downloads por mês.",
+          "source": "claude.com"
+        },
+        {
+          "title": "Claude Code 2.1.332: skills do server no menu",
+          "body": "Release de 25/11 carrega skills vindas de MCP servers, em beta. Elas aparecem como server:skill no menu de barras, no fluxo nativo de invocação.",
+          "source": "github.com/anthropics/claude-code"
+        },
+        {
+          "title": "Trending do GitHub dominado por agent skills",
+          "body": "No trending de 24 e 25/11, o topo virou skills: diagram-design com 52 tipos de diagrama editorial, last30days-skill que pesquisa um tema em Reddit, X, YouTube, HN e Polymarket, e stitch-skills, do Google Labs. Os três repos somam mais de 150 mil estrelas.",
+          "source": "github.com/trending"
+        },
+        {
+          "title": "Claude-BugHunter: 84 skills de bug hunting",
+          "body": "Número 1 do trending em 24/11: bundle com 84 skills, 15 slash commands e discussões documentadas para bug hunting e red team externo no Claude Code.",
+          "source": "github.com/elementalsouls/Claude-BugHunter"
+        },
+        {
+          "title": "15.465 MCP servers, zero governança",
+          "body": "Auditoria da OX Security em 24/11: os servers publicados colapsam em cerca de 5.095 hostnames únicos. 15,6% resolvem fora dos EUA, incluindo China e Rússia, e 0,45% rodam em conexões residenciais.",
+          "source": "ox.security"
+        },
+        {
+          "title": "anti-slop: skills que ensinam o agente a não escrever slop",
+          "body": "Repo novo das últimas 48h: coleção de skills que ensina coding agents a escrever código simples, legível e honesto em TypeScript, Node.js e Java.",
+          "source": "github.com/hikariming/anti-slop"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Skills viraram canal de distribuição de comportamento, e o gargalo da casa nunca foi falta de skill: o digest de hoje contabiliza 39 skills com mais de 90 dias e 46 órfãs. Do lado do risco, 15 mil servers públicos sem guardrails, agora distribuindo código."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-25",
       "date": "2026-11-25",
       "hook": "Projetos e repos: 25 de novembro",
