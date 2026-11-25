@@ -2,6 +2,58 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-25",
+      "date": "2026-11-25",
+      "hook": "Projetos e repos: 25 de novembro",
+      "caption": "O círculo da IA local se fecha: apareceu motor de treino no compute ocioso e compressão quase 3x. Agent cloud self-hosted ganha duas opções, e a memória user-owned ganha um contrato para copiar. Sete destaques de oito pautas.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-25",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-25",
+      "slides": [
+        {
+          "title": "Projetos e repos: 25 de novembro",
+          "body": "O círculo da IA local se fecha: apareceu motor de treino no compute ocioso e compressão quase 3x. Agent cloud self-hosted ganha duas opções, e a memória user-owned ganha um contrato para copiar. Sete destaques de oito pautas."
+        },
+        {
+          "title": "songe: fine-tune no compute ocioso da sua máquina",
+          "body": "Treina e fine-tuna modelos locais usando o compute ocioso da própria máquina. Criado em 20/11, já tem 721 estrelas e virou front page do HN.",
+          "source": "github.com/sous-labs/songe"
+        },
+        {
+          "title": "NariQ: Qwen3.8-27B em 10 GB com qualidade BF16",
+          "body": "Formato do nari-labs publicado no Hugging Face em 20/11: o Qwen3.8-27B comprimido num arquivo de 10 GB mantendo a qualidade de BF16. Front page do HN em 23/11.",
+          "source": "huggingface.co/nari-labs"
+        },
+        {
+          "title": "Facebook Research abre o AgentBox",
+          "body": "Repo novo de 24/11: orquestrador de containers distribuído para agentes de IA, com código aberto saindo de um time de research de peso.",
+          "source": "github.com/facebookresearch/agentbox"
+        },
+        {
+          "title": "PenGPT: transformer que escreve à mão",
+          "body": "Sam Greydanus treinou um transformer em trajetórias de caneta. O modelo gera escrita à mão e sketches como movimento, não como imagem. Blog de 12/11 que explodiu no HN hoje.",
+          "source": "greydanus.github.io"
+        },
+        {
+          "title": "Brickie: sandboxes duráveis na sua própria cloud",
+          "body": "O time do Hatchet lançou no Show HN de 24/11. Roda sandboxes duráveis para agentes na própria conta AWS ou cluster k8s do usuário.",
+          "source": "github.com/hatchet-dev/brickie"
+        },
+        {
+          "title": "Genesis: mapa de fluxos marca o risco das mudanças do agente",
+          "body": "Transforma o codebase em mapa de fluxos de negócio e marca quais mudanças feitas pelo coding agent estão sem teste ou são arriscadas.",
+          "source": "github.com/GenesisAgentInfra/genesis"
+        },
+        {
+          "title": "lifestream: registro da sua vida, legível só pelos agentes que você escolher",
+          "body": "Repo novo de 24/11: um registro da vida do usuário, atualizado conforme ele vive, de propriedade dele, legível apenas pelos agentes que ele escolher.",
+          "source": "github.com/shlokkhemani/lifestream"
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A IA local ganha a metade que faltava: treino no compute ocioso e compressão quase 3x completam a inferência que já existia. Agent cloud self-hosted tem duas opções novas, AgentBox e Brickie. E a memória user-owned espelha o contrato que devclaw e anchored perseguem."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-25",
       "date": "2026-11-25",
       "hook": "Panorama IA: 25 de novembro",
