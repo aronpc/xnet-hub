@@ -2,6 +2,37 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-25-16h30",
+      "date": "2026-11-25",
+      "time": "16h30",
+      "hook": "O dia cruzou a linha dos 60 mil: o Bitcoin opera a 60,1 mil dólares, colado no teto das últimas 24 horas, em 60,4 mil. A queda da manhã virou uma leve alta no acumulado do dia. Leitura das 16h30.",
+      "caption": "Perto do meio-dia o preço visitou os 57 mil; agora está a 60,1 mil, a um passo do topo das últimas 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-25-16h30",
+      "link": "https://xbtc.aronpc.dev/#2026-11-25-16h30",
+      "slides": [
+        {
+          "title": "Cruzou os 60 mil e foi bater no limite do dia",
+          "body": "Perto do meio-dia o preço visitou os 57 mil; agora está a 60,1 mil, a um passo do topo das últimas 24 horas."
+        },
+        {
+          "title": "US$ 60,1 mil",
+          "body": "Δ1h +0,77% · Δ24h +0,54% · vol US$ 1,48 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Subiu na última hora e chegou ao topo do dia · Smart Money: funding +0,009% + L/S 2,92"
+        },
+        {
+          "title": "Faltam 0,5% para o teto de 60,4 mil",
+          "body": "Embaixo: 57,3 mil (−4,7%) · em cima: 60,4 mil (+0,5%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-25-14h31",
       "date": "2026-11-25",
       "time": "14h31",
