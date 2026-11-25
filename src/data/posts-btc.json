@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-25-10h34",
+      "date": "2026-11-25",
+      "time": "10h34",
+      "hook": "A queda nas últimas 24 horas chegou a 3,2% e o Bitcoin opera em 58,5 mil dólares, no degrau mais baixo da faixa do dia. De recuperação, nada ainda.",
+      "caption": "O preço circula pelo trecho de baixo da faixa de 24 horas, entre 58,2 mil e 60,7 mil.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-25-10h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-25-10h34",
+      "slides": [
+        {
+          "title": "O recuo ganhou força",
+          "body": "O preço circula pelo trecho de baixo da faixa de 24 horas, entre 58,2 mil e 60,7 mil."
+        },
+        {
+          "title": "US$ 58,5 mil",
+          "body": "Δ1h −0,3% · Δ24h −3,2% · vol US$ 1,2 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Queda de 3,2% em 24h, preço encostado no fundo da faixa · Smart Money: funding leve positivo + L/S 2,71",
+          "source": "https://www.binance.com/en/futures/BTCUSDT"
+        },
+        {
+          "title": "58,2 mil é a linha do momento",
+          "body": "Marca de baixo: 58,2 mil (−0,5%) · marca de cima: 59,5 mil (+1,7%)"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-25-09h35",
       "date": "2026-11-25",
       "time": "09h35",
