@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-26",
+      "date": "2026-11-26",
+      "hook": "Projetos e repos: 26 de novembro",
+      "caption": "A interface entre agente e software é a pauta do dia. Um projeto de 65 mil estrelas aposta a linha de comando como camada universal, o Cursor abre ecossistema de plugins e a Xiaomi estrutura memória no nível do sistema. Sete destaques das 9 pautas.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-26",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-26",
+      "slides": [
+        {
+          "title": "Projetos e repos: 26 de novembro",
+          "body": "A interface entre agente e software é a pauta do dia. Um projeto de 65 mil estrelas aposta a linha de comando como camada universal, o Cursor abre ecossistema de plugins e a Xiaomi estrutura memória no nível do sistema. Sete destaques das 9 pautas."
+        },
+        {
+          "title": "CLI-Anything: todo software virando CLI",
+          "body": "O laboratório HKUDS está no trending do GitHub com um projeto que transforma qualquer software em CLI operável por agentes, via CLI-Hub em clianything.cc. São 65.789 estrelas e último push em 20/11.",
+          "source": {
+            "label": "github.com/HKUDS · 26 nov",
+            "url": "https://github.com/HKUDS/CLI-Anything"
+          }
+        },
+        {
+          "title": "Cursor publica spec de plugins",
+          "body": "O repo cursor/plugins documenta a especificação de plugins do editor e os plugins oficiais: 19,6 mil estrelas, push em 25/11 e lugar no trending de hoje.",
+          "source": {
+            "label": "github.com/cursor · 26 nov",
+            "url": "https://github.com/cursor/plugins"
+          }
+        },
+        {
+          "title": "AutoClip: clipping de vídeo open-source explode",
+          "body": "App desktop chinês open-source que corta podcasts, aulas e entrevistas longas em shorts, com legenda, capa e copy de publicação para Douyin, TikTok, Reels e Shorts. São 16,3 mil estrelas crescendo a ~880 por dia.",
+          "source": {
+            "label": "github.com/zhouxiaoka · 26 nov",
+            "url": "https://github.com/zhouxiaoka/autoclip"
+          }
+        },
+        {
+          "title": "opensre: agente open-source de SRE",
+          "body": "A Tracer-Cloud lançou o opensre, um agente open-source para confiabilidade de CI/CD. São 15,6 mil estrelas, push hoje e vaga no trending.",
+          "source": {
+            "label": "github.com/Tracer-Cloud · 26 nov",
+            "url": "https://github.com/Tracer-Cloud/opensre"
+          }
+        },
+        {
+          "title": "Xiaomi abre o os-memory",
+          "body": "Repo criado em 25/11 que converte registros fragmentados entre apps do celular em memória rastreável para agentes on-device.",
+          "source": {
+            "label": "github.com/XiaoMi · 25 nov",
+            "url": "https://github.com/XiaoMi/os-memory"
+          }
+        },
+        {
+          "title": "OpenEight: controle determinístico de agentes",
+          "body": "Lançamento no Product Hunt em 25/11 de uma camada de controle determinística para equipes confiarem trabalho real a agentes de IA.",
+          "source": {
+            "label": "producthunt.com · 25 nov",
+            "url": "https://www.producthunt.com/products/openeight"
+          }
+        },
+        {
+          "title": "Carry: conversas de IA salvas em Markdown",
+          "body": "Show HN de 25/11 de um app que arquiva conversas de Claude, ChatGPT e outros como Markdown numa pasta controlada pelo usuário.",
+          "source": {
+            "label": "carry.md · 25 nov",
+            "url": "https://carry.md/"
+          }
+        },
+        {
+          "title": "A camada de integração se decide",
+          "body": "O dia testou três caminhos: linha de comando como interface universal para agentes, plugins como ecossistema de editor e memória dentro do sistema operacional. Junto deles, posse de dados e controle determinístico viraram produto pronto. A briga agora é pela camada que liga o agente ao software que ele opera."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-26",
       "date": "2026-11-26",
       "hook": "Panorama IA: 26 de novembro",
