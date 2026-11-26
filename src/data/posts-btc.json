@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-26-03h31",
+      "date": "2026-11-26",
+      "time": "03h31",
+      "hook": "O repique que levou o Bitcoin de volta à casa dos 61 mil na madrugada perdeu força: o preço recua para 60,5 mil, queda de 0,8% na última hora. O teto do dia segue a 1,6% de distância e a leitura deixa de ser de alta, voltando ao lateral. Nas 24 horas ainda sobra um ganho de 3,3%. Leitura das 03h31.",
+      "caption": "Recuo de 0,8% na última hora devolve o quadro lateral; nas 24h o ganho segue em 3,3%\n\nLeia: https://xbtc.aronpc.dev/#2026-11-26-03h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-26-03h31",
+      "slides": [
+        {
+          "title": "O repique esbarrou nos 61 mil",
+          "body": "Recuo de 0,8% na última hora devolve o quadro lateral; nas 24h o ganho segue em 3,3%"
+        },
+        {
+          "title": "US$ 60,5 mil",
+          "body": "Δ1h −0,78% · Δ24h +3,27% · vol US$ 1,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "O empurrão da madrugada não passou de 61 mil; o preço segue na banda alta do dia (57,3 a 61,6 mil) · Smart Money: funding +0,009% + L/S 2,62",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O teto de 61,5 mil segue firme",
+          "body": "Topo: 61,5 mil (+1,6%) · Piso: 57,0 mil (−5,8%) · referências seguintes: 62 mil e 56,5 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-26-01h35",
       "date": "2026-11-26",
       "time": "01h35",
