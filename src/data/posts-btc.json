@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-26-13h33",
+      "date": "2026-11-26",
+      "time": "13h33",
+      "hook": "O recuo do meio-dia durou pouco: Bitcoin voltou aos 60,5 mil dólares e o dia ficou apertado entre 60,0 e 60,9 mil. A última hora mexeu só 0,25%; no acumulado de 24 horas o ganho é de 1,46%. Leitura das 13h33.",
+      "caption": "A queda da hora do almoço não passou disso\n\nLeia: https://xbtc.aronpc.dev/#2026-11-26-13h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-26-13h33",
+      "slides": [
+        {
+          "title": "Bitcoin devolve a queda do almoço e segura 60,5 mil",
+          "body": "A queda da hora do almoço não passou disso"
+        },
+        {
+          "title": "US$ 60,5 mil",
+          "body": "Δ1h +0,25% · Δ24h +1,46% · vol US$ 1,27 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "De volta ao meio do canal de 24h (58,5 a 61,6 mil) depois do susto · Smart money: funding +0,005% + L/S 2,43",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Uma faixa de 900 dólares decide a tarde",
+          "body": "Piso 60,0 mil (−0,8%) · Teto 60,9 mil (+0,8%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-26-12h34",
       "date": "2026-11-26",
       "time": "12h34",
