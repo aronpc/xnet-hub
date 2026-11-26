@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-26-04h32",
+      "date": "2026-11-26",
+      "time": "04h32",
+      "hook": "A madrugada acabou em silêncio. O Bitcoin mal se mexeu na última hora, variação de 0,05%, e segue em 60,5 mil dólares, na parte de cima da faixa do dia. O balanço de 24 horas ainda mostra alta de 1,8%. Leitura das 04h32.",
+      "caption": "Variação de 0,05% na última hora; nas 24h o ganho é de 1,8%\n\nLeia: https://xbtc.aronpc.dev/#2026-11-26-04h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-26-04h32",
+      "slides": [
+        {
+          "title": "Bitcoin quase sem movimento na casa dos 60 mil",
+          "body": "Variação de 0,05% na última hora; nas 24h o ganho é de 1,8%"
+        },
+        {
+          "title": "US$ 60,5 mil",
+          "body": "Δ1h −0,05% · Δ24h +1,77% · vol US$ 1,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço no andar de cima da faixa de 24h (57,3 a 61,6 mil), quase sem variação de hora em hora · Smart Money: funding +0,008% + L/S 2,54",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "Onde o dia pode se decidir",
+          "body": "De cima: 61,5 mil (+1,7%) e depois 62 mil · De baixo: 57,0 mil (−5,7%) e depois 56,5 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-26-03h31",
       "date": "2026-11-26",
       "time": "03h31",
