@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-26-00h30",
+      "date": "2026-11-26",
+      "time": "00h30",
+      "hook": "Três em cada quatro contas seguem posicionadas na alta enquanto o Bitcoin tira o pé da máxima do dia: opera a 60,7 mil dólares, com recuo de 0,4% na última hora. O dia fechou no azul, com alta de 2,4% nas últimas 24 horas. Leitura das 00h30.",
+      "caption": "74% das contas apostam na alta e o preço devolve terreno perto da máxima de 61,6 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-11-26-00h30",
+      "link": "https://xbtc.aronpc.dev/#2026-11-26-00h30",
+      "slides": [
+        {
+          "title": "A multidão comprou; o preço parou",
+          "body": "74% das contas apostam na alta e o preço devolve terreno perto da máxima de 61,6 mil"
+        },
+        {
+          "title": "US$ 60,7 mil",
+          "body": "Δ1h −0,4% · Δ24h +2,4% · vol US$ 1,58 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Depois do rali da noite, o preço recua da máxima e segue sem direção · Smart Money: funding +0,009% + L/S 2,82",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "A faixa estreita da madrugada",
+          "body": "Embaixo: 60,4 mil (−0,5%) · em cima: 61,6 mil (+1,5%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-25-21h33",
       "date": "2026-11-25",
       "time": "21h33",
