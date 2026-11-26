@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-26-01h35",
+      "date": "2026-11-26",
+      "time": "01h35",
+      "hook": "O Bitcoin opera a 60,9 mil dólares na madrugada, com alta de 0,4% na última hora e 3,2% nas últimas 24. O preço voltou à metade de cima da faixa do dia, a pouco menos de 1% do topo de 61,5 mil. O humor do mercado, esse, segue em medo extremo: índice 11 numa escala de 0 a 100. Preço em cima e medo lá embaixo não é o quadro habitual. Leitura das 01h35.",
+      "caption": "Recuperação devolve o Bitcoin à parte alta da faixa, com o humor ainda travado em medo extremo\n\nLeia: https://xbtc.aronpc.dev/#2026-11-26-01h35",
+      "link": "https://xbtc.aronpc.dev/#2026-11-26-01h35",
+      "slides": [
+        {
+          "title": "Sobe o preço, persiste o medo",
+          "body": "Recuperação devolve o Bitcoin à parte alta da faixa, com o humor ainda travado em medo extremo"
+        },
+        {
+          "title": "US$ 60,9 mil",
+          "body": "Δ1h +0,39% · Δ24h +3,16% · vol US$ 1,6 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Preço na metade de cima da faixa de 24h (57,3 a 61,6 mil), com força nova na última hora · Smart Money: funding +0,009% + L/S 2,77",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "61,5 mil é o degrau seguinte",
+          "body": "Embaixo: 57,0 mil (−6,5%) · em cima: 61,5 mil (+0,9%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-26-00h30",
       "date": "2026-11-26",
       "time": "00h30",
