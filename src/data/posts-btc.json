@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-25-20h31",
+      "date": "2026-11-25",
+      "time": "20h31",
+      "hook": "A pressão vendedora da virada das 19h levou o preço até os 60 mil e parou ali: três fechamentos seguidos por cima do número e o Bitcoin de volta a 60,1 mil dólares. Agora o preço caminha para 60,5 mil, região que já freou uma subida hoje de manhã. Leitura das 20h31.",
+      "caption": "O número redondo segurou às 19h; agora o preço volta a subir na direção do topo das últimas 24 horas.\n\nLeia: https://xbtc.aronpc.dev/#2026-11-25-20h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-25-20h31",
+      "slides": [
+        {
+          "title": "A queda testou 60 mil e não passou",
+          "body": "O número redondo segurou às 19h; agora o preço volta a subir na direção do topo das últimas 24 horas."
+        },
+        {
+          "title": "US$ 60,1 mil",
+          "body": "Δ1h +0,23% · Δ24h +0,31% · vol US$ 1,58 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "60 mil segurou o teste e o preço voltou a subir dentro da faixa de 57,3 a 60,5 mil · Smart Money: funding +0,009% + L/S 2,79 aliviando",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O topo de 60,5 mil de novo no caminho",
+          "body": "Abaixo: 60 mil (−0,3%) e depois 59,3 mil · acima: 60,5 mil (+0,6%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-25-19h31",
       "date": "2026-11-25",
       "time": "19h31",
