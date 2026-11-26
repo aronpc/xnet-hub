@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-25-21h33",
+      "date": "2026-11-25",
+      "time": "21h33",
+      "hook": "BTC a 60,7 mil · subiu 1% na última hora e encostou na máxima de 24 h",
+      "caption": "80% da faixa do dia já foi percorrida e o preço insiste na parte de cima\n\nLeia: https://xbtc.aronpc.dev/#2026-11-25-21h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-25-21h33",
+      "slides": [
+        {
+          "title": "Encostado no limite do dia",
+          "body": "80% da faixa do dia já foi percorrida e o preço insiste na parte de cima"
+        },
+        {
+          "title": "US$ 60,7 mil",
+          "body": "Δ1h +0,98% · Δ24h +2,03% · vol US$ 1,54 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "ALTA",
+          "body": "Compra firme na parte mais alta do dia, com volume acompanhando · Smart Money: funding +0,007% + L/S 2,82",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "61,6 mil decide a noite",
+          "body": "Embaixo: 57,5 mil (−5,3%) · em cima: 61,6 mil (+1,4%)",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-25-20h31",
       "date": "2026-11-25",
       "time": "20h31",
