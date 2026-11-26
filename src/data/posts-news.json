@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-26",
+      "date": "2026-11-26",
+      "hook": "Skills e MCP: 26 de novembro",
+      "caption": "O ecossistema de skills ganhou chancela do Google Labs, que publicou biblioteca no padrão aberto. Do outro lado, os primeiros números duros de saturação: quase 30% das 32 mil skills rastreadas nunca foram instaladas. Sete destaques das 9 pautas.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-26",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-26",
+      "slides": [
+        {
+          "title": "Skills e MCP: 26 de novembro",
+          "body": "O ecossistema de skills ganhou chancela do Google Labs, que publicou biblioteca no padrão aberto. Do outro lado, os primeiros números duros de saturação: quase 30% das 32 mil skills rastreadas nunca foram instaladas. Sete destaques das 9 pautas."
+        },
+        {
+          "title": "Inkworks: páginas 3D 'como funciona'",
+          "body": "Skill criada em 25/11 que gera páginas interativas 3D estilo prancheta de engenharia explicando como coisas funcionam. Fez 239 estrelas nas primeiras 24 horas, a skill nova mais quente do dia.",
+          "source": {
+            "label": "github.com/Moh4696 · 25 nov",
+            "url": "https://github.com/Moh4696/inkworks-skill"
+          }
+        },
+        {
+          "title": "UX Pilot aposta na skill multi-agente",
+          "body": "Skill gratuita de 25/11 para Claude Code, Codex e Cursor que desenha a UI num canvas do UX Pilot e depois constrói o código. 155 estrelas no dia de estreia.",
+          "source": {
+            "label": "github.com/uxpilot-ai · 25 nov",
+            "url": "https://github.com/uxpilot-ai/frontend-design-skill"
+          }
+        },
+        {
+          "title": "last30days: 75 mil estrelas numa skill",
+          "body": "A skill do mvanhorn pesquisa um tema dos últimos 30 dias em Reddit, X, YouTube, HN, Polymarket e web, e devolve síntese fundamentada com fontes. São 75.214 estrelas, push em 25/11 e trending hoje.",
+          "source": {
+            "label": "github.com/mvanhorn · 26 nov",
+            "url": "https://github.com/mvanhorn/last30days-skill"
+          }
+        },
+        {
+          "title": "Google Labs publica stitch-skills",
+          "body": "Biblioteca oficial de Agent Skills do Google Labs para o servidor MCP Stitch, seguindo o padrão aberto Agent Skills para compatibilidade com qualquer agente de código. São 13 mil estrelas e trending hoje.",
+          "source": {
+            "label": "github.com/google-labs-code · 26 nov",
+            "url": "https://github.com/google-labs-code/stitch-skills"
+          }
+        },
+        {
+          "title": "Zapier libera MCP grátis até 5 de janeiro",
+          "body": "A Zapier anunciou em 25/11 chamadas de ferramenta MCP gratuitas até 5 de janeiro no zapier.com/mcp, acesso aberto ao ecossistema de automação dela via agentes.",
+          "source": {
+            "label": "zapier.com/mcp · 25 nov",
+            "url": "https://zapier.com/mcp"
+          }
+        },
+        {
+          "title": "Versine: MCP para mover dinheiro",
+          "body": "Launch HN de 24/11, com 104 pontos e 103 comentários, do servidor MCP da Versine que dá ao agente capacidade de enviar e receber dinheiro, com controles e trilhas de auditoria.",
+          "source": {
+            "label": "news.ycombinator.com · 24 nov",
+            "url": "https://news.ycombinator.com/item?id=50634426"
+          }
+        },
+        {
+          "title": "Censo: 29,8% das skills sem instalação",
+          "body": "O Agent Skill Decay Census de novembro mostra que quase 30% das 32.128 skills rastreadas não ganharam nenhum evento de instalação entre 14 e 19/11. No MCP, o censo de agosto não achou contagem de instalação para nenhum dos 8.433 servers; o ranking segue pelas estrelas do repo host.",
+          "source": {
+            "label": "skillselion.com · 26 nov",
+            "url": "https://skillselion.com/best"
+          }
+        },
+        {
+          "title": "Formato consolidado, curadoria em falta",
+          "body": "O padrão aberto de Agent Skills ganhou o Google e o mercado cross-harness; o Zapier joga preço zero para acelerar MCP. Do outro lado, 30% do catálogo nunca foi instalado, e o gargalo mudou de formato para curadoria. Decidir qual skill merece atenção virou o ativo escasso do ecossistema."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-26",
       "date": "2026-11-26",
       "hook": "Projetos e repos: 26 de novembro",
