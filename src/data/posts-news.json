@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-26",
+      "date": "2026-11-26",
+      "hook": "Panorama IA: 26 de novembro",
+      "caption": "Dia de contrapontos. O modelo geral iguala o especialista em biologia, a regulação preventiva ganha dentes na Austrália e a desconfiança com agentes comerciais viraliza no Hacker News. Sete destaques das 12 pautas do dia.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-26",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-26",
+      "slides": [
+        {
+          "title": "Panorama IA: 26 de novembro",
+          "body": "Dia de contrapontos. O modelo geral iguala o especialista em biologia, a regulação preventiva ganha dentes na Austrália e a desconfiança com agentes comerciais viraliza no Hacker News. Sete destaques das 12 pautas do dia."
+        },
+        {
+          "title": "GPT-6 desenha proteínas por raciocínio puro",
+          "body": "A OpenAI mostrou em 24/11 que a família GPT-6 cria estruturas e sequências de proteínas usando só raciocínio e código, sem nenhum modelo de biologia embutido. Em testes de laboratório com a Onava, proteínas desenhadas pelo GPT-6.2 ligaram a 5 alvos, e anticorpos redesenhados mantiveram a ligação.",
+          "source": {
+            "label": "OpenAI · 24 nov",
+            "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+          }
+        },
+        {
+          "title": "Austrália sanciona Digital Duty of Care",
+          "body": "A lei passou nas duas casas em 25/11 e obriga Google, Meta e plataformas de IA a identificar e reduzir danos on-line antes que aconteçam. Multa de até 5% da receita global anual, direito de processo para indivíduos e cerca de 12 meses até a fiscalização plena, em 2027.",
+          "source": {
+            "label": "AP · 25 nov",
+            "url": "https://apnews.com/article/australia-digital-duty-care-law-parliament-ec75eeb559e67465a6dbb1720bbbabe3"
+          }
+        },
+        {
+          "title": "Staffers temem modelos retidos como inseguros demais",
+          "body": "Scoop de 24/11: funcionários da Anthropic e da OpenAI têm receio de versões internas não lançadas, consideradas perigosas demais para liberar. O relato aparece no meio da onda de histórias de agentes desgarrados no mundo real.",
+          "source": {
+            "label": "Tech Yahoo · 24 nov",
+            "url": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html"
+          }
+        },
+        {
+          "title": "\"Agentes LLM trabalham para as empresas-mãe\"",
+          "body": "O ensaio de Michael Harley defende que o alinhamento do agente é com o fornecedor (telemetria, upsell, restrições). O texto explodiu no Hacker News em 24/11: 1.006 pontos e 410 comentários, a maior thread de IA do dia.",
+          "source": {
+            "label": "michaelharley.net · 24 nov",
+            "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
+          }
+        },
+        {
+          "title": "ProofAtlas ranqueia problemas abertos da matemática",
+          "body": "O projeto publicou em 25/11 um ranking dos open problems da matemática com importância atribuída por avaliação de LLMs, na esteira da temporada Riemann e Navier-Stokes.",
+          "source": {
+            "label": "proofatlas.ai · 25 nov",
+            "url": "https://www.proofatlas.ai/open-problems/"
+          }
+        },
+        {
+          "title": "Paradoxo de Jevons não paga o capex da IA",
+          "body": "Philipp Dubach argumenta em 24/11 que tokens mais baratos aumentam o consumo, sim, mas a receita marginal não cobre o capex gigante dos data centers. A demanda elástica não é infinita.",
+          "source": {
+            "label": "philippdubach.com · 24 nov",
+            "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/"
+          }
+        },
+        {
+          "title": "Sinfonia escrita com 35 bilhões de tokens",
+          "body": "Dan Price documentou em 25/11 o processo de compor uma sinfonia inteira gastando 35 bilhões de tokens do Claude Opus 5.5. O custo e o processo iterativo viraram o próprio assunto do relato.",
+          "source": {
+            "label": "danprice.ai · 25 nov",
+            "url": "https://danprice.ai/blog/opus-symphony"
+          }
+        },
+        {
+          "title": "A conta e a confiança sob pressão",
+          "body": "O modelo geral avança sobre o especialista, a regulação deixa de ser reativa e o usuário avançado passa a desconfiar do agente que atende ao fornecedor primeiro. Enquanto isso, a pergunta econômica endurece: uso crescente ainda paga o data center? O fio do dia é a tensão entre expansão da IA e quem controla a conta."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-25",
       "date": "2026-11-25",
       "hook": "Skills e MCP: 25 de novembro",
