@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-26-12h34",
+      "date": "2026-11-26",
+      "time": "12h34",
+      "hook": "Cinco horas parado e o Bitcoin resolveu: cedeu os 60,5 mil dólares e escorreu até 60,3 mil perto da hora do almoço. A queda da última hora é de 0,7%. No acumulado do dia o ganho de 2,9% segue de pé, só que menor. Leitura das 12h34.",
+      "caption": "Cinco horas de indecisão acabaram em venda\n\nLeia: https://xbtc.aronpc.dev/#2026-11-26-12h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-26-12h34",
+      "slides": [
+        {
+          "title": "Bitcoin cede 60,5 mil e recua a 60,3 mil dólares",
+          "body": "Cinco horas de indecisão acabaram em venda"
+        },
+        {
+          "title": "US$ 60,3 mil",
+          "body": "Δ1h −0,72% · Δ24h +2,93% · vol US$ 1,3 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Perdeu a faixa das 5 horas anteriores e acelerou até 60,3 mil, no terço de baixo do canal de 24h (58,1 a 61,6 mil) · Smart money: funding +0,004% + L/S 2,46",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "60 mil é a linha da tarde",
+          "body": "Suporte 60,0 mil (−0,5%) · Resistência 60,5 mil (+0,3%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-26-08h37",
       "date": "2026-11-26",
       "time": "08h37",
