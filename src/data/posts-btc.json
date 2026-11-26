@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-26-18h32",
+      "date": "2026-11-26",
+      "time": "18h32",
+      "hook": "Bitcoin passou o fim de tarde colado no limite de cima do canal de 24h: 60,8 mil dólares, a 0,3% do topo de 60,96 mil. São três fechamentos de hora seguidos em alta leve, de 60,7 a 60,9 mil. O índice de medo e ganância segue em 11, o quinto registro consecutivo no extremo. Leitura das 18h32.",
+      "caption": "As velas de 1h sobem devagar e o topo de 60,96 mil ficou a poucos dólares\n\nLeia: https://xbtc.aronpc.dev/#2026-11-26-18h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-26-18h32",
+      "slides": [
+        {
+          "title": "Preço encostado no topo do canal, medo lá embaixo",
+          "body": "As velas de 1h sobem devagar e o topo de 60,96 mil ficou a poucos dólares"
+        },
+        {
+          "title": "US$ 60,8 mil",
+          "body": "Δ1h +0,32% · Δ24h +0,90% · vol US$ 1,02 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Caminhou na direção do topo do canal de 24h (59,9 a 61,6 mil) sem fechar acima dele · Smart money: funding +0,010% + L/S 2,40",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "61 mil é a linha da noite",
+          "body": "Referência de baixo 60,4 mil (−0,7%) · topo 61,0 mil (+0,3%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-26-13h33",
       "date": "2026-11-26",
       "time": "13h33",
