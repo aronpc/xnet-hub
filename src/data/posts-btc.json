@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-27-14h33",
+      "date": "2026-11-27",
+      "time": "14h33",
+      "hook": "A recaptura dos 60 mil parou em 60,1 mil e virou meia-volta. São três velas seguidas com topos mais baixos, 60,1, 60,0 e 59,6 mil, e o preço agora roda a 59,8 mil, de novo abaixo da marca redonda. Os contratos abertos seguem cedendo devagar, sem entrada de dinheiro novo. Leitura das 14h33.",
+      "caption": "59,8 mil dólares, com queda de 0,52% na hora e de 1,16% em 24h\n\nLeia: https://xbtc.aronpc.dev/#2026-11-27-14h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-27-14h33",
+      "slides": [
+        {
+          "title": "Os 60 mil não ficaram: bitcoin volta aos 59,8 mil",
+          "body": "59,8 mil dólares, com queda de 0,52% na hora e de 1,16% em 24h"
+        },
+        {
+          "title": "US$ 59,8 mil",
+          "body": "Δ1h −0,52% · Δ24h −1,16% · vol US$ 1,23 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Topos cada vez mais baixos devolveram a leitura de queda · Smart money: funding +0,0005% · L/S 2,99 · OI 98,3 mil BTC, −0,4%",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O fundo do dia em 59,2 mil é a linha da hora",
+          "body": "Suporte 59,2 mil (−0,9%) · Resistência 60,1 mil (+0,6%) · preço a 1% do fundo de 24h"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-27-13h32",
       "date": "2026-11-27",
       "time": "13h32",
