@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-27-19h32",
+      "date": "2026-11-27",
+      "time": "19h32",
+      "hook": "O bitcoin passou o fim de tarde caindo devagar e fechou na mínima do dia, 59,7 mil dólares. Faz três horas que o preço não sai da faixa de 59,7 a 59,8 mil, sem um repique, num dia que abriu em 61,5 mil. O detalhe da noite: três de cada quatro contratos abertos continuam do lado da alta. Leitura das 19h32.",
+      "caption": "59,7 mil dólares, com queda de 0,1% na hora e de 1,3% no dia\n\nLeia: https://xbtc.aronpc.dev/#2026-11-27-19h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-27-19h32",
+      "slides": [
+        {
+          "title": "Queda devagar, sem repique: bitcoin na mínima do dia",
+          "body": "59,7 mil dólares, com queda de 0,1% na hora e de 1,3% no dia"
+        },
+        {
+          "title": "US$ 59,7 mil",
+          "body": "Δ1h −0,1% · Δ24h −1,3% · vol US$ 1,25 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Três horas travadas na faixa de 59,7 a 59,8 mil, direto na mínima do dia · Smart money: funding +0,008% · L/S 3,0, com 3 de cada 4 contas na alta",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A mínima de 24h, em 58,8 mil, está a 1,5%",
+          "body": "Abaixo dela, 57,5 mil na sequência · Retomando 60 mil (+0,5%), caminho até 61,5 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-27-16h32",
       "date": "2026-11-27",
       "time": "16h32",
