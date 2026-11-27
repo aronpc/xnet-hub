@@ -2,6 +2,53 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-27",
+      "date": "2026-11-27",
+      "hook": "Projetos e repos: 27 de novembro",
+      "caption": "Dia privacy-first e pós-Riemann. Um script de opt-out contra data brokers viraliza, um agente local aparece morando no celular e um benchmark de backdoors que enganam revisores LLM vira o destaque estratégico. Seis destaques das dez pautas do dia.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-27",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-27",
+      "slides": [
+        {
+          "title": "Projetos e repos: 27 de novembro",
+          "body": "Dia privacy-first e pós-Riemann. Um script de opt-out contra data brokers viraliza, um agente local aparece morando no celular e um benchmark de backdoors que enganam revisores LLM vira o destaque estratégico. Seis destaques das dez pautas do dia."
+        },
+        {
+          "title": "Script de opt-out contra data brokers fatura 436 estrelas",
+          "body": "Um script Python open-source que dispara pedidos de exclusão em massa contra data brokers viralizou no GitHub: 436 estrelas em cerca de dois dias, topo das buscas de MCP e agentes.",
+          "source": "github.com/gary23w/f-ck_data_brokers"
+        },
+        {
+          "title": "hermit: agente open-source que mora no seu celular",
+          "body": "Agente de IA que roda no telefone, processa tudo local e não manda telemetria nenhuma. A própria apresentação resume a proposta: faz tudo e não conta a ninguém.",
+          "source": "github.com/DojoCodingLabs/hermit"
+        },
+        {
+          "title": "Backdoors que passam por revisão de GPT-6 e Opus 5.5",
+          "body": "A prova de conceito hidden-in-plain-code planta backdoors em código escritos de forma a passar despercebidos pela revisão de GPT-6.x Sol e Opus 5.5.",
+          "source": "github.com/0x90sh/hidden-in-plain-code"
+        },
+        {
+          "title": "SlideForge: decks de IA viram PowerPoint editável",
+          "body": "Ferramenta que converte documentos, ideias e slides flat de IA em arquivos .pptx nativos e 100% editáveis, com processamento em lotes. Fez 63 estrelas em 48 horas.",
+          "source": "github.com/123zhaozheng/SlideForge"
+        },
+        {
+          "title": "Kaju: anotações humanas dentro do Claude Code",
+          "body": "Ferramenta open-source para anotar e comentar código em colaboração com o Claude Code direto no terminal, apresentada no Show HN de 26/11.",
+          "source": "github.com/aigeano/kaju"
+        },
+        {
+          "title": "Left to Solve: 57.410 problemas abertos no alvo de agentes",
+          "body": "A plataforma lista os 57.410 problemas em aberto da matemática e organiza o ataque a eles por agentes de IA, com acompanhamento público.",
+          "source": "lefttosolve.com"
+        },
+        {
+          "title": "O agente ganha causa própria para defender",
+          "body": "Privacidade saiu do discurso e virou script com 436 estrelas e agente rodando no bolso. Do outro lado, quem revisa código por LLM agora tem benchmark de adversário. E a matemática aberta, com 57 mil problemas listados, vira campo de prova público da capacidade agêntica."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-27",
       "date": "2026-11-27",
       "hook": "Panorama IA: 27 de novembro",
