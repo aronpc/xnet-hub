@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-26-23h33",
+      "date": "2026-11-26",
+      "time": "23h33",
+      "hook": "A noite mudou de figura: bitcoin passou dos 60,9 mil que seguraram a cotação o dia todo e chegou a 61,7 mil, a poucos dólares do teto das últimas 24 horas (61,9 mil). São quatro fechamentos de hora em alta, de 60,6 a 61,7 mil, e pela primeira vez no dia os contratos abertos e o volume acompanham a subida. Leitura das 23h33.",
+      "caption": "60,9 mil cedeu na 22h30 e o preço foi direto encostar na marca de 61,9 mil\n\nLeia: https://xbtc.aronpc.dev/#2026-11-26-23h33",
+      "link": "https://xbtc.aronpc.dev/#2026-11-26-23h33",
+      "slides": [
+        {
+          "title": "Quatro velas de alta e o teto do dia a um passo",
+          "body": "60,9 mil cedeu na 22h30 e o preço foi direto encostar na marca de 61,9 mil"
+        },
+        {
+          "title": "US$ 61,7 mil",
+          "body": "Δ1h +1,18% · Δ24h +0,99% · vol US$ 0,94 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL, no limite de cima",
+          "body": "Quatro fechamentos de hora em alta até encostar no teto de 24h (61,9 mil, +0,3%) · Smart money: funding +0,008% + L/S 2,51",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "61,9 mil decide a continuação",
+          "body": "Marca deixada para trás: 60,9 mil (−1,3%) · teto do dia: 61,9 mil (+0,3%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-26-18h32",
       "date": "2026-11-26",
       "time": "18h32",
