@@ -2,6 +2,73 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-27",
+      "date": "2026-11-27",
+      "hook": "Skills e MCP: 27 de novembro",
+      "caption": "Semana negra da confiança em MCP: ladrão de credenciais em framework da Microsoft, backdoor via settings do Claude Code e upsell injetado por servidor oficial. No mesmo pacote, o protocolo ganha gravidade, com a Cloudflare publicando busca para agentes e o Google marcando a data em que agentes só entram no Workspace por MCP. Sete destaques das nove pautas.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-27",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-27",
+      "slides": [
+        {
+          "title": "Skills e MCP: 27 de novembro",
+          "body": "Semana negra da confiança em MCP: ladrão de credenciais em framework da Microsoft, backdoor via settings do Claude Code e upsell injetado por servidor oficial. No mesmo pacote, o protocolo ganha gravidade, com a Cloudflare publicando busca para agentes e o Google marcando a data em que agentes só entram no Workspace por MCP. Sete destaques das nove pautas."
+        },
+        {
+          "title": "Google Workspace: agentes só via MCP a partir de 2027",
+          "body": "O Google fixou 1º de fevereiro de 2027 como a data em que agentes deixam de chamar as REST APIs do Workspace diretamente e passam pelos MCP servers oficiais ou pelo CLI. A cobrança do tier Scaled começa em 1º de abril, e clientes OAuth agent passam a se declarar agentes.",
+          "source": {
+            "label": "AI Tools Recap · 27 nov",
+            "url": "https://aitoolsrecap.com/Blog/google-workspace-agents-must-use-mcp"
+          }
+        },
+        {
+          "title": "Cloudflare publica busca well-known para agentes",
+          "body": "O site liga um toggle e passa a servir, num caminho well-known do domínio, um índice de busca consultável por agentes. A resposta devolve conteúdo recuperado, não texto gerado, porque o agente que chama já tem modelo.",
+          "source": {
+            "label": "AI Tools Recap · 25 nov",
+            "url": "https://aitoolsrecap.com/Blog/cloudflare-search-for-agents-well-known-endpoint"
+          }
+        },
+        {
+          "title": "Framework de agentes da Microsoft saiu com ladrão de credenciais",
+          "body": "Duas releases do pacote Python agent-framework da Microsoft carregavam um credential stealer que rodava a cada start do Python. A correção é pinar na versão 1.26.0.",
+          "source": {
+            "label": "AI Tools Recap · 26 nov",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-november-26-2026"
+          }
+        },
+        {
+          "title": "Backdoor editando o settings do Claude Code",
+          "body": "Atacantes que alteram o arquivo de settings do Claude Code fazem o próprio lançamento da ferramenta baixar e executar um backdoor. O vetor foi reportado como o mais inquietante da semana.",
+          "source": {
+            "label": "AI Tools Recap · 26 nov",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-november-26-2026"
+          }
+        },
+        {
+          "title": "MCP oficial da Notion injeta upsell no contexto",
+          "body": "Usuários descobriram que o MCP server oficial da Notion injeta no contexto do agente instruções escondidas de upsell de plano. A discussão fez 51 pontos no r/ClaudeCode.",
+          "source": {
+            "label": "r/ClaudeCode · 26 nov",
+            "url": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/"
+          }
+        },
+        {
+          "title": "Mozilla lança o firefox-mcp",
+          "body": "A Mozilla publicou um MCP server para controlar e consultar o Firefox, dando ao agente uma janela de navegador de codebase aberta. Apresentado no Show HN de 26/11.",
+          "source": "github.com/mozilla/firefox-mcp"
+        },
+        {
+          "title": "skilltune: skill em prosa compilada e verificada por FSM",
+          "body": "A ferramenta compila arquivos SKILL.md em Hybrid Skill Packages verificados por máquina de estados: checagem formal de que a skill faz o que descreve.",
+          "source": "github.com/prathameshk421/skilltune"
+        },
+        {
+          "title": "O protocolo sobe, a confiança desce",
+          "body": "MCP virou requisito de acesso no maior ecossistema de produtividade do mundo, e na mesma semana três incidentes mostraram o preço de confiar cego em servidor, pacote e settings. A resposta que começa a aparecer é verificação: skill compilada com checagem formal, versão pinada, allowlist de fonte. Confiança em MCP passa a ser coisa auditada, não presumida."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-27",
       "date": "2026-11-27",
       "hook": "Projetos e repos: 27 de novembro",
