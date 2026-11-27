@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-27-10h36",
+      "date": "2026-11-27",
+      "time": "10h36",
+      "hook": "Cedeu o chão que aguentou o dia todo: o bitcoin perdeu os 61,4 mil dólares que sustentavam o preço desde a madrugada e desceu a 61,36 mil, a menor cotação em dez horas. A descida foi devagar, sem venda pesada, e o dia segue dentro da faixa larga de 59,9 a 62,25 mil. Leitura das 10h36.",
+      "caption": "61,36 mil, com queda de 0,28% na hora e alta de 0,90% no dia\n\nLeia: https://xbtc.aronpc.dev/#2026-11-27-10h36",
+      "link": "https://xbtc.aronpc.dev/#2026-11-27-10h36",
+      "slides": [
+        {
+          "title": "Bitcoin perde os 61,4 mil que sustentavam o dia",
+          "body": "61,36 mil, com queda de 0,28% na hora e alta de 0,90% no dia"
+        },
+        {
+          "title": "US$ 61,36 mil",
+          "body": "Δ1h −0,28% · Δ24h +0,90% · vol US$ 0,95 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Décima hora entre 59,9 e 62,25 mil; a linha de 61,4 mil, que segurava desde cedo, virou teto · Smart money: funding virou positivo + L/S 2,35",
+          "source": "https://www.binance.com/en/futures/funding-history/perm/BTCUSDT"
+        },
+        {
+          "title": "Fechamento da hora abaixo de 61,4 mil decide o rumo da faixa",
+          "body": "Suporte 61,3 mil (−0,1%) · Resistência 61,8 mil (+0,7%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-27-07h32",
       "date": "2026-11-27",
       "time": "07h32",
