@@ -2,6 +2,38 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-27-16h32",
+      "date": "2026-11-27",
+      "time": "16h32",
+      "hook": "O tombo de hoje tirou o fôlego do mercado. Desde então o bitcoin roda num corredor entre 59,2 e 60,1 mil dólares, e o ritmo de negócios por hora caiu quase pela metade. Ninguém parece ter pressa, nem de comprar nem de vender. Leitura das 16h32.",
+      "caption": "59,9 mil dólares, com alta de 0,21% na hora e queda de 1,0% no dia\n\nLeia: https://xbtc.aronpc.dev/#2026-11-27-16h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-27-16h32",
+      "slides": [
+        {
+          "title": "Depois do tombo, o mercado do bitcoin fez silêncio",
+          "body": "59,9 mil dólares, com alta de 0,21% na hora e queda de 1,0% no dia"
+        },
+        {
+          "title": "US$ 59,9 mil",
+          "body": "Δ1h +0,21% · Δ24h −1,0% · vol US$ 1,24 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Preço comprimido desde o lavado do meio-dia, sem lado definido · Smart money: funding +0,0052% · L/S 2,97 · OI 98,0 mil BTC parada",
+          "source": "https://www.coinglass.com/FundingRate"
+        },
+        {
+          "title": "O corredor de 59,2 a 60,1 mil decide a próxima hora",
+          "body": "Acima de 60,1 mil (+0,5%), espaço até 60,7 mil · Abaixo de 59,2 mil (−1,0%), fundo de 24h em 58,8 mil"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-27-14h33",
       "date": "2026-11-27",
       "time": "14h33",
