@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-27-12h34",
+      "date": "2026-11-27",
+      "time": "12h34",
+      "hook": "Foi numa hora só: a vela das 11h abriu um buraco dos 61,5 mil aos 59,2 mil dólares, com volume seis vezes a média. O bitcoin opera a 59,75 mil, abaixo da marca de 59,9 mil que o dia inteiro respeitou. E o medo chegou ao extremo: o índice de sentimento marcou 12. Leitura das 12h34.",
+      "caption": "Queda de 2,27% na hora e 0,87% em 24h, a 59,75 mil dólares\n\nLeia: https://xbtc.aronpc.dev/#2026-11-27-12h34",
+      "link": "https://xbtc.aronpc.dev/#2026-11-27-12h34",
+      "slides": [
+        {
+          "title": "A hora que apagou 2,3 mil dólares do bitcoin",
+          "body": "Queda de 2,27% na hora e 0,87% em 24h, a 59,75 mil dólares"
+        },
+        {
+          "title": "US$ 59,75 mil",
+          "body": "Δ1h −2,27% · Δ24h −0,87% · vol US$ 1,17 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Vela das 11h rasgou dos 61,5 aos 59,2 mil com volume 6,4 vezes a média; preço não recupera 59,9 mil · Smart money: funding +0,0025% + L/S 2,72",
+          "source": "https://www.binance.com/en/futures/funding-history/perm/BTCUSDT"
+        },
+        {
+          "title": "Fechar a hora abaixo de 58,8 mil estende a queda aos 58,4 mil",
+          "body": "Suporte 58,8 mil (−1,6%) · Resistência 59,9 mil (+0,3%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-27-10h36",
       "date": "2026-11-27",
       "time": "10h36",
