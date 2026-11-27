@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-27-07h32",
+      "date": "2026-11-27",
+      "time": "07h32",
+      "hook": "O bitcoin começa o dia parado no mesmo lugar: são sete horas girando entre 61,4 e 62,25 mil dólares, sem força para fechar acima da máxima do dia e sem vontade de devolver o chão. A novidade da manhã está nas apostas: pela primeira vez no dia, quem aposta na queda passou a pagar para manter a posição. Leitura das 07h32.",
+      "caption": "61,61 mil, com queda de 0,10% na hora e alta de 1,39% no dia\n\nLeia: https://xbtc.aronpc.dev/#2026-11-27-07h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-27-07h32",
+      "slides": [
+        {
+          "title": "Bitcoin sete horas encalhado logo abaixo dos 62 mil",
+          "body": "61,61 mil, com queda de 0,10% na hora e alta de 1,39% no dia"
+        },
+        {
+          "title": "US$ 61,61 mil",
+          "body": "Δ1h −0,10% · Δ24h +1,39% · vol US$ 0,93 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Sete horas num corredor de 100 dólares, sem fechar acima de 62,25 mil nem perder 61,4 · Smart money: funding −0,0003% + L/S 2,42",
+          "source": "https://www.binance.com/en/futures/funding-history/perm/BTCUSDT"
+        },
+        {
+          "title": "Um fechamento de hora acima de 62,25 mil muda o dia",
+          "body": "Suporte 61,4 mil (−0,3%) · Resistência 62,25 mil (+1,0%)",
+          "source": "https://www.binance.com/en/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-27-05h33",
       "date": "2026-11-27",
       "time": "05h33",
