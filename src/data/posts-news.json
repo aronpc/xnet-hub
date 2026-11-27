@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-27",
+      "date": "2026-11-27",
+      "hook": "Panorama IA: 27 de novembro",
+      "caption": "O dia fecha o ciclo da prova de Riemann e acende o risco nos dois lados. Estudo acadêmico mede a bolha de IA com número, a memória vira gargalo do custo e o alvo de ataque muda do humano para o agente. Sete destaques das dez pautas do dia.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-27",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-27",
+      "slides": [
+        {
+          "title": "Panorama IA: 27 de novembro",
+          "body": "O dia fecha o ciclo da prova de Riemann e acende o risco nos dois lados. Estudo acadêmico mede a bolha de IA com número, a memória vira gargalo do custo e o alvo de ataque muda do humano para o agente. Sete destaques das dez pautas do dia."
+        },
+        {
+          "title": "Estudo vê até 97% de chance de bolha nas ações de IA",
+          "body": "Pesquisadores da London Business School e de Cambridge analisaram 170 anos de jornalismo financeiro e chegaram a até 97% de probabilidade de as ações de IA estarem em bolha, em nível comparável ao da era dot-com. A chance implícita de crash era de cerca de 20% em seis meses. O estudo saiu no auge do sell-off global.",
+          "source": {
+            "label": "London Business School · 25 nov",
+            "url": "https://www.london.edu/think/ai-bubble-about-to-burst"
+          }
+        },
+        {
+          "title": "Fundo de Aschenbrenner perde 65% no 3º trimestre",
+          "body": "O veículo de investimento de Leopold Aschenbrenner, autor de Situational Awareness, comunicou aos investidores queda de 65% no terceiro trimestre. O nome mais conhecido da tese mais otimista da IA amargou o próprio aperto do mercado.",
+          "source": {
+            "label": "WSJ · 26 nov",
+            "url": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797"
+          }
+        },
+        {
+          "title": "Falta de memória encarece eletrônicos e custo de IA",
+          "body": "O WSJ reporta que a escassez de chips de memória, HBM e DRAM, está pressionando os preços de eletrônicos e o custo de servir IA. A restrição de oferta apareceu exatamente no lugar onde todo mundo treina e serve modelo.",
+          "source": {
+            "label": "WSJ · 26 nov",
+            "url": "https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a"
+          }
+        },
+        {
+          "title": "Anthropic reescreve caminho da API do Claude em Rust",
+          "body": "A Anthropic trocou o caminho de requisições da API do Claude por código Rust e publicou o processo usado para provar que a troca era segura antes de entrar em produção.",
+          "source": {
+            "label": "AI Tools Recap · 27 nov",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-november-27-2026"
+          }
+        },
+        {
+          "title": "Torvalds: \"diga ao seu companheiro de IA para se recompor\"",
+          "body": "Em thread do kernel sobre código EXT4 gerado por IA, Linus Torvalds detonou a qualidade do output de agentes de IA e mandou desenvolvedores cobrarem mais das ferramentas que usam.",
+          "source": {
+            "label": "Phoronix · 27 nov",
+            "url": "https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big"
+          }
+        },
+        {
+          "title": "Agentes de IA também caem em honeypots",
+          "body": "Pesquisadores demonstraram honeypots desenhados para atrair e desorientar agentes autônomos que navegam a web em nome de usuários, reporta a Wired. O alvo deixou de ser o humano que clica no link errado: agora é o agente que decide sozinho o que é confiável.",
+          "source": {
+            "label": "Wired · 26 nov",
+            "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
+          }
+        },
+        {
+          "title": "Prova de Riemann por IA é \"quase certamente verdadeira\"",
+          "body": "A verificação independente da prova assistida por Claude, assinada por Levent Alpöge com a Anthropic, avança: a Scientific American reporta consenso de matemáticos de que o resultado é quase certamente verdadeiro, o WSJ publicou perfil dos autores e novos mapas interativos da prova apareceram.",
+          "source": {
+            "label": "Scientific American · 26 nov",
+            "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest"
+          }
+        },
+        {
+          "title": "O risco ganha número e o alvo muda de lado",
+          "body": "A bolha deixou de ser opinião e ganhou estimativa acadêmica, o gargalo de hardware desceu do processador para a memória e a superfície de ataque migrou do humano para o agente. No meio disso, a prova de Riemann fechou o ciclo de validação: a semana termina com a IA entregando o maior resultado matemático dela justamente quando o mercado cobra o preço."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-26",
       "date": "2026-11-26",
       "hook": "Skills e MCP: 26 de novembro",
