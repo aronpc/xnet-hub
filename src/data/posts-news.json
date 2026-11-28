@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "projetos-2026-11-28",
+      "date": "2026-11-28",
+      "hook": "Projetos: 28 de novembro",
+      "caption": "Sete ferramentas de hoje: economia de token medida em agente real, review que roteia cada pedaço do diff, o grafo das sessões dos seus agentes e mais.\n\nLeia: https://xnews.aronpc.dev/#projetos-2026-11-28",
+      "link": "https://xnews.aronpc.dev/#projetos-2026-11-28",
+      "slides": [
+        {
+          "title": "Projetos: 28 de novembro",
+          "body": "Sete ferramentas de hoje: economia de token medida em agente real, review que roteia cada pedaço do diff, o grafo das sessões dos seus agentes e mais."
+        },
+        {
+          "title": "ghostmode corta 60% do token burn com Code Mode",
+          "body": "Dev open-sourcou sua implementação de Code Mode, o padrão em que o agente escreve scripts que rodam em vez de raciocinar token a token. Mediu cerca de 60% menos consumo no agente Rust dele.",
+          "source": {
+            "label": "github.com/legend-of-alan/ghostmode",
+            "url": "https://github.com/legend-of-alan/ghostmode"
+          }
+        },
+        {
+          "title": "Tierview manda cada hunk pro modelo certo",
+          "body": "Ferramenta de review para o Claude Code classifica cada pedaço do diff e despacha os simples para modelos menores e mais baratos, guardando o modelo caro para o que importa.",
+          "source": {
+            "label": "github.com/moelsaka01/tierview",
+            "url": "https://github.com/moelsaka01/tierview"
+          }
+        },
+        {
+          "title": "SessionGraph: suas sessões de agente num grafo",
+          "body": "Ferramenta visualiza em grafo interativo todas as sessões dos coding agents (Claude Code, Codex e outros), com caminhos, ramificações e retomadas.",
+          "source": {
+            "label": "sessiongraph.ai",
+            "url": "https://sessiongraph.ai/"
+          }
+        },
+        {
+          "title": "Inkling 2 Mini a 101 tok/s num único GB10",
+          "body": "Engenharia inversa extraiu 101 tokens por segundo do Inkling 2 Mini rodando em vLLM sobre um GB10, o chip do DGX Spark, com passos concretos de configuração.",
+          "source": {
+            "label": "runtimenotes.com",
+            "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/"
+          }
+        },
+        {
+          "title": "Ditado silencioso por leitura labial",
+          "body": "Projeto open-source usa leitura labial rodando no próprio dispositivo para ditar em silêncio para o Claude Code, sem microfone captando áudio.",
+          "source": {
+            "label": "github.com/batanus/lip-dictation",
+            "url": "https://github.com/batanus/lip-dictation"
+          }
+        },
+        {
+          "title": "Unterm: terminal GPU em Rust para sessão de agente",
+          "body": "Terminal acelerado por GPU construído do zero para CLI de agentes como Claude Code, Codex e Agy, com renderização feita para o volume de output dessas ferramentas.",
+          "source": {
+            "label": "unterm.app",
+            "url": "https://unterm.app/"
+          }
+        },
+        {
+          "title": "usecodela: memória de agente apoiada em banco",
+          "body": "Show HN de um backend que dá aos agentes memória persistente com banco de produção por trás, com o dev contando a arquitetura.",
+          "source": {
+            "label": "usecodela.com",
+            "url": "https://usecodela.com/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A microferramentaria em volta do Claude Code consolidou categorias próprias: observabilidade de sessão, portabilidade, economia de token medida e roteamento por hunk. As duas ideias que valem testar nos próprios fluxos são o Code Mode com ganho medido (60% menos token) e o roteamento de hunk no review."
+        }
+      ]
+    },
+    {
       "id": "ia-2026-11-28",
       "date": "2026-11-28",
       "hook": "IA: 28 de novembro",
