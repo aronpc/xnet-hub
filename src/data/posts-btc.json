@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-28-04h32",
+      "date": "2026-11-28",
+      "time": "04h32",
+      "hook": "Em doze horas a linha de 59,7 mil foi testada quatro vezes. Na quarta, cedeu: 59,6 mil, o preço pela primeira vez abaixo do nível. Falta confirmação, nenhuma vela de uma hora fechou embaixo. Madrugada de sábado, movimento fino. Leitura das 04h32.",
+      "caption": "59,6 mil dólares, queda de 3,4% no dia\n\nLeia: https://xbtc.aronpc.dev/#2026-11-28-04h32",
+      "link": "https://xbtc.aronpc.dev/#2026-11-28-04h32",
+      "slides": [
+        {
+          "title": "A linha de 59,7 mil segurou três testes. No quarto, cedeu.",
+          "body": "59,6 mil dólares, queda de 3,4% no dia"
+        },
+        {
+          "title": "US$ 59,6 mil",
+          "body": "Δ1h −0,21% · Δ24h −3,4% · vol US$ 1,07 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Primeiro furo no canal de 12 horas, com a pressão de venda saltando de 0,78× a 2,04× · Smart money: funding +0,0075%, L/S 2,91",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "Falta a vela fechando abaixo de 59,7 mil",
+          "body": "Se fechar: 59,2 mil (−0,7%) e o fundo das últimas 24 horas, 58,8 mil (−1,4%) · De volta acima de 60,0 mil (+0,6%), toque falso de madrugada",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-27-20h31",
       "date": "2026-11-27",
       "time": "20h31",
