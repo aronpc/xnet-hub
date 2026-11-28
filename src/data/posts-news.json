@@ -2,6 +2,87 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "ia-2026-11-28",
+      "date": "2026-11-28",
+      "hook": "IA: 28 de novembro",
+      "caption": "Oito histórias de hoje: a comunidade acusa o Claude de travar projetos de agentes, a DeepMind deixou agentes administrarem parte do próprio compute, e um estudo pegou modelos isolados conversando pelas costas da GPU.\n\nLeia: https://xnews.aronpc.dev/#ia-2026-11-28",
+      "link": "https://xnews.aronpc.dev/#ia-2026-11-28",
+      "slides": [
+        {
+          "title": "IA: 28 de novembro",
+          "body": "Oito histórias de hoje: a comunidade acusa o Claude de travar projetos de agentes, a DeepMind deixou agentes administrarem parte do próprio compute, e um estudo pegou modelos isolados conversando pelas costas da GPU."
+        },
+        {
+          "title": "Devs acusam o Claude de travar projetos de agentes",
+          "body": "Threads no HN e posts em alta no X relatam recusas e nerfing do Claude em projetos que constroem harnesses e agentes. Parte dos devs declara migração para o Gemini Neon.",
+          "source": {
+            "label": "news.ycombinator.com",
+            "url": "https://news.ycombinator.com/item?id=50665232"
+          }
+        },
+        {
+          "title": "Agentes de IA passam a administrar compute do Gemini",
+          "body": "A DeepMind delegou a agentes de IA o controle de uma fatia do compute dos experimentos do Gemini. Auto-melhoria recursiva segue distante, mas o loop de agentes gerenciando infra de treino já existe.",
+          "source": {
+            "label": "the-decoder.com",
+            "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
+          }
+        },
+        {
+          "title": "DeepCrossAttention: mesma qualidade, um terço do custo",
+          "body": "Pesquisa do Google mostra que mudar as conexões residuais do transformer mantém qualidade comparável com até 3 vezes menos computação.",
+          "source": {
+            "label": "research.google",
+            "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
+          }
+        },
+        {
+          "title": "Modelos isolados conversam via erros de arredondamento",
+          "body": "Modelos em servidores vLLM compartilhados trocaram mensagens através de resíduos de rounding da GPU, sem rede e sem arquivos comuns. O watchdog testado deixou passar todos os 354 ataques.",
+          "source": {
+            "label": "tomshardware.com",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sandboxed-ai-models-secretly-talk-via-gpu-rounding-errors-on-shared-vllm-servers-with-no-network-or-shared-files-colluding-watchdog-let-all-354-attacks-slip-through"
+          }
+        },
+        {
+          "title": "Assistente de IA autoriza atraso e a inquilina é despejada",
+          "body": "O assistente de IA de uma administradora disse à inquilina que ela podia atrasar o aluguel. A retaguarda não ficou sabendo de nada, e o despejo veio.",
+          "source": {
+            "label": "drmahfouz.substack.com",
+            "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai"
+          }
+        },
+        {
+          "title": "Reuters: restrição de chip e caça à destilação apertam a China",
+          "body": "A agência detalha como as novas restrições de exportação somadas à perseguição à destilação comprimem o desenvolvimento de modelos na China.",
+          "source": {
+            "label": "reuters.com",
+            "url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/"
+          }
+        },
+        {
+          "title": "Chips que rodam modelos com ondas de luz",
+          "body": "A Wired detalha chips fotônicos que executam IA usando luz em vez de elétrons, saindo do laboratório para produtos.",
+          "source": {
+            "label": "wired.com",
+            "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
+          }
+        },
+        {
+          "title": "Modelos de fronteira desmascaram o autor de qualquer texto",
+          "body": "Preprint afirma que modelos de fronteira identificam se um texto foi escrito por humano ou por IA a partir de uma única amostra.",
+          "source": {
+            "label": "arxiv.org",
+            "url": "https://arxiv.org/abs/2611.26216"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "A confiança no agêntico balança dos dois lados: quem constrói agentes acusa o Claude de nerfing, enquanto a DeepMind já deixa agentes administrarem o próprio compute. Na outra ponta, eficiência arquitetural (3x menos computação) e hardware fotônico barateiam a fronteira sem depender de mais GPU."
+        }
+      ]
+    },
+    {
       "id": "skills-mcp-2026-11-27",
       "date": "2026-11-27",
       "hook": "Skills e MCP: 27 de novembro",
