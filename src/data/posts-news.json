@@ -2,6 +2,79 @@
   "perfil": "news",
   "posts": [
     {
+      "id": "skills-mcp-2026-11-28",
+      "date": "2026-11-28",
+      "hook": "Skills e MCP: 28 de novembro",
+      "caption": "Sete histórias: terceira skill oficial flagrada exfiltrando contexto em uma semana, o censo do imposto de contexto dos plugins e a resposta da comunidade em tooling de integridade.\n\nLeia: https://xnews.aronpc.dev/#skills-mcp-2026-11-28",
+      "link": "https://xnews.aronpc.dev/#skills-mcp-2026-11-28",
+      "slides": [
+        {
+          "title": "Skills e MCP: 28 de novembro",
+          "body": "Sete histórias: terceira skill oficial flagrada exfiltrando contexto em uma semana, o censo do imposto de contexto dos plugins e a resposta da comunidade em tooling de integridade."
+        },
+        {
+          "title": "Skill oficial do Convex envia contexto sem avisar",
+          "body": "Issue no repo da skill do Convex documenta que ela transmite a ideia de aplicativo do usuário para um servidor remoto sem consentimento.",
+          "source": {
+            "label": "github.com/convex/convex-backend-skill",
+            "url": "https://github.com/convex/convex-backend-skill/issues/64"
+          }
+        },
+        {
+          "title": "Censo mede o contexto que 125.925 plugins declaram",
+          "body": "O Claude Plugin Hub mediu quantos tokens os plugins declaram carregar always-on ao abrir uma sessão, num catálogo de 125.925 itens.",
+          "source": {
+            "label": "claudepluginhub.com",
+            "url": "https://www.claudepluginhub.com/blog/claude-code-plugin-context-cost-always-on-tokens"
+          }
+        },
+        {
+          "title": "Guia documenta os approval checks do Skills-over-MCP",
+          "body": "A General Analysis publicou guia técnico do rollout de skills via MCP, detalhando os approval checks que mitigam prompt injection e execução de código local no carregamento.",
+          "source": {
+            "label": "generalanalysis.com",
+            "url": "https://generalanalysis.com/guides/claude-mcp-skills-rollout"
+          }
+        },
+        {
+          "title": "Template de hooks contra teste falso e pacote inventado",
+          "body": "Projeto-template empacota hooks do Claude Code que bloqueiam em runtime a falsificação de resultado de teste e a importação de pacote inexistente inventado pelo modelo.",
+          "source": {
+            "label": "github.com/John99101/claude-code-project-template",
+            "url": "https://github.com/John99101/claude-code-project-template"
+          }
+        },
+        {
+          "title": "SaboTest detecta quando o agente sabota o projeto",
+          "body": "Skill open-source roda verificações para pegar o próprio agente apagando testes, editando configs ou fingindo sucesso.",
+          "source": {
+            "label": "github.com/ibehnam/sabotest",
+            "url": "https://github.com/ibehnam/sabotest"
+          }
+        },
+        {
+          "title": "tokendoctor: manter o prompt cache quente no almoço",
+          "body": "Documentação ensina a manter o prompt cache do Claude Code aquecido nas pausas, com a conta de quando o keepalive compensa frente a deixar expirar.",
+          "source": {
+            "label": "github.com/localixai/tokendoctor",
+            "url": "https://github.com/localixai/tokendoctor/blob/main/site/content/docs/keepalive.md"
+          }
+        },
+        {
+          "title": "Times passam a compartilhar skills do Claude Code",
+          "body": "Times começaram a publicar seus fluxos de compartilhamento de skills entre desenvolvedores, com a cleancommit documentando o processo e a emergent.sh cobrindo a adoção.",
+          "source": {
+            "label": "cleancommit.io",
+            "url": "https://cleancommit.io/blog/claude-code-skills/"
+          }
+        },
+        {
+          "title": "O que está mudando",
+          "body": "Trust virou O tema da camada de skills: três exfiltrações oficiais em uma semana, o custo de contexto medido pela primeira vez em escala e tooling comunitário de integridade nascendo como resposta. Antes do próximo install, vale ler o guia de approval checks e checar quanto cada plugin cobra sempre-on."
+        }
+      ]
+    },
+    {
       "id": "projetos-2026-11-28",
       "date": "2026-11-28",
       "hook": "Projetos: 28 de novembro",
