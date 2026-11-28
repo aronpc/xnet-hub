@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-27-20h31",
+      "date": "2026-11-27",
+      "time": "20h31",
+      "hook": "Sete velas seguidas na baixa e, na oitava, um fechamento em alta: 59,8 mil dólares. O ritmo de negócios voltou ao normal pela primeira vez desde o meio-dia, ainda sem direção. O preço segue entre 59,2 e 60,1 mil. Leitura das 20h31.",
+      "caption": "59,8 mil dólares, com alta de 0,14% na hora e queda de 1,0% no dia\n\nLeia: https://xbtc.aronpc.dev/#2026-11-27-20h31",
+      "link": "https://xbtc.aronpc.dev/#2026-11-27-20h31",
+      "slides": [
+        {
+          "title": "Sete horas de queda e, enfim, um fechamento em alta",
+          "body": "59,8 mil dólares, com alta de 0,14% na hora e queda de 1,0% no dia"
+        },
+        {
+          "title": "US$ 59,8 mil",
+          "body": "Δ1h +0,14% · Δ24h −1,0% · vol US$ 1,27 bi",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "LATERAL",
+          "body": "Primeiro fechamento em alta em 7 velas, com negócios de volta à média · Smart money: funding +0,0086%, subindo pela 3ª vez · L/S 2,97",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "A noite decide entre 60,1 e 59,2 mil",
+          "body": "Acima de 60,1 mil (+0,5%), caminho ao buraco de 60,7 mil · Abaixo de 59,2 mil (−1,0%), o menor preço de 24h, em 58,8 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-27-19h32",
       "date": "2026-11-27",
       "time": "19h32",
