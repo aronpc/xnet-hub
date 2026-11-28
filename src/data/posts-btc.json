@@ -2,6 +2,39 @@
   "perfil": "btc",
   "posts": [
     {
+      "id": "2026-11-28-07h30",
+      "date": "2026-11-28",
+      "time": "07h30",
+      "hook": "A madrugada segurou 59,2 mil enquanto pôde; pouco depois das sete, não segurou mais. Bitcoin negocia a 59,3 mil dólares, no trecho mais baixo da faixa de 24 horas, e a queda encontra pouca defesa: três de cada quatro contas estavam posicionadas para alta. Clima de cautela desde ontem. Leitura das 07h30.",
+      "caption": "59,3 mil dólares · queda de 3,8% no dia\n\nLeia: https://xbtc.aronpc.dev/#2026-11-28-07h30",
+      "link": "https://xbtc.aronpc.dev/#2026-11-28-07h30",
+      "slides": [
+        {
+          "title": "O piso da madrugada cedeu, e o preço encosta na casa dos 59",
+          "body": "59,3 mil dólares · queda de 3,8% no dia"
+        },
+        {
+          "title": "US$ 59,3 mil",
+          "body": "−0,5% na última hora, −3,8% no dia · volume de US$ 25,1 bi em 24h",
+          "source": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "title": "BAIXA",
+          "body": "Preço no trecho mais baixo da faixa de 24h (58,8 a 61,8 mil), abaixo do piso da madrugada · Smart money: funding +0,007%, 74% das contas na alta (L/S 2,86)",
+          "source": "https://www.coinglass.com/bitcoin"
+        },
+        {
+          "title": "O dia se decide entre 59,0 e 60,0 mil",
+          "body": "Abaixo de 59,0 mil (−0,5%), vem 58,8 mil, a mínima de 24h · De volta a 60,0 mil (+1,2%), alívio até 60,2 mil",
+          "source": "https://www.binance.com/pt-BR/trade/BTC_USDT"
+        },
+        {
+          "title": "Acompanhe o mercado",
+          "body": "O intraday atualiza de hora em hora"
+        }
+      ]
+    },
+    {
       "id": "2026-11-28-04h32",
       "date": "2026-11-28",
       "time": "04h32",
